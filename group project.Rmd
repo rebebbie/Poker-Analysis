@@ -205,13 +205,137 @@ ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
 
 - wanted to compare proportions
 
+- doesn't include rounds where player won by getting default (everyone else folds)
+
 - In least experienced groups, players seem to have more reliance on the dealt hand to win (wins/losses are least consistent in the worst dealt hand, the off-suited non-pair). Meanwhile, the most experienced group seems to know how to handle the off-suited non-pair hands, whether it's by bluffing or finding a good final hand with a straight. This could also imply that more experienced players know when to fold to minimize their losses
 
 - The rarest starting hand, the pair, seems to generally allow players to win more than they lose, which means that the starting hand *can* help a player win a showdown, but as seen in the difference between newer players and experienced players, good poker players will also be able to make the most out of a bad starting hand. 
 
+### Frequency of Play
 
+```{r}
+
+# Get list of files
+filenames <- list.files("data/holdemtest")
+
+# Create full file paths
+full_paths <- paste("data/holdemtest", filenames, sep="/")
+
+# Read files with read.table()
+all_data <- lapply(full_paths, function(x) {
+  read.table(x, header = FALSE, fill = TRUE, stringsAsFactors = FALSE)
+})
+
+# Find the maximum number of columns across all files
+max_cols <- max(sapply(all_data, ncol))
+
+# Convert all columns to character type to ensure consistency
+all_data_char <- lapply(all_data, function(df) {
+  # Convert all columns to character
+  for(i in 1:ncol(df)) {
+    df[,i] <- as.character(df[,i])
+  }
+  return(df)
+})
+
+# Combine all dataframes
+gamestest <- bind_rows(all_data_char)
+
+games_fold_bet_1 <- games3 %>% 
+  filter(!is.na(V3), !is.null(V3), V3 != "") %>%
+  mutate(turn_folded = case_when(
+    V5 == "-" ~ "Pre-Flop",
+    V6 == "-" ~ "Flop",
+    V7 == "-" ~ "Turn",
+    V8 == "-" ~ "River",
+    TRUE ~ "Didn't Fold"
+  )) %>%
+  mutate(bet = as.numeric(V10)) %>%
+  select(V5, V6, V7, V8, bet, turn_folded)
+
+games_played_hands_1 <- games1 %>%
+  filter(!is.na(V3), !is.null(V3), V3 != "") %>%
+  mutate(player = as.character(V1)) %>%
+  group_by(player)%>%
+  mutate(did_fold = case_when(
+    V8 == "-" ~ 1,
+    TRUE ~ 0
+  )) %>%
+  summarize(
+    N = n(),
+    num_folded = sum(did_fold),
+    num_played = N-num_folded,
+    proportion_played = num_played/(num_played+num_folded),
+    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    #bankroll_diff = end_bankroll - start_bankroll
+  )
+
+games_played_hands_2 <- games2 %>%
+  filter(!is.na(V3), !is.null(V3), V3 != "") %>%
+  mutate(player = as.character(V1)) %>%
+  group_by(player)%>%
+  mutate(did_fold = case_when(
+    V8 == "-" ~ 1,
+    TRUE ~ 0
+  )) %>%
+  summarize(
+    N = n(),
+    num_folded = sum(did_fold),
+    num_played = N-num_folded,
+    proportion_played = num_played/(num_played+num_folded),
+    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    #bankroll_diff = end_bankroll - start_bankroll
+  )
+
+games_played_hands_3 <- games3 %>%
+  filter(!is.na(V3), !is.null(V3), V3 != "") %>%
+  mutate(player = as.character(V1)) %>%
+  group_by(player)%>%
+  mutate(did_fold = case_when(
+    V8 == "-" ~ 1,
+    TRUE ~ 0
+  )) %>%
+  summarize(
+    N = n(),
+    num_folded = sum(did_fold),
+    num_played = N-num_folded,
+    proportion_played = num_played/(num_played+num_folded),
+    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    #bankroll_diff = end_bankroll - start_bankroll
+  )
+
+#ggplot(data=games_fold_bet_1, aes(x=turn_folded, y=bet)) +
+#  geom_boxplot(na.rm=T) +
+#  coord_cartesian(ylim = c(0, 150)) 
+
+ggplot(games_played_hands_1, aes(x=proportion_played))+
+  geom_histogram(bins=100)+
+  coord_cartesian(xlim = c(0, 1))
+
+ggplot(games_played_hands_2, aes(x=proportion_played))+
+  geom_histogram(bins=100)+
+  coord_cartesian(xlim = c(0, 1))
+
+ggplot(games_played_hands_3, aes(x=proportion_played))+
+  geom_histogram(bins=100)+
+  coord_cartesian(xlim = c(0, 1))
+```
+
+- As experience increases, the desire to play hands tend to decrease. It seems that across the board, you shouldn't be playing much more than one hand per every four or five rounds on average. 
+
+
+It is clear from the preliminary data analysis that there is a notable difference between experienced players and newer players. However, our analysis is currently too limited to make any actual conclusions about how to reliably win at poker. We need some way for all of our variables to be incorporated into the final decision. To do this, we use Bayesian inference to improve on our findings and to make better use of this data. 
+
+- is my starting hand playable?
+- is this pot worth the risk?
+- when should I fold?
+- are my opponents bluffing?
+- opponents will also consider all this... 
 
 
 TODO:
 - Add titles to plots
-- Add more analysis (not sure what yet)
+- introduce buckets before first chart
