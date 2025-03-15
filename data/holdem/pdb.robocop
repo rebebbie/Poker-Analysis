@@ -1,0 +1,285 @@
+robocop   957375439  5  5 r   r     b     b          635  100  295 Ah Qh
+robocop   957375480  5  4 cc  f     -     -          830   20    0 
+robocop   957375514  5  3 cc  c     c     c          810   80    0 7s Ad
+robocop   957375547  6  2 Bc  k     kf    -          730   20    0 
+robocop   957375592  6  1 Bc  kc    k     br         710  110  370 Tc 7c
+robocop   957375635  6  6 cc  cc    c     r          970  130  505 Ts 8s
+robocop   957375689  6  5 c   c     f     -         1345   20    0 
+robocop   957375742  8  6 f   -     -     -         1325    0    0 
+robocop   957375787  8  5 f   -     -     -         1325    0    0 
+robocop   957375818  8  4 f   -     -     -         1325    0    0 
+robocop   957375863  8  3 f   -     -     -         1325    0    0 
+robocop   957375901  8  2 Bf  -     Q     -         1325   10    0 
+robocop   957376046  7  5 f   -     -     -         1315    0    0 
+robocop   957376058  7  4 c   c     r     b         1315   90  225 9c Tc
+robocop   957376097  6  3 c   cc    c     c         1450   80    0 Jc Qh
+robocop   957376140  6  2 Bk  kf    -     -         1370   10    0 
+robocop   957376158  5  1 Bc  b     -     -         1360   20   50 
+robocop   957376171  5  5 f   -     -     -         1390    0    0 
+robocop   957376189  5  4 f   -     -     -         1390    0    0 
+robocop   957376218  5  3 f   -     -     -         1390    0    0 
+robocop   957376236  5  2 Bc  bc    k     k         1390   40  140 Kc 8c
+robocop   957376267  5  1 Bc  k     kc    kf        1490   30    0 
+robocop   957376309  5  5 c   k     b     b         1460   50   95 
+robocop   957376354  5  4 c   c     k     c         1505   40   95 Jd Js
+robocop   957376379  5  3 c   k     k     f         1560   10    0 
+robocop   957376431  5  2 Bk  f     -     -         1550   10    0 
+robocop   957376463  6  1 Bcc kc    k     kc        1540   50    0 Th Qd
+robocop   957376495  6  6 c   c     k     b         1490   40  125 9c Ah
+robocop   957376548  5  4 c   k     Q     -         1575   10    0 
+robocop   957379010 10  5 f   -     -     -         1565    0    0 
+robocop   957379058 10  4 f   -     -     -         1565    0    0 
+robocop   957379101 10  3 f   -     -     -         1565    0    0 
+robocop   957379139 10  2 Bk  c     c     c         1565   60    0 Jd Jh
+robocop   957379198 10  1 Bc  k     kc    bc        1505   70    0 Tc 9h
+robocop   957379260 10 10 c   f     -     -         1435   10    0 
+robocop   957379318 10  9 f   -     -     -         1425    0    0 
+robocop   957379354 10  8 c   c     f     -         1425   20    0 
+robocop   957379394 10  7 f   -     -     -         1405    0    0 
+robocop   957379446 10  6 c   kc    kc    kf        1405   40    0 
+robocop   957379498 10  5 f   -     -     -         1365    0    0 
+robocop   957379526 10  4 f   -     -     -         1365    0    0 
+robocop   957379565 10  3 f   -     -     -         1365    0    0 
+robocop   957379606 10  2 Bf  -     -     -         1365   10    0 
+robocop   957379673 10  1 Bf  -     -     -         1355    5    0 
+robocop   957379714 10 10 f   -     -     -         1350    0    0 
+robocop   957379759 10  9 c   c     r     br        1350  130  460 Qh Jh
+robocop   957379839 10  8 c   c     k     f         1680   40    0 
+robocop   957379904 10  7 c   c     f     -         1640   40    0 
+robocop   957379987 10  6 f   -     -     -         1600    0    0 
+robocop   957380018 10  5 f   -     -     -         1600    0    0 
+robocop   957380080 10  4 f   -     -     -         1600    0    0 
+robocop   957380092 10  3 c   c     b     b         1600   60  165 Ts Jh
+robocop   957380128 10  2 Bk  kf    -     -         1705   10    0 
+robocop   957380161 10  1 Bc  k     k     kf        1695   10    0 
+robocop   957380185 10 10 f   -     -     -         1685    0    0 
+robocop   957380253 10  9 c   c     f     -         1685   20    0 
+robocop   957380337 10  8 f   -     -     -         1665    0    0 
+robocop   957380386 10  7 c   c     f     -         1665   20    0 
+robocop   957380424 10  6 c   k     k     k         1645   10    0 8c Qc
+robocop   957380509 10  5 c   k     b     b         1635   50    0 9s Ah
+robocop   957380607  8  3 fQ  -     -     -         1585    0    0 
+robocop   957385765 10  5 f   -     -     -         1585    0    0 
+robocop   957385805 10  4 f   -     -     -         1585    0    0 
+robocop   957385862 10  3 f   -     -     -         1585    0    0 
+robocop   957385900 10  2 Bk  kf    -     -         1585   10    0 
+robocop   957385944 10  1 Bc  bc    k     k         1575   40  150 6s 6d
+robocop   957385987 10 10 f   -     -     -         1685    0    0 
+robocop   957386044 10  9 KQ  -     -     -         1685    0    0 
+robocop   957462154 10  2 Bc  kf    -     -         1725   20    0 
+robocop   957462215 10  1 Bc  kc    kf    -         1705   20    0 
+robocop   957462278 10 10 c   f     -     -         1685   10    0 
+robocop   957462331  9  8 f   -     -     -         1675    0    0 
+robocop   957462364  9  7 f   -     -     -         1675    0    0 
+robocop   957462428  9  6 f   -     -     -         1675    0    0 
+robocop   957462475  9  5 c   c     c     c         1675   60    0 5s 3s
+robocop   957462538  8  4 f   -     -     -         1615    0    0 
+robocop   957462562  8  3 f   -     -     -         1615    0    0 
+robocop   957462593  8  2 Bc  f     -     -         1615   20    0 
+robocop   957462623  8  1 Bc  kf    -     -         1595   10    0 
+robocop   957462657  8  8 f   -     -     -         1585    0    0 
+robocop   957462706  8  7 r   b     b     b         1585   70  195 
+robocop   957462750  8  6 f   -     -     -         1710    0    0 
+robocop   957462847  6  5 c   c     c     f         1710   50    0 
+robocop   957462893  6  4 f   -     -     -         1660    0    0 
+robocop   957462926  6  3 c   f     -     -         1660   10    0 
+robocop   957462966  6  2 Bf  -     -     -         1650   10    0 
+robocop   957463010  6  1 Bc  k     k     kf        1640   10    0 
+robocop   957463054  6  6 crc b     brc   rr        1630  210  460 Ts Th
+robocop   957463116  5  4 f   -     -     -         1880    0    0 
+robocop   957463136  6  3 f   -     -     -         1880    0    0 
+robocop   957463170  7  2 Bk  k     kf    -         1880   10    0 
+robocop   957463246  6  1 Bc  br    b     -         1870   70  130 
+robocop   957463281  6  6 f   -     -     -         1930    0    0 
+robocop   957463306  6  5 f   -     -     -         1930    0    0 
+robocop   957463351  8  5 c   k     kf    -         1930   10    0 
+robocop   957463391  7  4 c   k     k     k         1920   10   40 Ac 4c
+robocop   957463454  6  3 f   -     -     -         1950    0    0 
+robocop   957463493  6  2 Bk  kc    kc    kc        1950   60    0 Ad 3d
+robocop   957463540  6  1 Bc  kf    -     -         1890   10    0 
+robocop   957463562  6  6 c   f     -     -         1880   20    0 
+robocop   957463576  6  5 f   -     -     -         1860    0    0 
+robocop   957463602  6  4 f   -     -     -         1860    0    0 
+robocop   957463642  6  3 f   -     -     -         1860    0    0 
+robocop   957463675  6  2 Bc  kf    -     -         1860   20    0 
+robocop   957463717  6  1 Bf  -     -     -         1840    5    0 
+robocop   957463794  6  6 f   -     -     -         1835    0    0 
+robocop   957463818  6  5 f   -     -     -         1835    0    0 
+robocop   957463862  6  4 f   -     -     -         1835    0    0 
+robocop   957463932  6  3 f   -     -     -         1835    0    0 
+robocop   957463967  7  2 Bc  kc    kf    -         1835   30    0 
+robocop   957463993  6  1 Br  bc    kc    kf        1805   60    0 
+robocop   957464031  7  5 Q   -     -     -         1745    0    0 
+robocop   958062305  7  4 cc  c     c     f          855   50    0 
+robocop   958062343  5  2 Bf  -     -     -          805   10    0 
+robocop   958062376  5  1 Bf  -     -     -          795    5    0 
+robocop   958062401  5  5 c   b     k     k          790   20   55 Js Ks
+robocop   958062433  5  4 c   k     c     r          825   70  160 9h 5h
+robocop   958062484  5  3 cc  f     -     -          915   20    0 
+robocop   958062511  5  2 Bk  r     -     -          895   30   50 
+robocop   958062524  5  1 Bc  k     kc    kr         915   80  210 7s 5s
+robocop   958062574  5  5 c   k     k     f         1045   10    0 
+robocop   958062615  5  4 f   -     -     -         1035    0    0 
+robocop   958062649  4  2 Bk  kf    -     -         1035   10    0 
+robocop   958062672  4  1 Bcc b     -     -         1025   30   50 
+robocop   958062693  4  4 c   k     f     -         1045   10    0 
+robocop   958062724  4  3 cc  f     -     -         1035   20    0 
+robocop   958062736  4  2 Bk  f     -     -         1015   10    0 
+robocop   958062761  4  1 Bc  k     kc    kf        1005   30    0 
+robocop   958062781  4  4 c   c     c     c          975   80  240 5s 8s
+robocop   958062812  4  3 c   k     f     -         1135   10    0 
+robocop   958062838  5  3 c   kf    -     -         1125   10    0 
+robocop   958062874  5  2 B   -     -     -         1115   10   15 
+robocop   958062881  5  1 Bc  kc    kf    -         1120   30    0 
+robocop   958062907  5  5 c   f     -     -         1090   10    0 
+robocop   958062920  5  4 c   k     b     b         1080   50  100 
+robocop   958062967  5  3 f   -     -     -         1130    0    0 
+robocop   958062991  5  2 Bc  kf    -     -         1130   20    0 
+robocop   958063034  5  1 Bc  kf    -     -         1110   20    0 
+robocop   958063075  6  6 c   c     f     -         1090   30    0 
+robocop   958063104  6  5 c   f     -     -         1060   10    0 
+robocop   958063125  6  4 f   -     -     -         1050    0    0 
+robocop   958063172  6  3 fQ  -     -     -         1050    0    0 
+robocop   958195547 10  6 f   -     -     -         1720    0    0 
+robocop   958195627 10  5 f   -     -     -         1720    0    0 
+robocop   958195668 10  4 f   -     -     -         1720    0    0 
+robocop   958195728 10  3 f   -     -     -         1720    0    0 
+robocop   958195824 10  2 Bc  kf    -     -         1720   30    0 
+robocop   958195905  9  1 Bf  -     -     -         1690    5    0 
+robocop   958195957  8  8 f   -     -     -         1685    0    0 
+robocop   958195987  9  8 c   k     k     f         1685   10    0 
+robocop   958196072  9  8 f   -     -     -         1675    0    0 
+robocop   958196124  9  7 f   -     -     -         1675    0    0 
+robocop   958196205  9  6 f   -     -     -         1675    0    0 
+robocop   958196272  9  5 f   -     -     -         1675    0    0 
+robocop   958196337  9  4 f   -     -     -         1675    0    0 
+robocop   958196456  6  3 f   -     -     -         1675    0    0 
+robocop   958196480  6  2 Bc  kf    -     -         1675   20    0 
+robocop   958196507  5  1 Brr kc    kc    b         1655   90  155 Kd Ks
+robocop   958196554  8  5 f   -     -     -         1720    0    0 
+robocop   958196618  9  3 cc  kcc   kf    -         1720   40    0 
+robocop   958196709  9  3 cc  k     bc    kc        1680   80  185 9h 8s
+robocop   958196749  9  2 Bc  kf    -     -         1785   20    0 
+robocop   958196777  8  1 Bc  kf    -     -         1765   10    0 
+robocop   958196832  8  8 c   c     f     -         1755   30    0 
+robocop   958196900  8  7 f   -     -     -         1725    0    0 
+robocop   958196941  9  6 cc  f     -     -         1725   20    0 
+robocop   958197002  9  5 cc  c     c     c         1705   70    0 Qs Jd
+robocop   958197050  9  4 f   -     -     -         1635    0    0 
+robocop   958197093  9  3 f   -     -     -         1635    0    0 
+robocop   958197135  9  2 Bf  -     -     -         1635   10    0 
+robocop   958197219  9  1 Bf  -     -     -         1625    5    0 
+robocop   958197251  9  9 cc  f     -     -         1620   30    0 
+robocop   958197314 10  9 f   -     -     -         1590    0    0 
+robocop   958197384  9  7 f   -     -     -         1590    0    0 
+robocop   958197425  9  6 cc  rr    brc   bc        1590  200  770 5c 5h
+robocop   958197531  8  5 f   -     -     -         2160    0    0 
+robocop   958197587  7  3 c   c     k     k         2160   20    0 9h Ts
+robocop   958197618  7  3 f   -     -     -         2140    0    0 
+robocop   958197679  7  2 Bk  kf    -     -         2140   10    0 
+robocop   958197729  7  1 Bf  -     -     -         2130    5    0 
+robocop   958197789  7  7 f   -     -     -         2125    0    0 
+robocop   958197815  7  6 f   -     -     -         2125    0    0 
+robocop   958197851  8  6 f   Q     -     -         2125    0    0 
+robocop   958410798 10  8 c   f     -     -         1555   10    0 
+robocop   958410845 10  7 f   -     -     -         1545    0    0 
+robocop   958410918 10  6 f   -     -     -         1545    0    0 
+robocop   958410972 10  5 f   -     -     -         1545    0    0 
+robocop   958411019 10  4 c   b     k     b         1545   40   90 
+robocop   958411062 10  3 f   -     -     -         1595    0    0 
+robocop   958411147 10  2 Bc  k     k     b         1595   40  165 9h 5d
+robocop   958411201 10  1 Bf  -     -     -         1720    5    0 
+robocop   958411263 10 10 c   k     k     f         1715   10    0 
+robocop   958411323 10  9 c   c     k     f         1705   20    0 
+robocop   958411381 10  8 f   -     -     -         1685    0    0 
+robocop   958411421 10  7 f   -     -     -         1685    0    0 
+robocop   958411475 10  6 f   -     -     -         1685    0    0 
+robocop   958411532 10  5 f   -     -     -         1685    0    0 
+robocop   958411560 10  4 f   -     -     -         1685    0    0 
+robocop   958412066  6  5 c   f     -     -         1685   10    0 
+robocop   958412169  4  4 r   b     b     -         1675   50   80 
+robocop   958412189  3  3 f   -     -     -         1705    0    0 
+robocop   958412205  3  2 Bf  -     -     -         1705   10    0 
+robocop   958412210  3  1 Bcc b     -     -         1695   30   50 
+robocop   958412227  3  3 f   -     -     -         1715    0    0 
+robocop   958412232  3  2 Bc  f     -     -         1715   30    0 
+robocop   958412254  3  1 Bc  k     k     k         1685   10   20 Qc Jc
+robocop   958412274  3  3 c   b     -     -         1695   20   35 
+robocop   958412290  3  2 Bc  kf    -     -         1710   20    0 
+robocop   958412301  3  1 Bc  kf    -     -         1690   20    0 
+robocop   958412314  3  3 r   c     k     c         1670   50    0 Td Th
+robocop   958412338  3  2 Brc r     k     r         1620  100  260 As Kd
+robocop   958412373  3  1 Bf  -     -     -         1780    5    0 
+robocop   958412379  4  4 c   k     b     -         1775   30   50 
+robocop   958412415  4  3 f   -     -     -         1795    0    0 
+robocop   958412435  4  2 B   -     -     -         1795   10   15 
+robocop   958412456  3  1 Bc  kf    -     -         1800   20    0 
+robocop   958412476  4  4 f   -     -     -         1780    0    0 
+robocop   958412494  4  3 c   k     k     c         1780   30    0 9c Ks
+robocop   958412527  4  2 Bf  -     -     -         1750   10    0 
+robocop   958412537  4  1 Br  b     b     b         1740   70  140 7s 7d
+robocop   958412587  4  4 c   f     -     -         1810   10    0 
+robocop   958412612  5  4 c   c     f     -         1800   20    0 
+robocop   958412642  5  3 f   -     -     -         1780    0    0 
+robocop   958412664  5  2 Bk  b     b     -         1780   40   75 
+robocop   958412686  5  1 Bc  k     kc    k         1815   40  100 5d 5h
+robocop   958412708  5  5 c   k     f     -         1875   20    0 
+robocop   958412736  5  4 c   f     -     -         1855   10    0 
+robocop   958412767  5  3 c   f     -     -         1845   10    0 
+robocop   958412795  5  2 Bk  kf    -     -         1835   10    0 
+robocop   958412824  6  1 Bc  kf    -     -         1825   20    0 
+robocop   958412874  5  5 f   -     -     -         1805    0    0 
+robocop   958412891  5  4 f   Q     -     -         1805    0    0 
+robocop   958940249  9  4 f   -     -     -         1490    0    0 
+robocop   958940295  9  3 f   -     -     -         1490    0    0 
+robocop   958940345  9  2 Bk  k     kf    -         1490   10    0 
+robocop   958940435  9  1 Bc  kf    -     -         1480   10    0 
+robocop   958940520  9  9 f   -     -     -         1470    0    0 
+robocop   958940565  9  8 f   -     -     -         1470    0    0 
+robocop   958940664  8  6 c   k     f     -         1470   10    0 
+robocop   958940695  8  5 c   k     k     f         1460   10    0 
+robocop   958940745  8  4 r   b     -     -         1450   30   95 
+robocop   958940780  8  3 c   k     b     k         1515   30  105 2h 4h
+robocop   958940834  8  2 Bc  c     f     -         1590   30    0 
+robocop   958940864  9  1 Bf  -     -     -         1560    5    0 
+robocop   958940893 10 10 c   k     f     -         1555   10    0 
+robocop   958941007 10  9 c   f     -     -         1545   10    0 
+robocop   958941087 10  8 cc  kc    kc    kf        1535   50    0 
+robocop   958941166 10  7 f   -     -     -         1485    0    0 
+robocop   958941213 10  6 c   kc    kf    -         1485   20    0 
+robocop   958941277 10  5 f   -     -     -         1465    0    0 
+robocop   958941327 10  4 c   kc    c     c         1465   60    0 Kd Jh
+robocop   958941392 10  3 f   -     -     -         1405    0    0 
+robocop   958941421 10  2 Bk  kc    kf    -         1405   20    0 
+robocop   958941491 10  1 Bc  k     kf    -         1385   10    0 
+robocop   958941678 10 10 f   -     -     -         1375    0    0 
+robocop   958941798 10  9 f   -     -     -         1375    0    0 
+robocop   958941866 10  8 c   f     -     -         1375   10    0 
+robocop   958941914 10  7 c   k     k     f         1365   10    0 
+robocop   958941980 10  6 f   -     -     -         1355    0    0 
+robocop   958942071 10  5 f   -     -     -         1355    0    0 
+robocop   958942129 10  4 c   kf    -     -         1355   10    0 
+robocop   958942189 10  3 f   Q     -     -         1345    0    0 
+robocop   959707831  7  7 c   k     f     -         1345   10    0 
+robocop   959707880  6  5 c   k     k     k         1335   10    0 3d Ad
+robocop   959707958  5  3 fQ  -     -     -         1325    0    0 
+robocop   959708798  7  2 Bk  kc    k     b         1325   40   85 
+robocop   959708835  7  1 Bcc kf    -     -         1370   20    0 
+robocop   959708862  8  7 cc  k     k     f         1350   20    0 
+robocop   959708906  8  6 cc  br    b     b         1330   90  285 
+robocop   959708949  8  5 f   -     -     -         1525    0    0 
+robocop   959709004  9  4 f   -     -     -         1525    0    0 
+robocop   959709036  8  4 c   kc    kc    kf        1525   40    0 
+robocop   959709093  7  2 Bk  k     k     kf        1485   10    0 
+robocop   959709137  7  1 Bf  -     -     -         1475    5    0 
+robocop   959709188  7  7 cc  r     b     -         1470   60  160 
+robocop   959709234  9  8 cc  rc    c     c         1570   90    0 Kh 9h
+robocop   959709277  9  7 f   -     -     -         1480    0    0 
+robocop   959709309  9  6 f   -     -     -         1480    0    0 
+robocop   959709342  8  5 f   -     -     -         1480    0    0 
+robocop   959709372  9  4 c   c     c     k         1480   50    0 Js Qc
+robocop   959709407  9  3 f   -     -     -         1430    0    0 
+robocop   959709440  9  2 Bk  kf    -     -         1430   10    0 
+robocop   959709470  9  1 Bf  -     -     -         1420    5    0 
+robocop   959709511  9  9 f   -     -     -         1415    0    0 
+robocop   959709535  9  8 KQ  -     -     -         1415    0    0 

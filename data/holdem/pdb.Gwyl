@@ -1,0 +1,101 @@
+Gwyl      959240025 10  3 cf  -     -     -         1000   10    0 
+Gwyl      959240106 10  2 Bk  k     b     -          990   30   50 
+Gwyl      959240148 10  1 Br  b     brc   brc       1010  190    0 7s 7d
+Gwyl      959240266 10 10 c   k     f     -          820   10    0 
+Gwyl      959240325 10  9 c   k     r     b          810   80  300 Ah 7s
+Gwyl      959240455 10  8 r   cc    rc    c         1030  120    0 Jd Kd
+Gwyl      959240555 10  7 f   -     -     -          910    0    0 
+Gwyl      959240595  9  5 c   k     kf    -          910   20    0 
+Gwyl      959240667  9  4 rc  ccc   kcc   kcf        890  200    0 
+Gwyl      959240789 10  3 c   kc    kf    -          690   20    0 
+Gwyl      959240848 10  2 Bk  krc   bc    kc         670  100  210 Jc 8c
+Gwyl      959240905 10  1 Bf  -     -     -          780    5    0 
+Gwyl      959240967 10 10 f   -     -     -          775    0    0 
+Gwyl      959241041 10  9 rr  brc   k     b          775  100  300 
+Gwyl      959241151 10  8 f   -     -     -          975    0    0 
+Gwyl      959241219 10  7 r   -     -     -          975   20   35 
+Gwyl      959241241 10  6 rc  kf    -     -          990   30    0 
+Gwyl      959241288 10  5 c   brc   rc    rc         960  170    0 8d 6h
+Gwyl      959241353 10  4 f   -     -     -          790    0    0 
+Gwyl      959241395 10  3 c   k     k     k          790   10    0 3h Jd
+Gwyl      959241451 10  2 Bk  b     kc    brc        780  120    0 6s Kd
+Gwyl      959241498 10  1 Bc  kf    -     -          660   10    0 
+Gwyl      959241550 10 10 c   c     c     f          650   60    0 
+Gwyl      959241628 10  9 r   k     f     -          590   20    0 
+Gwyl      959241686 10  8 c   c     c     f          570   40    0 
+Gwyl      959241729 10  7 c   kc    c     f          530   50    0 
+Gwyl      959241798 10  6 c   r     rc    c          480  110    0 5h Td
+Gwyl      959241878 10  5 f   -     -     -          370    0    0 
+Gwyl      959241925 10  4 f   -     -     -          370    0    0 
+Gwyl      959241980 10  3 f   -     -     -          370    0    0 
+Gwyl      959242037  9  2 Br  r     c     b          370   80  200 7h 6h
+Gwyl      959242088 10  1 Bc  bc    kc    bc         490  100  210 2d Td
+Gwyl      959242186 10 10 c   rc    ccc   c          600  160    0 Jh 8c
+Gwyl      959242274 10  9 f   -     -     -          440    0    0 
+Gwyl      959242322 10  8 c   r     c     c          440   70    0 Qh Qd
+Gwyl      959242386 10  7 c   k     c     k          370   30  115 Jc 9h
+Gwyl      959242429 10  6 c   f     -     -          455   20    0 
+Gwyl      959242490 10  5 f   -     -     -          435    0    0 
+Gwyl      959242526 10  4 c   k     f     -          435   10    0 
+Gwyl      959242601 10  3 cc  bc    bc    kf         425   80    0 
+Gwyl      959242691 10  2 Bk  kc    kc    kf         345   50    0 
+Gwyl      959242751 10  1 Br  kc    kc    kc         295   80    0 Kh Kd
+Gwyl      959242847 10 10 cc  c     c     k          215   50    0 6h As
+Gwyl      959242902 10  9 cc  r     b     k          165   80    0 4s 7c
+Gwyl      959242985 10  8 c   b     kc    k           85   40    0 9c Ts
+Gwyl      959243049 10  7 f   -     -     -           45    0    0 
+Gwyl      959243092 10  6 cc  rA    -     -           45   45    0 Ad 3d
+Gwyl      959336391  6  4 r   c     c     cf        1000   70    0 
+Gwyl      959336439  6  3 cc  c     f     -          930   30    0 
+Gwyl      959336491  6  2 Bc  bc    b     k          900   60    0 7d Qd
+Gwyl      959336551  5  1 Bf  -     -     -          840    5    0 
+Gwyl      959336611  4  4 cc  c     f     -          835   30    0 
+Gwyl      959336658  5  4 c   f     -     -          805   10    0 
+Gwyl      959336686  5  3 f   -     -     -          795    0    0 
+Gwyl      959336715  5  2 Bk  kr    kc    kf         795   50    0 
+Gwyl      959336775  6  1 Bc  kc    kc    bf         745   70    0 
+Gwyl      959336837  6  6 f   -     -     -          675    0    0 
+Gwyl      959336910  6  5 cc  cc    b     r          675  120  365 Ac Qh
+Gwyl      959336979  6  4 f   -     -     -          920    0    0 
+Gwyl      959337042  6  3 f   -     -     -          920    0    0 
+Gwyl      959337053  6  2 Brc c     kc    f          920   70    0 
+Gwyl      959337176  6  1 Bcc kc    kf    -          850   50    0 
+Gwyl      959337250  7  6 f   -     -     -          800    0    0 
+Gwyl      959337327  7  5 cc  c     f     -          800   30    0 
+Gwyl      959337400  7  4 rc  cc    f     -          770   70    0 
+Gwyl      959337503  8  3 cc  c     f     -          700   40    0 
+Gwyl      959337575  8  2 Bc  rr    c     cc         660  140    0 Tc 4c
+Gwyl      959337678  8  1 Bc  b     b     bc         520   90  140 7s Ah
+Gwyl      959337766  8  8 f   -     -     -          570    0    0 
+Gwyl      959337784  7  6 cc  c     f     -          570   40    0 
+Gwyl      959337831  7  5 f   -     -     -          530    0    0 
+Gwyl      959337866  8  5 r   kc    kc    kf         530   50    0 
+Gwyl      959337926  8  4 f   -     -     -          480    0    0 
+Gwyl      959337962  8  3 f   -     -     -          480    0    0 
+Gwyl      959338012  8  2 Bk  cc    kf    -          480   30    0 
+Gwyl      959338069  9  1 Bf  -     -     -          450    5    0 
+Gwyl      959338123  9  9 f   -     -     -          445    0    0 
+Gwyl      959338150  9  8 cc  cf    -     -          445   30    0 
+Gwyl      959338220  9  7 c   k     r     c          415   80    0 Ah 8s
+Gwyl      959338263  9  6 cc  kc    kf    -          335   30    0 
+Gwyl      959338331  9  5 ccc f     -     -          305   40    0 
+Gwyl      959338420  9  4 f   -     -     -          265    0    0 
+Gwyl      959338480  9  3 cc  kc    b     k          265   50    0 5h 4s
+Gwyl      959338550 10  2 Bk  kc    kc    kf         215   40    0 
+Gwyl      959338638 10  1 Bc  bc    k     k          175   40    0 3c 2d
+Gwyl      959338710 10 10 f   -     -     -          135    0    0 
+Gwyl      959338734 10  9 c   c     brc   c          135  130    0 Tc 6c
+Gwyl      959338791 10  4 Q   -     -     -            5    0    0 
+Gwyl      959339025 10  2 BA  -     -     -            5    5    0 5s Js
+Gwyl      959339115 10 10 f   -     -     -         1000    0    0 
+Gwyl      959339175 10  9 rc  cc    f     -         1000   80    0 
+Gwyl      959339248  9  7 c   k     c     f          920   40    0 
+Gwyl      959339323  9  7 f   -     -     -          880    0    0 
+Gwyl      959339352  9  6 cc  kc    kf    -          880   30    0 
+Gwyl      959339472 10  5 cc  kf    -     -          850   20    0 
+Gwyl      959339534  9  3 c   k     b     k          830   30    0 5c 7s
+Gwyl      959339596  9  2 Bk  k     b     k          800   30   85 8d 2c
+Gwyl      959339676  9  1 Bc  kf    -     -          855   20    0 
+Gwyl      959339769  9  9 c   c     c     f          835   60    0 
+Gwyl      959339898 10  9 f   -     -     -          775    0    0 
+Gwyl      959340015 10  8 KQ  -     -     -          775    0    0 

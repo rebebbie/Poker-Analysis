@@ -1,0 +1,346 @@
+gamman    957412878 10  8 f   -     -     -         1862    0    0 
+gamman    957412964 10  7 f   -     -     -         1862    0    0 
+gamman    957413061 10  6 f   -     -     -         1862    0    0 
+gamman    957413196 10  5 f   -     -     -         1862    0    0 
+gamman    957413248  9  4 f   -     -     -         1862    0    0 
+gamman    957413303  9  3 f   -     -     -         1862    0    0 
+gamman    957413357  9  2 Bk  kf    -     -         1862   10    0 
+gamman    957413412  9  1 Bf  -     -     -         1852    5    0 
+gamman    957413457  9  9 c   c     f     -         1847   30    0 
+gamman    957413521 10  9 f   -     -     -         1817    0    0 
+gamman    957413589 10  8 f   -     -     -         1817    0    0 
+gamman    957413640 10  7 f   -     -     -         1817    0    0 
+gamman    957413705 10  6 f   -     -     -         1817    0    0 
+gamman    957413753  9  4 c   b     b     b         1817   60    0 5c Qc
+gamman    957413810  9  3 c   k     b     -         1757   30   80 
+gamman    957413884  9  2 Bf  -     -     -         1807   10    0 
+gamman    957413934  9  1 Bf  -     -     -         1797    5    0 
+gamman    957414000  9  9 f   -     -     -         1792    0    0 
+gamman    957414035  9  8 f   -     -     -         1792    0    0 
+gamman    957414065  8  7 r   c     f     -         1792   30    0 
+gamman    957414122  7  5 f   -     -     -         1762    0    0 
+gamman    957414179  8  4 f   -     -     -         1762    0    0 
+gamman    957414252  7  3 c   k     f     -         1762   10    0 
+gamman    957414306  7  2 Bf  -     -     -         1752   10    0 
+gamman    957414342  7  1 Bf  Q     -     -         1742    5    0 
+gamman    957500708 10  3 f   -     -     -         1737    0    0 
+gamman    957500745  9  2 Bf  -     -     -         1737   10    0 
+gamman    957500790  9  1 Bc  kf    -     -         1727   10    0 
+gamman    957500835  9  9 c   c     c     f         1717   40    0 
+gamman    957500874 10  9 f   -     -     -         1677    0    0 
+gamman    957500967  9  7 f   -     -     -         1677    0    0 
+gamman    957501043  9  6 f   -     -     -         1677    0    0 
+gamman    957501151 10  6 c   kf    -     -         1677   10    0 
+gamman    957501205 10  5 f   -     -     -         1667    0    0 
+gamman    957501294 10  4 f   -     -     -         1667    0    0 
+gamman    957501360 10  3 c   b     b     b         1667   60    0 Ts Jc
+gamman    957501399 10  2 Bk  k     kf    -         1607   10    0 
+gamman    957501467 10  1 Bf  -     -     -         1597    5    0 
+gamman    957501518 10 10 f   -     -     -         1592    0    0 
+gamman    957501582 10  9 f   -     -     -         1592    0    0 
+gamman    957501619 10  8 f   -     -     -         1592    0    0 
+gamman    957501708 10  7 c   f     -     -         1592   10    0 
+gamman    957501792 10  6 f   -     -     -         1582    0    0 
+gamman    957501836 10  5 f   -     -     -         1582    0    0 
+gamman    957501899 10  4 f   -     -     -         1582    0    0 
+gamman    957502017 10  3 f   -     -     -         1582    0    0 
+gamman    957502069 10  2 Bk  kc    kf    -         1582   20    0 
+gamman    957502132 10  1 Bc  k     kc    kf        1562   30    0 
+gamman    957502201 10 10 f   -     -     -         1532    0    0 
+gamman    957502271  9  8 cc  kf    -     -         1532   20    0 
+gamman    957502337  8  6 cc  f     -     -         1512   20    0 
+gamman    957502399  7  5 f   -     -     -         1492    0    0 
+gamman    957502445  8  4 r   b     k     kc        1492   50    0 Ah Jd
+gamman    957502488  8  3 f   -     -     -         1442    0    0 
+gamman    957502560  8  2 Bk  k     kf    -         1442   10    0 
+gamman    957502602  7  1 Bf  -     -     -         1432    5    0 
+gamman    957502616  7  7 fQ  -     -     -         1427    0    0 
+gamman    957722589 10  9 f   -     -     -         1357    0    0 
+gamman    957722647 10  8 f   -     -     -         1357    0    0 
+gamman    957722701 10  7 cc  cc    f     -         1357   60    0 
+gamman    957722808 10  6 f   -     -     -         1297    0    0 
+gamman    957722883 10  5 cc  f     -     -         1297   20    0 
+gamman    957722962 10  4 f   -     -     -         1277    0    0 
+gamman    957723058 10  3 f   -     -     -         1277    0    0 
+gamman    957723194 10  2 Bk  kc    kc    k         1277   40    0 7d 3s
+gamman    957723277 10  1 Bc  k     b     b         1237   50  120 
+gamman    957723333 10 10 f   -     -     -         1307    0    0 
+gamman    957723393 10  9 f   -     -     -         1307    0    0 
+gamman    957723456 10  8 f   -     -     -         1307    0    0 
+gamman    957723507 10  7 f   -     -     -         1307    0    0 
+gamman    957723572 10  6 f   -     -     -         1307    0    0 
+gamman    957723642 10  5 f   -     -     -         1307    0    0 
+gamman    957723695 10  4 f   -     -     -         1307    0    0 
+gamman    957723757 10  3 fQ  -     -     -         1307    0    0 
+gamman    957726093 10  7 f   -     -     -         1307    0    0 
+gamman    957726132 10  6 f   -     -     -         1307    0    0 
+gamman    957726196 10  5 f   -     -     -         1307    0    0 
+gamman    957726240 10  4 f   -     -     -         1307    0    0 
+gamman    957726276 10  3 f   -     -     -         1307    0    0 
+gamman    957726339 10  2 Bk  b     b     b         1307   60  245 Tc Ac
+gamman    957726373 10  1 Bc  kc    kc    b         1492   70  310 9c Tc
+gamman    957726428 10 10 f   -     -     -         1732    0    0 
+gamman    957726452 10  9 f   -     -     -         1732    0    0 
+gamman    957726550 10  8 c   c     c     f         1732   50    0 
+gamman    957726604 10  7 f   -     -     -         1682    0    0 
+gamman    957726665 10  6 f   -     -     -         1682    0    0 
+gamman    957726709 10  5 c   cc    c     c         1682   80    0 As 9s
+gamman    957726781 10  4 f   -     -     -         1602    0    0 
+gamman    957726813 10  3 f   -     -     -         1602    0    0 
+gamman    957726872 10  2 Bk  bc    br    brc       1602  170    0 As 7s
+gamman    957726917 10  1 Bc  kc    b     brc       1432  120    0 Ah 4h
+gamman    957726995 10 10 f   -     -     -         1312    0    0 
+gamman    957727034 10  9 c   f     -     -         1312   10    0 
+gamman    957727084 10  8 f   -     -     -         1302    0    0 
+gamman    957727148 10  7 cc  k     k     f         1302   20    0 
+gamman    957727232 10  6 f   -     -     -         1282    0    0 
+gamman    957727292 10  5 c   kc    kf    -         1282   20    0 
+gamman    957727385 10  4 cc  kcc   bc    kc        1262  140    0 9d 8d
+gamman    957727473 10  3 f   -     -     -         1122    0    0 
+gamman    957727564 10  2 Bk  kf    Q     -         1122   10    0 
+gamman    958131502  6  2 Bk  k     kc    k          727   30    0 Ah Qd
+gamman    958131543  5  1 Bf  -     -     -          697    5    0 
+gamman    958131586  4  4 c   f     -     -          692   20    0 
+gamman    958131613  4  3 f   -     -     -          672    0    0 
+gamman    958131636  4  2 Bk  f     -     -          672   10    0 
+gamman    958131665  4  1 Bf  -     -     -          662    5    0 
+gamman    958131682  4  4 f   -     -     -          657    0    0 
+gamman    958131690  4  3 f   -     -     -          657    0    0 
+gamman    958131714  4  2 Br  b     b     b          657   80  160 Kd Kh
+gamman    958131742  4  1 Bf  -     -     -          737    5    0 
+gamman    958131769  4  4 c   c     f     -          732   30    0 
+gamman    958131803  5  4 f   -     -     -          702    0    0 
+gamman    958131829  5  3 f   -     -     -          702    0    0 
+gamman    958131853  5  2 Bk  k     b     b          702   50   85 
+gamman    958131877  5  1 Bf  -     -     -          737    5    0 
+gamman    958131909  6  6 c   f     -     -          732   10    0 
+gamman    958131941  6  5 cc  b     b     -          722   50  130 
+gamman    958131976  6  4 cc  f     -     -          802   20    0 
+gamman    958132004  6  3 f   -     -     -          782    0    0 
+gamman    958132022  6  2 Bf  -     -     -          782   10    0 
+gamman    958132043  6  1 Bf  -     -     -          772    5    0 
+gamman    958132072  6  6 f   -     -     -          767    0    0 
+gamman    958132090  7  6 crc r     b     b          767  110  400 Ac Ah
+gamman    958132138  7  5 f   -     -     -         1057    0    0 
+gamman    958132175  7  4 f   -     -     -         1057    0    0 
+gamman    958132206  7  3 f   -     -     -         1057    0    0 
+gamman    958132237  6  2 Bf  -     -     -         1057   10    0 
+gamman    958132245  6  1 Bc  kc    kc    kc        1047   60    0 Js Kc
+gamman    958132279  6  6 f   -     -     -          987    0    0 
+gamman    958132321  6  5 f   -     -     -          987    0    0 
+gamman    958132357  6  4 f   -     -     -          987    0    0 
+gamman    958132384  6  3 cf  -     -     -          987   10    0 
+gamman    958132424  6  2 Br  rc    cc    ccc        977  210    0 Kc Kd
+gamman    958132479  6  1 Bf  -     -     -          767    5    0 
+gamman    958132552  5  5 c   f     -     -          762   10    0 
+gamman    958132581  6  5 f   -     -     -          752    0    0 
+gamman    958132599  6  4 c   r     b     b          752   70  160 9c Tc
+gamman    958132627  6  3 f   -     -     -          842    0    0 
+gamman    958132664  6  2 Bf  -     -     -          842   10    0 
+gamman    958132686  6  1 Bc  kc    kf    -          832   30    0 
+gamman    958132723  6  6 f   -     -     -          802    0    0 
+gamman    958132739  6  5 f   -     -     -          802    0    0 
+gamman    958132770  5  4 f   -     -     -          802    0    0 
+gamman    958132797  6  3 f   -     -     -          802    0    0 
+gamman    958132815  6  2 Bk  k     b     -          802   30   55 
+gamman    958132834  6  1 Bc  kf    -     -          827   20    0 
+gamman    958132876  6  6 f   -     -     -          807    0    0 
+gamman    958132894  6  5 f   -     -     -          807    0    0 
+gamman    958132909  6  4 cc  c     f     -          807   30    0 
+gamman    958132930  7  3 c   b     b     b          777   60  140 
+gamman    958132951  7  2 Bc  kf    -     -          857   20    0 
+gamman    958132996  7  1 Bf  -     -     -          837    5    0 
+gamman    958133017  6  6 c   b     b     -          832   40   80 
+gamman    958133044  6  5 f   -     -     -          872    0    0 
+gamman    958133087  7  5 f   -     -     -          872    0    0 
+gamman    958133112  6  3 f   -     -     -          872    0    0 
+gamman    958133136  7  2 Bk  b     b     b          872   60  145 
+gamman    958133153  7  1 Bc  k     k     b          957   30   60 
+gamman    958133179  7  7 f   -     -     -          987    0    0 
+gamman    958133199  7  6 rc  c     b     b          987   90  245 9h 9c
+gamman    958133250  7  5 c   f     -     -         1142   10    0 
+gamman    958133280  7  4 f   -     -     -         1132    0    0 
+gamman    958133312  7  3 f   -     -     -         1132    0    0 
+gamman    958133340  7  2 Bc  b     b     b         1132   80  235 
+gamman    958133374  7  1 Bc  krc   kc    kc        1287  110    0 4d 4h
+gamman    958133410  7  7 f   -     -     -         1177    0    0 
+gamman    958133430  7  6 f   -     -     -         1177    0    0 
+gamman    958133471  7  5 c   k     k     k         1177   10    0 Ah 2s
+gamman    958133526  8  5 c   f     -     -         1167   20    0 
+gamman    958133577  8  4 f   -     -     -         1147    0    0 
+gamman    958133611  8  3 f   -     -     -         1147    0    0 
+gamman    958133641  7  2 Bk  k     k     kf        1147   10    0 
+gamman    958133679  7  1 Bf  -     -     -         1137    5    0 
+gamman    958133719  7  7 c   f     -     -         1132   10    0 
+gamman    958133752  7  6 f   -     -     -         1122    0    0 
+gamman    958133779  7  5 f   -     -     -         1122    0    0 
+gamman    958133804  7  4 f   -     -     -         1122    0    0 
+gamman    958133839  7  3 f   -     -     -         1122    0    0 
+gamman    958133886  7  2 Bf  -     -     -         1122   10    0 
+gamman    958133912  7  1 Bf  -     -     -         1112    5    0 
+gamman    958133937  7  7 f   -     -     -         1107    0    0 
+gamman    958133960  7  6 f   -     -     -         1107    0    0 
+gamman    958133985  7  5 c   c     b     -         1107   50   15 Qc 6c
+gamman    958134019  6  4 f   -     -     -         1072    0    0 
+gamman    958134056  6  3 f   -     -     -         1072    0    0 
+gamman    958134086  5  2 B   -     -     -         1072   10   15 
+gamman    958134096  5  1 Br  b     -     -         1077   30   90 
+gamman    958134127  5  5 c   k     f     -         1137   10    0 
+gamman    958134161  6  5 f   -     -     -         1127    0    0 
+gamman    958134192  6  4 c   kf    -     -         1127   10    0 
+gamman    958134240  6  3 f   -     -     -         1117    0    0 
+gamman    958134272  6  2 Bk  kc    kc    kf        1117   40    0 
+gamman    958134304  6  1 Bc  k     b     b         1077   50  160 7h Ah
+gamman    958134341  7  7 f   -     -     -         1187    0    0 
+gamman    958134369  7  6 f   -     -     -         1187    0    0 
+gamman    958134425  7  5 fQ  -     -     -         1187    0    0 
+gamman    958196900  8  4 f   -     -     -         1187    0    0 
+gamman    958196941  9  3 cc  f     -     -         1187   20    0 
+gamman    958197002  9  2 Bf  -     -     -         1167   10    0 
+gamman    958197050  9  1 Bc  kf    -     -         1157   10    0 
+gamman    958197093  9  9 f   -     -     -         1147    0    0 
+gamman    958197135  9  8 cc  f     -     -         1147   40    0 
+gamman    958197219  9  7 f   -     -     -         1107    0    0 
+gamman    958197251  9  6 f   -     -     -         1107    0    0 
+gamman    958197314 10  7 f   -     -     -         1107    0    0 
+gamman    958197384  9  5 f   -     -     -         1107    0    0 
+gamman    958197425  9  4 f   -     -     -         1107    0    0 
+gamman    958197531  8  3 f   -     -     -         1107    0    0 
+gamman    958197587  7  1 Bk  kf    -     -         1107   10    0 
+gamman    958197618  7  1 Bc  kc    kf    -         1097   30    0 
+gamman    958197679  7  7 c   c     c     f         1067   40    0 
+gamman    958197729  7  6 f   -     -     -         1027    0    0 
+gamman    958197789  7  5 f   -     -     -         1027    0    0 
+gamman    958197815  7  4 f   -     -     -         1027    0    0 
+gamman    958197851  8  3 c   kc    b     b         1027   60  155 Kh Kd
+gamman    958197884  8  2 Bk  kc    k     kf        1122   20    0 
+gamman    958197965  8  1 Bc  kf    -     -         1102   20    0 
+gamman    958198029  8  8 f   -     -     -         1082    0    0 
+gamman    958198098  7  7 f   -     -     -         1082    0    0 
+gamman    958198180  7  6 f   -     -     -         1082    0    0 
+gamman    958198233  7  5 f   -     -     -         1082    0    0 
+gamman    958198256  7  4 cc  k     r     rc        1082  120    0 Ts 8c
+gamman    958198314  7  3 f   -     -     -          962    0    0 
+gamman    958198380  7  2 Bf  -     -     -          962   10    0 
+gamman    958198438  7  1 Bf  -     -     -          952    5    0 
+gamman    958198471  6  6 f   -     -     -          947    0    0 
+gamman    958198511  6  6 f   -     -     -          947    0    0 
+gamman    958198551  6  5 f   -     -     -          947    0    0 
+gamman    958198609  7  4 c   k     f     -          947   10    0 
+gamman    958198667  8  3 f   -     -     -          937    0    0 
+gamman    958198716  9  2 Bk  k     kc    kc         937  110    0 7d 9s
+gamman    958198785  9  1 Bc  bc    kc    kc         827   70  240 Jh Kh
+gamman    958198899  9  9 c   rc    c     c          997  100    0 Ac Ts
+gamman    958198973  9  8 c   fQ    -     -          897   10    0 
+gamman    958449320  8  5 c   bc    kf    -         1067   40    0 
+gamman    958449377  8  4 c   k     f     -         1027   10    0 
+gamman    958449458  9  3 f   -     -     -         1017    0    0 
+gamman    958449517  8  2 Bk  k     kf    -         1017   10    0 
+gamman    958449547  8  1 Bc  kcc   br    b         1007  110  350 Td Qd
+gamman    958449606  8  8 f   -     -     -         1247    0    0 
+gamman    958449662  8  7 f   -     -     -         1247    0    0 
+gamman    958449711  7  5 f   -     -     -         1247    0    0 
+gamman    958449774  7  4 f   -     -     -         1247    0    0 
+gamman    958449810  7  3 c   kf    -     -         1247   10    0 
+gamman    958449863  7  2 Bf  -     -     -         1237   10    0 
+gamman    958449917  7  1 Bc  kf    -     -         1227   10    0 
+gamman    958450014  8  8 f   -     -     -         1217    0    0 
+gamman    958450079  7  6 f   -     -     -         1217    0    0 
+gamman    958450133  6  4 f   -     -     -         1217    0    0 
+gamman    958450148  6  4 f   -     -     -         1217    0    0 
+gamman    958450205  7  3 f   -     -     -         1217    0    0 
+gamman    958450320  8  2 Bf  -     -     -         1217   10    0 
+gamman    958450357  8  1 BQ  -     -     -         1207    5    0 
+gamman    958530626  3  2 Bk  c     c     c         1202   60    0 Td As
+gamman    958530648  2  1 Bc  kf    -     -         1142   10    0 
+gamman    958530662  2  2 B   -     -     -         1132   10   15 
+gamman    958530665  2  1 Bc  kc    kc    k         1137   40    0 Tc Ac
+gamman    958530688  2  2 Bf  -     -     -         1097   10    0 
+gamman    958530694  2  1 Bf  -     -     -         1087    5    0 
+gamman    958530697  2  2 Bk  k     c     k         1082   30   60 Ad 4d
+gamman    958530723  4  1 Bcc kf    -     -         1112   20    0 
+gamman    958530742  4  4 f   -     -     -         1092    0    0 
+gamman    958530776  3  2 f   -     -     -         1092    0    0 
+gamman    958530806  3  2 Bf  -     -     -         1092   10    0 
+gamman    958530832  4  1 Bc  b     b     -         1082   40   80 
+gamman    958530853  4  4 c   f     -     -         1122   10    0 
+gamman    958530870  5  4 cc  f     -     -         1112   20    0 
+gamman    958530904  5  3 f   -     -     -         1092    0    0 
+gamman    958530938  5  2 Bf  -     -     -         1092   10    0 
+gamman    958530947  5  1 Bc  b     b     b         1082   70  240 Jc Tc
+gamman    958530990  6  6 f   -     -     -         1252    0    0 
+gamman    958531014  6  5 f   -     -     -         1252    0    0 
+gamman    958531042  6  4 c   f     -     -         1252   20    0 
+gamman    958531086  6  3 r   bc    kf    -         1232   40    0 
+gamman    958531111  6  3 rc  b     b     b         1192   80  185 
+gamman    958531147  6  2 Bf  -     -     -         1297   10    0 
+gamman    958531155  6  1 Brc brc   brc   krc       1287  220    0 Ah Ac
+gamman    958531207  6  6 ccc f     -     -         1067   40    0 
+gamman    958531261  6  5 rr  b     b     b         1027   90    0 Js Jd
+gamman    958531299  6  4 cc  cc    cc    kf         937   80    0 
+gamman    958531357  6  3 f   -     -     -          857    0    0 
+gamman    958531382  6  2 Bk  kc    kc    kc         857   60  145 9h Ts
+gamman    958531431  6  1 Bf  -     -     -          942    5    0 
+gamman    958531467  6  6 f   -     -     -          937    0    0 
+gamman    958531538  6  5 f   -     -     -          937    0    0 
+gamman    958531576  6  4 c   k     k     f          937   10    0 
+gamman    958531616  6  3 ccc cfQ   -     -          927   50    0 
+gamman    959054289  8  8 f   -     -     -          582    0    0 
+gamman    959054346  7  6 f   -     -     -          582    0    0 
+gamman    959054366  8  6 f   -     -     -          582    0    0 
+gamman    959054388  7  4 f   -     -     -          582    0    0 
+gamman    959054482 10  4 f   -     -     -          582    0    0 
+gamman    959054550  9  2 f   -     -     -          582    0    0 
+gamman    959054611 10  2 Bc  kf    -     -          582   20    0 
+gamman    959054682  9  1 Bf  -     -     -          562    5    0 
+gamman    959054729  9  9 c   c     k     f          557   20    0 
+gamman    959054788  9  8 r   b     b     c          537   70  220 Jh Jd
+gamman    959054895 10  8 f   -     -     -          687    0    0 
+gamman    959054967 10  7 cc  c     f     -          687   60    0 
+gamman    959055035 10  6 f   -     -     -          627    0    0 
+gamman    959055112 10  6 f   -     -     -          627    0    0 
+gamman    959055239 10  4 f   -     -     -          627    0    0 
+gamman    959055330 10  3 rc  b     b     -          627   60  220 
+gamman    959055406 10  2 Bk  kf    Q     -          787   10    0 
+gamman    959311472  5  3 f   -     -     -          197    0    0 
+gamman    959311518  5  2 Br  b     bc    cc         197  130    0 7h 7c
+gamman    959311592  6  1 Bc  k     kf    -           67   10    0 
+gamman    959311641  4  4 f   -     -     -           57    0    0 
+gamman    959311668  3  2 f   -     -     -           57    0    0 
+gamman    959311695  4  4 f   -     -     -           57    0    0 
+gamman    959311730  4  2 Bk  k     k     k           57   10   25 4c 4d
+gamman    959311754  4  1 Bf  -     -     -           72    5    0 
+gamman    959311805  5  4 f   -     -     -           67    0    0 
+gamman    959311877  6  3 c   k     k     f           67   10    0 
+gamman    959311937  6  2 Bk  k     kf    -           57   10    0 
+gamman    959312048  7  1 Bf  -     -     -           47    5    0 
+gamman    959312094  7  7 c   cc    cA    -           42   42  146 Kh Jh
+gamman    959312148 10  9 f   -     -     -          146    0    0 
+gamman    959312272 10  8 r   b     k     c          146   50    0 8s 8h
+gamman    959312401 10  7 f   -     -     -           96    0    0 
+gamman    959312547 10  6 f   -     -     -           96    0    0 
+gamman    959312722 10  5 f   -     -     -           96    0    0 
+gamman    959312793  9  3 c   r     c     c           96   70  150 Kd Ah
+gamman    959312911  8  2 Bk  kc    kf    -          176   20    0 
+gamman    959312991  6  1 Bf  -     -     -          156    5    0 
+gamman    959313061  6  6 f   -     -     -          151    0    0 
+gamman    959313114  5  5 r   c     k     c          151   50    0 8c 8s
+gamman    959313163  5  4 c   k     c     b          101   50  120 6s 6h
+gamman    959313219  5  3 f   -     -     -          171    0    0 
+gamman    959313255  5  2 Bc  kf    -     -          171   20    0 
+gamman    959313291  5  1 Bc  kf    -     -          151   20    0 
+gamman    959313312  5  5 c   f     -     -          131   10    0 
+gamman    959313364  6  4 f   -     -     -          121    0    0 
+gamman    959313399  6  3 cc  kc    kf    -          121   30    0 
+gamman    959313433  6  2 Bk  kf    -     -           91   10    0 
+gamman    959313461  6  1 Bc  bc    k     b           81   50  100 8h 8d
+gamman    959313490  5  5 f   -     -     -          131    0    0 
+gamman    959313497  5  4 c   k     k     b          131   30   50 
+gamman    959313526  5  3 c   f     -     -          151   10    0 
+gamman    959313556  5  2 Bk  f     -     -          141   10    0 
+gamman    959313588  6  1 Bc  k     kf    -          131   10    0 
+gamman    959313619  6  6 f   -     -     -          121    0    0 
+gamman    959313635  7  6 f   -     -     -          121    0    0 
+gamman    959313661  7  5 r   b     b     b          121   70  170 Ks Kc
+gamman    959313695  8  4 f   -     -     -          221    0    0 
+gamman    959313721  8  3 f   -     -     Q          221    0    0 

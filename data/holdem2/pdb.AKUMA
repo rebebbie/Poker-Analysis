@@ -1,0 +1,93 @@
+AKUMA     958903521  6  5 f   -     -     -         2046    0    0 
+AKUMA     958903550  6  4 f   -     -     -         2046    0    0 
+AKUMA     958903582  6  3 cc  k     kc    k         2046   80    0 5s Ah
+AKUMA     958903651  6  2 Bc  kc    kr    -         1966  140  310 
+AKUMA     958903685  6  1 Bf  -     -     -         2136   10    0 
+AKUMA     958903697  6  6 rc  cc    c     f         2126  140    0 
+AKUMA     958903753  6  5 f   -     -     -         1986    0    0 
+AKUMA     958903791  7  4 f   -     -     -         1986    0    0 
+AKUMA     958903859  6  2 Bc  kc    kc    k         1986  100  240 4d Ts
+AKUMA     958903894  6  1 Bf  -     -     -         2126   10    0 
+AKUMA     958903942  6  6 f   -     -     -         2116    0    0 
+AKUMA     958903991  6  5 f   -     -     -         2116    0    0 
+AKUMA     958904018  6  4 cc  c     r     k         2116  140  370 Jh Kc
+AKUMA     958904053  6  3 cc  k     br    b         2346  200  490 7d 7s
+AKUMA     958904111  6  2 Bcc kf    -     -         2636   80    0 
+AKUMA     958904153  5  1 Bf  -     -     -         2556   10    0 
+AKUMA     958904211  5  5 cc  c     k     k         2546   60  160 Ah Qs
+AKUMA     958904257  5  4 cc  rrr   bc    k         2646  260    0 8c Ac
+AKUMA     958904328  5  3 cc  k     k     kf        2386   40    0 
+AKUMA     958904395  5  2 Bf  -     -     -         2346   20    0 
+AKUMA     958904425  5  1 Bc  b     -     -         2326   60  180 
+AKUMA     958904467  5  5 cc  c     c     f         2446  120    0 
+AKUMA     958904507  5  4 ccc f     -     -         2326   80    0 
+AKUMA     958904557  5  3 cc  k     k     bc        2246  120    0 Jh 6h
+AKUMA     958904606  5  2 Bcc kc    k     kc        2126  160    0 Ah 9c
+AKUMA     958904677  6  1 Bcc kf    -     -         1966   80    0 
+AKUMA     958904738  6  6 f   -     -     -         1886    0    0 
+AKUMA     958904812  6  5 f   -     -     -         1886    0    0 
+AKUMA     958904886  5  3 f   -     -     -         1886    0    0 
+AKUMA     958904928  4  3 f   -     -     -         1886    0    0 
+AKUMA     958904950  2  1 B   -     -     -         1886   20   20 
+AKUMA     958904958  2  1 Bc  k     k     kf        1886   20    0 
+AKUMA     958904991  2  2 Bc  b     -     -         1866   60  100 
+AKUMA     958905005  2  1 Br  k     b     b         1906  120  240 Qc Qd
+AKUMA     958905028  2  2 Bc  r     b     b         2026  160  320 Qd 4h
+AKUMA     958905055  2  1 Bc  kc    kc    k         2186   80  160 8s Tc
+AKUMA     958905087  2  2 Bc  f     -     -         2266   40    0 
+AKUMA     958905103  2  1 Bf  -     -     -         2226   10    0 
+AKUMA     958905107  2  2 Bc  k     f     -         2216   40    0 
+AKUMA     958905123  2  1 Bc  b     -     -         2176   40   60 
+AKUMA     958905138  2  2 Bc  k     r     b         2196  160  320 Jc 8s
+AKUMA     958905158  2  1 Bc  kc    kc    kf        2356   80    0 
+AKUMA     958905195  2  2 Bc  k     k     k         2276   40   80 Th Jh
+AKUMA     958905216  2  1 Bc  k     b     -         2316   60   80 
+AKUMA     958905238  2  2 B   -     -     -         2336   20   30 
+AKUMA     958905241  2  1 Bc  k     k     k         2346   20   40 5h 7d
+AKUMA     958905257  2  2 B   -     -     -         2366   20   30 
+AKUMA     958905262  2  1 Bcc k     k     k         2376   40    0 9d 8h
+AKUMA     958905283  2  2 Bf  -     -     -         2336   20    0 
+AKUMA     958905296  2  1 Bc  kf    -     -         2316   20    0 
+AKUMA     958905309  2  2 Bc  k     b     -         2296   80  120 
+AKUMA     958905328  2  1 Br  -     -     -         2336   40   60 
+AKUMA     958905334  2  2 B   -     -     -         2356   20   30 
+AKUMA     958905336  2  1 Bcc k     k     b         2366   80  160 Qd 7h
+AKUMA     958905360  2  2 B   -     -     -         2446   20   30 
+AKUMA     958905365  2  1 Bc  k     k     b         2456   60   80 
+AKUMA     958905385  2  2 Bc  k     k     f         2476   40    0 
+AKUMA     958905404  2  1 Bc  k     kc    kc        2436  100    0 8c Jd
+AKUMA     958905429  2  2 B   -     -     -         2336   20   30 
+AKUMA     958905434  2  1 Bc  kc    kc    k         2346   80    0 8s 7h
+AKUMA     958905456  2  2 Bf  -     -     -         2266   20    0 
+AKUMA     958905466  2  1 Bc  k     b     -         2246   60   80 
+AKUMA     958905483  2  2 Bc  c     k     k         2266   60    0 9d 7c
+AKUMA     958905500  2  1 Bc  k     k     k         2206   20   40 Js 8h
+AKUMA     958905519  2  2 Bf  -     -     -         2226   20    0 
+AKUMA     958905529  2  1 Bc  kf    -     -         2206   20    0 
+AKUMA     958905543  2  2 Bf  -     -     -         2186   20    0 
+AKUMA     958905547  2  1 Bc  kc    k     k         2166   40    0 7s Qs
+AKUMA     958905566  2  2 Bc  k     k     k         2126   40    0 2s 8s
+AKUMA     958905586  2  1 Bc  k     k     k         2086   20    0 9c Jc
+AKUMA     958905607  2  2 B   -     -     -         2066   20   30 
+AKUMA     958905613  2  1 Bc  kc    k     k         2076   40   80 Ah Td
+AKUMA     958905639  2  2 B   -     -     -         2116   20   30 
+AKUMA     958905643  2  1 Bcc k     k     kf        2126   40    0 
+AKUMA     958905674  2  2 B   -     -     -         2086   20   30 
+AKUMA     958905677  2  1 Bc  b     -     -         2096   40   60 
+AKUMA     958905690  2  2 B   -     -     -         2116   20   30 
+AKUMA     958905693  2  1 Bc  k     k     k         2126   20    0 2s 8s
+AKUMA     958905709  2  2 Bc  c     c     k         2106  100    0 8h Kd
+AKUMA     958905731  2  1 Bc  k     k     b         2006   60   80 
+AKUMA     958905758  2  2 B   -     -     -         2026   20   30 
+AKUMA     958905760  2  1 Br  b     b     b         2036  140  240 
+AKUMA     958905781  2  2 Bk  f     -     -         2136   20    0 
+AKUMA     958905798  2  1 Bc  k     k     k         2116   20   40 2c Ks
+AKUMA     958905819  2  2 Bc  k     k     k         2136   40    0 4h 7s
+AKUMA     958905841  2  1 Bc  br    b     bc        2096  200    0 Tc 6d
+AKUMA     958905873  2  2 B   -     -     -         1896   20   30 
+AKUMA     958905878  2  1 Bc  k     kf    -         1906   20    0 
+AKUMA     958905896  2  2 B   -     -     -         1886   20   30 
+AKUMA     958905899  2  1 Bc  k     k     k         1896   20   40 Qc 5h
+AKUMA     958905915  2  2 Bf  -     -     -         1916   20    0 
+AKUMA     958905924  2  1 Bc  kr    -     -         1896   60  100 
+AKUMA     958905946  2  2 BQ  -     -     -         1936   20    0 

@@ -1,0 +1,391 @@
+FastEddie 957592987  9  7 c   b     -     -         4007   40  120 
+FastEddie 957593037  9  6 f   -     -     -         4087    0    0 
+FastEddie 957593063  9  5 cc  kf    -     -         4087   40    0 
+FastEddie 957593116  9  4 f   -     -     -         4047    0    0 
+FastEddie 957593173  9  3 f   -     -     -         4047    0    0 
+FastEddie 957593227  9  2 f   -     -     -         4047    0    0 
+FastEddie 957593284 10  2 Bf  -     -     -         4047   20    0 
+FastEddie 957593320 10  1 Bf  -     -     -         4027   10    0 
+FastEddie 957593359 10  9 f   -     -     -         4017    0    0 
+FastEddie 957593401 10  8 f   -     -     -         4017    0    0 
+FastEddie 957593462 10  7 f   -     -     -         4017    0    0 
+FastEddie 957593578 10  5 f   -     -     -         4017    0    0 
+FastEddie 957593690 10  3 f   -     -     -         4017    0    0 
+FastEddie 957593810 10  2 Bc  kf    -     -         4017   40    0 
+FastEddie 957593872 10  1 Bc  kf    -     -         3977   60    0 
+FastEddie 957594022 10  8 c   k     k     f         3917   20    0 
+FastEddie 957594075  9  6 c   b     b     b         3897  120  370 Ts Ad
+FastEddie 957594145  9  5 f   -     -     -         4147    0    0 
+FastEddie 957594194  9  4 c   f     -     -         4147   20    0 
+FastEddie 957594243  9  3 f   -     -     -         4127    0    0 
+FastEddie 957594283  9  2 f   -     -     -         4127    0    0 
+FastEddie 957594334 10  2 Bc  kf    -     -         4127   60    0 
+FastEddie 957594407 10  1 Bf  -     -     -         4067   10    0 
+FastEddie 957594487 10  9 f   -     -     -         4057    0    0 
+FastEddie 957594536 10  8 cc  k     c     f         4057  120    0 
+FastEddie 957594604 10  7 f   -     -     -         3937    0    0 
+FastEddie 957594709 10  6 c   c     b     b         3937  120  310 Qc Qd
+FastEddie 957594767 10  5 f   -     -     -         4127    0    0 
+FastEddie 957630814  8  6 f   -     -     -         4127    0    0 
+FastEddie 957630851  8  5 f   -     -     -         4127    0    0 
+FastEddie 957630902  8  4 c   f     -     -         4127   20    0 
+FastEddie 957630929 10  3 f   -     -     -         4107    0    0 
+FastEddie 957630968 10  2 Bk  bc    k     b         4107  100  320 8c Ac
+FastEddie 957631024 10  1 Bc  kf    -     -         4327   20    0 
+FastEddie 957631066  9  9 c   k     b     -         4307   60  140 
+FastEddie 957631109  9  8 f   -     -     -         4387    0    0 
+FastEddie 957631151  9  7 f   -     -     -         4387    0    0 
+FastEddie 957631175  9  6 f   -     -     -         4387    0    0 
+FastEddie 957631213  9  5 f   -     -     -         4387    0    0 
+FastEddie 957631239  9  4 f   -     -     -         4387    0    0 
+FastEddie 957631268  9  3 f   -     -     -         4387    0    0 
+FastEddie 957631307  9  2 Bk  f     -     -         4387   20    0 
+FastEddie 957631342 10  1 Bf  -     -     -         4367   10    0 
+FastEddie 957631397 10 10 c   k     k     b         4357   60  130 
+FastEddie 957631468  8  7 f   -     -     -         4427    0    0 
+FastEddie 957631496  8  6 f   -     -     -         4427    0    0 
+FastEddie 957631549  8  5 c   k     c     r         4427  140  340 
+FastEddie 957631599  8  4 f   -     -     -         4627    0    0 
+FastEddie 957631631  8  3 c   kf    -     -         4627   20    0 
+FastEddie 957631676  9  2 Bk  kf    -     -         4607   20    0 
+FastEddie 957631730  9  1 Bc  kf    -     -         4587   40    0 
+FastEddie 957631794  9  9 f   -     -     -         4547    0    0 
+FastEddie 957631828  9  8 f   -     -     -         4547    0    0 
+FastEddie 957631880  9  7 f   -     -     -         4547    0    0 
+FastEddie 957631931  9  6 c   k     k     k         4547   20   20 9h Qc
+FastEddie 957632004  9  5 f   -     -     -         4547    0    0 
+FastEddie 957632049  9  4 f   -     -     -         4547    0    0 
+FastEddie 957632060  9  3 f   -     -     -         4547    0    0 
+FastEddie 957632118  9  2 Bc  kf    -     -         4547   60    0 
+FastEddie 957632208  9  1 BfQ -     -     -         4487   10    0 
+FastEddie 957719878  4  2 B   -     -     -         4037   20   30 
+FastEddie 957719903  4  1 Bc  kf    -     -         4047   40    0 
+FastEddie 957719956  5  4 c   kf    -     -         4007   20    0 
+FastEddie 957719990  4  2 Bc  kf    -     -         3987   60    0 
+FastEddie 957720020  4  1 Bc  kc    kf    -         3927   40    0 
+FastEddie 957720049  4  4 f   -     -     -         3887    0    0 
+FastEddie 957720109  4  3 f   -     -     -         3887    0    0 
+FastEddie 957720149  4  2 Bk  b     b     b         3887  120  280 Kd 8d
+FastEddie 957720191  4  1 Bc  bc    b     b         4047  140  300 Ah 9d
+FastEddie 957720224  4  4 f   -     -     -         4207    0    0 
+FastEddie 957720257  4  3 f   -     -     -         4207    0    0 
+FastEddie 957720296  5  3 c   c     f     -         4207   40    0 
+FastEddie 957720330  5  2 Bc  bc    kc    kc        4167  160  390 Kd Kh
+FastEddie 957720399  5  1 Bf  -     -     -         4397   10    0 
+FastEddie 957720436  5  5 f   -     -     -         4387    0    0 
+FastEddie 957720480  6  4 f   -     -     -         4387    0    0 
+FastEddie 957720544  6  3 f   -     -     -         4387    0    0 
+FastEddie 957720620  6  2 Bk  b     b     -         4387   80  190 
+FastEddie 957720702  6  1 Bc  b     b     b         4497  140  380 8h 8s
+FastEddie 957720742  6  6 cc  c     c     f         4737  100    0 
+FastEddie 957720818  6  5 f   -     -     -         4637    0    0 
+FastEddie 957720864  7  4 f   -     -     -         4637    0    0 
+FastEddie 957720912  7  3 c   c     kf    -         4637   40    0 
+FastEddie 957720993  8  2 Bf  -     -     -         4597   20    0 
+FastEddie 957721057  9  1 Bf  -     -     -         4577   10    0 
+FastEddie 957721110  9  9 f   -     -     -         4567    0    0 
+FastEddie 957721164 10  9 c   f     -     -         4567   20    0 
+FastEddie 957721219 10  8 f   -     -     -         4547    0    0 
+FastEddie 957721296 10  7 f   -     -     -         4547    0    0 
+FastEddie 957721374 10  6 cc  b     b     bc        4547  180    0 Jd Ah
+FastEddie 957721469  9  5 f   -     -     -         4367    0    0 
+FastEddie 957721546 10  4 f   -     -     -         4367    0    0 
+FastEddie 957721635 10  3 cc  kf    -     -         4367   40    0 
+FastEddie 957721717 10  2 Bk  kc    kc    kr        4327  160  300 
+FastEddie 957721772 10  1 Bf  -     -     -         4467   10    0 
+FastEddie 957721848 10 10 f   -     -     -         4457    0    0 
+FastEddie 957721874 10  9 f   -     -     -         4457    0    0 
+FastEddie 957721900 10  8 f   -     -     -         4457    0    0 
+FastEddie 957721974 10  7 f   -     -     -         4457    0    0 
+FastEddie 957722016 10  6 f   -     -     -         4457    0    0 
+FastEddie 957722062 10  5 f   -     -     -         4457    0    0 
+FastEddie 957722099 10  4 f   -     -     -         4457    0    0 
+FastEddie 957722126 10  3 f   -     -     -         4457    0    0 
+FastEddie 957722185 10  2 Bf  -     -     -         4457   20    0 
+FastEddie 957722217 10  1 Bf  -     -     -         4437   10    0 
+FastEddie 957722281 10 10 f   -     -     -         4427    0    0 
+FastEddie 957722363 10  9 f   -     -     -         4427    0    0 
+FastEddie 957722423 10  8 f   -     -     -         4427    0    0 
+FastEddie 957722477 10  7 f   -     -     -         4427    0    0 
+FastEddie 957722540 10  6 f   -     -     -         4427    0    0 
+FastEddie 957722588 10  5 f   -     -     -         4427    0    0 
+FastEddie 957722663 10  4 f   -     -     -         4427    0    0 
+FastEddie 957722726 10  3 f   -     -     -         4427    0    0 
+FastEddie 957722775 10  2 Bk  kf    -     -         4427   20    0 
+FastEddie 957722844 10  1 Bc  b     b     b         4407  120  280 
+FastEddie 957722898 10 10 f   -     -     -         4567    0    0 
+FastEddie 957722918 10  9 f   -     -     -         4567    0    0 
+FastEddie 957722970 10  8 f   -     -     -         4567    0    0 
+FastEddie 957723017 10  7 f   -     -     -         4567    0    0 
+FastEddie 957723057  9  6 f   -     -     -         4567    0    0 
+FastEddie 957723108  9  5 cc  f     -     -         4567   60    0 
+FastEddie 957723163  9  4 f   -     -     -         4507    0    0 
+FastEddie 957723234 10  3 cc  kf    -     -         4507   40    0 
+FastEddie 957723280 10  2 Bk  k     f     -         4467   20    0 
+FastEddie 957723319 10  1 Bf  -     -     -         4447   10    0 
+FastEddie 957723388 10 10 f   -     -     -         4437    0    0 
+FastEddie 957723440 10  9 c   r     c     c         4437  140    0 7h 9h
+FastEddie 957723604 10  8 fQ  -     -     -         4297    0    0 
+FastEddie 957842218  9  5 c   k     f     -         4437   20    0 
+FastEddie 957842263  9  4 c   k     kf    -         4417   20    0 
+FastEddie 957842336  9  3 f   -     -     -         4397    0    0 
+FastEddie 957842394 10  2 Bc  kc    kf    -         4397   60    0 
+FastEddie 957842450 10  1 Bc  k     kf    -         4337   20    0 
+FastEddie 957842546 10 10 f   -     -     -         4317    0    0 
+FastEddie 957842581 10  9 f   -     -     -         4317    0    0 
+FastEddie 957842660 10  8 f   -     -     -         4317    0    0 
+FastEddie 957842692 10  7 f   -     -     -         4317    0    0 
+FastEddie 957842757 10  6 f   -     -     -         4317    0    0 
+FastEddie 957842810 10  5 c   c     c     c         4317  120    0 Qc Qs
+FastEddie 957842858 10  4 f   -     -     -         4197    0    0 
+FastEddie 957842911 10  3 c   b     b     b         4197  120  340 Qs Kc
+FastEddie 957842979 10  2 Bk  k     k     k         4417   20   60 8s 8c
+FastEddie 957843041 10  1 Bf  -     -     -         4457   10    0 
+FastEddie 957843104 10 10 f   -     -     -         4447    0    0 
+FastEddie 957843198 10  9 f   -     -     -         4447    0    0 
+FastEddie 957843268 10  8 f   -     -     -         4447    0    0 
+FastEddie 957843311 10  7 f   -     -     -         4447    0    0 
+FastEddie 957843381 10  6 f   -     -     -         4447    0    0 
+FastEddie 957843451 10  5 f   -     -     -         4447    0    0 
+FastEddie 957843514 10  4 c   k     k     k         4447   20   50 Qs Ah
+FastEddie 957843545 10  3 c   f     -     -         4477   20    0 
+FastEddie 957843627 10  2 Bk  f     -     -         4457   20    0 
+FastEddie 957843683 10  1 Bf  -     -     -         4437   10    0 
+FastEddie 957843717  9  9 f   -     -     -         4427    0    0 
+FastEddie 957843792  9  8 f   -     -     -         4427    0    0 
+FastEddie 957843844  9  7 c   k     b     b         4427  100  190 
+FastEddie 957843903  9  6 f   -     -     -         4517    0    0 
+FastEddie 957843936 10  6 f   -     -     -         4517    0    0 
+FastEddie 957843991 10  5 f   -     -     -         4517    0    0 
+FastEddie 957844073 10  4 cc  kc    kc    kc        4517  140    0 Td Ts
+FastEddie 957844149 10  3 c   kf    -     -         4377   20    0 
+FastEddie 957844218 10  2 Bk  k     kf    -         4357   20    0 
+FastEddie 957844298 10  1 Bc  kc    kc    kc        4337  140    0 Qd Kc
+FastEddie 957844388 10 10 f   -     -     -         4197    0    0 
+FastEddie 957844413 10  9 f   -     -     -         4197    0    0 
+FastEddie 957844460 10  8 c   b     bc    f         4197  120    0 
+FastEddie 957844566  8  5 cf  -     -     -         4077   20    0 
+FastEddie 957844622  9  4 f   -     -     -         4057    0    0 
+FastEddie 957844640  9  3 f   -     -     -         4057    0    0 
+FastEddie 957844685 10  3 c   kf    -     -         4057   20    0 
+FastEddie 957844745 10  2 Bk  cf    -     -         4037   40    0 
+FastEddie 957844829 10  1 Bc  kf    -     -         3997   20    0 
+FastEddie 957844897 10 10 f   -     -     -         3977    0    0 
+FastEddie 957844935 10  9 c   b     bc    c         3977  160    0 Ah Jd
+FastEddie 957844988  9  7 c   f     -     -         3817   60    0 
+FastEddie 957845032 10  6 f   -     -     -         3757    0    0 
+FastEddie 957845097 10  5 c   b     b     -         3757   80  170 
+FastEddie 957845140 10  4 f   -     -     -         3847    0    0 
+FastEddie 957845198 10  3 f   -     -     -         3847    0    0 
+FastEddie 957845225 10  2 Bc  kc    kc    k         3847  100    0 Ad 6h
+FastEddie 957845264 10  1 Bf  -     -     -         3747   10    0 
+FastEddie 957845274 10 10 f   -     -     -         3737    0    0 
+FastEddie 957845339 10  9 f   -     -     -         3737    0    0 
+FastEddie 957845397 10  8 f   -     -     -         3737    0    0 
+FastEddie 957845438 10  7 f   -     -     -         3737    0    0 
+FastEddie 957845492 10  6 f   -     -     -         3737    0    0 
+FastEddie 957845534 10  5 f   -     -     -         3737    0    0 
+FastEddie 957845611 10  4 c   kf    -     -         3737   20    0 
+FastEddie 957845667 10  3 f   -     -     -         3717    0    0 
+FastEddie 957845718 10  2 Bf  -     -     -         3717   20    0 
+FastEddie 957845774  9  1 Bc  k     kf    -         3697   20    0 
+FastEddie 957845811  9  9 c   k     rc    c         3677  180    0 Td Ks
+FastEddie 957845861  9  8 f   -     -     -         3497    0    0 
+FastEddie 957845895  8  6 cc  kf    -     -         3497   40    0 
+FastEddie 957845923  8  6 cc  cf    -     -         3457   60    0 
+FastEddie 957845991  8  5 c   c     f     -         3397   60    0 
+FastEddie 957846086  8  4 c   b     k     k         3337   40  110 Ac 9c
+FastEddie 957846124  8  3 cc  c     cf    -         3407  100    0 
+FastEddie 957846176  7  2 Bcc b     bcc   kc        3307  300    0 Ah 6h
+FastEddie 957846267  7  1 Bf  -     -     -         3007   10    0 
+FastEddie 957846320  8  8 f   -     -     -         2997    0    0 
+FastEddie 957846369  8  7 f   -     -     -         2997    0    0 
+FastEddie 957846407  7  5 f   -     -     -         2997    0    0 
+FastEddie 957846443  7  4 f   -     -     -         2997    0    0 
+FastEddie 957846528  7  3 c   bc    b     -         2997  100  210 
+FastEddie 957846598  9  2 Bk  kf    -     -         3107   20    0 
+FastEddie 957846639  8  1 Bc  k     kf    -         3087   20    0 
+FastEddie 957846682  8  8 c   c     k     k         3067   40    0 5s 7s
+FastEddie 957846725  8  7 f   -     -     -         3027    0    0 
+FastEddie 957846754  8  6 f   -     -     -         3027    0    0 
+FastEddie 957846794  8  5 f   -     -     -         3027    0    0 
+FastEddie 957846876  8  4 f   -     -     -         3027    0    0 
+FastEddie 957846991  7  3 f   -     -     -         3027    0    0 
+FastEddie 957847033  7  2 Bk  kf    -     -         3027   20    0 
+FastEddie 957847071  7  1 Bc  kc    kc    kr        3007  160  440 4h 4c
+FastEddie 957847108  7  7 c   f     -     -         3287   20    0 
+FastEddie 957847137  7  6 f   -     -     -         3267    0    0 
+FastEddie 957847145  7  5 f   -     -     -         3267    0    0 
+FastEddie 957847201  9  4 c   f     -     -         3267   20    0 
+FastEddie 957847295 10  3 f   -     -     -         3247    0    0 
+FastEddie 957847366 10  2 Bf  -     -     -         3247   20    0 
+FastEddie 957847383 10  1 Bc  k     k     kc        3227   80    0 8s 5s
+FastEddie 957847448 10 10 f   -     -     -         3147    0    0 
+FastEddie 957847493 10  9 f   -     -     -         3147    0    0 
+FastEddie 957847545 10  8 f   -     -     -         3147    0    0 
+FastEddie 957847588 10  7 f   -     -     -         3147    0    0 
+FastEddie 957847638 10  6 c   b     bc    b         3147  160  350 
+FastEddie 957847683 10  5 f   -     -     -         3337    0    0 
+FastEddie 957847731 10  4 r   -     -     -         3337   40   70 
+FastEddie 957847749 10  3 r   kf    -     -         3367   40    0 
+FastEddie 957847795 10  2 Bf  -     -     -         3327   20    0 
+FastEddie 957847841 10  1 Bf  -     -     -         3307   10    0 
+FastEddie 957847900 10 10 f   -     -     -         3297    0    0 
+FastEddie 957847939 10  9 c   f     -     -         3297   20    0 
+FastEddie 957848009 10  8 f   -     -     -         3277    0    0 
+FastEddie 957848044 10  7 f   -     -     -         3277    0    0 
+FastEddie 957848085  8  4 f   -     -     -         3277    0    0 
+FastEddie 957848156  8  4 f   -     -     -         3277    0    0 
+FastEddie 957848193  7  2 Bk  kf    -     -         3277   20    0 
+FastEddie 957848213  7  1 Bc  kf    -     -         3257   40    0 
+FastEddie 957848247  7  7 f   -     -     -         3217    0    0 
+FastEddie 957848265  7  6 f   -     -     -         3217    0    0 
+FastEddie 957848306  7  5 f   -     -     -         3217    0    0 
+FastEddie 957848363  7  4 f   -     -     -         3217    0    0 
+FastEddie 957848409  7  3 c   k     kf    -         3217   20    0 
+FastEddie 957848442  7  2 Bk  kc    kf    -         3197   40    0 
+FastEddie 957848470  7  1 Bc  kf    -     -         3157   20    0 
+FastEddie 957848516  7  7 f   -     -     -         3137    0    0 
+FastEddie 957848548  7  6 f   -     -     -         3137    0    0 
+FastEddie 957848592  7  5 f   -     -     -         3137    0    0 
+FastEddie 957848643  7  4 f   -     -     -         3137    0    0 
+FastEddie 957848675  7  3 f   -     -     -         3137    0    0 
+FastEddie 957848705  7  2 B   -     -     -         3137   20   30 
+FastEddie 957848717  7  1 Bf  -     -     -         3147   10    0 
+FastEddie 957848735  7  7 f   -     -     -         3137    0    0 
+FastEddie 957848771  7  6 f   -     -     -         3137    0    0 
+FastEddie 957848791  7  5 f   -     -     -         3137    0    0 
+FastEddie 957848814  7  4 f   -     -     -         3137    0    0 
+FastEddie 957848832  7  3 f   -     -     -         3137    0    0 
+FastEddie 957848864  7  2 Bf  -     -     -         3137   20    0 
+FastEddie 957848889  7  1 Bf  -     -     -         3117   10    0 
+FastEddie 957848908  6  6 c   cc    k     f         3107   80    0 
+FastEddie 957848941  5  4 f   -     -     -         3027    0    0 
+FastEddie 957848958  5  3 c   c     c     f         3027   80    0 
+FastEddie 957848974  5  2 Br  b     b     b         2947  140  250 
+FastEddie 957848998  4  1 Bc  kc    k     kf        3057   40    0 
+FastEddie 957849034  4  4 f   -     -     -         3017    0    0 
+FastEddie 957849048  4  3 c   c     c     f         3017   80    0 
+FastEddie 957849070  4  2 B   -     -     -         2937   20   30 
+FastEddie 957849076  4  1 Bf  -     -     -         2947   10    0 
+FastEddie 957849106  4  4 c   f     -     -         2937   20    0 
+FastEddie 957849120  4  3 c   kf    -     -         2917   20    0 
+FastEddie 957849133  4  2 Bc  c     k     k         2897   60    0 2s 2c
+FastEddie 957849153  4  1 Bf  -     -     -         2837   10    0 
+FastEddie 957849163  4  4 f   -     -     -         2827    0    0 
+FastEddie 957849173  5  4 f   -     -     -         2827    0    0 
+FastEddie 957849188  5  3 f   -     -     -         2827    0    0 
+FastEddie 957849208  5  2 Bk  kf    -     -         2827   20    0 
+FastEddie 957849238  5  1 Bc  kf    -     -         2807   20    0 
+FastEddie 957849255  5  5 f   -     -     -         2787    0    0 
+FastEddie 957849278  5  4 f   -     -     -         2787    0    0 
+FastEddie 957849312  5  3 c   f     -     -         2787   20    0 
+FastEddie 957849351  5  2 Bk  kf    -     -         2767   20    0 
+FastEddie 957849379  5  1 Bc  kc    kf    -         2747   60    0 
+FastEddie 957849422  5  5 c   f     -     -         2687   20    0 
+FastEddie 957849444  4  3 cc  c     k     k         2667   60    0 4h 6h
+FastEddie 957849467  4  2 Bf  -     -     -         2607   20    0 
+FastEddie 957849483  4  1 Bc  k     k     k         2587   20   40 7h 9h
+FastEddie 957849516  4  4 c   c     c     b         2607  120  260 Ad 7s
+FastEddie 957849559  4  3 c   b     bc    kc        2747  160    0 Kc Ks
+FastEddie 957849592  4  2 Bk  kc    kc    kf        2587   80    0 
+FastEddie 957849614  4  1 Bc  k     kc    k         2507   80  180 Ac 4c
+FastEddie 957849637  4  4 f   -     -     -         2607    0    0 
+FastEddie 957849661  4  3 cc  c     c     k         2607  100    0 5d 9d
+FastEddie 957849699  4  2 Bk  kc    k     b         2507   80  150 
+FastEddie 957849722  4  1 Bc  k     kc    k         2577   60  120 8h Ah
+FastEddie 957849744  4  4 f   -     -     -         2637    0    0 
+FastEddie 957849768  4  3 f   -     -     -         2637    0    0 
+FastEddie 957849774  4  2 Bc  f     -     -         2637   40    0 
+FastEddie 957849785  4  1 Bf  -     -     -         2597   10    0 
+FastEddie 957849814  4  4 f   -     -     -         2587    0    0 
+FastEddie 957849823  4  3 cc  f     -     -         2587   40    0 
+FastEddie 957849838  4  2 Bk  b     k     kf        2547   40    0 
+FastEddie 957849865  4  1 Bf  -     -     -         2507   10    0 
+FastEddie 957849889  4  4 f   -     -     -         2497    0    0 
+FastEddie 957849906  4  3 c   k     b     -         2497   60   90 
+FastEddie 957849925  4  2 Bk  k     kf    -         2527   20    0 
+FastEddie 957849958  5  1 Bc  kf    -     -         2507   40    0 
+FastEddie 957849970  5  5 c   c     c     f         2467  100    0 
+FastEddie 957849987  6  5 f   -     -     -         2367    0    0 
+FastEddie 957850004  6  4 c   kc    kf    -         2367   40    0 
+FastEddie 957850036  6  3 f   -     -     -         2327    0    0 
+FastEddie 957850066  6  2 Bf  -     -     -         2327   20    0 
+FastEddie 957850093  6  1 Bc  k     b     -         2307   60   80 
+FastEddie 957850117  6  6 c   bc    c     f         2327  100    0 
+FastEddie 957850146  7  6 f   -     -     -         2227    0    0 
+FastEddie 957850169  7  5 cc  c     b     -         2227  100  220 
+FastEddie 957850204  7  4 f   -     -     -         2347    0    0 
+FastEddie 957850225  7  3 c   k     k     k         2347   20    0 Ts Jh
+FastEddie 957850242  7  2 Bk  c     c     k         2327   80    0 2c 2h
+FastEddie 957850275  7  1 Bc  k     kc    kf        2247   60    0 
+FastEddie 957850306  7  7 cc  c     c     f         2187  100    0 
+FastEddie 957850335  7  6 f   -     -     -         2087    0    0 
+FastEddie 957850342  7  3 Q   -     -     -         2087    0    0 
+FastEddie 959315298  9  7 c   b     b     b         2515  140  340 8h 7h
+FastEddie 959315353  9  6 cc  f     -     -         2715   60    0 
+FastEddie 959315411 10  5 f   -     -     -         2655    0    0 
+FastEddie 959315469 10  4 cc  kf    -     -         2655   40    0 
+FastEddie 959315530 10  3 f   -     -     -         2615    0    0 
+FastEddie 959315623 10  2 Bf  -     -     -         2615   20    0 
+FastEddie 959315687 10  1 Bf  -     -     -         2595   10    0 
+FastEddie 959315765 10 10 f   -     -     -         2585    0    0 
+FastEddie 959315802 10  9 cf  -     -     -         2585   40    0 
+FastEddie 959315884 10  8 f   -     -     -         2545    0    0 
+FastEddie 959315936 10  7 c   cc    c     k         2545  120  500 Qc Qh
+FastEddie 959316035 10  6 f   -     -     -         2925    0    0 
+FastEddie 959316093 10  5 f   -     -     -         2925    0    0 
+FastEddie 959316170 10  4 c   b     -     -         2925   40  110 
+FastEddie 959316203 10  3 f   -     -     -         2995    0    0 
+FastEddie 959316287 10  2 Bf  -     -     -         2995   20    0 
+FastEddie 959316345 10  1 Bf  -     -     -         2975   10    0 
+FastEddie 959316383 10 10 f   -     -     -         2965    0    0 
+FastEddie 959316437 10  9 f   -     -     -         2965    0    0 
+FastEddie 959316478 10  8 f   -     -     -         2965    0    0 
+FastEddie 959316556 10  7 f   -     -     -         2965    0    0 
+FastEddie 959316592 10  6 c   kf    -     -         2965   20    0 
+FastEddie 959316635 10  5 f   -     -     -         2945    0    0 
+FastEddie 959316675 10  4 f   -     -     -         2945    0    0 
+FastEddie 959316769 10  3 f   -     -     -         2945    0    0 
+FastEddie 959316805 10  2 Bc  kc    kc    kf        2945  100    0 
+FastEddie 959316842  9  1 Bf  -     -     -         2845   10    0 
+FastEddie 959316881  9  9 c   f     -     -         2835   20    0 
+FastEddie 959316913  9  8 f   -     -     -         2815    0    0 
+FastEddie 959316975 10  8 c   f     -     -         2815   20    0 
+FastEddie 959317059 10  7 f   -     -     -         2795    0    0 
+FastEddie 959317157 10  6 f   -     -     -         2795    0    0 
+FastEddie 959317218 10  5 f   -     -     -         2795    0    0 
+FastEddie 959317258 10  4 cc  kf    Q     -         2795   40    0 
+FastEddie 959405986  7  3 cc  kc    kf    -         3620   60    0 
+FastEddie 959406012  7  2 Bf  -     -     -         3560   20    0 
+FastEddie 959406036  7  1 Bc  k     kf    -         3540   20    0 
+FastEddie 959406080  7  7 f   -     -     -         3520    0    0 
+FastEddie 959406116  7  6 f   -     -     -         3520    0    0 
+FastEddie 959406132  7  5 c   kc    kc    kr        3520  160  480 8s 8h
+FastEddie 959406191  7  4 cf  -     -     -         3840   20    0 
+FastEddie 959406234  7  3 f   -     -     -         3820    0    0 
+FastEddie 959406262  7  2 Bk  c     c     f         3820   80    0 
+FastEddie 959406285  7  1 Bc  kf    -     -         3740   20    0 
+FastEddie 959406310  7  7 f   -     -     -         3720    0    0 
+FastEddie 959406328  6  5 f   -     -     -         3720    0    0 
+FastEddie 959406361  6  4 f   -     -     -         3720    0    0 
+FastEddie 959406385  6  3 c   b     bc    b         3720  160  510 9h Kh
+FastEddie 959406439  7  2 Bk  k     kf    -         4070   20    0 
+FastEddie 959406490  7  1 Bc  bc    kc    kf        4050  120    0 
+FastEddie 959406540  8  7 c   k     c     r         3930  140  320 Ks As
+FastEddie 959406595  8  6 f   -     -     -         4110    0    0 
+FastEddie 959406635  8  5 cc  c     c     b         4110  140  380 Js Qs
+FastEddie 959406685  8  4 f   -     -     -         4350    0    0 
+FastEddie 959406749  7  3 c   b     bc    c         4350  160  350 Qc Ad
+FastEddie 959406790  7  2 Bc  k     c     r         4540  160  440 Jd Td
+FastEddie 959406830  7  1 Bf  -     -     -         4820   10    0 
+FastEddie 959406878  8  8 c   f     -     -         4810   20    0 
+FastEddie 959406904  8  7 r   b     b     b         4790  140  370 Ad Ah
+FastEddie 959406931  8  6 f   -     -     -         5020    0    0 
+FastEddie 959406966  8  5 f   -     -     -         5020    0    0 
+FastEddie 959406991  8  4 f   -     -     -         5020    0    0 
+FastEddie 959407046  8  3 c   b     b     bc        5020  160  330 Kd Kh
+FastEddie 959407073  8  2 Bf  -     -     -         5190   20    0 
+FastEddie 959407100  9  1 Bf  -     -     -         5170   10    0 
+FastEddie 959407168 10 10 f   -     -     -         5160    0    0 
+FastEddie 959407209 10  9 f   Q     -     -         5160    0    0 

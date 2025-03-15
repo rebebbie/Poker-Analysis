@@ -1,0 +1,270 @@
+Flush_man 958005470  3  2 B   -     -     -         5118   50   75 
+Flush_man 958005485  3  1 Br  kr    br    -         5143  500  950 
+Flush_man 958005502  3  3 f   -     -     -         5593    0    0 
+Flush_man 958005527  3  2 Bc  krc   kc    kf        5593  350    0 
+Flush_man 958005558  3  1 Bc  k     br    -         5243  350  600 
+Flush_man 958005573  3  3 f   -     -     -         5493    0    0 
+Flush_man 958005591  3  2 Bf  -     -     -         5493   50    0 
+Flush_man 958005597  3  1 Bf  -     -     -         5443   25    0 
+Flush_man 958005611  3  3 r   -     -     -         5418  100  175 
+Flush_man 958005618  3  2 Bk  b     -     -         5493  100  150 
+Flush_man 958005626  3  1 Bf  -     -     -         5543   25    0 
+Flush_man 958005639  3  3 r   r     c     c         5518  400  825 7s 9d
+Flush_man 958005653  3  2 Bf  -     -     -         5943   50    0 
+Flush_man 958005681  3  1 Bc  kf    -     -         5893   50    0 
+Flush_man 958005719  3  3 f   -     -     -         5843    0    0 
+Flush_man 958005739  3  2 Bf  -     -     -         5843   50    0 
+Flush_man 958005761  3  1 Bc  k     kr    -         5793  250  400 
+Flush_man 958005785  3  3 f   -     -     -         5943    0    0 
+Flush_man 958005800  3  2 Bk  kr    b     b         5943  350  725 Jc 7c
+Flush_man 958005831  3  1 Bf  -     -     -         6318   25    0 
+Flush_man 958005839  3  3 f   -     -     -         6293    0    0 
+Flush_man 958005859  3  2 Bf  -     -     -         6293   50    0 
+Flush_man 958005867  2  1 Bf  -     -     -         6243   25    0 
+Flush_man 958005868  2  2 Bc  f     -     -         6218  100    0 
+Flush_man 958005874  2  1 Br  br    -     -         6118  250  450 
+Flush_man 958005883  2  2 B   -     -     -         6318   50   75 
+Flush_man 958005886  2  1 Bf  -     -     -         6343   25    0 
+Flush_man 958005887  2  2 Bf  -     -     -         6318   50    0 
+Flush_man 958005890  2  1 Bf  -     -     -         6268   25    0 
+Flush_man 958005892  2  2 B   -     -     -         6243   50   75 
+Flush_man 958005894  2  1 Br  -     -     -         6268  100  150 
+Flush_man 958005900  2  2 Bk  f     -     -         6318   50    0 
+Flush_man 958005907  2  1 Bf  -     -     -         6268   25    0 
+Flush_man 958005909  2  2 B   -     -     -         6243   50   75 
+Flush_man 958005912  2  1 Br  b     -     -         6268  150  250 
+Flush_man 958005918  2  2 B   -     -     -         6368   50   75 
+Flush_man 958005920  2  1 Br  -     -     -         6393  100  150 
+Flush_man 958005923  2  2 Bk  k     b     -         6443  150  200 
+Flush_man 958005934  2  1 Bf  -     -     -         6493   25    0 
+Flush_man 958005936  2  2 B   -     -     -         6468   50   75 
+Flush_man 958005939  2  1 Br  kf    -     -         6493  100    0 
+Flush_man 958005948  2  2 B   -     -     -         6393   50   75 
+Flush_man 958005952  2  1 Bf  -     -     -         6418   25    0 
+Flush_man 958005953  2  2 Bf  -     -     -         6393   50    0 
+Flush_man 958005957  2  1 Bf  -     -     -         6343   25    0 
+Flush_man 958005959  2  2 Bc  c     r     k         6318  350  700 7s Th
+Flush_man 958005970  2  1 Bf  -     -     -         6668   25    0 
+Flush_man 958005975  2  2 B   -     -     -         6643   50   75 
+Flush_man 958005978  2  1 Br  b     -     -         6668  150  250 
+Flush_man 958005987  2  2 Bk  k     k     k         6768   50  100 9s 2s
+Flush_man 958005999  2  1 Bf  -     -     -         6818   25    0 
+Flush_man 958006003  2  2 B   -     -     -         6793   50   75 
+Flush_man 958006005  2  1 Br  b     -     -         6818  150  250 
+Flush_man 958006011  2  2 B   -     -     -         6918   50   75 
+Flush_man 958006014  2  1 Bf  -     -     -         6943   25    0 
+Flush_man 958006015  2  2 B   -     -     -         6918   50   75 
+Flush_man 958006017  2  1 Bf  -     -     -         6943   25    0 
+Flush_man 958006019  2  2 Bk  f     -     -         6918   50    0 
+Flush_man 958006024  2  1 Br  kf    -     -         6868  100    0 
+Flush_man 958006031  2  2 Bk  f     -     -         6768   50    0 
+Flush_man 958006037  2  1 Bf  -     -     -         6718   25    0 
+Flush_man 958006039  2  2 B   -     -     -         6693   50   75 
+Flush_man 958006041  2  1 Bf  -     -     -         6718   25    0 
+Flush_man 958006045  2  2 B   -     -     -         6693   50   75 
+Flush_man 958006047  2  1 Bf  -     -     -         6718   25    0 
+Flush_man 958006050  2  2 Bk  c     c     k         6693  200  400 Kh Js
+Flush_man 958006061  2  1 Bf  -     -     -         6893   25    0 
+Flush_man 958006066  2  2 Bk  k     k     k         6868   50    0 Th 3s
+Flush_man 958006077  2  1 Bf  -     -     -         6818   25    0 
+Flush_man 958006082  2  2 Bf  -     -     -         6793   50    0 
+Flush_man 958006085  2  1 Bf  -     -     -         6743   25    0 
+Flush_man 958006087  2  2 Bk  k     r     k         6718  250  500 Qc As
+Flush_man 958006100  2  1 Bf  -     -     -         6968   25    0 
+Flush_man 958006105  2  2 Bk  c     c     k         6943  200  400 Kh Ah
+Flush_man 958006119  2  1 Bf  -     -     -         7143   25    0 
+Flush_man 958006124  2  2 B   -     -     -         7118   50   75 
+Flush_man 958006132  2  1 Bf  -     -     -         7143   25    0 
+Flush_man 958006141  2  2 Bf  -     -     -         7118   50    0 
+Flush_man 958006145  2  1 Br  b     k     k         7068  150  300 8d 8h
+Flush_man 958006157  2  2 B   -     -     -         7218   50   75 
+Flush_man 958006161  2  1 Bf  -     -     -         7243   25    0 
+Flush_man 958006163  2  2 Br  f     -     -         7218  150    0 
+Flush_man 958006171  2  1 Br  kf    -     -         7068  100    0 
+Flush_man 958006178  2  2 B   -     -     -         6968   50   75 
+Flush_man 958006181  2  1 Bf  -     -     -         6993   25    0 
+Flush_man 958006182  2  2 Br  r     k     k         6968  200  400 Jc Jh
+Flush_man 958006197  2  1 Bf  -     -     -         7168   25    0 
+Flush_man 958006203  2  2 Bc  k     k     k         7143  100    0 As 7c
+Flush_man 958006217  2  1 Bc  k     b     -         7043  150  200 
+Flush_man 958006246  2  2 Bk  k     k     k         7093   50  100 9c Tc
+Flush_man 958006253  2  1 Br  -     -     -         7143  100  150 
+Flush_man 958006259  2  2 Bk  f     -     -         7193   50    0 
+Flush_man 958006265  2  1 Bf  -     -     -         7143   25    0 
+Flush_man 958006267  2  2 B   -     -     -         7118   50   75 
+Flush_man 958006269  2  1 Br  kf    -     -         7143  100    0 
+Flush_man 958006276  2  2 B   -     -     -         7043   50   75 
+Flush_man 958006278  2  1 Bf  -     -     -         7068   25    0 
+Flush_man 958006281  2  2 Bk  c     r     k         7043  300  600 Ac 9c
+Flush_man 958006300  2  1 Bf  -     -     -         7343   25    0 
+Flush_man 958006310  2  2 Bk  k     k     k         7318   50  100 6c Ts
+Flush_man 958006328  2  1 Bc  kc    k     b         7368  200  300 
+Flush_man 958006345  2  2 Bf  -     -     -         7468   50    0 
+Flush_man 958006350  2  1 Bf  -     -     -         7418   25    0 
+Flush_man 958006352  2  2 Bk  f     -     -         7393   50    0 
+Flush_man 958006357  2  1 Bc  kr    k     k         7343  150  300 Jc 9d
+Flush_man 958006371  2  2 B   -     -     -         7493   50   75 
+Flush_man 958006376  2  1 Bf  -     -     -         7518   25    0 
+Flush_man 958006377  2  2 B   -     -     -         7493   50   75 
+Flush_man 958006379  2  1 Bf  -     -     -         7518   25    0 
+Flush_man 958006382  2  2 Bk  f     -     -         7493   50    0 
+Flush_man 958006388  2  1 Bf  -     -     -         7443   25    0 
+Flush_man 958006391  2  2 B   -     -     -         7418   50   75 
+Flush_man 958006393  2  1 Bf  -     -     -         7443   25    0 
+Flush_man 958006394  2  2 Bk  k     k     k         7418   50  100 2d 2h
+Flush_man 958006405  2  1 Bf  -     -     -         7468   25    0 
+Flush_man 958006410  2  2 B   -     -     -         7443   50   75 
+Flush_man 958006416  2  1 Br  -     -     -         7468  100  150 
+Flush_man 958006426  2  2 Bk  k     k     f         7518   50    0 
+Flush_man 958006436  2  1 Bf  -     -     -         7468   25    0 
+Flush_man 958006438  2  2 B   -     -     -         7443   50   75 
+Flush_man 958006440  2  1 Bf  -     -     -         7468   25    0 
+Flush_man 958006442  2  2 Bf  -     -     -         7443   50    0 
+Flush_man 958006448  2  1 Br  b     k     k         7393  150    0 9c Jc
+Flush_man 958006460  2  2 B   -     -     -         7243   50   75 
+Flush_man 958006465  2  1 Br  k     b     -         7268  200  300 
+Flush_man 958006474  2  2 B   -     -     -         7368   50   75 
+Flush_man 958006476  2  1 Bf  -     -     -         7393   25    0 
+Flush_man 958006478  2  2 Bk  f     -     -         7368   50    0 
+Flush_man 958006484  2  1 Br  b     -     -         7318  150  250 
+Flush_man 958006499  3  2 Bk  f     -     -         7418   50    0 
+Flush_man 958006513  3  1 Bf  -     -     -         7368   25    0 
+Flush_man 958006517  3  3 rc  r     -     -         7343  250  500 
+Flush_man 958006533  3  2 Br  b     -     -         7593  200  350 
+Flush_man 958006543  3  1 Bf  -     -     -         7743   25    0 
+Flush_man 958006550  3  3 f   -     -     -         7718    0    0 
+Flush_man 958006553  3  2 Bf  -     -     -         7718   50    0 
+Flush_man 958006556  3  1 Bc  k     k     b         7668  200  350 
+Flush_man 958006571  3  3 f   -     -     -         7818    0    0 
+Flush_man 958006575  3  2 Bc  f     -     -         7818  100    0 
+Flush_man 958006582  3  1 Bf  -     -     -         7718   25    0 
+Flush_man 958006596  3  3 r   k     k     k         7693  100    0 Qc Ad
+Flush_man 958006610  3  2 Bc  kf    -     -         7593  100    0 
+Flush_man 958006622  3  1 Bc  k     k     b         7493  150  200 
+Flush_man 958006632  3  3 f   -     -     -         7543    0    0 
+Flush_man 958006634  3  2 B   -     -     -         7543   50   75 
+Flush_man 958006637  3  1 Bf  -     -     -         7568   25    0 
+Flush_man 958006639  3  3 r   r     -     -         7543  200  375 
+Flush_man 958006646  3  2 B   -     -     -         7718   50   75 
+Flush_man 958006651  3  1 Bcc kc    kr    k         7743  350    0 8h Jh
+Flush_man 958006669  3  3 r   r     f     -         7393  200    0 
+Flush_man 958006680  3  2 Bk  r     c     k         7193  250  500 2c Kd
+Flush_man 958006702  3  1 Bf  -     -     -         7443   25    0 
+Flush_man 958006710  3  3 c   k     k     k         7418   50   75 4d Ah
+Flush_man 958006733  3  2 Bf  -     -     -         7443   50    0 
+Flush_man 958006748  3  1 Bf  -     -     -         7393   25    0 
+Flush_man 958006754  3  3 r   -     -     -         7368  100  175 
+Flush_man 958006758  3  2 Bk  c     kc    k         7443  200  500 8h 9d
+Flush_man 958006781  3  1 Bf  -     -     -         7743   25    0 
+Flush_man 958006789  3  3 f   -     -     -         7718    0    0 
+Flush_man 958006792  3  2 Br  k     k     b         7718  200  500 Ah Ad
+Flush_man 958006818  3  1 Bc  b     -     -         8018  100  150 
+Flush_man 958006829  3  3 r   r     -     -         8068  200  375 
+Flush_man 958006837  3  2 Bf  -     -     -         8243   50    0 
+Flush_man 958006841  3  1 Br  -     -     -         8193  100  150 
+Flush_man 958006843  3  3 r   f     -     -         8243  100    0 
+Flush_man 958006848  3  2 Bk  f     -     -         8143   50    0 
+Flush_man 958006855  3  1 Bf  -     -     -         8093   25    0 
+Flush_man 958006862  3  3 f   -     -     -         8068    0    0 
+Flush_man 958006864  3  2 Bk  k     k     k         8068   50    0 4s 5h
+Flush_man 958006873  3  1 Bf  -     -     -         8018   25    0 
+Flush_man 958006877  3  3 r   -     -     -         7993  100  175 
+Flush_man 958006881  3  2 Bf  -     -     -         8068   50    0 
+Flush_man 958006884  3  1 Bf  -     -     -         8018   25    0 
+Flush_man 958006886  3  3 f   -     -     -         7993    0    0 
+Flush_man 958006889  3  2 Bk  kr    -     -         7993  150  300 
+Flush_man 958006902  3  1 Br  -     -     -         8143  100  150 
+Flush_man 958006905  3  3 r   -     -     -         8193  100  175 
+Flush_man 958006909  3  2 Bc  k     k     k         8268  100  225 5d 8d
+Flush_man 958006924  3  1 Bf  -     -     -         8393   25    0 
+Flush_man 958006930  3  3 f   -     -     -         8368    0    0 
+Flush_man 958006933  3  2 B   -     -     -         8368   50   75 
+Flush_man 958006935  3  1 Bf  -     -     -         8393   25    0 
+Flush_man 958006949  3  3 f   -     -     -         8368    0    0 
+Flush_man 958006963  3  2 Bf  -     -     -         8368   50    0 
+Flush_man 958006968  3  1 Bf  -     -     -         8318   25    0 
+Flush_man 958006977  3  3 f   -     -     -         8293    0    0 
+Flush_man 958006984  3  2 Bc  kc    k     b         8293  250  425 
+Flush_man 958007001  3  1 Bf  -     -     -         8468   25    0 
+Flush_man 958007015  3  3 f   -     -     -         8443    0    0 
+Flush_man 958007019  3  2 Bk  kr    k     k         8443  150    0 Tc 9d
+Flush_man 958007033  3  1 Bf  -     -     -         8293   25    0 
+Flush_man 958007040  3  3 cc  r     bf    -         8268  300    0 
+Flush_man 958007057  3  2 Br  b     br    b         7968  550    0 Td Th
+Flush_man 958007081  3  1 Bf  -     -     -         7418   25    0 
+Flush_man 958007089  3  3 r   -     -     -         7393  100  175 
+Flush_man 958007094  3  2 Bk  f     -     -         7468   50    0 
+Flush_man 958007101  3  1 Bf  -     -     -         7418   25    0 
+Flush_man 958007111  3  3 f   -     -     -         7393    0    0 
+Flush_man 958007116  3  2 B   -     -     -         7393   50   75 
+Flush_man 958007119  3  1 Bc  k     k     kc        7418  150    0 9d Ts
+Flush_man 958007134  3  3 r   -     -     -         7268  100  175 
+Flush_man 958007143  3  2 B   -     -     -         7343   50   75 
+Flush_man 958007145  3  1 Br  b     -     -         7368  150  250 
+Flush_man 958007152  3  3 f   -     -     -         7468    0    0 
+Flush_man 958007154  3  2 Br  f     -     -         7468  150    0 
+Flush_man 958007163  3  1 Bf  -     -     -         7318   25    0 
+Flush_man 958007170  3  3 f   -     -     -         7293    0    0 
+Flush_man 958007175  3  2 B   -     -     -         7293   50   75 
+Flush_man 958007177  2  1 Bf  -     -     -         7318   25    0 
+Flush_man 958007178  2  2 Bk  f     -     -         7293   50    0 
+Flush_man 958007186  2  1 Bf  -     -     -         7243   25    0 
+Flush_man 958007187  2  2 Bk  f     -     -         7218   50    0 
+Flush_man 958007192  2  1 Bf  -     -     -         7168   25    0 
+Flush_man 958007193  2  2 B   -     -     -         7143   50   75 
+Flush_man 958007195  2  1 Bf  -     -     -         7168   25    0 
+Flush_man 958007199  2  2 Bk  f     -     -         7143   50    0 
+Flush_man 958007205  2  1 Bf  -     -     -         7093   25    0 
+Flush_man 958007208  2  2 B   -     -     -         7068   50   75 
+Flush_man 958007211  2  1 Bf  -     -     -         7093   25    0 
+Flush_man 958007214  2  2 B   -     -     -         7068   50   75 
+Flush_man 958007216  2  1 Bf  -     -     -         7093   25    0 
+Flush_man 958007220  2  2 B   -     -     -         7068   50   75 
+Flush_man 958007222  2  1 Bf  -     -     -         7093   25    0 
+Flush_man 958007226  2  2 Bf  -     -     -         7068   50    0 
+Flush_man 958007230  2  1 Bf  -     -     -         7018   25    0 
+Flush_man 958007234  2  2 B   -     -     -         6993   50   75 
+Flush_man 958007236  2  1 Br  -     -     -         7018  100  150 
+Flush_man 958007244  2  2 Bc  k     k     k         7068  100    0 9c Tc
+Flush_man 958007258  2  1 Bf  -     -     -         6968   25    0 
+Flush_man 958007263  2  2 B   -     -     -         6943   50   75 
+Flush_man 958007264  2  1 Br  -     -     -         6968  100  150 
+Flush_man 958007268  2  2 Bk  b     -     -         7018  100  150 
+Flush_man 958007275  2  1 Br  -     -     -         7068  100  150 
+Flush_man 958007278  2  2 B   -     -     -         7118   50   75 
+Flush_man 958007280  2  1 Br  kf    -     -         7143  100    0 
+Flush_man 958007286  2  2 B   -     -     -         7043   50   75 
+Flush_man 958007290  2  1 Bf  -     -     -         7068   25    0 
+Flush_man 958007291  2  2 B   -     -     -         7043   50   75 
+Flush_man 958007294  2  1 Br  -     -     -         7068  100  150 
+Flush_man 958007297  2  2 B   -     -     -         7118   50   75 
+Flush_man 958007300  2  1 Bf  -     -     -         7143   25    0 
+Flush_man 958007304  2  2 Bf  -     -     -         7118   50    0 
+Flush_man 958007310  2  1 Bf  -     -     -         7068   25    0 
+Flush_man 958007313  2  2 Bk  b     k     rc        7043  400    0 7s 6c
+Flush_man 958007341  2  1 Br  -     -     -         6643  100  150 
+Flush_man 958007353  3  2 Bc  kr    -     -         6693  200  450 
+Flush_man 958007368  3  1 Bf  -     -     -         6943   25    0 
+Flush_man 958007371  3  3 f   -     -     -         6918    0    0 
+Flush_man 958007383  3  2 Bk  kf    -     -         6918   50    0 
+Flush_man 958007394  3  1 Bf  -     -     -         6868   25    0 
+Flush_man 958007396  3  3 r   r     k     b         6843  300    0 Js 9s
+Flush_man 958007413  3  2 B   -     -     -         6543   50   75 
+Flush_man 958007419  3  1 Bc  b     -     -         6568  100  150 
+Flush_man 958007427  3  3 rc  c     c     r         6618  500 1050 Js Qh
+Flush_man 958007444  3  2 B   -     -     -         7168   50   75 
+Flush_man 958007452  3  1 Bf  -     -     -         7193   25    0 
+Flush_man 958007454  3  3 f   -     -     -         7168    0    0 
+Flush_man 958007466  4  2 Br  f     -     -         7168  200    0 
+Flush_man 958007494  4  1 Bf  -     -     -         6968   25    0 
+Flush_man 958007519  4  4 f   -     -     -         6943    0    0 
+Flush_man 958007522  4  3 f   -     -     -         6943    0    0 
+Flush_man 958007528  4  2 Bk  f     -     -         6943   50    0 
+Flush_man 958007538  4  1 B   -     -     -         6893   25   75 
+Flush_man 958007541  3  3 f   -     -     -         6943    0    0 
+Flush_man 958007543  3  3 f   -     -     -         6943    0    0 
+Flush_man 958007546  3  2 Bf  -     -     -         6943   50    0 
+Flush_man 958007560  3  1 Bc  k     k     k         6893   50  100 8d 9c
+Flush_man 958007576  2  2 B   -     -     -         6943   50   75 
+Flush_man 958007582  2  1 Bc  k     k     k         6968   50  100 
+Flush_man 958007612  2  2 B   -     -     -         7018   50   75 

@@ -1,0 +1,168 @@
+trautman  957567382  3  1 Br  -     -     -         2796   20   30 
+trautman  957567455  2  2 f   -     -     -         2806    0    0 
+trautman  957567462  2  2 Bk  k     f     -         2806   10    0 
+trautman  957567481  3  1 Bf  -     -     -         2796    5    0 
+trautman  957567491  2  2 f   -     -     -         2791    0    0 
+trautman  957567496  2  2 Br  b     -     -         2791   30   50 
+trautman  957567512  2  1 Bf  -     -     -         2811    5    0 
+trautman  957567516  2  2 Bk  c     b     b         2806   60  120 Jc 7d
+trautman  957567540  2  1 Bf  -     -     -         2866    5    0 
+trautman  957567546  2  2 Bk  bf    -     -         2861   20    0 
+trautman  957567562  2  1 Bf  -     -     -         2841    5    0 
+trautman  957567566  3  2 Bk  f     -     -         2836   10    0 
+trautman  957567585  3  1 Bf  -     -     -         2826    5    0 
+trautman  957567591  3  3 f   -     -     -         2821    0    0 
+trautman  957567607  3  2 Br  brc   f     -         2821   60    0 
+trautman  957567634  3  1 Bf  -     -     -         2761    5    0 
+trautman  957567643  3  3 c   k     c     b         2756   50   85 
+trautman  957567676  4  3 f   -     -     -         2791    0    0 
+trautman  957567688  4  2 Br  k     r     -         2791   60  120 
+trautman  957567735  4  1 Br  kc    kf    -         2851   30    0 
+trautman  957567779  4  4 f   -     -     -         2821    0    0 
+trautman  957567789  3  2 Bk  b     b     br        2821  100    0 7s 8s
+trautman  957567825  3  1 Bf  -     -     -         2721    5    0 
+trautman  957567854  3  3 f   -     -     -         2716    0    0 
+trautman  957567872  3  2 Bk  b     -     -         2716   20   40 
+trautman  957567887  3  1 Bf  -     -     -         2736    5    0 
+trautman  957567894  3  3 r   b     b     b         2731   70    0 5c Ah
+trautman  957567926  3  2 Bk  k     k     b         2661   30   45 
+trautman  957567947  3  1 Bc  kc    kc    kc        2676   80    0 Qc 3s
+trautman  957567988  3  3 f   -     -     -         2596    0    0 
+trautman  957567995  3  2 B   -     -     -         2596   10   15 
+trautman  957567998  3  1 Bf  -     -     -         2601    5    0 
+trautman  957568005  3  3 f   -     -     -         2596    0    0 
+trautman  957568015  3  2 B   -     -     -         2596   10   15 
+trautman  957568018  3  1 Bc  kf    -     -         2601   10    0 
+trautman  957568032  3  3 f   -     -     -         2591    0    0 
+trautman  957568041  3  2 Bk  k     b     -         2591   30   45 
+trautman  957568057  3  1 Bc  k     b     -         2606   30   40 
+trautman  957568077  3  3 rr  b     b     b         2616   90  185 Qs Kc
+trautman  957568106  3  2 Bk  kf    -     -         2711   10    0 
+trautman  957568128  3  1 Br  -     -     -         2701   20   30 
+trautman  957568136  3  3 r   -     -     -         2711   20   35 
+trautman  957568143  3  2 Bk  k     kf    -         2726   10    0 
+trautman  957568174  3  1 Br  -     -     -         2716   20   30 
+trautman  957568180  3  3 f   -     -     -         2726    0    0 
+trautman  957568200  3  2 Br  k     b     -         2726   40   80 
+trautman  957568226  3  1 Bc  k     k     k         2766   10   20 8h 3h
+trautman  957568246  3  3 f   -     -     -         2776    0    0 
+trautman  957568264  3  2 Br  brc   c     f         2776   80    0 
+trautman  957568316  3  1 Bc  b     -     -         2696   20   30 
+trautman  957568332  3  3 c   r     -     -         2706   30   55 
+trautman  957568350  3  2 Br  b     b     b         2731   70    0 As 7d
+trautman  957568383  4  1 Bf  -     -     -         2661    5    0 
+trautman  957568399  3  3 f   -     -     -         2656    0    0 
+trautman  957568437  4  3 f   -     -     -         2656    0    0 
+trautman  957568461  4  2 Bk  f     -     -         2656   10    0 
+trautman  957568507  4  1 Bf  -     -     -         2646    5    0 
+trautman  957568528  4  4 f   -     -     -         2641    0    0 
+trautman  957568543  4  4 f   -     -     -         2641    0    0 
+trautman  957568550  3  2 Bf  -     -     -         2641   10    0 
+trautman  957568568  3  1 Bc  k     kf    -         2631   10    0 
+trautman  957568593  3  3 f   -     -     -         2621    0    0 
+trautman  957568604  3  2 Bk  k     k     r         2621   50   80 
+trautman  957568627  3  1 Br  k     br    kr        2651  130  250 
+trautman  957568664  3  3 f   -     -     -         2771    0    0 
+trautman  957568669  3  2 Bk  c     f     -         2771   20    0 
+trautman  957568691  3  1 Bc  b     brc   b         2751  120  250 Kd Ad
+trautman  957568727  3  3 c   k     k     b         2881   30   45 
+trautman  957568751  3  2 Br  c     c     c         2896   80    0 5d 5s
+trautman  957568785  3  1 Bf  -     -     -         2816    5    0 
+trautman  957568802  3  3 c   k     bc    b         2811   70  150 Js 9h
+trautman  957568832  3  2 Bk  b     rc    c         2891  100    0 Js 7s
+trautman  957568875  3  1 Br  k     k     k         2791   20   50 5s 5c
+trautman  957568898  3  3 f   -     -     -         2821    0    0 
+trautman  957568905  3  2 Br  k     k     b         2821   40   60 
+trautman  957568930  2  1 Bf  -     -     -         2841    5    0 
+trautman  957568937  2  2 Bk  k     b     b         2836   50   80 
+trautman  957568967  2  1 Bf  -     -     -         2866    5    0 
+trautman  957568974  2  2 Bk  k     k     k         2861   10    0 Qd 8c
+trautman  957568995  2  1 Bc  k     kc    kc        2851   50    0 4h 5h
+trautman  957569040  2  2 Bk  c     c     rc        2801  100    0 9d 3c
+trautman  957569066  3  1 Bcrc krc   kc    kf        2701   90    0 
+trautman  957569123  3  3 rr  c     bc    c         2611  110    0 Ad 8c
+trautman  957569159  3  2 Bf  -     -     -         2501   10    0 
+trautman  957569180  3  1 Bf  -     -     -         2491    5    0 
+trautman  957569210  3  3 cc  f     -     -         2486   20    0 
+trautman  957569231  3  2 Bk  b     -     -         2466   20   30 
+trautman  957569244  3  1 Bf  -     -     -         2476    5    0 
+trautman  957569264  3  3 f   -     -     -         2471    0    0 
+trautman  957569282  3  2 Bk  k     k     rc        2471   70  150 6s Js
+trautman  957569325  3  1 Brc kf    -     -         2551   30    0 
+trautman  957569355  4  4 c   k     rc    b         2521   90  200 Jc Kd
+trautman  957569407  4  3 f   -     -     -         2631    0    0 
+trautman  957569440  3  2 Brc cc    f     -         2631   70    0 
+trautman  957569480  3  1 Bcc k     krc   kc        2561  110    0 Qh Ts
+trautman  957569525  3  3 f   -     -     -         2451    0    0 
+trautman  957569553  3  2 Bk  kf    -     -         2451   10    0 
+trautman  957569576  3  1 Bf  -     -     -         2441    5    0 
+trautman  957569604  3  3 f   -     -     -         2436    0    0 
+trautman  957569614  3  2 Bf  -     -     -         2436   10    0 
+trautman  957569628  3  1 Bf  -     -     -         2426    5    0 
+trautman  957569643  3  3 c   k     c     r         2421   70  130 
+trautman  957569671  3  2 Bf  -     -     -         2481   10    0 
+trautman  957569699  3  1 Bf  -     -     -         2471    5    0 
+trautman  957569715  3  3 f   -     -     -         2466    0    0 
+trautman  957569727  3  2 BQ  -     -     -         2466   10    0 
+trautman  958237036 10  8 f   -     -     -         2436    0    0 
+trautman  958237069 10  7 f   -     -     -         2436    0    0 
+trautman  958237105 10  6 c   c     b     b         2436   80    0 Kc 9c
+trautman  958237164  9  5 f   -     -     -         2356    0    0 
+trautman  958237209  9  4 f   -     -     -         2356    0    0 
+trautman  958237278  9  3 c   c     f     -         2356   20    0 
+trautman  958237328  8  1 Bc  k     kc    k         2336   40    0 Qd Ts
+trautman  958237371  8  1 Bc  k     b     b         2296   50    0 Jc 6s
+trautman  958237411  9  9 f   -     -     -         2246    0    0 
+trautman  958237455  9  8 rc  b     b     -         2246   60  115 
+trautman  958237491  9  7 c   k     b     -         2301   30   55 
+trautman  958237520  9  6 f   -     -     -         2326    0    0 
+trautman  958237541  9  5 f   -     -     -         2326    0    0 
+trautman  958237614  9  4 f   -     -     -         2326    0    0 
+trautman  958237645  9  3 c   kc    bc    bf        2326   80    0 
+trautman  958237704  9  2 Bf  -     -     -         2246   10    0 
+trautman  958237737  9  1 Bf  -     -     -         2236    5    0 
+trautman  958237755  9  9 f   -     -     -         2231    0    0 
+trautman  958237782 10  8 cc  ccc   ccc   c         2231  180    0 Jh Js
+trautman  958237874  9  6 cc  cc    kf    -         2051   40    0 
+trautman  958237930  9  5 f   -     -     -         2011    0    0 
+trautman  958237962  9  5 cc  kc    krr   krr       2011  190  395 7d 7c
+trautman  958238008  9  4 f   -     -     -         2216    0    0 
+trautman  958238066  9  3 f   -     -     -         2216    0    0 
+trautman  958238122  9  2 Bf  -     -     -         2216   10    0 
+trautman  958238166  9  1 Bc  kf    -     -         2206   10    0 
+trautman  958238214  9  9 f   -     -     -         2196    0    0 
+trautman  958238235  9  8 f   -     -     -         2196    0    0 
+trautman  958238278 10  8 cc  f     -     -         2196   40    0 
+trautman  958238346 10  7 f   -     -     -         2156    0    0 
+trautman  958238381 10  6 f   -     -     -         2156    0    0 
+trautman  958238435 10  5 f   -     -     -         2156    0    0 
+trautman  958238494 10  4 f   -     -     -         2156    0    0 
+trautman  958238541 10  3 f   -     -     -         2156    0    0 
+trautman  958238591 10  2 Bf  -     -     -         2156   10    0 
+trautman  958238613 10  1 Bc  k     kf    -         2146   10    0 
+trautman  958238690 10 10 f   -     -     -         2136    0    0 
+trautman  958238741 10  9 f   -     -     -         2136    0    0 
+trautman  958238784 10  8 f   -     -     -         2136    0    0 
+trautman  958238836 10  7 f   -     -     -         2136    0    0 
+trautman  958238873 10  6 f   -     -     -         2136    0    0 
+trautman  958238910 10  5 f   -     -     -         2136    0    0 
+trautman  958238951 10  4 f   -     -     -         2136    0    0 
+trautman  958239010 10  3 f   -     -     -         2136    0    0 
+trautman  958239048 10  2 Bf  -     -     -         2136   10    0 
+trautman  958239105 10  1 Bcc kc    kc    krr       2126  140  360 Ts Kd
+trautman  958239204 10 10 f   -     -     -         2346    0    0 
+trautman  958239267 10  9 f   -     -     -         2346    0    0 
+trautman  958239295 10  8 f   -     -     -         2346    0    0 
+trautman  958239369 10  8 f   -     -     -         2346    0    0 
+trautman  958239429 10  6 f   -     -     -         2346    0    0 
+trautman  958239475 10  5 f   -     -     -         2346    0    0 
+trautman  958239506 10  4 f   -     -     -         2346    0    0 
+trautman  958239565 10  3 f   -     -     -         2346    0    0 
+trautman  958239618 10  2 Bf  -     -     -         2346   10    0 
+trautman  958239664 10  1 Bc  kc    kr    b         2336   80  210 
+trautman  958239724 10 10 f   -     -     -         2466    0    0 
+trautman  958239765 10  9 c   c     cr    b         2466  100    0 Ah 2c
+trautman  958239835 10  8 f   -     -     -         2366    0    0 
+trautman  958239883 10  7 f   -     -     -         2366    0    0 
+trautman  958239926 10  6 f   -     -     -         2366    0    0 
+trautman  958239978 10  3 Q   -     -     -         2366    0    0 

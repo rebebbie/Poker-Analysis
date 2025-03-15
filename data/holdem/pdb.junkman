@@ -1,0 +1,79 @@
+junkman   958689809  8  5 c   kf    -     -         5353   10    0 
+junkman   958689854  7  3 f   -     -     -         5343    0    0 
+junkman   958689930  7  2 Bf  -     -     -         5343   10    0 
+junkman   958689967  7  1 Bc  kf    -     -         5333   10    0 
+junkman   958690001  7  7 c   c     f     -         5323   30    0 
+junkman   958690048  7  6 c   k     f     -         5293   10    0 
+junkman   958690116  7  5 c   c     b     k         5283   40  125 Ks Tc
+junkman   958690177  8  5 f   -     -     -         5368    0    0 
+junkman   958690243  8  4 c   kf    -     -         5368   10    0 
+junkman   958690286  8  3 f   -     -     -         5358    0    0 
+junkman   958690371  8  2 Bk  k     bf    -         5358   30    0 
+junkman   958690416  8  1 Bf  -     -     -         5328    5    0 
+junkman   958690471  8  8 f   -     -     -         5323    0    0 
+junkman   958690515  8  7 f   -     -     -         5323    0    0 
+junkman   958690562  8  6 f   -     -     -         5323    0    0 
+junkman   958690589  8  5 c   c     kc    f         5323   40    0 
+junkman   958690654  8  4 f   -     -     -         5283    0    0 
+junkman   958690699  8  3 f   -     -     -         5283    0    0 
+junkman   958690732  8  2 Bk  f     -     -         5283   10    0 
+junkman   958690793  9  1 Bc  b     bc    kc        5273   80    0 Jc Ks
+junkman   958690865  9  9 f   -     -     -         5193    0    0 
+junkman   958690893  9  8 f   -     -     -         5193    0    0 
+junkman   958690944  9  7 f   -     -     -         5193    0    0 
+junkman   958690979  9  6 f   -     -     -         5193    0    0 
+junkman   958691009  9  5 f   -     -     -         5193    0    0 
+junkman   958691094  9  4 f   -     -     -         5193    0    0 
+junkman   958691151  9  3 f   -     -     -         5193    0    0 
+junkman   958691187  9  2 Bk  kf    -     -         5193   10    0 
+junkman   958691247  9  1 Bf  -     -     -         5183    5    0 
+junkman   958691291  8  8 f   -     -     -         5178    0    0 
+junkman   958691367 10  9 c   c     kf    -         5178   20    0 
+junkman   958691447 10  8 f   -     -     -         5158    0    0 
+junkman   958691505 10  7 f   -     -     -         5158    0    0 
+junkman   958691636  8  5 f   -     -     -         5158    0    0 
+junkman   958691700  9  6 f   -     -     -         5158    0    0 
+junkman   958691764  7  4 c   r     b     b         5158   70  180 2s Js
+junkman   958691865  7  3 f   -     -     -         5268    0    0 
+junkman   958691957  8  2 Bf  -     -     -         5268   10    0 
+junkman   958692004  8  1 Br  b     b     b         5258   70  310 Kh Kc
+junkman   958692067  8  8 f   -     -     -         5498    0    0 
+junkman   958692116  8  7 f   -     -     -         5498    0    0 
+junkman   958692176  8  6 c   f     -     -         5498   10    0 
+junkman   958692231  8  5 f   -     -     -         5488    0    0 
+junkman   958692327  8  4 f   -     -     -         5488    0    0 
+junkman   958692378  8  3 cc  f     -     -         5488   20    0 
+junkman   958692433  7  2 Bk  k     b     -         5468   30   70 
+junkman   958692494  8  1 Bc  br    b     b         5508   90  230 
+junkman   958692558  8  8 c   c     c     r         5648   80  260 Ts Qc
+junkman   958692629  8  7 f   -     -     -         5828    0    0 
+junkman   958692697  9  6 c   c     cf    -         5828   50    0 
+junkman   958692779  8  5 r   b     b     b         5778   70  205 Kh Ah
+junkman   958692841  7  3 c   kf    -     -         5913   10    0 
+junkman   958692890  7  3 c   k     k     b         5903   30    0 3h 3c
+junkman   958692946  9  2 Bk  f     -     -         5873   10    0 
+junkman   958692992  8  1 Bc  k     b     bc        5863   70    0 8h Td
+junkman   958693057  9  9 f   -     -     -         5793    0    0 
+junkman   958693091  9  7 Q   -     -     -         5793    0    0 
+junkman   959810140 10  7 f   -     -     -         5938    0    0 
+junkman   959810193 10  6 f   -     -     -         5938    0    0 
+junkman   959810279 10  5 f   -     -     -         5938    0    0 
+junkman   959810373 10  4 f   -     -     -         5938    0    0 
+junkman   959810437 10  3 rc  r     b     b         5938   90  280 Jd Ad
+junkman   959810508 10  2 Bk  b     b     bc        6128   80    0 Ts Tc
+junkman   959810543 10  1 BKQ -     -     -         6048    5    0 
+junkman   959811042 10  2 Bc  cc    kc    kf        6043   60    0 
+junkman   959811125 10  1 Bf  -     -     -         5983    5    0 
+junkman   959811224 10 10 f   -     -     -         5978    0    0 
+junkman   959811277 10  9 c   c     c     f         5978   40    0 
+junkman   959811361 10  8 f   -     -     -         5938    0    0 
+junkman   959811449 10  7 f   -     -     -         5938    0    0 
+junkman   959811506 10  6 f   -     -     -         5938    0    0 
+junkman   959811553 10  5 f   -     -     -         5938    0    0 
+junkman   959811615 10  4 c   c     b     b         5938   60  220 As 9h
+junkman   959811691 10  3 c   kc    kc    kc        6098   60    0 9s As
+junkman   959811759 10  2 Bk  f     -     -         6038   10    0 
+junkman   959811806 10  1 Bf  -     -     -         6028    5    0 
+junkman   959811881 10 10 f   -     -     -         6023    0    0 
+junkman   959811971  9  8 c   f     -     -         6023   10    0 
+junkman   959812029 10  8 cc  fQ    -     -         6013   20    0 

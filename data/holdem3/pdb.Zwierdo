@@ -1,0 +1,1014 @@
+Zwierdo   957387313  4  3 rc  r     -     -       530027  250  500 
+Zwierdo   957387324  4  2 Bf  -     -     -       530277   50    0 
+Zwierdo   957387329  4  1 Bf  -     -     -       530227   25    0 
+Zwierdo   957387344  4  4 r   -     -     -       530202  100  175 
+Zwierdo   957387350  4  3 f   -     -     -       530277    0    0 
+Zwierdo   957387364  4  2 Br  brc   kf    -       530277  350    0 
+Zwierdo   957387397  4  1 Bf  -     -     -       529927   25    0 
+Zwierdo   957387415  4  4 r   -     -     -       529902  100  175 
+Zwierdo   957387421  4  3 f   -     -     -       529977    0    0 
+Zwierdo   957387424  4  2 Bf  -     -     -       529977   50    0 
+Zwierdo   957387445  4  1 Bf  -     -     -       529927   25    0 
+Zwierdo   957387454  4  4 f   -     -     -       529902    0    0 
+Zwierdo   957387471  4  3 f   -     -     -       529902    0    0 
+Zwierdo   957387478  4  2 Bf  -     -     -       529902   50    0 
+Zwierdo   957387501  4  1 Br  b     b     b       529852  350  750 Ts Qd
+Zwierdo   957387517  4  4 f   -     -     -       530252    0    0 
+Zwierdo   957387538  4  3 r   b     -     -       530252  150  275 
+Zwierdo   957387551  4  2 Bk  kf    -     -       530377   50    0 
+Zwierdo   957387568  4  1 Bc  b     bcc   kf      530327  550    0 
+Zwierdo   957387598  4  4 f   -     -     -       529777    0    0 
+Zwierdo   957387607  5  3 r   b     b     b       529777  350  800 4c Ac
+Zwierdo   957387633  5  2 Bc  b     b     -       530227  250  425 
+Zwierdo   957387654  5  1 Bf  -     -     -       530402   25    0 
+Zwierdo   957387671  5  5 f   -     -     -       530377    0    0 
+Zwierdo   957387700  5  4 r   -     -     -       530377  100  175 
+Zwierdo   957387711  5  3 c   k     kf    -       530452   50    0 
+Zwierdo   957387741  5  2 Bc  f     -     -       530402  100    0 
+Zwierdo   957387769  5  1 Bc  kf    -     -       530302   50    0 
+Zwierdo   957387783  5  5 r   f     -     -       530252  100    0 
+Zwierdo   957387809  5  4 f   -     -     -       530152    0    0 
+Zwierdo   957387830  5  3 f   -     -     -       530152    0    0 
+Zwierdo   957387836  5  2 Bc  kf    -     -       530152  100    0 
+Zwierdo   957387867  5  1 Bf  -     -     -       530052   25    0 
+Zwierdo   957387873  5  5 f   -     -     -       530027    0    0 
+Zwierdo   957387896  5  4 f   -     -     -       530027    0    0 
+Zwierdo   957387918  5  4 f   -     -     -       530027    0    0 
+Zwierdo   957387937  4  2 Bf  -     -     -       530027   50    0 
+Zwierdo   957387966  4  1 Bc  kf    -     -       529977  100    0 
+Zwierdo   957387978  4  4 r   k     c     k       529877  200    0 7d Ah
+Zwierdo   957387990  4  3 f   -     -     -       529677    0    0 
+Zwierdo   957387998  4  2 Bc  kf    -     -       529677  100    0 
+Zwierdo   957388020  4  1 Bf  -     -     -       529577   25    0 
+Zwierdo   957388059  4  4 c   k     r     b       529552  400    0 Qh Tc
+Zwierdo   957388076  4  3 rc  c     c     c       529152  400    0 Th As
+Zwierdo   957388089  4  2 Bc  k     k     f       528752  100    0 
+Zwierdo   957388114  4  1 Bf  -     -     -       528652   25    0 
+Zwierdo   957388117  4  4 f   -     -     -       528627    0    0 
+Zwierdo   957388132  4  3 f   -     -     -       528627    0    0 
+Zwierdo   957388151  4  2 Bf  -     -     -       528627   50    0 
+Zwierdo   957388163  4  1 Bc  kc    k     k       528577  100    0 7d Qd
+Zwierdo   957388176  4  4 r   br    r     k       528477  450  512 Kh Ah
+Zwierdo   957388202  3  2 Bf  -     -     -       528539   50    0 
+Zwierdo   957388209  3  1 Bc  kc    kr    b       528489  450  850 
+Zwierdo   957388224  3  3 f   -     -     -       528889    0    0 
+Zwierdo   957388226  3  2 Bc  kr    -     -       528889  200  375 
+Zwierdo   957388242  3  1 Bf  -     -     -       529064   25    0 
+Zwierdo   957388245  3  3 r   -     -     -       529039  100  175 
+Zwierdo   957388249  3  2 Bc  c     rc    r       529114  650 1200 
+Zwierdo   957388263  3  1 Bf  -     -     -       529664   25    0 
+Zwierdo   957388266  3  3 r   -     -     -       529639  100  175 
+Zwierdo   957388268  3  2 Bk  k     k     k       529714   50   50 2d 6h
+Zwierdo   957388278  3  1 Bc  k     b     -       529714  150  250 
+Zwierdo   957388292  3  3 r   k     f     -       529814  100    0 
+Zwierdo   957388302  3  2 Bk  f     -     -       529714   50    0 
+Zwierdo   957388308  3  1 Bc  k     k     k       529664   50  150 As 4s
+Zwierdo   957388336  3  3 r   b     bc    k       529764  350  725 Qd Ah
+Zwierdo   957388352  3  2 Bk  k     b     k       530139  150  150 3s Jc
+Zwierdo   957388366  3  1 Bf  -     -     -       530139   25    0 
+Zwierdo   957388384  3  3 f   -     -     -       530114    0    0 
+Zwierdo   957388395  3  2 Bc  krr   b     k       530114  400    0 As Qd
+Zwierdo   957388414  3  1 Br  k     k     b       529714  200  300 
+Zwierdo   957388432  3  3 f   -     -     -       529814    0    0 
+Zwierdo   957388436  3  2 B   -     -     -       529814   50   75 
+Zwierdo   957388438  3  1 Bf  -     -     -       529839   25    0 
+Zwierdo   957388440  3  3 f   -     -     -       529814    0    0 
+Zwierdo   957388443  3  2 Bc  kc    kr    b       529814  450 1050 Qd Jd
+Zwierdo   957388464  3  1 Bf  -     -     -       530414   25    0 
+Zwierdo   957388484  3  3 f   -     -     -       530389    0    0 
+Zwierdo   957388492  3  2 Bc  f     -     -       530389  100    0 
+Zwierdo   957388499  3  1 Bf  -     -     -       530289   25    0 
+Zwierdo   957388508  3  3 r   f     -     -       530264  100    0 
+Zwierdo   957388521  3  2 Bk  k     b     k       530164  150  325 7h Ks
+Zwierdo   957388541  3  1 Bf  -     -     -       530339   25    0 
+Zwierdo   957388559  3  3 f   -     -     -       530314    0    0 
+Zwierdo   957388570  3  2 Br  b     k     f       530314  150    0 
+Zwierdo   957388590  3  1 Bf  -     -     -       530164   25    0 
+Zwierdo   957388592  3  3 f   -     -     -       530139    0    0 
+Zwierdo   957388598  3  2 Bf  -     -     -       530139   50    0 
+Zwierdo   957388603  3  1 Bc  kc    kc    k       530089  200    0 8h Ad
+Zwierdo   957388618  3  3 r   c     rf    -       529889  350    0 
+Zwierdo   957388634  3  2 Bf  -     -     -       529539   50    0 
+Zwierdo   957388644  3  1 Br  b     -     -       529489  150  350 
+Zwierdo   957388651  3  3 r   -     -     -       529689  100  175 
+Zwierdo   957388653  3  2 Bk  k     k     k       529764   50    0 Tc 7s
+Zwierdo   957388663  3  1 Bf  -     -     -       529714   25    0 
+Zwierdo   957388675  3  3 f   -     -     -       529689    0    0 
+Zwierdo   957388694  3  2 Br  brf   -     -       529689  300    0 
+Zwierdo   957388713  3  1 Bf  -     -     -       529389   25    0 
+Zwierdo   957388720  3  3 f   -     -     -       529364    0    0 
+Zwierdo   957388723  3  2 Bc  c     b     k       529364  250  500 9c Jd
+Zwierdo   957388736  3  1 Bc  kf    -     -       529614   50    0 
+Zwierdo   957388746  3  3 r   c     k     f       529564  150    0 
+Zwierdo   957388759  3  2 Bc  kc    kc    k       529414  250    0 As Qd
+Zwierdo   957388773  3  1 Br  -     -     -       529164  100  150 
+Zwierdo   957388778  3  3 f   -     -     -       529214    0    0 
+Zwierdo   957388793  3  2 Bc  r     b     k       529214  300    0 Td 8d
+Zwierdo   957388812  3  1 Br  -     -     -       528914  100  150 
+Zwierdo   957388820  3  3 r   -     -     -       528964  100  175 
+Zwierdo   957388822  3  2 Bk  r     b     b       529039  350  600 
+Zwierdo   957388835  3  1 Bc  kc    k     k       529289  150  350 9c Qc
+Zwierdo   957388847  3  3 rc  k     c     k       529489  250  525 Th Ks
+Zwierdo   957388866  3  2 Bf  -     -     -       529764   50    0 
+Zwierdo   957388874  3  1 Bf  -     -     -       529714   25    0 
+Zwierdo   957388888  3  3 f   -     -     -       529689    0    0 
+Zwierdo   957388894  3  2 B   -     -     -       529689   50   75 
+Zwierdo   957388898  3  1 Br  b     b     -       529714  300  550 
+Zwierdo   957388909  3  3 r   b     k     c       529964  250  525 9c 9s
+Zwierdo   957388925  3  2 Bf  -     -     -       530239   50    0 
+Zwierdo   957388930  3  1 Br  bc    kc    kf      530189  350    0 
+Zwierdo   957388944  3  3 r   -     -     -       529839  100  175 
+Zwierdo   957388947  3  2 Bf  -     -     -       529914   50    0 
+Zwierdo   957388952  3  1 Bf  -     -     -       529864   25    0 
+Zwierdo   957388954  3  3 f   -     -     -       529839    0    0 
+Zwierdo   957388967  3  2 Bk  k     k     k       529839   50    0 7h 6s
+Zwierdo   957388979  3  1 Bf  -     -     -       529789   25    0 
+Zwierdo   957388999  3  3 r   b     k     k       529764  150  325 As Tc
+Zwierdo   957389017  3  2 Bk  c     k     k       529939  100  200 5s 3c
+Zwierdo   957389030  3  1 Bf  -     -     -       530039   25    0 
+Zwierdo   957389035  3  3 f   -     -     -       530014    0    0 
+Zwierdo   957389038  3  2 Bk  r     -     -       530014  150  250 
+Zwierdo   957389046  3  1 Bf  -     -     -       530114   25    0 
+Zwierdo   957389049  3  3 r   k     c     c       530089  300    0 8c Ad
+Zwierdo   957389063  3  2 Bf  -     -     -       529789   50    0 
+Zwierdo   957389079  3  1 Bf  -     -     -       529739   25    0 
+Zwierdo   957389084  3  3 r   r     bc    c       529714  500 1100 8s Tc
+Zwierdo   957389106  3  2 B   -     -     -       530314   50   75 
+Zwierdo   957389115  3  1 Bc  kc    kc    krc     530339  550 1250 7d Ad
+Zwierdo   957389151  3  3 f   -     -     -       531039    0    0 
+Zwierdo   957389163  3  2 Bf  -     -     -       531039   50    0 
+Zwierdo   957389176  3  1 Bc  kc    kf    -       530989  100    0 
+Zwierdo   957389189  3  3 f   -     -     -       530889    0    0 
+Zwierdo   957389191  3  2 Bk  k     k     f       530889   50    0 
+Zwierdo   957389202  3  1 Bc  kf    -     -       530839  100    0 
+Zwierdo   957389214  3  3 r   k     c     b       530739  300  525 
+Zwierdo   957389227  3  2 Bf  -     -     -       530964   50    0 
+Zwierdo   957389231  3  1 Bf  -     -     -       530914   25    0 
+Zwierdo   957389234  3  3 f   -     -     -       530889    0    0 
+Zwierdo   957389237  3  2 Bc  k     bc    kf      530889  300    0 
+Zwierdo   957389252  3  1 Br  k     k     kf      530589  100    0 
+Zwierdo   957389265  3  3 r   -     -     -       530489  100  175 
+Zwierdo   957389271  3  2 Bf  -     -     -       530564   50    0 
+Zwierdo   957389275  3  1 Bc  kf    -     -       530514   50    0 
+Zwierdo   957389283  3  3 f   -     -     -       530464    0    0 
+Zwierdo   957389285  3  2 Bk  b     -     -       530464  100  150 
+Zwierdo   957389294  3  1 Bf  -     -     -       530514   25    0 
+Zwierdo   957389306  3  3 f   -     -     -       530489    0    0 
+Zwierdo   957389310  3  2 Bc  kc    kf    -       530489  150    0 
+Zwierdo   957389321  3  1 Bc  kr    b     -       530339  250  500 
+Zwierdo   957389338  3  3 r   -     -     -       530589  100  175 
+Zwierdo   957389340  3  2 Bc  f     -     -       530664  100    0 
+Zwierdo   957389346  3  1 Br  -     -     -       530564  100  150 
+Zwierdo   957389349  3  3 r   k     f     -       530614  100    0 
+Zwierdo   957389373  3  2 Bk  b     -     -       530514  100  150 
+Zwierdo   957389386  3  1 Bf  -     -     -       530564   25    0 
+Zwierdo   957389402  3  3 f   -     -     -       530539    0    0 
+Zwierdo   957389415  3  2 Bk  k     k     f       530539   50    0 
+Zwierdo   957389435  3  1 Bf  -     -     -       530489   25    0 
+Zwierdo   957389441  3  3 r   -     -     -       530464  100  175 
+Zwierdo   957389443  3  2 Bc  kc    kf    -       530539  150    0 
+Zwierdo   957389454  3  1 Bcf -     -     -       530389  100    0 
+Zwierdo   957389473  3  3 r   b     br    b       530289  550    0 3c Qc
+Zwierdo   957389501  3  2 Bf  -     -     -       529739   50    0 
+Zwierdo   957389508  3  1 Bf  -     -     -       529689   25    0 
+Zwierdo   957389510  3  3 r   b     k     f       529664  150    0 
+Zwierdo   957389525  3  2 Bc  k     r     -       529514  300  500 
+Zwierdo   957389536  3  1 Bf  -     -     -       529714   25    0 
+Zwierdo   957389545  3  3 r   -     -     -       529689  100  175 
+Zwierdo   957389548  3  2 Bc  kc    kf    -       529764  150    0 
+Zwierdo   957389562  3  1 Bf  -     -     -       529614   25    0 
+Zwierdo   957389564  3  3 r   -     -     -       529589  100  175 
+Zwierdo   957389567  3  2 Bc  k     r     -       529664  300  500 
+Zwierdo   957389581  3  1 Bf  -     -     -       529864   25    0 
+Zwierdo   957389592  3  3 f   -     -     -       529839    0    0 
+Zwierdo   957389612  3  2 Bk  rc    c     k       529839  300  300 Js 8s
+Zwierdo   957389625  3  1 Bc  kf    -     -       529839   50    0 
+Zwierdo   957389648  3  3 r   -     -     -       529789  100  175 
+Zwierdo   957389653  3  2 Br  b     k     c       529864  250    0 Qd Kd
+Zwierdo   957389666  3  1 Bf  -     -     -       529614   25    0 
+Zwierdo   957389678  3  3 f   -     -     -       529589    0    0 
+Zwierdo   957389681  3  2 Bk  b     k     k       529589  100  200 Ah 4c
+Zwierdo   957389693  3  1 Bcc krr   b     b       529689  500 1000 8h Qh
+Zwierdo   957389712  3  3 f   -     -     -       530189    0    0 
+Zwierdo   957389726  3  2 Bf  -     -     -       530189   50    0 
+Zwierdo   957389730  3  1 Bc  kc    kc    kf      530139  200    0 
+Zwierdo   957389751  3  3 f   -     -     -       529939    0    0 
+Zwierdo   957389758  3  2 B   -     -     -       529939   50   75 
+Zwierdo   957389760  3  1 Bf  -     -     -       529964   25    0 
+Zwierdo   957389763  3  3 f   -     -     -       529939    0    0 
+Zwierdo   957389769  3  2 Bk  k     b     k       529939  150  300 3s 9d
+Zwierdo   957389781  3  1 Bf  -     -     -       530089   25    0 
+Zwierdo   957389787  3  3 r   r     -     -       530064  200  375 
+Zwierdo   957389797  3  2 Bk  r     k     c       530239  250  500 2c Ad
+Zwierdo   957389811  3  1 Bf  -     -     -       530489   25    0 
+Zwierdo   957389834  3  3 r   f     -     -       530464  100    0 
+Zwierdo   957389854  3  2 Bf  -     -     -       530364   50    0 
+Zwierdo   957389877  3  1 Bc  kf    -     -       530314  100    0 
+Zwierdo   957389896  3  3 f   -     -     -       530214    0    0 
+Zwierdo   957389903  3  2 Bf  -     -     -       530214   50    0 
+Zwierdo   957389907  3  1 Br  b     b     kf      530164  300    0 
+Zwierdo   957389919  3  3 f   -     -     -       529864    0    0 
+Zwierdo   957389921  3  2 Bk  r     c     k       529864  250    0 7h Jd
+Zwierdo   957389932  3  1 Bf  -     -     -       529614   25    0 
+Zwierdo   957389946  3  3 rf  -     -     -       529589  100    0 
+Zwierdo   957389964  3  2 Bf  -     -     -       529489   50    0 
+Zwierdo   957389975  3  1 Bf  -     -     -       529439   25    0 
+Zwierdo   957389981  3  3 f   -     -     -       529414    0    0 
+Zwierdo   957389994  3  2 Bc  kc    b     -       529414  250  500 
+Zwierdo   957390012  3  1 Bc  b     bc    kc      529664  400    0 5s Ad
+Zwierdo   957390027  3  3 f   -     -     -       529264    0    0 
+Zwierdo   957390032  3  2 Bk  k     f     -       529264   50    0 
+Zwierdo   957390040  3  1 Bc  k     b     -       529214  150  200 
+Zwierdo   957390052  3  3 f   -     -     -       529264    0    0 
+Zwierdo   957390054  3  2 Bc  c     r     b       529264  450  900 5h Ah
+Zwierdo   957390067  3  1 Bf  -     -     -       529714   25    0 
+Zwierdo   957390073  3  3 f   -     -     -       529689    0    0 
+Zwierdo   957390082  3  2 Bf  -     -     -       529689   50    0 
+Zwierdo   957390087  3  1 Bc  kf    -     -       529639   50    0 
+Zwierdo   957390104  3  3 r   k     k     r       529589  300  525 
+Zwierdo   957390126  3  2 Bf  -     -     -       529814   50    0 
+Zwierdo   957390143  3  1 Br  -     -     -       529764  100  150 
+Zwierdo   957390150  3  3 f   -     -     -       529814    0    0 
+Zwierdo   957390168  3  2 Bf  -     -     -       529814   50    0 
+Zwierdo   957390193  3  1 Br  b     -     -       529764  150  300 
+Zwierdo   957390209  3  3 f   -     -     -       529914    0    0 
+Zwierdo   957390223  3  2 B   -     -     -       529914   50   75 
+Zwierdo   957390233  3  1 Bc  k     k     k       529939   50  100 Kc 5s
+Zwierdo   957390247  3  3 rc  k     b     b       529989  350  625 
+Zwierdo   957390264  3  2 Bc  k     c     c       530264  300  300 Qd Th
+Zwierdo   957390276  3  1 Bf  -     -     -       530264   25    0 
+Zwierdo   957390288  3  3 Q   -     -     -       530239    0    0 
+Zwierdo   957395379  4  3 f   -     -     -       530239    0    0 
+Zwierdo   957395405  4  2 Br  b     k     k       530239  200  425 Jc Jd
+Zwierdo   957395426  4  1 Bf  -     -     -       530464   25    0 
+Zwierdo   957395438  4  4 f   -     -     -       530439    0    0 
+Zwierdo   957395457  4  3 f   -     -     -       530439    0    0 
+Zwierdo   957395460  4  2 Bc  krc   k     kf      530439  250    0 
+Zwierdo   957395483  4  1 Brr br    b     -       530189  450  800 
+Zwierdo   957395498  4  4 rc  f     -     -       530539  150    0 
+Zwierdo   957395526  4  3 f   -     -     -       530389    0    0 
+Zwierdo   957395547  4  2 Bk  bc    kc    kc      530389  350    0 8c 8s
+Zwierdo   957395567  4  1 Bf  -     -     -       530039   25    0 
+Zwierdo   957395595  4  4 r   -     -     -       530014  100  175 
+Zwierdo   957395612  4  3 f   -     -     -       530089    0    0 
+Zwierdo   957395676  3  2 Br  b     kc    kc      530089  350    0 Kh 8h
+Zwierdo   957395725  4  1 Bf  -     -     -       529739   25    0 
+Zwierdo   957395740  4  4 rc  rc    c     c       529714  500    0 8h Kh
+Zwierdo   957395786  4  3 f   -     -     -       529214    0    0 
+Zwierdo   957395799  4  2 Bk  b     -     -       529214  100  150 
+Zwierdo   957395815  4  1 Bf  -     -     -       529264   25    0 
+Zwierdo   957395834  4  4 f   -     -     -       529239    0    0 
+Zwierdo   957395846  4  3 r   -     -     -       529239  100  175 
+Zwierdo   957395857  4  2 Bk  c     b     -       529314  200  300 
+Zwierdo   957395878  4  1 Bf  -     -     -       529414   25    0 
+Zwierdo   957395891  4  4 f   -     -     -       529389    0    0 
+Zwierdo   957395913  4  3 r   k     kc    bc      529389  400    0 Ks 9s
+Zwierdo   957395969  3  2 Bk  f     -     -       528989   50    0 
+Zwierdo   957395978  3  1 Bc  kf    -     -       528939   50    0 
+Zwierdo   957396017  3  3 f   -     -     -       528889    0    0 
+Zwierdo   957396025  3  2 B   -     -     -       528889   50   75 
+Zwierdo   957396027  3  1 Bf  -     -     -       528914   25    0 
+Zwierdo   957396032  3  3 f   -     -     -       528889    0    0 
+Zwierdo   957396037  3  2 Bc  kf    -     -       528889  100    0 
+Zwierdo   957396045  3  1 Bc  b     kr    bc      528789  500    0 Ac 3d
+Zwierdo   957396064  3  3 f   -     -     -       528289    0    0 
+Zwierdo   957396081  3  2 Bk  k     k     k       528289   50   50 Jc 6s
+Zwierdo   957396102  3  1 Bc  kc    kf    -       528289  100    0 
+Zwierdo   957396120  3  3 f   -     -     -       528189    0    0 
+Zwierdo   957396127  3  2 Bf  -     -     -       528189   50    0 
+Zwierdo   957396131  3  1 Bf  -     -     -       528139   25    0 
+Zwierdo   957396134  3  3 rc  f     -     -       528114  150    0 
+Zwierdo   957396144  3  2 Bf  -     -     -       527964   50    0 
+Zwierdo   957396146  3  1 Bf  -     -     -       527914   25    0 
+Zwierdo   957396149  3  3 f   -     -     -       527889    0    0 
+Zwierdo   957396158  3  2 Bf  -     -     -       527889   50    0 
+Zwierdo   957396162  3  1 Bf  -     -     -       527839   25    0 
+Zwierdo   957396173  3  3 r   b     k     k       527814  150    0 Ad 5d
+Zwierdo   957396197  3  2 Bf  -     -     -       527664   50    0 
+Zwierdo   957396214  3  1 Bf  -     -     -       527614   25    0 
+Zwierdo   957396225  3  3 r   b     -     -       527589  150  350 
+Zwierdo   957396244  3  2 B   -     -     -       527789   50   75 
+Zwierdo   957396245  3  1 Bc  kc    kf    -       527814  150    0 
+Zwierdo   957396267  3  3 r   k     k     c       527664  200  425 Kh 8c
+Zwierdo   957396288  3  2 Bk  f     -     -       527889   50    0 
+Zwierdo   957396306  3  1 Bf  -     -     -       527839   25    0 
+Zwierdo   957396326  3  3 c   c     f     -       527814  100    0 
+Zwierdo   957396347  3  2 Bf  -     -     -       527714   50    0 
+Zwierdo   957396350  3  1 Bc  b     kr    bc      527664  500    0 Kd 6s
+Zwierdo   957396368  3  3 r   k     k     k       527164  100    0 2d 4d
+Zwierdo   957396380  3  2 Bk  -     -     -       527064   50  100 
+Zwierdo   957396507  2  1 Br  br    b     b       527114  450  900 9h Ah
+Zwierdo   957396547  2  2 Bk  f     -     -       527564   50    0 
+Zwierdo   957396558  2  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957396559  2  2 B   -     -     -       527489   50   75 
+Zwierdo   957396563  2  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957396564  2  2 B   -     -     -       527489   50   75 
+Zwierdo   957396567  2  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957396569  2  2 Bc  r     k     c       527489  300    0 Ks 4s
+Zwierdo   957396580  2  1 Br  kc    kf    -       527189  150    0 
+Zwierdo   957396590  2  2 B   -     -     -       527039   50   75 
+Zwierdo   957396593  2  1 Bc  k     k     kf      527064   50    0 
+Zwierdo   957396602  2  2 B   -     -     -       527014   50   75 
+Zwierdo   957396604  2  1 Bf  -     -     -       527039   25    0 
+Zwierdo   957396608  2  2 B   -     -     -       527014   50   75 
+Zwierdo   957396610  2  1 Bf  -     -     -       527039   25    0 
+Zwierdo   957396613  2  2 Bf  -     -     -       527014   50    0 
+Zwierdo   957396617  2  1 Bf  -     -     -       526964   25    0 
+Zwierdo   957396619  2  2 Bk  r     b     k       526939  250    0 7s 6h
+Zwierdo   957396646  2  1 Bf  -     -     -       526689   25    0 
+Zwierdo   957396650  2  2 B   -     -     -       526664   50   75 
+Zwierdo   957396652  2  1 Br  b     -     -       526689  150  250 
+Zwierdo   957396658  2  2 Br  b     k     c       526789  300    0 Qs Ks
+Zwierdo   957396670  2  1 Bf  -     -     -       526489   25    0 
+Zwierdo   957396674  2  2 Bk  k     f     -       526464   50    0 
+Zwierdo   957396685  2  1 Br  kr    b     b       526414  400  800 Kc Js
+Zwierdo   957396697  2  2 Br  c     c     k       526814  250    0 Kc Ah
+Zwierdo   957396709  2  1 Bf  -     -     -       526564   25    0 
+Zwierdo   957396713  2  2 B   -     -     -       526539   50   75 
+Zwierdo   957396715  2  1 Bf  -     -     -       526564   25    0 
+Zwierdo   957396717  2  2 B   -     -     -       526539   50   75 
+Zwierdo   957396719  2  1 Bf  -     -     -       526564   25    0 
+Zwierdo   957396720  2  2 B   -     -     -       526539   50   75 
+Zwierdo   957396723  2  1 Bc  kf    -     -       526564   50    0 
+Zwierdo   957396728  2  2 Bk  f     -     -       526514   50    0 
+Zwierdo   957396734  2  1 Bc  kf    -     -       526464   50    0 
+Zwierdo   957396740  2  2 B   -     -     -       526414   50   75 
+Zwierdo   957396744  2  1 Bf  -     -     -       526439   25    0 
+Zwierdo   957396746  2  2 B   -     -     -       526414   50   75 
+Zwierdo   957396750  2  1 Bf  -     -     -       526439   25    0 
+Zwierdo   957396752  2  2 Bf  -     -     -       526414   50    0 
+Zwierdo   957396756  2  1 Bf  -     -     -       526364   25    0 
+Zwierdo   957396760  2  2 B   -     -     -       526339   50   75 
+Zwierdo   957396763  2  1 Bc  k     k     k       526364   50    0 8c Th
+Zwierdo   957396774  2  2 Bf  -     -     -       526314   50    0 
+Zwierdo   957396779  2  1 Bcc kr    b     b       526264  400  800 As 7s
+Zwierdo   957396791  2  2 B   -     -     -       526664   50   75 
+Zwierdo   957396797  2  1 Bf  -     -     -       526689   25    0 
+Zwierdo   957396798  2  2 B   -     -     -       526664   50   75 
+Zwierdo   957396801  2  1 Bc  kc    kr    b       526689  400    0 Kd Td
+Zwierdo   957396817  2  2 B   -     -     -       526289   50   75 
+Zwierdo   957396819  2  1 Br  br    brc   k       526314  650    0 4c 4d
+Zwierdo   957396838  2  2 B   -     -     -       525664   50   75 
+Zwierdo   957396842  2  1 Bf  -     -     -       525689   25    0 
+Zwierdo   957396844  2  2 Bk  bc    r     b       525664  450  900 Tc 3c
+Zwierdo   957396858  2  1 Bc  br    -     -       526114  200  350 
+Zwierdo   957396868  2  2 B   -     -     -       526264   50   75 
+Zwierdo   957396870  2  1 Bf  -     -     -       526289   25    0 
+Zwierdo   957396871  2  2 Br  b     -     -       526264  150  250 
+Zwierdo   957396878  2  1 Bc  k     k     k       526364   50  100 9c Qd
+Zwierdo   957396887  2  2 B   -     -     -       526414   50   75 
+Zwierdo   957396890  2  1 Bf  -     -     -       526439   25    0 
+Zwierdo   957396892  2  2 Bk  c     k     k       526414  100    0 Td 9h
+Zwierdo   957396903  2  1 Bc  kr    bf    -       526314  250    0 
+Zwierdo   957396918  2  2 B   -     -     -       526064   50   75 
+Zwierdo   957396920  2  1 Bf  -     -     -       526089   25    0 
+Zwierdo   957396922  2  2 B   -     -     -       526064   50   75 
+Zwierdo   957396924  2  1 Br  b     -     -       526089  150  250 
+Zwierdo   957396928  2  2 Bc  c     b     -       526189  250  400 
+Zwierdo   957396940  2  1 Brc kc    k     b       526339  300  600 2c Ac
+Zwierdo   957396950  2  2 B   -     -     -       526639   50   75 
+Zwierdo   957396954  2  1 Bc  kf    -     -       526664   50    0 
+Zwierdo   957396959  2  2 Bk  rr    b     k       526614  350  700 3d 6h
+Zwierdo   957396975  2  1 Bc  br    b     -       526964  300  500 
+Zwierdo   957396987  2  2 Br  bc    r     b       527164  500 1000 3c Ac
+Zwierdo   957397004  2  1 Bc  k     kf    -       527664   50    0 
+Zwierdo   957397025  2  2 Bc  r     b     b       527614  400  800 Ts Kh
+Zwierdo   957397037  2  1 Bcf -     -     -       528014   50    0 
+Zwierdo   957397044  2  2 Bf  -     -     -       527964   50    0 
+Zwierdo   957397047  2  1 Bf  -     -     -       527914   25    0 
+Zwierdo   957397049  2  2 B   -     -     -       527889   50   75 
+Zwierdo   957397051  2  1 Bc  kc    k     b       527914  200    0 7h Qh
+Zwierdo   957397060  2  2 Br  k     c     f       527714  200    0 
+Zwierdo   957397071  2  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957397073  2  2 Bk  f     -     -       527489   50    0 
+Zwierdo   957397079  2  1 Bf  -     -     -       527439   25    0 
+Zwierdo   957397081  2  2 B   -     -     -       527414   50   75 
+Zwierdo   957397084  2  1 Bc  kc    kr    b       527439  400    0 Js 9c
+Zwierdo   957397102  2  2 B   -     -     -       527039   50   75 
+Zwierdo   957397106  2  1 Br  b     -     -       527064  150  250 
+Zwierdo   957397115  2  2 B   -     -     -       527164   50   75 
+Zwierdo   957397117  2  1 Br  b     -     -       527189  150  250 
+Zwierdo   957397123  2  2 B   -     -     -       527289   50   75 
+Zwierdo   957397125  2  1 Bf  -     -     -       527314   25    0 
+Zwierdo   957397127  2  2 Bc  c     b     b       527289  350  700 Ts Qd
+Zwierdo   957397140  2  1 Bf  -     -     -       527639   25    0 
+Zwierdo   957397144  2  2 Bc  r     c     c       527614  400    0 7h 7c
+Zwierdo   957397154  2  1 Bf  -     -     -       527214   25    0 
+Zwierdo   957397161  2  2 Bc  r     k     k       527189  200  400 4h As
+Zwierdo   957397171  2  1 Bf  -     -     -       527389   25    0 
+Zwierdo   957397176  2  2 Bk  b     -     -       527364  100  150 
+Zwierdo   957397183  2  1 Bf  -     -     -       527414   25    0 
+Zwierdo   957397185  2  2 Bk  f     -     -       527389   50    0 
+Zwierdo   957397190  2  1 Bc  kr    k     k       527339  150  300 Ad 2h
+Zwierdo   957397202  2  2 Br  k     c     b       527489  350  700 Ac Qh
+Zwierdo   957397214  2  1 Bf  -     -     -       527839   25    0 
+Zwierdo   957397219  2  2 B   -     -     -       527814   50   75 
+Zwierdo   957397222  2  1 Br  kc    k     b       527839  250  500 As Ad
+Zwierdo   957397232  2  2 Bk  f     -     -       528089   50    0 
+Zwierdo   957397244  2  1 Bf  -     -     -       528039   25    0 
+Zwierdo   957397246  2  2 Bf  -     -     -       528014   50    0 
+Zwierdo   957397250  2  1 Bf  -     -     -       527964   25    0 
+Zwierdo   957397253  2  2 Bc  c     c     c       527939  350    0 Tc Kh
+Zwierdo   957397263  2  1 Br  kc    b     -       527589  250  400 
+Zwierdo   957397275  2  2 B   -     -     -       527739   50   75 
+Zwierdo   957397278  2  1 Bf  -     -     -       527764   25    0 
+Zwierdo   957397279  2  2 B   -     -     -       527739   50   75 
+Zwierdo   957397281  2  1 Bf  -     -     -       527764   25    0 
+Zwierdo   957397282  2  2 B   -     -     -       527739   50   75 
+Zwierdo   957397286  2  1 Bc  k     b     -       527764  150  200 
+Zwierdo   957397291  2  2 Bk  k     k     k       527814   50    0 6s 8h
+Zwierdo   957397301  2  1 Bf  -     -     -       527764   25    0 
+Zwierdo   957397306  2  2 Bc  r     b     k       527739  300  600 Ts Jh
+Zwierdo   957397316  2  1 Bf  -     -     -       528039   25    0 
+Zwierdo   957397320  2  2 B   -     -     -       528014   50   75 
+Zwierdo   957397324  2  1 Bc  kf    -     -       528039   50    0 
+Zwierdo   957397330  2  2 B   -     -     -       527989   50   75 
+Zwierdo   957397332  2  1 Bf  -     -     -       528014   25    0 
+Zwierdo   957397336  2  2 B   -     -     -       527989   50   75 
+Zwierdo   957397343  2  1 Bcc kf    -     -       528014  100    0 
+Zwierdo   957397347  2  2 Bf  -     -     -       527914   50    0 
+Zwierdo   957397351  2  1 Bf  -     -     -       527864   25    0 
+Zwierdo   957397355  2  2 Br  b     k     c       527839  300    0 6c 6s
+Zwierdo   957397366  2  1 Bc  kc    kf    -       527539  100    0 
+Zwierdo   957397379  2  2 Bk  k     b     -       527439  150  200 
+Zwierdo   957397391  2  1 Bf  -     -     -       527489   25    0 
+Zwierdo   957397393  2  2 B   -     -     -       527464   50   75 
+Zwierdo   957397395  2  1 Bf  -     -     -       527489   25    0 
+Zwierdo   957397397  2  2 Bf  -     -     -       527464   50    0 
+Zwierdo   957397404  2  1 Bc  k     k     kc      527414  150  300 Ad Js
+Zwierdo   957397419  2  2 B   -     -     -       527564   50   75 
+Zwierdo   957397422  2  1 Bf  -     -     -       527589   25    0 
+Zwierdo   957397423  2  2 Bk  k     k     f       527564   50    0 
+Zwierdo   957397433  2  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957397435  2  2 B   -     -     -       527489   50   75 
+Zwierdo   957397438  2  1 Br  brrc  kc    k       527514  500 1000 9d 9h
+Zwierdo   957397454  2  2 B   -     -     -       528014   50   75 
+Zwierdo   957397463  2  1 Bf  -     -     -       528039   25    0 
+Zwierdo   957397465  2  2 Bk  f     -     -       528014   50    0 
+Zwierdo   957397471  2  1 Bf  -     -     -       527964   25    0 
+Zwierdo   957397473  2  2 Bk  r     -     -       527939  150  250 
+Zwierdo   957397488  2  1 Bf  -     -     -       528039   25    0 
+Zwierdo   957397490  2  2 Bc  c     b     k       528014  250  500 3d Jd
+Zwierdo   957397501  3  1 Bc  kc    k     b       528264  250  550 Ks 6s
+Zwierdo   957397518  3  3 f   -     -     -       528564    0    0 
+Zwierdo   957397523  2  2 Bc  c     k     k       528564  150  300 3h Ad
+Zwierdo   957397533  2  1 Bc  k     b     kc      528714  250    0 5s Qs
+Zwierdo   957397545  2  2 Bf  -     -     -       528464   50    0 
+Zwierdo   957397550  2  1 Bf  -     -     -       528414   25    0 
+Zwierdo   957397552  2  2 B   -     -     -       528389   50   75 
+Zwierdo   957397554  2  1 Bf  -     -     -       528414   25    0 
+Zwierdo   957397556  2  2 Bf  -     -     -       528389   50    0 
+Zwierdo   957397560  2  1 Bc  k     b     -       528339  150  200 
+Zwierdo   957397569  2  2 Bf  -     -     -       528389   50    0 
+Zwierdo   957397575  2  1 Bf  -     -     -       528339   25    0 
+Zwierdo   957397576  2  2 B   -     -     -       528314   50   75 
+Zwierdo   957397579  2  1 Bf  -     -     -       528339   25    0 
+Zwierdo   957397581  2  2 B   -     -     -       528314   50   75 
+Zwierdo   957397584  2  1 Bcc b     b     k       528339  250    0 6h Kc
+Zwierdo   957397608  4  3 f   -     -     -       528089    0    0 
+Zwierdo   957397617  3  2 Br  b     -     -       528089  150  350 
+Zwierdo   957397630  3  1 Bc  kc    kf    -       528289  150    0 
+Zwierdo   957397641  3  3 r   f     -     -       528139  100    0 
+Zwierdo   957397648  3  2 Bk  k     b     -       528039  150  225 
+Zwierdo   957397659  3  1 Bc  kf    -     -       528114   50    0 
+Zwierdo   957397668  3  3 rc  f     -     -       528064  150    0 
+Zwierdo   957397676  3  2 Bf  -     -     -       527914   50    0 
+Zwierdo   957397693  3  1 Bf  -     -     -       527864   25    0 
+Zwierdo   957397696  3  3 c   b     -     -       527839  100  175 
+Zwierdo   957397706  2  2 Br  b     b     -       527914  250  400 
+Zwierdo   957397718  2  1 Bf  -     -     -       528064   25    0 
+Zwierdo   957397720  2  2 Br  b     b     b       528039  350  700 Qd Qh
+Zwierdo   957397736  2  1 Bc  k     k     k       528389   50  100 Kc 7s
+Zwierdo   957397747  2  2 Bk  k     f     -       528439   50    0 
+Zwierdo   957397759  2  1 Bc  b     -     -       528389  100  150 
+Zwierdo   957397767  2  2 Bc  f     -     -       528439  100    0 
+Zwierdo   957397772  2  1 Bf  -     -     -       528339   25    0 
+Zwierdo   957397775  2  2 Bk  b     -     -       528314  100  150 
+Zwierdo   957397784  2  1 Bf  -     -     -       528364   25    0 
+Zwierdo   957397786  2  2 Bk  c     c     k       528339  200  400 3h Js
+Zwierdo   957397798  3  1 Bc  kc    kf    -       528539  100    0 
+Zwierdo   957397822  3  3 f   -     -     -       528439    0    0 
+Zwierdo   957397841  3  2 Bf  -     -     -       528439   50    0 
+Zwierdo   957397853  3  1 Bcc kf    -     -       528389  100    0 
+Zwierdo   957397864  3  3 rc  k     c     k       528289  250  525 Qd Th
+Zwierdo   957397877  3  2 Bc  r     f     -       528564  200    0 
+Zwierdo   957397893  3  1 Bf  -     -     -       528364   25    0 
+Zwierdo   957397896  3  3 f   -     -     -       528339    0    0 
+Zwierdo   957397899  3  2 Bk  kc    k     k       528339  100  250 7c Ad
+Zwierdo   957397914  3  1 Br  b     b     b       528489  350  750 Qs Qh
+Zwierdo   957397929  3  3 f   -     -     -       528889    0    0 
+Zwierdo   957397935  3  2 Bf  -     -     -       528889   50    0 
+Zwierdo   957397944  3  1 Bc  kc    kf    -       528839  150    0 
+Zwierdo   957397963  3  3 f   -     -     -       528689    0    0 
+Zwierdo   957397967  3  2 B   -     -     -       528689   50   75 
+Zwierdo   957397969  3  1 Bc  k     b     -       528714  150  200 
+Zwierdo   957397980  3  3 f   -     -     -       528764    0    0 
+Zwierdo   957397987  3  2 Br  c     f     -       528764  150    0 
+Zwierdo   957397999  3  1 Bf  -     -     -       528614   25    0 
+Zwierdo   957398011  3  3 f   -     -     -       528589    0    0 
+Zwierdo   957398019  3  2 Bc  kr    -     -       528589  200  375 
+Zwierdo   957398028  3  1 Bc  kf    -     -       528764   50    0 
+Zwierdo   957398035  3  3 f   -     -     -       528714    0    0 
+Zwierdo   957398047  3  2 Bf  -     -     -       528714   50    0 
+Zwierdo   957398053  3  1 Bf  -     -     -       528664   25    0 
+Zwierdo   957398057  3  3 r   f     -     -       528639  100    0 
+Zwierdo   957398069  3  2 Bf  -     -     -       528539   50    0 
+Zwierdo   957398085  3  1 Bf  -     -     -       528489   25    0 
+Zwierdo   957398099  3  3 r   k     f     -       528464  100    0 
+Zwierdo   957398114  3  2 Bf  -     -     -       528364   50    0 
+Zwierdo   957398130  3  1 Bc  kc    bc    b       528314  400  850 2h Ad
+Zwierdo   957398146  3  3 f   -     -     -       528764    0    0 
+Zwierdo   957398161  3  2 Bk  brr   k     b       528764  400  825 2c 8c
+Zwierdo   957398189  3  1 Bc  b     -     -       529189  100  200 
+Zwierdo   957398202  3  3 r   b     k     f       529289  150    0 
+Zwierdo   957398227  3  2 Bf  -     -     -       529139   50    0 
+Zwierdo   957398261  3  1 Bf  -     -     -       529089   25    0 
+Zwierdo   957398278  3  3 rf  -     -     -       529064  100    0 
+Zwierdo   957398299  3  2 Bc  r     b     k       528964  300  600 6d Qs
+Zwierdo   957398318  3  1 Br  b     -     -       529264  150  250 
+Zwierdo   957398328  3  3 rc  f     -     -       529364  150    0 
+Zwierdo   957398354  3  2 B   -     -     -       529214   50   75 
+Zwierdo   957398359  3  1 Bf  -     -     -       529239   25    0 
+Zwierdo   957398375  3  3 f   -     -     -       529214    0    0 
+Zwierdo   957398383  3  2 Bc  kf    -     -       529214  100    0 
+Zwierdo   957398393  3  1 Bc  k     b     -       529114  150  200 
+Zwierdo   957398401  3  3 r   b     b     b       529164  350  750 
+Zwierdo   957398419  3  2 Bk  k     k     k       529564   50    0 7c 2c
+Zwierdo   957398435  3  1 Bf  -     -     -       529514   25    0 
+Zwierdo   957398439  3  3 rc  c     c     r       529489  500    0 Kd 9h
+Zwierdo   957398457  3  2 Br  b     b     c       528989  350    0 Td Jh
+Zwierdo   957398483  3  1 Bf  -     -     -       528639   25    0 
+Zwierdo   957398488  3  3 f   -     -     -       528614    0    0 
+Zwierdo   957398493  3  2 Br  b     brr   c       528614  750    0 Ad 2h
+Zwierdo   957398519  3  1 Bf  -     -     -       527864   25    0 
+Zwierdo   957398535  3  3 r   k     f     -       527839  100    0 
+Zwierdo   957398547  3  2 Bf  -     -     -       527739   50    0 
+Zwierdo   957398567  3  1 Br  b     kc    kc      527689  350    0 2d 2c
+Zwierdo   957398585  3  3 f   -     -     -       527339    0    0 
+Zwierdo   957398593  3  2 Bk  krr   -     -       527339  250  475 
+Zwierdo   957398607  3  1 Bf  -     -     -       527564   25    0 
+Zwierdo   957398621  3  3 f   -     -     -       527539    0    0 
+Zwierdo   957398625  3  2 Br  b     k     f       527539  150    0 
+Zwierdo   957398645  3  1 Bf  -     -     -       527389   25    0 
+Zwierdo   957398658  3  3 r   b     -     -       527364  150  275 
+Zwierdo   957398669  3  2 Br  b     -     -       527489  150  250 
+Zwierdo   957398679  3  1 Bf  -     -     -       527589   25    0 
+Zwierdo   957398699  4  4 f   -     -     -       527564    0    0 
+Zwierdo   957398705  4  3 f   -     -     -       527564    0    0 
+Zwierdo   957398720  4  2 Bf  -     -     -       527564   50    0 
+Zwierdo   957398740  4  1 Bf  -     -     -       527514   25    0 
+Zwierdo   957398759  4  4 r   b     k     k       527489  150  162 8c 9h
+Zwierdo   957398779  3  2 Bk  b     -     -       527501  100  175 
+Zwierdo   957398797  3  1 Bc  b     -     -       527576  100  150 
+Zwierdo   957398806  3  3 f   -     -     -       527626    0    0 
+Zwierdo   957398824  3  2 Bk  f     -     -       527626   50    0 
+Zwierdo   957398837  3  1 Bf  -     -     -       527576   25    0 
+Zwierdo   957398839  3  3 f   -     -     -       527551    0    0 
+Zwierdo   957398842  3  2 Bc  k     b     b       527551  300  625 As 7s
+Zwierdo   957398851  3  1 Br  kc    kc    k       527876  250    0 Kd Ad
+Zwierdo   957398887  3  3 f   -     -     -       527626    0    0 
+Zwierdo   957398898  3  2 B   -     -     -       527626   50   75 
+Zwierdo   957398900  3  1 Bf  -     -     -       527651   25    0 
+Zwierdo   957398902  3  3 rc  r     b     b       527626  450  950 6s Ad
+Zwierdo   957398916  3  2 Bf  -     -     -       528126   50    0 
+Zwierdo   957398925  3  1 Bf  -     -     -       528076   25    0 
+Zwierdo   957398928  3  3 r   c     f     -       528051  150    0 
+Zwierdo   957398945  3  2 Bf  -     -     -       527901   50    0 
+Zwierdo   957398967  3  1 Bf  -     -     -       527851   25    0 
+Zwierdo   957398973  3  3 r   -     -     -       527826  100  175 
+Zwierdo   957398976  3  2 B   -     -     -       527901   50   75 
+Zwierdo   957398979  3  1 Bc  b     -     -       527926  100  150 
+Zwierdo   957398985  3  3 r   f     -     -       527976  100    0 
+Zwierdo   957398990  3  2 Bk  b     b     k       527876  200  425 3c 9d
+Zwierdo   957399019  3  1 Bc  kf    -     -       528101   50    0 
+Zwierdo   957399030  3  3 r   f     -     -       528051  100    0 
+Zwierdo   957399035  3  2 B   -     -     -       527951   50   75 
+Zwierdo   957399039  3  1 Bf  -     -     -       527976   25    0 
+Zwierdo   957399042  3  3 f   -     -     -       527951    0    0 
+Zwierdo   957399053  3  2 B   -     -     -       527951   50   75 
+Zwierdo   957399057  3  1 Bf  -     -     -       527976   25    0 
+Zwierdo   957399060  3  3 f   -     -     -       527951    0    0 
+Zwierdo   957399089  3  2 Bc  b     -     -       527951  150  250 
+Zwierdo   957399102  3  1 Br  b     -     -       528051  150  250 
+Zwierdo   957399114  3  3 r   -     -     -       528151  100  175 
+Zwierdo   957399118  3  2 Bf  -     -     -       528226   50    0 
+Zwierdo   957399123  3  1 Bf  -     -     -       528176   25    0 
+Zwierdo   957399126  3  3 f   -     -     -       528151    0    0 
+Zwierdo   957399131  3  2 Bf  -     -     -       528151   50    0 
+Zwierdo   957399139  3  1 Br  bf    -     -       528101  200    0 
+Zwierdo   957399147  3  3 f   -     -     -       527901    0    0 
+Zwierdo   957399150  3  2 Bc  kc    kf    -       527901  150    0 
+Zwierdo   957399166  3  1 Bc  k     kc    bc      527751  350    0 Kh Tc
+Zwierdo   957399178  3  3 f   -     -     -       527401    0    0 
+Zwierdo   957399186  3  2 B   -     -     -       527401   50   75 
+Zwierdo   957399188  3  1 Bf  -     -     -       527426   25    0 
+Zwierdo   957399191  3  3 f   -     -     -       527401    0    0 
+Zwierdo   957399197  3  2 B   -     -     -       527401   50   75 
+Zwierdo   957399200  3  1 Bf  -     -     -       527426   25    0 
+Zwierdo   957399202  3  3 f   -     -     -       527401    0    0 
+Zwierdo   957399206  3  2 Bc  f     -     -       527401  100    0 
+Zwierdo   957399216  3  1 Bcc kf    -     -       527301  100    0 
+Zwierdo   957399224  3  3 r   -     -     -       527201  100  175 
+Zwierdo   957399227  3  2 B   -     -     -       527276   50   75 
+Zwierdo   957399230  3  1 Bf  -     -     -       527301   25    0 
+Zwierdo   957399233  3  3 r   f     -     -       527276  100    0 
+Zwierdo   957399243  3  2 Bf  -     -     -       527176   50    0 
+Zwierdo   957399249  3  1 Bc  kr    b     -       527126  250  450 
+Zwierdo   957399273  3  3 f   -     -     -       527326    0    0 
+Zwierdo   957399276  3  2 Bc  b     -     -       527326  150  250 
+Zwierdo   957399294  3  1 Bf  -     -     -       527426   25    0 
+Zwierdo   957399313  3  3 r   b     -     -       527401  150  275 
+Zwierdo   957399332  3  2 Bc  f     -     -       527526  100    0 
+Zwierdo   957399350  3  1 Bf  -     -     -       527426   25    0 
+Zwierdo   957399358  3  3 f   -     -     -       527401    0    0 
+Zwierdo   957399365  3  2 B   -     -     -       527401   50   75 
+Zwierdo   957399373  3  1 Br  b     -     -       527426  150  250 
+Zwierdo   957399386  3  3 f   -     -     -       527526    0    0 
+Zwierdo   957399391  3  2 Bc  r     b     k       527526  300    0 Qh Js
+Zwierdo   957399404  3  1 Bf  -     -     -       527226   25    0 
+Zwierdo   957399421  3  3 r   r     b     k       527201  300    0 Th Tc
+Zwierdo   957399441  3  2 Bc  r     rc    f       526901  500    0 
+Zwierdo   957399462  3  1 Br  b     -     -       526401  150  250 
+Zwierdo   957399473  3  3 f   -     -     -       526501    0    0 
+Zwierdo   957399480  3  2 B   -     -     -       526501   50   75 
+Zwierdo   957399483  3  1 Bf  -     -     -       526526   25    0 
+Zwierdo   957399486  3  3 r   c     b     b       526501  350  725 Kd 9c
+Zwierdo   957399498  3  2 Br  r     k     c       526876  350    0 7s Ad
+Zwierdo   957399517  3  1 Bf  -     -     -       526526   25    0 
+Zwierdo   957399533  3  3 f   -     -     -       526501    0    0 
+Zwierdo   957399539  3  2 Bf  -     -     -       526501   50    0 
+Zwierdo   957399549  3  1 Bc  kf    -     -       526451   50    0 
+Zwierdo   957399562  3  3 r   r     b     -       526401  300  525 
+Zwierdo   957399575  3  2 Bf  -     -     -       526626   50    0 
+Zwierdo   957399594  3  1 Bf  -     -     -       526576   25    0 
+Zwierdo   957399605  3  3 f   -     -     -       526551    0    0 
+Zwierdo   957399627  3  2 Bf  -     -     -       526551   50    0 
+Zwierdo   957399635  3  1 Bc  kc    k     b       526501  250  600 Qc 9s
+Zwierdo   957399657  3  3 f   -     -     -       526851    0    0 
+Zwierdo   957399673  3  2 Bc  kr    b     k       526851  300  625 7d Td
+Zwierdo   957399689  3  1 Bf  -     -     -       527176   25    0 
+Zwierdo   957399706  3  3 f   -     -     -       527151    0    0 
+Zwierdo   957399721  3  2 B   -     -     -       527151   50   75 
+Zwierdo   957399725  3  1 Bf  -     -     -       527176   25    0 
+Zwierdo   957399727  3  3 r   k     c     f       527151  200    0 
+Zwierdo   957399738  3  2 Br  b     k     k       526951  200  400 Js Jd
+Zwierdo   957399750  3  1 Bc  b     kf    -       527151  100    0 
+Zwierdo   957399771  3  3 f   -     -     -       527051    0    0 
+Zwierdo   957399778  3  2 Br  br    k     k       527051  300    0 Qd Kd
+Zwierdo   957399790  3  1 Bf  -     -     -       526751   25    0 
+Zwierdo   957399795  3  3 f   -     -     -       526726    0    0 
+Zwierdo   957399806  3  2 Bf  -     -     -       526726   50    0 
+Zwierdo   957399819  3  1 Bc  k     k     b       526676  200  450 Kh 7c
+Zwierdo   957399834  3  3 r   -     -     -       526926  100  175 
+Zwierdo   957399843  3  2 B   -     -     -       527001   50   75 
+Zwierdo   957399846  3  1 Bf  -     -     -       527026   25    0 
+Zwierdo   957399856  3  3 f   -     -     -       527001    0    0 
+Zwierdo   957399865  3  2 Br  br    b     k       527001  450 1350 Jh Jd
+Zwierdo   957399891  3  1 Bf  -     -     -       527901   25    0 
+Zwierdo   957399922  3  3 f   -     -     -       527876    0    0 
+Zwierdo   957399934  3  2 Bf  -     -     -       527876   50    0 
+Zwierdo   957399952  3  1 Bc  kr    b     bc      527826  450    0 Ad 6h
+Zwierdo   957399975  3  3 f   -     -     -       527376    0    0 
+Zwierdo   957399984  3  2 Bf  -     -     -       527376   50    0 
+Zwierdo   957399990  3  1 Br  b     b     k       527326  250  500 Kc As
+Zwierdo   957400007  3  3 r   k     k     k       527576  100  225 5h Ks
+Zwierdo   957400033  3  2 Bk  k     b     -       527701  150  225 
+Zwierdo   957400044  3  1 Bf  -     -     -       527776   25    0 
+Zwierdo   957400057  3  3 f   -     -     -       527751    0    0 
+Zwierdo   957400063  3  2 Bc  kf    -     -       527751  100    0 
+Zwierdo   957400070  3  1 Bf  -     -     -       527651   25    0 
+Zwierdo   957400073  3  3 c   bf    -     -       527626  100    0 
+Zwierdo   957400087  3  2 Bk  f     -     -       527526   50    0 
+Zwierdo   957400116  3  1 Bf  -     -     -       527476   25    0 
+Zwierdo   957400137  3  3 r   r     b     -       527451  300  525 
+Zwierdo   957400149  3  2 B   -     -     -       527676   50   75 
+Zwierdo   957400155  3  1 Br  b     k     k       527701  200    0 Js Kd
+Zwierdo   957400175  3  3 r   b     f     -       527501  150    0 
+Zwierdo   957400192  3  2 Bk  bc    c     f       527351  250    0 
+Zwierdo   957400218  3  1 Bcc bc    k     b       527101  350 1050 7d 6d
+Zwierdo   957400241  3  3 f   -     -     -       527801    0    0 
+Zwierdo   957400248  3  2 Bk  k     k     k       527801   50  125 9d Qc
+Zwierdo   957400261  3  1 Br  b     kf    -       527876  200    0 
+Zwierdo   957400281  3  3 f   -     -     -       527676    0    0 
+Zwierdo   957400292  3  2 Bc  f     -     -       527676  100    0 
+Zwierdo   957400314  3  1 Bf  -     -     -       527576   25    0 
+Zwierdo   957400330  3  3 r   -     -     -       527551  100  175 
+Zwierdo   957400337  2  1 B   -     -     -       527626   50   50 
+Zwierdo   957400348  2  1 Bc  kf    -     -       527626   50    0 
+Zwierdo   957400365  2  2 Bf  -     -     -       527576   50    0 
+Zwierdo   957400369  2  1 Bc  b     b     kr      527526  400  800 7d Kh
+Zwierdo   957400391  2  2 B   -     -     -       527926   50   75 
+Zwierdo   957400393  2  1 Br  kc    k     b       527951  250  500 Ah Td
+Zwierdo   957400405  2  2 Bk  c     c     k       528201  200    0 2c Ah
+Zwierdo   957400419  2  1 Brrc b     b     b       528001  500  900 
+Zwierdo   957400441  2  2 B   -     -     -       528401   50   75 
+Zwierdo   957400443  2  1 Bf  -     -     -       528426   25    0 
+Zwierdo   957400447  2  2 Bc  r     k     k       528401  200    0 9d Qc
+Zwierdo   957400472  2  1 Bc  b     -     -       528201  100  150 
+Zwierdo   957400481  2  2 Bk  c     r     b       528251  400  800 3d 6s
+Zwierdo   957400496  2  1 Bc  kf    -     -       528651   50    0 
+Zwierdo   957400511  2  2 B   -     -     -       528601   50   75 
+Zwierdo   957400516  2  1 Bc  k     kf    -       528626   50    0 
+Zwierdo   957400525  2  2 Bc  c     k     f       528576  150    0 
+Zwierdo   957400539  2  1 Bf  -     -     -       528426   25    0 
+Zwierdo   957400541  2  2 B   -     -     -       528401   50   75 
+Zwierdo   957400543  2  1 Bf  -     -     -       528426   25    0 
+Zwierdo   957400545  2  2 Br  b     -     -       528401  150  250 
+Zwierdo   957400552  2  1 Bc  b     -     -       528501  100  150 
+Zwierdo   957400557  2  2 B   -     -     -       528551   50   75 
+Zwierdo   957400561  2  1 Bf  -     -     -       528576   25    0 
+Zwierdo   957400562  2  2 Bc  c     c     r       528551  450  900 7c Ac
+Zwierdo   957400573  2  1 Bcc kr    -     -       529001  200  350 
+Zwierdo   957400589  2  2 B   -     -     -       529151   50   75 
+Zwierdo   957400592  2  1 Bf  -     -     -       529176   25    0 
+Zwierdo   957400596  2  2 Bc  f     -     -       529151  100    0 
+Zwierdo   957400602  2  1 Bf  -     -     -       529051   25    0 
+Zwierdo   957400603  2  2 Bk  f     -     -       529026   50    0 
+Zwierdo   957400609  2  1 Bf  -     -     -       528976   25    0 
+Zwierdo   957400611  2  2 B   -     -     -       528951   50   75 
+Zwierdo   957400613  2  1 Bf  -     -     -       528976   25    0 
+Zwierdo   957400617  2  2 B   -     -     -       528951   50   75 
+Zwierdo   957400620  2  1 Br  b     -     -       528976  150  250 
+Zwierdo   957400625  2  2 B   -     -     -       529076   50   75 
+Zwierdo   957400628  2  1 Bf  -     -     -       529101   25    0 
+Zwierdo   957400630  2  2 B   -     -     -       529076   50   75 
+Zwierdo   957400633  2  1 Bc  bc    kc    b       529101  350  700 Ad 2h
+Zwierdo   957400651  2  2 Bk  brc   c     k       529451  350    0 6d Qc
+Zwierdo   957400697  2  1 Bf  -     -     -       529101   25    0 
+Zwierdo   957400707  2  2 Bf  -     -     -       529076   50    0 
+Zwierdo   957400711  2  1 Br  -     -     -       529026  100  150 
+Zwierdo   957400716  2  2 Bk  b     -     -       529076  100  150 
+Zwierdo   957400724  2  1 Bcc kf    -     -       529126  100    0 
+Zwierdo   957400735  2  2 Bf  -     -     -       529026   50    0 
+Zwierdo   957400737  2  1 Bf  -     -     -       528976   25    0 
+Zwierdo   957400739  2  2 Bk  r     -     -       528951  150  250 
+Zwierdo   957400746  2  1 Bf  -     -     -       529051   25    0 
+Zwierdo   957400748  2  2 B   -     -     -       529026   50   75 
+Zwierdo   957400751  2  1 Bf  -     -     -       529051   25    0 
+Zwierdo   957400752  2  2 B   -     -     -       529026   50   75 
+Zwierdo   957400754  2  1 Bf  -     -     -       529051   25    0 
+Zwierdo   957400755  2  2 Bf  -     -     -       529026   50    0 
+Zwierdo   957400762  2  1 Bf  -     -     -       528976   25    0 
+Zwierdo   957400765  2  2 Bk  c     b     k       528951  200    0 Kh 2c
+Zwierdo   957400774  2  1 Br  b     -     -       528751  150  250 
+Zwierdo   957400783  2  2 Bk  f     -     -       528851   50    0 
+Zwierdo   957400793  2  1 Bf  -     -     -       528801   25    0 
+Zwierdo   957400795  2  2 B   -     -     -       528776   50   75 
+Zwierdo   957400797  2  1 Bcc kr    bf    -       528801  300    0 
+Zwierdo   957400815  2  2 B   -     -     -       528501   50   75 
+Zwierdo   957400824  2  1 Bf  -     -     -       528526   25    0 
+Zwierdo   957400825  2  2 Br  brr   b     b       528501  550  550 Kd Jd
+Zwierdo   957400844  2  1 Bc  kf    -     -       528501   50    0 
+Zwierdo   957400859  2  2 B   -     -     -       528451   50   75 
+Zwierdo   957400863  2  1 Bf  -     -     -       528476   25    0 
+Zwierdo   957400865  2  2 Bc  r     b     -       528451  300  500 
+Zwierdo   957400875  2  1 Bf  -     -     -       528651   25    0 
+Zwierdo   957400879  2  2 Bk  f     -     -       528626   50    0 
+Zwierdo   957400892  2  1 Bf  -     -     -       528576   25    0 
+Zwierdo   957400894  2  2 Bk  c     f     -       528551  100    0 
+Zwierdo   957400902  2  1 Bf  -     -     -       528451   25    0 
+Zwierdo   957400904  2  2 B   -     -     -       528426   50   75 
+Zwierdo   957400906  2  1 Bf  -     -     -       528451   25    0 
+Zwierdo   957400907  2  2 Bc  f     -     -       528426  100    0 
+Zwierdo   957400913  2  1 Bf  -     -     -       528326   25    0 
+Zwierdo   957400916  2  2 Bk  r     k     k       528301  150    0 4s 8h
+Zwierdo   957400926  2  1 Br  -     -     -       528151  100  150 
+Zwierdo   957400932  2  2 B   -     -     -       528201   50   75 
+Zwierdo   957400934  2  1 Bf  -     -     -       528226   25    0 
+Zwierdo   957400936  2  2 B   -     -     -       528201   50   75 
+Zwierdo   957400939  2  1 Bc  k     kc    k       528226  150    0 As 8c
+Zwierdo   957400950  2  2 B   -     -     -       528076   50   75 
+Zwierdo   957400953  2  1 Bf  -     -     -       528101   25    0 
+Zwierdo   957400955  2  2 B   -     -     -       528076   50   75 
+Zwierdo   957400958  2  1 Bf  -     -     -       528101   25    0 
+Zwierdo   957400960  2  2 B   -     -     -       528076   50   75 
+Zwierdo   957400964  2  1 Bcf -     -     -       528101   50    0 
+Zwierdo   957400975  2  2 B   -     -     -       528051   50   75 
+Zwierdo   957400977  2  1 Bf  -     -     -       528076   25    0 
+Zwierdo   957400978  2  2 B   -     -     -       528051   50   75 
+Zwierdo   957400989  2  1 Bc  b     -     -       528076  100  150 
+Zwierdo   957400999  2  2 Br  b     b     c       528126  350  700 Ks Kc
+Zwierdo   957401011  2  1 Bcc kc    k     k       528476  150  300 Jh 6h
+Zwierdo   957401035  2  2 Bk  r     b     -       528626  250  400 
+Zwierdo   957401585  2  1 Bcc b     k     k       528776  150  300 Kc 6d
+Zwierdo   957401608  2  2 Bk  rc    c     f       528926  300    0 
+Zwierdo   957401625  2  1 Bf  -     -     -       528626   25    0 
+Zwierdo   957401626  2  2 Bk  f     -     -       528601   50    0 
+Zwierdo   957401636  2  1 Bf  -     -     -       528551   25    0 
+Zwierdo   957401637  2  2 B   -     -     -       528526   50   75 
+Zwierdo   957401641  2  1 Bf  -     -     -       528551   25    0 
+Zwierdo   957401643  2  2 Br  b     k     k       528526  150  300 Ac 2c
+Zwierdo   957401659  2  1 Bf  -     -     -       528676   25    0 
+Zwierdo   957401663  2  2 Bk  k     k     k       528651   50  100 3c 2d
+Zwierdo   957401681  2  1 Bf  -     -     -       528701   25    0 
+Zwierdo   957401684  2  2 B   -     -     -       528676   50   75 
+Zwierdo   957401689  2  1 Bf  -     -     -       528701   25    0 
+Zwierdo   957401690  2  2 B   -     -     -       528676   50   75 
+Zwierdo   957401693  2  1 Br  k     k     k       528701  100  200 Kh Ts
+Zwierdo   957401711  2  2 B   -     -     -       528801   50   75 
+Zwierdo   957401715  2  1 Bf  -     -     -       528826   25    0 
+Zwierdo   957401717  2  2 B   -     -     -       528801   50   75 
+Zwierdo   957401729  2  1 Bcc kc    kc    k       528826  250  500 8s Kh
+Zwierdo   957401739  2  2 B   -     -     -       529076   50   75 
+Zwierdo   957401746  2  1 Bcc kf    -     -       529101  100    0 
+Zwierdo   957401755  2  2 Bf  -     -     -       529001   50    0 
+Zwierdo   957401761  2  1 Bc  kc    k     kf      528951  100    0 
+Zwierdo   957401783  2  2 Bk  k     k     k       528851   50    0 2s 9s
+Zwierdo   957401807  2  1 Bf  -     -     -       528801   25    0 
+Zwierdo   957401812  2  2 Bf  -     -     -       528776   50    0 
+Zwierdo   957401815  2  1 Bf  -     -     -       528726   25    0 
+Zwierdo   957401817  2  2 B   -     -     -       528701   50   75 
+Zwierdo   957401820  2  1 Bc  b     b     k       528726  200  400 7s Ah
+Zwierdo   957401830  2  2 B   -     -     -       528926   50   75 
+Zwierdo   957401834  2  1 Bcc kf    -     -       528951  100    0 
+Zwierdo   957401842  2  2 B   -     -     -       528851   50   75 
+Zwierdo   957401854  2  1 Bcc kc    k     bc      528876  350    0 7c Tc
+Zwierdo   957401876  2  2 BQ  -     -     -       528526   50    0 
+Zwierdo   957474305  2  2 Bk  b     br    -       528441  400  700 
+Zwierdo   957474328  2  1 Bc  b     -     -       528741  100  150 
+Zwierdo   957474335  2  2 B   -     -     -       528791   50   75 
+Zwierdo   957474337  2  1 Bf  -     -     -       528816   25    0 
+Zwierdo   957474339  2  2 B   -     -     -       528791   50   75 
+Zwierdo   957474342  2  1 Bcc kc    k     bc      528816  350    0 6s Ac
+Zwierdo   957474367  2  2 Bk  f     -     -       528466   50    0 
+Zwierdo   957474375  2  1 Bf  -     -     -       528416   25    0 
+Zwierdo   957474376  2  2 B   -     -     -       528391   50   75 
+Zwierdo   957474382  2  1 Bf  -     -     -       528416   25    0 
+Zwierdo   957474384  2  2 Bk  k     k     k       528391   50    0 9c 5c
+Zwierdo   957474391  2  1 Br  k     kr    b       528341  400    0 As Kh
+Zwierdo   957474406  2  2 Bf  -     -     -       527941   50    0 
+Zwierdo   957474411  2  1 Bf  -     -     -       527891   25    0 
+Zwierdo   957474413  2  2 Bk  k     f     -       527866   50    0 
+Zwierdo   957474420  2  1 Bf  -     -     -       527816   25    0 
+Zwierdo   957474422  2  2 B   -     -     -       527791   50   75 
+Zwierdo   957474424  2  1 Br  b     -     -       527816  150  250 
+Zwierdo   957474429  2  2 B   -     -     -       527916   50   75 
+Zwierdo   957474431  2  1 BQ  -     -     -       527941   25    0 
+Zwierdo   957474579  2  2 Bk  r     k     c       527916  250  500 8s Js
+Zwierdo   957474598  2  1 Bcc krr   b     b       528166  500  900 
+Zwierdo   957474621  2  2 Br  b     bc    r       528566  550 1100 Kd Kh
+Zwierdo   957474648  2  1 Bf  -     -     -       529116   25    0 
+Zwierdo   957474652  2  2 Bf  -     -     -       529091   50    0 
+Zwierdo   957474660  2  1 Bc  kc    kf    -       529041  100    0 
+Zwierdo   957474674  2  2 Bk  b     b     -       528941  200  300 
+Zwierdo   957474694  2  1 Br  -     -     -       529041  100  150 
+Zwierdo   957474700  2  2 Bc  c     b     -       529091  250  400 
+Zwierdo   957474862  2  1 Br  k     k     k       529241  100  200 Ks Qs
+Zwierdo   957474873  2  2 Bf  -     -     -       529341   50    0 
+Zwierdo   957474878  2  1 Bcc b     b     b       529291  350  700 3s 5s
+Zwierdo   957474893  2  2 B   -     -     -       529641   50   75 
+Zwierdo   957474896  2  1 Bcc kf    -     -       529666  100    0 
+Zwierdo   957474918  2  2 Bk  r     -     -       529566  150  250 
+Zwierdo   957474925  2  1 Bc  kf    -     -       529666   50    0 
+Zwierdo   957474933  2  2 B   -     -     -       529616   50   75 
+Zwierdo   957474935  2  1 Bf  -     -     -       529641   25    0 
+Zwierdo   957474936  2  2 Bk  b     -     -       529616  100  150 
+Zwierdo   957474952  2  1 Bcc kr    -     -       529666  200  350 
+Zwierdo   957474963  2  2 Bk  b     -     -       529816  100  150 
+Zwierdo   957474971  2  1 Bc  bc    kf    -       529866  150    0 
+Zwierdo   957474995  2  2 B   -     -     -       529716   50   75 
+Zwierdo   957475001  2  1 Bc  br    k     k       529741  200    0 6s 5s
+Zwierdo   957475033  2  2 Bf  -     -     -       529541   50    0 
+Zwierdo   957475039  2  1 Bcc brr   b     b       529491  550 1100 As 2d
+Zwierdo   957475061  2  2 Bc  r     k     c       530041  300    0 Ac 8c
+Zwierdo   957475086  2  1 Bf  -     -     -       529741   25    0 
+Zwierdo   957475092  2  2 B   -     -     -       529716   50   75 
+Zwierdo   957475094  2  1 Bcc kf    -     -       529741  100    0 
+Zwierdo   957475100  2  2 B   -     -     -       529641   50   75 
+Zwierdo   957475103  2  1 Bf  -     -     -       529666   25    0 
+Zwierdo   957475105  2  2 Bk  k     k     k       529641   50   50 7s 9h
+Zwierdo   957475114  2  1 Bc  kc    k     kc      529641  200  400 Kh Jd
+Zwierdo   957475127  2  2 Bc  Q     -     -       529841  100    0 
+Zwierdo   957479743  4  2 Bf  -     -     -       529741   50    0 
+Zwierdo   957479762  4  1 Bf  -     -     -       529691   25    0 
+Zwierdo   957479780  4  4 rc  r     -     -       529666  250  475 
+Zwierdo   957479791  4  3 r   k     k     f       529891  100    0 
+Zwierdo   957479822  4  2 Bk  b     b     k       529791  200  225 Ac 4c
+Zwierdo   957479848  4  1 Brr b     k     k       529816  300    0 Ts Th
+Zwierdo   957479880  4  4 f   -     -     -       529516    0    0 
+Zwierdo   957479920  4  3 f   -     -     -       529516    0    0 
+Zwierdo   957479928  4  2 Bf  -     -     -       529516   50    0 
+Zwierdo   957479942  4  1 Bf  -     -     -       529466   25    0 
+Zwierdo   957479964  4  4 f   -     -     -       529441    0    0 
+Zwierdo   957479969  4  3 c   r     c     f       529441  250    0 
+Zwierdo   957479994  4  2 Bc  krrc  bc    kc      529191  650    0 Qs Tc
+Zwierdo   957480028  4  1 Bf  -     -     -       528541   25    0 
+Zwierdo   957480035  4  4 f   -     -     -       528516    0    0 
+Zwierdo   957480057  4  3 f   -     -     -       528516    0    0 
+Zwierdo   957480080  3  2 Bk  k     k     f       528516   50    0 
+Zwierdo   957480113  3  1 Bc  k     k     k       528466   50  100 Jd 8h
+Zwierdo   957480126  4  3 r   f     -     -       528516  100    0 
+Zwierdo   957480148  4  2 B   -     -     -       528416   50   75 
+Zwierdo   957480156  4  1 Bc  kc    kf    -       528441  200    0 
+Zwierdo   957480200  4  4 f   -     -     -       528241    0    0 
+Zwierdo   957480213  4  3 r   k     f     -       528241  100    0 
+Zwierdo   957480238  4  2 Bk  c     rf    -       528141  300    0 
+Zwierdo   957480255  4  1 Bf  -     -     -       527841   25    0 
+Zwierdo   957480300  4  4 f   -     -     -       527816    0    0 
+Zwierdo   957480326  4  3 f   -     -     -       527816    0    0 
+Zwierdo   957480341  4  2 Bf  -     -     -       527816   50    0 
+Zwierdo   957480358  4  1 Bf  -     -     -       527766   25    0 
+Zwierdo   957480380  4  4 f   -     -     -       527741    0    0 
+Zwierdo   957480387  4  3 rc  kr    b     k       527741  350  775 9c 7c
+Zwierdo   957480405  4  2 Bk  br    b     b       528166  400  850 4h 4s
+Zwierdo   957480428  4  1 Bc  kf    -     -       528616   50    0 
+Zwierdo   957480450  4  4 f   -     -     -       528566    0    0 
+Zwierdo   957480479  4  3 r   b     c     c       528566  350  825 4h Ad
+Zwierdo   957480511  3  2 Br  br    f     -       529041  250    0 
+Zwierdo   957480536  4  1 Bf  -     -     -       528791   25    0 
+Zwierdo   957480542  4  4 f   -     -     -       528766    0    0 
+Zwierdo   957480562  4  3 r   r     b     -       528766  300  600 
+Zwierdo   957480600  4  2 Bk  kf    -     -       529066   50    0 
+Zwierdo   957480631  4  1 Bf  -     -     -       529016   25    0 
+Zwierdo   957480642  4  4 f   -     -     -       528991    0    0 
+Zwierdo   957480647  4  3 f   -     -     -       528991    0    0 
+Zwierdo   957480675  4  2 Bk  kf    -     -       528991   50    0 
+Zwierdo   957480692  4  1 Bf  -     -     -       528941   25    0 
+Zwierdo   957480696  4  4 f   -     -     -       528916    0    0 
+Zwierdo   957480702  4  3 f   -     -     -       528916    0    0 
+Zwierdo   957480713  4  2 Bk  k     f     -       528916   50    0 
+Zwierdo   957480724  4  1 Br  -     -     -       528866  100  150 
+Zwierdo   957480737  4  4 f   -     -     -       528916    0    0 
+Zwierdo   957480741  4  3 r   k     k     -       528916  100  250 
+Zwierdo   957480761  4  2 Bk  b     -     -       529066  100  250 
+Zwierdo   957480776  4  1 Bf  -     -     -       529216   25    0 
+Zwierdo   957480787  4  4 f   -     -     -       529191    0    0 
+Zwierdo   957480799  4  3 rc  kr    bc    kr      529191  650 1375 9s As
+Zwierdo   957480820  4  2 Bk  br    f     -       529916  200    0 
+Zwierdo   957480851  4  1 Bf  -     -     -       529716   25    0 
+Zwierdo   957480860  4  4 f   -     -     -       529691    0    0 
+Zwierdo   957480877  4  3 f   -     -     -       529691    0    0 
+Zwierdo   957480880  4  2 Bk  bc    c     b       529691  350    0 Kh 4h
+Zwierdo   957480910  4  1 Bc  kf    -     -       529341   50    0 
+Zwierdo   957480932  4  4 f   -     -     -       529291    0    0 
+Zwierdo   957480944  4  3 f   -     -     -       529291    0    0 
+Zwierdo   957480965  4  2 Bk  kf    -     -       529291   50    0 
+Zwierdo   957480982  4  1 Bf  -     -     -       529241   25    0 
+Zwierdo   957480992  4  4 f   -     -     -       529216    0    0 
+Zwierdo   957480995  4  3 r   b     b     -       529216  250  500 
+Zwierdo   957481011  4  2 Bf  -     -     -       529466   50    0 
+Zwierdo   957481031  4  1 Bf  -     -     -       529416   25    0 
+Zwierdo   957481042  4  4 f   -     -     -       529391    0    0 
+Zwierdo   957481055  4  3 r   bc    b     b       529391  400  875 Qd As
+Zwierdo   957481074  4  2 Bk  k     b     -       529866  150  200 
+Zwierdo   957481097  4  1 Bc  kf    -     -       529916  100    0 
+Zwierdo   957481113  4  4 r   -     -     -       529816  100  175 
+Zwierdo   957481122  4  3 f   -     -     -       529891    0    0 
+Zwierdo   957481137  4  2 Br  b     k     c       529891  250    0 4h 4d
+Zwierdo   957481156  4  1 Bf  -     -     -       529641   25    0 
+Zwierdo   957481173  4  4 f   -     -     -       529616    0    0 
+Zwierdo   957481186  4  3 f   -     -     -       529616    0    0 
+Zwierdo   957481191  4  2 Bk  k     f     -       529616   50    0 
+Zwierdo   957481207  4  1 Bf  -     -     -       529566   25    0 
+Zwierdo   957481211  4  4 r   r     b     k       529541  300  625 As Js
+Zwierdo   957481231  4  3 f   -     -     -       529866    0    0 
+Zwierdo   957481247  4  2 Bk  kf    -     -       529866   50    0 
+Zwierdo   957481278  5  1 Bf  -     -     -       529816   25    0 
+Zwierdo   957481295  5  3 Q   -     -     -       529791    0    0 
+Zwierdo   957488339  5  4 fQ  -     -     -       529791    0    0 
+Zwierdo   957565925  5  5 r   c     r     f       519519  350    0 
+Zwierdo   957565943  5  4 f   -     -     -       519169    0    0 
+Zwierdo   957565947  5  3 f   -     -     -       519169    0    0 
+Zwierdo   957565973  5  2 Bf  -     -     -       519169   50    0 
+Zwierdo   957565987  5  1 Bf  -     -     -       519119   25    0 
+Zwierdo   957565995  5  5 f   -     -     -       519094    0    0 
+Zwierdo   957566024  5  4 f   -     -     -       519094    0    0 
+Zwierdo   957566061  5  3 f   -     -     -       519094    0    0 
+Zwierdo   957566071  5  2 Br  br    krrr  k       519094  900    0 7s Kh
+Zwierdo   957566108  5  1 Br  br    b     b       518194  450    0 8c Jc
+Zwierdo   957566147  5  5 r   r     r     b       517744  500    0 6d 4h
+Zwierdo   957566195  6  4 r   rr    k     c       517244  450    0 Ah 3s
+Zwierdo   957566227  5  3 r   r     r     b       516794  500  562 5d Js
+Zwierdo   957566264  5  2 Br  b     k     k       516856  200    0 7h 6s
+Zwierdo   957566293  5  1 Br  brr   b     br      516656  750 1600 6c 4h
+Zwierdo   957566325  5  5 rc  rf    -     -       517506  300    0 
+Zwierdo   957566359  5  4 r   br    bc    b       517206  550    0 3h 5d
+Zwierdo   957566401  5  3 r   b     br    b       516656  550    0 3s 8d
+Zwierdo   957566422  5  2 Brr brrr  br    brc     516106 1300    0 3h 2h
+Zwierdo   957566463  5  1 Br  b     brrc  bc      514806 1000    0 Kd As
+Zwierdo   957566494  5  5 r   b     b     b       513806  350    0 8c Qs
+Zwierdo   957566517  5  4 r   b     b     b       513456  350    0 2s 8s
+Zwierdo   957566541  5  3 rc  kc    kf    -       513106  200    0 
+Zwierdo   957566558  5  2 Br  brrc  br    br      512906 1000    0 3s 2d
+Zwierdo   957566604  5  1 Brc brrr  br    brc     511906 1250    0 Ac 5h
+Zwierdo   957566650  6  5 r   -     -     -       510656  100  175 
+Zwierdo   957566664  6  4 r   b     b     br      510731  550    0 3h As
+Zwierdo   957566689  6  3 r   b     b     b       510181  350    0 3d Ks
+Zwierdo   957566724  6  2 Br  b     b     b       509831  350  725 Qd Ad
+Zwierdo   957566742  6  1 Br  bf    -     -       510206  150    0 
+Zwierdo   957566772  6  6 r   b     -     -       510056  150  325 
+Zwierdo   957566788  5  4 r   -     -     -       510231  100  175 
+Zwierdo   957566794  5  3 r   brr   brr   b       510306  950    0 Th 5d
+Zwierdo   957566817  6  2 Brc brc   brc   brc     509356 1200    0 2c Qh
+Zwierdo   957566864  6  1 Br  b     b     -       508156  300  550 
+Zwierdo   957566893  7  7 rr  brr   b     b       508406  700    0 3d Ac
+Zwierdo   957566933  7  6 rc  rrrr  b     b       507706  800    0 6s Th
+Zwierdo   957566969  8  5 r   rrrr  rrrrrrrrrrrrrrrr rc      506906 4000 4100 Js Ts
+Zwierdo   957567050  7  4 r   r     rr    b       507006  700    0 8h Jc
+Zwierdo   957567092  6  3 r   br    br    br      506306  900 2150 5c 4d
+Zwierdo   957567120  6  2 Br  rc    kf    Q       507556  350    0 
+Zwierdo   957568827  3  3 r   k     f     -       507206  100    0 
+Zwierdo   957568846  3  2 Bc  kf    -     -       507106  100    0 
+Zwierdo   957568858  3  1 Bf  -     -     -       507006   25    0 
+Zwierdo   957568863  3  3 r   c     r     r       506981  550    0 Ad Jc
+Zwierdo   957568880  3  2 BQ  -     -     -       506431   50    0 

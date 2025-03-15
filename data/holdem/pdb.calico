@@ -1,0 +1,597 @@
+calico    957593640  9  3 f   -     -     -         1000    0    0 
+calico    957593706  8  2 Bc  kf    -     -         1000   20    0 
+calico    957593751  9  1 Bcc kc    kc    kcc        980  150    0 Kc 4h
+calico    957593806 10 10 f   -     -     -          830    0    0 
+calico    957593903 10  9 rc  cc    f     -          830   70    0 
+calico    957594017  9  7 cc  rc    rc    f          760  160    0 
+calico    957594108  9  6 rc  f     -     -          600   40    0 
+calico    957594213  8  6 crc rc    cc    f          560  120    0 
+calico    957594320  8  5 cc  kf    -     -          440   20    0 
+calico    957594378  6  3 rr  kf    -     -          420   40    0 
+calico    957594425  6  3 f   -     -     -          380    0    0 
+calico    957594492  6  2 Br  k     kf    -          380   20    0 
+calico    957594534  6  1 Bc  k     kf    -          360   10    0 
+calico    957594567  6  6 r   k     c     c          350   60    0 3c As
+calico    957594600  6  5 r   b     -     -          290   30   80 
+calico    957594632  6  4 r   b     b     b          340   70    0 Qs As
+calico    957594660  6  3 cc  brc   kc    bc         270  120  158 Jd 8h
+calico    957594710  6  2 Br  brc   k     b          308   80  270 
+calico    957594776  6  1 Bc  k     k     kf         498   20    0 
+calico    957594815  6  6 r   k     c     f          478   40    0 
+calico    957594853  6  5 c   rr    brc   rr         438  210  290 Jh 8c
+calico    957594926  6  4 f   -     -     -          518    0    0 
+calico    957594955  6  3 r   b     b     b          518   70  210 Ac Kc
+calico    957594991  6  2 Br  kc    kf    -          658   30    0 
+calico    957595031  6  1 Bc  kf    -     -          628   10    0 
+calico    957595072  6  6 c   k     k     k          618   10    0 Th 9h
+calico    957595108  6  5 r   r     -     -          608   40   95 
+calico    957595142  6  4 c   kf    -     -          663   10    0 
+calico    957595182  6  3 c   k     kc    f          653   30    0 
+calico    957595226  6  2 Bk  k     b     b          623   50   85 Ks 5d
+calico    957595267  6  1 Bc  b     k     k          658   20    0 5s 4h
+calico    957595300  6  6 c   r     br    brc        638  170    0 Ac Ad
+calico    957595350  6  5 c   kf    -     -          468   10    0 
+calico    957595399  6  4 f   -     -     -          458    0    0 
+calico    957595446  5  2 Bc  kf    -     -          458   20    0 
+calico    957595501  5  1 Bf  -     -     -          438    5    0 
+calico    957595562  6  6 r   k     k     k          433   20    0 8h 6h
+calico    957595613  6  5 c   k     k     k          413   10    0 5c Ah
+calico    957595648  6  4 f   -     -     -          403    0    0 
+calico    957595677  6  3 cc  k     kf    -          403   20    0 
+calico    957595718  6  2 Br  b     b     b          383   70  160 4h Qh
+calico    957595779  7  1 Bc  kf    -     -          473   10    0 
+calico    957595809  9  9 c   cc    f     -          463   60    0 
+calico    957595858  9  8 c   c     f     -          403   20    0 
+calico    957595955  8  6 cc  f     -     -          383   20    0 
+calico    957596030  8  6 r   cc    rc    rc         363  210    0 9c 2c
+calico    957596090 10  5 r   k     kf    -          153   20    0 
+calico    957596155  9  4 f   -     -     -          133    0    0 
+calico    957596199 10  3 r   bc    kf    -          133   40    0 
+calico    957596258  9  2 Br  b     b     k           93   50    0 4s Ad
+calico    957596348  9  1 Brc kcA   -     -           43   43    0 Kh Jd
+calico    957679216  5  4 cc  k     f     -         1180   20    0 
+calico    957679236  5  3 r   cf    -     -         1160   30    0 
+calico    957679290  5  2 Br  kc    k     k         1130   30    0 6h 7h
+calico    957679323  5  1 Bc  kc    k     kc        1100   50   75 9s 4s
+calico    957679365  5  5 cc  c     f     -         1125   30    0 
+calico    957679402  5  4 f   -     -     -         1095    0    0 
+calico    957679437  5  3 f   -     -     -         1095    0    0 
+calico    957679463  5  2 Br  kf    -     -         1095   30    0 
+calico    957679518  5  1 Br  k     kf    -         1065   30    0 
+calico    957679546  5  5 rr  k     c     c         1035   80  170 Kc Ks
+calico    957679578  5  4 c   f     -     -         1125   10    0 
+calico    957679627  5  3 r   c     cf    -         1115   50    0 
+calico    957679666  5  2 Bc  kr    kc    kf        1065   60    0 
+calico    957679711  5  1 Bf  -     -     -         1005    5    0 
+calico    957679736  4  4 f   -     -     -         1000    0    0 
+calico    957679754  4  3 cf  -     -     -         1000   10    0 
+calico    957679786  4  2 Bk  kf    -     -          990   10    0 
+calico    957679801  4  1 Br  b     bc    kc         980   90    0 7h 7d
+calico    957679827  4  4 c   b     k     c          890   40  100 Ad 6h
+calico    957679890  4  3 c   rc    k     k          950   40  120 Kc 7s
+calico    957679923  4  2 Bk  kc    kf    -         1030   20    0 
+calico    957679977  4  1 Bcc kf    -     Q         1010   30    0 
+calico    957693939  7  3 c   kf    -     -         1290   10    0 
+calico    957693967  7  2 Bk  kf    -     -         1280   10    0 
+calico    957693999  7  1 Bc  kf    -     -         1270   10    0 
+calico    957694030  7  7 c   k     c     k         1260   30    0 Td 8h
+calico    957694076  7  6 f   -     -     -         1230    0    0 
+calico    957694119  7  5 c   c     f     -         1230   20    0 
+calico    957694159  7  4 r   k     f     -         1210   20    0 
+calico    957694195  7  3 r   r     b     b         1190   80  285 Qc Qs
+calico    957694240  7  2 Bc  k     f     -         1395   20    0 
+calico    957694311  8  1 Bc  kf    -     -         1375   10    0 
+calico    957694352  8  8 f   -     -     -         1365    0    0 
+calico    957694404  8  7 rc  cf    -     -         1365   40    0 
+calico    957694462  8  6 f   -     -     -         1325    0    0 
+calico    957694515  8  5 r   c     k     f         1325   30    0 
+calico    957694571  8  4 c   k     k     kf        1295   10    0 
+calico    957694612  8  3 rc  kf    -     -         1285   40    0 
+calico    957694659  8  2 Bf  -     -     -         1245   10    0 
+calico    957694697  8  1 Bf  -     -     -         1235    5    0 
+calico    957694733  8  8 r   b     b     b         1230   70    0 6c 6h
+calico    957694765  7  6 c   b     -     -         1160   20   45 
+calico    957694796  7  5 c   b     b     -         1185   40   65 
+calico    957694817  7  4 r   k     f     -         1210   20    0 
+calico    957694847  7  3 c   c     f     -         1190   20    0 
+calico    957694869  7  2 Bk  kc    br    kf        1170   80    0 
+calico    957694910  6  1 Br  k     kf    -         1090   20    0 
+calico    957694937  6  6 c   k     f     -         1070   10    0 
+calico    957694970  6  5 c   k     r     k         1060   50    0 9h 7h
+calico    957695007  6  4 f   -     -     -         1010    0    0 
+calico    957695045  6  3 r   k     kf    -         1010   20    0 
+calico    957695073  6  2 Bk  k     k     kf         990   10    0 
+calico    957695099  7  1 Bc  br    k     k          980   40    0 6s As
+calico    957695147  7  7 f   -     -     -          940    0    0 
+calico    957695169  7  6 c   b     k     b          940   40   90 
+calico    957695228  7  5 c   crc   k     r          990   90  250 6s Ac
+calico    957695271  7  4 f   -     -     -         1150    0    0 
+calico    957695306  7  3 c   b     brc   cc        1150  160    0 Th 8h
+calico    957695359  7  2 Bf  -     -     -          990   10    0 
+calico    957695385  7  1 Bc  k     krr   b          980  110    0 As Td
+calico    957695438  7  7 c   r     b     b          870   70  160 As 8c
+calico    957695480  7  6 f   -     -     -          960    0    0 
+calico    957695532  7  5 f   -     -     -          960    0    0 
+calico    957695563  7  4 f   -     -     -          960    0    0 
+calico    957695572  7  3 c   b     b     k          960   40  135 6c 3c
+calico    957695608  7  2 Bk  k     b     k         1055   30    0 2h 2c
+calico    957695651  7  1 Bc  kr    kc    kf        1025   50    0 
+calico    957695718  7  7 f   -     -     -          975    0    0 
+calico    957695746  7  6 r   b     k     k          975   30   70 Qh 8h
+calico    957695785  7  5 r   kc    b     k         1015   50    0 Qh 7h
+calico    957695845  7  4 f   -     -     -          965    0    0 
+calico    957695871  7  3 rr  k     c     c          965   80    0 As Qs
+calico    957695926  7  2 Bk  kf    -     -          885   10    0 
+calico    957695947  7  1 Bc  k     k     k          875   10   30 6d 3d
+calico    957695986  8  7 c   f     -     -          895   10    0 
+calico    957696019  9  6 f   -     -     -          885    0    0 
+calico    957696069  9  5 r   k     f     -          885   20    0 
+calico    957696122  9  4 c   k     f     -          865   10    0 
+calico    957696151  9  3 cc  kf    -     -          855   20    0 
+calico    957696193  9  2 Bk  k     k     kf         835   10    0 
+calico    957696226  9  1 Bf  -     -     -          825    5    0 
+calico    957696280  9  9 c   k     k     f          820   20    0 
+calico    957696325  9  8 c   k     k     f          800   10    0 
+calico    957696369  9  7 f   -     -     -          790    0    0 
+calico    957696416  9  6 c   c     c     k          790   50    0 7h 2h
+calico    957696452  9  5 f   -     -     -          740    0    0 
+calico    957696486  9  4 c   kf    -     -          740   10    0 
+calico    957696518  9  3 c   k     kc    kf         730   30    0 
+calico    957696566  9  2 Bk  k     k     k          700   10    0 Kd 4d
+calico    957696605  9  1 Bf  -     -     -          690    5    0 
+calico    957696668 10 10 r   r     k     k          685   40    0 Ac Tc
+calico    957696710 10  9 f   -     -     -          645    0    0 
+calico    957696748 10  8 cf  -     -     -          645   10    0 
+calico    957696795 10  7 f   -     -     -          635    0    0 
+calico    957696845 10  6 f   -     -     -          635    0    0 
+calico    957696901 10  5 cc  kc    br    k          635   90  315 8h 9c
+calico    957696934 10  4 f   -     -     -          860    0    0 
+calico    957696962  9  3 ccc kf    -     -          860   40    0 
+calico    957697027 10  2 Bf  -     -     -          820   10    0 
+calico    957697084 10  1 Bcc kf    -     -          810   40    0 
+calico    957697133 10 10 f   -     -     -          770    0    0 
+calico    957697175 10  9 r   k     k     k          770   40    0 Ts Ah
+calico    957697224 10  8 cc  c     br    kc         730  110    0 3d 3h
+calico    957697282 10  7 cf  -     -     -          620   20    0 
+calico    957697365 10  6 cc  cc    cc    kf         600   80    0 
+calico    957697440 10  6 rc  kc    br    b          520  130  420 Qd Kh
+calico    957697490 10  4 rr  kcc   kcc   kf         810  140    0 
+calico    957697578 10  3 cf  -     -     -          670   10    0 
+calico    957697617 10  2 Bcc kf    -     -          660   40    0 
+calico    957697682 10  1 Bf  -     -     -          620    5    0 
+calico    957697760 10 10 r   ccc   f     -          615   80    0 
+calico    957697835 10  9 f   -     -     -          535    0    0 
+calico    957697901  9  7 rr  c     f     -          535   50    0 
+calico    957697945 10  7 f   -     -     -          485    0    0 
+calico    957697984 10  6 f   -     -     -          485    0    0 
+calico    957698050 10  5 f   -     -     -          485    0    0 
+calico    957698116 10  4 f   -     -     -          485    0    0 
+calico    957698171 10  3 rr  b     k     r          485   90    0 Jd Qs
+calico    957698213 10  2 Bf  -     Q     -          395   10    0 
+calico    957722153 10  2 Bk  kc    kf    -          385   20    0 
+calico    957722212 10  1 Bf  -     -     -          365    5    0 
+calico    957722271 10 10 f   -     -     -          360    0    0 
+calico    957722351 10  9 c   c     k     c          360   50    0 Th Qs
+calico    957722442 10  8 cc  k     kf    -          310   30    0 
+calico    957722525 10  7 r   b     k     f          280   40    0 
+calico    957722589 10  6 c   k     c     k          240   30    0 4s Qs
+calico    957722647 10  5 f   -     -     -          210    0    0 
+calico    957722701 10  4 cc  cc    c     rc         210  140  620 Jh 8h
+calico    957722808 10  3 f   -     -     -          690    0    0 
+calico    957722883 10  2 Bc  rc    kcc   kf         690  120    0 
+calico    957722962 10  1 Bf  -     -     -          570    5    0 
+calico    957723058 10 10 f   -     -     -          565    0    0 
+calico    957723194 10  9 f   -     -     -          565    0    0 
+calico    957723277 10  8 c   k     f     -          565   10    0 
+calico    957723333 10  7 f   -     -     -          555    0    0 
+calico    957723393 10  6 cc  kc    kf    -          555   30    0 
+calico    957723456 10  5 f   -     -     -          525    0    0 
+calico    957723507 10  4 f   -     -     -          525    0    0 
+calico    957723572 10  3 f   -     -     Q          525    0    0 
+calico    958203065  7  5 cc  c     f     -         1000   30    0 
+calico    958203112  7  4 f   -     -     -          970    0    0 
+calico    958203193  8  4 f   -     -     -          970    0    0 
+calico    958203230  8  3 f   -     -     -          970    0    0 
+calico    958203297  9  2 Bf  -     -     -          970   10    0 
+calico    958203426 10  1 Bc  k     kf    -          960   10    0 
+calico    958203471 10 10 r   rc    c     c          950   90  200 As 8s
+calico    958203518 10  9 f   -     -     -         1060    0    0 
+calico    958203570  9  7 cc  c     c     r         1060   90  330 5s 3d
+calico    958203643  9  6 c   b     k     f         1300   20    0 
+calico    958203692  9  5 f   -     -     -         1280    0    0 
+calico    958203752  9  4 rc  c     kc    br        1280  140  625 Tc Qc
+calico    958203818  9  3 c   kf    -     -         1765   10    0 
+calico    958203862 10  2 Bc  kc    kf    -         1755   30    0 
+calico    958203907 10  1 Bf  -     -     -         1725    5    0 
+calico    958203984  9  9 c   c     r     rr        1720  150    0 Ks 4d
+calico    958204041  8  7 cc  br    kc    k         1570   70  310 Kc 6h
+calico    958204110  7  5 c   c     f     -         1810   20    0 
+calico    958204140  7  4 c   k     k     f         1790   10    0 
+calico    958204187  7  3 cc  kc    c     f         1780   60    0 
+calico    958204240  9  3 f   -     -     -         1720    0    0 
+calico    958204294  9  2 Bk  c     f     -         1720   20    0 
+calico    958204343  9  1 Bc  kf    -     -         1700   10    0 
+calico    958204413  9  9 c   k     k     f         1690   10    0 
+calico    958204455  9  8 c   f     -     -         1680   20    0 
+calico    958204489  9  7 c   k     f     -         1660   10    0 
+calico    958204524  9  6 r   k     c     k         1650   40    0 Jc Kc
+calico    958204569  9  5 f   -     -     -         1610    0    0 
+calico    958204626  9  4 f   -     -     -         1610    0    0 
+calico    958204660  9  4 c   kr    k     b         1610   50  185 As 9h
+calico    958204715  9  3 r   k     kf    -         1745   20    0 
+calico    958204764  9  2 Bf  -     -     -         1725   10    0 
+calico    958204805  8  1 Bc  b     b     k         1715   40  140 5c 7s
+calico    958204899  6  6 f   -     -     -         1815    0    0 
+calico    958204935  5  5 r   b     k     k         1815   30    0 Ac 7h
+calico    958204962  4  4 r   c     k     f         1785   30    0 
+calico    958204986  4  3 c   k     k     b         1755   30   75 Jc 3s
+calico    958205012  3  2 Br  b     b     k         1800   50  100 Ac 8h
+calico    958205045  3  1 Br  b     b     kc        1850   70    0 6c 5c
+calico    958205076  3  3 c   k     k     f         1780   10    0 
+calico    958205094  3  2 Bc  kc    b     b         1770   70  140 
+calico    958205118  3  1 Br  b     k     bc        1840   70    0 Qs Ah
+calico    958205140  3  3 c   k     f     -         1770   10    0 
+calico    958205157  4  2 Bk  k     k     k         1760   10   20 9c 8h
+calico    958205175  4  1 Bcc kc    bc    kf        1770   70    0 
+calico    958205215  4  4 f   -     -     -         1700    0    0 
+calico    958205227  4  3 c   b     -     -         1700   20   35 
+calico    958205241  4  2 Bk  k     k     k         1715   10    0 9c 2c
+calico    958205316  3  1 Bc  k     k     k         1705   10   20 2h As
+calico    958205350  3  3 r   k     f     -         1715   20    0 
+calico    958205371  3  2 Bk  kc    kc    kc        1695   60    0 8s Tc
+calico    958205420  3  1 Bc  kc    kc    kc        1635   60    0 9s 6s
+calico    958205459  3  3 c   k     k     b         1575   30   50 
+calico    958205497  4  2 Bk  b     k     k         1595   20   55 Th Ac
+calico    958205529  4  1 Bf  -     -     -         1630    5    0 
+calico    958205540  3  3 f   -     -     -         1625    0    0 
+calico    958205567  3  3 c   k     f     -         1625   10    0 
+calico    958205584  3  2 Br  k     c     f         1615   40    0 
+calico    958205614  3  1 Bc  k     kf    -         1575   10    0 
+calico    958205635  3  3 r   k     c     c         1565   60  125 Ad 9h
+calico    958205648  2  2 B   -     -     -         1630   10   15 
+calico    958206321  5  5 c   k     k     k         1635   10   13 2d 5s
+calico    958206338  4  4 c   c     f     -         1638   30    0 
+calico    958206363  4  3 cc  c     f     -         1608   30    0 
+calico    958206384  4  2 Bc  c     c     f         1578   50    0 
+calico    958206409  4  1 Br  k     k     k         1528   20   60 8s 4s
+calico    958206427  4  4 c   c     k     k         1568   30    0 Jc 8d
+calico    958206447  4  3 c   k     f     -         1538   10    0 
+calico    958206465  4  2 Br  k     k     k         1528   20   45 Td Ad
+calico    958206484  3  1 Bc  k     k     k         1553   10    0 5h Jd
+calico    958206499  3  3 r   r     c     c         1543   80    0 Qd Qc
+calico    958206521  3  2 Bk  k     k     k         1463   10    0 3s 6c
+calico    958206533  3  1 Bc  kc    k     kf        1453   20    0 
+calico    958206556  3  3 c   k     k     k         1433   10    0 5h 2s
+calico    958206570  3  2 Br  c     f     -         1423   30    0 
+calico    958206589  3  1 Bc  b     k     k         1393   20   50 Kd 3d
+calico    958206605  3  3 c   k     k     f         1423   10    0 
+calico    958206627  3  2 Br  b     -     -         1413   30   50 
+calico    958206639  3  1 Br  -     -     -         1433   20   30 
+calico    958206642  3  3 c   f     -     -         1443   10    0 
+calico    958206648  3  2 Bk  k     k     k         1433   10    0 Td 7h
+calico    958206665  3  1 Bc  k     b     b         1423   50   80 
+calico    958206682  3  3 c   k     k     c         1453   30   35 4c Th
+calico    958206700  3  2 Br  k     kf    -         1458   20    0 
+calico    958206719  3  1 Br  k     kf    -         1438   20    0 
+calico    958206743  3  3 cc  b     b     k         1418   50    0 6h Ac
+calico    958206769  3  2 Bk  k     c     k         1368   30    0 7d Jc
+calico    958206789  3  1 Bc  kf    -     -         1338   10    0 
+calico    958206810  3  3 c   b     -     -         1328   20   40 
+calico    958206822  3  2 Br  r     bc    kf        1348   80    0 
+calico    958206847  3  1 Br  k     k     b         1268   40   60 
+calico    958206859  3  3 c   c     f     -         1288   20    0 
+calico    958206878  3  2 Br  c     c     f         1268   60    0 
+calico    958206895  3  1 Bf  -     -     -         1208    5    0 
+calico    958206902  3  3 r   -     -     -         1203   20   35 
+calico    958206907  3  2 Bc  kr    b     b         1218   80  165 8c 7s
+calico    958206923  3  1 Bc  k     kf    -         1303   10    0 
+calico    958206943  3  3 c   k     k     f         1293   10    0 
+calico    958206962  3  2 B   -     -     -         1283   10   15 
+calico    958206968  3  1 Bf  -     -     -         1288    5    0 
+calico    958206986  3  3 c   k     k     f         1283   10    0 
+calico    958207001  3  2 Bk  k     k     k         1273   10    0 Jd 5c
+calico    958207018  3  1 Bc  kf    -     -         1263   10    0 
+calico    958207033  3  3 f   -     -     -         1253    0    0 
+calico    958207037  3  2 Bk  k     k     k         1253   10   20 3h Qd
+calico    958207047  3  1 Bf  -     -     -         1263    5    0 
+calico    958207065  3  3 f   -     -     -         1258    0    0 
+calico    958207080  3  2 Bk  k     k     f         1258   10    0 
+calico    958207098  3  1 Br  b     b     b         1248   70  140 As Js
+calico    958207111  3  3 c   f     -     -         1318   10    0 
+calico    958207127  3  2 Bk  k     k     k         1308   10   10 5h 4s
+calico    958207138  3  1 Bc  kc    k     kf        1308   20    0 
+calico    958207159  3  3 c   k     f     -         1288   10    0 
+calico    958207175  3  2 Bk  k     k     f         1278   10    0 
+calico    958207199  3  1 Bf  -     -     -         1268    5    0 
+calico    958207215  3  3 f   -     -     -         1263    0    0 
+calico    958207218  3  2 Bk  k     k     k         1263   10    0 4h 5d
+calico    958207232  3  1 Bc  k     b     k         1253   30    0 3h 2s
+calico    958207259  3  3 r   k     k     k         1223   20   60 Ad 2d
+calico    958207273  3  2 Bk  k     f     -         1263   10    0 
+calico    958207288  3  1 Bc  b     -     -         1253   20   40 
+calico    958207295  3  3 c   f     -     -         1273   10    0 
+calico    958207310  3  2 Bk  kf    -     -         1263   10    0 
+calico    958207321  3  1 Bc  kf    -     -         1253   10    0 
+calico    958207330  3  3 c   k     f     -         1243   10    0 
+calico    958207348  3  2 Bk  kf    -     -         1233   10    0 
+calico    958207361  3  1 Br  -     -     -         1223   20   30 
+calico    958207367  3  3 f   -     -     -         1233    0    0 
+calico    958207369  3  2 Bk  k     k     r         1233   50   90 
+calico    958207381  3  1 Bf  -     -     -         1273    5    0 
+calico    958207385  3  3 f   -     -     -         1268    0    0 
+calico    958207397  3  2 Bk  k     k     k         1268   10    0 2c 5h
+calico    958207408  3  1 Bc  b     b     -         1258   40   60 
+calico    958207421  3  3 c   b     b     b         1278   60  105 
+calico    958207443  3  2 B   -     -     -         1323   10   15 
+calico    958207446  3  1 Br  k     k     k         1328   20   60 7d 9s
+calico    958207462  3  3 r   c     f     -         1368   30    0 
+calico    958207481  3  2 Bk  k     k     k         1338   10    0 3d Ks
+calico    958207494  3  1 Bc  k     k     k         1328   10   20 Qd 9d
+calico    958207508  3  3 c   k     k     k         1338   10    0 8s 9d
+calico    958207527  3  2 Bk  f     -     -         1328   10    0 
+calico    958207536  3  1 Bf  -     -     -         1318    5    0 
+calico    958207539  3  3 f   -     -     -         1313    0    0 
+calico    958207542  3  2 Bk  k     k     k         1313   10   20 Tc Ks
+calico    958207558  3  1 Bc  k     kf    -         1323   10    0 
+calico    958207581  3  3 c   k     k     k         1313   10    0 7s Jd
+calico    958207598  3  2 Bk  k     k     k         1303   10   20 Kh 6d
+calico    958207621  3  1 Bf  -     -     -         1313    5    0 
+calico    958207638  3  3 c   k     k     f         1308   10    0 
+calico    958207658  3  2 Bk  k     k     b         1298   30   50 
+calico    958207678  3  1 Br  -     -     -         1318   20   30 
+calico    958207682  3  3 f   -     -     -         1328    0    0 
+calico    958207695  3  2 Bk  k     k     k         1328   10   25 7d Jh
+calico    958207707  3  1 Bc  k     k     k         1343   10    0 Ah 6c
+calico    958207727  3  3 r   k     k     f         1333   20    0 
+calico    958207761  3  2 Bk  k     b     kf        1313   30    0 
+calico    958207786  3  1 Bc  k     kf    -         1283   10    0 
+calico    958207807  3  3 f   -     -     -         1273    0    0 
+calico    958207824  3  2 Br  r     k     b         1273   70    0 4d 6d
+calico    958207846  3  1 Bc  k     k     k         1203   10   10 Ts Qd
+calico    958207865  3  3 c   k     b     -         1203   30   45 
+calico    958207881  3  2 Bk  b     b     b         1218   60  110 
+calico    958207913  3  1 Br  b     -     -         1268   30   50 
+calico    958207920  3  3 r   b     b     -         1288   50   90 
+calico    958207937  3  2 Bk  c     c     r         1328   80    0 3h 6c
+calico    958207957  3  1 Br  k     k     b         1248   40    0 Ts Ah
+calico    958207977  3  3 c   k     k     k         1208   10    0 5d 7s
+calico    958207992  3  2 Bk  k     k     k         1198   10    0 4s 9c
+calico    958208014  4  1 Bc  b     kc    kc        1188   60    0 5h Ah
+calico    958208043  3  3 f   Q     -     -         1128    0    0 
+calico    958716790 10  9 c   r     rc    c          284  150    0 8d 7h
+calico    958716897  9  8 f   -     -     -          134    0    0 
+calico    958716958 10  7 f   -     -     -          134    0    0 
+calico    958717113 10  6 cc  f     Q     -          134   40    0 
+calico    958722212 10  7 cc  k     kf    -           94   20    0 
+calico    958722287 10  6 f   -     -     -           74    0    0 
+calico    958722336 10  6 f   -     -     -           74    0    0 
+calico    958722416  9  4 c   k     k     k           74   10   60 Jh 9h
+calico    958722458  9  3 cc  f     -     -          124   20    0 
+calico    958722500  8  2 Bk  k     k     b          104   30   60 
+calico    958722546  7  1 Bc  kc    kc    bc         134   90  230 2d 7d
+calico    958722595  9  9 f   -     -     -          274    0    0 
+calico    958722632  8  7 f   -     -     -          274    0    0 
+calico    958722698  9  6 rc  cc    bc    rr         274  190  920 7d Ad
+calico    958722805  9  5 f   -     -     -         1004    0    0 
+calico    958722913  8  4 c   kf    -     -         1004   10    0 
+calico    958722970  8  3 rr  b     b     kc         994   90    0 Qc Qh
+calico    958723030  8  2 Bk  kc    kf    -          904   30    0 
+calico    958723133  8  1 Bf  -     -     -          874    5    0 
+calico    958723192  8  8 cc  b     b     b          869   70  220 
+calico    958723288  8  7 c   c     c     k         1019   50  175 Qd Jc
+calico    958723338  8  6 f   -     -     -         1144    0    0 
+calico    958723389  8  5 c   b     k     b         1144   50    0 Js Qd
+calico    958723436  8  4 f   -     -     -         1094    0    0 
+calico    958723493  8  3 c   kf    -     -         1094   10    0 
+calico    958723563  9  2 Bk  kf    -     -         1084   10    0 
+calico    958723652  7  1 Bc  k     k     k         1074   30    0 2d 6d
+calico    958723701  7  7 c   rc    r     b         1044  140  585 Ad 9s
+calico    958723761  9  7 c   c     c     k         1489   60    0 6c 6h
+calico    958723821  9  6 c   kc    kc    k         1429   50    0 3d 4d
+calico    958723893  8  4 f   -     -     -         1379    0    0 
+calico    958723957  8  3 f   -     -     -         1379    0    0 
+calico    958723999  9  2 Bc  k     kc    b         1379   60  113 Kd 9h
+calico    958724060 10  1 Brc kf    -     -         1432   40    0 
+calico    958724170  9  9 f   -     -     -         1392    0    0 
+calico    958724235  9  8 c   f     -     -         1392   10    0 
+calico    958724286  9  7 f   -     -     -         1382    0    0 
+calico    958724377  8  6 c   c     c     c         1382   60  195 Td Kd
+calico    958724410  8  5 c   kf    -     -         1517   10    0 
+calico    958724443  8  4 cc  kf    -     -         1507   20    0 
+calico    958724485  8  3 c   f     -     -         1487   10    0 
+calico    958724537  8  2 Bk  kc    k     kf        1477   20    0 
+calico    958724597  7  1 Bf  -     -     -         1457    5    0 
+calico    958724624  7  7 c   b     c     c         1452   60  140 Js 8d
+calico    958724664  7  6 f   -     -     Q         1532    0    0 
+calico    958891925 10  8 c   rc    rc    rr        1242  200  540 As 5s
+calico    958891984 10  7 c   c     c     k         1582   50    0 Jc 8h
+calico    958892058 10  6 c   kf    -     -         1532   10    0 
+calico    958892136 10  5 f   -     -     -         1522    0    0 
+calico    958892194 10  4 f   -     -     -         1522    0    0 
+calico    958892237 10  3 f   -     -     -         1522    0    0 
+calico    958892315 10  2 Br  kf    -     -         1522   20    0 
+calico    958892397 10  1 Bf  -     -     -         1502    5    0 
+calico    958892444 10 10 c   f     -     -         1497   10    0 
+calico    958892511 10  9 f   -     -     -         1487    0    0 
+calico    958892587 10  8 c   k     f     -         1487   10    0 
+calico    958892687 10  7 c   c     c     f         1477   40    0 
+calico    958892795 10  6 r   c     rc    b         1437  110  320 Qd Jd
+calico    958892855 10  5 cc  bcc   bcc   kf        1647  140    0 
+calico    958893014  9  4 f   -     -     -         1507    0    0 
+calico    958893091 10  3 cc  kc    kf    -         1507   30    0 
+calico    958893165  9  1 Bc  kf    -     -         1477   20    0 
+calico    958893216  9  1 Bc  kf    -     -         1457   10    0 
+calico    958893278  9  9 c   c     c     c         1447   60   82 Kd 7s
+calico    958893331  9  8 c   c     c     f         1469   40    0 
+calico    958893391  8  6 c   f     -     -         1429   10    0 
+calico    958893439  8  5 f   -     -     -         1419    0    0 
+calico    958893493  8  5 c   k     f     -         1419   10    0 
+calico    958893536  8  4 cc  kf    -     -         1409   20    0 
+calico    958893573  9  3 f   -     -     -         1389    0    0 
+calico    958893618  9  2 Bk  b     b     k         1389   40    0 As 7s
+calico    958893669  9  1 Bf  -     -     -         1349    5    0 
+calico    958893715  8  8 f   -     -     -         1344    0    0 
+calico    958893743  8  7 f   -     -     -         1344    0    0 
+calico    958893813  9  6 f   -     -     -         1344    0    0 
+calico    958893869  9  6 c   kf    -     -         1344   10    0 
+calico    958893933  8  4 f   -     -     -         1334    0    0 
+calico    958893985  8  3 c   k     k     f         1334   10    0 
+calico    958894022  9  2 Bk  c     k     k         1324   20   40 3d Qh
+calico    958894051  8  1 Bc  b     k     b         1344   40   90 7d Qc
+calico    958894077  9  9 r   r     r     b         1394  100    0 Ac Kh
+calico    958894137  9  8 c   k     f     -         1294   10    0 
+calico    958894186  9  7 f   -     -     -         1284    0    0 
+calico    958894213  9  6 cc  c     f     -         1284   30    0 
+calico    958894262  9  5 ccc b     k     kf        1254   50    0 
+calico    958894346  9  5 f   -     -     -         1204    0    0 
+calico    958894410  8  3 c   k     kc    kf        1204   30    0 
+calico    958894454  8  2 Bk  b     b     k         1174   40    0 8s Ks
+calico    958894482  8  1 Bf  -     -     -         1134    5    0 
+calico    958894531  8  8 f   -     -     -         1129    0    0 
+calico    958894572  8  7 f   -     -     -         1129    0    0 
+calico    958894603  8  6 f   -     -     -         1129    0    0 
+calico    958894633  8  5 f   -     -     -         1129    0    0 
+calico    958894674  8  4 cf  -     -     -         1129   10    0 
+calico    958894712  8  3 cc  cf    -     -         1119   30    0 
+calico    958894761  8  2 Bk  k     k     b         1089   30   70 As 7c
+calico    958894806  8  1 Bf  -     -     -         1129    5    0 
+calico    958894858  8  8 c   c     f     -         1124   20    0 
+calico    958894886  8  7 cc  c     c     f         1104   70    0 
+calico    958894942  8  6 r   c     c     r         1034   90  285 Jd Jc
+calico    958894976  8  5 f   -     -     -         1229    0    0 
+calico    958895012  7  3 c   kf    -     -         1229   10    0 
+calico    958895054  7  2 Bc  k     k     k         1219   20    0 2d As
+calico    958895083  7  1 Bf  -     -     -         1199    5    0 
+calico    958895094  6  6 r   rc    r     c         1194  110    0 Qc Qd
+calico    958895141  7  7 c   cc    k     f         1084   30    0 
+calico    958895197  7  6 f   -     -     -         1054    0    0 
+calico    958895230  9  6 f   -     -     -         1054    0    0 
+calico    958895301  9  5 cc  kf    -     -         1054   30    0 
+calico    958895379  8  4 cc  kc    kf    -         1024   30    0 
+calico    958895417  9  3 c   b     bc    kf         994   60    0 
+calico    958895465 10  2 Bc  f     -     -          934   20    0 
+calico    958895526 10  1 Bf  -     -     -          914    5    0 
+calico    958895553 10 10 c   b     -     -          909   20   50 
+calico    958895630  9  9 f   Q     -     -          939    0    0 
+calico    959148921  9  7 cc  kc    kf    -         1154   30    0 
+calico    959148950  9  6 c   k     r     c         1124   70    0 Td 3d
+calico    959149016  9  5 c   k     f     -         1054   10    0 
+calico    959149063  9  4 ccc cc    c     f         1044   90    0 
+calico    959149150  9  3 cc  kf    -     -          954   30    0 
+calico    959149226  8  2 Br  k     kc    bc         924   90    0 Qc Qs
+calico    959149270  8  1 Bc  kc    kf    -          834   50    0 
+calico    959149324  8  8 c   cc    r     c          784  130    0 4s Qs
+calico    959149389  8  7 f   -     -     -          654    0    0 
+calico    959149440  7  6 cc  c     f     -          654   30    0 
+calico    959149490  7  5 c   kcf   -     -          624   40    0 
+calico    959149558  8  4 ccc cc    r     b          584  130  700 8s 3s
+calico    959149708  8  3 f   -     -     -         1154    0    0 
+calico    959149752  8  2 Bc  b     kf    -         1154   30    0 
+calico    959149816  8  1 Bc  br    kc    k         1124   90  360 6d Ad
+calico    959149902  9  9 cc  c     f     -         1394   50    0 
+calico    959150043 10  9 fQ  -     -     -         1344    0    0 
+calico    959321352  6  5 c   k     k     f         1804   10    0 
+calico    959321439  5  3 f   -     -     -         1794    0    0 
+calico    959321479  7  3 cc  kc    kc    b         1794   70  215 4c Kh
+calico    959321520  7  2 Bk  b     -     -         1939   20   50 
+calico    959321540  8  1 Bc  kc    b     k         1969   50  105 9d Kc
+calico    959321593  8  8 r   c     c     f         2024   50    0 
+calico    959321625  8  7 c   c     k     f         1974   20    0 
+calico    959321670  8  6 c   b     c     k         1954   40  135 2s Ac
+calico    959321725  8  5 c   c     f     -         2049   20    0 
+calico    959321772  8  4 cc  b     b     b         2029   70  165 
+calico    959321800  8  3 c   b     bc    c         2124   80    0 Th 5h
+calico    959321847  7  2 Bf  -     -     -         2044   10    0 
+calico    959321875  7  1 Bc  kc    k     b         2034   50    0 9d 9h
+calico    959321920  7  7 f   -     -     -         1984    0    0 
+calico    959321971  7  6 f   -     -     -         1984    0    0 
+calico    959322006  7  5 f   -     -     -         1984    0    0 
+calico    959322040  8  4 cc  k     b     b         1984   60    0 9s Jh
+calico    959322097 10  3 c   k     k     c         1924   30    0 9c Ad
+calico    959322147 10  2 Bc  kf    -     -         1894   20    0 
+calico    959322209 10  1 Bc  kcc   kf    -         1874   30    0 
+calico    959322287 10 10 f   -     -     -         1844    0    0 
+calico    959322323 10  9 c   c     f     -         1844   20    0 
+calico    959322377 10  8 f   -     -     -         1824    0    0 
+calico    959322450  9  7 f   -     -     -         1824    0    0 
+calico    959322508  9  6 f   -     -     -         1824    0    0 
+calico    959322532 10  5 cc  cc    kc    br        1824  120    0 Js 7d
+calico    959322616 10  4 cc  kc    kcc   kfQ       1704  110    0 
+calico    959324912  7  6 c   c     f     -         1594   20    0 
+calico    959325011  7  3 Q   -     -     -         1574    0    0 
+calico    959417953  9  8 c   rc    r     k         1595   80  225 Kd Kh
+calico    959418018  9  7 c   c     rc    c         1740  100    0 Jc Qc
+calico    959418087  8  5 f   -     -     -         1640    0    0 
+calico    959418120  8  4 c   b     kc    kf        1640   40    0 
+calico    959418157  8  3 cc  kf    -     -         1600   20    0 
+calico    959418200  8  2 Bk  k     kf    -         1580   10    0 
+calico    959418256  9  1 Bf  -     -     -         1570    5    0 
+calico    959418328  9  9 cc  c     r     b         1565  110  505 8h Qc
+calico    959418406 10  9 f   -     -     -         1960    0    0 
+calico    959418451  9  8 f   -     -     -         1960    0    0 
+calico    959418504  9  7 c   k     c     f         1960   40    0 
+calico    959418553  9  6 c   rc    c     f         1920   70    0 
+calico    959418612  9  5 f   -     -     -         1850    0    0 
+calico    959418715  9  4 cc  rc    rr    ccc       1850  220    0 9c 9s
+calico    959418790  8  3 ccc kf    -     -         1630   40    0 
+calico    959418871  9  2 Bc  bc    kccc  brc       1590  210  685 7d 7s
+calico    959418960  8  1 Bc  kc    kf    -         2065   30    0 
+calico    959419066  8  3 Q   -     -     -         2035    0    0 
+calico    959660515 10  9 f   -     -     -          438    0    0 
+calico    959660607 10  8 f   -     -     -          438    0    0 
+calico    959660687 10  7 c   r     rc    c          438  110    0 Kc Kd
+calico    959660816 10  6 f   -     -     -          328    0    0 
+calico    959660876 10  5 f   -     -     -          328    0    0 
+calico    959660924 10  4 f   -     -     -          328    0    0 
+calico    959660973 10  3 cc  kcc   krc   kc         328  150    0 Jh Qh
+calico    959661069 10  2 Bf  -     -     -          178   10    0 
+calico    959661101 10  1 Bf  -     -     -          168    5    0 
+calico    959661195 10 10 cc  rc    c     f          163  120    0 
+calico    959661304 10  9 c   k     cA    -           43   43    0 7s Qs
+calico    959666019 10  6 cc  rc    rc    c         1000  130    0 9h 9c
+calico    959666094 10  5 cc  kc    kc    kf         870   50    0 
+calico    959666182 10  4 f   -     -     -          820    0    0 
+calico    959666274 10  3 c   kf    -     -          820   10    0 
+calico    959666318 10  2 Bf  -     -     -          810   10    0 
+calico    959666374  9  1 Bc  k     bc    kc         800   70  170 9s Jc
+calico    959666425 10 10 c   k     f     -          900   10    0 
+calico    959666499 10  9 f   -     -     -          890    0    0 
+calico    959666636 10  8 ccc f     -     -          890   40    0 
+calico    959666686 10  7 cc  f     -     -          850   40    0 
+calico    959666742 10  6 f   -     -     -          810    0    0 
+calico    959666826 10  5 cc  r     b     k          810   60    0 Td As
+calico    959666890 10  4 cc  bc    kf    -          750   40    0 
+calico    959666932 10  3 c   kf    -     -          710   10    0 
+calico    959666983 10  2 Bf  -     -     -          700   10    0 
+calico    959667056 10  1 Bf  -     -     -          690    5    0 
+calico    959667095 10 10 cc  c     f     -          685   30    0 
+calico    959667172 10  9 cc  br    bc    kc         655  110  255 6s 9h
+calico    959667222 10  8 cc  cf    -     -          800   40    0 
+calico    959667283 10  7 cc  cc    f     -          760   40    0 
+calico    959667328 10  6 ccc kc    kc    f          720   70    0 
+calico    959667419 10  5 f   -     -     -          650    0    0 
+calico    959667475 10  4 cc  br    bcc   kf         650  140    0 
+calico    959667540 10  3 rc  kc    kcc   rr         510  210    0 7s 7c
+calico    959667615  8  2 Bk  kf    -     -          300   10    0 
+calico    959667656 10  1 Bcc kc    br    b          290  140  350 Ks 8s
+calico    959667719 10 10 f   -     -     -          500    0    0 
+calico    959667753 10  9 f   -     -     -          500    0    0 
+calico    959667819  9  7 cc  bc    kf    -          500   40    0 
+calico    959667863  9  3 Q   -     -     -          460    0    0 
+calico    959750337  9  2 Bk  kf    -     -          460   10    0 
+calico    959750371  8  1 Bf  -     -     -          450    5    0 
+calico    959750439  8  8 f   -     -     -          445    0    0 
+calico    959750486  8  7 c   c     r     k          445   60    0 Kh Jd
+calico    959750544  8  6 cc  cc    b     -          385   60  150 
+calico    959750603  8  5 c   b     b     k          475   40  100 7d Js
+calico    959750641  7  4 cKQ -     -     -          535   10    0 
+calico    959751090  9  5 r   b     bc    bc         525  110    0 Jc Ac
+calico    959751144  9  4 c   kf    -     -          415   20    0 
+calico    959751194  8  3 cc  b     k     r          395   70  260 Qc Js
+calico    959751292  9  2 Bk  c     f     -          585   20    0 
+calico    959751351 10  1 Bf  -     -     -          565    5    0 
+calico    959751429 10 10 f   -     -     -          560    0    0 
+calico    959751489  9  8 c   c     f     -          560   20    0 
+calico    959751535 10  8 f   -     -     -          540    0    0 
+calico    959751586 10  7 cc  kc    kf    -          540   40    0 
+calico    959751647  9  4 Q   -     -     -          500    0    0 

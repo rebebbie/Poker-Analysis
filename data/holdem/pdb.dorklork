@@ -1,0 +1,127 @@
+dorklork  957463351  8  7 f   -     -     -         1000    0    0 
+dorklork  957463391  7  5 f   -     -     -         1000    0    0 
+dorklork  957463454  6  4 f   -     -     -         1000    0    0 
+dorklork  957463493  6  3 f   -     -     -         1000    0    0 
+dorklork  957463540  6  2 Bk  b     -     -         1000   20   30 
+dorklork  957463562  6  1 Bf  -     -     -         1010    5    0 
+dorklork  957463576  6  6 f   -     -     -         1005    0    0 
+dorklork  957463602  6  5 f   -     -     -         1005    0    0 
+dorklork  957463642  6  4 f   -     -     -         1005    0    0 
+dorklork  957463675  6  3 f   -     -     -         1005    0    0 
+dorklork  957463717  6  2 Br  br    k     b         1005   80    0 Ah Ac
+dorklork  957463794  6  1 Bf  -     -     -          925    5    0 
+dorklork  957463818  6  6 f   -     -     -          920    0    0 
+dorklork  957463862  6  5 cc  br    b     kc         920   90    0 Jd Qd
+dorklork  957463932  6  4 f   -     -     -          830    0    0 
+dorklork  957463967  7  4 f   -     -     -          830    0    0 
+dorklork  957463993  6  3 f   -     -     -          830    0    0 
+dorklork  957464031  7  2 Bk  f     -     -          830   10    0 
+dorklork  957464103  5  1 Bf  -     -     -          820    5    0 
+dorklork  957464143  4  4 c   k     k     b          815   30    0 4h 6h
+dorklork  957464174  4  3 rc  c     c     f          785   60    0 
+dorklork  957464210  3  2 Br  b     -     -          725   30   50 
+dorklork  957464217  3  1 Br  -     -     -          745   20   30 
+dorklork  957464223  3  3 f   -     -     -          755    0    0 
+dorklork  957464226  3  2 Br  b     -     -          755   30   50 
+dorklork  957464233  3  1 Bf  -     -     -          775    5    0 
+dorklork  957464240  3  3 r   b     -     -          770   30   55 
+dorklork  957464252  3  2 B   -     -     -          795   10   15 
+dorklork  957464259  3  1 Bf  -     -     -          800    5    0 
+dorklork  957464263  3  3 f   -     -     -          795    0    0 
+dorklork  957464272  3  2 Bk  b     b     br         795  100  205 As Js
+dorklork  957464288  3  1 Br  -     -     -          900   20   30 
+dorklork  957464296  3  3 rc  c     b     -          910   60  105 
+dorklork  957464304  3  2 Bk  b     k     k          955   20    0 5s Qc
+dorklork  957464319  3  1 Bf  -     -     -          935    5    0 
+dorklork  957464323  3  3 f   -     -     -          930    0    0 
+dorklork  957464337  3  2 B   -     -     -          930   10   15 
+dorklork  957464340  3  1 Br  b     k     kf         935   30    0 
+dorklork  957464354  3  3 r   b     b     -          905   50  100 
+dorklork  957464364  3  2 Br  b     -     -          955   30   50 
+dorklork  957464370  3  1 Br  b     k     k          975   30    0 5s 5c
+dorklork  957464378  3  3 r   -     -     -          945   20   35 
+dorklork  957464381  3  2 Bk  f     -     -          960   10    0 
+dorklork  957464392  3  1 Bf  -     -     -          950    5    0 
+dorklork  957464398  3  3 r   r     c     c          945   80    0 Jd Jh
+dorklork  957464416  3  2 Br  b     -     -          865   30   70 
+dorklork  957464428  3  1 Br  -     -     -          905   20   30 
+dorklork  957464430  3  3 f   -     -     -          915    0    0 
+dorklork  957464433  3  2 Bf  -     -     -          915   10    0 
+dorklork  957464441  3  1 Bf  -     -     -          905    5    0 
+dorklork  957464447  3  3 f   -     -     -          900    0    0 
+dorklork  957464464  3  2 Bk  b     b     -          900   40   60 
+dorklork  957464473  3  1 Bf  -     -     -          920    5    0 
+dorklork  957464479  3  3 f   -     -     -          915    0    0 
+dorklork  957464495  3  2 Bk  b     b     k          915   40    0 5s 4c
+dorklork  957464508  3  1 Bc  kf    -     -          875   20    0 
+dorklork  957464524  3  3 r   b     k     k          855   30    0 4c 5c
+dorklork  957464537  3  2 Bc  c     k     k          825   30    0 4c Ah
+dorklork  957464549  3  1 Bf  -     -     -          795    5    0 
+dorklork  957464552  3  3 r   r     k     k          790   40    0 8d 8h
+dorklork  957464568  3  2 Br  b     k     k          750   30    0 Jh Kd
+dorklork  957464581  3  1 Br  b     -     -          720   30   50 
+dorklork  957464590  3  3 r   b     -     -          740   30   60 
+dorklork  957464597  3  2 Bk  f     -     -          770   10    0 
+dorklork  957464601  3  1 Bf  -     -     -          760    5    0 
+dorklork  957464603  3  3 r   k     b     -          755   40   65 
+dorklork  957464612  3  2 Bk  k     k     k          780   10   30 6d 6s
+dorklork  957464634  3  1 Br  b     b     k          800   50    0 Qh 7c
+dorklork  957464646  3  3 r   b     -     -          750   30   55 
+dorklork  957464654  3  2 Br  b     b     b          775   80  180 
+dorklork  957464668  3  1 Brc kc    kc    kc         875   80    0 2h Ad
+dorklork  957464681  3  3 r   b     k     b          795   50  110 Ad 9s
+dorklork  957464694  3  2 B   -     -     -          855   10   15 
+dorklork  957464699  3  1 Br  b     b     b          860   70  120 
+dorklork  957464707  3  3 r   b     b     -          910   50  110 
+dorklork  957464718  3  2 B   -     -     -          970   10   15 
+dorklork  957464720  3  1 Bc  b     -     -          975   20   40 
+dorklork  957464726  3  3 f   -     -     -          995    0    0 
+dorklork  957464738  3  2 B   -     -     -          995   10   15 
+dorklork  957464742  3  1 Br  b     b     b         1000   70  120 
+dorklork  957464756  3  3 f   -     -     -         1050    0    0 
+dorklork  957464764  3  2 Bk  b     -     -         1050   20   30 
+dorklork  957464770  3  1 Bf  -     -     -         1060    5    0 
+dorklork  957464776  3  3 f   -     -     -         1055    0    0 
+dorklork  957464787  3  2 B   -     -     -         1055   10   15 
+dorklork  957464791  3  1 Br  -     -     -         1060   20   30 
+dorklork  957464798  3  3 r   b     bc    c         1070   90    0 Jc Ks
+dorklork  957464818  3  2 Bk  b     k     k          980   20   45 Jd 2c
+dorklork  957464833  3  1 Bf  -     -     -         1005    5    0 
+dorklork  957464844  3  3 f   -     -     -         1000    0    0 
+dorklork  957464851  3  2 Bk  k     k     k         1000   10    0 5c Kd
+dorklork  957464862  3  1 Bf  -     -     -          990    5    0 
+dorklork  957464868  3  3 r   k     k     k          985   20    0 Qd Jh
+dorklork  957464880  3  2 Bk  b     f     -          965   20    0 
+dorklork  957464887  3  1 Br  b     k     k          945   30   60 7s Kd
+dorklork  957464896  3  3 f   -     -     -          975    0    0 
+dorklork  957464901  3  2 Bk  b     -     -          975   20   30 
+dorklork  957464906  3  1 Bc  k     k     kf         985   10    0 
+dorklork  957464918  3  3 f   -     -     -          975    0    0 
+dorklork  957464929  3  2 Bk  b     k     k          975   20    0 Ts 9h
+dorklork  957464939  3  1 Bf  -     -     -          955    5    0 
+dorklork  957464943  3  3 f   -     -     -          950    0    0 
+dorklork  957464957  3  2 Bk  r     b     -          950   50   80 
+dorklork  957464968  3  1 Bf  -     -     -          980    5    0 
+dorklork  957464972  3  3 f   -     -     -          975    0    0 
+dorklork  957464980  3  2 B   -     -     -          975   10   15 
+dorklork  957464986  3  1 Br  -     -     -          980   20   30 
+dorklork  957464993  3  3 f   -     -     -          990    0    0 
+dorklork  957464996  3  2 Bk  b     k     k          990   20    0 4s 5d
+dorklork  957465009  3  1 Br  b     b     k          970   50    0 6s Kd
+dorklork  957465020  3  3 r   b     -     -          920   30   55 
+dorklork  957465031  3  2 Br  b     -     -          945   30   50 
+dorklork  957465039  3  1 Br  b     -     -          965   40   80 
+dorklork  957465048  3  3 f   -     -     -         1005    0    0 
+dorklork  957465060  3  2 Bk  b     -     -         1005   20   40 
+dorklork  957465074  3  1 Bf  -     -     -         1025    5    0 
+dorklork  957465082  3  3 f   -     -     -         1020    0    0 
+dorklork  957465098  3  2 B   -     -     -         1020   10   15 
+dorklork  957465101  3  1 Bc  b     -     -         1025   30   60 
+dorklork  957465115  2  2 r   -     -     -         1055   20   30 
+dorklork  957474297  6  6 f   -     -     -         1065    0    0 
+dorklork  957474336  5  4 c   rc    c     c         1065   80    0 Qh 8h
+dorklork  957474355  5  3 f   -     -     -          985    0    0 
+dorklork  957474385  5  2 Bk  brc   kc    kc         985   90    0 8c Ad
+dorklork  957474412  5  1 Br  brc   brc   brc        895  220    0 Ah 3h
+dorklork  957474451  5  5 r   b     b     b          675   70    0 4h Tc
+dorklork  957474476  5  4 r   b     b     bQ         605   70    0 

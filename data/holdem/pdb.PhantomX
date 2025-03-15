@@ -1,0 +1,50 @@
+PhantomX  957630586  2  2 Brc rr    rr    rf        1000  200    0 
+PhantomX  957630640  2  1 Brr -     -     -          800   40   70 
+PhantomX  957630659  3  2 Bk  kc    kf    -          830   20    0 
+PhantomX  957630690  2  1 Bc  k     kf    -          810   10    0 
+PhantomX  957630703  2  2 Bk  k     k     f          800   10    0 
+PhantomX  957630719  2  1 Bc  k     k     kf         790   10    0 
+PhantomX  957630737  3  3 f   -     -     -          780    0    0 
+PhantomX  957630746  3  2 BQ  -     -     -          780   10    0 
+PhantomX  957817339  2  2 Brc rr    rr    rr         770  240  480 Qh 2c
+PhantomX  957817398  2  1 Brr brc   brc   brc       1010  240    0 3c 8h
+PhantomX  957817451  2  2 Brc rc    rr    rr         770  230    0 Ac 5d
+PhantomX  957817498  2  1 Brr brc   brc   brf        540  220    0 
+PhantomX  957817547  2  2 Brc rr    rr    rf         320  200    0 
+PhantomX  957817602  2  1 Brr bc    bf    -          120   80    0 
+PhantomX  957817646  2  2 BrcA -     -     -           40   40    0 Th 9c
+PhantomX  957817682  2  2 Brc rr    rf    -         1000  120    0 
+PhantomX  957817727  3  1 Bc  kc    b     bc         880   80  170 Jd 7c
+PhantomX  957817782  3  3 c   c     b     k          970   40   85 6h 7h
+PhantomX  957817822  3  2 Bc  c     cc    kc        1015   90  230 3c Qd
+PhantomX  957817872  3  1 Bc  b     -     -         1155   20   30 
+PhantomX  957817902  2  2 B   -     -     -         1165   10   15 
+PhantomX  957817906  2  1 Br  kf    -     -         1170   20    0 
+PhantomX  957817922  2  2 Bc  c     f     -         1150   30    0 
+PhantomX  957817946  2  1 Bf  -     -     -         1120    5    0 
+PhantomX  957817958  2  2 B   -     -     -         1115   10   15 
+PhantomX  957817964  2  1 Bc  kc    b     b         1120   60  120 8d Td
+PhantomX  957817990  2  2 B   -     -     -         1180   10   15 
+PhantomX  957817995  2  1 Bf  -     -     -         1185    5    0 
+PhantomX  957818000  2  2 Bf  -     -     -         1180   10    0 
+PhantomX  957818004  2  1 Bcc kc    kf    -         1170   30    0 
+PhantomX  957818022  2  2 Bf  -     -     -         1140   10    0 
+PhantomX  957818026  2  1 Bc  bc    kf    -         1130   30    0 
+PhantomX  957818046  2  2 B   -     -     -         1100   10   15 
+PhantomX  957818048  2  1 Bc  k     k     k         1105   10   20 5h Ac
+PhantomX  957818069  2  2 Bc  c     k     c         1115   50  100 Qh Ts
+PhantomX  957818094  3  1 Bf  -     -     -         1165    5    0 
+PhantomX  957818105  3  3 c   c     c     k         1160   40   85 Ah 3d
+PhantomX  957818130  3  2 B   -     -     -         1205   10   15 
+PhantomX  957818137  3  1 BfQ -     -     -         1210    5    0 
+PhantomX  958002221  2  2 Brc rr    rr    rf         505  200    0 
+PhantomX  958002270  2  1 Brr brc   brc   brc        305  240    0 4c Qh
+PhantomX  958002334  2  2 Brf -     -     -           65   30    0 
+PhantomX  958002352  2  1 BrrA -     -     -           35   35   35 2h 8d
+PhantomX  958002367  2  2 BrcA -     -     -           35   35   35 3d 5s
+PhantomX  958002385  2  1 BrrA -     -     -           35   35   70 2s 6d
+PhantomX  958002397  2  2 Brf -     -     -           70   30    0 
+PhantomX  958002419  2  1 Bcf -     -     -           40   10    0 
+PhantomX  958002431  2  2 Bc  f     -     -           30   20    0 
+PhantomX  958002448  2  1 Bf  -     -     -           10    5    0 
+PhantomX  958002456  2  2 BA  -     -     -            5    5    0 Ac Qd

@@ -1,0 +1,627 @@
+LoneWolf  958788586 10  2 B   -     -     -         2075   20   30 
+LoneWolf  958788605 10  1 Bf  -     -     -         2085   10    0 
+LoneWolf  958788650 10 10 c   f     -     -         2075   20    0 
+LoneWolf  958788697 10  9 f   -     -     -         2055    0    0 
+LoneWolf  958788752 10  8 cc  kr    b     -         2055  120  290 
+LoneWolf  958788793 10  7 f   -     -     -         2225    0    0 
+LoneWolf  958788839 10  6 f   -     -     -         2225    0    0 
+LoneWolf  958788851 10  5 rc  kc    k     bc        2225  160    0 Ad Kc
+LoneWolf  958788908 10  4 f   -     -     -         2065    0    0 
+LoneWolf  958788993 10  3 f   -     -     -         2065    0    0 
+LoneWolf  958789056 10  2 Bc  kc    kf    -         2065   60    0 
+LoneWolf  958789131 10  1 Bf  -     -     -         2005   10    0 
+LoneWolf  958789148 10 10 c   f     -     -         1995   20    0 
+LoneWolf  958789195 10  9 c   c     f     -         1975   40    0 
+LoneWolf  958789248 10  8 c   k     f     -         1935   20    0 
+LoneWolf  958789272 10  7 f   -     -     -         1915    0    0 
+LoneWolf  958789286 10  6 f   -     -     -         1915    0    0 
+LoneWolf  958789323 10  5 f   -     -     -         1915    0    0 
+LoneWolf  958789373 10  4 f   -     -     -         1915    0    0 
+LoneWolf  958789412  9  2 Bc  kc    k     kc        1915  100    0 As Qc
+LoneWolf  958789458  9  1 Bc  b     k     b         1815   80  140 
+LoneWolf  958789486  9  9 f   -     -     -         1875    0    0 
+LoneWolf  958789516  9  8 f   -     -     -         1875    0    0 
+LoneWolf  958789526  9  7 f   -     -     -         1875    0    0 
+LoneWolf  958789575  9  6 f   -     -     -         1875    0    0 
+LoneWolf  958789613  9  6 c   c     b     -         1875   80  180 
+LoneWolf  958789663  8  4 f   -     -     -         1975    0    0 
+LoneWolf  958789706  7  2 cc  kf    -     -         1975   40    0 
+LoneWolf  958789735  7  2 Bc  kf    -     -         1935   40    0 
+LoneWolf  958789751  7  1 Bc  bc    kc    k         1895  100    0 Ah Td
+LoneWolf  958789782  8  8 f   -     -     -         1795    0    0 
+LoneWolf  958789807  8  7 f   -     -     -         1795    0    0 
+LoneWolf  958789849  8  6 f   -     -     -         1795    0    0 
+LoneWolf  958789882  8  5 c   f     -     -         1795   20    0 
+LoneWolf  958789917  9  5 f   -     -     -         1775    0    0 
+LoneWolf  958789944  9  4 f   -     -     -         1775    0    0 
+LoneWolf  958789969  9  3 c   f     -     -         1775   20    0 
+LoneWolf  958790015  9  2 Bk  kf    -     -         1755   20    0 
+LoneWolf  958790067  9  1 Bf  -     -     -         1735   10    0 
+LoneWolf  958790086  9  9 c   c     c     c         1725  140  410 Js Kh
+LoneWolf  958790116  9  8 f   -     -     -         1995    0    0 
+LoneWolf  958790157 10  8 f   -     -     -         1995    0    0 
+LoneWolf  958790177 10  7 f   -     -     -         1995    0    0 
+LoneWolf  958790223 10  6 f   -     -     -         1995    0    0 
+LoneWolf  958790263 10  5 f   -     -     -         1995    0    0 
+LoneWolf  958790316 10  4 f   -     -     -         1995    0    0 
+LoneWolf  958790378 10  3 f   -     -     -         1995    0    0 
+LoneWolf  958790416 10  2 Bk  kf    -     -         1995   20    0 
+LoneWolf  958790453 10  1 Bc  k     kf    -         1975   40    0 
+LoneWolf  958790476 10 10 f   -     -     -         1935    0    0 
+LoneWolf  958790537 10  9 f   -     -     -         1935    0    0 
+LoneWolf  958790582 10  8 f   -     -     -         1935    0    0 
+LoneWolf  958790633 10  7 f   -     -     -         1935    0    0 
+LoneWolf  958790658 10  6 c   f     -     -         1935   20    0 
+LoneWolf  958790698 10  5 f   -     -     -         1915    0    0 
+LoneWolf  958790731 10  4 f   -     -     -         1915    0    0 
+LoneWolf  958790743 10  3 f   -     -     -         1915    0    0 
+LoneWolf  958790801 10  2 Bf  -     -     -         1915   20    0 
+LoneWolf  958790875 10  1 Bc  kf    -     -         1895   20    0 
+LoneWolf  958790899 10 10 f   -     -     -         1875    0    0 
+LoneWolf  958790946 10  9 f   -     -     -         1875    0    0 
+LoneWolf  958790978 10  8 c   c     c     f         1875   80    0 
+LoneWolf  958791023 10  7 cc  c     c     f         1795  140    0 
+LoneWolf  958791075 10  6 f   -     -     -         1655    0    0 
+LoneWolf  958791106 10  5 f   -     -     -         1655    0    0 
+LoneWolf  958943596 10  6 c   k     k     k         2135   20   60 Th Kc
+LoneWolf  958943646 10  5 f   -     -     -         2175    0    0 
+LoneWolf  958943740 10  4 c   f     -     -         2175   20    0 
+LoneWolf  958943788 10  3 f   -     -     -         2155    0    0 
+LoneWolf  958943857 10  2 Bf  -     -     -         2155   20    0 
+LoneWolf  958943906 10  1 Bc  kf    -     -         2135   20    0 
+LoneWolf  958943954 10 10 c   b     f     -         2115   40    0 
+LoneWolf  958944027 10  9 f   -     -     -         2075    0    0 
+LoneWolf  958944098 10  8 c   f     -     -         2075   40    0 
+LoneWolf  958944135 10  7 f   -     -     -         2035    0    0 
+LoneWolf  958944181 10  6 f   -     -     -         2035    0    0 
+LoneWolf  958944255 10  5 c   k     brc   k         2035  180  200 4s 6s
+LoneWolf  958944321 10  4 fQ  -     -     -         2055    0    0 
+LoneWolf  958946475  9  1 Bf  -     -     -         2055   10    0 
+LoneWolf  958946507  9  9 f   -     -     -         2045    0    0 
+LoneWolf  958946546  9  8 f   -     -     -         2045    0    0 
+LoneWolf  958946617  8  6 f   -     -     -         2045    0    0 
+LoneWolf  958946646  8  5 f   -     -     -         2045    0    0 
+LoneWolf  958946678  8  4 f   -     -     -         2045    0    0 
+LoneWolf  958946706  8  3 f   -     -     -         2045    0    0 
+LoneWolf  958946744  9  2 Bk  c     c     b         2045  120  340 8h 3h
+LoneWolf  958946795  9  1 Bcc kc    kf    -         2265  120    0 
+LoneWolf  958946879  8  8 f   -     -     -         2145    0    0 
+LoneWolf  958946912  8  7 f   -     -     -         2145    0    0 
+LoneWolf  958946977  8  6 c   f     -     -         2145   20    0 
+LoneWolf  958947038 10  7 f   -     -     -         2125    0    0 
+LoneWolf  958947099 10  6 c   k     f     -         2125   20    0 
+LoneWolf  958947160 10  5 f   -     -     -         2105    0    0 
+LoneWolf  958947175 10  4 cc  kc    kf    -         2105   60    0 
+LoneWolf  958947247 10  3 f   -     -     -         2045    0    0 
+LoneWolf  958947275 10  2 Bf  -     -     -         2045   20    0 
+LoneWolf  958947344 10  1 Bc  kcc   kf    -         2025   80    0 
+LoneWolf  958947442 10 10 f   -     -     -         1945    0    0 
+LoneWolf  958947477 10  9 c   f     -     -         1945   40    0 
+LoneWolf  958947527 10  8 c   f     -     -         1905   20    0 
+LoneWolf  958947568 10  7 f   -     -     -         1885    0    0 
+LoneWolf  958947624 10  6 f   -     -     -         1885    0    0 
+LoneWolf  958947669  9  4 f   -     -     -         1885    0    0 
+LoneWolf  958947711  9  3 f   -     -     -         1885    0    0 
+LoneWolf  958947772  9  2 Bc  kf    -     -         1885   40    0 
+LoneWolf  958947808  9  1 Bf  -     -     -         1845   10    0 
+LoneWolf  958947844  9  9 f   -     -     -         1835    0    0 
+LoneWolf  958948022  9  8 f   -     -     -         1835    0    0 
+LoneWolf  958948088 10  8 f   -     -     -         1835    0    0 
+LoneWolf  958948122 10  7 f   -     -     -         1835    0    0 
+LoneWolf  958948159 10  6 f   -     -     -         1835    0    0 
+LoneWolf  958948228 10  5 f   -     -     -         1835    0    0 
+LoneWolf  958948294 10  4 f   -     -     -         1835    0    0 
+LoneWolf  958948340  9  3 f   -     -     -         1835    0    0 
+LoneWolf  958948364  7  2 Bcc kc    kr    b         1835  220  550 Tc Td
+LoneWolf  958948408  7  1 Bc  k     k     k         2165   20   40 6h Ad
+LoneWolf  958948447  7  7 f   -     -     -         2185    0    0 
+LoneWolf  958948463  7  6 c   f     -     -         2185   20    0 
+LoneWolf  958948484  7  5 cc  kc    kf    -         2165   60    0 
+LoneWolf  958948509  7  4 c   f     -     -         2105   20    0 
+LoneWolf  958948527  7  3 f   -     -     -         2085    0    0 
+LoneWolf  958948541  7  2 Bk  kc    kc    kf        2085   80    0 
+LoneWolf  958948578  7  1 Bf  -     -     -         2005   10    0 
+LoneWolf  958948608  7  7 c   k     f     -         1995   40    0 
+LoneWolf  958948651  7  6 c   b     k     k         1955   40   90 6h Kh
+LoneWolf  958948680  7  5 c   c     bc    kc        2005  160  400 As Ac
+LoneWolf  958948732  7  4 fQ  -     -     -         2245    0    0 
+LoneWolf  958954708  8  6 f   -     -     -         2315    0    0 
+LoneWolf  958954757  8  5 c   c     c     k         2315  100    0 5s 4s
+LoneWolf  958954783  8  4 c   b     b     k         2215   80  180 Jd Jh
+LoneWolf  958954814  8  3 f   -     -     -         2315    0    0 
+LoneWolf  958954844  9  2 Bk  kf    -     -         2315   20    0 
+LoneWolf  958954893  9  1 Bf  -     -     -         2295   10    0 
+LoneWolf  958954926  9  9 c   c     c     b         2285  140  460 As Ts
+LoneWolf  958954975  9  8 c   k     f     -         2605   20    0 
+LoneWolf  958955016  9  7 f   -     -     -         2585    0    0 
+LoneWolf  958955061  9  6 f   -     -     -         2585    0    0 
+LoneWolf  958955102  9  6 f   -     -     -         2585    0    0 
+LoneWolf  958955134  8  4 c   k     b     kc        2585  100    0 Jh Jc
+LoneWolf  958955165  8  3 c   kf    -     -         2485   20    0 
+LoneWolf  958955221  7  2 Bf  -     -     -         2465   20    0 
+LoneWolf  958955231  7  1 Bf  -     -     -         2445   10    0 
+LoneWolf  958955276  7  7 c   f     -     -         2435   20    0 
+LoneWolf  958955344  7  6 f   -     -     -         2415    0    0 
+LoneWolf  958955393  7  5 f   -     -     -         2415    0    0 
+LoneWolf  958955451  7  4 f   -     -     -         2415    0    0 
+LoneWolf  958955494  8  3 f   -     -     -         2415    0    0 
+LoneWolf  958955513  8  2 B   -     -     -         2415   20   30 
+LoneWolf  958955529  7  1 Bc  k     k     k         2425   20   40 2h 4c
+LoneWolf  958955552  7  7 f   -     -     -         2445    0    0 
+LoneWolf  958955598  7  6 f   -     -     -         2445    0    0 
+LoneWolf  958955618  7  5 f   -     -     -         2445    0    0 
+LoneWolf  958955648  8  4 c   b     -     -         2445   40   70 
+LoneWolf  958955666  8  3 c   b     -     -         2475   40   70 
+LoneWolf  958955684  8  2 Bk  f     -     -         2505   20    0 
+LoneWolf  958955733  8  1 Bc  kf    -     -         2485   20    0 
+LoneWolf  958955751  7  7 f   -     -     -         2465    0    0 
+LoneWolf  958955790  6  5 f   -     -     -         2465    0    0 
+LoneWolf  958955805  6  4 f   -     -     -         2465    0    0 
+LoneWolf  958955836  6  3 f   -     -     -         2465    0    0 
+LoneWolf  958955863  6  2 Bc  f     -     -         2465   40    0 
+LoneWolf  958955881  5  1 Bf  -     -     -         2425   10    0 
+LoneWolf  958955891  4  4 f   -     -     -         2415    0    0 
+LoneWolf  958955897  4  3 cc  c     f     -         2415   60    0 
+LoneWolf  958955913  4  2 Bc  kc    k     k         2355   60    0 9h 9s
+LoneWolf  958955933  4  1 Bf  -     -     -         2295   10    0 
+LoneWolf  958955945  4  4 f   -     -     -         2285    0    0 
+LoneWolf  958955948  4  3 c   c     k     k         2285   40    0 Th Kh
+LoneWolf  958955970  5  2 Bk  f     -     -         2245   20    0 
+LoneWolf  959208620  3  3 Q   -     -     -         2225    0    0 
+LoneWolf  959208683  4  3 c   c     b     k         2225   80  210 Kc Kd
+LoneWolf  959208719  4  2 Bf  -     -     -         2355   20    0 
+LoneWolf  959208731  4  1 Bc  kc    kr    -         2335  140  280 
+LoneWolf  959208752  4  4 f   -     -     -         2475    0    0 
+LoneWolf  959208769  4  3 cc  f     -     -         2475   40    0 
+LoneWolf  959208787  4  2 Bc  kc    k     k         2435   60  130 Qs Jd
+LoneWolf  959208809  4  1 Bc  b     b     -         2505   80  120 
+LoneWolf  959208826  4  4 f   -     -     -         2545    0    0 
+LoneWolf  959208832  4  3 c   c     c     k         2545   80    0 7s Ks
+LoneWolf  959208870  4  2 Bk  k     f     -         2465   20    0 
+LoneWolf  959208916  5  1 Bf  -     -     -         2445   10    0 
+LoneWolf  959208951  5  5 f   -     -     -         2435    0    0 
+LoneWolf  959208966  5  4 f   -     -     -         2435    0    0 
+LoneWolf  959208980  5  3 f   -     -     -         2435    0    0 
+LoneWolf  959209014  6  2 Bf  -     -     -         2435   20    0 
+LoneWolf  959209030  7  1 Bc  kc    kf    -         2415   40    0 
+LoneWolf  959209067  8  8 f   -     -     -         2375    0    0 
+LoneWolf  959209145  7  7 c   c     f     -         2375   40    0 
+LoneWolf  959209172  7  6 c   b     b     -         2335  100  190 
+LoneWolf  959209214  8  5 f   -     -     -         2425    0    0 
+LoneWolf  959209253  8  4 f   -     -     -         2425    0    0 
+LoneWolf  959209292  9  4 f   -     -     -         2425    0    0 
+LoneWolf  959209345  9  4 c   k     k     k         2425   20   90 Tc Ts
+LoneWolf  959209379  7  2 Bc  k     k     bc        2495  120    0 9c Kc
+LoneWolf  959209443  6  1 Bc  kf    -     -         2375   20    0 
+LoneWolf  959209484  6  6 f   -     -     -         2355    0    0 
+LoneWolf  959209510  6  5 c   c     f     -         2355   40    0 
+LoneWolf  959209538  6  4 f   -     -     -         2315    0    0 
+LoneWolf  959209559  6  3 f   -     -     -         2315    0    0 
+LoneWolf  959209570  6  2 Bc  kf    -     -         2315   40    0 
+LoneWolf  959209613  6  1 Bf  -     -     -         2275   10    0 
+LoneWolf  959209636  6  6 f   -     -     -         2265    0    0 
+LoneWolf  959209648  6  5 f   -     -     -         2265    0    0 
+LoneWolf  959209682  8  5 f   -     -     -         2265    0    0 
+LoneWolf  959209708  8  4 f   -     -     -         2265    0    0 
+LoneWolf  959209741  8  3 f   -     -     -         2265    0    0 
+LoneWolf  959209774  8  2 Bf  -     -     -         2265   20    0 
+LoneWolf  959209810  8  1 Bf  -     -     -         2245   10    0 
+LoneWolf  959209829  8  8 f   -     -     -         2235    0    0 
+LoneWolf  959209842  8  7 f   -     -     -         2235    0    0 
+LoneWolf  959209854  8  6 f   -     -     -         2235    0    0 
+LoneWolf  959209881  8  5 f   -     -     -         2235    0    0 
+LoneWolf  959209923  6  3 c   c     r     b         2235  160  320 
+LoneWolf  959209980  6  3 c   k     f     -         2395   20    0 
+LoneWolf  959210003  6  2 Bk  k     k     k         2375   20    0 7d 3s
+LoneWolf  959210028  6  1 Bc  kc    kf    -         2355   60    0 
+LoneWolf  959210085  6  6 c   b     b     -         2295   80  180 
+LoneWolf  959210136  6  5 c   k     k     k         2395   20   70 7d 7c
+LoneWolf  959210166  6  4 c   k     k     k         2445   20   50 Ks Ac
+LoneWolf  959210189  6  3 f   -     -     -         2475    0    0 
+LoneWolf  959210210  6  2 Bk  f     -     -         2475   20    0 
+LoneWolf  959210234  6  1 Bf  -     -     -         2455   10    0 
+LoneWolf  959210249  6  6 f   -     -     -         2445    0    0 
+LoneWolf  959210258  6  5 f   -     -     -         2445    0    0 
+LoneWolf  959210285  6  4 c   b     -     -         2445   40   70 
+LoneWolf  959210307  5  2 B   -     -     -         2475   20   30 
+LoneWolf  959210311  5  1 Bf  -     -     -         2485   10    0 
+LoneWolf  959210334  4  4 c   f     -     -         2475   20    0 
+LoneWolf  959210353  4  3 Q   -     -     -         2455    0    0 
+LoneWolf  959293252  8  3 f   -     -     -         2395    0    0 
+LoneWolf  959293281  8  2 Bf  -     -     -         2395   20    0 
+LoneWolf  959293341  8  1 Bc  kf    -     -         2375   20    0 
+LoneWolf  959293370  8  8 f   -     -     -         2355    0    0 
+LoneWolf  959293387  8  7 f   -     -     -         2355    0    0 
+LoneWolf  959293432  8  6 f   -     -     -         2355    0    0 
+LoneWolf  959293469  8  5 f   -     -     -         2355    0    0 
+LoneWolf  959293513  8  4 f   -     -     -         2355    0    0 
+LoneWolf  959293532  8  3 f   -     -     -         2355    0    0 
+LoneWolf  959293586  8  2 Bk  kf    -     -         2355   20    0 
+LoneWolf  959293627  8  1 Bc  kc    k     k         2335   40    0 7s Ts
+LoneWolf  959293676  8  8 f   -     -     -         2295    0    0 
+LoneWolf  959293686  9  8 f   -     -     -         2295    0    0 
+LoneWolf  959293722  8  7 f   -     -     -         2295    0    0 
+LoneWolf  959293756  8  6 f   -     -     -         2295    0    0 
+LoneWolf  959293787  8  5 f   -     -     -         2295    0    0 
+LoneWolf  959293852  8  4 f   -     -     -         2295    0    0 
+LoneWolf  959293893  8  3 f   -     -     -         2295    0    0 
+LoneWolf  959293929  9  2 Bc  kc    kc    kc        2295  140    0 Th Jc
+LoneWolf  959293976  9  1 Bf  -     -     -         2155   10    0 
+LoneWolf  959294020  9  9 f   -     -     -         2145    0    0 
+LoneWolf  959294050  9  8 cc  c     c     c         2145  180  285 Jc Jd
+LoneWolf  959294100  9  7 c   k     c     bc        2250  140  290 3c 4c
+LoneWolf  959294129  9  6 f   -     -     -         2400    0    0 
+LoneWolf  959294193 10  6 cc  kf    -     -         2400   60    0 
+LoneWolf  959294236 10  5 f   -     -     -         2340    0    0 
+LoneWolf  959294280 10  4 f   -     -     -         2340    0    0 
+LoneWolf  959294295 10  3 c   kc    kc    k         2340   80  210 5c 6h
+LoneWolf  959294363 10  2 Bk  kfQ   -     -         2470   20    0 
+LoneWolf  959301991  9  3 c   k     k     k         2450   20   80 8d 7c
+LoneWolf  959302083  8  2 Bk  kf    -     -         2510   20    0 
+LoneWolf  959302131  8  1 Bf  -     -     -         2490   10    0 
+LoneWolf  959302167  8  8 c   c     cc    f         2480  120    0 
+LoneWolf  959302218  8  7 f   -     -     -         2360    0    0 
+LoneWolf  959302278  9  6 f   -     -     -         2360    0    0 
+LoneWolf  959302317  9  5 f   -     -     -         2360    0    0 
+LoneWolf  959302360  9  4 c   k     f     -         2360   20    0 
+LoneWolf  959302398  9  3 f   -     -     -         2340    0    0 
+LoneWolf  959302477  8  2 Br  b     k     k         2340   60  130 Kh As
+LoneWolf  959302499  9  1 Bc  k     k     f         2410   20    0 
+LoneWolf  959302562  9  9 c   k     k     k         2390   20    0 2c 2s
+LoneWolf  959302604 10  9 f   -     -     -         2370    0    0 
+LoneWolf  959302650 10  8 f   -     -     -         2370    0    0 
+LoneWolf  959302705 10  7 f   -     -     -         2370    0    0 
+LoneWolf  959302741 10  6 c   k     f     -         2370   20    0 
+LoneWolf  959302786 10  5 c   kc    kf    -         2350   40    0 
+LoneWolf  959302850 10  4 cc  kc    kc    kc        2310  140  410 Qc Qh
+LoneWolf  959302909 10  3 f   -     -     -         2580    0    0 
+LoneWolf  959302958 10  2 Bf  -     -     -         2580   20    0 
+LoneWolf  959302999 10  1 Bc  k     kf    -         2560   20    0 
+LoneWolf  959303063 10 10 f   -     -     -         2540    0    0 
+LoneWolf  959303082 10  9 c   f     -     -         2540   20    0 
+LoneWolf  959303121 10  8 cc  kf    -     -         2520   40    0 
+LoneWolf  959303146 10  7 f   -     -     -         2480    0    0 
+LoneWolf  959303206 10  6 f   -     -     -         2480    0    0 
+LoneWolf  959303239 10  5 f   -     -     -         2480    0    0 
+LoneWolf  959303288 10  4 f   -     -     -         2480    0    0 
+LoneWolf  959303344 10  3 c   k     b     -         2480   60  120 
+LoneWolf  959303388 10  2 Bk  k     k     kf        2540   20    0 
+LoneWolf  959303451 10  1 BQ  -     -     -         2520   10    0 
+LoneWolf  959304791 10  1 Bc  k     b     k         2510   60  160 8c Ks
+LoneWolf  959304832 10 10 f   -     -     -         2610    0    0 
+LoneWolf  959304865 10  9 f   -     -     -         2610    0    0 
+LoneWolf  959304893 10  8 f   -     -     -         2610    0    0 
+LoneWolf  959304950  9  6 c   b     -     -         2610   40   70 
+LoneWolf  959304973  9  5 f   -     -     -         2640    0    0 
+LoneWolf  959304986  9  4 f   -     -     -         2640    0    0 
+LoneWolf  959305015  9  3 c   kc    kc    kc        2640  120  270 8s As
+LoneWolf  959305054  9  2 Bk  kf    -     -         2790   20    0 
+LoneWolf  959305097  9  1 Bc  kf    -     -         2770   20    0 
+LoneWolf  959305118  9  9 c   b     k     k         2750   40    0 Qc Ah
+LoneWolf  959305165  9  8 f   -     -     -         2710    0    0 
+LoneWolf  959305201  9  7 cc  kc    kc    k         2710  100  230 Kd 5d
+LoneWolf  959305240  9  6 cc  f     -     -         2840   40    0 
+LoneWolf  959305280  9  5 f   -     -     -         2800    0    0 
+LoneWolf  959305318  9  4 f   -     -     -         2800    0    0 
+LoneWolf  959305340  9  3 f   -     -     -         2800    0    0 
+LoneWolf  959305378  9  2 Bk  k     kf    -         2800   20    0 
+LoneWolf  959305424  8  1 Br  b     kc    kf        2780  100    0 
+LoneWolf  959305464  9  9 c   c     c     f         2680   80    0 
+LoneWolf  959305523  9  8 f   -     -     -         2600    0    0 
+LoneWolf  959305568 10  8 f   -     -     -         2600    0    0 
+LoneWolf  959305594 10  7 f   -     -     -         2600    0    0 
+LoneWolf  959305617 10  6 f   -     -     -         2600    0    0 
+LoneWolf  959305653 10  5 f   -     -     -         2600    0    0 
+LoneWolf  959305685 10  4 c   k     f     -         2600   20    0 
+LoneWolf  959305713 10  3 f   -     -     -         2580    0    0 
+LoneWolf  959305750 10  2 Bk  kf    -     -         2580   20    0 
+LoneWolf  959305775 10  1 Bc  kf    -     -         2560   20    0 
+LoneWolf  959305811 10 10 f   -     -     -         2540    0    0 
+LoneWolf  959305835 10  9 f   -     -     -         2540    0    0 
+LoneWolf  959305864 10  8 f   -     -     -         2540    0    0 
+LoneWolf  959305902 10  7 f   -     -     -         2540    0    0 
+LoneWolf  959305934 10  6 f   -     -     -         2540    0    0 
+LoneWolf  959305995 10  5 c   k     kf    -         2540   20    0 
+LoneWolf  959306034 10  4 f   -     -     -         2520    0    0 
+LoneWolf  959306099 10  3 f   -     -     -         2520    0    0 
+LoneWolf  959306147 10  2 Bk  kf    -     -         2520   20    0 
+LoneWolf  959306193 10  1 Bc  kf    -     -         2500   20    0 
+LoneWolf  959306243 10 10 f   -     -     -         2480    0    0 
+LoneWolf  959306298 10  9 cc  c     f     -         2480   60    0 
+LoneWolf  959306332 10  8 f   -     -     -         2420    0    0 
+LoneWolf  959306373 10  7 f   -     -     -         2420    0    0 
+LoneWolf  959306390 10  6 f   -     -     -         2420    0    0 
+LoneWolf  959306431 10  5 f   -     -     -         2420    0    0 
+LoneWolf  959306475 10  4 ccc kf    -     -         2420   80    0 
+LoneWolf  959306538 10  3 f   -     -     -         2340    0    0 
+LoneWolf  959306562 10  2 Bk  k     b     k         2340   60    0 2s 6d
+LoneWolf  959306590 10  1 Bc  k     k     k         2280   20   40 4s Ah
+LoneWolf  959306623  8  8 f   -     -     -         2300    0    0 
+LoneWolf  959306654  8  7 f   -     -     -         2300    0    0 
+LoneWolf  959306693  7  5 f   -     -     -         2300    0    0 
+LoneWolf  959306720  7  4 cc  f     -     -         2300   40    0 
+LoneWolf  959306758  8  3 f   -     -     -         2260    0    0 
+LoneWolf  959306792  8  2 Bk  f     -     -         2260   20    0 
+LoneWolf  959306832  8  1 Bf  -     -     -         2240   10    0 
+LoneWolf  959306853  7  7 f   -     -     -         2230    0    0 
+LoneWolf  959306876  8  7 f   -     -     -         2230    0    0 
+LoneWolf  959306903  8  6 c   k     k     k         2230   20    0 5d Qd
+LoneWolf  959306927  8  5 f   -     -     -         2210    0    0 
+LoneWolf  959306966  8  4 c   kf    -     -         2210   20    0 
+LoneWolf  959306996  8  3 f   -     -     -         2190    0    0 
+LoneWolf  959307014  9  2 Bf  -     -     -         2190   20    0 
+LoneWolf  959307026 10  1 Bf  -     -     -         2170   10    0 
+LoneWolf  959307039 10 10 f   -     -     -         2160    0    0 
+LoneWolf  959307055 10  9 f   -     -     -         2160    0    0 
+LoneWolf  959307094 10  8 f   -     -     -         2160    0    0 
+LoneWolf  959307123 10  7 f   -     -     -         2160    0    0 
+LoneWolf  959307169 10  6 f   -     -     -         2160    0    0 
+LoneWolf  959307211 10  5 f   -     -     -         2160    0    0 
+LoneWolf  959307258 10  4 cc  kc    kc    kc        2160  140    0 As Ks
+LoneWolf  959307302 10  3 f   -     -     -         2020    0    0 
+LoneWolf  959307324 10  2 Bk  kc    kf    -         2020   40    0 
+LoneWolf  959307371 10  1 Bc  kf    -     -         1980   20    0 
+LoneWolf  959307427 10 10 f   -     -     -         1960    0    0 
+LoneWolf  959307482 10  9 f   -     -     -         1960    0    0 
+LoneWolf  959307506 10  8 c   bc    k     b         1960  100  290 Td Jd
+LoneWolf  959307561 10  3 Q   -     -     -         2150    0    0 
+LoneWolf  959452476  4  3 ccc bc    kc    k         2150  160  205 Kh Ah
+LoneWolf  959452505  4  2 Bk  k     k     k         2195   20   40 7d Qd
+LoneWolf  959452526  4  1 Bf  -     -     -         2215   10    0 
+LoneWolf  959452557  4  4 f   -     -     -         2205    0    0 
+LoneWolf  959452579  5  4 c   r     k     k         2205   60  150 Th 9d
+LoneWolf  959452602  5  3 cc  k     f     -         2295   40    0 
+LoneWolf  959452639  5  2 Bk  kf    -     -         2255   20    0 
+LoneWolf  959452652  5  1 Bc  kf    -     -         2235   20    0 
+LoneWolf  959452671  5  5 f   -     -     -         2215    0    0 
+LoneWolf  959452676  5  4 f   -     -     -         2215    0    0 
+LoneWolf  959452693  5  3 f   -     -     -         2215    0    0 
+LoneWolf  959452721  5  2 Bc  c     f     -         2215   60    0 
+LoneWolf  959452739  5  1 Bc  kc    kc    k         2155   80  200 Kh Qd
+LoneWolf  959452769  5  5 f   -     -     -         2275    0    0 
+LoneWolf  959452784  6  5 f   -     -     -         2275    0    0 
+LoneWolf  959452798  6  4 f   -     -     -         2275    0    0 
+LoneWolf  959452818  6  3 c   b     b     c         2275  120  320 Qc Qd
+LoneWolf  959452869  6  2 Bc  k     kf    -         2475   40    0 
+LoneWolf  959452901  6  1 Bc  kf    -     -         2435   20    0 
+LoneWolf  959452924  6  6 c   k     f     -         2415   20    0 
+LoneWolf  959452979  7  6 f   -     -     -         2395    0    0 
+LoneWolf  959453022  7  5 c   k     k     f         2395   20    0 
+LoneWolf  959453076  7  4 cc  k     f     -         2375   40    0 
+LoneWolf  959453124  7  3 f   -     -     -         2335    0    0 
+LoneWolf  959453136  7  2 Bk  b     b     k         2335   80  270 Kc 9h
+LoneWolf  959453176  7  1 Bc  b     b     k         2525   80  160 Tc 7h
+LoneWolf  959453206  7  7 f   -     -     -         2605    0    0 
+LoneWolf  959453233  7  6 c   k     k     b         2605   60  110 
+LoneWolf  959453273  7  5 f   Q     -     -         2655    0    0 
+LoneWolf  959454010  5  3 f   -     -     -         2655    0    0 
+LoneWolf  959454029  5  3 c   f     -     -         2655   20    0 
+LoneWolf  959454049  5  2 Bk  k     k     k         2635   20    0 Th 4h
+LoneWolf  959454068  4  1 Bf  -     -     -         2615   10    0 
+LoneWolf  959454105  4  4 f   -     -     -         2605    0    0 
+LoneWolf  959454123  4  3 f   -     -     -         2605    0    0 
+LoneWolf  959454135  4  2 Bc  f     -     -         2605   40    0 
+LoneWolf  959454156  4  1 Bf  -     -     -         2565   10    0 
+LoneWolf  959454180  4  4 f   -     -     -         2555    0    0 
+LoneWolf  959454206  4  3 f   -     -     -         2555    0    0 
+LoneWolf  959454223  4  2 Bc  c     c     f         2555  100    0 
+LoneWolf  959454237  4  1 Bf  -     -     -         2455   10    0 
+LoneWolf  959454254  4  4 f   -     -     -         2445    0    0 
+LoneWolf  959454268  4  3 f   -     -     -         2445    0    0 
+LoneWolf  959454291  5  2 Bk  k     k     b         2445   60   80 
+LoneWolf  959454310  5  1 Bc  b     b     -         2465   80  140 
+LoneWolf  959454322  5  5 c   f     -     -         2525   20    0 
+LoneWolf  959454341  5  4 f   -     -     -         2505    0    0 
+LoneWolf  959454367  5  3 f   -     -     -         2505    0    0 
+LoneWolf  959454373  5  2 Bk  b     -     -         2505   40   70 
+LoneWolf  959454401  5  1 Bc  kf    -     -         2535   40    0 
+LoneWolf  959454424  5  5 f   -     -     -         2495    0    0 
+LoneWolf  959454441  5  4 f   -     -     -         2495    0    0 
+LoneWolf  959454478  5  3 f   -     -     -         2495    0    0 
+LoneWolf  959454494  5  2 Bk  k     k     kf        2495   20    0 
+LoneWolf  959454513  5  1 Bc  k     b     k         2475   60  140 6s 8h
+LoneWolf  959454542  5  5 c   c     f     -         2555   60    0 
+LoneWolf  959454563  5  4 c   k     k     f         2495   20    0 
+LoneWolf  959454582  5  3 c   k     k     k         2475   20   60 Kh 8h
+LoneWolf  959454606  5  2 Bk  kc    kf    -         2515   40    0 
+LoneWolf  959454642  5  1 Bf  -     -     -         2475   10    0 
+LoneWolf  959454651  5  5 c   f     -     -         2465   20    0 
+LoneWolf  959454673  5  4 f   -     -     -         2445    0    0 
+LoneWolf  959454684  5  3 f   -     -     -         2445    0    0 
+LoneWolf  959454692  5  2 Bk  k     k     k         2445   20   50 3c Ks
+LoneWolf  959454702  5  1 Bf  -     -     -         2475   10    0 
+LoneWolf  959454718  5  5 f   -     -     -         2465    0    0 
+LoneWolf  959454742  5  4 f   -     -     -         2465    0    0 
+LoneWolf  959454763  5  3 c   b     b     k         2465   80  170 7c Qc
+LoneWolf  959454786  5  2 Bk  b     b     k         2555   80  160 Jh Ks
+LoneWolf  959454820  5  1 Bc  kc    kf    -         2635   60    0 
+LoneWolf  959454859  5  5 f   -     -     -         2575    0    0 
+LoneWolf  959454872  5  4 f   -     -     -         2575    0    0 
+LoneWolf  959454878  5  3 c   k     k     c         2575   60  130 Jd As
+LoneWolf  959454902  5  2 Br  b     -     -         2645   60  140 
+LoneWolf  959454925  5  1 Bc  b     bc    kc        2725  160    0 Ts Jd
+LoneWolf  959454951  5  5 c   k     b     -         2565   60   90 
+LoneWolf  959454977  5  4 f   -     -     -         2595    0    0 
+LoneWolf  959454999  5  3 f   -     -     -         2595    0    0 
+LoneWolf  959455011  5  2 Bf  -     -     -         2595   20    0 
+LoneWolf  959455022  5  1 Bf  -     -     -         2575   10    0 
+LoneWolf  959455036  5  5 f   -     -     -         2565    0    0 
+LoneWolf  959455054  5  4 f   -     -     -         2565    0    0 
+LoneWolf  959455068  5  3 f   -     -     -         2565    0    0 
+LoneWolf  959455114  6  2 Bc  kf    -     -         2565   40    0 
+LoneWolf  959455131  6  1 Bc  b     b     k         2525   80    0 Kh Qh
+LoneWolf  959455155  6  6 c   c     f     -         2445   40    0 
+LoneWolf  959455184  6  5 f   -     -     -         2405    0    0 
+LoneWolf  959455201  6  4 c   cc    kf    -         2405   80    0 
+LoneWolf  959455233  6  3 f   -     -     -         2325    0    0 
+LoneWolf  959455242  6  2 Bc  c     c     rc        2325  220    0 Ks Qd
+LoneWolf  959455265  6  1 Bf  -     -     -         2105   10    0 
+LoneWolf  959455313  7  4 Q   -     -     -         2095    0    0 
+LoneWolf  959477013 10 10 f   -     -     -         2095    0    0 
+LoneWolf  959477109 10  9 c   cc    f     -         2095  100    0 
+LoneWolf  959477190 10  8 f   -     -     -         1995    0    0 
+LoneWolf  959477237 10  7 c   c     c     c         1995  120  320 Ad Kc
+LoneWolf  959477283  9  5 f   -     -     -         2195    0    0 
+LoneWolf  959477327  9  4 f   -     -     -         2195    0    0 
+LoneWolf  959477374  8  2 Bk  kf    -     -         2195   20    0 
+LoneWolf  959477431  8  1 Bc  kc    krc   b         2175  220  540 7c Tc
+LoneWolf  959477507  8  8 r   c     f     -         2495   60    0 
+LoneWolf  959477553  8  7 c   b     k     k         2435   40  120 9h 9s
+LoneWolf  959477585  7  5 c   cc    kc    k         2515  100    0 Tc Ac
+LoneWolf  959477646  7  4 f   -     -     -         2415    0    0 
+LoneWolf  959477697  8  4 cc  k     kf    -         2415   40    0 
+LoneWolf  959477749  7  2 cc  k     b     k         2375   80  120 Tc Qh
+LoneWolf  959477793  7  2 Bk  f     -     -         2415   20    0 
+LoneWolf  959477813  7  1 Bc  kf    -     -         2395   20    0 
+LoneWolf  959477885  7  7 f   -     -     -         2375    0    0 
+LoneWolf  959477913  7  6 f   -     -     -         2375    0    0 
+LoneWolf  959477925  7  5 f   -     -     -         2375    0    0 
+LoneWolf  959477945  7  4 f   -     -     -         2375    0    0 
+LoneWolf  959477971  7  3 c   b     b     k         2375   80  270 As Ad
+LoneWolf  959478002  7  2 Bc  kf    -     -         2565   40    0 
+LoneWolf  959478057  7  1 Bc  k     k     k         2525   20   40 Td 8d
+LoneWolf  959478090  7  7 f   -     -     -         2545    0    0 
+LoneWolf  959478130  7  6 f   -     -     -         2545    0    0 
+LoneWolf  959478177  7  5 c   c     c     c         2545  120  200 Jd Ad
+LoneWolf  959478240  7  4 f   -     -     -         2625    0    0 
+LoneWolf  959478283  7  3 cc  c     f     -         2625   60    0 
+LoneWolf  959478356  8  2 Bc  kc    kc    k         2565  120    0 Jd Kc
+LoneWolf  959478410  8  1 Bf  -     -     -         2445   10    0 
+LoneWolf  959478438  8  8 f   -     -     -         2435    0    0 
+LoneWolf  959478510  8  7 f   -     -     -         2435    0    0 
+LoneWolf  959478569  9  7 c   f     -     -         2435   40    0 
+LoneWolf  959478591  8  5 f   -     -     -         2395    0    0 
+LoneWolf  959478620  8  5 f   -     -     -         2395    0    0 
+LoneWolf  959478683  8  4 f   -     -     -         2395    0    0 
+LoneWolf  959478717  8  3 f   -     -     -         2395    0    0 
+LoneWolf  959478747  8  2 Bk  f     -     -         2395   20    0 
+LoneWolf  959478810  8  1 Bf  -     -     -         2375   10    0 
+LoneWolf  959478892  7  7 f   -     -     -         2365    0    0 
+LoneWolf  959478928  7  6 f   -     -     -         2365    0    0 
+LoneWolf  959478972  7  5 f   -     -     -         2365    0    0 
+LoneWolf  959479003  6  4 f   -     -     -         2365    0    0 
+LoneWolf  959479012  6  3 f   -     -     -         2365    0    0 
+LoneWolf  959479060  6  2 Bk  bc    k     kf        2365   60    0 
+LoneWolf  959479095  6  1 Bc  kf    -     -         2305   20    0 
+LoneWolf  959479165  6  6 c   f     -     -         2285   20    0 
+LoneWolf  959479201  6  5 c   k     f     -         2265   20    0 
+LoneWolf  959479227  6  4 f   -     -     -         2245    0    0 
+LoneWolf  959479262  6  3 c   c     r     b         2245  160  340 Tc Jc
+LoneWolf  959479303  6  2 Bk  c     f     -         2425   40    0 
+LoneWolf  959479325  7  1 Bc  bc    k     k         2385   60  140 8d Kd
+LoneWolf  959479358  7  7 f   -     -     -         2465    0    0 
+LoneWolf  959479413  7  6 f   -     -     -         2465    0    0 
+LoneWolf  959479442  8  6 f   -     -     -         2465    0    0 
+LoneWolf  959479480  8  5 f   -     -     -         2465    0    0 
+LoneWolf  959479521  9  4 f   -     -     -         2465    0    0 
+LoneWolf  959479556  9  3 f   -     -     -         2465    0    0 
+LoneWolf  959479611  9  2 Bf  -     -     -         2465   20    0 
+LoneWolf  959479646  9  1 Bf  -     -     -         2445   10    0 
+LoneWolf  959479678  9  9 c   c     b     k         2435   80    0 7d Ah
+LoneWolf  959479719  9  8 f   -     -     -         2355    0    0 
+LoneWolf  959479750  9  7 f   -     -     -         2355    0    0 
+LoneWolf  959479809  9  6 cc  f     -     -         2355   40    0 
+LoneWolf  959479884  9  6 f   -     -     -         2315    0    0 
+LoneWolf  959479949 10  5 f   -     -     -         2315    0    0 
+LoneWolf  959479994 10  4 f   -     -     -         2315    0    0 
+LoneWolf  959480062 10  3 f   -     -     -         2315    0    0 
+LoneWolf  959480111 10  2 Bf  -     -     -         2315   20    0 
+LoneWolf  959480169 10  1 Bc  kc    kc    kf        2295   80    0 
+LoneWolf  959480225 10 10 c   c     rc    c         2215  220    0 9s 9c
+LoneWolf  959480267  9  8 f   -     -     -         1995    0    0 
+LoneWolf  959480313  9  7 f   -     -     -         1995    0    0 
+LoneWolf  959480364 10  7 f   -     -     -         1995    0    0 
+LoneWolf  959480394 10  6 c   k     f     -         1995   20    0 
+LoneWolf  959480451 10  5 cc  kf    -     -         1975   40    0 
+LoneWolf  959480487 10  4 f   -     -     -         1935    0    0 
+LoneWolf  959480521 10  3 f   -     -     -         1935    0    0 
+LoneWolf  959480562 10  2 Bk  f     -     -         1935   20    0 
+LoneWolf  959480620 10  1 Bf  -     -     -         1915   10    0 
+LoneWolf  959480652 10 10 f   -     -     -         1905    0    0 
+LoneWolf  959480680 10  9 f   -     -     -         1905    0    0 
+LoneWolf  959480750 10  8 f   -     -     -         1905    0    0 
+LoneWolf  959480793 10  7 c   c     rrc   rrrrrrrrrrc   1905 1080 1135 Th 9s
+LoneWolf  959480858 10  6 c   k     kc    brr       1960  260  570 Qd Kd
+LoneWolf  959480938 10  5 f   -     -     -         2270    0    0 
+LoneWolf  959480967 10  4 c   c     k     k         2270   40    0 Th Jc
+LoneWolf  959480989 10  3 f   -     -     -         2230    0    0 
+LoneWolf  959481003 10  2 Bk  kf    -     -         2230   20    0 
+LoneWolf  959481064 10  1 Bf  Q     -     -         2210   10    0 
+LoneWolf  959622494  9  8 cc  kc    k     kf        2200   60    0 
+LoneWolf  959622550  9  7 f   -     -     -         2140    0    0 
+LoneWolf  959622567  8  5 f   -     -     -         2140    0    0 
+LoneWolf  959622603  7  4 c   k     kf    -         2140   20    0 
+LoneWolf  959622627  7  3 f   -     -     -         2120    0    0 
+LoneWolf  959622658  7  2 Bc  kc    kf    -         2120   60    0 
+LoneWolf  959622696  7  1 Bc  kc    k     kf        2060   60    0 
+LoneWolf  959622716  7  7 f   -     -     -         2000    0    0 
+LoneWolf  959622749  7  6 f   -     -     -         2000    0    0 
+LoneWolf  959622790  7  5 f   -     -     -         2000    0    0 
+LoneWolf  959622822  7  4 f   -     -     -         2000    0    0 
+LoneWolf  959622848  7  3 f   -     -     -         2000    0    0 
+LoneWolf  959622883  7  2 Bk  c     k     f         2000   40    0 
+LoneWolf  959622913  7  1 Bcc kc    kc    kc        1960  140    0 Ts 9s
+LoneWolf  959622960  6  6 f   -     -     -         1820    0    0 
+LoneWolf  959622974  5  4 cc  kc    kc    kc        1820  160  430 Qd Qc
+LoneWolf  959623003  5  3 f   -     -     -         2090    0    0 
+LoneWolf  959623010  5  2 Br  b     k     c         2090  100    0 Ah Jh
+LoneWolf  959623036  5  1 Bc  k     k     k         1990   20   60 Qd Ah
+LoneWolf  959623065  5  5 f   -     -     -         2030    0    0 
+LoneWolf  959623090  5  4 cc  f     -     -         2030   40    0 
+LoneWolf  959623104  5  3 c   k     k     k         1990   20   70 Td Ah
+LoneWolf  959623123  6  2 Bc  f     -     -         2040   40    0 
+LoneWolf  959623153  7  1 Bcc k     b     -         2000   80  240 
+LoneWolf  959623197  7  7 f   -     -     -         2160    0    0 
+LoneWolf  959623230  6  5 f   -     -     -         2160    0    0 
+LoneWolf  959623258  6  4 f   -     -     -         2160    0    0 
+LoneWolf  959623271  6  3 c   kf    -     -         2160   20    0 
+LoneWolf  959623316  7  2 Bk  k     f     -         2140   20    0 
+LoneWolf  959623359  7  1 Bc  kf    -     -         2120   40    0 
+LoneWolf  959623404  7  7 f   -     -     -         2080    0    0 
+LoneWolf  959623430  7  7 f   -     -     -         2080    0    0 
+LoneWolf  959623435  6  5 f   -     -     -         2080    0    0 
+LoneWolf  959623462  6  4 f   -     -     -         2080    0    0 
+LoneWolf  959623493  6  3 f   -     -     -         2080    0    0 
+LoneWolf  959623518  5  2 Bk  kf    -     -         2080   20    0 
+LoneWolf  959623536  5  1 Bf  -     -     -         2060   10    0 
+LoneWolf  959623552  5  5 f   -     -     -         2050    0    0 
+LoneWolf  959623589  5  4 f   -     -     -         2050    0    0 
+LoneWolf  959623607  5  3 f   -     -     -         2050    0    0 
+LoneWolf  959623644  5  2 Bk  k     kf    -         2050   20    0 
+LoneWolf  959623675  5  1 Bf  -     -     -         2030   10    0 
+LoneWolf  959623681  5  5 f   -     -     -         2020    0    0 
+LoneWolf  959623688  5  4 f   Q     -     -         2020    0    0 
+LoneWolf  959626210 10  2 Bk  k     k     k         2020   20   70 2c 5h
+LoneWolf  959626251 10  1 Bc  kc    kf    -         2070   60    0 
+LoneWolf  959626314 10 10 c   k     f     -         2010   20    0 
+LoneWolf  959626365 10  9 cc  f     -     -         1990   40    0 
+LoneWolf  959626409 10  8 f   -     -     -         1950    0    0 
+LoneWolf  959626482 10  7 f   -     -     -         1950    0    0 
+LoneWolf  959626554 10  6 f   -     -     -         1950    0    0 
+LoneWolf  959626608 10  5 f   -     -     -         1950    0    0 
+LoneWolf  959626657 10  4 f   -     -     -         1950    0    0 
+LoneWolf  959626691 10  3 c   k     k     kf        1950   20    0 
+LoneWolf  959626744 10  2 Bk  k     f     -         1930   20    0 
+LoneWolf  959626783 10  1 Bf  -     -     -         1910   10    0 
+LoneWolf  959626811 10 10 f   -     -     -         1900    0    0 
+LoneWolf  959626837 10  9 cc  kf    -     -         1900   40    0 
+LoneWolf  959626907 10  9 c   b     b     -         1860   80  160 
+LoneWolf  959626961  9  7 f   -     -     -         1940    0    0 
+LoneWolf  959627000  9  6 f   -     -     -         1940    0    0 
+LoneWolf  959627036  9  5 f   -     -     -         1940    0    0 
+LoneWolf  959627077  9  4 c   k     b     -         1940   60   90 
+LoneWolf  959627134  9  3 cc  k     kf    -         1970   40    0 
+LoneWolf  959627193  9  2 Bk  kf    -     -         1930   20    0 
+LoneWolf  959627249  9  1 Bc  kf    -     -         1910   20    0 
+LoneWolf  959627283  9  9 f   -     -     -         1890    0    0 
+LoneWolf  959627309  9  8 c   f     -     -         1890   40    0 
+LoneWolf  959627349  9  7 f   -     -     -         1850    0    0 
+LoneWolf  959627377  9  6 c   kc    kf    -         1850   40    0 
+LoneWolf  959627421  9  5 c   k     k     f         1810   20    0 
+LoneWolf  959627462  9  4 f   -     -     -         1790    0    0 
+LoneWolf  959627472  9  3 f   -     -     -         1790    0    0 
+LoneWolf  959627519 10  2 Bk  kf    -     -         1790   20    0 
+LoneWolf  959627583 10  1 Bc  kc    kf    -         1770   40    0 
+LoneWolf  959627643 10 10 c   f     -     -         1730   20    0 
+LoneWolf  959627690 10  9 c   f     -     -         1710   40    0 
+LoneWolf  959627717 10  4 Q   -     -     -         1670    0    0 

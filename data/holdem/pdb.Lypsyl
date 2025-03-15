@@ -1,0 +1,149 @@
+Lypsyl    959721662 10 10 f   -     -     -         1000    0    0 
+Lypsyl    959721736 10 10 c   k     c     f         1000   30    0 
+Lypsyl    959721840  9  8 r   c     b     b          970   70  210 Qs Kc
+Lypsyl    959721890  8  6 f   -     -     -         1110    0    0 
+Lypsyl    959721921  8  5 f   -     -     -         1110    0    0 
+Lypsyl    959721952  8  5 c   k     b     -         1110   30   65 
+Lypsyl    959721989  7  3 f   -     -     -         1145    0    0 
+Lypsyl    959722043  7  1 Br  b     b     kr        1145   90    0 Ts Ks
+Lypsyl    959722084  8  1 Bf  -     -     -         1055    5    0 
+Lypsyl    959722119  8  8 c   c     f     -         1050   20    0 
+Lypsyl    959722187 10  9 f   -     -     -         1030    0    0 
+Lypsyl    959722251  9  7 f   -     -     -         1030    0    0 
+Lypsyl    959722293 10  6 f   -     -     -         1030    0    0 
+Lypsyl    959722374  9  5 f   -     -     -         1030    0    0 
+Lypsyl    959722441 10  4 f   -     -     -         1030    0    0 
+Lypsyl    959722517 10  3 f   -     -     -         1030    0    0 
+Lypsyl    959722582 10  2 Br  b     b     b         1030   80  370 
+Lypsyl    959722691 10  1 Bc  b     br    krc       1320  180    0 4c Ad
+Lypsyl    959722804  8  8 f   -     -     -         1140    0    0 
+Lypsyl    959722881  7  6 f   -     -     -         1140    0    0 
+Lypsyl    959722991  8  5 c   kf    -     -         1140   20    0 
+Lypsyl    959723065  9  5 c   c     f     -         1120   30    0 
+Lypsyl    959723113  9  4 f   Q     -     -         1090    0    0 
+Lypsyl    959723240  9  2 Bcc k     c     rr        1090  140  320 5d Qd
+Lypsyl    959723300  9  1 Bcc kc    kc    b         1270   70  230 Tc Ah
+Lypsyl    959723369 10 10 f   -     -     -         1430    0    0 
+Lypsyl    959723424 10  9 c   b     b     rc        1430  120    0 5d Ks
+Lypsyl    959723537 10  8 f   -     -     -         1310    0    0 
+Lypsyl    959723626 10  7 f   -     -     -         1310    0    0 
+Lypsyl    959723692  8  4 c   k     kf    -         1310   10    0 
+Lypsyl    959723730  8  3 c   f     -     -         1300   10    0 
+Lypsyl    959723780  9  2 Bk  b     b     b         1290   60  160 8d Tc
+Lypsyl    959723828  9  1 Bf  -     -     -         1390    5    0 
+Lypsyl    959723862 10 10 f   -     -     -         1385    0    0 
+Lypsyl    959723913  9  8 c   c     c     r         1385   80  175 
+Lypsyl    959723997  9  7 f   -     -     -         1480    0    0 
+Lypsyl    959724040  9  6 cc  r     b     k         1480   60    0 Th Ks
+Lypsyl    959724111 10  5 cc  c     c     f         1420   50    0 
+Lypsyl    959724193  9  4 c   k     crc   c         1370  110    0 Td 9d
+Lypsyl    959724255  9  3 cc  f     -     -         1260   20    0 
+Lypsyl    959724375  8  2 Bf  -     -     -         1240   10    0 
+Lypsyl    959724436  7  1 Bc  b     b     b         1230   60  120 
+Lypsyl    959724464  6  6 c   b     -     -         1290   20   35 
+Lypsyl    959724483  6  5 f   -     -     -         1305    0    0 
+Lypsyl    959724518  6  4 cc  r     b     kf        1305   60    0 
+Lypsyl    959724577  6  3 c   k     c     f         1245   30    0 
+Lypsyl    959724632  6  2 Bk  c     f     -         1215   20    0 
+Lypsyl    959724653  6  1 Bc  kf    -     -         1195   20    0 
+Lypsyl    959724702  6  6 c   k     c     f         1175   30    0 
+Lypsyl    959724746  7  6 f   -     -     -         1145    0    0 
+Lypsyl    959724787  7  5 r   k     b     k         1145   40   85 8c Ac
+Lypsyl    959724826  7  4 c   f     -     -         1190   10    0 
+Lypsyl    959724876  7  3 c   kf    -     -         1180   10    0 
+Lypsyl    959724908  8  2 Bk  kcc   cf    -         1170   70    0 
+Lypsyl    959724994  7  1 Bf  -     -     -         1100    5    0 
+Lypsyl    959725040  6  6 c   f     -     -         1095   20    0 
+Lypsyl    959725058  7  3 Q   -     -     -         1075    0    0 
+Lypsyl    959739148  9  9 f   -     -     -          435    0    0 
+Lypsyl    959739229  9  8 cc  ccc   cc    f          415  100    0 
+Lypsyl    959739310 10  8 c   r     bc    brc        295  160    0 3c Ah
+Lypsyl    959739402 10  7 c   k     b     k          310   30    0 Ad 8s
+Lypsyl    959739469 10  6 cc  k     kc    kf         280   40    0 
+Lypsyl    959739557 10  5 c   c     c     f          230   50    0 
+Lypsyl    959739627 10  4 f   -     -     -           70    0    0 
+Lypsyl    959739674 10  3 c   kc    kc    k           70   40    0 9d 4d
+Lypsyl    959806235  7  6 c   b     b     k          960   50  145 Qh 9d
+Lypsyl    959806269  8  5 rc  kc    bc    kc        1055  100    0 Ad 6c
+Lypsyl    959806382  8  3 c   kc    b     b          955   60  130 
+Lypsyl    959806414 10  3 c   k     c     f         1025   50    0 
+Lypsyl    959806466 10  2 Bf  -     -     -          975   10    0 
+Lypsyl    959806513 10  1 Bc  kf    -     -          965   10    0 
+Lypsyl    959806558 10 10 f   -     -     -          955    0    0 
+Lypsyl    959806660 10  9 c   f     -     -          955   10    0 
+Lypsyl    959806708 10  8 f   -     -     -          945    0    0 
+Lypsyl    959806764 10  7 f   -     -     -          945    0    0 
+Lypsyl    959806827 10  6 f   -     -     -          945    0    0 
+Lypsyl    959806949  9  4 f   -     -     -          945    0    0 
+Lypsyl    959806995 10  4 r   br    kc    kc         945   90    0 Tc Ts
+Lypsyl    959807034 10  3 rc  kcc   kcc   kf         855  160    0 
+Lypsyl    959807105 10  2 Br  b     b     -          695   50  105 
+Lypsyl    959807139 10  1 Bf  -     -     -          750    5    0 
+Lypsyl    959807167 10 10 f   -     -     -          745    0    0 
+Lypsyl    959807218 10  9 f   -     -     -          745    0    0 
+Lypsyl    959807257 10  8 c   f     -     -          745   20    0 
+Lypsyl    959807314 10  7 c   f     -     -          725   20    0 
+Lypsyl    959807350 10  6 f   -     -     -          705    0    0 
+Lypsyl    959807395 10  5 cc  cc    cc    f          705  110    0 
+Lypsyl    959807456 10  4 f   -     -     -          595    0    0 
+Lypsyl    959807524 10  3 f   -     -     -          595    0    0 
+Lypsyl    959807550 10  2 Bk  k     k     b          595   30   65 
+Lypsyl    959807583 10  1 Brc b     b     b          630   90  390 
+Lypsyl    959807657 10 10 f   -     -     -          930    0    0 
+Lypsyl    959807711 10  9 c   cc    b     b          930  100  435 
+Lypsyl    959807808  9  7 f   -     -     -         1265    0    0 
+Lypsyl    959807864  9  7 f   -     -     -         1265    0    0 
+Lypsyl    959807902  8  5 c   bc    brc   brc       1265  200    0 Ah 6c
+Lypsyl    959807952  7  3 cc  cc    kc    r         1065  130  410 8c Qd
+Lypsyl    959808011  9  3 ccc ccc   f     -         1345   80    0 
+Lypsyl    959808078  9  2 Bk  kf    -     -         1265   10    0 
+Lypsyl    959808133  9  1 Bc  k     k     k         1255   10    0 9s 2s
+Lypsyl    959808179  8  8 c   k     f     -         1245   10    0 
+Lypsyl    959808236  8  7 f   -     -     -         1235    0    0 
+Lypsyl    959808247  8  6 r   c     r     b         1235   90    0 Tc Ac
+Lypsyl    959808293  8  5 f   -     -     -         1145    0    0 
+Lypsyl    959808337  7  3 cc  bc    kc    br        1145  120    0 Ts Qs
+Lypsyl    959808383  8  3 f   -     -     -         1025    0    0 
+Lypsyl    959808426  8  2 Br  b     b     b         1025  100  355 Ac Ad
+Lypsyl    959808473  7  1 Bc  b     b     b         1280   70  180 
+Lypsyl    959808516  7  7 c   k     c     b         1390   60    0 Ad 5c
+Lypsyl    959808574  7  6 c   f     -     -         1330   20    0 
+Lypsyl    959808607  7  5 cc  c     c     f         1310   50    0 
+Lypsyl    959808644  7  4 cc  k     c     b         1260   60  180 Kc 3d
+Lypsyl    959808700  7  3 rc  k     k     k         1380   30   70 2h Th
+Lypsyl    959808758  7  2 Bk  k     kc    kf        1420   30    0 
+Lypsyl    959808843  7  1 Bcc kcr   brc   brc       1390  230    0 9s Ah
+Lypsyl    959808896  7  7 c   c     c     r         1160   90    0 Ac Ts
+Lypsyl    959808978  7  6 c   f     -     -         1070   10    0 
+Lypsyl    959809021  6  4 f   -     -     -         1060    0    0 
+Lypsyl    959809049  6  3 crc r     b     b         1060  100  250 
+Lypsyl    959809122  6  2 Bc  k     b     -         1210   40  105 
+Lypsyl    959809151  6  1 Bc  kf    -     -         1275   10    0 
+Lypsyl    959809175  7  7 c   c     cc    c         1265  140    0 Ah 3d
+Lypsyl    959809221  7  6 f   -     -     -         1125    0    0 
+Lypsyl    959809257  7  5 f   -     -     -         1125    0    0 
+Lypsyl    959809296  9  5 cc  kc    kc    kf        1125   70    0 
+Lypsyl    959809340  8  3 f   -     -     -         1055    0    0 
+Lypsyl    959809421  8  2 Bk  kc    kr    brc       1055  140    0 8d 8c
+Lypsyl    959809466  8  1 Bf  -     -     -          915    5    0 
+Lypsyl    959809500  8  8 f   -     -     -          910    0    0 
+Lypsyl    959809529  8  7 cc  c     b     -          910   50  135 
+Lypsyl    959809572  8  6 f   -     -     -          995    0    0 
+Lypsyl    959809645  8  5 c   c     f     -          995   20    0 
+Lypsyl    959809682  8  4 f   -     -     -          975    0    0 
+Lypsyl    959809707  8  3 cc  kf    -     -          975   20    0 
+Lypsyl    959809762  6  2 Bk  k     kr    b          955   70  130 
+Lypsyl    959809800  7  1 Bf  -     -     -         1015    5    0 
+Lypsyl    959809852  8  8 c   c     k     c         1010   40    0 Jc Ad
+Lypsyl    959809896  8  7 c   cc    f     -          970   40    0 
+Lypsyl    959809982  8  6 f   -     -     -          930    0    0 
+Lypsyl    959810016  7  4 f   -     -     -          930    0    0 
+Lypsyl    959810053  9  4 c   br    b     b          930   80  180 8c Qh
+Lypsyl    959810096  9  3 f   -     -     -         1030    0    0 
+Lypsyl    959810140 10  2 Bk  kc    brc   kc        1030  120    0 Jd 6c
+Lypsyl    959810193 10  1 Bc  k     kc    b          910   60    0 4s Kc
+Lypsyl    959810279 10 10 f   -     -     -          850    0    0 
+Lypsyl    959810373 10  9 c   KQ    -     -          850   20    0 
+Lypsyl    959830670  9  9 c   c     c     f          540   40    0 
+Lypsyl    959830749  9  8 r   b     b     b          500   80  225 
+Lypsyl    959830874  9  7 f   Q     -     -          645    0    0 

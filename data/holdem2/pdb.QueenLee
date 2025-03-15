@@ -1,0 +1,106 @@
+QueenLee  957561882 10  3 f   -     -     -         3602    0    0 
+QueenLee  957561945 10  2 Br  b     -     -         3602   60  140 
+QueenLee  957561979  8  1 Bc  kf    -     -         3682   40    0 
+QueenLee  957562020  8  8 c   c     k     c         3642  100    0 Ah 5c
+QueenLee  957562076  8  7 c   c     bc    c         3542  160    0 7s 6c
+QueenLee  957562147  9  6 c   b     b     k         3382   80    0 Ts Ks
+QueenLee  957562218  9  5 cc  kc    bc    k         3302  160    0 2s 2h
+QueenLee  957562294  9  4 cc  rc    b     b         3142  200  660 9h 6s
+QueenLee  957562398  9  3 f   -     -     -         3602    0    0 
+QueenLee  957562457  9  2 B   -     -     -         3602   20   30 
+QueenLee  957562475  9  1 Bc  kc    kc    kf        3612   80    0 
+QueenLee  957562585  9  9 cc  cc    c     f         3532  200    0 
+QueenLee  957562668  9  8 f   -     -     -         3332    0    0 
+QueenLee  957562739  9  7 c   b     b     b         3332  140  310 As 4h
+QueenLee  957562792  9  6 c   r     r     rr        3502  300    0 Kc 6c
+QueenLee  957562855  9  5 c   r     b     b         3202  140  340 
+QueenLee  957562916  9  4 c   kf    -     -         3402   40    0 
+QueenLee  957562988  9  3 cc  kc    k     kf        3362   60    0 
+QueenLee  957563043  9  2 Bcc kf    -     -         3302   80    0 
+QueenLee  957563093  9  1 BQ  -     -     -         3222   10    0 
+QueenLee  957607482  2  1 Bf  -     -     -         3212   10    0 
+QueenLee  957607490  2  2 B   -     -     -         3202   20   30 
+QueenLee  957607494  2  1 Bc  kf    -     -         3212   20    0 
+QueenLee  957607507  3  3 cc  c     c     f         3192  100    0 
+QueenLee  957607533  3  2 Bk  kf    -     -         3092   20    0 
+QueenLee  957607544  3  1 Bf  -     -     -         3072   10    0 
+QueenLee  957607560  4  4 f   -     -     -         3062    0    0 
+QueenLee  957607586  4  3 f   -     -     -         3062    0    0 
+QueenLee  957607602  4  2 Bk  kf    -     -         3062   20    0 
+QueenLee  957607647  4  1 Bf  -     -     -         3042   10    0 
+QueenLee  957607676  4  4 f   -     -     -         3032    0    0 
+QueenLee  957607697  4  3 f   -     -     -         3032    0    0 
+QueenLee  957607703  4  2 Bk  k     f     -         3032   20    0 
+QueenLee  957607726  4  1 Bc  k     kc    krc       3012  180  380 2d Kd
+QueenLee  957607788  4  4 f   -     -     -         3212    0    0 
+QueenLee  957607821  4  3 c   k     c     f         3212   60    0 
+QueenLee  957607841  4  2 Bk  kc    k     k         3152   40   90 5s 8h
+QueenLee  957607865  4  1 Bf  -     -     -         3202   10    0 
+QueenLee  957607886  4  4 f   -     -     Q         3192    0    0 
+QueenLee  957607984  4  2 B   -     -     -         3192   20   30 
+QueenLee  957607990  4  1 Br  b     -     -         3202   60  120 
+QueenLee  957608007  4  4 f   -     -     -         3262    0    0 
+QueenLee  957608023  4  3 f   -     -     -         3262    0    0 
+QueenLee  957608052  4  2 Bk  kc    k     k         3262   40    0 7s 3s
+QueenLee  957608079  4  1 Bc  k     kc    k         3222   60    0 Ts 2s
+QueenLee  957608118  4  4 c   k     b     -         3162   60  110 
+QueenLee  957608140  4  3 c   b     b     b         3212  120    0 Jh Qc
+QueenLee  957608172  4  2 Bk  b     -     -         3092   40   60 
+QueenLee  957608187  4  1 Bf  -     -     -         3112   10    0 
+QueenLee  957608205  4  4 f   -     -     -         3102    0    0 
+QueenLee  957608236  4  3 KQ  -     -     -         3102    0    0 
+QueenLee  957646427  9  4 c   c     c     b         3157  120  400 Th 9s
+QueenLee  957646478  9  3 cc  k     b     -         3437   80  180 
+QueenLee  957646528  9  2 Bc  c     c     k         3537  100    0 3c Kc
+QueenLee  957646557  8  1 Brr kc    bc    kc        3437  240    0 Ac As
+QueenLee  957646610  8  8 r   rc    r     k         3197  180    0 Ah Kd
+QueenLee  957646654  8  7 f   -     -     -         3017    0    0 
+QueenLee  957646681  7  5 c   b     b     b         3017  120    0 9c Ts
+QueenLee  957646720  7  4 c   f     -     -         2897   20    0 
+QueenLee  957646740  7  3 f   -     -     -         2877    0    0 
+QueenLee  957646764  8  3 f   -     -     -         2877    0    0 
+QueenLee  957646798  8  2 Bk  kc    kc    kc        2877  120    0 Ts Ad
+QueenLee  957646823  8  1 Bf  -     -     -         2757   10    0 
+QueenLee  957646847  8  8 r   b     b     b         2747  160  350 Th Qh
+QueenLee  957646877  8  7 c   kf    -     -         2937   20    0 
+QueenLee  957646898  8  6 f   -     -     -         2917    0    0 
+QueenLee  957646940  8  5 c   b     c     c         2917  120    0 6h Ah
+QueenLee  957646973  8  4 c   k     b     k         2797   60    0 Jd 8h
+QueenLee  957647010  8  3 f   -     -     -         2737    0    0 
+QueenLee  957647018  8  2 Bk  kc    b     k         2737   80  300 2d 5c
+QueenLee  957647062  9  1 Bf  -     -     -         2957   10    0 
+QueenLee  957647098  9  9 f   -     -     -         2947    0    0 
+QueenLee  957647125 10  9 f   -     -     -         2947    0    0 
+QueenLee  957647144 10  8 f   -     -     -         2947    0    0 
+QueenLee  957647179 10  7 f   -     -     -         2947    0    0 
+QueenLee  957647234 10  6 f   -     -     -         2947    0    0 
+QueenLee  957647284 10  5 c   c     c     f         2947   80    0 
+QueenLee  957647325 10  4 cc  bc    kc    b         2867  160  370 6s 7h
+QueenLee  957647382 10  3 c   cc    kc    b         3077  140    0 5h 8h
+QueenLee  957647462 10  2 Bk  c     c     c         2937  120    0 2c Jc
+QueenLee  957647495 10  1 Bf  -     -     -         2817   10    0 
+QueenLee  957647538 10 10 c   c     f     -         2807   60    0 
+QueenLee  957647607 10  9 f   Q     -     -         2747    0    0 
+QueenLee  957649025  7  2 Bc  kf    -     -         2352   40    0 
+QueenLee  957649043  7  1 Bf  -     -     -         2312   10    0 
+QueenLee  957649091  8  8 c   k     f     -         2302   20    0 
+QueenLee  957649127  8  7 f   -     -     -         2282    0    0 
+QueenLee  957649160  9  6 c   b     -     -         2282   40  100 
+QueenLee  957649198 10  5 f   -     -     -         2342    0    0 
+QueenLee  957649225 10  4 Q   -     -     -         2342    0    0 
+QueenLee  957737320 10  4 f   -     -     -         2342    0    0 
+QueenLee  957737385 10  3 cc  kc    b     k         2342  120  370 6h 9s
+QueenLee  957737458 10  2 Bk  k     f     -         2592   20    0 
+QueenLee  957737487 10  1 Bc  k     b     -         2572   60  120 
+QueenLee  957737561  8  8 cc  c     f     -         2632   60    0 
+QueenLee  957737592  8  7 cc  kc    kc    k         2572  100    0 Tc Ac
+QueenLee  957737639  8  5 f   -     -     -         2472    0    0 
+QueenLee  957737693  8  4 f   -     -     -         2472    0    0 
+QueenLee  957737723  7  3 f   -     -     -         2472    0    0 
+QueenLee  957737763  7  2 BKQ -     -     -         2472   20    0 
+QueenLee  957738951  5  3 f   -     -     -         2452    0    0 
+QueenLee  957739001  5  2 Bk  f     -     -         2452   20    0 
+QueenLee  957739027  5  1 Bcc kr    k     kc        2432  180    0 3d 5d
+QueenLee  957739089  5  5 f   -     -     -         2252    0    0 
+QueenLee  957739134  5  4 cc  c     c     c         2252  140    0 Qc 3c
+QueenLee  957739186  6  3 f   Q     -     -         2112    0    0 

@@ -1,0 +1,954 @@
+darhoon   957496229  5  3 cc  c     c     f         2442  100    0 
+darhoon   957496275  6  2 Bf  -     -     -         2342   20    0 
+darhoon   957496299  7  1 Bc  k     k     b         2322   60  100 
+darhoon   957496341  8  8 c   c     c     f         2362   80    0 
+darhoon   957496399  8  7 f   -     -     -         2282    0    0 
+darhoon   957496448  8  6 f   -     -     -         2282    0    0 
+darhoon   957496507  8  5 f   -     -     -         2282    0    0 
+darhoon   957496556  8  4 f   -     -     -         2282    0    0 
+darhoon   957496623  9  3 f   -     -     -         2282    0    0 
+darhoon   957496669  9  2 Bc  ccc   f     -         2282  120    0 
+darhoon   957496750  9  1 Bc  k     kf    -         2162   20    0 
+darhoon   957496798  9  9 f   -     -     -         2142    0    0 
+darhoon   957496828 10  8 f   -     -     -         2142    0    0 
+darhoon   957496906  9  6 f   -     -     -         2142    0    0 
+darhoon   957496948  8  4 cc  c     k     f         2142   60    0 
+darhoon   957497042  8  3 c   f     -     -         2082   20    0 
+darhoon   957497103  8  3 f   -     -     -         2062    0    0 
+darhoon   957497118  7  1 Bk  kc    kc    kf        2062  120    0 
+darhoon   957497207  7  1 Bc  kf    -     -         1942   20    0 
+darhoon   957497246  7  7 f   -     -     -         1922    0    0 
+darhoon   957497289  8  7 c   f     -     -         1922   20    0 
+darhoon   957497379  8  6 c   c     f     -         1902   40    0 
+darhoon   957497407  8  5 f   -     -     -         1862    0    0 
+darhoon   957497450  8  4 c   k     k     kf        1862   20    0 
+darhoon   957497484  7  3 f   -     -     -         1842    0    0 
+darhoon   957497516  6  2 Bc  c     f     -         1842   60    0 
+darhoon   957497544  6  1 Bc  k     k     b         1782   60  140 5h 9h
+darhoon   957497576  6  6 f   -     -     -         1862    0    0 
+darhoon   957497614  6  5 c   c     c     c         1862  120  270 9s Ac
+darhoon   957497664  6  4 c   br    k     b         2012  120  350 6c 6d
+darhoon   957497723  6  3 fQ  -     -     -         2242    0    0 
+darhoon   957502788 10  7 c   c     f     -         2242   40    0 
+darhoon   957502830 10  6 f   -     -     -         2202    0    0 
+darhoon   957502901 10  5 f   -     -     -         2202    0    0 
+darhoon   957502930 10  4 cc  kf    -     -         2202   40    0 
+darhoon   957503087 10  3 c   k     rc    c         2162  180    0 As 5c
+darhoon   957503213  9  2 Bk  f     -     -         1982   20    0 
+darhoon   957503240  9  1 Bf  -     -     -         1962   10    0 
+darhoon   957503262  9  9 f   -     -     -         1952    0    0 
+darhoon   957503300  9  8 KQ  -     -     -         1952    0    0 
+darhoon   957944656 10  1 Bcc kc    kc    kf        2024  200    0 
+darhoon   957944728  9  9 c   k     b     b         1824  100  230 9c 9d
+darhoon   957944785  8  7 cc  k     k     k         1954   60  200 8c 4c
+darhoon   957944840  7  5 f   -     -     -         2094    0    0 
+darhoon   957944935  8  5 f   -     -     -         2094    0    0 
+darhoon   957944990  6  3 c   rc    c     c         2094  160    0 Jd Ac
+darhoon   957945019  6  3 f   -     -     -         1934    0    0 
+darhoon   957945044  7  2 Bk  bc    kf    -         1934   60    0 
+darhoon   957945103  7  1 Bcc kc    kf    -         1874  100    0 
+darhoon   957945136  8  8 c   k     r     b         1774  160  500 3s 2d
+darhoon   957945198  7  6 c   k     k     r         2114  100  240 5h Ah
+darhoon   957945227  7  6 cc  bc    brc   k         2254  240    0 Jh Qs
+darhoon   957945295  7  5 r   c     k     c         2014  120    0 Tc Td
+darhoon   957945353  7  4 f   -     -     -         1894    0    0 
+darhoon   957945406  7  3 cc  cc    cc    k         1894  160  560 3h 2h
+darhoon   957945449  8  2 Bcc kc    krc   b         2294  300 1530 8d 6d
+darhoon   957945553  9  1 Brc k     brc   kc        3524  280  720 Kc Jd
+darhoon   957945607  9  9 cc  c     r     b         3964  200  530 7d Jc
+darhoon   957945653  9  8 cc  f     -     -         4294   65    0 
+darhoon   957945685  8  6 f   -     -     -         4229    0    0 
+darhoon   957945731  8  5 rc  b     b     c         4229  160    0 Qd Ks
+darhoon   957945806  7  3 f   -     -     -         4069    0    0 
+darhoon   957945850  7  2 Bk  kf    -     -         4069   20    0 
+darhoon   957945890  7  1 Brc kc    k     k         4049  100    0 Jc Ad
+darhoon   957945945  6  6 f   -     -     -         3949    0    0 
+darhoon   957945954  6  5 c   b     b     b         3949  120    0 6s 5s
+darhoon   957945990  6  4 f   -     -     -         3829    0    0 
+darhoon   957946006  6  3 c   k     c     f         3829   60    0 
+darhoon   957946034  6  2 Bk  k     kc    kf        3769  100    0 
+darhoon   957946080  6  1 Bf  -     -     -         3669   10    0 
+darhoon   957946107  6  6 c   k     k     c         3659   60    0 2h 2d
+darhoon   957946154  7  6 c   f     -     -         3599   20    0 
+darhoon   957946190  7  5 c   b     k     kc        3579   80    0 5h 9d
+darhoon   957946242  7  4 c   c     f     -         3499   40    0 
+darhoon   957946288  7  3 c   cc    c     f         3459  140    0 
+darhoon   957946343  7  2 Bc  kc    kc    kf        3319  100    0 
+darhoon   957946410  6  1 Bf  -     -     -         3219   10    0 
+darhoon   957946434  6  6 f   -     -     -         3209    0    0 
+darhoon   957946458  6  5 c   rr    k     c         3209  180    0 Jd Tc
+darhoon   957946519  6  4 fQ  -     -     -         3029    0    0 
+darhoon   957946770  8  3 rc  rr    b     b         3029  240    0 Qh Ah
+darhoon   957946815  8  2 Bk  k     kf    -         2789   20    0 
+darhoon   957946876  8  1 Bc  kc    kc    kr        2769  180  440 Ac Qc
+darhoon   957946923  8  8 c   f     -     -         3029   40    0 
+darhoon   957946977  8  7 c   c     c     f         2989  140    0 
+darhoon   957947034  8  6 f   -     -     -         2849    0    0 
+darhoon   957947059  8  5 f   -     -     -         2849    0    0 
+darhoon   957947091  8  4 f   -     -     -         2849    0    0 
+darhoon   957947137  8  3 f   -     -     -         2849    0    0 
+darhoon   957947184  8  2 Bf  -     -     -         2849   20    0 
+darhoon   957947220  8  1 Bc  k     k     kc        2829   60    0 3c Qc
+darhoon   957947267  8  8 c   c     c     c         2769  120  290 Kd 7d
+darhoon   957947300  9  7 f   -     -     -         2939    0    0 
+darhoon   957947328  9  6 c   k     r     c         2939  140    0 Kc 8h
+darhoon   957947398  9  5 c   r     b     b         2799  140  540 Ah 2d
+darhoon   957947461  8  4 f   -     -     -         3199    0    0 
+darhoon   957947537  9  3 f   -     -     -         3199    0    0 
+darhoon   957947604  9  2 Bk  br    b     b         3199  160    0 As 9d
+darhoon   957947673  9  1 Bc  k     k     k         3039   40    0 9s 9h
+darhoon   957947775  8  8 c   r     rrr   b         2999  340  780 7h 7d
+darhoon   957947841  8  7 f   -     -     -         3439    0    0 
+darhoon   957947882  8  6 c   b     rrr   rrc       3439  480  505 Qs 8c
+darhoon   957947945  8  6 c   b     b     b         3464  120  250 
+darhoon   957948022  7  4 f   -     -     -         3594    0    0 
+darhoon   957948061  7  3 cc  kf    -     -         3594   40    0 
+darhoon   957948085  7  2 Bc  kc    bc    k         3554  140  270 Ac 8c
+darhoon   957948132  7  1 Brc bc    kc    kc        3684  240    0 Kc Ac
+darhoon   957948227  6  6 c   f     -     -         3444   20    0 
+darhoon   957948283  6  6 c   k     k     k         3424   20   70 Ts 7h
+darhoon   957948305  6  5 cc  f     -     -         3474   40    0 
+darhoon   957948337  6  4 c   kc    kf    -         3434   40    0 
+darhoon   957948381  6  3 crc rc    brc   KQ        3394  320    0 
+darhoon   957948579  6  6 f   -     -     -         3074    0    0 
+darhoon   957948629  6  5 c   k     c     k         3074   60  130 Th 6h
+darhoon   957948662  6  4 cc  kc    kc    f         3144  180    0 
+darhoon   957948710  6  3 c   kf    -     -         2964   20    0 
+darhoon   957948758  6  2 Bf  -     -     -         2944   20    0 
+darhoon   957948800  7  1 Bc  kf    -     -         2924   20    0 
+darhoon   957948862  7  7 f   -     -     -         2904    0    0 
+darhoon   957948922  7  6 c   b     -     -         2904   40   90 
+darhoon   957948960  7  5 c   f     -     -         2954   40    0 
+darhoon   957949021  7  4 f   -     -     -         2914    0    0 
+darhoon   957949071  7  3 f   -     -     -         2914    0    0 
+darhoon   957949116  7  2 Bk  k     kc    k         2914   60    0 6c Th
+darhoon   957949165  7  1 Bf  -     -     -         2854   10    0 
+darhoon   957949235  7  7 r   b     b     b         2844  140  450 
+darhoon   957949299  7  6 c   c     f     -         3154   60    0 
+darhoon   957949335  7  5 c   k     c     c         3094  100    0 Tc 6s
+darhoon   957949394  7  4 c   c     c     c         2994  120  460 5c Tc
+darhoon   957949441  7  3 f   Q     -     -         3334    0    0 
+darhoon   957990699  7  6 c   k     b     b         3334  100    0 9h 4h
+darhoon   957990757  7  5 c   k     k     k         3234   20   50 7d 8s
+darhoon   957990795  6  4 c   k     c     f         3264   80    0 
+darhoon   957990836  6  3 f   -     -     Q         3184    0    0 
+darhoon   958364969 10  9 r   b     c     cc        2190  220    0 Kh Kd
+darhoon   958365018 10  8 f   -     -     -         1970    0    0 
+darhoon   958365051 10  7 f   -     -     -         1970    0    0 
+darhoon   958365095 10  6 f   -     -     -         1970    0    0 
+darhoon   958365140 10  5 f   -     -     -         1970    0    0 
+darhoon   958365207 10  4 f   -     -     -         1970    0    0 
+darhoon   958365268 10  3 c   kc    cc    kf        1970  120    0 
+darhoon   958365328 10  2 Bc  k     k     kf        1850   40    0 
+darhoon   958365361 10  1 Bf  -     -     -         1810   10    0 
+darhoon   958365410 10 10 f   -     -     -         1800    0    0 
+darhoon   958365448 10  9 f   -     -     -         1800    0    0 
+darhoon   958365507 10  8 c   c     c     k         1800   80    0 Ah 7d
+darhoon   958365549 10  7 f   -     -     -         1720    0    0 
+darhoon   958365580 10  6 c   kc    k     kc        1720   80    0 8h Td
+darhoon   958365624 10  5 f   -     -     -         1640    0    0 
+darhoon   958365645 10  4 f   -     -     -         1640    0    0 
+darhoon   958365713 10  3 f   -     -     -         1640    0    0 
+darhoon   958365825 10  2 Bk  kf    -     -         1640   20    0 
+darhoon   958365869 10  1 Bf  -     -     -         1620   10    0 
+darhoon   958365885 10 10 c   c     c     f         1610  120    0 
+darhoon   958365935 10  9 f   -     -     -         1490    0    0 
+darhoon   958365965 10  8 f   -     -     -         1490    0    0 
+darhoon   958366061 10  7 f   -     -     -         1490    0    0 
+darhoon   958366109 10  6 c   c     k     f         1490   40    0 
+darhoon   958366150 10  5 f   -     -     -         1450    0    0 
+darhoon   958366232 10  4 f   -     -     -         1450    0    0 
+darhoon   958366248 10  3 f   -     -     -         1450    0    0 
+darhoon   958366294 10  2 Bk  k     kf    -         1450   20    0 
+darhoon   958366322 10  1 Bc  k     k     kf        1430   20    0 
+darhoon   958366381 10 10 c   k     f     -         1410   20    0 
+darhoon   958366411 10  9 c   k     brrrrrrr r         1390  700 1440 5c 2c
+darhoon   958366470 10  8 r   k     c     f         2130  120    0 
+darhoon   958366525 10  7 f   -     -     -         2010    0    0 
+darhoon   958366553 10  6 f   -     -     -         2010    0    0 
+darhoon   958366622 10  5 f   -     -     -         2010    0    0 
+darhoon   958366677 10  4 f   -     -     -         2010    0    0 
+darhoon   958366752 10  3 c   c     c     f         2010   80    0 
+darhoon   958366804 10  2 Bk  kc    kf    -         1930   40    0 
+darhoon   958366864 10  1 Bf  -     -     -         1890   10    0 
+darhoon   958366931 10 10 c   c     c     f         1880  100    0 
+darhoon   958366961 10  9 c   k     k     k         1780   20    0 2s 3s
+darhoon   958367015 10  8 f   -     -     -         1760    0    0 
+darhoon   958367087 10  7 c   br    krr   b         1760  280  340 Th Qs
+darhoon   958367159 10  6 f   -     -     -         1820    0    0 
+darhoon   958367186 10  5 c   f     -     -         1820   20    0 
+darhoon   958367234 10  4 f   -     -     -         1800    0    0 
+darhoon   958367285 10  3 f   -     -     -         1800    0    0 
+darhoon   958367350 10  2 Bc  kc    kc    kf        1800  100    0 
+darhoon   958367403 10  1 Bc  kcc   kc    kc        1700  140    0 Td Ac
+darhoon   958367493 10 10 f   -     -     -         1560    0    0 
+darhoon   958367545 10  9 f   -     -     -         1560    0    0 
+darhoon   958367581 10  8 f   -     -     -         1560    0    0 
+darhoon   958367632 10  7 r   b     br    -         1560  200  390 
+darhoon   958367658 10  6 f   -     -     -         1750    0    0 
+darhoon   958367699 10  5 c   kc    kc    kf        1750   80    0 
+darhoon   958367742 10  4 f   -     -     -         1670    0    0 
+darhoon   958367805 10  3 f   -     -     -         1670    0    0 
+darhoon   958367848 10  2 Bk  kf    -     -         1670   20    0 
+darhoon   958367891 10  1 Bc  b     b     b         1650  120  380 9s 7c
+darhoon   958367951 10 10 f   -     -     -         1910    0    0 
+darhoon   958368003 10  9 c   r     b     b         1910  160  650 Tc 7h
+darhoon   958368073 10  8 c   c     r     b         2400  180  510 
+darhoon   958368150 10  7 f   -     -     -         2730    0    0 
+darhoon   958368226 10  6 c   k     k     k         2730   20  110 8c Qs
+darhoon   958368307 10  5 f   -     -     -         2820    0    0 
+darhoon   958368360 10  4 f   -     -     -         2820    0    0 
+darhoon   958368420 10  3 c   kf    -     -         2820   20    0 
+darhoon   958368481 10  2 Bk  c     c     f         2800   80    0 
+darhoon   958368520 10  1 Bf  -     -     -         2720   10    0 
+darhoon   958368555 10 10 c   c     r     -         2710  120  230 
+darhoon   958368585 10  9 c   f     -     -         2820   40    0 
+darhoon   958368631 10  8 cc  b     b     b         2780  140  540 Td Jd
+darhoon   958368719 10  7 r   b     br    b         3180  220  470 Ah Qd
+darhoon   958368748 10  6 f   -     -     -         3430    0    0 
+darhoon   958368787 10  5 c   kc    f     -         3430   40    0 
+darhoon   958368889 10  4 f   -     -     -         3390    0    0 
+darhoon   958368941 10  3 f   -     -     -         3390    0    0 
+darhoon   958368989 10  2 Bc  k     r     b         3390  160  440 7h Tc
+darhoon   958369041 10  1 Bf  -     -     -         3670   10    0 
+darhoon   958369078 10 10 f   -     -     -         3660    0    0 
+darhoon   958369142 10  9 c   f     -     -         3660   40    0 
+darhoon   958369204 10  8 c   rr    b     b         3620  200  590 8h Kd
+darhoon   958369264 10  7 c   r     b     r         4010  200    0 5s 6s
+darhoon   958369313 10  6 f   -     -     -         3810    0    0 
+darhoon   958369372 10  5 c   f     -     -         3810   20    0 
+darhoon   958369419 10  4 cc  k     b     b         3790  120  340 
+darhoon   958369481 10  3 f   -     -     -         4010    0    0 
+darhoon   958369519 10  2 Bk  kf    -     -         4010   20    0 
+darhoon   958369585 10  1 Bf  -     -     -         3990   10    0 
+darhoon   958369701 10 10 r   brc   cc    f         3980  240    0 
+darhoon   958369766 10  9 c   k     f     -         3740   40    0 
+darhoon   958369795 10  8 c   kc    kc    rr        3700  240  400 Td 5d
+darhoon   958369853 10  7 c   b     b     b         3860  120    0 2h 2c
+darhoon   958369919 10  6 f   -     -     -         3740    0    0 
+darhoon   958369979 10  5 c   kc    k     k         3740   40    0 9c Jd
+darhoon   958370064 10  4 f   -     -     -         3700    0    0 
+darhoon   958370108 10  3 cc  k     b     -         3700   80  180 
+darhoon   958370164 10  2 Bk  k     k     k         3800   20    0 As 3h
+darhoon   958370246 10  1 Bf  -     -     -         3780   10    0 
+darhoon   958370315 10 10 c   k     c     rc        3770  200  470 8s Ts
+darhoon   958370389 10  9 rc  c     r     b         4040  200  420 Kd Kh
+darhoon   958370445 10  9 c   f     -     -         4260   40    0 
+darhoon   958370517 10  7 cc  kcc   kf    -         4220  120    0 
+darhoon   958370631 10  6 cc  c     c     f         4100  100    0 
+darhoon   958370690 10  5 r   kc    k     kf        4000   60    0 
+darhoon   958370804 10  4 f   -     -     -         3940    0    0 
+darhoon   958370872 10  3 ccc k     kf    -         3940   60    0 
+darhoon   958371038 10  2 Bc  f     -     -         3880   60    0 
+darhoon   958371119 10  1 Bc  krr   b     b         3820  200  500 Jc 8c
+darhoon   958371176 10 10 cc  k     f     -         4120   40    0 
+darhoon   958371316 10  9 f   -     -     -         4080    0    0 
+darhoon   958371382 10  8 c   f     -     -         4080   20    0 
+darhoon   958371447 10  7 c   c     c     f         4060   80    0 
+darhoon   958371541 10  6 c   r     b     b         3980  140  390 Qc Kd
+darhoon   958371672 10  5 c   f     -     -         4230   20    0 
+darhoon   958371717 10  4 c   bc    b     b         4210  140    0 6c 6h
+darhoon   958371790 10  3 f   -     -     -         4070    0    0 
+darhoon   958371852 10  2 Bc  bc    kc    k         4070  140    0 2h Qh
+darhoon   958371934 10  1 Bc  kf    -     -         3930   40    0 
+darhoon   958372021 10 10 f   -     -     -         3890    0    0 
+darhoon   958372149 10  9 c   k     b     b         3890  100  230 
+darhoon   958372210 10  8 f   -     -     -         4020    0    0 
+darhoon   958372241 10  7 c   c     f     -         4020   40    0 
+darhoon   958372270 10  6 c   bcf   -     -         3980   60    0 
+darhoon   958372343 10  5 f   -     -     -         3920    0    0 
+darhoon   958372414 10  4 cc  brc   bc    k         3920  200    0 Kh 9h
+darhoon   958372485 10  3 c   b     b     b         3720  120  260 
+darhoon   958372537 10  2 Bk  k     kf    -         3860   20    0 
+darhoon   958372620 10  1 Bc  kf    -     -         3840   40    0 
+darhoon   958372672 10  8 Q   -     -     -         3800    0    0 
+darhoon   958446558  9  2 Bcc kf    -     -         3800   80    0 
+darhoon   958446602  9  1 Bf  -     -     -         3720   10    0 
+darhoon   958446643 10 10 cc  f     -     -         3710   60    0 
+darhoon   958446696  9  8 f   -     -     -         3650    0    0 
+darhoon   958446711  9  7 c   c     c     k         3650   80    0 Jh Ad
+darhoon   958446745  9  6 f   -     -     -         3570    0    0 
+darhoon   958446775  9  5 f   -     -     -         3570    0    0 
+darhoon   958446807  9  4 f   -     -     -         3570    0    0 
+darhoon   958446861  9  3 cc  kc    kc    kf        3570  100    0 
+darhoon   958446907  9  2 Bk  kc    kc    k         3470   80  170 Ad Kh
+darhoon   958446930  9  1 Bf  -     -     -         3560   10    0 
+darhoon   958446964  9  9 c   k     k     k         3550   20    0 7s 6d
+darhoon   958446978  9  8 c   r     b     b         3530  140  330 2c 2s
+darhoon   958447011  9  7 f   -     -     -         3720    0    0 
+darhoon   958447049  9  6 r   r     b     b         3720  160  420 
+darhoon   958447093  9  5 c   k     k     k         3980   20   90 8d Jd
+darhoon   958447136  9  4 c   kc    kc    kf        4050   80    0 
+darhoon   958447178  9  3 cc  kcc   kc    kf        3970  140    0 
+darhoon   958447226  9  2 Bk  b     bc    b         3830  160  500 Qd Kc
+darhoon   958447273  9  1 Bf  -     -     -         4170   10    0 
+darhoon   958447303  9  9 f   -     -     -         4160    0    0 
+darhoon   958447311  9  8 c   b     b     b         4160  120  280 Kc Ad
+darhoon   958447347  9  7 c   r     bc    c         4320  180    0 9d Qd
+darhoon   958447383  9  6 f   -     -     -         4140    0    0 
+darhoon   958447403  9  5 c   k     k     k         4140   20    0 6d Jd
+darhoon   958447451  9  4 c   b     b     -         4120   80  150 
+darhoon   958447481 10  3 c   c     f     -         4190   40    0 
+darhoon   958447510 10  2 Bk  kc    kc    k         4150   80    0 Jh 9c
+darhoon   958447557 10  1 Bc  kc    kf    -         4070   40    0 
+darhoon   958447600  9  9 c   b     b     b         4030  120  400 Kc 5c
+darhoon   958447674  9  8 f   -     -     -         4310    0    0 
+darhoon   958447712  9  7 f   -     -     -         4310    0    0 
+darhoon   958447745  9  6 f   -     -     -         4310    0    0 
+darhoon   958447762  9  5 f   -     -     -         4310    0    0 
+darhoon   958447817  9  4 cc  f     -     -         4310   40    0 
+darhoon   958447844  9  3 f   -     -     -         4270    0    0 
+darhoon   958447865  9  2 Bk  kf    -     -         4270   20    0 
+darhoon   958447944  9  1 Bf  -     -     -         4250   10    0 
+darhoon   958447995  9  9 f   -     -     -         4240    0    0 
+darhoon   958448042  9  8 cc  f     -     -         4240   40    0 
+darhoon   958448099  9  7 f   -     -     -         4200    0    0 
+darhoon   958448124  9  6 f   -     -     -         4200    0    0 
+darhoon   958448185  9  5 f   -     -     -         4200    0    0 
+darhoon   958448218  9  4 cr  br    kc    kf        4200  160    0 
+darhoon   958448279 10  3 cc  kf    -     -         4040   60    0 
+darhoon   958448311 10  2 Bk  kc    k     b         3980  100  350 
+darhoon   958448374 10  1 Bf  -     -     -         4230   10    0 
+darhoon   958448406 10 10 c   k     f     -         4220   20    0 
+darhoon   958448450 10  9 c   r     b     b         4200  140  420 Qd Ac
+darhoon   958448509 10  8 f   -     -     -         4480    0    0 
+darhoon   958448559 10  7 c   kc    kc    kf        4480   80    0 
+darhoon   958448603 10  6 f   -     -     -         4400    0    0 
+darhoon   958448635 10  5 c   cc    kc    kf        4400  140    0 
+darhoon   958448696 10  4 r   b     b     b         4260  140  330 As Ad
+darhoon   958448727 10  3 f   -     -     -         4450    0    0 
+darhoon   958448771 10  2 Bc  kf    -     -         4450   40    0 
+darhoon   958448798 10  1 Bf  -     -     -         4410   10    0 
+darhoon   958448839 10 10 f   -     -     -         4400    0    0 
+darhoon   958448881 10  9 f   -     -     -         4400    0    0 
+darhoon   958448913 10  8 f   -     -     -         4400    0    0 
+darhoon   958448943 10  7 c   f     -     -         4400   20    0 
+darhoon   958448972 10  6 cr  k     r     b         4380  180  440 Qc Ac
+darhoon   958449005 10  5 f   -     -     -         4640    0    0 
+darhoon   958449039 10  4 f   -     -     -         4640    0    0 
+darhoon   958449064 10  3 c   kc    kc    kf        4640   80    0 
+darhoon   958449119 10  2 Bf  -     -     -         4560   20    0 
+darhoon   958449154 10  1 Bf  -     -     -         4540   10    0 
+darhoon   958449189 10 10 rc  rc    c     c         4530  220    0 Td Ks
+darhoon   958449232 10  9 f   -     -     -         4310    0    0 
+darhoon   958449282 10  8 c   kc    kf    -         4310   40    0 
+darhoon   958449332 10  7 c   kf    -     -         4270   20    0 
+darhoon   958449371 10  6 c   f     -     -         4250   20    0 
+darhoon   958449428 10  5 f   -     -     -         4230    0    0 
+darhoon   958449460 10  4 f   -     -     -         4230    0    0 
+darhoon   958449476 10  3 cc  kc    k     kf        4230   60    0 
+darhoon   958449546 10  2 Bk  c     c     c         4170  120    0 2h 2c
+darhoon   958449591 10  1 Bc  k     kc    kc        4050  100  240 3h Kh
+darhoon   958449634 10 10 c   b     -     -         4190   40  100 
+darhoon   958449684 10  9 c   k     f     -         4250   20    0 
+darhoon   958449719 10  8 c   f     -     -         4230   20    0 
+darhoon   958449762 10  7 f   -     -     -         4210    0    0 
+darhoon   958449797 10  6 c   cc    c     f         4210  100    0 
+darhoon   958449861 10  5 f   -     -     -         4110    0    0 
+darhoon   958449895 10  4 cc  r     b     b         4110  160  400 Kh Jc
+darhoon   958449946 10  3 f   -     -     -         4350    0    0 
+darhoon   958450036 10  2 Bk  kf    -     -         4350   20    0 
+darhoon   958450099 10  1 Bc  kf    -     -         4330   20    0 
+darhoon   958450161  9  9 r   b     b     b         4310  140    0 Ah Qh
+darhoon   958450226 10  9 cc  fQ    -     -         4170   40    0 
+darhoon   958490597  9  4 c   k     k     k         4130   20    0 Ks Qc
+darhoon   958490637  9  3 f   -     -     -         4110    0    0 
+darhoon   958490663  9  2 Bk  k     k     k         4110   20   50 6d Jd
+darhoon   958490681  9  1 Bf  -     -     -         4140   10    0 
+darhoon   958490742  9  9 f   -     -     -         4130    0    0 
+darhoon   958490774  9  8 c   k     c     f         4130   60    0 
+darhoon   958490809  8  6 c   f     -     -         4070   20    0 
+darhoon   958490826  8  5 cc  b     bc    b         4050  200    0 3d 7d
+darhoon   958490893  8  4 f   -     -     -         3850    0    0 
+darhoon   958490928  6  3 f   -     -     -         3850    0    0 
+darhoon   958490958  6  2 Bk  k     k     kf        3850   20    0 
+darhoon   958491008  6  1 Bf  -     -     -         3830   10    0 
+darhoon   958491043  6  6 c   k     c     r         3820  180    0 6s 6c
+darhoon   958491078  6  5 f   -     -     -         3640    0    0 
+darhoon   958491120  6  4 f   -     -     -         3640    0    0 
+darhoon   958491138  6  3 c   k     f     -         3640   20    0 
+darhoon   958491181  6  2 Bk  k     k     k         3620   20    0 9c 3s
+darhoon   958491203  6  1 Bf  -     -     -         3600   10    0 
+darhoon   958491233  6  6 c   k     f     -         3590   20    0 
+darhoon   958491257  6  5 f   -     -     -         3570    0    0 
+darhoon   958491276  7  4 c   b     b     -         3570   80  180 
+darhoon   958491326  6  3 f   -     -     -         3670    0    0 
+darhoon   958491332  6  2 Bk  k     k     kf        3670   20    0 
+darhoon   958491351  6  1 Bc  kf    -     -         3650   20    0 
+darhoon   958491372  6  6 f   -     -     -         3630    0    0 
+darhoon   958491402  6  5 f   -     -     -         3630    0    0 
+darhoon   958491430  5  4 c   k     k     k         3630   20    0 5h Ac
+darhoon   958491460  4  3 f   -     -     -         3610    0    0 
+darhoon   958491468  4  2 Bc  k     kc    kc        3610  120    0 Kh Jc
+darhoon   958491503  4  1 Bf  -     -     -         3490   10    0 
+darhoon   958491510  4  4 c   k     k     k         3480   20   25 5d 4s
+darhoon   958491526  4  3 c   c     c     c         3485  120  250 Ah 2s
+darhoon   958491543  4  2 Bk  k     k     k         3615   20   60 7d 8d
+darhoon   958491562  4  1 Bc  kc    k     k         3655   40  100 As Tc
+darhoon   958491583  4  4 c   f     -     -         3715   20    0 
+darhoon   958491608  4  3 f   -     -     -         3695    0    0 
+darhoon   958491615  4  2 Bk  k     k     k         3695   20   60 Td 8h
+darhoon   958491632  4  1 Bc  k     k     k         3735   20   40 Td Jh
+darhoon   958491647  4  4 r   k     f     -         3755   40    0 
+darhoon   958491662  4  3 c   k     k     f         3715   20    0 
+darhoon   958491679  4  2 B   -     -     -         3695   20   30 
+darhoon   958491682  4  1 Bf  -     -     -         3705   10    0 
+darhoon   958491694  4  4 f   -     -     -         3695    0    0 
+darhoon   958491701  4  3 f   -     -     -         3695    0    0 
+darhoon   958491708  4  2 Bk  f     -     -         3695   20    0 
+darhoon   958491719  4  1 Bc  k     k     k         3675   20    0 7c Qd
+darhoon   958491732  4  4 c   k     c     k         3655   60    0 7c Ts
+darhoon   958491754  4  3 c   c     c     f         3595   80    0 
+darhoon   958491776  4  2 B   -     -     -         3515   20   30 
+darhoon   958491778  4  1 Bc  k     k     b         3525   60   80 
+darhoon   958491798  4  4 f   -     -     -         3545    0    0 
+darhoon   958491812  4  3 f   -     -     -         3545    0    0 
+darhoon   958491827  4  2 B   -     -     -         3545   20   30 
+darhoon   958491832  4  1 Bf  -     -     -         3555   10    0 
+darhoon   958491856  4  4 c   k     c     r         3545  140  300 Tc Jc
+darhoon   958491872  4  3 f   -     -     -         3705    0    0 
+darhoon   958491888  4  2 Bk  k     kc    kc        3705  100    0 Kd 5d
+darhoon   958491910  4  1 Bf  -     -     -         3605   10    0 
+darhoon   958491926  4  4 c   c     f     -         3595   40    0 
+darhoon   958491951  4  3 c   k     k     k         3555   20    0 8h Jh
+darhoon   958491970  4  2 Bc  kf    -     -         3535   40    0 
+darhoon   958491990  4  1 BQ  -     -     -         3495   10    0 
+darhoon   958515490 10  3 c   kc    kf    -         3550   40    0 
+darhoon   958515547 10  2 Bf  -     -     -         3510   20    0 
+darhoon   958515572 10  1 Bf  -     -     -         3490   10    0 
+darhoon   958515583 10 10 c   k     f     -         3480   20    0 
+darhoon   958515611 10  9 c   c     f     -         3460   60    0 
+darhoon   958515642 10  8 c   c     f     -         3400   40    0 
+darhoon   958515679 10  7 c   c     c     c         3360  120    0 Qd 2d
+darhoon   958515719 10  6 f   -     -     -         3240    0    0 
+darhoon   958515767 10  5 r   b     -     -         3240   60  170 
+darhoon   958515825 10  4 c   c     f     -         3350   60    0 
+darhoon   958515846 10  3 c   kc    kf    -         3290   40    0 
+darhoon   958515883 10  2 Bk  kc    k     kf        3250   60    0 
+darhoon   958515917 10  1 Bf  -     -     -         3190   10    0 
+darhoon   958515982 10 10 f   -     -     -         3180    0    0 
+darhoon   958515998 10  9 f   -     -     -         3180    0    0 
+darhoon   958516034 10  8 f   -     -     -         3180    0    0 
+darhoon   958516067 10  7 f   -     -     -         3180    0    0 
+darhoon   958516114 10  6 f   -     -     -         3180    0    0 
+darhoon   958516177 10  5 f   -     -     -         3180    0    0 
+darhoon   958516227 10  4 f   -     -     -         3180    0    0 
+darhoon   958516249 10  3 f   -     -     -         3180    0    0 
+darhoon   958516291 10  2 Bk  kf    -     -         3180   20    0 
+darhoon   958516328 10  1 Bc  b     bc    k         3160  120    0 7h Kh
+darhoon   958516377 10 10 f   -     -     -         3040    0    0 
+darhoon   958516408 10  9 c   c     f     -         3040   60    0 
+darhoon   958516448 10  8 f   -     -     -         2980    0    0 
+darhoon   958516488 10  7 f   -     -     -         2980    0    0 
+darhoon   958516537 10  6 f   -     -     -         2980    0    0 
+darhoon   958516582 10  5 f   -     -     -         2980    0    0 
+darhoon   958516615 10  4 c   c     c     k         2980   80    0 Ts Ad
+darhoon   958516651 10  3 f   -     -     -         2900    0    0 
+darhoon   958516685 10  2 Bc  bc    kc    kc        2900  160    0 6s Ks
+darhoon   958516736 10  1 Bf  -     -     -         2740   10    0 
+darhoon   958516761 10 10 f   -     -     -         2730    0    0 
+darhoon   958516834 10  9 f   -     -     -         2730    0    0 
+darhoon   958516890 10  8 f   -     -     -         2730    0    0 
+darhoon   958516945 10  7 f   -     -     -         2730    0    0 
+darhoon   958517010 10  6 f   Q     -     -         2730    0    0 
+darhoon   958545155  8  3 f   -     -     -         2730    0    0 
+darhoon   958545191  8  2 Bf  -     -     -         2730   20    0 
+darhoon   958545214  8  1 Bc  kf    -     -         2710   40    0 
+darhoon   958545248  8  8 f   -     -     -         2670    0    0 
+darhoon   958545268  8  7 c   k     k     k         2670   40  200 Th 9d
+darhoon   958545312  8  6 c   f     -     -         2830   40    0 
+darhoon   958545330  8  5 c   kf    -     -         2790   20    0 
+darhoon   958545357  8  4 c   kf    -     -         2770   20    0 
+darhoon   958545377  8  3 cc  c     k     c         2750  100  110 2h Ac
+darhoon   958545412  8  2 Bc  kf    -     -         2760   40    0 
+darhoon   958545477  9  1 Bf  -     -     -         2720   10    0 
+darhoon   958545525 10 10 c   k     k     k         2710   20   70 8s Td
+darhoon   958545572 10  9 f   -     -     -         2760    0    0 
+darhoon   958545630 10  8 f   -     -     -         2760    0    0 
+darhoon   958545722  9  7 f   -     -     -         2760    0    0 
+darhoon   958545768  8  5 f   -     -     -         2760    0    0 
+darhoon   958545801  8  4 c   f     -     -         2760   20    0 
+darhoon   958545833  8  3 c   kf    -     -         2740   20    0 
+darhoon   958545872  8  2 Bc  kf    -     -         2720   40    0 
+darhoon   958545917  8  1 Bf  -     -     -         2680   10    0 
+darhoon   958545968  8  8 f   -     -     -         2670    0    0 
+darhoon   958546017  7  7 c   f     -     -         2670   40    0 
+darhoon   958546063  6  5 f   -     -     -         2630    0    0 
+darhoon   958546109  6  4 f   -     -     -         2630    0    0 
+darhoon   958546145  6  3 c   kc    kf    -         2630   40    0 
+darhoon   958546206  7  2 Bk  kf    -     -         2590   20    0 
+darhoon   958546271  7  1 Bf  -     -     -         2570   10    0 
+darhoon   958546305  8  8 r   c     c     b         2560  200    0 7s 7c
+darhoon   958546389  7  6 c   c     k     k         2360   40  140 Qd Jd
+darhoon   958546441  7  5 f   -     -     -         2460    0    0 
+darhoon   958546477  7  4 f   -     -     -         2460    0    0 
+darhoon   958546505  6  3 c   k     k     kc        2460   60   80 Qd 8c
+darhoon   958546559  6  2 Bf  -     -     -         2480   20    0 
+darhoon   958546597  6  1 Bc  k     k     k         2460   20   40 Kc 7s
+darhoon   958546623  6  6 f   -     -     -         2480    0    0 
+darhoon   958546676  6  5 f   -     -     -         2480    0    0 
+darhoon   958546729  6  4 f   -     -     -         2480    0    0 
+darhoon   958546736  6  3 c   k     k     k         2480   20    0 Jc Qd
+darhoon   958546783  6  2 Bc  k     kf    -         2460   40    0 
+darhoon   958546834  6  1 Bc  k     kc    k         2420   60    0 Js Ks
+darhoon   958546888  6  6 c   f     -     -         2360   40    0 
+darhoon   958546919  7  7 f   -     -     -         2320    0    0 
+darhoon   958546935  6  5 c   k     f     -         2320   20    0 
+darhoon   958546964  7  4 c   c     c     k         2300  100    0 9s 9d
+darhoon   958547008  6  3 f   -     -     -         2200    0    0 
+darhoon   958547047  6  2 Bc  f     -     -         2200   60    0 
+darhoon   958547076  6  1 Bc  kf    -     -         2140   60    0 
+darhoon   958547128  6  6 f   -     -     -         2080    0    0 
+darhoon   958547146  5  4 c   c     k     b         2080  100  260 
+darhoon   958547206  5  3 cc  c     c     k         2240  100  210 9d As
+darhoon   958547254  5  2 Bf  -     -     -         2350   20    0 
+darhoon   958547280  5  1 Bc  kc    kc    k         2330  100  220 Qd 9h
+darhoon   958547307  5  5 f   -     -     -         2450    0    0 
+darhoon   958547349  5  4 c   c     f     -         2450   60    0 
+darhoon   958547370  6  4 f   -     -     -         2390    0    0 
+darhoon   958547419  6  3 f   -     -     -         2390    0    0 
+darhoon   958547454  6  2 Bc  kc    k     k         2390   60  130 Ad Kh
+darhoon   958547473  5  1 Bc  b     -     -         2460   40   60 
+darhoon   958547509  5  5 f   -     -     -         2480    0    0 
+darhoon   958547528  6  5 c   k     f     -         2480   20    0 
+darhoon   958547560  6  4 f   -     -     -         2460    0    0 
+darhoon   958547574  6  3 f   -     -     -         2460    0    0 
+darhoon   958547606  6  2 Bc  k     kc    kf        2460   80    0 
+darhoon   958547647  6  1 Bc  kc    k     kc        2380  100    0 As Td
+darhoon   958547696  6  6 c   f     -     -         2280   40    0 
+darhoon   958547733  6  5 c   kc    kc    k         2240   80    0 Kc 9c
+darhoon   958547765  6  4 f   -     -     -         2160    0    0 
+darhoon   958547772  6  3 f   -     -     -         2160    0    0 
+darhoon   958547802  6  2 Bk  kf    -     -         2160   20    0 
+darhoon   958547828  7  1 Bc  k     kf    -         2140   20    0 
+darhoon   958547894  7  7 c   c     f     -         2120   60    0 
+darhoon   958547939  7  6 c   k     c     k         2060   80    0 6s 8s
+darhoon   958548029  7  4 c   f     -     -         1980   20    0 
+darhoon   958548054  6  3 c   c     k     k         1960   40   90 8s 9d
+darhoon   958548082  6  2 Bf  -     -     -         2010   20    0 
+darhoon   958548115  5  1 Bc  bc    kc    kf        1990  100    0 
+darhoon   958548182  5  5 f   -     -     -         1890    0    0 
+darhoon   958548208  4  3 c   cc    c     f         1890  120    0 
+darhoon   958548233  4  2 Bc  kf    -     -         1770   40    0 
+darhoon   958548252  4  1 Bf  -     -     -         1730   10    0 
+darhoon   958548273  6  6 c   b     b     b         1720  140  310 
+darhoon   958548303  6  5 c   k     k     k         1890   40    0 Jd Ks
+darhoon   958548325  6  4 f   -     -     -         1850    0    0 
+darhoon   958548361  7  4 c   k     b     -         1850   60  120 
+darhoon   958548391  7  3 cc  kc    k     kf        1910   60    0 
+darhoon   958548435  7  2 Bk  b     b     b         1850  120    0 Js Kd
+darhoon   958548473  7  1 Bc  kc    kc    kc        1730  140  340 5h 5d
+darhoon   958548508  6  6 c   k     c     rc        1930  180    0 Ks 9c
+darhoon   958548551  6  5 c   k     k     f         1750   20    0 
+darhoon   958548605  6  4 f   -     -     -         1730    0    0 
+darhoon   958548622  6  3 f   -     -     -         1730    0    0 
+darhoon   958548657  6  2 Bk  k     f     -         1730   20    0 
+darhoon   958548679  6  1 Bc  kc    kc    kc        1710  120    0 Kd Jc
+darhoon   958548724  6  6 c   k     k     f         1590   20    0 
+darhoon   958548748  6  5 f   -     -     -         1570    0    0 
+darhoon   958548771  6  4 f   -     -     -         1570    0    0 
+darhoon   958548806  6  3 cc  kf    -     -         1570   40    0 
+darhoon   958548845  6  2 Bk  k     k     f         1530   20    0 
+darhoon   958548883  6  1 Bc  kr    b     b         1510  160    0 Qd Ah
+darhoon   958548910  6  6 c   k     k     c         1350   60  130 7s Jd
+darhoon   958548947  7  5 f   -     -     -         1420    0    0 
+darhoon   958548961  7  4 f   -     -     -         1420    0    0 
+darhoon   958548985  7  3 f   -     -     -         1420    0    0 
+darhoon   958549020  7  2 Bk  k     k     k         1420   20    0 Kd Qh
+darhoon   958549061  7  1 Bcc kc    kc    kc        1400  160  400 Ts Ad
+darhoon   958549098  7  7 f   -     -     -         1640    0    0 
+darhoon   958549125  7  6 c   k     k     k         1640   20    0 5d 2d
+darhoon   958549140  7  5 cc  kf    -     -         1620   40    0 
+darhoon   958549161  7  4 f   -     -     -         1580    0    0 
+darhoon   958549185  7  3 f   -     -     -         1580    0    0 
+darhoon   958549224  6  2 Br  b     b     b         1580  160  320 Kc As
+darhoon   958549251  6  1 Bf  -     -     -         1740   10    0 
+darhoon   958549271  6  6 c   k     b     -         1730   60  120 
+darhoon   958549326  6  5 c   k     k     k         1790   20   50 9s 8h
+darhoon   958549357  7  6 f   -     -     -         1820    0    0 
+darhoon   958549397  6  4 c   k     k     k         1820   20  100 Ts Qd
+darhoon   958549427  6  3 c   k     k     f         1900   20    0 
+darhoon   958549475  7  2 Bk  k     k     k         1880   20    0 Js 4c
+darhoon   958549514  7  1 Bc  k     b     b         1860  120  280 5s 9s
+darhoon   958549547  7  7 f   -     -     -         2020    0    0 
+darhoon   958549577  7  6 c   b     c     k         2020   80    0 Jd Ac
+darhoon   958549636  7  5 f   -     -     -         1940    0    0 
+darhoon   958549661  7  4 f   -     -     -         1940    0    0 
+darhoon   958549688  8  3 f   -     -     -         1940    0    0 
+darhoon   958549730  8  2 Bk  k     k     k         1940   20    0 4d 8d
+darhoon   958549754  8  1 Bc  kc    kc    k         1920  100    0 8c 9h
+darhoon   958549810  7  7 f   -     -     -         1820    0    0 
+darhoon   958549836  8  7 c   c     c     f         1820  100    0 
+darhoon   958549870  8  6 c   c     f     -         1720   40    0 
+darhoon   958549911  8  5 c   f     -     -         1680   20    0 
+darhoon   958549929  8  4 f   -     -     -         1660    0    0 
+darhoon   958549959  8  3 r   b     b     -         1660  100  330 
+darhoon   958550023  8  2 Bk  kf    -     -         1890   20    0 
+darhoon   958550097  8  1 Bc  kf    -     -         1870   20    0 
+darhoon   958550159  7  7 c   k     f     -         1850   20    0 
+darhoon   958550206  8  6 f   -     -     -         1830    0    0 
+darhoon   958550241  9  6 f   -     -     -         1830    0    0 
+darhoon   958550275 10  6 f   -     -     -         1830    0    0 
+darhoon   958550303 10  6 f   -     -     -         1830    0    0 
+darhoon   958550350  9  4 f   -     -     -         1830    0    0 
+darhoon   958550372  8  2 Bc  kf    -     -         1830   40    0 
+darhoon   958550402  8  1 Br  b     b     b         1790  140  460 Ac Ah
+darhoon   958550442  8  8 c   k     f     -         2110   20    0 
+darhoon   958550478  8  7 c   k     k     b         2090   60  190 Kh Qs
+darhoon   958550541  8  6 r   b     b     b         2220  140  290 As Ac
+darhoon   958550567  8  5 f   -     -     -         2370    0    0 
+darhoon   958550598  8  4 cc  f     -     -         2370   40    0 
+darhoon   958550645  8  3 c   r     rc    r         2330  260  610 Qs 9s
+darhoon   958550682  8  2 Bcc kc    kc    kf        2680  120    0 
+darhoon   958550739  8  1 Bf  -     -     -         2560   10    0 
+darhoon   958550766  8  8 f   -     -     -         2550    0    0 
+darhoon   958550795  8  7 c   r     br    c         2550  220    0 7h 7d
+darhoon   958550856  8  6 f   -     -     -         2330    0    0 
+darhoon   958550885  8  5 c   k     f     -         2330   20    0 
+darhoon   958550914  8  4 ccc k     k     kf        2310   60    0 
+darhoon   958550975  8  3 rr  b     b     b         2250  180    0 Qd Qh
+darhoon   958551012  8  2 Bk  kf    -     -         2070   20    0 
+darhoon   958551082  8  1 Bf  -     -     -         2050   10    0 
+darhoon   958551122  8  8 c   k     b     b         2040  100  290 
+darhoon   958551176  8  7 f   -     -     -         2230    0    0 
+darhoon   958551228  8  6 fQ  -     -     -         2230    0    0 
+darhoon   958596578  9  7 c   f     -     -         2230   40    0 
+darhoon   958596637  9  6 f   -     -     -         2190    0    0 
+darhoon   958596689  9  5 cc  k     kf    -         2190   40    0 
+darhoon   958596728  9  4 cc  k     c     f         2150  100    0 
+darhoon   958596767  9  3 c   r     rc    b         2050  260  273 Qh Td
+darhoon   958596837 10  2 Bf  -     -     -         2063   20    0 
+darhoon   958596884 10  1 Bc  kf    -     -         2043   40    0 
+darhoon   958596944 10 10 r   r     b     b         2003  180  490 Qh Qc
+darhoon   958596997  9  8 f   -     -     -         2313    0    0 
+darhoon   958597043 10  8 rc  b     bc    kc        2313  200    0 Qs Qh
+darhoon   958597107 10  7 c   k     k     f         2113   20    0 
+darhoon   958597153 10  6 f   -     -     -         2093    0    0 
+darhoon   958597175 10  5 f   -     -     -         2093    0    0 
+darhoon   958597219 10  4 c   k     c     k         2093   60  130 6d 9d
+darhoon   958597260 10  3 f   -     -     -         2163    0    0 
+darhoon   958597298 10  2 Bk  c     c     k         2163   80  160 Ks 7d
+darhoon   958597323 10  1 Bc  k     kc    k         2243   60    0 Js 7s
+darhoon   958597355 10 10 c   c     c     c         2183  140    0 Kd 2d
+darhoon   958597400 10  9 c   k     k     k         2043   20    0 As Tc
+darhoon   958597431 10  8 cc  br    b     b         2023  180  450 Kh 9h
+darhoon   958597487 10  8 c   k     k     k         2293   20   50 Jh 8c
+darhoon   958597512 10  6 c   c     k     f         2323   40    0 
+darhoon   958597587 10  5 cc  c     k     f         2283   60    0 
+darhoon   958597626 10  4 c   kc    k     k         2223   40    0 Jd 9d
+darhoon   958597660  9  2 Bc  kf    -     -         2183   40    0 
+darhoon   958597688  9  1 Bf  -     -     -         2143   10    0 
+darhoon   958597716  9  9 f   -     -     -         2133    0    0 
+darhoon   958597740  9  8 cc  k     k     kf        2133   40    0 
+darhoon   958597781  9  7 c   f     -     -         2093   40    0 
+darhoon   958597826  9  6 f   -     -     -         2053    0    0 
+darhoon   958597912 10  6 f   -     -     -         2053    0    0 
+darhoon   958597973  9  5 f   -     -     -         2053    0    0 
+darhoon   958598011  9  4 c   k     kc    b         2053  100  210 
+darhoon   958598092 10  4 cc  kf    -     -         2163   40    0 
+darhoon   958598133  8  2 Bc  b     b     kcc       2123  280    0 7s 8d
+darhoon   958598204  8  1 Bf  -     -     -         1843   10    0 
+darhoon   958598291  8  8 f   -     -     -         1833    0    0 
+darhoon   958598349  6  5 f   -     -     -         1833    0    0 
+darhoon   958598377  6  4 cc  k     k     b         1833   80  290 6c Tc
+darhoon   958598409  6  3 f   -     -     -         2043    0    0 
+darhoon   958598433  7  2 Bk  kf    -     -         2043   20    0 
+darhoon   958598457  7  1 Bf  -     -     -         2023   10    0 
+darhoon   958598487  7  7 f   -     -     -         2013    0    0 
+darhoon   958598503  7  6 c   f     -     -         2013   20    0 
+darhoon   958598547  8  6 c   kc    k     kf        1993   40    0 
+darhoon   958598607  8  5 c   b     b     -         1953   80  200 
+darhoon   958598643  8  4 f   -     -     -         2073    0    0 
+darhoon   958598683  8  3 ccc kf    -     -         2073   80    0 
+darhoon   958598733  9  2 Bk  kc    kc    kc        1993  120    0 2c As
+darhoon   958598778  9  1 Bc  kf    -     -         1873   40    0 
+darhoon   958598831  9  9 f   -     -     -         1833    0    0 
+darhoon   958598938 10  9 c   k     f     -         1833   20    0 
+darhoon   958599007 10  8 c   b     -     -         1813   40   90 
+darhoon   958599040  9  6 f   -     -     -         1863    0    0 
+darhoon   958599084  9  5 f   -     -     -         1863    0    0 
+darhoon   958599110  9  4 f   -     -     -         1863    0    0 
+darhoon   958599153  9  3 f   -     -     -         1863    0    0 
+darhoon   958599182  9  2 Bk  kf    -     -         1863   20    0 
+darhoon   958599209  9  1 Bc  kc    kc    krrc      1843  320    0 5s Ks
+darhoon   958599314  9  9 c   k     f     -         1523   20    0 
+darhoon   958599360  9  8 f   -     -     -         1503    0    0 
+darhoon   958599403  9  7 c   k     r     k         1503  120  310 6h Qh
+darhoon   958599443  9  5 c   k     f     -         1693   20    0 
+darhoon   958599473  9  5 f   -     -     -         1673    0    0 
+darhoon   958599519  9  4 c   kc    kf    -         1673   40    0 
+darhoon   958599558  9  3 f   -     -     -         1633    0    0 
+darhoon   958599598  9  2 B   -     -     -         1633   20   30 
+darhoon   958599610  9  1 Bc  k     k     kf        1643   20    0 
+darhoon   958599634  9  9 f   -     -     -         1623    0    0 
+darhoon   958599689  9  8 f   -     -     -         1623    0    0 
+darhoon   958599758  9  7 f   -     -     -         1623    0    0 
+darhoon   958599797  9  6 c   bc    kc    kf        1623  100    0 
+darhoon   958599841  9  5 f   -     -     -         1523    0    0 
+darhoon   958599910  9  4 f   -     -     -         1523    0    0 
+darhoon   958599949  8  3 f   -     -     -         1523    0    0 
+darhoon   958600010  8  2 Bf  -     -     -         1523   20    0 
+darhoon   958600057  8  1 Bf  -     -     -         1503   10    0 
+darhoon   958600094  7  7 f   -     -     -         1493    0    0 
+darhoon   958600135  7  6 c   kc    kc    kc        1493  120    0 Jc 9d
+darhoon   958600181  6  4 f   -     -     -         1373    0    0 
+darhoon   958600238  6  3 f   -     -     -         1373    0    0 
+darhoon   958600249  6  2 Bk  kc    kf    -         1373   40    0 
+darhoon   958600271  6  1 Bf  -     -     -         1333   10    0 
+darhoon   958600286  6  6 c   f     -     -         1323   20    0 
+darhoon   958600328  6  5 f   -     -     -         1303    0    0 
+darhoon   958600362  6  5 c   f     -     -         1303   20    0 
+darhoon   958600391  5  3 f   -     -     -         1283    0    0 
+darhoon   958600411  7  2 Bk  f     -     -         1283   20    0 
+darhoon   958600447  7  1 Bcc b     k     b         1263  100  220 
+darhoon   958600491  7  7 c   k     k     b         1383   80  180 
+darhoon   958600563  6  5 c   k     kf    -         1483   20    0 
+darhoon   958600599  6  4 cc  c     c     f         1463  100    0 
+darhoon   958600650  6  3 c   k     f     -         1363   20    0 
+darhoon   958600678  6  2 Bk  k     kf    -         1343   20    0 
+darhoon   958600717  6  1 Bc  k     kc    kc        1323  100    0 9s Tc
+darhoon   958600778  5  5 c   c     c     f         1223   80    0 
+darhoon   958600815  4  3 f   -     -     -         1143    0    0 
+darhoon   958600821  4  2 BQ  -     -     -         1143   20    0 
+darhoon   959577198 10  5 f   -     -     -         2002    0    0 
+darhoon   959577245 10  4 f   -     -     -         2002    0    0 
+darhoon   959577302  9  2 Bk  kf    -     -         2002   20    0 
+darhoon   959577357  9  1 Bf  -     -     -         1982   10    0 
+darhoon   959577411  9  9 f   -     -     -         1972    0    0 
+darhoon   959577473 10  9 f   -     -     -         1972    0    0 
+darhoon   959577553 10  8 f   -     -     -         1972    0    0 
+darhoon   959577602 10  7 f   -     -     -         1972    0    0 
+darhoon   959577687 10  6 f   -     -     -         1972    0    0 
+darhoon   959577738 10  5 f   -     -     -         1972    0    0 
+darhoon   959577780 10  4 f   -     -     -         1972    0    0 
+darhoon   959577836 10  3 c   kf    -     -         1972   20    0 
+darhoon   959577909 10  2 Bk  kf    -     -         1952   20    0 
+darhoon   959577971 10  1 Bf  -     -     -         1932   10    0 
+darhoon   959577995 10 10 c   f     -     -         1922   40    0 
+darhoon   959578093  9  8 cc  krr   b     b         1882  200  215 Qd Td
+darhoon   959578129  9  7 c   f     -     -         1897   40    0 
+darhoon   959578169  9  6 f   -     -     -         1857    0    0 
+darhoon   959578212  9  5 f   -     -     -         1857    0    0 
+darhoon   959578254  9  4 f   -     -     -         1857    0    0 
+darhoon   959578287  9  3 f   -     -     -         1857    0    0 
+darhoon   959578375  9  2 Bc  f     -     -         1857   40    0 
+darhoon   959578444 10  1 Bf  -     -     -         1817   10    0 
+darhoon   959578536  9  9 f   -     -     -         1807    0    0 
+darhoon   959578563  9  8 c   f     -     -         1807   20    0 
+darhoon   959578636  9  7 c   c     f     -         1787   40    0 
+darhoon   959578681 10  7 f   -     -     -         1747    0    0 
+darhoon   959578715 10  6 f   -     -     -         1747    0    0 
+darhoon   959578776 10  5 f   -     -     -         1747    0    0 
+darhoon   959578824 10  4 rr  b     bc    kc        1747  220    0 Qs Qc
+darhoon   959578915 10  3 f   -     -     -         1527    0    0 
+darhoon   959578954 10  2 Bf  -     -     -         1527   20    0 
+darhoon   959578975 10  1 Bcc kf    -     -         1507   80    0 
+darhoon   959579047  9  9 f   -     -     -         1427    0    0 
+darhoon   959579193 10  9 cc  f     -     -         1427   80    0 
+darhoon   959579302  9  7 cc  kf    -     -         1347   60    0 
+darhoon   959579406  9  7 f   -     -     -         1287    0    0 
+darhoon   959579528  8  5 cc  kc    kf    -         1287   60    0 
+darhoon   959579580  8  5 f   -     -     -         1227    0    0 
+darhoon   959579654  8  4 cc  kc    kc    kcf       1227  180    0 
+darhoon   959579750  8  3 f   -     -     -         1047    0    0 
+darhoon   959579800  7  2 Bc  c     c     f         1047  100    0 
+darhoon   959579861  8  1 Bf  -     -     -          947   10    0 
+darhoon   959579955  8  8 c   c     rc    c          937  220    0 Th 3h
+darhoon   959580056  8  7 cc  f     -     -          717   40    0 
+darhoon   959580129  8  6 cc  k     f     -          677   40    0 
+darhoon   959580171  7  4 f   -     -     -          637    0    0 
+darhoon   959580210  7  3 f   -     -     -          637    0    0 
+darhoon   959580255  7  2 Bcc kc    kc    k          637  120  330 Ts 6c
+darhoon   959580307  7  1 Brc kc    kc    kc         847  180    0 Ad Kc
+darhoon   959580357  8  8 c   k     k     k          667   20    0 Qc 5c
+darhoon   959580404  8  7 f   -     -     -          647    0    0 
+darhoon   959580529  8  6 c   k     kf    -          647   20    0 
+darhoon   959580587  8  5 c   br    krrc  brr        627  480 1140 7h Js
+darhoon   959580717  8  4 f   -     -     -         1287    0    0 
+darhoon   959580780 10  3 rr  rr    c     k         1287  200  890 As Ah
+darhoon   959580875 10  2 Bc  cc    f     -         1977  120    0 
+darhoon   959580972  9  1 Br  b     b     b         1857  160  580 
+darhoon   959581042  9  9 f   -     -     -         2277    0    0 
+darhoon   959581053  9  8 cc  b     c     f         2277  140    0 
+darhoon   959581124  9  7 f   -     -     -         2137    0    0 
+darhoon   959581190  9  6 f   -     -     -         2137    0    0 
+darhoon   959581233  9  5 cc  b     b     b         2137  140  380 
+darhoon   959581288  9  4 c   c     c     r         2377  160  360 9d 9h
+darhoon   959581319  9  3 ccc kr    b     bc        2577  240    0 9d Kd
+darhoon   959581403 10  2 Bk  k     k     k         2337   20    0 8c 4s
+darhoon   959581476 10  1 Bf  -     -     -         2317   10    0 
+darhoon   959581511 10 10 cc  c     k     k         2307   60    0 8c Jc
+darhoon   959581563 10  9 c   r     c     c         2247  140    0 Th 6h
+darhoon   959581622 10  8 f   -     -     -         2107    0    0 
+darhoon   959581663 10  7 f   -     -     -         2107    0    0 
+darhoon   959581699 10  6 cc  c     f     -         2107   60    0 
+darhoon   959581759 10  5 cc  f     -     -         2047   80    0 
+darhoon   959581801 10  4 f   -     -     -         1967    0    0 
+darhoon   959581879 10  3 f   -     -     -         1967    0    0 
+darhoon   959581958 10  2 Bk  kf    -     -         1967   20    0 
+darhoon   959582036 10  1 Bc  kc    kf    -         1947   60    0 
+darhoon   959582066 10 10 c   f     -     -         1887   40    0 
+darhoon   959582124 10  9 f   -     -     -         1847    0    0 
+darhoon   959582193 10  8 c   c     f     -         1847   60    0 
+darhoon   959582247 10  7 f   -     -     -         1787    0    0 
+darhoon   959582288 10  6 f   -     -     -         1787    0    0 
+darhoon   959582351 10  5 cc  f     -     -         1787   60    0 
+darhoon   959582429 10  4 f   -     -     -         1727    0    0 
+darhoon   959582510 10  3 c   kc    krr   krrrrrrrrrrrrr   1727 1240 1400 Qh Kc
+darhoon   959582625 10  2 Br  c     c     k         1887  100    0 7d 9c
+darhoon   959582695 10  1 Bc  kf    -     -         1787   40    0 
+darhoon   959582752 10 10 r   cc    c     c         1747  220  670 Jd Jh
+darhoon   959582806 10  9 f   -     -     -         2197    0    0 
+darhoon   959582854 10  8 f   -     -     -         2197    0    0 
+darhoon   959582902 10  7 c   c     f     -         2197   60    0 
+darhoon   959582961 10  6 f   -     -     -         2137    0    0 
+darhoon   959583002 10  5 rr  b     kr    -         2137  180  490 
+darhoon   959583066 10  4 c   f     -     -         2447   20    0 
+darhoon   959583126  8  3 f   -     -     -         2427    0    0 
+darhoon   959583162  8  2 Bc  kf    -     -         2427   40    0 
+darhoon   959583241  8  1 Bc  k     kc    kc        2387  100  220 9s As
+darhoon   959583278  8  3 Q   -     -     -         2507    0    0 
+darhoon   959656359 10  3 f   -     -     -         2957    0    0 
+darhoon   959656418 10  2 Bk  kc    kc    k         2957  100  410 2s 5s
+darhoon   959656494 10  1 Bf  -     -     -         3267   10    0 
+darhoon   959656534 10 10 r   k     f     -         3257   40    0 
+darhoon   959656599 10  9 f   -     -     -         3217    0    0 
+darhoon   959656662 10  8 f   -     -     -         3217    0    0 
+darhoon   959656702 10  7 c   c     f     -         3217   60    0 
+darhoon   959656749 10  6 f   -     -     -         3157    0    0 
+darhoon   959656776 10  5 f   -     -     -         3157    0    0 
+darhoon   959656808 10  4 c   r     b     b         3157  140  360 
+darhoon   959656900 10  3 f   -     -     -         3377    0    0 
+darhoon   959656940 10  2 Bf  -     -     -         3377   20    0 
+darhoon   959656978  9  1 Bc  kf    -     -         3357   40    0 
+darhoon   959657037  9  9 f   -     -     -         3317    0    0 
+darhoon   959657104  9  8 c   c     c     r         3317  160  380 4d 9d
+darhoon   959657144 10  7 f   -     -     -         3537    0    0 
+darhoon   959657188 10  6 r   r     b     bc        3537  240    0 Ah Kd
+darhoon   959657289 10  5 f   -     -     -         3297    0    0 
+darhoon   959657344 10  4 f   -     -     -         3297    0    0 
+darhoon   959657421 10  3 c   b     b     kf        3297   80    0 
+darhoon   959657518 10  2 Bk  kc    k     k         3217   40    0 4s Ah
+darhoon   959657552 10  1 Bc  k     bc    kc        3177  140    0 Kd Jd
+darhoon   959657589 10 10 f   -     -     -         3037    0    0 
+darhoon   959657639 10  9 c   c     c     k         3037  100    0 8h 8c
+darhoon   959657679 10  8 f   -     -     -         2937    0    0 
+darhoon   959657725 10  7 f   -     -     -         2937    0    0 
+darhoon   959657794 10  7 c   kc    kc    kc        2937  140    0 7h 7d
+darhoon   959657864 10  5 f   -     -     -         2797    0    0 
+darhoon   959657907 10  4 f   -     -     -         2797    0    0 
+darhoon   959657946 10  3 f   -     -     -         2797    0    0 
+darhoon   959657987 10  2 Bk  kf    -     -         2797   20    0 
+darhoon   959658033 10  1 Bc  kc    kf    -         2777   60    0 
+darhoon   959658094 10 10 f   -     -     -         2717    0    0 
+darhoon   959658122 10  9 c   k     kf    -         2717   20    0 
+darhoon   959658165 10  8 c   k     k     f         2697   20    0 
+darhoon   959658232 10  7 f   -     -     -         2677    0    0 
+darhoon   959658270 10  6 c   f     -     -         2677   20    0 
+darhoon   959658301 10  5 c   kc    kc    krc       2657  200    0 Jc 3c
+darhoon   959658360 10  4 f   -     -     -         2457    0    0 
+darhoon   959658398 10  3 c   krc   b     b         2457  180    0 As Qc
+darhoon   959658445 10  2 Bk  k     b     b         2277  100  190 
+darhoon   959658492 10  1 Bc  kc    kc    kr        2367  160  500 8s As
+darhoon   959658535 10 10 f   -     -     -         2707    0    0 
+darhoon   959658588 10  9 c   f     -     -         2707   20    0 
+darhoon   959658631 10  8 f   -     -     -         2687    0    0 
+darhoon   959658703 10  7 c   c     c     f         2687  100    0 
+darhoon   959658767 10  6 f   -     -     -         2587    0    0 
+darhoon   959658801 10  5 f   -     -     -         2587    0    0 
+darhoon   959658857 10  4 c   kr    b     c         2587  140    0 Ad Ks
+darhoon   959658930 10  3 f   -     -     -         2447    0    0 
+darhoon   959658981 10  2 Bk  kf    -     -         2447   20    0 
+darhoon   959659023 10  1 Bc  kc    k     k         2427   40   50 9s Jc
+darhoon   959659062 10 10 f   -     -     -         2437    0    0 
+darhoon   959659097 10  9 rc  c     k     b         2437  140  470 
+darhoon   959659164 10  8 f   -     -     -         2767    0    0 
+darhoon   959659218 10  7 c   c     c     rc        2767  200    0 Td Qc
+darhoon   959659275 10  6 c   kf    -     -         2567   20    0 
+darhoon   959659330 10  5 c   c     k     k         2547   40    0 9c Ad
+darhoon   959659372 10  4 cc  k     f     -         2507   60    0 
+darhoon   959659410 10  3 c   k     kr    b         2447  140    0 Jh Ad
+darhoon   959659458 10  2 Bk  b     b     kc        2307  120    0 3s Ts
+darhoon   959659507 10  1 Bf  -     -     -         2187   10    0 
+darhoon   959659547 10 10 c   k     c     c         2177  100    0 7c 7s
+darhoon   959659592 10  9 f   -     -     -         2077    0    0 
+darhoon   959659667 10  8 cc  k     f     -         2077   40    0 
+darhoon   959659724 10  7 f   -     -     -         2037    0    0 
+darhoon   959659780 10  6 cc  k     kf    -         2037   40    0 
+darhoon   959659845 10  5 f   -     -     -         1997    0    0 
+darhoon   959659883 10  4 c   kf    -     -         1997   20    0 
+darhoon   959659927 10  3 f   -     -     -         1977    0    0 
+darhoon   959659985 10  2 Bk  kc    kc    k         1977   80    0 9c Qd
+darhoon   959660041 10  1 Bc  kc    kf    -         1897   40    0 
+darhoon   959660123 10 10 f   -     -     -         1857    0    0 
+darhoon   959660154 10  9 f   -     -     -         1857    0    0 
+darhoon   959660205 10  8 f   -     -     -         1857    0    0 
+darhoon   959660289 10  7 f   -     -     -         1857    0    0 
+darhoon   959660321 10  6 c   k     f     -         1857   20    0 
+darhoon   959660356 10  5 f   -     -     -         1837    0    0 
+darhoon   959660406 10  4 cc  kf    -     -         1837   40    0 
+darhoon   959660487 10  3 c   b     b     b         1797  120  330 
+darhoon   959660560 10  2 Bk  k     k     f         2007   20    0 
+darhoon   959660634 10  1 Bc  bc    kc    k         1987  120    0 Jd Qd
+darhoon   959660680 10 10 f   -     -     -         1867    0    0 
+darhoon   959660757 10  9 c   f     -     -         1867   20    0 
+darhoon   959660803 10  8 c   c     c     r         1847  160  510 5c 4c
+darhoon   959660864 10  7 f   -     -     -         2197    0    0 
+darhoon   959660922 10  6 f   -     -     -         2197    0    0 
+darhoon   959660939 10  5 f   -     -     -         2197    0    0 
+darhoon   959661003 10  4 c   k     b     b         2197  100    0 2c Jc
+darhoon   959661073 10  3 f   -     -     -         2097    0    0 
+darhoon   959661160 10  2 Br  bc    kc    kc        2097  160    0 Ks Kd
+darhoon   959661227 10  1 Bc  kf    -     -         1937   40    0 
+darhoon   959661270 10 10 c   k     k     k         1897   20    0 7h Jc
+darhoon   959661319 10  9 f   -     -     -         1877    0    0 
+darhoon   959661347 10  8 c   k     k     k         1877   20    0 3h 3c
+darhoon   959661400 10  7 c   b     brc   kr        1857  280  630 Qd Qs
+darhoon   959661453 10  6 r   rc    r     b         2207  220    0 Ah As
+darhoon   959661543 10  5 f   -     -     -         1987    0    0 
+darhoon   959661576 10  4 cc  kr    b     b         1987  160  550 As Qc
+darhoon   959661630 10  3 f   -     -     -         2377    0    0 
+darhoon   959661669 10  2 Bk  k     kc    k         2377   60    0 8d Qh
+darhoon   959661700 10  1 Bc  k     k     b         2317   60  100 
+darhoon   959661754  9  9 c   r     b     b         2357  140  320 4c 9c
+darhoon   959661784 10  8 cc  cf    -     -         2537   60    0 
+darhoon   959661853 10  7 f   -     -     -         2477    0    0 
+darhoon   959661892 10  6 c   c     f     -         2477   40    0 
+darhoon   959661948 10  5 c   k     kf    -         2437   20    0 
+darhoon   959662016 10  4 f   -     -     -         2417    0    0 
+darhoon   959662080 10  3 f   -     -     -         2417    0    0 
+darhoon   959662118 10  2 Bk  kf    -     -         2417   20    0 
+darhoon   959662187 10  1 Bc  kc    kc    kf        2397  120    0 
+darhoon   959662269 10 10 f   -     -     -         2277    0    0 
+darhoon   959662319 10  9 cc  c     c     f         2277  120    0 
+darhoon   959662387 10  8 c   c     c     f         2157   80    0 
+darhoon   959662448 10  7 c   k     b     k         2077   60  190 Ah 9d
+darhoon   959662510 10  6 f   -     -     -         2207    0    0 
+darhoon   959662579 10  5 c   r     brc   b         2207  260  600 5d Ad
+darhoon   959662648 10  4 f   -     -     -         2547    0    0 
+darhoon   959662726 10  3 cc  kf    -     -         2547   40    0 
+darhoon   959662814 10  2 Bk  k     kf    -         2507   20    0 
+darhoon   959662875 10  1 Bc  kc    k     kf        2487   40    0 
+darhoon   959662937 10 10 c   k     c     f         2447   60    0 
+darhoon   959663000 10  9 c   c     b     b         2387  120  210 
+darhoon   959663047 10  8 f   -     -     -         2477    0    0 
+darhoon   959663117 10  7 c   c     k     c         2477  100    0 Kd 8d
+darhoon   959663181 10  6 f   -     -     -         2377    0    0 
+darhoon   959663266 10  5 f   -     -     -         2377    0    0 
+darhoon   959663303 10  4 f   -     -     -         2377    0    0 
+darhoon   959663331 10  3 f   -     -     -         2377    0    0 
+darhoon   959663441 10  2 Bf  -     -     -         2377   20    0 
+darhoon   959663488 10  1 Bf  -     -     -         2357   10    0 
+darhoon   959663529 10 10 c   c     r     k         2347  120  300 9s 5s
+darhoon   959663578 10  9 f   -     -     -         2527    0    0 
+darhoon   959663624 10  8 c   cc    c     f         2527  180    0 
+darhoon   959663707 10  7 f   -     -     -         2347    0    0 
+darhoon   959663772 10  6 c   k     b     b         2347  120  350 
+darhoon   959663834 10  5 f   -     -     -         2577    0    0 
+darhoon   959663918 10  4 f   -     -     -         2577    0    0 
+darhoon   959663981 10  3 cc  kc    k     br        2577  200    0 Ad Qd
+darhoon   959664129 10  2 Bf  -     -     -         2377   20    0 
+darhoon   959664204 10  1 Bc  kc    k     kf        2357   40    0 
+darhoon   959664260 10 10 c   b     r     b         2317  180    0 Ah 3d
+darhoon   959664365 10  9 f   -     -     -         2137    0    0 
+darhoon   959664466 10  4 Q   -     -     -         2137    0    0 

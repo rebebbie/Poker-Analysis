@@ -1,0 +1,60 @@
+GUD_hand  957369695  2  2 B   -     -     -         2028   20   30 
+GUD_hand  957369718  2  1 Bc  b     -     -         2038   40   60 
+GUD_hand  957369735  2  2 Bk  k     b     -         2058   60   80 
+GUD_hand  957369746  2  1 Br  bc    kc    kc        2078  160    0 Qs Th
+GUD_hand  957369770  2  2 Br  k     k     b         1918   80  120 
+GUD_hand  957369785  2  1 Br  -     -     -         1958   40   60 
+GUD_hand  957369789  2  2 B   -     -     -         1978   20   30 
+GUD_hand  957369792  2  1 Bc  k     kf    -         1988   20    0 
+GUD_hand  957369807  2  2 Br  rc    f     -         1968  100    0 
+GUD_hand  957369822  3  1 Br  -     -     -         1868   40   60 
+GUD_hand  957369829  3  3 c   r     b     -         1888  100  180 
+GUD_hand  957369851  3  2 Bk  f     -     -         1968   20    0 
+GUD_hand  957369859  3  1 Bc  k     b     -         1948   60   80 
+GUD_hand  957369878  3  3 c   b     k     b         1968   80  140 
+GUD_hand  957369904  3  2 Bk  kf    -     -         2028   20    0 
+GUD_hand  957369916  3  1 Bc  bc    kf    -         2008   60    0 
+GUD_hand  957369936  4  4 f   -     -     -         1948    0    0 
+GUD_hand  957369949  4  3 c   r     b     f         1948  100    0 
+GUD_hand  957369972  4  2 Br  b     b     b         1848  140  290 8s 7s
+GUD_hand  957369990  4  1 Bf  -     -     -         1998   10    0 
+GUD_hand  957370008  4  4 r   c     c     f         1988  100    0 
+GUD_hand  957370029  4  3 f   -     -     -         1888    0    0 
+GUD_hand  957370042  4  2 Bk  k     k     k         1888   20    0 Qs 5c
+GUD_hand  957370059  5  1 Bc  b     k     kf        1868   40    0 
+GUD_hand  957370094  5  5 c   f     -     -         1828   20    0 
+GUD_hand  957370104  6  5 c   r     bc    kf        1808  140    0 
+GUD_hand  957370153  6  4 c   c     c     rc        1668  200    0 Tc 5c
+GUD_hand  957370179  6  3 c   f     -     -         1468   20    0 
+GUD_hand  957370215  6  2 Bk  k     f     -         1448   20    0 
+GUD_hand  957370230  6  1 Bf  -     -     -         1428   10    0 
+GUD_hand  957370274  5  5 c   b     b     b         1418  120  260 Kd Ts
+GUD_hand  957370320  5  4 f   -     -     -         1558    0    0 
+GUD_hand  957370351  5  3 cc  kc    k     b         1558  100    0 Jc 7c
+GUD_hand  957370376  5  2 Bk  k     k     rc        1458  140  280 3h Ts
+GUD_hand  957370398  5  1 Bc  b     b     b         1598  120  200 
+GUD_hand  957370419  5  5 r   k     b     c         1678  140    0 8c Ac
+GUD_hand  957370462  5  4 r   cc    br    br        1538  320  750 7c 6h
+GUD_hand  957370497  5  3 f   -     -     -         1968    0    0 
+GUD_hand  957370508  5  2 Bk  cc    kf    -         1968   60    0 
+GUD_hand  957370560  6  1 Bc  k     k     b         1908   60    0 5h 3d
+GUD_hand  957370594  6  6 c   cc    f     -         1848  100    0 
+GUD_hand  957370651  6  5 c   bc    bc    b         1748  180  560 2d Ad
+GUD_hand  957370702  6  4 c   k     k     r         2128  100  240 Qs As
+GUD_hand  957370737  6  3 fQ  -     -     -         2268    0    0 
+GUD_hand  957389268  8  5 f   -     -     -         2268    0    0 
+GUD_hand  957389319  8  4 f   -     -     -         2268    0    0 
+GUD_hand  957389357  8  3 f   -     -     -         2268    0    0 
+GUD_hand  957389370  8  2 Bk  f     -     -         2268   20    0 
+GUD_hand  957389390  8  1 Bf  -     -     -         2248   10    0 
+GUD_hand  957389440  9  9 c   c     b     b         2238  120  220 
+GUD_hand  957389469  9  8 f   -     -     -         2338    0    0 
+GUD_hand  957389523  9  6 c   c     r     b         2338  160  520 3h Kh
+GUD_hand  957389579  9  5 cc  c     rc    k         2698  180    0 Qh Jc
+GUD_hand  957389658  9  4 f   -     -     -         2518    0    0 
+GUD_hand  957389699  9  3 cc  kf    -     -         2518   40    0 
+GUD_hand  957389725  9  3 f   -     -     -         2478    0    0 
+GUD_hand  957389762 10  2 Bf  -     -     -         2478   20    0 
+GUD_hand  957389791 10  1 Bf  -     -     -         2458   10    0 
+GUD_hand  957389833 10 10 f   -     -     -         2448    0    0 
+GUD_hand  957389866 10  9 fQ  -     -     -         2448    0    0 

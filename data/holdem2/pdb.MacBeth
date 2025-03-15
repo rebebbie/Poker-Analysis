@@ -1,0 +1,276 @@
+MacBeth   958591393  2  2 B   -     -     -         2171   20   30 
+MacBeth   958591396  2  1 Bc  kc    kc    k         2181   80  160 7c 8h
+MacBeth   958591415  2  2 Bk  f     -     -         2261   20    0 
+MacBeth   958591431  2  1 Bcc kf    -     -         2241   40    0 
+MacBeth   958591445  2  2 Bc  r     b     b         2201  160    0 8d As
+MacBeth   958591464  2  1 Bc  b     -     -         2041   40   60 
+MacBeth   958591479  3  2 Bc  b     k     k         2061   60  130 7d Ah
+MacBeth   958591498  3  1 Bc  k     kc    k         2131   80    0 9s 7s
+MacBeth   958591518  3  3 Q   -     -     -         2051    0    0 
+MacBeth   958593538  3  3 cc  b     b     -         2051  100  200 
+MacBeth   958593570  3  2 B   -     -     -         2151   20   30 
+MacBeth   958593573  3  1 Bf  -     -     -         2161   10    0 
+MacBeth   958593578  3  3 c   b     -     -         2151   40   80 
+MacBeth   958593590  3  2 Bk  kf    -     -         2191   20    0 
+MacBeth   958593603  3  1 Bf  -     -     -         2171   10    0 
+MacBeth   958593611  3  3 c   b     -     -         2161   40   70 
+MacBeth   958593623  3  2 Bf  -     -     -         2191   20    0 
+MacBeth   958593628  3  1 Bc  kf    -     -         2171   40    0 
+MacBeth   958593638  3  3 c   f     -     -         2131   20    0 
+MacBeth   958593667  3  2 B   -     -     -         2111   20   30 
+MacBeth   958593670  3  1 Bf  -     -     -         2121   10    0 
+MacBeth   958593684  3  3 f   -     -     -         2111    0    0 
+MacBeth   958593759  3  1 B   -     -     -         2111   20   20 
+MacBeth   958593764  3  1 Bc  kf    -     -         2111   20    0 
+MacBeth   958593777  3  3 f   -     -     -         2091    0    0 
+MacBeth   958593792  4  3 cc  f     -     -         2091   40    0 
+MacBeth   958593805  4  2 Br  b     b     -         2051  100  160 
+MacBeth   958593819  5  1 Bf  -     -     -         2111   10    0 
+MacBeth   958593836  5  5 f   -     -     -         2101    0    0 
+MacBeth   958593844  5  4 f   -     -     -         2101    0    0 
+MacBeth   958593851  5  3 cc  kf    -     -         2101   40    0 
+MacBeth   958593865  5  2 Bf  -     -     -         2061   20    0 
+MacBeth   958593871  5  1 Bc  kc    kr    b         2041  160  320 Jd 8h
+MacBeth   958593905  5  5 f   -     -     -         2201    0    0 
+MacBeth   958593911  5  4 f   -     -     -         2201    0    0 
+MacBeth   958593920  6  3 cr  c     r     c         2201  200    0 Qh As
+MacBeth   958593958  6  2 Bc  kr    b     b         2001  160    0 4h 5h
+MacBeth   958594002  7  1 Br  b     b     k         1841  100    0 5d 5s
+MacBeth   958594032  7  3 Q   -     -     -         1741    0    0 
+MacBeth   958611156  9  9 r   k     k     c         2026   80    0 As Jc
+MacBeth   958611202  9  8 f   -     -     -         1946    0    0 
+MacBeth   958611245  9  7 c   f     -     -         1946   20    0 
+MacBeth   958611295  9  6 f   -     -     -         1926    0    0 
+MacBeth   958611343  9  5 f   -     -     -         1926    0    0 
+MacBeth   958611386  9  4 c   b     bc    kr        1926  200  500 Qc 4c
+MacBeth   958611451  9  3 f   -     -     -         2226    0    0 
+MacBeth   958611512  9  2 Bk  k     kf    -         2226   20    0 
+MacBeth   958611600  9  1 Bc  kc    kf    -         2206   40    0 
+MacBeth   958611629  9  9 f   -     -     -         2166    0    0 
+MacBeth   958611703  9  8 r   c     b     b         2166  140  360 Ah Jc
+MacBeth   958611776  8  6 r   b     b     bc        2386  180    0 Ah Jh
+MacBeth   958611833  8  6 r   bc    c     r         2206  200  680 Tc Td
+MacBeth   958611888  9  5 cc  kc    kc    kf        2686  100    0 
+MacBeth   958611926  9  4 c   kf    -     -         2586   20    0 
+MacBeth   958611984 10  3 f   -     -     -         2566    0    0 
+MacBeth   958612027 10  2 Bk  k     k     k         2566   20    0 2s Js
+MacBeth   958612069 10  1 Bc  k     k     k         2546   20    0 Ks 4c
+MacBeth   958612111 10 10 f   -     -     -         2526    0    0 
+MacBeth   958612132  9  9 f   -     -     -         2526    0    0 
+MacBeth   958612164  9  8 c   b     b     k         2526   80  180 4c Kc
+MacBeth   958612205 10  7 f   -     -     -         2626    0    0 
+MacBeth   958612252 10  6 c   f     -     -         2626   20    0 
+MacBeth   958612317 10  5 f   -     -     -         2606    0    0 
+MacBeth   958612342 10  4 c   k     k     kc        2606   60  180 5s Qs
+MacBeth   958612425 10  3 f   -     -     -         2726    0    0 
+MacBeth   958612484 10  2 Bk  kc    kf    -         2726   40    0 
+MacBeth   958612570 10  1 Br  b     kc    kf        2686  100    0 
+MacBeth   958612627 10 10 r   r     k     f         2586   80    0 
+MacBeth   958612675 10  9 c   f     -     -         2506   20    0 
+MacBeth   958612744 10  8 c   kf    -     -         2486   20    0 
+MacBeth   958612779 10  7 f   -     -     -         2466    0    0 
+MacBeth   958612804 10  6 cc  bc    k     c         2466  120    0 2s Ad
+MacBeth   958612849 10  5 c   c     c     c         2346  140  380 Ac Th
+MacBeth   958612880 10  4 c   kf    -     -         2586   20    0 
+MacBeth   958612922 10  3 c   k     kc    kc        2566  100    0 Kd 5d
+MacBeth   958612992 10  2 Bf  -     -     -         2466   20    0 
+MacBeth   958613023 10  1 Bf  -     -     -         2446   10    0 
+MacBeth   958613043 10 10 f   -     -     -         2436    0    0 
+MacBeth   958613068 10  9 f   -     -     -         2436    0    0 
+MacBeth   958613110 10  8 f   -     -     -         2436    0    0 
+MacBeth   958613154 10  7 c   k     k     f         2436   20    0 
+MacBeth   958613194 10  6 f   -     -     -         2416    0    0 
+MacBeth   958613250 10  5 f   -     -     -         2416    0    0 
+MacBeth   958613285 10  4 f   -     -     -         2416    0    0 
+MacBeth   958613340 10  3 f   -     -     -         2416    0    0 
+MacBeth   958613371 10  2 Bk  kf    -     -         2416   20    0 
+MacBeth   958613423 10  1 Bf  -     -     -         2396   10    0 
+MacBeth   958613474 10 10 f   -     -     Q         2386    0    0 
+MacBeth   958653425  2  2 Br  k     k     k         2386   40   80 9s Ac
+MacBeth   958653446  2  1 Bc  b     b     b         2426  120    0 Ad 4s
+MacBeth   958653460  2  2 Bk  b     k     k         2306   40   80 Ts 6c
+MacBeth   958653479  2  1 Br  -     -     -         2346   40   60 
+MacBeth   958653486  2  2 B   -     -     -         2366   20   30 
+MacBeth   958653493  2  1 Br  k     b     -         2376   80  120 
+MacBeth   958653505  2  2 Bk  b     b     k         2416   80  160 4d 5h
+MacBeth   958653528  2  1 Bc  b     -     -         2496   40   60 
+MacBeth   958653536  2  2 Br  k     k     k         2516   40    0 Qh Th
+MacBeth   958653556  2  1 Bf  -     -     -         2476   10    0 
+MacBeth   958653561  2  2 B   -     -     -         2466   20   30 
+MacBeth   958653563  2  1 Bf  -     -     -         2476   10    0 
+MacBeth   958653567  2  2 Bk  b     b     b         2466  120  240 Ks Qh
+MacBeth   958653586  2  1 Bc  b     -     -         2586   40   60 
+MacBeth   958653596  2  2 B   -     -     -         2606   20   30 
+MacBeth   958653600  2  1 Bc  kc    b     k         2616   80   80 Js 6c
+MacBeth   958653628  2  2 Bk  k     k     f         2616   20    0 
+MacBeth   958653651  2  1 Bc  k     k     k         2596   20    0 8h 5h
+MacBeth   958653665  2  2 Bk  k     k     k         2576   20    0 9d Qs
+MacBeth   958653689  2  1 Bc  kc    k     k         2556   40   80 7s Ah
+MacBeth   958653705  2  2 Bk  k     k     k         2596   20    0 2s 8h
+MacBeth   958653723  2  1 Bc  k     k     k         2576   20    0 3h Jh
+MacBeth   958653735  2  2 B   -     -     -         2556   20   30 
+MacBeth   958653741  2  1 Bf  -     -     -         2566   10    0 
+MacBeth   958653743  2  2 B   -     -     -         2556   20   30 
+MacBeth   958653746  2  1 Bc  k     k     k         2566   20    0 8c Qc
+MacBeth   958653759  2  2 Bk  k     f     -         2546   20    0 
+MacBeth   958653774  2  1 Bc  b     b     k         2526   80  160 9c 4c
+MacBeth   958653791  2  2 Bk  b     k     k         2606   40    0 9h Ks
+MacBeth   958653812  2  1 Bc  b     b     b         2566  120  240 Qs Qc
+MacBeth   958653827  2  2 B   -     -     -         2686   20   30 
+MacBeth   958653832  2  1 Bc  b     b     b         2696  120  200 
+MacBeth   958653843  2  2 B   -     -     -         2776   20   30 
+MacBeth   958653845  2  1 Bc  k     k     k         2786   20    0 8c 7c
+MacBeth   958653858  2  2 Bk  b     b     k         2766   80    0 As 9h
+MacBeth   958653876  2  1 Bf  -     -     -         2686   10    0 
+MacBeth   958653881  2  2 B   -     -     -         2676   20   30 
+MacBeth   958653883  2  1 Br  -     -     -         2686   40   60 
+MacBeth   958653888  2  2 B   -     -     -         2706   20   30 
+MacBeth   958653890  2  1 Bf  -     -     -         2716   10    0 
+MacBeth   958653892  2  2 B   -     -     -         2706   20   30 
+MacBeth   958653895  2  1 Bf  -     -     -         2716   10    0 
+MacBeth   958653897  2  2 Bk  k     k     k         2706   20    0 2c 4s
+MacBeth   958653910  2  1 Bc  k     k     k         2686   20    0 6c Ac
+MacBeth   958653932  2  2 Bk  b     -     -         2666   40   60 
+MacBeth   958653944  2  1 Bc  b     k     k         2686   40   40 5s 3s
+MacBeth   958653955  2  2 B   -     -     -         2686   20   30 
+MacBeth   958653960  2  1 Bf  -     -     -         2696   10    0 
+MacBeth   958653962  2  2 Bk  k     c     k         2686   60  120 6c 9h
+MacBeth   958653976  2  1 Bc  k     b     -         2746   60   80 
+MacBeth   958653986  2  2 B   -     -     -         2766   20   30 
+MacBeth   958653989  2  1 Bc  k     k     kf        2776   20    0 
+MacBeth   958654005  2  2 Bk  b     -     -         2756   40   60 
+MacBeth   958654014  2  1 Bc  b     b     -         2776   80  120 
+MacBeth   958654023  2  2 B   -     -     -         2816   20   30 
+MacBeth   958654026  2  1 Br  kc    kc    kf        2826  100    0 
+MacBeth   958654047  2  2 Bk  k     k     f         2726   20    0 
+MacBeth   958654058  2  1 Bf  -     -     -         2706   10    0 
+MacBeth   958654061  2  2 Bk  k     f     -         2696   20    0 
+MacBeth   958654071  2  1 Bf  -     -     -         2676   10    0 
+MacBeth   958654073  2  2 Bk  k     k     k         2666   20    0 8c 5h
+MacBeth   958654086  2  1 Bc  k     k     k         2646   20    0 4d 2d
+MacBeth   958654101  2  2 B   -     -     -         2626   20   30 
+MacBeth   958654108  2  1 Bf  -     -     -         2636   10    0 
+MacBeth   958654111  2  2 Bk  b     Q     -         2626   40    0 
+MacBeth   958661827  5  2 Bf  -     -     -         2586   20    0 
+MacBeth   958661848  4  1 Bc  b     kc    kc        2566  120    0 Js 2h
+MacBeth   958661865  4  4 f   -     -     -         2446    0    0 
+MacBeth   958661880  4  3 f   -     -     -         2446    0    0 
+MacBeth   958661886  4  2 Bk  b     b     -         2446   80  120 
+MacBeth   958661899  4  1 Bf  -     -     -         2486   10    0 
+MacBeth   958661919  4  4 f   -     -     -         2476    0    0 
+MacBeth   958661921  4  3 c   b     -     -         2476   40   90 
+MacBeth   958661934  4  2 B   -     -     -         2526   20   30 
+MacBeth   958661936  4  1 Bc  b     b     -         2536   80  120 
+MacBeth   958661945  4  4 c   b     -     -         2576   40   70 
+MacBeth   958661953  4  3 f   -     -     -         2606    0    0 
+MacBeth   958661965  4  2 B   -     -     -         2606   20   30 
+MacBeth   958661968  4  1 Bc  k     k     k         2616   20   40 3d 4s
+MacBeth   958661978  4  4 c   b     -     -         2636   40   70 
+MacBeth   958661991  3  2 B   -     -     -         2666   20   30 
+MacBeth   958661998  3  1 Bf  -     -     -         2676   10    0 
+MacBeth   958662003  3  3 f   -     -     -         2666    0    0 
+MacBeth   958662019  3  2 Bk  k     k     k         2666   20   50 7c 4s
+MacBeth   958662039  3  1 Bc  kc    kf    -         2696   40    0 
+MacBeth   958662052  3  3 r   -     -     -         2656   40   70 
+MacBeth   958662059  3  2 Bk  k     f     -         2686   20    0 
+MacBeth   958662067  3  1 Bcc kf    -     -         2666   40    0 
+MacBeth   958662077  3  3 f   -     -     -         2626    0    0 
+MacBeth   958662086  3  2 B   -     -     -         2626   20   30 
+MacBeth   958662089  3  1 Bf  -     -     -         2636   10    0 
+MacBeth   958662105  3  3 f   -     -     -         2626    0    0 
+MacBeth   958662128  3  2 Bc  c     r     b         2626  180  320 
+MacBeth   958662143  3  1 Br  b     kc    kc        2766  140    0 Qh Kh
+MacBeth   958662161  3  3 c   f     -     -         2626   20    0 
+MacBeth   958662174  3  2 Bc  b     bc    kc        2606  180    0 4d 3d
+MacBeth   958662193  3  1 Bf  -     -     -         2426   10    0 
+MacBeth   958662210  3  3 c   b     r     k         2416  120    0 7d Jd
+MacBeth   958662228  3  2 B   -     -     -         2296   20   30 
+MacBeth   958662236  3  1 Bc  bf    -     -         2306   40    0 
+MacBeth   958662250  3  3 f   -     -     -         2266    0    0 
+MacBeth   958662255  3  2 Bk  b     -     -         2266   40   60 
+MacBeth   958662263  3  1 Bf  -     -     -         2286   10    0 
+MacBeth   958662267  3  3 f   -     -     -         2276    0    0 
+MacBeth   958662279  3  2 Br  b     -     -         2276   60  110 
+MacBeth   958662287  3  1 Br  -     -     -         2326   40   60 
+MacBeth   958662291  3  3 c   c     c     c         2346  120    0 Ac 4d
+MacBeth   958662302  3  2 Bk  c     rrc   c         2226  280    0 Qs 4d
+MacBeth   958662330  3  1 Bc  kf    -     -         1946   20    0 
+MacBeth   958662343  3  3 f   -     -     -         1926    0    0 
+MacBeth   958662346  3  2 Bk  k     b     kc        1926  100    0 Kh Ts
+MacBeth   958662361  3  1 Bf  -     -     -         1826   10    0 
+MacBeth   958662378  3  3 f   -     -     -         1816    0    0 
+MacBeth   958662384  3  2 B   -     -     -         1816   20   30 
+MacBeth   958662388  2  1 Bf  -     -     -         1826   10    0 
+MacBeth   958662391  2  2 B   -     -     -         1816   20   30 
+MacBeth   958662401  2  1 Bc  k     b     k         1826   60  120 Td 3d
+MacBeth   958662413  2  2 Br  b     -     -         1886   60  100 
+MacBeth   958662426  2  1 Bf  -     -     -         1926   10    0 
+MacBeth   958662429  2  2 B   -     -     -         1916   20   30 
+MacBeth   958662431  2  1 Bc  k     k     k         1926   20   40 Ks 6c
+MacBeth   958662443  2  2 B   -     -     -         1946   20   30 
+MacBeth   958662448  2  1 Bc  kf    -     -         1956   20    0 
+MacBeth   958662456  2  2 B   -     -     -         1936   20   30 
+MacBeth   958662459  2  1 Bc  k     k     b         1946   60   80 
+MacBeth   958662471  2  2 Bk  k     b     b         1966  100  160 
+MacBeth   958662495  2  1 Bc  b     -     -         2026   40   60 
+MacBeth   958662505  2  2 Bk  k     b     -         2046   60   80 
+MacBeth   958662516  2  1 Bc  k     k     k         2066   20    0 8c Ks
+MacBeth   958662528  2  2 Bk  c     f     -         2046   40    0 
+MacBeth   958662539  2  1 Bf  -     -     -         2006   10    0 
+MacBeth   958662541  2  2 B   -     -     -         1996   20   30 
+MacBeth   958662544  2  1 Bf  -     -     -         2006   10    0 
+MacBeth   958662547  2  2 B   -     -     -         1996   20   30 
+MacBeth   958662556  3  1 Bf  -     -     -         2006   10    0 
+MacBeth   958662560  3  3 f   -     -     -         1996    0    0 
+MacBeth   958662568  3  2 Bk  kf    -     -         1996   20    0 
+MacBeth   958662576  3  1 Bf  -     -     -         1976   10    0 
+MacBeth   958662587  4  3 c   k     k     k         1966   20    0 Ts Qc
+MacBeth   958662606  4  2 Bk  kf    -     -         1946   20    0 
+MacBeth   958662633  4  1 Bc  b     b     b         1926  120    0 7c Ks
+MacBeth   958662648  4  4 c   k     k     k         1806   20    0 6d 7c
+MacBeth   958662669  4  3 f   -     -     -         1786    0    0 
+MacBeth   958662677  4  2 Bk  k     k     k         1786   20    0 Ts 4s
+MacBeth   958662691  4  1 Bc  b     b     k         1766  100    0 6h 8h
+MacBeth   958662717  4  4 c   k     f     -         1666   20    0 
+MacBeth   958662749  4  3 r   -     -     -         1646   40   70 
+MacBeth   958662763  4  2 B   -     -     -         1676   20   30 
+MacBeth   958662773  5  1 Bf  -     -     -         1686   10    0 
+MacBeth   958662806  5  5 f   -     -     -         1676    0    0 
+MacBeth   958662838  5  4 f   -     -     -         1676    0    0 
+MacBeth   958662859  5  3 r   b     -     -         1676   60  160 
+MacBeth   958662914  5  2 Bc  k     k     k         1776   40    0 6h 3d
+MacBeth   958662932  5  1 Brc b     k     k         1736  100    0 9s Ks
+MacBeth   958662966  5  5 f   -     -     -         1636    0    0 
+MacBeth   958663001  5  4 r   -     -     -         1636   40   70 
+MacBeth   958663009  5  3 rrc r     b     b         1666  220  450 Tc Ah
+MacBeth   958663032  5  2 Bk  f     -     -         1896   20    0 
+MacBeth   958663047  5  1 Bf  -     -     -         1876   10    0 
+MacBeth   958663054  5  5 c   k     f     -         1866   20    0 
+MacBeth   958663082  6  5 f   -     -     -         1846    0    0 
+MacBeth   958663129  6  4 c   c     c     c         1846  140    0 9c Tc
+MacBeth   958663178  7  3 c   f     -     -         1706   20    0 
+MacBeth   958663206  7  2 Br  br    b     b         1686  200  530 Qc Ad
+MacBeth   958663267  7  1 BQ  -     -     -         2016   10    0 
+MacBeth   958698799  9  4 f   -     -     -         2006    0    0 
+MacBeth   958698835  9  3 f   -     -     -         2006    0    0 
+MacBeth   958698886 10  2 Bc  k     k     kf        2006   60    0 
+MacBeth   958698934 10  1 Bc  kf    -     -         1946   20    0 
+MacBeth   958698962 10 10 c   f     -     -         1926   40    0 
+MacBeth   958699025  9  8 rr  b     b     k         1886  140  530 Ah Ac
+MacBeth   958699083  9  7 f   -     -     -         2276    0    0 
+MacBeth   958699122 10  7 f   -     -     -         2276    0    0 
+MacBeth   958699161 10  6 c   bc    kc    k         2276  100    0 7d 5d
+MacBeth   958699205 10  5 c   cc    kf    -         2176   60    0 
+MacBeth   958699257 10  4 Q   -     -     -         2116    0    0 
+MacBeth   958701233 10  3 cc  kf    -     -         2116   40    0 
+MacBeth   958701280 10  2 Bf  -     -     -         2076   20    0 
+MacBeth   958701312 10  1 Bf  -     -     -         2056   10    0 
+MacBeth   958701344 10 10 f   -     -     -         2046    0    0 
+MacBeth   958701386 10  9 c   kf    -     -         2046   20    0 
+MacBeth   958701435 10  8 f   -     -     -         2026    0    0 
+MacBeth   958701501 10  7 f   -     -     -         2026    0    0 
+MacBeth   958701548 10  6 f   -     -     -         2026    0    0 
+MacBeth   958701612 10  5 cc  c     c     rc        2026  220    0 Th Jh
+MacBeth   958701668 10  4 f   -     -     -         1806    0    0 
+MacBeth   958701707 10  3 c   k     k     k         1806   20    0 Jh 9c
+MacBeth   958701768  9  1 BQ  -     -     -         1786   20    0 

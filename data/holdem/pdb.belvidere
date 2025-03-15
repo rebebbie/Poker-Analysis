@@ -1,0 +1,151 @@
+belvidere 957153747  7  3 c   c     f     -         1000   20    0 
+belvidere 957153781  6  2 Bc  kf    -     -          980   20    0 
+belvidere 957153821  7  1 Bc  k     k     b          960   30   80 Qc Jc
+belvidere 957153869  7  7 cc  f     -     -         1010   20    0 
+belvidere 957153897  7  6 c   kc    kf    -          990   20    0 
+belvidere 957153935  8  5 c   kf    -     -          970   10    0 
+belvidere 957154023  8  4 cc  cf    -     -          960   30    0 
+belvidere 957154056  8  3 f   -     -     -          930    0    0 
+belvidere 957154088  8  2 Bc  kf    -     -          930   20    0 
+belvidere 957154116  8  1 Bcc kc    kcc   kc         910  120  450 Qd Qh
+belvidere 957154202  8  8 c   k     f     -         1240   10    0 
+belvidere 957154232  7  7 c   k     k     b         1230   30   50 
+belvidere 957154282  8  6 c   kc    kc    k         1250   40    0 As 9h
+belvidere 957154392  7  4 c   k     k     k         1210   10   40 7h Kc
+belvidere 957154445  7  4 c   kc    kf    -         1240   20    0 
+belvidere 957154488  6  3 c   kf    -     -         1220   10    0 
+belvidere 957154525  6  2 Bk  k     k     kf        1210   10    0 
+belvidere 957154565  7  1 Bc  k     k     k         1200   10   30 Kc Ts
+belvidere 957154600  8  8 c   c     cf    -         1220   40    0 
+belvidere 957154677  8  7 fQ  -     -     -         1180    0    0 
+belvidere 957381818  8  2 Bk  kf    -     -          995   10    0 
+belvidere 957381877  8  1 Bc  bc    kc    kc         985   90    0 Jc 5d
+belvidere 957381928  8  8 c   f     -     -          895   20    0 
+belvidere 957381957  8  8 c   k     c     f          875   30    0 
+belvidere 957381994  7  6 c   f     -     -          845   10    0 
+belvidere 957382031  7  5 c   f     -     -          835   10    0 
+belvidere 957382062  7  4 c   k     r     b          825   70  230 3h 7h
+belvidere 957382092  7  3 cc  kf    -     -          985   20    0 
+belvidere 957382143  8  2 Bk  k     k     kf         965   10    0 
+belvidere 957382191  8  1 Bf  -     -     -          955    5    0 
+belvidere 957382231  8  8 c   bc    c     b          950   90    0 Qh 5d
+belvidere 957382303  8  7 c   f     -     -          860   10    0 
+belvidere 957382337  8  6 c   k     k     f          850   10    0 
+belvidere 957382362  9  5 c   kf    -     -          840   10    0 
+belvidere 957382392  9  4 c   kf    -     -          830   10    0 
+belvidere 957382438  9  3 cf  -     -     -          820   10    0 
+belvidere 957382490  9  2 Bc  cf    Q     -          810   30    0 
+belvidere 957389463  8  8 c   f     -     -          780   20    0 
+belvidere 957389511  9  7 f   -     -     -          760    0    0 
+belvidere 957389547  9  6 c   b     b     -          760   40   85 
+belvidere 957389574  9  5 c   kc    kc    kf         805   50    0 
+belvidere 957389642  9  4 cQ  -     -     -          755   10    0 
+belvidere 957389745  9  2 Bc  b     b     bc         745   90    0 Ts 5s
+belvidere 957389778  9  1 Bc  kf    -     -          655   10    0 
+belvidere 957389847  9  9 c   k     f     -          645   20    0 
+belvidere 957389902 10  9 c   f     -     -          625   20    0 
+belvidere 957389972 10  8 c   b     b     b          605   60  170 Ks 3h
+belvidere 957390047  9  6 c   k     c     k          715   30    0 Jc 5c
+belvidere 957390100  9  6 c   kf    -     -          685   10    0 
+belvidere 957390144  9  5 cc  k     kc    k          675   40    0 8d Ts
+belvidere 957390204  9  4 cc  b     bc    kf         635   70    0 
+belvidere 957390263  8  3 cc  f     -     -          565   20    0 
+belvidere 957390337 10  2 Bk  b     br    b          545  100  245 6c 6h
+belvidere 957390388  9  1 Bcc kc    kf    -          690   50    0 
+belvidere 957390465  9  9 c   f     -     -          640   30    0 
+belvidere 957390518  9  8 c   f     -     -          610   10    0 
+belvidere 957390588  9  7 c   f     -     -          600   10    0 
+belvidere 957390646  8  5 c   k     k     kc         590   40    0 8s 7c
+belvidere 957390734  8  4 c   f     -     -          550   10    0 
+belvidere 957390820  8  3 c   f     -     -          540   10    0 
+belvidere 957390888  8  2 Bc  kc    kc    brc        530  140  540 3c 5h
+belvidere 957390986  9  1 Bc  k     kf    -          930   10    0 
+belvidere 957391055 10 10 c   c     f     -          920   30    0 
+belvidere 957391203 10  9 c   k     k     b          890   40  110 Jh 5h
+belvidere 957391320 10  8 c   kf    -     -          960   10    0 
+belvidere 957391372 10  7 c   k     b     -          950   30   80 
+belvidere 957391445 10  6 c   f     -     -         1000   10    0 
+belvidere 957391518 10  4 Q   -     -     -          990    0    0 
+belvidere 957392135  8  5 c   kf    -     -          990   10    0 
+belvidere 957392172  8  4 c   c     rc    r          980  140  360 
+belvidere 957392211  7  3 cc  kf    -     -         1200   30    0 
+belvidere 957392268  7  2 Bc  c     b     b         1170   70  150 
+belvidere 957392330  6  1 Bc  bc    kc    kf        1250   80    0 
+belvidere 957392373  6  6 f   -     -     -         1170    0    0 
+belvidere 957392415  6  5 c   r     b     c         1170   80  250 2c 7d
+belvidere 957392470  7  4 c   kf    -     -         1340   10    0 
+belvidere 957392534  8  3 cc  f     -     -         1330   20    0 
+belvidere 957392658  8  2 Bc  kc    k     bc        1310   70    0 7c 9s
+belvidere 957392685  7  1 Bc  b     bc    k         1240   70  150 Ah 9h
+belvidere 957392723  6  6 c   c     c     b         1320   60  150 Tc 8c
+belvidere 957392779  5  4 c   k     k     k         1410   10   25 Jd 7c
+belvidere 957392799  6  4 c   f     -     -         1425   10    0 
+belvidere 957392843  6  3 cc  kcc   k     kc        1415   60    0 2h Th
+belvidere 957392900  6  2 Bc  k     f     -         1355   20    0 
+belvidere 957392932  6  1 Bc  b     -     -         1335   20   40 
+belvidere 957392955  6  6 f   Q     -     -         1355    0    0 
+belvidere 957409835  7  2 Bc  k     k     kf        1355   20    0 
+belvidere 957409901  8  1 Bc  kf    -     -         1335   10    0 
+belvidere 957409957  8  8 cc  c     f     -         1325   30    0 
+belvidere 957410032  8  7 c   c     c     b         1295   70    0 4d 2s
+belvidere 957410074  8  6 c   k     c     c         1225   50    0 2d Qc
+belvidere 957410170 10  5 c   c     c     f         1175   50    0 
+belvidere 957410212  8  3 c   kf    -     -         1125   10    0 
+belvidere 957410237  7  2 Bk  kf    -     -         1115   10    0 
+belvidere 957410309  8  1 Bccc kf    -     -         1105   40    0 
+belvidere 957410381  7  7 cc  f     -     -         1065   20    0 
+belvidere 957410414  7  6 cc  cf    -     -         1045   40    0 
+belvidere 957410459  7  5 cc  kc    k     k         1005   30    0 Qc Kc
+belvidere 957410513  7  4 f   -     -     -          975    0    0 
+belvidere 957410594  8  2 Bc  kc    kc    kc         975   70    0 Kc 6c
+belvidere 957410652  8  1 Bc  k     k     k          905   10   30 8s Ts
+belvidere 957410690  8  8 cc  f     -     -          925   20    0 
+belvidere 957410760  8  7 cc  cc    kc    f          905   80    0 
+belvidere 957410889  8  6 cc  kf    -     -          825   40    0 
+belvidere 957410958  8  5 cc  -     -     -          785   17    0 3c 7h
+belvidere 957410996  7  3 cc  kf    -     -          768   20    0 
+belvidere 957411029  7  2 Bc  kf    -     -          748   20    0 
+belvidere 957411084  7  1 Bcc kf    -     -          728   20    0 
+belvidere 957411121  8  8 cc  f     -     -          708   30    0 
+belvidere 957411155  8  7 cc  cc    k     k          678   40    0 9d 6c
+belvidere 957411236  7  5 cc  f     -     -          638   20    0 
+belvidere 957411299  8  5 cc  kf    -     -          618   20    0 
+belvidere 957411348  8  4 cc  f     -     -          598   20    0 
+belvidere 957411408  8  3 cc  kf    -     -          578   20    0 
+belvidere 957411458  8  2 Bc  kcc   kf    -          558   80    0 
+belvidere 957411561  9  1 Bc  k     b     b          478   50  100 
+belvidere 957411625  9  9 cc  c     c     cf         528  140    0 
+belvidere 957411736  9  8 c   Q     -     -          388   20    0 
+belvidere 957565133  7  7 c   k     Q     -          368   20    0 
+belvidere 958082389 10  7 cc  f     -     -          348   30    0 
+belvidere 958082509  9  6 cc  cc    c     f          318   60    0 
+belvidere 958082576  9  5 c   f     -     -          258   10    0 
+belvidere 958082625  9  4 c   kf    -     -          248   10    0 
+belvidere 958082680  9  3 c   b     -     -          238   20   45 
+belvidere 958082744  8  1 Br  kc    kQ    -          263   30    0 
+belvidere 958194982 10  3 cc  kf    -     -          233   20    0 
+belvidere 958195015 10  2 Bc  kf    -     -          213   20    0 
+belvidere 958195058 10  1 Bc  kc    kf    -          193   30    0 
+belvidere 958195127 10 10 c   c     f     -          163   20    0 
+belvidere 958195181 10  9 c   f     -     -          143   20    0 
+belvidere 958195224  9  7 c   b     b     k          123   40  160 Ac Qh
+belvidere 958195305  8  7 f   -     -     -          243    0    0 
+belvidere 958195349  9  6 f   -     -     -          243    0    0 
+belvidere 958195396  9  5 cc  f     -     -          243   20    0 
+belvidere 958195456  9  4 cc  rr    br    bc         223  170    0 4h 8d
+belvidere 958195547 10  3 cc  f     -     -           53   20    0 
+belvidere 958195627 10  2 Bk  bcA   -     -           33   33  147 Js 6d
+belvidere 958195668 10  1 Bc  kf    -     -          147   20    0 
+belvidere 958195728 10 10 cc  cc    f     -          127   80    0 
+belvidere 958195824 10  9 c   f     -     -           47   30    0 
+belvidere 958195905  9  7 cA  -     -     -           17   17    0 4h 2c
+belvidere 958195987  9  5 c   k     k     kf        1000   10    0 
+belvidere 958196072  9  5 c   b     c     f          990   40    0 
+belvidere 958196124  9  4 r   k     kc    kf         950   50    0 
+belvidere 958196205  9  3 c   kf    -     -          900   10    0 
+belvidere 958196272  9  2 Bc  kf    -     -          890   20    0 
+belvidere 958196337  9  1 Bc  kf    -     -          870   20    0 
+belvidere 958196456  6  6 c   k     k     k          850   10   25 9s 5s
+belvidere 958196480  6  5 c   f     -     -          865   20    0 
+belvidere 958196507  5  3 ccc f     -     -          845   40    0 
+belvidere 958196554  8  2 Bcc k     fQ    -          805   30    0 

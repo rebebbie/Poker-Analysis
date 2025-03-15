@@ -1,0 +1,110 @@
+Mathguy3  958741110  2  1 Brr brc   brc   br        1000  220  420 
+Mathguy3  958741140  2  2 Brc rr    rr    rf        1200  200    0 
+Mathguy3  958741193  2  1 Brr brc   brc   brf       1000  220    0 
+Mathguy3  958741214  2  2 Brc rr    rr    rf         780  200    0 
+Mathguy3  958741241  2  1 Brr brc   brc   brf        580  220    0 
+Mathguy3  958741261  2  2 Brc rr    rr    rr         360  240    0 4h 2d
+Mathguy3  958741291  2  1 Brr brc   kc    bA         120  120    0 4c Ah
+Mathguy3  958741368  2  1 Brr brc   brc   brc       1000  240    0 4d 6s
+Mathguy3  958741397  2  2 Brc rr    rr    rf         760  200    0 
+Mathguy3  958741427  2  1 Brr brc   brc   kc         560  180    0 4h Js
+Mathguy3  958741473  3  3 f   -     -     -          380    0    0 
+Mathguy3  958741498  3  2 Bk  c     k     c          380   40    0 Qc Ac
+Mathguy3  958741518  3  1 Bcc bc    kc    kc         340   80    0 Kh Ad
+Mathguy3  958741552  3  3 f   -     -     -          260    0    0 
+Mathguy3  958741567  3  2 Bc  r     -     -          260   40   70 
+Mathguy3  958741577  3  1 Bf  -     -     -          290    5    0 
+Mathguy3  958741593  3  3 c   c     c     f          285   40    0 
+Mathguy3  958741620  3  2 Bk  k     b     -          245   30   40 
+Mathguy3  958741633  3  1 Bc  kc    kf    -          255   20    0 
+Mathguy3  958741657  3  3 c   f     -     -          235   10    0 
+Mathguy3  958741669  3  2 Bc  c     c     r          225   90  180 Th Tc
+Mathguy3  958741683  3  1 Bcc kc    bc    kc         315   90    0 Js 6d
+Mathguy3  958741721  3  3 f   -     -     -          225    0    0 
+Mathguy3  958741728  3  2 Bf  -     -     -          225   10    0 
+Mathguy3  958741733  3  1 Bc  kc    kc    kf         215   40    0 
+Mathguy3  958741757  3  3 f   -     -     -          175    0    0 
+Mathguy3  958741768  3  2 B   -     -     -          175   10   15 
+Mathguy3  958741773  3  1 Bf  -     -     -          180    5    0 
+Mathguy3  958741776  3  3 c   c     f     -          175   20    0 
+Mathguy3  958741794  3  2 Bc  b     -     -          155   30   50 
+Mathguy3  958741805  3  1 Bc  kc    kf    -          175   20    0 
+Mathguy3  958741825  3  3 c   k     c     k          155   30   65 Ad Kd
+Mathguy3  958741839  3  2 Bc  k     c     c          190   60    0 Ac 9h
+Mathguy3  958741857  3  1 Bc  kf    -     -          130   20    0 
+Mathguy3  958741871  3  3 f   -     -     -          110    0    0 
+Mathguy3  958741885  3  2 Bk  kc    kc    kf         110   40    0 
+Mathguy3  958741909  3  1 Bcc kc    kf    -           70   30    0 
+Mathguy3  958741936  3  3 c   b     -     -           40   20   35 
+Mathguy3  958741950  3  2 Bf  -     -     -           55   10    0 
+Mathguy3  958741960  3  1 Bcc kf    -     -           45   20    0 
+Mathguy3  958741992  3  3 c   k     k     k           25   10    0 8d Jc
+Mathguy3  958742013  3  2 BrA -     -     -           15   15    0 7d Qd
+Mathguy3  958742088  3  3 f   -     -     -         1000    0    0 
+Mathguy3  958742112  3  2 Bk  k     f     -         1000   10    0 
+Mathguy3  958742128  3  1 Bf  -     -     -          990    5    0 
+Mathguy3  958742143  3  3 f   -     -     -          985    0    0 
+Mathguy3  958742149  3  2 Bc  c     k     k          985   30   60 Kh Ah
+Mathguy3  958742162  3  1 Bcc kc    kc    kf        1015   50    0 
+Mathguy3  958742190  3  3 f   -     -     -          965    0    0 
+Mathguy3  958742201  3  2 B   -     -     -          965   10   15 
+Mathguy3  958742205  3  1 Bf  -     -     -          970    5    0 
+Mathguy3  958742218  3  3 r   -     -     -          965   20   35 
+Mathguy3  958742224  3  2 Bk  b     -     -          980   20   30 
+Mathguy3  958742234  3  1 Bc  kc    kc    kf         990   40    0 
+Mathguy3  958742250  3  3 f   -     -     -          950    0    0 
+Mathguy3  958742253  3  2 Bk  c     c     c          950   60    0 4s 6d
+Mathguy3  958742270  3  1 Brc brc   krr   brf        890  210    0 
+Mathguy3  958742306  2  2 Br  f     -     -          680   30    0 
+Mathguy3  958742323  3  1 Bc  k     k     kf         650   10    0 
+Mathguy3  958742342  3  3 f   -     -     -          640    0    0 
+Mathguy3  958742347  3  2 B   -     -     -          640   10   15 
+Mathguy3  958742357  3  1 Bcc kf    -     -          645   20    0 
+Mathguy3  958742375  3  3 f   -     -     -          625    0    0 
+Mathguy3  958742378  3  2 Bk  k     k     f          625   10    0 
+Mathguy3  958742403  3  1 Bc  kc    kf    -          615   20    0 
+Mathguy3  958742417  3  3 f   -     -     -          595    0    0 
+Mathguy3  958742420  3  2 Bk  c     c     rr         595  120    0 9c 4c
+Mathguy3  958742451  3  1 Bc  kc    kc    kf         475   40    0 
+Mathguy3  958742474  3  3 f   -     -     -          435    0    0 
+Mathguy3  958742480  3  2 B   -     -     -          435   10   15 
+Mathguy3  958742486  3  1 Bc  bc    kc    b          440   70  150 8h Ad
+Mathguy3  958742541  3  3 cc  f     -     -          520   20    0 
+Mathguy3  958742577  3  2 B   -     -     -          500   10   15 
+Mathguy3  958742588  3  1 Bcc kf    -     -          505   20    0 
+Mathguy3  958742602  3  3 c   k     b     -          485   30   45 
+Mathguy3  958742623  3  2 Bk  kc    kf    -          500   20    0 
+Mathguy3  958742636  3  1 Bc  br    b     b          480   80  180 Js 9c
+Mathguy3  958742670  3  3 f   -     -     -          580    0    0 
+Mathguy3  958742719  3  2 B   -     -     -          580   10   15 
+Mathguy3  958742728  3  1 Bcc kc    kc    kf         585   50    0 
+Mathguy3  958742748  3  3 f   -     -     -          535    0    0 
+Mathguy3  958742762  3  2 Bf  -     -     -          535   10    0 
+Mathguy3  958742793  4  1 Bc  kf    -     -          525   10    0 
+Mathguy3  958742812  4  4 c   k     k     f          515   10    0 
+Mathguy3  958742846  4  3 f   -     -     -          505    0    0 
+Mathguy3  958742881  3  2 Bk  k     kf    -          505   10    0 
+Mathguy3  958742905  4  1 Bc  k     b     b          495   50   80 9d Js
+Mathguy3  958742943  4  4 f   -     -     -          525    0    0 
+Mathguy3  958742956  4  3 c   c     k     k          525   20    0 Kd 4d
+Mathguy3  958742970  3  2 B   -     -     -          505   10   15 
+Mathguy3  958742975  3  1 Bc  kc    kf    -          510   20    0 
+Mathguy3  958742987  3  3 f   -     -     -          490    0    0 
+Mathguy3  958743001  4  2 Bk  c     c     c          490   60    0 As 6d
+Mathguy3  958743018  4  1 Bc  kf    -     -          430   10    0 
+Mathguy3  958743049  4  4 f   -     -     -          420    0    0 
+Mathguy3  958743078  4  3 f   -     -     -          420    0    0 
+Mathguy3  958743098  4  2 Bk  k     b     -          420   30   45 
+Mathguy3  958743121  4  1 Bc  kf    -     -          435   10    0 
+Mathguy3  958743138  4  4 cc  cc    f     -          425   70    0 
+Mathguy3  958743198  4  3 f   -     -     -          355    0    0 
+Mathguy3  958743246  4  2 Bf  -     -     -          355   10    0 
+Mathguy3  958743270  5  1 Bc  kc    k     b          345   40   90 
+Mathguy3  958743305  5  5 f   -     -     -          395    0    0 
+Mathguy3  958743326  5  4 f   -     -     -          395    0    0 
+Mathguy3  958743350  5  3 f   -     -     -          395    0    0 
+Mathguy3  958743385  5  2 Bc  bc    k     b          395   60  125 3h Ts
+Mathguy3  958743416  5  1 Bc  kc    kf    -          460   20    0 
+Mathguy3  958743453  6  6 c   c     c     f          440   80    0 
+Mathguy3  958743491  6  5 f   -     -     -          360    0    0 
+Mathguy3  958743526  5  3 f   Q     -     -          360    0    0 

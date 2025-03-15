@@ -1,0 +1,867 @@
+Grifter   957485020 10 10 f   -     -     -          838    0    0 
+Grifter   957485081 10  9 f   -     -     -          838    0    0 
+Grifter   957485123 10  8 c   b     c     r          838   80  170 
+Grifter   957485201 10  7 c   kf    -     -          928   10    0 
+Grifter   957485294  8  5 c   k     k     rf         918   50    0 
+Grifter   957485375  8  5 f   -     -     -          868    0    0 
+Grifter   957485458  6  2 Bk  k     b     b          868   50  110 7h 4h
+Grifter   957485507  5  1 Bf  -     -     -          928    5    0 
+Grifter   957485525  4  4 c   k     k     k          923   10    0 Th 9h
+Grifter   957485555  4  3 f   -     -     -          913    0    0 
+Grifter   957485561  4  2 Bc  br    b     b          913   90  185 9s Qs
+Grifter   957485584  4  1 Bc  kf    -     -         1008   10    0 
+Grifter   957485597  4  4 f   -     -     -          998    0    0 
+Grifter   957485625  5  4 f   -     -     -          998    0    0 
+Grifter   957485657  7  5 cc  k     k     k          998   20   55 4s Qs
+Grifter   957485686  8  5 c   f     -     -         1033   10    0 
+Grifter   957485709  8  4 f   -     -     -         1023    0    0 
+Grifter   957485783  7  3 rr  kc    kc    kc        1023   90    0 Kc Kd
+Grifter   957485830  9  3 c   f     -     -          933   10    0 
+Grifter   957485890  9  2 Bcc kf    -     -          923   40    0 
+Grifter   957485975  9  1 Bc  b     b     b          883   60  160 
+Grifter   957486024  9  9 f   -     -     -          983    0    0 
+Grifter   957486072  9  8 f   -     -     -          983    0    0 
+Grifter   957486094  8  6 f   -     -     -          983    0    0 
+Grifter   957486152  7  4 f   -     -     -          983    0    0 
+Grifter   957486174  9  4 c   k     c     c          983   50    0 9s Kd
+Grifter   957486216 10  3 f   -     -     -          933    0    0 
+Grifter   957486278 10  2 Bk  kf    -     -          933   10    0 
+Grifter   957486352  9  1 Bc  kf    -     -          923   10    0 
+Grifter   957486434 10 10 c   b     b     -          913   40   90 
+Grifter   957486484 10  3 Q   -     -     -          963    0    0 
+Grifter   957829511  4  2 Bc  kf    -     -          963   20    0 
+Grifter   957829526  4  1 Bc  k     b     -          943   30   50 
+Grifter   957829558  4  4 Q   -     -     -          963    0    0 
+Grifter   957829702  5  5 rc  r     r     b          963  110    0 Ks Qc
+Grifter   957829762  6  4 c   c     f     -          853   20    0 
+Grifter   957829786  6  3 c   b     -     -          833   20   35 
+Grifter   957829803  6  2 Bk  k     k     kf         848   10    0 
+Grifter   957829852  6  1 Bf  -     -     -          838    5    0 
+Grifter   957829867  6  6 c   f     -     -          833   10    0 
+Grifter   957829884  6  5 f   -     -     -          823    0    0 
+Grifter   957829893  6  4 f   -     -     -          823    0    0 
+Grifter   957829909  6  3 r   r     b     b          823   80  170 Ad 9d
+Grifter   957829932  6  2 BfQ -     -     -          913   10    0 
+Grifter   957911182  9  3 rr  brc   bc    c          903  140    0 As Ac
+Grifter   957911278 10  2 Bk  kf    -     -          763   10    0 
+Grifter   957911333 10  1 Bc  b     b     -          753   40   70 
+Grifter   957911362 10 10 r   k     f     -          783   20    0 
+Grifter   957911467  8  7 f   -     -     -          763    0    0 
+Grifter   957911528  7  5 f   -     -     -          763    0    0 
+Grifter   957911563  7  4 f   -     -     -          763    0    0 
+Grifter   957911621  7  3 cc  kc    kf    -          763   30    0 
+Grifter   957911677  8  2 Bk  kf    -     -          733   10    0 
+Grifter   957911737  8  1 Bf  -     -     -          723    5    0 
+Grifter   957911792  8  8 c   c     b     k          718   40    0 6d 5s
+Grifter   957911858  7  6 rc  c     f     -          678   50    0 
+Grifter   957911937  6  4 f   -     -     -          628    0    0 
+Grifter   957911984  6  3 c   f     -     -          628   10    0 
+Grifter   957912007  6  2 Bf  -     -     -          618   10    0 
+Grifter   957912016  6  1 Bc  kc    kf    -          608   20    0 
+Grifter   957912102  7  6 Q   -     -     -          588    0    0 
+Grifter   958063075  6  3 f   -     -     -          933    0    0 
+Grifter   958063104  6  2 Bk  c     c     r          933   80    0 7d Qd
+Grifter   958063125  6  1 Bc  k     kQ    -          853   10    0 
+Grifter   958135202 10  2 Bf  -     -     -          693   10    0 
+Grifter   958135217 10  1 Bf  -     -     -          683    5    0 
+Grifter   958135243 10 10 c   c     c     f          678   40    0 
+Grifter   958135315  9  8 r   b     b     b          638   70  150 
+Grifter   958135361  9  8 r   b     b     b          718   70  195 Jc Jd
+Grifter   958135398  9  7 c   c     c     k          843   50  125 5d 3h
+Grifter   958135422  9  6 f   -     -     -          918    0    0 
+Grifter   958135453  8  5 c   c     f     -          918   30    0 
+Grifter   958135475  8  4 c   f     -     -          888   10    0 
+Grifter   958135512  8  3 c   f     -     -          878   10    0 
+Grifter   958135540  8  2 Bk  kf    -     -          868   10    0 
+Grifter   958135577  8  1 Bf  -     -     -          858    5    0 
+Grifter   958135596  8  8 c   c     c     r          853   90  290 7c 9s
+Grifter   958135645  8  7 c   f     -     -         1053   10    0 
+Grifter   958135682  8  6 c   f     -     -         1043   10    0 
+Grifter   958135721  9  5 f   -     -     Q         1033    0    0 
+Grifter   958135901 10  3 f   -     -     -         1033    0    0 
+Grifter   958135939 10  2 Bk  k     kf    -         1033   10    0 
+Grifter   958136056 10  1 Bc  kf    -     -         1023   10    0 
+Grifter   958136094 10 10 f   -     -     -         1013    0    0 
+Grifter   958136184  8  7 f   -     -     -         1013    0    0 
+Grifter   958136221 10  8 r   c     f     -         1013   30    0 
+Grifter   958136287  9  6 f   -     -     -          983    0    0 
+Grifter   958136331  8  4 r   c     f     -          983   30    0 
+Grifter   958136379  7  3 f   -     -     -          953    0    0 
+Grifter   958136415  7  2 Br  b     b     k          953   50    0 Qh Ts
+Grifter   958136449  7  1 Bf  -     -     -          903    5    0 
+Grifter   958136475  7  7 f   -     -     -          898    0    0 
+Grifter   958136512  7  6 c   f     -     -          898   20    0 
+Grifter   958136571  7  5 r   c     c     f          878   50    0 
+Grifter   958136606  7  4 cc  f     -     -          828   20    0 
+Grifter   958136678  7  3 cc  kc    kf    -          808   30    0 
+Grifter   958136722  7  2 Bf  -     -     -          778   10    0 
+Grifter   958136765  8  1 Bc  kf    -     -          768   10    0 
+Grifter   958136859  5  5 rr  br    b     b          758  110  210 
+Grifter   958136891  5  4 c   k     k     b          858   30   50 
+Grifter   958136910  5  3 f   -     -     -          878    0    0 
+Grifter   958136939  5  2 Bk  f     -     -          878   10    0 
+Grifter   958136956  5  1 Bc  k     k     k          868   10   20 2c 8s
+Grifter   958136979  5  5 r   b     b     b          878   70  195 Jd Ac
+Grifter   958137006  4  3 cc  cc    f     Q         1003   40    0 
+Grifter   958137207  5  4 cc  k     c     r          963   90  240 Ks 9h
+Grifter   958137253  5  3 f   -     -     -         1113    0    0 
+Grifter   958137267  5  2 Bf  -     -     -         1113   10    0 
+Grifter   958137281  5  1 Bf  -     -     -         1103    5    0 
+Grifter   958137306  5  5 f   -     -     -         1098    0    0 
+Grifter   958137318  4  3 f   -     -     -         1098    0    0 
+Grifter   958137335  4  2 Bk  kf    -     -         1098   10    0 
+Grifter   958137349  4  1 Bc  kf    -     -         1088   10    0 
+Grifter   958137379  5  5 f   -     -     -         1078    0    0 
+Grifter   958137408  5  4 c   b     bc    f         1078   60    0 
+Grifter   958137443  5  3 f   -     -     -         1018    0    0 
+Grifter   958137458  5  2 Bc  f     -     -         1018   20    0 
+Grifter   958137501  6  1 Bc  b     b     b          998   60  130 7s Jc
+Grifter   958137520  6  6 f   -     -     -         1068    0    0 
+Grifter   958137550  6  5 f   -     -     -         1068    0    0 
+Grifter   958137575  6  4 c   f     -     -         1068   10    0 
+Grifter   958137599  5  2 Bk  kc    k     b         1058   40   90 
+Grifter   958137625  5  1 Bc  k     k     k         1108   10    0 6h 9d
+Grifter   958137642  5  5 f   -     -     -         1098    0    0 
+Grifter   958137677  5  4 c   r     r     b         1098   90  290 8c 5c
+Grifter   958137710  5  3 c   b     k     c         1298   40    0 8d 8h
+Grifter   958137741  5  2 Bk  r     b     b         1258   70    0 8h 7c
+Grifter   958137762  5  1 Bc  b     -     -         1188   20   30 
+Grifter   958137772  5  5 f   -     -     -         1198    0    0 
+Grifter   958137782  6  5 c   f     -     -         1198   10    0 
+Grifter   958137801  6  4 cc  f     -     -         1188   20    0 
+Grifter   958137821  6  3 cc  k     f     -         1168   20    0 
+Grifter   958137872  7  2 Bk  k     br    b         1148   90    0 8d 9c
+Grifter   958137902  7  1 Br  bc    kc    kr        1058  110  340 Ah Jh
+Grifter   958137955  8  8 f   -     -     -         1288    0    0 
+Grifter   958137976  8  7 c   f     -     -         1288   10    0 
+Grifter   958138004  8  6 r   b     b     b         1278   70  155 Qc Ah
+Grifter   958138031  8  5 rc  kc    kc    k         1363   60    0 Js Qc
+Grifter   958138064  8  4 f   -     -     -         1303    0    0 
+Grifter   958138097  8  3 c   b     -     -         1303   20   45 
+Grifter   958138121  7  2 Bk  b     b     b         1328   60  195 Th 9c
+Grifter   958138157  7  1 Bc  k     kf    -         1463   10    0 
+Grifter   958138221  7  7 f   -     -     -         1453    0    0 
+Grifter   958138244  7  6 fQ  -     -     -         1453    0    0 
+Grifter   958237930  9  2 cc  kc    kf    -         1263   30    0 
+Grifter   958237962  9  2 Bf  -     -     -         1233   10    0 
+Grifter   958238008  9  1 Bc  bc    kc    k         1223   60    0 8h 8c
+Grifter   958238066  9  9 cc  k     k     f         1163   20    0 
+Grifter   958238122  9  8 rc  b     -     -         1143   50  180 
+Grifter   958238166  9  7 f   -     -     -         1273    0    0 
+Grifter   958238214  9  6 f   -     -     -         1273    0    0 
+Grifter   958238235  9  5 f   -     -     -         1273    0    0 
+Grifter   958238278 10  5 f   -     -     -         1273    0    0 
+Grifter   958238346 10  4 f   -     -     -         1273    0    0 
+Grifter   958238381 10  3 cc  f     -     -         1273   20    0 
+Grifter   958238435 10  2 Bk  k     k     k         1253   10    0 4c 8h
+Grifter   958238494 10  1 Bf  -     -     -         1243    5    0 
+Grifter   958238541 10 10 c   r     c     f         1238   60    0 
+Grifter   958238591 10  9 f   -     -     -         1178    0    0 
+Grifter   958238613 10  8 c   k     bc    k         1178   50    0 7s Ah
+Grifter   958238690 10  7 rc  b     b     kf        1128   70    0 
+Grifter   958238741 10  6 f   -     -     -         1058    0    0 
+Grifter   958238784 10  5 f   -     -     -         1058    0    0 
+Grifter   958238836 10  4 f   -     -     -         1058    0    0 
+Grifter   958238873 10  3 c   k     b     b         1058   50  120 
+Grifter   958238910 10  2 Bk  b     kc    kf        1128   40    0 
+Grifter   958238951 10  1 Bf  -     -     -         1088    5    0 
+Grifter   958239010 10 10 c   k     c     k         1083   30    0 Js 9s
+Grifter   958239048 10  9 f   -     -     -         1053    0    0 
+Grifter   958239105 10  8 cc  bc    kf    -         1053   40    0 
+Grifter   958239204 10  7 f   -     -     -         1013    0    0 
+Grifter   958239267 10  6 fQ  -     -     -         1013    0    0 
+Grifter   958338429  7  6 c   k     k     k          990   20   75 7c Jc
+Grifter   958338507  7  5 c   b     b     k         1045   40  130 Td 2d
+Grifter   958338556  7  4 cQ  -     -     -         1135   10    0 
+Grifter   958338772  7  7 f   -     -     -         1125    0    0 
+Grifter   958338812  7  6 f   -     -     -         1125    0    0 
+Grifter   958338877  5  4 c   c     f     -         1125   20    0 
+Grifter   958338899  4  3 f   -     Q     -         1105    0    0 
+Grifter   958357982  7  2 Bf  -     -     -         1350   10    0 
+Grifter   958358055  8  1 Bc  k     kf    -         1340   10    0 
+Grifter   958358084  8  8 c   c     c     k         1330   40    0 Js Jh
+Grifter   958358123  9  7 f   -     -     -         1290    0    0 
+Grifter   958358167 10  6 f   -     -     -         1290    0    0 
+Grifter   958358215 10  5 f   -     -     -         1290    0    0 
+Grifter   958358260 10  4 c   b     bf    -         1290   40    0 
+Grifter   958358354 10  3 cc  kf    -     -         1250   20    0 
+Grifter   958358414 10  2 Bk  k     kf    -         1230   10    0 
+Grifter   958358460 10  1 Brr bcc   kf    -         1220   80    0 
+Grifter   958358569 10 10 c   k     f     -         1140   10    0 
+Grifter   958358634 10  9 c   k     f     -         1130   10    0 
+Grifter   958358690 10  8 c   r     brc   k         1120  110    0 Ac 8c
+Grifter   958358747 10  7 c   f     -     -         1010   10    0 
+Grifter   958358821 10  6 c   kc    k     kc        1000   40    0 8s Jd
+Grifter   958358928 10  5 r   r     r     k          960   80    0 Kh 8h
+Grifter   958358974 10  4 f   -     -     -          880    0    0 
+Grifter   958359001 10  3 f   -     -     -          880    0    0 
+Grifter   958359063 10  2 Bf  -     -     -          880   10    0 
+Grifter   958359105 10  1 Br  b     b     -          870   70  150 
+Grifter   958359164 10 10 r   r     b     rc         950  120    0 Jd Qc
+Grifter   958359243 10  9 c   f     -     -          830   20    0 
+Grifter   958359293 10  8 f   -     -     -          810    0    0 
+Grifter   958359326 10  7 c   k     f     -          810   10    0 
+Grifter   958359362 10  6 c   f     -     -          800   10    0 
+Grifter   958359453 10  5 f   -     -     -          790    0    0 
+Grifter   958359502 10  4 c   f     -     -          790   10    0 
+Grifter   958359555 10  3 f   -     -     -          780    0    0 
+Grifter   958359637 10  2 Bk  c     c     c          780   60    0 4d Ks
+Grifter   958359693 10  1 Bc  kQ    -     -          720   10    0 
+Grifter   958418723 10  8 r   c     c     c          710   80    0 Jc Qs
+Grifter   958418785 10  7 cf  -     -     -          630   10    0 
+Grifter   958418844 10  6 f   -     -     -          620    0    0 
+Grifter   958418872 10  5 r   b     kc    kf         620   50    0 
+Grifter   958418915 10  4 rr  k     k     k          570   40  205 Ah Th
+Grifter   958418974 10  4 c   k     b     b          735   50  135 
+Grifter   958419007  9  2 Bf  -     -     -          820   10    0 
+Grifter   958419068  9  1 Bc  kf    -     -          810   10    0 
+Grifter   958419129 10 10 c   f     -     -          800   20    0 
+Grifter   958419235 10  9 cc  k     b     f          780   40    0 
+Grifter   958419291 10  9 c   r     b     b          740   70  140 
+Grifter   958419381 10  7 r   f     -     -          810   20    0 
+Grifter   958419447 10  6 rr  rc    c     c          790  110    0 Ac Jh
+Grifter   958419532 10  5 r   b     b     b          680   70    0 9h Qh
+Grifter   958419631  9  4 ccc kc    k     kc         610   80  355 7s 8h
+Grifter   958419714 10  3 cf  -     -     -          885   10    0 
+Grifter   958419759 10  2 Brc kc    kf    -          875   50    0 
+Grifter   958419840 10  1 Bf  -     -     -          825    5    0 
+Grifter   958419902 10 10 f   -     -     -          820    0    0 
+Grifter   958419989 10  9 f   -     -     -          820    0    0 
+Grifter   958420036 10  8 f   -     -     -          820    0    0 
+Grifter   958420101 10  7 f   -     -     -          820    0    0 
+Grifter   958420200  9  5 cf  -     -     -          820   10    0 
+Grifter   958420271 10  5 cc  f     -     -          810   20    0 
+Grifter   958420328 10  4 f   -     -     -          790    0    0 
+Grifter   958420377 10  3 f   -     -     -          790    0    0 
+Grifter   958420446 10  2 Bf  -     -     -          790   10    0 
+Grifter   958420459 10  1 Bc  k     k     b          780   30   50 
+Grifter   958420496 10 10 f   -     -     -          800    0    0 
+Grifter   958420556 10  9 c   c     cc    k          800  120    0 Ac Th
+Grifter   958420621 10  8 cc  f     -     -          680   40    0 
+Grifter   958420681 10  3 Q   -     -     -          640    0    0 
+Grifter   958583123 10  2 Bf  -     -     -          640   10    0 
+Grifter   958583170 10  1 Bf  -     -     -          630    5    0 
+Grifter   958583226 10 10 cc  c     c     c          625   90    0 Th Tc
+Grifter   958583326 10  9 f   -     -     -          535    0    0 
+Grifter   958583387 10  8 r   r     r     b          535  110    0 Ts As
+Grifter   958583432 10  7 r   bc    kc    k          425   80    0 Qs Kh
+Grifter   958583477 10  6 f   -     -     -          345    0    0 
+Grifter   958583538 10  5 f   -     -     -          345    0    0 
+Grifter   958583611 10  4 r   b     b     b          345   70  225 Ah 9s
+Grifter   958583661 10  3 f   -     -     -          500    0    0 
+Grifter   958583755 10  2 Bf  -     -     -          500   10    0 
+Grifter   958583804 10  1 Bcc krr   brc   brc        490  240    0 5h 8h
+Grifter   958583895 10 10 f   -     -     -          250    0    0 
+Grifter   958583966 10  9 r   KQ    -     -          250   30    0 
+Grifter   958584098 10  7 r   r     b     br         220  120  345 Td Ac
+Grifter   958584166 10  6 r   r     b     b          445   90  315 4d 4s
+Grifter   958584223 10  5 r   kf    -     -          670   20    0 
+Grifter   958584279 10  4 cc  k     brc   brc        650  180  217 9s 8h
+Grifter   958584339 10  3 c   f     -     -          687   10    0 
+Grifter   958584416 10  2 Br  b     b     b          677   80  295 
+Grifter   958584461 10  1 Bf  -     -     -          892    5    0 
+Grifter   958584499 10 10 f   -     -     -          887    0    0 
+Grifter   958584555  9  8 f   -     -     -          887    0    0 
+Grifter   958584591 10  8 f   -     -     -          887    0    0 
+Grifter   958584625 10  7 r   r     r     r          887  120  400 Ac Ks
+Grifter   958584687 10  6 f   -     -     -         1167    0    0 
+Grifter   958584726 10  5 cf  -     -     -         1167   10    0 
+Grifter   958584777 10  4 rr  b     b     -         1157   70  325 
+Grifter   958584831 10  3 rc  bc    kc    kc        1412  100  215 Ah Kc
+Grifter   958584937 10  2 Bf  -     -     -         1527   10    0 
+Grifter   958585039 10  1 Bcf -     -     -         1517   20    0 
+Grifter   958585158 10 10 cc  rc    c     c         1497  120  400 9c Ts
+Grifter   958585247 10  9 cc  c     c     r         1777  110  520 Th 5h
+Grifter   958585334  9  5 Q   -     -     -         2187    0    0 
+Grifter   958613666  9  9 c   b     c     c         2770   60  160 Ah Qd
+Grifter   958613748  8  8 c   c     f     -         2850   20    0 
+Grifter   958613856  9  7 c   k     k     c         2810   30    0 7h 7c
+Grifter   958613903 10  7 f   -     -     -         2780    0    0 
+Grifter   958613967 10  6 f   -     -     -         2780    0    0 
+Grifter   958614042 10  5 f   -     -     -         2740    0    0 
+Grifter   958614156 10  4 c   ccc   cc    f         2730   90    0 
+Grifter   958614231 10  3 f   -     -     -         2640    0    0 
+Grifter   958614305 10  2 Bf  -     -     -         2640   10    0 
+Grifter   958614363 10  1 Bf  -     -     -         2490    5    0 
+Grifter   958614433 10 10 c   f     -     -         2485   10    0 
+Grifter   958614528 10  9 r   c     c     r         2475  100  410 Kh Qs
+Grifter   958614645 10  8 f   -     -     -         2745    0    0 
+Grifter   958614712 10  8 f   -     -     -         2745    0    0 
+Grifter   958614752 10  6 f   -     -     -         2745    0    0 
+Grifter   958614836 10  5 f   -     -     -         2745    0    0 
+Grifter   958614879 10  4 c   b     b     b         2745   60  170 Kd 2d
+Grifter   958615010  9  2 Bk  kc    kf    -         2775   20    0 
+Grifter   958615115  9  1 Bf  -     -     -         2745    5    0 
+Grifter   958615158  8  8 fQ  -     -     -         2700    0    0 
+Grifter   958684992 10  7 f   -     -     -         1875    0    0 
+Grifter   958685104 10  6 c   bc    k     c         1875   50    0 Td Tc
+Grifter   958685208  9  4 f   -     -     -         1825    0    0 
+Grifter   958685253  9  3 f   -     -     -         1825    0    0 
+Grifter   958685318  9  2 Bk  kf    -     -         1825   10    0 
+Grifter   958685400 10  1 Bc  k     k     bc        1815   50    0 Kc 9d
+Grifter   958685463 10 10 f   -     -     -         1765    0    0 
+Grifter   958685519 10  9 cc  k     f     -         1765   30    0 
+Grifter   958685604 10  8 f   -     -     -         1735    0    0 
+Grifter   958685696 10  7 c   kf    -     -         1735   10    0 
+Grifter   958685764 10  6 f   -     -     -         1725    0    0 
+Grifter   958685803 10  5 f   -     -     -         1725    0    0 
+Grifter   958685846 10  4 f   -     -     -         1725    0    0 
+Grifter   958685862 10  3 f   -     -     -         1725    0    0 
+Grifter   958685919 10  2 Bc  c     f     -         1725   30    0 
+Grifter   958685959  9  1 Bf  -     -     -         1695    5    0 
+Grifter   958686064 10 10 f   -     -     -         1690    0    0 
+Grifter   958686093 10  9 f   -     -     -         1690    0    0 
+Grifter   958686187  9  7 c   f     -     -         1690   10    0 
+Grifter   958686237  9  7 f   -     -     -         1680    0    0 
+Grifter   958686285  8  6 f   -     -     -         1680    0    0 
+Grifter   958686313  8  5 f   -     -     -         1680    0    0 
+Grifter   958686342  8  4 r   b     bc    c         1680   90    0 Ac Ad
+Grifter   958686376  8  3 f   -     -     -         1590    0    0 
+Grifter   958686410  9  2 Bk  fQ    -     -         1590   10    0 
+Grifter   958689230 10  6 f   -     -     -         1490    0    0 
+Grifter   958689284 10  3 Q   -     -     -         1490    0    0 
+Grifter   958699813  9  2 Bk  b     -     -         1495   20   40 
+Grifter   958699853  7  1 Bcf Q     -     -         1515   10    0 
+Grifter   958751266  9  3 f   -     -     -         1505    0    0 
+Grifter   958751325  9  2 Bf  -     -     -         1505   10    0 
+Grifter   958751391 10  1 Bc  kf    -     -         1495   20    0 
+Grifter   958751435 10 10 rc  k     f     -         1475   40    0 
+Grifter   958751520 10  9 r   c     c     b         1435   70  290 Ah Qd
+Grifter   958751606 10  8 f   -     -     -         1655    0    0 
+Grifter   958751663 10  7 f   -     -     -         1655    0    0 
+Grifter   958751719 10  6 f   -     -     -         1655    0    0 
+Grifter   958751774 10  5 c   c     kf    -         1655   20    0 
+Grifter   958751873 10  4 c   k     c     f         1635   30    0 
+Grifter   958751964 10  3 ccc kc    kc    k         1605   70  320 Td Kc
+Grifter   958752037 10  2 Bf  -     -     -         1855   10    0 
+Grifter   958752069  9  1 Bf  -     -     -         1845    5    0 
+Grifter   958752159  9  9 c   c     f     -         1840   30    0 
+Grifter   958752206  9  8 f   -     -     -         1810    0    0 
+Grifter   958752271  9  7 c   f     -     -         1810   10    0 
+Grifter   958752337  9  6 f   -     -     -         1800    0    0 
+Grifter   958752380  8  5 f   -     -     -         1800    0    0 
+Grifter   958752452  8  4 f   -     -     -         1800    0    0 
+Grifter   958752488  8  3 f   -     -     -         1800    0    0 
+Grifter   958752548  9  2 Bk  bc    k     bc        1800   70    0 Td Qc
+Grifter   958752622 10  1 Bc  br    bc    kc        1730  130    0 Qc Tc
+Grifter   958752714  9  9 f   -     -     -         1600    0    0 
+Grifter   958752787 10  9 c   c     r     b         1600   90  225 Ts Qc
+Grifter   958752849 10  8 cc  kc    k     kf        1735   30    0 
+Grifter   958752917 10  7 f   -     -     -         1705    0    0 
+Grifter   958752987 10  6 c   k     f     -         1705   10    0 
+Grifter   958753037  9  4 rc  br    b     bf        1695  100    0 
+Grifter   958753142  8  3 f   -     -     -         1595    0    0 
+Grifter   958753206  8  2 Bc  kc    kr    b         1595   90  185 Qc Kd
+Grifter   958753246  7  1 Bc  kc    k     k         1690   20   80 Tc 8s
+Grifter   958753316  6  6 f   -     -     -         1750    0    0 
+Grifter   958753368  6  5 f   -     -     -         1750    0    0 
+Grifter   958753398  6  4 f   -     -     -         1750    0    0 
+Grifter   958753462  5  3 cc  c     c     c         1750   70    0 9s Ks
+Grifter   958753509  7  4 f   -     -     -         1680    0    0 
+Grifter   958753557  7  3 f   -     -     -         1680    0    0 
+Grifter   958753617  7  2 Bk  b     b     b         1680   60  130 Ad 7c
+Grifter   958753644  6  1 Bc  k     b     b         1750   50  110 Ah 7d
+Grifter   958753708  6  6 c   k     f     -         1810   10    0 
+Grifter   958753752  6  5 f   -     -     -         1800    0    0 
+Grifter   958753811  6  4 f   -     -     -         1800    0    0 
+Grifter   958753854  6  3 f   -     -     -         1800    0    0 
+Grifter   958753900  6  2 Bf  -     -     -         1800   10    0 
+Grifter   958753957  6  1 Bc  kf    -     -         1790   10    0 
+Grifter   958753989  6  6 f   -     -     -         1780    0    0 
+Grifter   958754021  6  5 f   -     -     -         1780    0    0 
+Grifter   958754081  7  4 f   -     -     -         1780    0    0 
+Grifter   958754122  8  4 f   -     -     -         1780    0    0 
+Grifter   958754135  8  3 f   -     -     -         1780    0    0 
+Grifter   958754172  7  2 Bf  -     -     -         1780   10    0 
+Grifter   958754207  7  1 Bc  k     b     kf        1770   30    0 
+Grifter   958754237  6  6 f   -     -     -         1740    0    0 
+Grifter   958754307  6  6 f   -     -     -         1740    0    0 
+Grifter   958754341  7  6 f   -     -     -         1740    0    0 
+Grifter   958754402  6  4 r   bf    -     -         1740   30    0 
+Grifter   958754450  7  4 f   -     -     -         1710    0    0 
+Grifter   958754494  7  3 f   -     -     -         1710    0    0 
+Grifter   958754512  7  2 Bk  k     k     k         1710   10    0 4h Qd
+Grifter   958754564  8  1 Bf  -     -     -         1700    5    0 
+Grifter   958754626  9  9 f   -     -     -         1695    0    0 
+Grifter   958754703 10  9 cc  f     -     -         1695   30    0 
+Grifter   958754774 10  8 f   -     -     -         1665    0    0 
+Grifter   958754883  8  5 f   -     -     -         1665    0    0 
+Grifter   958754925  6  4 r   b     b     -         1665   50   85 
+Grifter   958754948  6  3 f   -     -     -         1700    0    0 
+Grifter   958754975  6  2 Bk  kf    -     -         1700   10    0 
+Grifter   958755022  7  1 Bc  kf    -     -         1690   10    0 
+Grifter   958755109  7  7 c   k     f     -         1680   10    0 
+Grifter   958755133  7  6 c   k     f     -         1670   10    0 
+Grifter   958755173  7  5 cc  kc    kc    kf        1660   50    0 
+Grifter   958755220  7  4 f   -     -     -         1610    0    0 
+Grifter   958755243  7  3 f   -     -     -         1610    0    0 
+Grifter   958755283  6  2 Br  b     -     -         1610   30   55 
+Grifter   958755303  6  1 Br  b     b     b         1635   70  210 
+Grifter   958755341  6  6 f   -     -     -         1775    0    0 
+Grifter   958755350  6  5 c   r     b     f         1775   50    0 
+Grifter   958755384  5  4 c   b     -     -         1725   20   35 
+Grifter   958755405  4  3 f   -     -     -         1740    0    0 
+Grifter   958755423  4  2 Bk  b     -     -         1740   20   35 
+Grifter   958755452  4  1 Bc  b     -     -         1755   20   30 
+Grifter   958755471  5  5 cc  k     f     -         1765   20    0 
+Grifter   958755535  6  4 f   -     -     -         1745    0    0 
+Grifter   958755549  7  3 f   -     -     -         1745    0    0 
+Grifter   958755586  7  2 Bf  -     -     -         1745   10    0 
+Grifter   958755640  7  1 Bf  -     -     -         1735    5    0 
+Grifter   958755671  7  7 c   b     b     b         1730   60  160 
+Grifter   958755712  7  6 fQ  -     -     -         1830    0    0 
+Grifter   958755906  7  6 f   -     -     -         1830    0    0 
+Grifter   958755934  7  5 f   -     -     -         1830    0    0 
+Grifter   958755977  7  4 c   f     -     -         1830   20    0 
+Grifter   958756006  7  3 f   -     -     -         1810    0    0 
+Grifter   958756032  7  2 Bk  kf    -     -         1810   10    0 
+Grifter   958756089  8  1 Bf  -     -     -         1800    5    0 
+Grifter   958756133  7  7 f   -     -     -         1795    0    0 
+Grifter   958756167  7  6 f   -     -     -         1795    0    0 
+Grifter   958756216  7  5 c   k     f     -         1795   20    0 
+Grifter   958756255  8  4 f   -     -     -         1775    0    0 
+Grifter   958756311  9  4 cc  kc    kc    k         1775   50    0 Kd Ts
+Grifter   958756372 10  4 c   c     k     f         1725   30    0 
+Grifter   958756411 10  3 cc  kf    -     -         1695   20    0 
+Grifter   958756480 10  2 Bf  -     -     -         1675   10    0 
+Grifter   958756560 10  1 Bc  kr    b     b         1665   90    0 8d 9d
+Grifter   958756626 10 10 f   -     -     -         1575    0    0 
+Grifter   958756665 10  9 c   k     b     b         1575   60  130 
+Grifter   958756715 10  8 c   b     kf    -         1645   30    0 
+Grifter   958756790  9  6 c   f     -     -         1615   10    0 
+Grifter   958756815 10  6 f   -     -     -         1605    0    0 
+Grifter   958756881 10  5 c   kc    b     kc        1605   70    0 9d 9c
+Grifter   958756944 10  4 f   -     -     -         1535    0    0 
+Grifter   958756986 10  3 f   -     -     -         1535    0    0 
+Grifter   958757030 10  2 Bk  kc    kc    kf        1535   40    0 
+Grifter   958757113  9  1 Bf  -     -     -         1495    5    0 
+Grifter   958757174  9  9 f   -     -     -         1490    0    0 
+Grifter   958757249  9  9 r   b     k     k         1490   30    0 Qd Ac
+Grifter   958757318  7  7 f   -     -     -         1460    0    0 
+Grifter   958757351  7  5 f   -     -     -         1460    0    0 
+Grifter   958757435  7  4 c   b     bc    f         1460   60    0 
+Grifter   958757482  6  2 Bf  -     -     -         1400   10    0 
+Grifter   958757500  6  1 Bc  kf    -     -         1390   10    0 
+Grifter   958757516  6  6 f   -     -     -         1380    0    0 
+Grifter   958757543  7  6 f   -     -     -         1380    0    0 
+Grifter   958757569  7  5 cc  f     -     -         1380   20    0 
+Grifter   958757610  7  4 cc  f     -     -         1360   20    0 
+Grifter   958757689  7  2 Bf  -     -     -         1340   10    0 
+Grifter   958757715  7  1 Bc  k     k     kf        1330   10    0 
+Grifter   958757788  7  7 f   -     -     -         1320    0    0 
+Grifter   958757860  5  4 f   -     -     -         1320    0    0 
+Grifter   958757908  5  3 f   -     -     -         1320    0    0 
+Grifter   958757940  5  2 Bk  kf    -     -         1310   10    0 
+Grifter   958757965  6  1 Bf  -     -     -         1300    5    0 
+Grifter   958758001  8  8 f   -     -     -         1275    0    0 
+Grifter   958758050  7  6 r   b     bQ    -         1195   50    0 
+Grifter   958767086  2  1 Bcf -     -     -         1140   10    0 
+Grifter   958767096  2  2 Bf  -     -     -         1130   10    0 
+Grifter   958767099  2  1 Bf  -     -     -         1120    5    0 
+Grifter   958767101  2  2 Bf  -     -     -         1115   10    0 
+Grifter   958767108  2  1 Bcc kc    kc    kf        1105   50    0 
+Grifter   958767127  3  3 cf  -     -     -         1055   10    0 
+Grifter   958767134  3  2 Bk  k     b     k         1045   30    0 4d 8s
+Grifter   958767149  4  1 Bf  -     -     -         1015    5    0 
+Grifter   958767194  4  4 cc  k     k     r         1010   60  140 
+Grifter   958767222  4  3 f   -     -     -         1090    0    0 
+Grifter   958767253  4  2 Bk  b     b     -         1090   40   65 
+Grifter   958767289  4  1 Bf  -     -     -         1115    5    0 
+Grifter   958767297  4  4 rr  b     b     b         1110   90  175 
+Grifter   958767326  4  3 c   k     b     b         1195   50  110 8h 6c
+Grifter   958767355  4  2 Bk  kf    -     -         1255   10    0 
+Grifter   958767374  4  1 Bf  -     -     -         1245    5    0 
+Grifter   958767399  4  4 f   -     -     -         1240    0    0 
+Grifter   958767415  4  3 f   -     -     -         1240    0    0 
+Grifter   958767430  5  3 cc  kf    -     -         1240   20    0 
+Grifter   958767462  6  3 cc  c     c     c         1210   70    0 8s 8h
+Grifter   958767508  6  2 Bk  kf    -     -         1140   10    0 
+Grifter   958767547  6  1 Brc bc    brc   b         1130  160  490 Js Kd
+Grifter   958767612  5  5 c   f     -     -         1280   10    0 
+Grifter   958767644  4  3 cc  c     c     c         1270   70    0 6s Ks
+Grifter   958767680  5  3 cf  -     -     -         1195   10    0 
+Grifter   958767710  5  2 Bc  k     k     k         1165   20    0 6c 7c
+Grifter   958767725  5  1 Bc  bf    -     -         1145   20    0 
+Grifter   958767760  5  5 fQ  -     -     -         1125    0    0 
+Grifter   958768166  6  6 cc  f     -     -         1125   20    0 
+Grifter   958768176  5  4 rr  b     rr    b         1105  150  355 Kc As
+Grifter   958768209  5  3 f   -     -     -         1310    0    0 
+Grifter   958768234  5  2 Bf  -     -     -         1310   10    0 
+Grifter   958768243  5  1 BcfQ -     -     -         1300   10    0 
+Grifter   958768665  6  5 cc  k     f     -         1290   20    0 
+Grifter   958768693  6  4 Q   -     -     -         1270    0    0 
+Grifter   958775538  9  9 f   -     -     -         1270    0    0 
+Grifter   958775601 10  9 f   -     -     -         1270    0    0 
+Grifter   958775629  9  7 r   b     b     b         1270   70  210 
+Grifter   958775693  9  6 cf  -     -     -         1410   10    0 
+Grifter   958775771  7  4 f   -     Q     -         1400    0    0 
+Grifter   958929672 10  9 c   c     k     c         1715   50  135 Qh Td
+Grifter   958929726 10  8 c   c     k     c         1800   40    0 Tc Ts
+Grifter   958929773 10  7 c   b     b     b         1760   60  135 
+Grifter   958929843 10  6 c   c     f     -         1835   20    0 
+Grifter   958929883 10  5 f   -     -     -         1815    0    0 
+Grifter   958929962 10  4 c   b     c     r         1815   80  190 8d 7d
+Grifter   958930030  9  2 Bk  kc    kf    -         1925   20    0 
+Grifter   958930102 10  1 Bc  kc    k     b         1905   50  110 
+Grifter   958930140 10 10 f   -     -     -         1965    0    0 
+Grifter   958930206 10  9 f   -     -     -         1965    0    0 
+Grifter   958930255 10  8 f   -     -     -         1965    0    0 
+Grifter   958930285 10  7 f   -     -     -         1965    0    0 
+Grifter   958930315 10  6 c   c     f     -         1965   20    0 
+Grifter   958930360 10  5 f   -     -     -         1945    0    0 
+Grifter   958930392 10  4 c   c     c     f         1945   40    0 
+Grifter   958930451 10  3 f   -     -     -         1905    0    0 
+Grifter   958930496 10  2 Bc  k     kf    -         1905   20    0 
+Grifter   958930550 10  1 Bc  k     k     k         1885   10    0 7s Qs
+Grifter   958930588 10 10 r   b     -     -         1875   30   65 
+Grifter   958930609 10  9 c   c     c     f         1910   40    0 
+Grifter   958930650 10  8 f   -     -     -         1870    0    0 
+Grifter   958930681 10  7 f   -     -     -         1870    0    0 
+Grifter   958930686 10  6 cf  -     -     -         1870   10    0 
+Grifter   958930729 10  5 c   c     k     f         1860   20    0 
+Grifter   958930777 10  4 f   -     -     -         1840    0    0 
+Grifter   958930816 10  3 f   -     -     -         1840    0    0 
+Grifter   958930829 10  2 Bk  k     b     -         1840   30   55 
+Grifter   958930862 10  1 Bf  -     -     -         1865    5    0 
+Grifter   958930889 10 10 r   b     b     k         1860   50  135 Ks Jh
+Grifter   958930933  9  8 f   -     -     -         1945    0    0 
+Grifter   958930977  9  7 cc  c     rc    k         1945   90    0 Qd Js
+Grifter   958931010  9  6 c   k     k     k         1855   10    0 4s Ac
+Grifter   958931095  8  4 f   -     -     -         1845    0    0 
+Grifter   958931121  8  3 f   -     -     -         1845    0    0 
+Grifter   958931142  8  2 Br  -     -     -         1845   20   35 
+Grifter   958931193  7  1 Bc  bf    -     -         1860   30    0 
+Grifter   958931212  7  7 f   -     -     -         1830    0    0 
+Grifter   958931217  7  6 f   -     -     -         1830    0    0 
+Grifter   958931239  7  5 f   -     -     -         1830    0    0 
+Grifter   958931268  7  4 c   k     f     -         1830   10    0 
+Grifter   958931301  7  3 rc  b     b     -         1820   60  115 
+Grifter   958931322  7  2 Bk  kf    -     -         1875   10    0 
+Grifter   958931347  8  1 Bc  b     -     -         1865   20   30 
+Grifter   958931356  8  8 f   -     -     -         1875    0    0 
+Grifter   958931365  7  6 c   k     b     -         1875   30   45 
+Grifter   958931376  7  5 c   bc    f     -         1890   30    0 
+Grifter   958931401  7  4 f   -     -     -         1860    0    0 
+Grifter   958931421  7  3 c   f     -     -         1860   10    0 
+Grifter   958931453  7  2 Br  bc    kf    -         1850   40    0 
+Grifter   958931498  7  1 Bc  k     kf    -         1810   10    0 
+Grifter   958931522  7  7 c   c     c     k         1800   40    0 Qh 7h
+Grifter   958931550  7  6 f   -     -     -         1760    0    0 
+Grifter   958931583  7  5 f   -     -     -         1760    0    0 
+Grifter   958931596  7  4 c   b     -     -         1760   20   40 
+Grifter   958931617  7  3 c   kf    -     -         1780   10    0 
+Grifter   958931655  7  2 Bk  br    b     b         1770   80    0 Ts Th
+Grifter   958931695  7  1 Bc  kc    kf    -         1690   20    0 
+Grifter   958931767  8  8 c   k     k     k         1670   10   25 Qs 5s
+Grifter   958931796  9  8 c   c     f     -         1685   20    0 
+Grifter   958931816  9  7 cc  f     -     -         1665   20    0 
+Grifter   958931867  9  6 f   -     -     -         1645    0    0 
+Grifter   958931886  9  5 c   k     f     -         1645   10    0 
+Grifter   958931931  9  4 rr  b     -     -         1635   50  145 
+Grifter   958931967  9  3 f   -     -     -         1730    0    0 
+Grifter   958931983  9  2 Bf  -     -     -         1730   10    0 
+Grifter   958932024 10  1 Bc  kc    k     b         1720   40   70 
+Grifter   958932069 10 10 f   -     -     -         1750    0    0 
+Grifter   958932092 10  9 r   f     -     -         1750   20    0 
+Grifter   958932126 10  8 c   b     b     b         1730   60  200 
+Grifter   958932178 10  7 c   bc    f     -         1870   30    0 
+Grifter   958932227 10  6 r   bc    k     b         1840   60  165 
+Grifter   958932255 10  5 f   -     -     -         1945    0    0 
+Grifter   958932272 10  4 r   kc    kc    kc        1945   70    0 As Ad
+Grifter   958932297 10  3 c   kc    kc    f         1875   50    0 
+Grifter   958932351 10  2 Bc  f     -     -         1825   20    0 
+Grifter   958932379 10  1 Bc  b     -     -         1805   20   50 
+Grifter   958932400 10 10 c   c     c     f         1835   40    0 
+Grifter   958932443 10  9 f   -     -     -         1795    0    0 
+Grifter   958932479 10  8 r   rc    f     -         1795   50    0 
+Grifter   958932529 10  7 c   f     -     -         1745   10    0 
+Grifter   958932569 10  6 f   -     -     -         1735    0    0 
+Grifter   958932603 10  5 r   -     -     -         1735   20   35 
+Grifter   958932624 10  4 f   -     -     -         1750    0    0 
+Grifter   958932684 10  3 f   -     -     -         1750    0    0 
+Grifter   958932737 10  2 Bk  k     b     k         1750   30   90 Tc 6c
+Grifter   958932799 10  1 Bc  kf    -     -         1810   20    0 
+Grifter   958932843 10 10 f   -     -     -         1790    0    0 
+Grifter   958932892 10  9 c   f     -     -         1790   10    0 
+Grifter   958932949 10  8 f   -     -     -         1780    0    0 
+Grifter   958933003 10  7 cf  -     -     -         1780   10    0 
+Grifter   958933056 10  6 f   -     -     -         1770    0    0 
+Grifter   958933084 10  5 f   -     -     -         1770    0    0 
+Grifter   958933121 10  4 f   -     -     -         1770    0    0 
+Grifter   958933151 10  3 f   -     -     -         1770    0    0 
+Grifter   958933191 10  2 Bf  -     -     -         1770   10    0 
+Grifter   958933201 10  1 Bc  kf    -     -         1760   10    0 
+Grifter   958933242 10 10 f   -     -     -         1750    0    0 
+Grifter   958933253 10  9 f   -     -     -         1750    0    0 
+Grifter   958933295 10  8 r   c     c     b         1750   70  135 
+Grifter   958933328 10  7 f   -     -     -         1815    0    0 
+Grifter   958933367 10  6 r   -     -     -         1815   20   35 
+Grifter   958933387 10  5 c   kf    -     -         1830   10    0 
+Grifter   958933419 10  4 rr  b     b     kf        1820   70    0 
+Grifter   958933460 10  3 f   -     -     -         1750    0    0 
+Grifter   958933472 10  2 Bk  k     kf    -         1750   10    0 
+Grifter   958933497 10  1 Bf  -     -     -         1740    5    0 
+Grifter   958933537 10 10 c   f     -     -         1735   10    0 
+Grifter   958933581 10  9 cc  c     f     -         1725   30    0 
+Grifter   958933611 10  8 f   -     -     -         1695    0    0 
+Grifter   958933646 10  7 f   -     -     -         1695    0    0 
+Grifter   958933678 10  6 cc  kf    -     -         1695   20    0 
+Grifter   958933711 10  5 f   -     -     -         1675    0    0 
+Grifter   958933724 10  4 f   -     -     -         1675    0    0 
+Grifter   958933745 10  3 r   br    b     b         1675   90  175 
+Grifter   958933780 10  2 Bk  bc    kc    bc        1760   90  205 3s As
+Grifter   958933804 10  1 Bc  kf    -     -         1875   20    0 
+Grifter   958933851 10 10 f   -     -     -         1855    0    0 
+Grifter   958933879 10  9 f   -     -     -         1855    0    0 
+Grifter   958933908 10  8 f   -     -     -         1855    0    0 
+Grifter   958933954 10  7 r   c     k     b         1855   50  125 Jc Ks
+Grifter   958933980 10  6 f   -     -     -         1930    0    0 
+Grifter   958934003 10  5 c   bc    kc    kf        1930   50    0 
+Grifter   958934039 10  4 cf  -     -     -         1880   10    0 
+Grifter   958934074 10  3 f   -     -     -         1870    0    0 
+Grifter   958934109 10  2 Bf  -     -     -         1870   10    0 
+Grifter   958934124 10  1 Bf  -     -     -         1860    5    0 
+Grifter   958934131 10 10 f   -     -     -         1855    0    0 
+Grifter   958934164 10  9 r   -     -     -         1855   20   35 
+Grifter   958934180 10  8 c   f     -     -         1870   10    0 
+Grifter   958934214 10  7 f   -     -     -         1860    0    0 
+Grifter   958934227 10  6 r   kc    k     kf        1860   30    0 
+Grifter   958934258 10  5 c   f     -     -         1830   10    0 
+Grifter   958934281 10  4 f   -     -     -         1820    0    0 
+Grifter   958934305 10  3 c   f     -     -         1820   10    0 
+Grifter   958934349 10  2 Bf  -     -     -         1810   10    0 
+Grifter   958934380 10  1 Bc  kf    -     -         1800   10    0 
+Grifter   958934435 10 10 f   -     -     -         1790    0    0 
+Grifter   958934483  9  8 f   -     -     -         1790    0    0 
+Grifter   958934493  9  7 f   -     -     -         1790    0    0 
+Grifter   958934517 10  6 c   kc    kf    -         1790   20    0 
+Grifter   958934542 10  5 f   -     -     -         1770    0    0 
+Grifter   958934551 10  4 f   -     -     -         1770    0    0 
+Grifter   958934576 10  3 cc  kf    -     -         1770   20    0 
+Grifter   958934601 10  2 Bf  -     -     -         1750   10    0 
+Grifter   958934635 10  1 Br  b     k     kf        1740   40    0 
+Grifter   958934695 10 10 f   -     -     -         1700    0    0 
+Grifter   958934704  9  8 f   -     -     -         1700    0    0 
+Grifter   958934717  9  7 f   -     -     -         1700    0    0 
+Grifter   958934757  9  6 f   -     -     -         1700    0    0 
+Grifter   958934792 10  5 r   bc    k     k         1700   40  115 Ah Jc
+Grifter   958934841 10  4 f   -     -     -         1775    0    0 
+Grifter   958934879 10  3 cc  kc    kf    -         1775   40    0 
+Grifter   958934913 10  2 Br  k     b     -         1735   60  140 
+Grifter   958934955 10  1 Bf  -     -     -         1815    5    0 
+Grifter   958934984 10 10 f   -     -     -         1810    0    0 
+Grifter   958935034 10  9 f   -     -     -         1810    0    0 
+Grifter   958935064 10  8 f   -     -     -         1810    0    0 
+Grifter   958935102 10  7 f   -     -     -         1810    0    0 
+Grifter   958935142 10  6 c   b     b     b         1810   60  140 8d Jd
+Grifter   958935176 10  5 cc  cc    kc    f         1890   60    0 
+Grifter   958935256 10  4 f   -     -     -         1830    0    0 
+Grifter   958935304 10  3 f   -     -     -         1830    0    0 
+Grifter   958935358 10  2 Bc  kc    k     kf        1830   40    0 
+Grifter   958935395 10  1 Bf  -     -     -         1790    5    0 
+Grifter   958935438 10 10 r   b     -     -         1785   30  105 
+Grifter   958935470 10  9 f   -     -     -         1860    0    0 
+Grifter   958935510 10  8 f   -     -     -         1860    0    0 
+Grifter   958935563 10  7 f   -     -     -         1860    0    0 
+Grifter   958935614 10  6 rc  c     c     c         1860   90    0 As Qd
+Grifter   958935654 10  5 r   b     b     b         1770   70    0 Qs Ad
+Grifter   958935681 10  4 c   b     b     b         1700   60  150 Qc Tc
+Grifter   958935732 10  3 f   -     -     -         1790    0    0 
+Grifter   958935758 10  2 Bf  -     -     -         1790   10    0 
+Grifter   958935786 10  1 Bc  kf    -     -         1780   10    0 
+Grifter   958935834 10 10 c   c     c     b         1770   60  145 9h Kd
+Grifter   958935873 10  9 cc  f     -     -         1855   20    0 
+Grifter   958935924 10  8 f   -     -     -         1835    0    0 
+Grifter   958935967 10  7 c   k     k     f         1835   10    0 
+Grifter   958936026 10  6 f   -     -     -         1825    0    0 
+Grifter   958936079 10  5 f   -     -     -         1825    0    0 
+Grifter   958936119 10  4 f   -     -     -         1825    0    0 
+Grifter   958936203  9  3 cc  k     k     kf        1825   20    0 
+Grifter   958936254  8  2 Bf  -     -     -         1805   10    0 
+Grifter   958936270  8  1 Bc  kf    -     -         1795   10    0 
+Grifter   958936310  8  8 f   -     -     -         1785    0    0 
+Grifter   958936364  8  7 f   -     -     -         1785    0    0 
+Grifter   958936394  6  4 c   b     -     -         1785   20   40 
+Grifter   958936425  6  4 c   c     c     f         1805   50    0 
+Grifter   958936445  6  3 f   -     -     -         1755    0    0 
+Grifter   958936451  6  2 Bf  -     -     -         1755   10    0 
+Grifter   958936469  6  1 Bf  -     -     -         1745    5    0 
+Grifter   958936504  6  6 c   k     f     -         1740   20    0 
+Grifter   958936532  5  4 c   b     -     -         1720   20   35 
+Grifter   958936546  5  3 c   f     -     -         1735   10    0 
+Grifter   958936571  5  2 Br  -     -     -         1725   20   40 
+Grifter   958936593  6  1 Bf  -     -     -         1745    5    0 
+Grifter   958936639  7  7 r   c     c     b         1740   70  195 Jd As
+Grifter   958936677  8  7 c   c     c     f         1865   60    0 
+Grifter   958936717  8  6 f   -     -     -         1805    0    0 
+Grifter   958936792  8  5 f   -     -     -         1805    0    0 
+Grifter   958936820  8  4 cc  c     cc    cc        1805  150    0 Jh Ts
+Grifter   958936880 10  3 cc  kc    k     b         1655   50    0 8h 8s
+Grifter   958936953  9  1 Bk  kf    -     -         1605   10    0 
+Grifter   958937015  8  1 Bc  kf    -     -         1595   10    0 
+Grifter   958937054  7  7 c   c     f     -         1585   20    0 
+Grifter   958937118  9  7 f   -     -     -         1565    0    0 
+Grifter   958937171  9  6 c   f     -     -         1565   10    0 
+Grifter   958937228  9  5 f   -     -     -         1555    0    0 
+Grifter   958937269  9  4 f   -     -     -         1555    0    0 
+Grifter   958937313 10  3 f   -     -     -         1555    0    0 
+Grifter   958937358 10  2 Bk  bc    kcc   kf        1555   90    0 
+Grifter   958937460 10  1 Bc  b     kc    k         1465   40    0 8c 8d
+Grifter   958937520 10 10 f   -     -     -         1425    0    0 
+Grifter   958937566 10  9 c   f     -     -         1425   10    0 
+Grifter   958937603 10  8 c   k     k     f         1415   10    0 
+Grifter   958937673 10  7 c   kf    -     -         1405   10    0 
+Grifter   958937728 10  6 f   -     -     -         1395    0    0 
+Grifter   958937778 10  5 r   b     b     b         1395   70  175 
+Grifter   958937836 10  4 c   b     b     c         1500   60    0 6h 8h
+Grifter   958937900 10  3 cc  kf    -     -         1440   20    0 
+Grifter   958937950 10  2 Bf  -     -     -         1420   10    0 
+Grifter   958938060  9  1 Bc  k     b     k         1410   30  110 Ad 8s
+Grifter   958938112 10 10 f   -     -     -         1490    0    0 
+Grifter   958938191 10  9 f   -     -     -         1490    0    0 
+Grifter   958938223 10  8 c   c     k     f         1490   30    0 
+Grifter   958938266 10  7 c   f     -     -         1460   10    0 
+Grifter   958938346 10  6 f   -     -     -         1450    0    0 
+Grifter   958938414 10  5 f   -     -     -         1450    0    0 
+Grifter   958938498 10  4 cf  -     -     -         1450   10    0 
+Grifter   958938539 10  3 c   kf    -     -         1440   10    0 
+Grifter   958938677 10  2 Bk  bc    kc    k         1430   50    0 Ts Ad
+Grifter   958938743 10  1 Bf  -     -     -         1380    5    0 
+Grifter   958938763 10 10 c   k     f     -         1375   10    0 
+Grifter   958938831 10  9 f   -     -     -         1365    0    0 
+Grifter   958938884 10  8 f   -     -     -         1365    0    0 
+Grifter   958939025 10  7 f   -     -     -         1365    0    0 
+Grifter   958939133 10  6 cc  ccc   ccc   r         1365  180  585 8s 9s
+Grifter   958939217 10  5 f   -     -     -         1770    0    0 
+Grifter   958939243 10  4 f   -     -     -         1770    0    0 
+Grifter   958939336 10  3 f   -     -     -         1770    0    0 
+Grifter   958939447 10  2 Bk  krc   kc    kr        1770  150  645 9c Tc
+Grifter   958939569 10  1 Bc  k     b     b         2265   50  140 Qh Ac
+Grifter   958939616 10 10 f   Q     -     -         2355    0    0 
+Grifter   959185007 10 10 c   c     f     -         1858   20    0 
+Grifter   959185041 10  9 f   -     -     -         1838    0    0 
+Grifter   959185091  8  7 f   -     -     -         1903    0    0 
+Grifter   959185098  8  6 c   c     c     c         1903   60    0 Qh Ks
+Grifter   959185147  8  3 Q   -     -     -         1843    0    0 
+Grifter   959185245  8  8 f   -     Q     -         1838    0    0 
+Grifter   959194961  7  5 c   f     -     -         1838   10    0 
+Grifter   959195006  6  4 f   -     -     -         1828    0    0 
+Grifter   959195033  7  3 rr  bc    kc    kc        1828  100    0 Ac Qs
+Grifter   959195088  7  2 Bc  k     kf    -         1728   20    0 
+Grifter   959195120  8  1 Bc  kc    kc    kf        1708   40    0 
+Grifter   959195162  8  8 f   -     -     -         1668    0    0 
+Grifter   959195197 10  9 f   -     -     -         1668    0    0 
+Grifter   959195229 10  8 f   -     -     -         1668    0    0 
+Grifter   959195273 10  7 f   -     -     -         1668    0    0 
+Grifter   959195314 10  6 f   -     -     -         1668    0    0 
+Grifter   959195330 10  5 c   b     -     -         1668   20   65 
+Grifter   959195385 10  4 f   -     -     -         1713    0    0 
+Grifter   959195434  8  4 f   -     -     -         1713    0    0 
+Grifter   959195480  7  2 Bk  kf    -     -         1713   10    0 
+Grifter   959195496  8  1 Bf  -     -     -         1703    5    0 
+Grifter   959195519  8  8 f   -     -     -         1698    0    0 
+Grifter   959195535  9  7 c   c     c     c         1698   70  180 Ts Js
+Grifter   959195573  9  6 c   bc    kr    b         1808   90  220 5d 3d
+Grifter   959195630  9  5 c   k     b     -         1938   30   45 
+Grifter   959195659  9  4 f   -     -     -         1953    0    0 
+Grifter   959195694  9  3 f   -     -     -         1953    0    0 
+Grifter   959195749  9  2 Bf  -     -     -         1953   10    0 
+Grifter   959195797  9  1 Bf  -     -     -         1943    5    0 
+Grifter   959195834  9  9 r   c     f     -         1938   30    0 
+Grifter   959195893  9  8 f   -     -     -         1908    0    0 
+Grifter   959195920  9  7 f   -     -     -         1908    0    0 
+Grifter   959195958  8  5 c   c     kf    -         1908   30    0 
+Grifter   959196006  9  5 f   -     -     -         1878    0    0 
+Grifter   959196051  9  4 cc  cf    -     -         1878   30    0 
+Grifter   959196133  8  3 f   -     -     -         1848    0    0 
+Grifter   959196166  8  2 Bc  kc    kc    kc        1848   70  185 Qs Js
+Grifter   959196194  8  1 Bf  Q     -     -         1963    5    0 
+Grifter   959196269  8  8 f   -     -     -         1958    0    0 
+Grifter   959196298  7  6 c   f     -     -         1958   20    0 
+Grifter   959196309  7  5 cc  bc    kc    kc        1938   80  220 Qc 7c
+Grifter   959196356  7  4 c   k     c     f         2078   30    0 
+Grifter   959196386  7  3 Q   -     -     -         2048    0    0 
+Grifter   959356324 10  7 rr  b     b     b         1323   90  340 Qc Jc
+Grifter   959356407  8  5 f   -     -     -         1573    0    0 
+Grifter   959356451  8  4 f   -     -     -         1573    0    0 
+Grifter   959356481  8  3 f   -     -     -         1573    0    0 
+Grifter   959356539  8  2 Br  bf    -     -         1573   50    0 
+Grifter   959356596  8  1 Bc  k     kc    kf        1523   30    0 
+Grifter   959356656  8  8 f   -     -     -         1493    0    0 
+Grifter   959356698  8  7 f   -     -     -         1493    0    0 
+Grifter   959356741  8  6 c   k     k     k         1493   10    0 Tc Kh
+Grifter   959356780  8  5 f   -     -     -         1483    0    0 
+Grifter   959356820  7  3 c   kf    -     -         1483   10    0 
+Grifter   959356846  7  3 c   f     -     -         1473   10    0 
+Grifter   959356885  6  2 Bf  -     -     -         1463   10    0 
+Grifter   959356907  7  1 Bc  kf    -     -         1453   10    0 
+Grifter   959356966  7  7 f   -     -     -         1443    0    0 
+Grifter   959357009  7  6 f   -     -     -         1443    0    0 
+Grifter   959357056  7  5 cf  -     -     -         1443   10    0 
+Grifter   959357104  7  4 c   k     kf    -         1433   10    0 
+Grifter   959357169  7  3 f   -     -     -         1423    0    0 
+Grifter   959357201  7  2 Bk  k     kf    -         1423   10    0 
+Grifter   959357241  8  1 Bcf -     -     -         1413   10    0 
+Grifter   959357336  6  6 f   -     -     -         1403    0    0 
+Grifter   959357357  6  5 f   -     -     -         1403    0    0 
+Grifter   959357412  6  4 cf  -     -     -         1403   10    0 
+Grifter   959357447  6  3 cc  k     b     kf        1393   50    0 
+Grifter   959357503  6  2 Bk  k     kf    -         1343   10    0 
+Grifter   959357542  6  1 Bcc k     b     b         1333   60  120 
+Grifter   959357579  7  7 f   -     -     -         1393    0    0 
+Grifter   959357604  7  6 c   c     f     -         1393   20    0 
+Grifter   959357657  7  5 f   -     -     -         1373    0    0 
+Grifter   959357698  7  4 f   -     -     -         1373    0    0 
+Grifter   959357747  7  3 c   k     f     -         1373   10    0 
+Grifter   959357791  7  2 Bf  -     -     -         1363   10    0 
+Grifter   959357809  7  1 Bf  -     -     -         1353    5    0 
+Grifter   959357849  6  6 f   -     -     -         1348    0    0 
+Grifter   959357898  8  7 c   k     k     k         1348   10    0 4d Qd
+Grifter   959357926  8  6 cc  b     b     b         1338   70    0 9s Ac
+Grifter   959358006  9  6 c   c     c     c         1268   60    0 Ts Tc
+Grifter   959358083  9  6 f   -     -     -         1208    0    0 
+Grifter   959358146  8  4 f   -     -     -         1208    0    0 
+Grifter   959358198  9  3 f   -     -     -         1208    0    0 
+Grifter   959358255  8  2 Bf  -     -     -         1208   10    0 
+Grifter   959358322  7  1 Bc  kc    kf    -         1198   20    0 
+Grifter   959358369  8  8 f   -     -     -         1178    0    0 
+Grifter   959358420  8  8 f   -     -     -         1178    0    0 
+Grifter   959358467  7  6 f   -     -     -         1178    0    0 
+Grifter   959358517  7  5 f   -     -     -         1178    0    0 
+Grifter   959358536  7  4 c   b     -     -         1178   20   55 
+Grifter   959358566  7  3 r   b     b     b         1213   70    0 Qd Qc
+Grifter   959358602  7  2 Brc b     kc    kc        1143   90    0 9s 9c
+Grifter   959358645  7  1 Bc  k     b     b         1053   50  140 
+Grifter   959358706  8  8 f   -     -     -         1143    0    0 
+Grifter   959358744  8  7 c   b     -     -         1143   20   40 
+Grifter   959358777  8  6 f   -     -     -         1163    0    0 
+Grifter   959358817  8  5 f   -     -     -         1163    0    0 
+Grifter   959358851  8  4 f   -     -     -         1163    0    0 
+Grifter   959358893  9  4 f   -     -     -         1163    0    0 
+Grifter   959358930  9  3 c   f     -     -         1163   10    0 
+Grifter   959358954 10  2 Bk  kf    -     -         1153   10    0 
+Grifter   959359007 10  1 Bc  bc    kc    kc        1143   70    0 9s Td
+Grifter   959359050 10 10 f   -     -     -         1073    0    0 
+Grifter   959359113 10  9 c   c     b     k         1073   40    0 7d 7s
+Grifter   959359196 10  8 c   k     kf    -         1033   10    0 
+Grifter   959359302 10  7 r   b     k     c         1023   50    0 Ac Kd
+Grifter   959359358 10  6 c   k     k     k          973   10    0 Kh 9h
+Grifter   959359446 10  5 f   -     -     -          963    0    0 
+Grifter   959359517 10  4 f   -     -     -          963    0    0 
+Grifter   959359574  9  3 f   -     -     -          963    0    0 
+Grifter   959359623  9  2 Bc  cc    kr    -          963  100   28 Tc Qd
+Grifter   959359727 10  1 Bf  -     -     -          891    5    0 
+Grifter   959359791 10 10 c   f     -     -          886   20    0 
+Grifter   959359838 10  9 r   rr    b     b          866  100  355 Kh As
+Grifter   959359933 10  8 c   c     rc    c         1121  100    0 3s As
+Grifter   959359968 10  7 f   -     -     -         1021    0    0 
+Grifter   959360013 10  6 c   k     f     -         1021   20    0 
+Grifter   959360064 10  5 f   -     -     -         1001    0    0 
+Grifter   959360112 10  4 f   -     -     -         1001    0    0 
+Grifter   959360186 10  3 f   -     -     -         1001    0    0 
+Grifter   959360250 10  2 Bf  -     -     -         1001   10    0 
+Grifter   959360321 10  1 Br  b     b     b          991   80    0 Th Ac
+Grifter   959360370 10 10 f   -     -     -          911    0    0 
+Grifter   959360465 10  9 f   -     -     -          911    0    0 
+Grifter   959360518 10  8 r   rr    bf    -          911   80    0 
+Grifter   959360611 10  7 r   Q     -     -          831   30    0 

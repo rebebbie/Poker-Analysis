@@ -1,0 +1,75 @@
+Bergen    957795130  3  3 f   -     -     -          973    0    0 
+Bergen    957795134  3  2 Bk  kf    -     -          973   10    0 
+Bergen    957795144  3  1 Bc  k     b     kc         963   50    0 8d 7d
+Bergen    957795159  3  3 r   r     k     f          913   40    0 
+Bergen    957795182  3  2 Bk  k     b     k          873   30   90 7s 6s
+Bergen    957795203  3  1 Bf  -     -     -          933    5    0 
+Bergen    957795209  3  3 rc  rc    r     b          928  120  360 9s Jh
+Bergen    957795240  3  2 Bk  c     f     -         1168   20    0 
+Bergen    957795270  3  1 Bc  kf    -     -         1148   10    0 
+Bergen    957795292  3  3 r   r     k     k         1138   40    0 5d Ad
+Bergen    957795309  4  2 Bc  kf    -     -         1098   20    0 
+Bergen    957795326  4  1 Bf  -     -     -         1078    5    0 
+Bergen    957795345  5  5 f   -     -     -         1073    0    0 
+Bergen    957795355  4  4 r   r     b     r         1073  100    0 Ks Qs
+Bergen    957795377  4  3 c   b     k     kf         973   20    0 
+Bergen    957795410  4  2 Br  b     b     k          953   50    0 Ts As
+Bergen    957795436  5  1 Bc  k     kf    -          903   10    0 
+Bergen    957795463  5  5 f   -     -     -          893    0    0 
+Bergen    957795480  5  4 f   -     -     -          893    0    0 
+Bergen    957795498  5  3 f   -     -     -          893    0    0 
+Bergen    957795511  5  2 Bk  k     b     b          893   50   70 6d 8h
+Bergen    957795546  5  1 Bc  kf    -     -          913   10    0 
+Bergen    957795583  5  5 f   -     -     -          903    0    0 
+Bergen    957795600  5  4 c   k     b     k          903   30   65 Jc Ts
+Bergen    957795614  5  3 f   -     -     -          938    0    0 
+Bergen    957795646  5  2 Bk  k     k     kf         938   10    0 
+Bergen    957795670  5  1 Bc  kf    -     -          928   10    0 
+Bergen    957795686  5  5 f   -     -     -          918    0    0 
+Bergen    957795701  5  4 r   b     -     -          918   30   90 
+Bergen    957795719  5  3 c   k     b     k          978   30    0 3d Ah
+Bergen    957795737  5  2 Br  b     -     -          948   30   55 
+Bergen    957795768  6  1 Bcc b     b     kc         973   70    0 2h 3h
+Bergen    957795805  6  6 f   -     -     -          903    0    0 
+Bergen    957795835  6  5 f   -     -     -          903    0    0 
+Bergen    957795860  7  5 cc  b     b     b          903   70  165 
+Bergen    957795913  7  4 rc  cc    kc    kf         998   80    0 
+Bergen    957795963  7  2 Bf  -     -     -          918   10    0 
+Bergen    957796020  7  1 Bc  k     k     b          908   30   60 
+Bergen    957796090  7  7 c   f     -     -          938   10    0 
+Bergen    957796125  8  7 f   -     -     -          928    0    0 
+Bergen    957796147  9  7 f   -     -     -          928    0    0 
+Bergen    957796170  9  6 f   -     -     -          928    0    0 
+Bergen    957796233  9  5 c   k     b     -          928   30   75 
+Bergen    957796263  9  4 f   -     -     -          973    0    0 
+Bergen    957796315  9  3 r   kf    -     -          973   20    0 
+Bergen    957796352  9  2 Bk  kf    -     -          953   10    0 
+Bergen    957796394  9  1 Bf  -     -     -          943    5    0 
+Bergen    957796461  8  8 f   -     -     -          938    0    0 
+Bergen    957796499  7  6 f   -     -     -          938    0    0 
+Bergen    957796526  7  5 f   -     -     -          938    0    0 
+Bergen    957796587  7  4 f   -     -     -          938    0    0 
+Bergen    957796616  7  3 f   -     -     -          938    0    0 
+Bergen    957796639  6  2 Bk  k     k     kf         938   10    0 
+Bergen    957796663  6  1 Br  b     -     -          928   30   70 
+Bergen    957796682  6  6 c   c     b     b          968   60  140 9h Ah
+Bergen    957796709  7  6 cc  rc    k     kf        1048   50    0 
+Bergen    957796753  7  5 f   -     -     -          998    0    0 
+Bergen    957796772  7  4 f   -     -     -          998    0    0 
+Bergen    957796802  7  3 r   b     b     b          998   70  240 Ts Ad
+Bergen    957796835  7  2 Br  kf    -     -         1168   30    0 
+Bergen    957796923  7  1 Bf  -     -     -         1138    5    0 
+Bergen    957796951  7  7 f   -     -     -         1133    0    0 
+Bergen    957796974  7  6 f   -     -     -         1133    0    0 
+Bergen    957797016  6  5 c   f     -     -         1133   10    0 
+Bergen    957797035  6  4 r   b     f     -         1123   30    0 
+Bergen    957797070  6  3 c   kf    -     -         1093   10    0 
+Bergen    957797089  6  2 Bk  b     k     b         1083   40   80 
+Bergen    957797113  6  1 Bc  b     b     b         1123   60  150 Jh 6h
+Bergen    957797135  6  6 f   -     -     -         1213    0    0 
+Bergen    957797163  6  5 f   -     -     -         1213    0    0 
+Bergen    957797188  6  4 f   -     -     -         1213    0    0 
+Bergen    957797230  6  3 f   -     -     -         1213    0    0 
+Bergen    957797253  6  2 Bk  k     kf    -         1213   10    0 
+Bergen    957797317  5  1 Bc  kf    -     -         1203   10    0 
+Bergen    957797352  5  5 Q   -     -     -         1193    0    0 

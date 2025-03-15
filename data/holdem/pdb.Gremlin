@@ -1,0 +1,344 @@
+Gremlin   958725814 10  5 rr  bc    kcc   kf         810  140    0 
+Gremlin   958725885 10  4 f   -     -     -          670    0    0 
+Gremlin   958725969 10  3 r   kf    -     -          670   20    0 
+Gremlin   958726031 10  2 Br  b     b     -          650   50  160 
+Gremlin   958726082  9  1 Brr bf    -     -          760   50    0 
+Gremlin   958726113  9  9 c   rc    f     -          710   60    0 
+Gremlin   958726177  9  8 rr  b     br    b          650  130    0 2s Qs
+Gremlin   958726232  8  6 f   -     -     -          520    0    0 
+Gremlin   958726306 10  6 rr  br    brc   br         520  220  453 6c 3s
+Gremlin   958726437  9  4 f   -     -     -          753    0    0 
+Gremlin   958726494 10  4 r   b     k     kf         753   30    0 
+Gremlin   958726532 10  3 r   b     k     f          723   30    0 
+Gremlin   958726577 10  2 Brr bf    -     -          693   50    0 
+Gremlin   958726650 10  1 Bf  -     -     -          643    5    0 
+Gremlin   958726717 10 10 f   -     -     -          638    0    0 
+Gremlin   958726770 10  9 r   b     b     bf         638   70    0 
+Gremlin   958726826 10  8 f   -     -     -          568    0    0 
+Gremlin   958726893 10  7 f   -     -     -          568    0    0 
+Gremlin   958727011  9  6 rr  brc   kf    -          568   80    0 
+Gremlin   958727106  7  3 r   br    brc   kc         488  150    0 4c 8c
+Gremlin   958727199  9  2 Brc b     brc   br         338  210    0 7c 9h
+Gremlin   958727361  9  1 Brc b     brA   -          128  128    0 Qc 7c
+Gremlin   958727508 10  9 f   -     -     -         1000    0    0 
+Gremlin   958727564 10  8 f   -     -     -         1000    0    0 
+Gremlin   958727622 10  7 crc f     -     -         1000   40    0 
+Gremlin   958727761  9  5 f   -     -     -          960    0    0 
+Gremlin   958727813  9  4 rr  kc    kf    -          960   50    0 
+Gremlin   958727922 10  4 f   -     -     -          910    0    0 
+Gremlin   958728047 10  3 f   -     -     -          910    0    0 
+Gremlin   958728099 10  2 Bk  k     kf    -          910   10    0 
+Gremlin   958728198 10  1 Bc  kf    -     -          900   20    0 
+Gremlin   958728266  9  9 r   r     b     b          880   90  320 Ks 8s
+Gremlin   958728367  8  7 f   -     -     -         1110    0    0 
+Gremlin   958728453  8  6 c   f     -     -         1110   10    0 
+Gremlin   958728487  8  5 cc  bf    -     -         1100   30    0 
+Gremlin   958728541  8  4 c   kc    krr   br        1070  160  375 Ad 6d
+Gremlin   958728685  8  3 c   kf    -     -         1285   10    0 
+Gremlin   958728745  8  2 Bk  k     k     kf        1275   10    0 
+Gremlin   958728822  8  1 Bc  k     k     kc        1265   30    0 3d 3h
+Gremlin   958728881  8  8 c   cc    f     -         1235   40    0 
+Gremlin   958728937  7  6 f   -     -     -         1195    0    0 
+Gremlin   958728988  8  6 c   kc    rr    k         1195  100    0 Ks Ts
+Gremlin   958729050  8  5 cc  kc    kf    -         1095   30    0 
+Gremlin   958729089  8  4 cc  k     b     b         1065   60  165 5h Ah
+Gremlin   958729153  8  3 f   -     -     -         1170    0    0 
+Gremlin   958729200  7  2 Bf  -     -     -         1170   10    0 
+Gremlin   958729231  7  1 Bc  brc   kc    k         1160   70    0 Qd Th
+Gremlin   958729273  6  6 f   -     -     -         1090    0    0 
+Gremlin   958729283  5  5 f   -     -     -         1090    0    0 
+Gremlin   958729321  5  4 f   -     -     -         1090    0    0 
+Gremlin   958729349  5  3 f   -     -     -         1090    0    0 
+Gremlin   958729385  5  2 Br  k     kf    -         1090   30    0 
+Gremlin   958729454  4  1 Bf  -     -     -         1060    5    0 
+Gremlin   958729489  4  4 r   b     b     -         1055   50   85 
+Gremlin   958729505  4  3 f   -     -     -         1090    0    0 
+Gremlin   958729516  4  2 Br  f     -     -         1090   20    0 
+Gremlin   958729531  4  1 Bf  -     -     -         1070    5    0 
+Gremlin   958729537  5  4 f   -     -     -         1065    0    0 
+Gremlin   958729551  5  3 r   b     b     b         1065   70    0 7s Ah
+Gremlin   958729578  5  2 Br  kf    -     -          995   30    0 
+Gremlin   958729612  5  1 Bc  b     -     -          965   20   40 
+Gremlin   958729634  5  5 f   -     -     -          985    0    0 
+Gremlin   958729643  5  4 f   -     -     -          985    0    0 
+Gremlin   958729666  5  3 r   b     b     -          985   50  105 
+Gremlin   958729709  5  2 Bk  b     b     bc        1040   80    0 3s 9c
+Gremlin   958729730  5  1 Br  b     -     -          960   30   70 
+Gremlin   958729752  5  5 c   k     k     b         1000   30   80 5c 7s
+Gremlin   958729789  5  4 f   -     -     -         1050    0    0 
+Gremlin   958729820  5  3 r   b     k     k         1050   30    0 Kh 7h
+Gremlin   958729842  5  2 Br  k     r     b         1020   90  180 7c 6h
+Gremlin   958729874  5  1 Bcc k     k     b         1110   40   80 
+Gremlin   958729922  5  5 f   -     -     -         1150    0    0 
+Gremlin   958729951  6  4 f   -     -     -         1150    0    0 
+Gremlin   958729973  5  3 r   b     -     -         1150   30   55 
+Gremlin   958729988  5  2 Bc  k     kf    -         1175   20    0 
+Gremlin   958730031  5  1 Bf  -     -     -         1155    5    0 
+Gremlin   958730063  6  6 f   -     -     -         1150    0    0 
+Gremlin   958730107  6  5 f   -     -     -         1150    0    0 
+Gremlin   958730144  6  4 r   b     -     -         1150   30   55 
+Gremlin   958730165  7  3 f   -     -     -         1175    0    0 
+Gremlin   958730177  7  2 Bk  kf    -     -         1175   10    0 
+Gremlin   958730212  7  1 Bc  b     -     -         1165   20   50 
+Gremlin   958730230  7  7 c   r     c     k         1195   50    0 9h Jh
+Gremlin   958730289  7  6 f   -     -     -         1145    0    0 
+Gremlin   958730348  7  5 f   -     -     -         1145    0    0 
+Gremlin   958730403  7  4 rc  bf    -     -         1145   40    0 
+Gremlin   958730450  7  3 f   -     -     -         1105    0    0 
+Gremlin   958730457  7  2 Brc k     kf    -         1105   40    0 
+Gremlin   958730527  6  1 Bf  -     -     -         1065    5    0 
+Gremlin   958730574  6  6 rr  brc   c     f         1060  100    0 
+Gremlin   958730637  6  5 f   -     -     -          960    0    0 
+Gremlin   958730669  7  4 f   -     -     -          960    0    0 
+Gremlin   958730694  7  3 f   -     -     -          960    0    0 
+Gremlin   958730747  6  1 Bf  -     -     -          960   10    0 
+Gremlin   958730759  6  1 Br  b     b     b          950   70    0 5d 2d
+Gremlin   958730784  7  7 r   b     k     c          880   50    0 6h Ks
+Gremlin   958730827  7  6 f   -     -     -          830    0    0 
+Gremlin   958730857  6  4 r   b     k     k          830   30    0 8d 9s
+Gremlin   958730881  6  3 f   -     -     -          800    0    0 
+Gremlin   958730902  6  2 Brc br    b     b          800  110  225 As 3h
+Gremlin   958730929  6  1 Bf  -     -     -          915    5    0 
+Gremlin   958730961  6  6 rr  c     r     b          910  110  355 
+Gremlin   958731013  6  5 f   -     -     -         1155    0    0 
+Gremlin   958731038  6  4 f   -     -     -         1155    0    0 
+Gremlin   958731049  6  3 f   -     -     -         1155    0    0 
+Gremlin   958731088  6  2 Bk  k     c     f         1155   30    0 
+Gremlin   958731118  6  1 Br  b     b     k         1125   50  120 2d Ad
+Gremlin   958731151  6  6 r   bc    k     cc        1195   80    0 As Jh
+Gremlin   958731213  6  5 f   -     -     -         1115    0    0 
+Gremlin   958731230  6  4 f   -     -     -         1115    0    0 
+Gremlin   958731264  4  3 f   -     -     -         1115    0    0 
+Gremlin   958731283  4  2 B   -     -     -         1115   10   15 
+Gremlin   958731288  3  1 Brc b     b     kc        1120   80  160 4s 7d
+Gremlin   958731313  2  2 B   -     -     -         1200   10   15 
+Gremlin   958731324  2  1 Bf  -     -     -         1205    5    0 
+Gremlin   958731326  2  2 Br  k     k     k         1200   20   40 Kc Ts
+Gremlin   958731347  2  1 Br  -     -     -         1220   20   30 
+Gremlin   958807187  8  6 c   k     f     -         1230   10    0 
+Gremlin   958807254  9  5 c   kc    kc    kr        1220   80  240 Kh Th
+Gremlin   958807320  8  4 f   -     -     -         1380    0    0 
+Gremlin   958807373  8  3 f   -     -     -         1380    0    0 
+Gremlin   958807440  8  2 Bk  k     kf    -         1380   10    0 
+Gremlin   958807504  8  1 Bf  -     -     -         1370    5    0 
+Gremlin   958807559  8  8 cc  f     -     -         1365   30    0 
+Gremlin   958807601  8  7 f   -     -     -         1335    0    0 
+Gremlin   958807662  8  6 f   -     -     -         1335    0    0 
+Gremlin   958807694  8  5 f   -     -     -         1335    0    0 
+Gremlin   958807742  8  4 f   -     -     -         1335    0    0 
+Gremlin   958807773  8  3 f   -     -     -         1335    0    0 
+Gremlin   958807795  8  2 Bk  k     k     b         1335   30   45 
+Gremlin   958807823  8  1 Bf  -     -     -         1350    5    0 
+Gremlin   958807831  8  8 f   -     -     -         1345    0    0 
+Gremlin   958807872  9  8 c   b     b     k         1345   40    0 Qh Kd
+Gremlin   958807919  8  6 f   -     -     -         1305    0    0 
+Gremlin   958807959  8  5 f   -     -     -         1305    0    0 
+Gremlin   958807984  8  4 f   -     -     -         1305    0    0 
+Gremlin   958808033  8  3 r   b     -     -         1305   30   85 
+Gremlin   958808055  8  2 Bk  bf    -     -         1360   20    0 
+Gremlin   958808105  8  1 Bf  -     -     -         1340    5    0 
+Gremlin   958808134  7  7 f   -     -     -         1335    0    0 
+Gremlin   958808156  7  6 f   -     -     -         1335    0    0 
+Gremlin   958808203  7  5 f   -     -     -         1335    0    0 
+Gremlin   958808254  8  5 c   r     b     k         1335   50  145 As 7s
+Gremlin   958808305  8  4 cc  kf    -     -         1430   40    0 
+Gremlin   958808366  7  3 c   b     kc    kc        1390   60    0 8c 8h
+Gremlin   958808438  8  2 Bf  -     -     -         1330   10    0 
+Gremlin   958808489  8  1 Bf  -     -     -         1320    5    0 
+Gremlin   958808513  8  8 f   -     -     -         1315    0    0 
+Gremlin   958808540  8  7 c   k     k     k         1315   10    0 9d Tc
+Gremlin   958808567  8  6 f   -     -     -         1305    0    0 
+Gremlin   958808608  8  5 f   -     -     -         1305    0    0 
+Gremlin   958808642  8  4 f   -     -     -         1305    0    0 
+Gremlin   958808685  8  3 f   -     -     -         1305    0    0 
+Gremlin   958808694  8  2 Bk  kf    -     -         1305   10    0 
+Gremlin   958808741  8  1 Bc  k     k     k         1295   10    0 Jc 8s
+Gremlin   958808783  8  8 f   -     -     -         1285    0    0 
+Gremlin   958808850  9  8 f   -     -     -         1285    0    0 
+Gremlin   958808920 10  8 f   -     -     -         1285    0    0 
+Gremlin   958809010 10  7 c   f     -     -         1285   10    0 
+Gremlin   958809058 10  6 f   -     -     -         1275    0    0 
+Gremlin   958809131 10  5 f   -     -     -         1275    0    0 
+Gremlin   958809209 10  4 r   bc    kc    kf        1275   60    0 
+Gremlin   958809252 10  3 f   -     -     -         1215    0    0 
+Gremlin   958809300 10  2 Bk  k     b     -         1215   30   55 
+Gremlin   958809326 10  1 Bf  -     -     -         1240    5    0 
+Gremlin   958809362 10 10 f   -     -     -         1235    0    0 
+Gremlin   958809389 10  9 f   -     -     -         1235    0    0 
+Gremlin   958809476 10  8 f   -     -     -         1235    0    0 
+Gremlin   958809571 10  7 cc  kf    -     -         1235   20    0 
+Gremlin   958809610 10  6 f   -     -     -         1215    0    0 
+Gremlin   958809671 10  5 c   f     -     -         1215   10    0 
+Gremlin   958809703 10  4 f   -     -     -         1205    0    0 
+Gremlin   958809729 10  3 f   -     -     -         1205    0    0 
+Gremlin   958809757 10  2 Bf  -     -     -         1205   10    0 
+Gremlin   958809810 10  1 Bf  -     -     -         1195    5    0 
+Gremlin   958809854 10 10 cc  c     r     k         1190   90  130 Tc Ad
+Gremlin   958809971 10  9 rr  brc   brc   r         1230  200  222 Kh Qc
+Gremlin   958810034 10  8 r   r     b     b         1252   80  290 Kc Kh
+Gremlin   958810105 10  7 f   -     -     -         1462    0    0 
+Gremlin   958810152 10  6 f   -     -     -         1462    0    0 
+Gremlin   958810177 10  5 f   -     -     -         1462    0    0 
+Gremlin   958810214 10  4 c   k     b     kc        1462   50    0 Jh Qh
+Gremlin   958810287 10  3 cc  k     kf    -         1412   20    0 
+Gremlin   958810321 10  2 Bf  -     -     -         1392   10    0 
+Gremlin   958810374 10  1 Bf  -     -     -         1382    5    0 
+Gremlin   958810435 10 10 f   -     -     -         1377    0    0 
+Gremlin   958810474 10  9 f   -     -     -         1377    0    0 
+Gremlin   958810521 10  8 f   -     -     -         1377    0    0 
+Gremlin   958810563 10  7 f   -     -     -         1377    0    0 
+Gremlin   958810605 10  6 f   -     -     -         1377    0    0 
+Gremlin   958810653 10  5 f   -     -     -         1377    0    0 
+Gremlin   958810698 10  4 f   -     -     -         1377    0    0 
+Gremlin   958810787 10  3 f   -     -     -         1377    0    0 
+Gremlin   958810815 10  2 Bf  -     -     -         1377   10    0 
+Gremlin   958810866 10  1 Bc  brc   kc    kf        1367   70    0 
+Gremlin   958810921 10 10 f   -     -     -         1297    0    0 
+Gremlin   958810970 10  9 f   -     -     -         1297    0    0 
+Gremlin   958810997 10  8 f   -     -     -         1297    0    0 
+Gremlin   958811061 10  7 f   -     -     -         1297    0    0 
+Gremlin   958811074 10  6 f   -     -     -         1297    0    0 
+Gremlin   958811119 10  5 f   -     -     -         1297    0    0 
+Gremlin   958811176 10  4 cc  cc    k     f         1297   50    0 
+Gremlin   958811245 10  3 c   kf    -     -         1247   10    0 
+Gremlin   958811308 10  2 Bk  k     k     kf        1237   10    0 
+Gremlin   958811353 10  1 Bc  b     bc    k         1227   70  320 Jc Kh
+Gremlin   958811413 10 10 f   -     -     -         1477    0    0 
+Gremlin   958811448 10  9 r   -     -     -         1477   20   35 
+Gremlin   958811459 10  8 c   c     r     k         1492   60  230 6d Ad
+Gremlin   958811512 10  7 f   -     -     -         1662    0    0 
+Gremlin   958811541 10  6 f   -     -     -         1662    0    0 
+Gremlin   958811596 10  5 f   -     -     -         1662    0    0 
+Gremlin   958811646 10  4 cc  k     kf    -         1662   30    0 
+Gremlin   958811709 10  3 f   -     -     -         1632    0    0 
+Gremlin   958811763 10  2 Bf  -     -     -         1632   10    0 
+Gremlin   958811797 10  1 Bf  -     -     -         1622    5    0 
+Gremlin   958811855 10 10 f   -     -     -         1617    0    0 
+Gremlin   958811941 10  9 f   -     -     -         1617    0    0 
+Gremlin   958811985 10  8 f   -     -     -         1617    0    0 
+Gremlin   958812033 10  7 f   -     -     -         1617    0    0 
+Gremlin   958812082 10  6 f   -     -     -         1617    0    0 
+Gremlin   958812152 10  5 f   -     -     -         1617    0    0 
+Gremlin   958812187 10  4 f   -     -     -         1617    0    0 
+Gremlin   958812213 10  3 f   -     -     -         1617    0    0 
+Gremlin   958812243 10  2 Bf  -     -     -         1617   10    0 
+Gremlin   958812288 10  1 Bc  kf    -     -         1607   10    0 
+Gremlin   958812372  9  9 f   -     -     -         1597    0    0 
+Gremlin   958812440 10  9 f   -     -     -         1597    0    0 
+Gremlin   958812483  9  7 f   -     -     -         1597    0    0 
+Gremlin   958812575  9  6 c   f     -     -         1597   10    0 
+Gremlin   958812620  9  5 cc  r     b     b         1587   80  150 
+Gremlin   958812652  9  4 f   -     -     -         1657    0    0 
+Gremlin   958812690  9  3 f   -     -     -         1657    0    0 
+Gremlin   958812744  9  2 Bf  -     -     -         1657   10    0 
+Gremlin   958812790  8  1 Bc  kf    -     -         1647   10    0 
+Gremlin   958812844  8  8 f   -     -     -         1637    0    0 
+Gremlin   958812902  7  7 f   -     -     -         1637    0    0 
+Gremlin   958812962  7  7 c   k     f     -         1637   10    0 
+Gremlin   958812994  7  6 c   r     bf    -         1627   50    0 
+Gremlin   958813036  7  4 Q   -     -     -         1577    0    0 
+Gremlin   958896237 10  7 f   -     -     -         1577    0    0 
+Gremlin   958896281 10  6 f   -     -     -         1577    0    0 
+Gremlin   958896330 10  5 f   -     -     -         1577    0    0 
+Gremlin   958896409 10  4 f   -     -     -         1577    0    0 
+Gremlin   958896496 10  3 f   -     -     -         1577    0    0 
+Gremlin   958896554 10  2 Bf  -     -     -         1577   10    0 
+Gremlin   958896653 10  1 Br  b     bc    kc        1567  120    0 As Ac
+Gremlin   958896731 10 10 f   -     -     -         1447    0    0 
+Gremlin   958896811 10  9 c   f     -     -         1447   20    0 
+Gremlin   958896924 10  9 f   -     -     -         1427    0    0 
+Gremlin   958896989  9  7 f   -     -     -         1427    0    0 
+Gremlin   958897017  9  6 f   -     -     -         1427    0    0 
+Gremlin   958897050  9  5 f   -     -     -         1427    0    0 
+Gremlin   958897111  9  4 f   -     -     -         1427    0    0 
+Gremlin   958897178  9  3 crc kf    -     -         1427   40    0 
+Gremlin   958897237  9  2 Bf  -     -     -         1387   10    0 
+Gremlin   958897287 10  1 Bc  br    bf    -         1377   70    0 
+Gremlin   958897370  9  9 f   -     -     -         1307    0    0 
+Gremlin   958897463  9  8 f   -     -     -         1307    0    0 
+Gremlin   958897497  9  7 cc  c     cr    f         1307  130    0 
+Gremlin   958897569  9  6 rr  f     -     -         1177   40    0 
+Gremlin   958897679  8  5 f   -     -     -         1137    0    0 
+Gremlin   958897729  8  4 r   k     bc    kc        1137   80    0 As Qd
+Gremlin   958897776  8  3 f   -     -     -         1057    0    0 
+Gremlin   958897837  8  2 Brc c     rr    k         1057  130  440 6s 7d
+Gremlin   958897894  9  1 Bf  -     -     -         1367    5    0 
+Gremlin   958897981  8  8 f   -     -     -         1362    0    0 
+Gremlin   958898037  8  8 f   -     -     -         1362    0    0 
+Gremlin   958898099  8  6 f   -     -     -         1362    0    0 
+Gremlin   958898142  9  5 f   -     -     -         1362    0    0 
+Gremlin   958898239  9  4 cc  kf    -     -         1362   20    0 
+Gremlin   958898285  9  3 f   -     -     -         1342    0    0 
+Gremlin   958898328 10  2 Bf  -     -     -         1342   10    0 
+Gremlin   958898360  9  1 Bf  -     -     -         1332    5    0 
+Gremlin   958898433  9  9 c   f     -     -         1327   20    0 
+Gremlin   958898511  8  7 c   f     -     -         1307   10    0 
+Gremlin   958898548  9  7 f   -     -     -         1297    0    0 
+Gremlin   958898575  9  6 f   -     -     -         1297    0    0 
+Gremlin   958898608  9  5 f   -     -     -         1297    0    0 
+Gremlin   958898653  9  5 f   -     -     -         1297    0    0 
+Gremlin   958898694  9  4 f   -     -     -         1297    0    0 
+Gremlin   958898740 10  3 f   -     -     -         1297    0    0 
+Gremlin   958898832 10  2 Bf  -     -     -         1297   10    0 
+Gremlin   958898904  8  1 Br  kc    kf    -         1287   30    0 
+Gremlin   958898971  8  8 c   c     k     f         1257   30    0 
+Gremlin   958899024  8  8 f   -     -     -         1227    0    0 
+Gremlin   958899115  9  7 f   -     -     -         1227    0    0 
+Gremlin   958899165  9  6 c   b     b     k         1227   40    0 6s 5c
+Gremlin   958899202  9  5 f   -     -     -         1187    0    0 
+Gremlin   958899236  9  4 r   b     b     b         1187   70  145 
+Gremlin   958899273  9  3 f   -     -     -         1262    0    0 
+Gremlin   958899309  9  2 Bf  -     -     -         1262   10    0 
+Gremlin   958899349  9  1 Bf  -     -     -         1252    5    0 
+Gremlin   958899428  9  9 c   rr    rc    k         1247  140    0 5d Kd
+Gremlin   958899517  8  7 crc kf    -     -         1107   40    0 
+Gremlin   958899591  8  6 f   -     -     -         1067    0    0 
+Gremlin   958899667  8  5 f   -     -     -         1067    0    0 
+Gremlin   958899742  8  4 rc  bc    k     kf        1067   50    0 
+Gremlin   958899804  8  3 f   -     -     -         1017    0    0 
+Gremlin   958899850  8  2 Br  b     k     kf        1017   40    0 
+Gremlin   958899904  8  1 Brc br    brc   kc         977  180  540 7s Ad
+Gremlin   958899988  8  8 KQ  -     -     -         1337    0    0 
+Gremlin   958900100  9  9 f   -     -     -         1337    0    0 
+Gremlin   958900155 10  9 f   -     -     -         1337    0    0 
+Gremlin   958900187 10  8 cc  k     kf    -         1337   20    0 
+Gremlin   958900274 10  7 c   k     kf    -         1317   10    0 
+Gremlin   958900362  9  6 f   -     -     -         1307    0    0 
+Gremlin   958900416 10  5 f   -     -     -         1307    0    0 
+Gremlin   958900508 10  4 cc  c     rr    r         1307  150  360 7d 7s
+Gremlin   958900556 10  3 f   -     -     -         1517    0    0 
+Gremlin   958900605 10  2 Bk  k     kf    -         1517   10    0 
+Gremlin   958900666 10  1 Bc  krr   b     k         1507   80    0 Ts 9h
+Gremlin   958900789 10 10 c   f     -     -         1427   20    0 
+Gremlin   958900910  9  8 f   -     -     -         1407    0    0 
+Gremlin   958900985 10  8 cc  r     k     r         1407   90  360 9d 8s
+Gremlin   958901067  9  6 f   -     -     -         1677    0    0 
+Gremlin   958901114  9  5 f   -     -     -         1677    0    0 
+Gremlin   958901200  9  4 f   -     -     -         1677    0    0 
+Gremlin   958901238  8  2 f   -     -     -         1677    0    0 
+Gremlin   958901280  8  2 Bk  kf    -     -         1677   10    0 
+Gremlin   958901309  8  1 Bf  -     -     -         1667    5    0 
+Gremlin   958901349  8  8 f   -     -     -         1662    0    0 
+Gremlin   958901386  7  6 f   -     -     -         1662    0    0 
+Gremlin   958901450  7  5 f   -     -     -         1662    0    0 
+Gremlin   958901492  7  4 f   -     -     -         1662    0    0 
+Gremlin   958901528  6  3 r   b     k     f         1662   30    0 
+Gremlin   958901598  6  2 Bf  -     -     -         1632   10    0 
+Gremlin   958901660  6  1 Bf  -     -     -         1622    5    0 
+Gremlin   958901681  6  6 f   -     -     -         1617    0    0 
+Gremlin   958901716  6  5 c   b     -     -         1617   20   45 
+Gremlin   958901735  6  4 f   -     -     -         1642    0    0 
+Gremlin   958901753  7  3 cc  br    b     b         1642   90  210 
+Gremlin   958901788  7  2 Bk  kf    -     -         1762   10    0 
+Gremlin   958901814  7  1 Bcc kf    -     -         1752   40    0 
+Gremlin   958901875  7  7 f   -     -     -         1712    0    0 
+Gremlin   958901909  7  6 f   -     -     -         1712    0    0 
+Gremlin   958901935  7  5 f   -     -     -         1712    0    0 
+Gremlin   958901963  7  4 rr  kc    krc   b         1712  150  445 9h 9d
+Gremlin   958902005  7  3 Q   -     -     -         2007    0    0 
+Gremlin   958906242  9  5 f   -     -     -         1917    0    0 
+Gremlin   958906310  9  4 f   -     -     -         1917    0    0 
+Gremlin   958906366  9  3 f   -     -     -         1917    0    0 
+Gremlin   958906414  9  2 Bk  kcc   Q     -         1917   30    0 
+Gremlin   959161709  8  6 rc  rr    rr    rr       86662  240  495 As Ac
+Gremlin   959161751  9  5 f   Q     -     -        86917    0    0 

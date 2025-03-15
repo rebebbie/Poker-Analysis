@@ -1,0 +1,549 @@
+Porthos   957345124  8  6 c   f     -     -         2310   10    0 
+Porthos   957345162  8  6 f   -     -     -         2300    0    0 
+Porthos   957345196  7  4 f   -     -     -         2300    0    0 
+Porthos   957345208  7  3 f   -     -     -         2300    0    0 
+Porthos   957345235  7  2 Bk  bf    -     -         2300   20    0 
+Porthos   957345276  7  1 Bc  kc    kc    kf        2280   40    0 
+Porthos   957345332  7  7 r   b     b     -         2240   50   95 
+Porthos   957345360  7  6 f   -     -     -         2285    0    0 
+Porthos   957345390  7  5 f   -     -     -         2285    0    0 
+Porthos   957345418  7  4 f   -     -     -         2285    0    0 
+Porthos   957345429  7  3 f   -     -     -         2285    0    0 
+Porthos   957345462  7  2 Bc  kf    -     -         2285   20    0 
+Porthos   957345485  7  1 Bc  b     b     b         2265   70  200 Qh Qs
+Porthos   957345525  7  7 f   -     -     -         2395    0    0 
+Porthos   957345553  7  6 r   f     -     -         2395   20    0 
+Porthos   957345589  7  5 f   -     -     -         2375    0    0 
+Porthos   957345607  7  4 f   -     -     -         2375    0    0 
+Porthos   957345645  7  3 cc  kf    -     -         2375   20    0 
+Porthos   957345696  8  2 Bc  kf    -     -         2355   20    0 
+Porthos   957345716  8  1 Bc  kc    kf    -         2335   30    0 
+Porthos   957345744  8  8 f   -     -     -         2305    0    0 
+Porthos   957345763  8  7 f   -     -     -         2305    0    0 
+Porthos   957345811  8  6 c   c     b     b         2305   60  180 7s 6s
+Porthos   957345859  8  5 f   -     -     -         2425    0    0 
+Porthos   957345889  8  4 f   -     -     -         2425    0    0 
+Porthos   957345923  8  3 f   -     -     -         2425    0    0 
+Porthos   957345966  8  2 Bk  kf    -     -         2425   10    0 
+Porthos   957345995  8  1 Bc  kf    -     -         2415   10    0 
+Porthos   957346042  8  8 f   -     -     -         2405    0    0 
+Porthos   957346079  8  7 f   -     -     -         2405    0    0 
+Porthos   957346107  8  6 r   b     r     -         2405   70  140 
+Porthos   957346140  9  6 c   k     k     f         2475   10    0 
+Porthos   957346174  9  5 f   -     -     -         2465    0    0 
+Porthos   957346236 10  5 f   -     -     -         2465    0    0 
+Porthos   957346282 10  4 f   -     -     -         2465    0    0 
+Porthos   957346329 10  3 f   -     -     -         2465    0    0 
+Porthos   957346368 10  2 Bk  kf    -     -         2465   10    0 
+Porthos   957346417 10  1 Br  b     b     k         2455   50    0 Jd Jc
+Porthos   957346519 10 10 r   c     b     -         2405   60  145 
+Porthos   957346560 10  9 f   -     -     -         2490    0    0 
+Porthos   957346622 10  8 f   -     -     -         2490    0    0 
+Porthos   957346671 10  7 f   -     -     -         2490    0    0 
+Porthos   957346724 10  6 fQ  -     -     -         2490    0    0 
+Porthos   957353266  9  3 f   -     -     -         2490    0    0 
+Porthos   957353292  9  2 Bf  -     -     -         2490   10    0 
+Porthos   957353346  9  1 Br  bc    kc    k         2480   60  180 Kc Kh
+Porthos   957353434  8  8 c   c     b     k         2600   60  210 Td 8c
+Porthos   957353498  8  7 f   -     -     -         2750    0    0 
+Porthos   957353533  8  6 f   -     -     -         2750    0    0 
+Porthos   957353599  8  5 f   -     -     -         2750    0    0 
+Porthos   957353647  7  4 f   -     -     -         2750    0    0 
+Porthos   957353697  7  3 r   b     k     k         2750   30    0 8d Ac
+Porthos   957353780  6  1 Bc  bc    kf    -         2720   40    0 
+Porthos   957353814  6  1 Bf  -     -     -         2680    5    0 
+Porthos   957353844  7  7 c   b     -     -         2675   20   45 
+Porthos   957353894  7  6 f   -     -     -         2700    0    0 
+Porthos   957353947  7  5 f   -     -     -         2700    0    0 
+Porthos   957353972  7  4 f   -     -     -         2700    0    0 
+Porthos   957354036  7  3 f   -     -     -         2700    0    0 
+Porthos   957354078  7  2 Bc  rc    cc    b         2700  140  440 Kd Td
+Porthos   957354155  7  1 Bc  kf    -     -         3000   20    0 
+Porthos   957354188  7  7 c   k     f     -         2980   20    0 
+Porthos   957354232  7  6 c   c     c     f         2960   50    0 
+Porthos   957354278  6  4 f   -     -     -         2910    0    0 
+Porthos   957354327  8  5 f   -     -     -         2910    0    0 
+Porthos   957354370  8  4 f   -     -     -         2910    0    0 
+Porthos   957354408  8  3 cc  bc    kc    kc        2910   80    0 Kh 7h
+Porthos   957354453  8  2 Bk  kf    -     -         2830   10    0 
+Porthos   957354531  9  1 Bc  k     kf    -         2820   10    0 
+Porthos   957354609  9  9 f   -     -     -         2810    0    0 
+Porthos   957354680  9  8 f   -     -     -         2810    0    0 
+Porthos   957354737  9  7 c   f     -     -         2810   20    0 
+Porthos   957354804  9  6 f   -     -     -         2790    0    0 
+Porthos   957354883 10  6 f   -     -     -         2790    0    0 
+Porthos   957354960 10  5 f   -     -     -         2790    0    0 
+Porthos   957355008 10  4 f   -     -     -         2790    0    0 
+Porthos   957355096 10  3 f   -     -     -         2790    0    0 
+Porthos   957355193 10  2 Bf  -     -     -         2790   10    0 
+Porthos   957355230 10  1 Bc  kf    -     -         2780   10    0 
+Porthos   957355266 10 10 f   -     -     -         2770    0    0 
+Porthos   957355327 10  9 f   -     -     -         2770    0    0 
+Porthos   957355404 10  8 f   -     -     -         2770    0    0 
+Porthos   957355477 10  7 f   -     -     -         2770    0    0 
+Porthos   957355561 10  6 c   kc    f     -         2770   20    0 
+Porthos   957355619 10  5 f   -     -     -         2750    0    0 
+Porthos   957355684 10  4 f   -     -     -         2750    0    0 
+Porthos   957355729 10  3 f   -     -     -         2750    0    0 
+Porthos   957355794 10  2 Bk  kf    -     -         2750   10    0 
+Porthos   957355856 10  1 Bc  kc    b     brc       2740  120    0 3s Jh
+Porthos   957355940 10 10 c   f     -     -         2620   10    0 
+Porthos   957355993 10  9 f   -     -     -         2610    0    0 
+Porthos   957356040 10  8 r   k     f     -         2610   20    0 
+Porthos   957356072 10  7 f   -     -     -         2590    0    0 
+Porthos   957356106 10  6 cc  kf    -     -         2590   20    0 
+Porthos   957356173 10  5 cc  kf    -     -         2570   20    0 
+Porthos   957356237 10  4 f   -     -     -         2550    0    0 
+Porthos   957356304 10  3 fQ  -     -     -         2550    0    0 
+Porthos   957452901  2  1 Bc  k     k     k         3910   10    0 5c 4c
+Porthos   957452922  3  3 c   f     -     -         3900   10    0 
+Porthos   957452937  3  2 B   -     -     -         3890   10   15 
+Porthos   957452939  3  1 Bf  -     -     -         3895    5    0 
+Porthos   957452943  3  3 c   c     c     k         3890   40    0 8s Qs
+Porthos   957452957  3  2 Bk  f     -     -         3850   10    0 
+Porthos   957452971  3  1 Bf  -     -     -         3840    5    0 
+Porthos   957452976  3  3 f   -     -     -         3835    0    0 
+Porthos   957452978  3  2 Bc  kc    k     k         3835   30    0 Ah 8h
+Porthos   957453000  4  1 Bc  b     b     -         3805   40   70 
+Porthos   957453019  4  4 f   -     -     -         3835    0    0 
+Porthos   957453027  4  3 r   b     b     b         3835   70  145 Qc Kh
+Porthos   957453054  6  4 r   b     -     -         3910   30   65 
+Porthos   957453082  6  3 f   -     -     -         3945    0    0 
+Porthos   957453170  5  2 Bk  k     b     -         3945   30   40 
+Porthos   957453189  5  1 Bc  b     b     b         3955   60    0 Kc 6c
+Porthos   957453209  5  5 c   k     k     b         3895   30   55 
+Porthos   957453233  5  4 f   -     -     -         3920    0    0 
+Porthos   957453251  5  3 f   -     -     -         3920    0    0 
+Porthos   957453260  5  2 Bk  k     k     b         3920   30   60 
+Porthos   957453310  6  1 Bf  -     -     -         3950    5    0 
+Porthos   957453324  6  6 c   k     f     -         3945   10    0 
+Porthos   957453356  7  6 f   -     -     -         3935    0    0 
+Porthos   957453388  7  5 cc  f     -     -         3935   20    0 
+Porthos   957453432  7  4 cc  kf    -     -         3915   20    0 
+Porthos   957453512  7  3 cc  k     b     -         3895   40   90 
+Porthos   957453551  8  3 c   f     -     -         3945   10    0 
+Porthos   957453582  9  3 c   kf    -     -         3935   10    0 
+Porthos   957453621  8  2 Bc  bc    kf    -         3925   40    0 
+Porthos   957453656  8  1 Bf  -     -     -         3885    5    0 
+Porthos   957453720  8  8 f   -     -     -         3880    0    0 
+Porthos   957453750  9  8 rc  cf    -     -         3880   50    0 
+Porthos   957453817  8  6 f   -     -     -         3830    0    0 
+Porthos   957453879  8  6 cc  c     b     -         3830   50  120 
+Porthos   957453916  8  5 c   kf    -     Q         3900   10    0 
+Porthos   957884355  5  5 f   -     -     -         5578    0    0 
+Porthos   957884373  6  4 r   kc    kf    -         5578   30    0 
+Porthos   957884394  6  3 f   -     -     -         5548    0    0 
+Porthos   957884414  6  2 Bk  b     b     kc        5548   60    0 9s 6d
+Porthos   957884442  6  1 Br  kc    kc    kf        5488   50    0 
+Porthos   957884468  6  6 c   b     brc   c         5438  120    0 6h As
+Porthos   957884529  6  5 f   -     -     -         5318    0    0 
+Porthos   957884546  6  4 f   -     -     -         5318    0    0 
+Porthos   957884572  6  3 f   -     -     -         5318    0    0 
+Porthos   957884592  6  2 Bk  k     c     f         5318   30    0 
+Porthos   957884629  6  1 Bf  -     -     -         5288    5    0 
+Porthos   957884677  5  5 c   k     f     -         5283   10    0 
+Porthos   957884725  4  3 f   -     -     -         5273    0    0 
+Porthos   957884741  4  2 Br  bc    k     k         5273   40    0 4d Qc
+Porthos   957884773  4  1 Bf  -     -     -         5233    5    0 
+Porthos   957884792  4  4 f   -     -     -         5228    0    0 
+Porthos   957884818  4  3 r   c     c     c         5228   70    0 3c Kd
+Porthos   957884839  3  1 Br  b     b     b         5158   70  140 Kc 2d
+Porthos   957884854  3  1 Bf  -     -     -         5228    5    0 
+Porthos   957884869  3  3 f   -     -     -         5223    0    0 
+Porthos   957884878  3  2 Bk  k     b     -         5223   30   40 
+Porthos   957884886  3  1 Bc  kf    -     -         5233   20    0 
+Porthos   957884903  4  4 c   bc    c     k         5213   60  185 Ks 4c
+Porthos   957884956  4  3 f   -     -     -         5338    0    0 
+Porthos   957884977  4  2 Bk  kc    k     k         5338   20    0 6h 7c
+Porthos   957884993  4  1 Bf  -     -     -         5318    5    0 
+Porthos   957885008  4  4 rc  c     c     f         5313   70    0 
+Porthos   957885030  4  3 f   -     -     -         5243    0    0 
+Porthos   957885050  4  2 Bf  -     -     -         5243   10    0 
+Porthos   957885063  4  1 Brc bc    k     b         5233   80    0 7d Kh
+Porthos   957885089  4  4 c   b     -     -         5153   20   40 
+Porthos   957885105  4  3 rc  bc    cc    kc        5173  110    0 Ad 6s
+Porthos   957885133  4  2 Br  brc   r     k         5063  110    0 Qh Qs
+Porthos   957885163  4  1 Bc  kc    k     k         4953   40    0 9d Td
+Porthos   957885188  4  4 f   -     -     -         4913    0    0 
+Porthos   957885200  4  3 f   -     -     -         4913    0    0 
+Porthos   957885208  4  2 Bk  f     -     -         4913   10    0 
+Porthos   957885215  4  1 Bc  bc    kc    br        4903  120  250 9d 9h
+Porthos   957885241  4  4 f   -     -     -         5033    0    0 
+Porthos   957885258  4  3 f   -     -     -         5033    0    0 
+Porthos   957885282  4  2 Br  c     c     k         5033   50    0 Ah Th
+Porthos   957885298  4  1 Bcc kc    kf    -         4983   30    0 
+Porthos   957885314  4  4 f   -     -     -         4953    0    0 
+Porthos   957885329  4  3 f   -     -     -         4953    0    0 
+Porthos   957885344  4  2 Bk  k     k     b         4953   30   55 
+Porthos   957885364  4  1 Bf  -     -     -         4978    5    0 
+Porthos   957885384  4  4 f   -     -     -         4973    0    0 
+Porthos   957885390  4  3 r   k     r     k         4973   60   90 8h 9h
+Porthos   957885409  4  2 Bk  k     b     -         5003   30   55 
+Porthos   957885437  4  1 Bc  k     k     k         5028   10   30 6s 9s
+Porthos   957885465  4  4 f   -     -     -         5048    0    0 
+Porthos   957885472  4  3 f   -     -     -         5048    0    0 
+Porthos   957885494  4  2 Bf  -     -     -         5048   10    0 
+Porthos   957885513  4  1 Bc  b     brf   -         5038   80    0 
+Porthos   957885536  4  4 f   -     -     -         4958    0    0 
+Porthos   957885543  4  3 r   c     c     f         4958   50    0 
+Porthos   957885562  4  2 Br  b     b     -         4908   50   80 
+Porthos   957885584  4  1 Bc  kc    kf    -         4938   20    0 
+Porthos   957885609  4  4 f   -     -     -         4918    0    0 
+Porthos   957885624  4  3 f   -     -     -         4918    0    0 
+Porthos   957885652  4  2 Br  b     bc    kc        4918  100    0 Td Tc
+Porthos   957885678  4  1 Br  -     -     -         4818   20   30 
+Porthos   957885686  4  4 rc  k     k     b         4828   50    0 Kc 8h
+Porthos   957885707  4  3 c   b     kc    b         4778   60  170 2d Kd
+Porthos   957885737  4  2 Bk  f     -     -         4888   10    0 
+Porthos   957885754  4  1 Bf  -     -     -         4878    5    0 
+Porthos   957885757  4  4 f   -     -     -         4873    0    0 
+Porthos   957885767  5  4 c   kf    -     -         4873   10    0 
+Porthos   957885780  5  3 f   -     -     -         4863    0    0 
+Porthos   957885799  5  2 Bk  b     b     -         4863   40   65 
+Porthos   957885813  5  1 Bf  -     -     -         4888    5    0 
+Porthos   957885829  4  4 f   -     -     -         4883    0    0 
+Porthos   957885842  4  4 f   -     -     -         4883    0    0 
+Porthos   957885857  4  3 rc  k     k     f         4883   30    0 
+Porthos   957885880  4  2 Bc  kc    kf    -         4853   30    0 
+Porthos   957885900  4  1 Bf  -     -     -         4823    5    0 
+Porthos   957885913  4  4 rc  k     k     b         4818   60  180 
+Porthos   957885939  4  3 f   -     -     -         4938    0    0 
+Porthos   957885954  4  2 Bk  kc    k     c         4938   40    0 6d 5s
+Porthos   957885974  4  1 Bc  b     b     k         4898   40    0 8c 8h
+Porthos   957885993  4  4 f   -     -     -         4858    0    0 
+Porthos   957886004  4  3 r   b     b     b         4858   70   78 4c Kd
+Porthos   957886016  4  2 Bk  k     b     b         4866   50  100 4d Kh
+Porthos   957886035  4  1 Bf  -     -     -         4916    5    0 
+Porthos   957886054  4  4 f   -     -     -         4911    0    0 
+Porthos   957886073  4  3 c   c     k     b         4911   40  100 Js Ts
+Porthos   957886088  4  2 Br  k     b     k         4971   50  130 Ac Td
+Porthos   957886113  4  1 Bcc b     b     b         5051   70    0 Kd 9s
+Porthos   957886139  4  4 f   -     -     -         4981    0    0 
+Porthos   957886162  4  3 r   c     f     -         4981   30    0 
+Porthos   957886179  4  2 Br  bc    kc    k         4951   70  145 As 8s
+Porthos   957886198  4  1 Bc  k     b     k         5026   40    0 5c Kc
+Porthos   957886218  4  4 c   f     -     -         4986   10    0 
+Porthos   957886238  4  3 f   -     -     -         4976    0    0 
+Porthos   957886252  4  2 Bf  -     -     -         4976   10    0 
+Porthos   957886261  4  1 Bf  -     -     -         4966    5    0 
+Porthos   957886280  5  5 f   -     -     -         4961    0    0 
+Porthos   957886290  6  4 cc  cc    c     f         4961   70    0 
+Porthos   957886321  7  3 f   -     -     -         4891    0    0 
+Porthos   957886345  7  2 BfQ -     -     -         4891   10    0 
+Porthos   957899066  3  3 f   -     -     -         4641    0    0 
+Porthos   957899086  2  2 B   -     -     -         4641   10   15 
+Porthos   957899093  2  1 Bc  k     k     k         4646   10    0 Jh Qh
+Porthos   957899108  2  2 B   -     -     -         4636   10   15 
+Porthos   957899126  2  1 Bc  k     b     -         4641   30   40 
+Porthos   957899139  2  2 Bc  c     c     b         4651   70    0 4c 4h
+Porthos   957899152  2  1 Bf  -     -     -         4581    5    0 
+Porthos   957899157  2  2 B   -     -     -         4576   10   15 
+Porthos   957899159  2  1 Br  -     -     -         4581   20   30 
+Porthos   957899162  2  2 B   -     -     -         4591   10   15 
+Porthos   957899164  2  1 Bc  b     -     -         4596   20   30 
+Porthos   957899176  2  2 B   -     -     -         4606   10   15 
+Porthos   957899178  2  1 Bf  -     -     -         4611    5    0 
+Porthos   957899181  2  2 Bk  b     f     -         4606   20    0 
+Porthos   957899197  2  1 Bc  kc    kc    b         4586   60  100 
+Porthos   957899224  2  2 Bf  -     -     -         4626   10    0 
+Porthos   957899229  2  1 Bf  -     -     -         4616    5    0 
+Porthos   957899231  2  2 B   -     -     -         4611   10   15 
+Porthos   957899233  2  1 Br  bc    kf    -         4616   40    0 
+Porthos   957899248  3  2 Bf  -     -     -         4576   10    0 
+Porthos   957899265  3  1 Bf  -     -     -         4566    5    0 
+Porthos   957899283  3  3 r   c     b     b         4561   70  130 
+Porthos   957899302  4  2 Bc  kc    kc    k         4621   50    0 4c Kc
+Porthos   957899341  4  1 Bf  -     -     -         4571    5    0 
+Porthos   957899371  5  5 rc  c     f     -         4566   40    0 
+Porthos   957899391  5  4 r   k     b     b         4526   60  115 
+Porthos   957899409  5  3 r   c     f     -         4581   30    0 
+Porthos   957899430  6  2 Br  c     c     c         4551   70    0 Kd As
+Porthos   957899475  6  1 Bf  -     -     -         4481    5    0 
+Porthos   957899500  6  6 f   Q     -     -         4476    0    0 
+Porthos   957942474  5  2 Bk  k     kf    -         4476   10    0 
+Porthos   957942509  4  1 Br  k     k     b         4466   40  100 
+Porthos   957942536  5  4 c   cc    br    b         4526  140  265 Ah 5c
+Porthos   957942602  5  3 f   -     -     -         4651    0    0 
+Porthos   957942632  5  2 Bc  f     -     -         4651   30    0 
+Porthos   957942658  5  1 Bf  -     -     -         4621    5    0 
+Porthos   957942686  5  5 c   k     b     -         4616   30   60 
+Porthos   957942724  5  4 c   f     -     -         4646   20    0 
+Porthos   957942757  5  3 cc  kf    -     -         4626   20    0 
+Porthos   957942826  5  2 Bk  b     bc    kc        4606   80    0 3c Ts
+Porthos   957942864  6  1 Br  kc    brc   b         4526  140  400 Jh Jd
+Porthos   957942909  6  6 c   f     -     -         4786   20    0 
+Porthos   957942950  6  5 f   -     -     -         4766    0    0 
+Porthos   957942986  6  4 f   -     -     -         4766    0    0 
+Porthos   957943010  7  4 f   -     -     -         4766    0    0 
+Porthos   957943061  8  3 fQ  -     -     -         4766    0    0 
+Porthos   958130696  7  3 f   -     -     -         4549    0    0 
+Porthos   958130731  7  2 Brc c     c     f         4549   70    0 
+Porthos   958130769  7  1 Br  k     b     brc       4479  120    0 Ac Td
+Porthos   958130817  6  6 f   -     -     -         4359    0    0 
+Porthos   958130842  6  6 f   -     -     -         4359    0    0 
+Porthos   958130852  5  4 r   c     b     c         4359   70    0 3c Ad
+Porthos   958130874  6  3 r   k     kf    -         4289   20    0 
+Porthos   958130913  6  2 Bk  kf    -     -         4269   10    0 
+Porthos   958130949  6  1 Bc  kc    kf    -         4259   20    0 
+Porthos   958130977  6  6 f   -     -     -         4239    0    0 
+Porthos   958131029  6  5 r   b     k     b         4239   50  130 
+Porthos   958131076  6  4 c   b     b     b         4319   60  130 
+Porthos   958131111  5  2 Bc  bc    kf    -         4389   40    0 
+Porthos   958131139  5  1 Bf  -     -     -         4349    5    0 
+Porthos   958131147  5  5 f   -     -     -         4344    0    0 
+Porthos   958131187  5  4 f   -     -     -         4344    0    0 
+Porthos   958131216  5  3 f   -     -     -         4344    0    0 
+Porthos   958131253  5  2 Bk  k     k     b         4344   30   60 
+Porthos   958131293  5  1 Bf  -     -     -         4374    5    0 
+Porthos   958131334  5  5 r   k     c     c         4369   60   80 4c Kc
+Porthos   958131384  5  4 r   k     b     -         4389   40   90 
+Porthos   958131418  5  3 f   -     -     -         4439    0    0 
+Porthos   958131453  5  2 Bk  f     -     -         4439   10    0 
+Porthos   958131474  5  1 Bc  b     kf    -         4429   20    0 
+Porthos   958131502  6  6 f   -     -     -         4409    0    0 
+Porthos   958131543  5  4 c   c     c     c         4409   70    0 7s 7c
+Porthos   958131586  4  3 r   b     b     -         4339   50  105 
+Porthos   958131613  4  2 Bc  r     b     k         4394   60  120 8s 7s
+Porthos   958131636  4  1 Bc  b     bc    kc        4454   80    0 7d Ad
+Porthos   958131665  4  4 f   -     -     -         4374    0    0 
+Porthos   958131682  4  3 r   -     -     -         4374   20   35 
+Porthos   958131690  4  2 Bk  bc    kc    kc        4389   70    0 Qs 8d
+Porthos   958131714  4  1 Brc kc    kc    kc        4319   80    0 As 3c
+Porthos   958131742  4  4 r   k     k     r         4239   60    0 Kc 4h
+Porthos   958131769  4  3 r   b     b     b         4179   70  155 
+Porthos   958131803  5  2 Bk  k     k     k         4264   10    0 4h 2s
+Porthos   958131829  5  1 Bc  bc    kc    k         4254   60    0 Ah 9h
+Porthos   958131853  5  5 f   -     -     -         4194    0    0 
+Porthos   958131877  5  4 c   k     k     b         4194   40  125 Kd 9d
+Porthos   958131909  6  4 f   -     -     -         4279    0    0 
+Porthos   958131941  6  3 f   -     -     -         4279    0    0 
+Porthos   958131976  6  2 Bc  f     -     -         4279   20    0 
+Porthos   958132004  6  1 Bc  b     b     b         4259   60  110 
+Porthos   958132022  6  6 f   -     -     -         4309    0    0 
+Porthos   958132043  6  5 c   f     -     -         4309   10    0 
+Porthos   958132072  6  4 f   -     -     -         4299    0    0 
+Porthos   958132090  7  4 f   -     -     -         4299    0    0 
+Porthos   958132138  7  3 c   kf    -     -         4299   10    0 
+Porthos   958132175  7  2 Bk  kf    -     -         4289   10    0 
+Porthos   958132206  7  1 BfQ -     -     -         4279    5    0 
+Porthos   958730063  6  2 Bc  kc    b     b         2671   70  125 
+Porthos   958730107  6  1 Bf  -     -     -         2726    5    0 
+Porthos   958730144  6  6 f   -     -     -         2721    0    0 
+Porthos   958730165  7  5 f   -     -     -         2721    0    0 
+Porthos   958730177  7  4 f   -     -     -         2721    0    0 
+Porthos   958730212  7  3 f   -     -     -         2721    0    0 
+Porthos   958730230  7  2 Bk  kf    -     -         2721   10    0 
+Porthos   958730289  7  1 Bc  kc    kf    -         2711   20    0 
+Porthos   958730348  7  7 c   k     c     b         2691   60    0 Td 9d
+Porthos   958730403  7  6 f   -     -     -         2631    0    0 
+Porthos   958730450  7  5 f   -     -     -         2631    0    0 
+Porthos   958730457  7  4 fQ  -     -     -         2631    0    0 
+Porthos   958947308  9  9 rc  b     brc   f         3421  120    0 
+Porthos   958947402  9  8 c   k     f     Q         3301   10    0 
+Porthos   959019430  3  2 Bf  -     -     -         3291   10    0 
+Porthos   959019451  3  1 Bc  kf    -     -         3281   20    0 
+Porthos   959019506  3  3 r   b     -     -         3261   30   55 
+Porthos   959019530  3  2 Bf  -     -     -         3286   10    0 
+Porthos   959019544  3  1 Bc  kf    -     -         3276   10    0 
+Porthos   959019583  3  3 f   -     -     -         3266    0    0 
+Porthos   959019597  3  2 Bk  b     b     b         3266   60    0 5c 8s
+Porthos   959019619  3  1 Bc  k     b     bc        3206   70  150 Tc 9s
+Porthos   959019652  3  3 f   -     -     -         3286    0    0 
+Porthos   959019689  3  2 Bc  k     kc    kc        3286   60    0 7d 5s
+Porthos   959019717  3  1 Bc  b     -     -         3226   20   40 
+Porthos   959019737  3  3 f   -     -     -         3246    0    0 
+Porthos   959019758  3  2 Bk  c     c     c         3246   60    0 9s Kh
+Porthos   959019787  3  1 Brc kc    kc    kc        3186   80    0 Tc Kh
+Porthos   959019815  3  3 f   -     -     -         3106    0    0 
+Porthos   959019841  3  2 Bk  k     f     -         3106   10    0 
+Porthos   959019858  3  1 Bc  kc    kc    k         3096   40   90 4s Ts
+Porthos   959019888  3  3 cc  f     -     -         3146   20    0 
+Porthos   959019916  3  2 Bc  c     c     c         3126   80    0 7c 7d
+Porthos   959019948  4  1 Bc  b     b     b         3046   60  190 Ac 7h
+Porthos   959019982  4  4 f   -     -     -         3176    0    0 
+Porthos   959020003  5  3 f   -     -     -         3176    0    0 
+Porthos   959020053  6  2 Bc  kf    -     -         3176   20    0 
+Porthos   959020101  6  1 Bc  kc    b     b         3156   70  240 8c 7d
+Porthos   959020147  6  6 f   -     -     -         3326    0    0 
+Porthos   959020177  6  5 r   k     k     b         3326   40   95 3c Ad
+Porthos   959020206  6  4 r   bc    kc    kc        3381   80  265 Ac Qh
+Porthos   959020256  5  3 f   -     -     -         3566    0    0 
+Porthos   959020276  6  2 BQ  -     -     -         3566   10    0 
+Porthos   959153640  8  3 f   -     -     -         2441    0    0 
+Porthos   959153708  8  2 Bk  k     k     f         2431   10    0 
+Porthos   959153759  8  1 Br  b     k     kc        2421   50    0 Kh Ad
+Porthos   959153805  8  8 f   -     -     -         2371    0    0 
+Porthos   959153899  9  7 f   -     -     -         2371    0    0 
+Porthos   959153977  8  5 f   -     -     -         2371    0    0 
+Porthos   959154055  8  4 f   -     -     -         2371    0    0 
+Porthos   959154135  8  2 Bf  -     -     -         2371   10    0 
+Porthos   959154223  9  1 Bc  b     b     b         2361   60  230 8s Jd
+Porthos   959154302  9  9 r   r     b     b         2531   80  305 Kc Kd
+Porthos   959154438 10  9 r   bc    bc    kc        2756  120    0 Ah Js
+Porthos   959154524 10  8 f   -     -     -         2636    0    0 
+Porthos   959154615  8  6 f   -     -     -         2636    0    0 
+Porthos   959154684  8  5 f   -     -     -         2636    0    0 
+Porthos   959154752  8  4 f   -     -     -         2636    0    0 
+Porthos   959154893  9  4 f   -     -     -         2636    0    0 
+Porthos   959154967  9  3 c   k     f     -         2636   10    0 
+Porthos   959155008  9  2 Bf  -     -     -         2626   10    0 
+Porthos   959155141  9  1 Bf  -     -     -         2616    5    0 
+Porthos   959155211  9  9 f   -     -     -         2611    0    0 
+Porthos   959155329  9  8 f   -     -     -         2611    0    0 
+Porthos   959155397  9  7 f   -     -     -         2611    0    0 
+Porthos   959155451 10  7 f   -     -     -         2611    0    0 
+Porthos   959155599 10  6 f   -     -     -         2611    0    0 
+Porthos   959155690 10  5 f   -     -     -         2611    0    0 
+Porthos   959155764 10  4 f   -     -     -         2611    0    0 
+Porthos   959155897  9  3 c   kc    kf    Q         2611   20    0 
+Porthos   959159749  8  5 f   -     -     -         2461    0    0 
+Porthos   959159779  8  4 f   -     -     -         2461    0    0 
+Porthos   959159846  9  3 f   -     -     -         2461    0    0 
+Porthos   959159904  9  2 Bf  -     -     -         2461   10    0 
+Porthos   959159973  9  1 Bc  k     kf    -         2451   20    0 
+Porthos   959160026  9  3 Q   -     -     -         2431    0    0 
+Porthos   959196835  8  4 c   cc    brc   kc        2411  140  185 9c 8c
+Porthos   959196888  7  2 f   -     -     -         2456    0    0 
+Porthos   959196904  7  2 B   -     -     -         2456   10   15 
+Porthos   959196914  7  1 Bf  -     -     -         2461    5    0 
+Porthos   959196958  8  8 c   k     k     b         2456   30   75 
+Porthos   959197043  8  7 c   f     -     -         2501   10    0 
+Porthos   959197081  8  6 c   f     -     -         2491   20    0 
+Porthos   959197103  9  6 f   -     -     -         2471    0    0 
+Porthos   959197144  9  6 f   -     -     -         2471    0    0 
+Porthos   959197184  8  4 f   -     -     -         2471    0    0 
+Porthos   959197222  8  3 f   -     -     -         2471    0    0 
+Porthos   959197253  8  2 Bk  b     kf    -         2471   20    0 
+Porthos   959197297  8  1 Bc  b     -     -         2451   20   30 
+Porthos   959197318  8  8 f   -     -     -         2461    0    0 
+Porthos   959197342  8  7 f   -     -     -         2461    0    0 
+Porthos   959197371  8  6 f   -     -     -         2461    0    0 
+Porthos   959197400  8  5 f   -     -     -         2461    0    0 
+Porthos   959197451  8  4 cc  f     -     Q         2461   20    0 
+Porthos   959339472 10  3 f   -     -     -         3151    0    0 
+Porthos   959339534  9  2 Bk  k     kc    k         3151   30    0 2c 8c
+Porthos   959339596  9  1 Bf  -     -     -         3121    5    0 
+Porthos   959339676  9  9 f   -     -     -         3116    0    0 
+Porthos   959339769  9  7 r   b     c     f         3116   60    0 
+Porthos   959339898 10  7 f   -     -     -         3056    0    0 
+Porthos   959340015 10  6 f   -     -     -         3056    0    0 
+Porthos   959340135  8  5 f   -     -     -         3056    0    0 
+Porthos   959340187  9  4 f   -     -     -         3056    0    0 
+Porthos   959340268  8  3 f   -     -     -         3056    0    0 
+Porthos   959340360  8  2 Bk  kr    b     b         3056   70  175 8c 5s
+Porthos   959340428  8  1 Bf  -     -     -         3161    5    0 
+Porthos   959340451  8  8 c   c     c     r         3156   80  170 
+Porthos   959340526  9  8 c   f     -     -         3246   20    0 
+Porthos   959340555  9  7 c   r     -     -         3226   30   95 
+Porthos   959340604  9  6 f   -     -     -         3291    0    0 
+Porthos   959340629  9  5 f   -     -     -         3291    0    0 
+Porthos   959340675  9  4 f   -     -     -         3291    0    0 
+Porthos   959340713  8  3 c   cf    -     -         3291   20    0 
+Porthos   959340754  7  2 Bk  k     kf    -         3271   10    0 
+Porthos   959340801  7  1 BQ  -     -     -         3261    5    0 
+Porthos   959341102  7  3 f   -     -     -         3256    0    0 
+Porthos   959341146  7  2 Bk  k     b     -         3256   30   40 
+Porthos   959341195  7  1 Br  k     k     b         3266   40   70 
+Porthos   959341217  8  8 c   f     -     -         3296   10    0 
+Porthos   959341236  7  6 f   -     -     -         3286    0    0 
+Porthos   959341270  8  6 f   -     -     -         3286    0    0 
+Porthos   959341310  8  5 f   -     -     -         3286    0    0 
+Porthos   959341360  9  4 f   -     -     -         3286    0    0 
+Porthos   959341401  9  3 cc  kf    -     -         3286   30    0 
+Porthos   959341488  9  2 Bk  bc    kc    k         3256   50    0 Kc 4h
+Porthos   959341550  8  1 Bc  k     kf    -         3206   10    0 
+Porthos   959341605  8  8 rc  k     c     c         3196   70  245 Ad Jd
+Porthos   959341674  7  6 f   -     -     -         3371    0    0 
+Porthos   959341710  7  5 f   -     -     -         3371    0    0 
+Porthos   959341741  7  4 f   -     -     -         3371    0    0 
+Porthos   959341785  7  3 fQ  -     -     -         3371    0    0 
+Porthos   959670371 10  7 f   -     -     -         3321    0    0 
+Porthos   959670393 10  6 f   -     -     -         3321    0    0 
+Porthos   959670420 10  5 r   kc    kc    k         3321   50    0 Kd As
+Porthos   959670474 10  4 c   rc    b     bc        3271  100    0 Ks Js
+Porthos   959670545 10  3 f   -     -     -         3171    0    0 
+Porthos   959670595 10  2 Bc  kf    -     -         3171   20    0 
+Porthos   959670662  9  1 Bf  -     -     -         3151    5    0 
+Porthos   959670694  9  9 f   -     -     -         3146    0    0 
+Porthos   959670708  9  8 f   -     -     -         3146    0    0 
+Porthos   959670757  9  7 f   -     -     -         3146    0    0 
+Porthos   959670805  9  6 cc  c     c     f         3146   50    0 
+Porthos   959670861  7  4 f   -     -     -         3096    0    0 
+Porthos   959670874  7  3 c   c     k     k         3096   20    0 Ts As
+Porthos   959670913  8  2 Bk  kf    -     -         3076   10    0 
+Porthos   959670992  8  1 Bc  k     b     -         3066   30   60 
+Porthos   959671016  8  8 f   -     -     -         3096    0    0 
+Porthos   959671041  8  7 f   -     -     -         3096    0    0 
+Porthos   959671063  8  6 c   k     k     c         3096   30    0 7s 9s
+Porthos   959671127  7  5 f   -     -     -         3066    0    0 
+Porthos   959671156  8  4 cc  kf    -     -         3066   20    0 
+Porthos   959671174  8  3 f   -     -     -         3046    0    0 
+Porthos   959671226  7  2 Bc  kf    -     -         3046   20    0 
+Porthos   959671258  7  1 Bf  -     -     -         3026    5    0 
+Porthos   959671308  9  9 c   f     -     -         3021   10    0 
+Porthos   959671339  9  8 c   k     c     b         3011   50    0 Jc Td
+Porthos   959671393  9  7 f   -     -     -         2961    0    0 
+Porthos   959671430 10  8 f   -     -     -         2961    0    0 
+Porthos   959671456  9  6 f   -     -     -         2961    0    0 
+Porthos   959671514  9  5 f   -     -     -         2961    0    0 
+Porthos   959671543  9  4 f   -     -     -         2961    0    0 
+Porthos   959671571  9  3 f   -     -     -         2961    0    0 
+Porthos   959671615 10  2 Bc  kf    -     -         2961   20    0 
+Porthos   959671704  9  1 Bf  -     -     -         2941    5    0 
+Porthos   959671755  8  8 f   -     -     -         2936    0    0 
+Porthos   959671798  8  7 f   -     -     -         2936    0    0 
+Porthos   959671842  8  6 f   -     -     -         2936    0    0 
+Porthos   959671864  9  6 f   -     -     -         2936    0    0 
+Porthos   959671890  9  5 c   f     -     -         2936   10    0 
+Porthos   959671944  8  3 f   -     -     -         2926    0    0 
+Porthos   959671987  8  3 f   -     -     -         2926    0    0 
+Porthos   959672022  8  2 Bk  kf    -     -         2926   10    0 
+Porthos   959672068  9  1 Bf  -     -     -         2916    5    0 
+Porthos   959672145 10 10 f   -     -     -         2911    0    0 
+Porthos   959672211  9  8 f   -     -     -         2911    0    0 
+Porthos   959672266  9  7 f   -     -     -         2911    0    0 
+Porthos   959672301  8  5 f   -     -     -         2911    0    0 
+Porthos   959672397  8  4 f   -     -     -         2911    0    0 
+Porthos   959672436  7  3 f   -     -     -         2911    0    0 
+Porthos   959672487  7  2 Bk  kc    kf    -         2911   20    0 
+Porthos   959672554  8  1 Bc  b     b     bc        2891   80    0 4h 4d
+Porthos   959672610  8  8 c   c     c     k         2811   40    0 7s Ts
+Porthos   959672661  8  7 r   b     brc   c         2771  130  275 Jd Js
+Porthos   959672707  8  6 f   -     -     -         2916    0    0 
+Porthos   959672774  8  5 c   k     f     -         2916   10    0 
+Porthos   959672834  9  5 f   -     -     -         2906    0    0 
+Porthos   959672914  9  4 f   -     -     -         2906    0    0 
+Porthos   959672988  9  3 f   -     -     -         2906    0    0 
+Porthos   959673049  9  2 Bc  kc    kc    kf        2906   50    0 
+Porthos   959673099  9  1 Bf  -     -     -         2856    5    0 
+Porthos   959673151  9  9 c   k     f     -         2851   10    0 
+Porthos   959673230 10  9 c   bc    c     c         2841   80    0 5h Ah
+Porthos   959673298 10  8 f   Q     -     -         2761    0    0 
+Porthos   959708252  5  3 f   -     -     -         3031    0    0 
+Porthos   959708306  5  2 Br  bc    kc    k         3031   70    0 Kc As
+Porthos   959708369  4  1 Bc  kc    br    b         2961  100  220 9h 2s
+Porthos   959708396  4  4 f   -     -     -         3081    0    0 
+Porthos   959708403  4  3 f   -     -     -         3081    0    0 
+Porthos   959708436  4  2 Bk  kf    -     -         3081   10    0 
+Porthos   959708450  4  1 Br  b     b     k         3071   50  150 Qh Qs
+Porthos   959708470  4  4 f   -     -     -         3171    0    0 
+Porthos   959708484  4  3 f   -     -     -         3171    0    0 
+Porthos   959708500  4  2 Bk  kf    -     -         3171   10    0 
+Porthos   959708511  4  1 Bf  -     -     -         3161    5    0 
+Porthos   959708532  4  4 f   -     -     -         3156    0    0 
+Porthos   959708551  4  3 f   -     -     -         3156    0    0 
+Porthos   959708569  4  2 Br  c     rc    c         3156  110    0 Ac Ah
+Porthos   959708604  4  1 Bc  k     kf    -         3046   10    0 
+Porthos   959708648  4  4 f   -     -     -         3036    0    0 
+Porthos   959708668  4  3 f   -     -     -         3036    0    0 
+Porthos   959708689  5  3 f   -     -     -         3036    0    0 
+Porthos   959708711  5  2 Bk  kc    kf    -         3036   20    0 
+Porthos   959708729  6  1 Bf  -     -     -         3016    5    0 
+Porthos   959708767  6  6 f   -     -     -         3011    0    0 
+Porthos   959708798  7  6 f   -     -     -         3011    0    0 
+Porthos   959708835  7  5 f   -     -     -         3011    0    0 
+Porthos   959708862  8  4 f   -     -     -         3011    0    0 
+Porthos   959708906  8  3 f   -     -     -         3011    0    0 
+Porthos   959708949  8  2 Bc  kf    -     -         3011   20    0 
+Porthos   959709004  9  1 Bc  k     b     -         2991   30   60 
+Porthos   959709036  8  3 Q   -     -     -         3021    0    0 

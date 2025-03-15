@@ -1,0 +1,33 @@
+KnowRole  958093167  8  8 f   -     -     -         2304    0    0 
+KnowRole  958093242  9  8 f   -     -     -         2304    0    0 
+KnowRole  958093275  9  7 f   -     -     -         2304    0    0 
+KnowRole  958093320  8  5 f   -     -     -         2304    0    0 
+KnowRole  958093374  9  4 f   -     -     -         2304    0    0 
+KnowRole  958093420  9  3 f   -     -     -         2304    0    0 
+KnowRole  958093513  9  2 Bf  -     -     -         2304   10    0 
+KnowRole  958093573  8  1 Bcc kc    kc    kf        2294   50    0 
+KnowRole  958093631  9  9 f   -     -     -         2244    0    0 
+KnowRole  958093667  9  8 f   -     -     -         2244    0    0 
+KnowRole  958093740  8  6 f   -     -     -         2244    0    0 
+KnowRole  958093801  8  5 r   bcc   kf    -         2244   60    0 
+KnowRole  958093898  8  4 f   -     -     -         2184    0    0 
+KnowRole  958093973  8  3 c   k     bf    -         2184   30    0 
+KnowRole  958094031  8  2 Bk  KQ    -     -         2154   10    0 
+KnowRole  958112607 10  6 f   Q     -     -         1000    0    0 
+KnowRole  958541636  6  5 f   -     -     -          845    0    0 
+KnowRole  958541668  6  4 f   -     -     -          845    0    0 
+KnowRole  958541679  6  3 cc  f     -     -          845   30    0 
+KnowRole  958541701  5  2 Bc  rc    f     -          815   50    0 
+KnowRole  958541734  6  1 Bf  -     -     -          765    5    0 
+KnowRole  958541802  6  6 f   -     -     -          760    0    0 
+KnowRole  958541819  6  5 f   -     -     -          760    0    0 
+KnowRole  958541885  6  4 f   -     -     -          760    0    0 
+KnowRole  958541922  6  3 f   -     -     -          760    0    0 
+KnowRole  958541950  7  2 Bf  -     -     -          760   10    0 
+KnowRole  958541991  7  1 Bf  -     -     -          750    5    0 
+KnowRole  958542039  6  6 f   -     -     -          745    0    0 
+KnowRole  958542073  5  4 r   b     r     b          745  100    0 Qs Ah
+KnowRole  958542125  5  3 f   -     -     -          645    0    0 
+KnowRole  958542182  5  2 Bc  kf    -     -          645   30    0 
+KnowRole  958542203  5  1 Br  b     br    b          615  110    0 Ts Kh
+KnowRole  958542238  5  5 Q   -     -     -          505    0    0 

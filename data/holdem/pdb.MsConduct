@@ -1,0 +1,83 @@
+MsConduct 957421625  9  2 Bk  k     k     b         3568   30   90 Tc 6c
+MsConduct 957421691 10  1 Bcc kc    kc    kc        3628   70    0 9h 7d
+MsConduct 957421732 10 10 f   -     -     -         3558    0    0 
+MsConduct 957421798 10  9 c   c     c     c         3558   60    0 Qc Kh
+MsConduct 957421842 10  8 f   -     -     -         3498    0    0 
+MsConduct 957421876 10  7 f   -     -     -         3498    0    0 
+MsConduct 957421926 10  6 c   k     f     -         3498   10    0 
+MsConduct 957421965 10  5 f   -     -     -         3488    0    0 
+MsConduct 957422012 10  4 f   -     -     -         3488    0    0 
+MsConduct 957422081 10  3 f   -     -     -         3488    0    0 
+MsConduct 957422163 10  2 Bk  k     kf    -         3488   10    0 
+MsConduct 957422204 10  1 Bf  -     -     -         3478    5    0 
+MsConduct 957422266  9  9 f   -     -     -         3473    0    0 
+MsConduct 957422297  9  8 f   -     -     -         3473    0    0 
+MsConduct 957422358  9  7 f   -     -     -         3473    0    0 
+MsConduct 957422406  9  6 f   -     -     -         3473    0    0 
+MsConduct 957422442  9  5 c   b     -     -         3473   20   50 
+MsConduct 957422476  9  4 f   -     -     -         3503    0    0 
+MsConduct 957422508  9  3 f   -     -     -         3503    0    0 
+MsConduct 957422554  9  2 Bk  f     -     -         3503   10    0 
+MsConduct 957422633 10  1 Bc  kc    kc    kc        3493   80    0 Kd 3d
+MsConduct 957422690 10 10 f   -     -     -         3413    0    0 
+MsConduct 957422748 10  9 c   c     cc    c         3413   80    0 9d 9c
+MsConduct 957422799 10  8 c   k     k     b         3333   30   95 7c 9c
+MsConduct 957422872 10  7 fQ  -     -     -         3398    0    0 
+MsConduct 957492441  9  5 cc  c     c     k         3458   50  170 Tc Ks
+MsConduct 957492503  8  4 f   -     -     -         3578    0    0 
+MsConduct 957492569  8  3 c   k     c     k         3578   30    0 Qs 8s
+MsConduct 957492637  8  2 Bk  kf    -     -         3548   10    0 
+MsConduct 957492680  8  1 Bc  kc    kc    kc        3538   60  180 Tc Jd
+MsConduct 957492729  8  8 c   c     k     k         3658   40    0 As Td
+MsConduct 957492820  9  8 cc  f     -     -         3618   30    0 
+MsConduct 957492870  9  7 f   -     -     -         3588    0    0 
+MsConduct 957492964  8  6 c   kc    kc    kf        3588   40    0 
+MsConduct 957493032  9  5 f   -     -     -         3548    0    0 
+MsConduct 957493101  9  4 cc  k     kc    kc        3548   60    0 Kd Th
+MsConduct 957493156  9  3 f   -     -     -         3488    0    0 
+MsConduct 957493202  8  1 Bk  kf    -     -         3488   10    0 
+MsConduct 957493268  9  1 Bc  b     bc    brc       3478  150    0 7c 7d
+MsConduct 957493329  9  9 f   Q     -     -         3328    0    0 
+MsConduct 957509410 10 10 f   -     -     -         3328    0    0 
+MsConduct 957509447 10  9 f   -     -     -         3328    0    0 
+MsConduct 957509477 10  8 f   -     -     -         3328    0    0 
+MsConduct 957509529 10  7 f   -     -     -         3328    0    0 
+MsConduct 957509561 10  6 f   -     -     -         3328    0    0 
+MsConduct 957509606 10  5 f   -     Q     -         3328    0    0 
+MsConduct 957511462 10  5 f   -     -     -         3328    0    0 
+MsConduct 957511502 10  4 f   -     -     -         3328    0    0 
+MsConduct 957511536 10  3 f   -     -     -         3328    0    0 
+MsConduct 957511600 10  2 Bf  -     -     -         3328   10    0 
+MsConduct 957511680 10  1 Bf  -     -     -         3318    5    0 
+MsConduct 957511741 10 10 f   -     -     Q         3313    0    0 
+MsConduct 958718505  9  6 c   c     c     k         3313   50    0 4c Qc
+MsConduct 958718610  8  5 c   c     c     f         3263   40    0 
+MsConduct 958718640  8  4 f   -     -     -         3223    0    0 
+MsConduct 958718683  8  3 f   -     -     -         3223    0    0 
+MsConduct 958718726  8  2 Bf  -     -     -         3223   10    0 
+MsConduct 958718771  8  1 Bf  -     -     -         3213    5    0 
+MsConduct 958718828  7  7 c   c     r     k         3208   70  340 9h Kh
+MsConduct 958718870  8  7 f   -     -     -         3478    0    0 
+MsConduct 958718921  8  6 f   -     -     -         3478    0    0 
+MsConduct 958718967  8  5 f   -     -     -         3478    0    0 
+MsConduct 958719030  8  4 c   k     k     f         3478   10    0 
+MsConduct 958719079  8  3 f   -     -     -         3468    0    0 
+MsConduct 958719157  8  2 Bk  k     c     k         3468   30    0 Jd 7h
+MsConduct 958719197  8  1 Bc  kc    kc    kc        3438   60    0 8s Ah
+MsConduct 958719248  8  8 f   -     -     -         3378    0    0 
+MsConduct 958719293  8  7 f   -     -     -         3378    0    0 
+MsConduct 958719352  8  6 f   -     -     -         3378    0    0 
+MsConduct 958719400  8  5 f   -     -     -         3378    0    0 
+MsConduct 958719436  8  4 cc  kc    c     f         3378   50    0 
+MsConduct 958719496  9  3 fQ  -     -     -         3328    0    0 
+MsConduct 959756642  9  9 c   r     rc    c         3328  150  455 Kd 2d
+MsConduct 959756691  9  8 cf  -     -     -         3633   10    0 
+MsConduct 959756762 10  8 f   -     -     -         3623    0    0 
+MsConduct 959756798 10  7 f   -     -     -         3623    0    0 
+MsConduct 959756855 10  6 f   -     -     -         3623    0    0 
+MsConduct 959756906 10  5 f   -     -     -         3623    0    0 
+MsConduct 959756989 10  4 cc  kc    kc    k         3623   50    0 Kd Qs
+MsConduct 959757044 10  3 f   -     -     -         3573    0    0 
+MsConduct 959757093 10  2 Bc  kcc   kc    kc        3573  150    0 Qc Qh
+MsConduct 959757225 10  1 Bc  kc    kc    k         3423   40    0 Tc 9d
+MsConduct 959757285 10  3 Q   -     -     -         3383    0    0 

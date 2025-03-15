@@ -1,0 +1,81 @@
+Quigon    958000257  6  4 f   -     -     -         1000    0    0 
+Quigon    958000283  6  3 rc  f     -     -         1000   30    0 
+Quigon    958000314  6  2 Bk  rc    c     c          970   80   90 Qc 9h
+Quigon    958000350  5  1 Br  kf    Q     -          980   20    0 
+Quigon    958007581  2  2 B   -     -     -          915   10   15 
+Quigon    958007586  2  1 Bc  bc    k     k          920   30   60 3h Ts
+Quigon    958007597  2  2 Bc  c     c     c          950   70    0 4h 2s
+Quigon    958007611  3  1 Bc  kf    -     -          880   20    0 
+Quigon    958007621  4  3 r   b     bf    -          860   50    0 
+Quigon    958007644  4  2 Br  b     bc    r          810  120    0 5s 5c
+Quigon    958007665  4  1 Br  b     b     b          690   80  170 As 6s
+Quigon    958007683  4  4 f   -     -     -          780    0    0 
+Quigon    958007698  4  3 r   b     k     b          780   50    0 Jd 9d
+Quigon    958007719  4  2 Bf  -     -     -          730   10    0 
+Quigon    958007741  4  1 Bc  b     kc    kc         720   70    0 7s Ks
+Quigon    958007767  4  4 r   b     -     -          650   30   55 
+Quigon    958007780  5  3 f   -     -     -          655    0    0 
+Quigon    958007813  6  2 Bk  r     bc    k          655   70  180 
+Quigon    958007851  5  1 Br  b     -     -          765   30   60 
+Quigon    958007873  5  5 f   -     -     -          795    0    0 
+Quigon    958007890  6  4 f   -     -     -          795    0    0 
+Quigon    958007916  6  3 f   -     -     -          795    0    0 
+Quigon    958007964  8  2 Bk  kf    -     -          795   10    0 
+Quigon    958008027  8  1 Bc  kf    -     -          785   20    0 
+Quigon    958008068  7  7 r   r     b     k          715   60    0 Jd Jc
+Quigon    958008110  7  6 f   -     -     -          635    0    0 
+Quigon    958008165  7  5 f   -     -     -          635    0    0 
+Quigon    958008211  7  4 f   -     -     -          635    0    0 
+Quigon    958008253  7  3 f   -     -     -          635    0    0 
+Quigon    958008284  7  2 Bk  b     k     b          715   40   80 
+Quigon    958008326  7  1 Bc  bc    kf    -          750   30    0 
+Quigon    958008376  7  7 f   -     -     -          720    0    0 
+Quigon    958008462  7  6 c   c     c     b          720   80  265 6h 9h
+Quigon    958008509  6  4 r   r     b     b          905   80  190 
+Quigon    958008550  6  3 f   -     -     -         1015    0    0 
+Quigon    958008571  7  2 Bk  kf    -     -         1015   10    0 
+Quigon    958008588  7  1 Bc  b     b     kf        1005   40    0 
+Quigon    958008618  7  7 f   -     -     -          965    0    0 
+Quigon    958008640  7  6 f   -     -     -         1035    0    0 
+Quigon    958008666  7  5 c   b     b     b         1035   60  160 7s Qs
+Quigon    958008706  7  4 f   -     -     -         1135    0    0 
+Quigon    958008750  9  3 f   -     -     -         1135    0    0 
+Quigon    958008811  9  2 Bc  k     kf    -         1135   20    0 
+Quigon    958008920  8  1 Bf  -     -     -         1105    5    0 
+Quigon    958008955  8  8 f   -     -     -         1090    0    0 
+Quigon    958008987  9  7 f   -     -     -         1090    0    0 
+Quigon    958009010  9  6 f   -     -     -         1090    0    0 
+Quigon    958009046  9  5 f   -     -     -         1085    0    0 
+Quigon    958009116  9  4 c   r     r     b         1085   90    0 Ks Td
+Quigon    958009163  9  3 f   -     -     -          995    0    0 
+Quigon    958009212  9  2 Bk  b     -     -          995   20   50 
+Quigon    958009239  9  1 Br  b     b     b          955   70  240 Ac 4c
+Quigon    958009280  9  9 f   -     -     -         1125    0    0 
+Quigon    958009320  9  8 f   -     -     -         1125    0    0 
+Quigon    958009369  9  7 f   -     -     -         1315    0    0 
+Quigon    958009416  9  7 f   -     -     -         1305    0    0 
+Quigon    958009453  8  5 f   -     -     -         1305    0    0 
+Quigon    958009510  8  3 Q   -     -     -         1505    0    0 
+Quigon    958085583  9  7 f   -     -     -         1773    0    0 
+Quigon    958085644  9  6 f   -     -     -         1773    0    0 
+Quigon    958085684  9  5 f   -     -     -         1773    0    0 
+Quigon    958085728 10  5 f   -     -     -         1773    0    0 
+Quigon    958085754  9  3 f   -     -     -         1773    0    0 
+Quigon    958085823 10  2 Bf  -     -     -         1723   10    0 
+Quigon    958085850 10  1 Bf  -     -     -         1713    5    0 
+Quigon    958085900 10 10 f   -     -     -         1698    0    0 
+Quigon    958085939 10  9 f   -     -     -         1693    0    0 
+Quigon    958086008 10  8 r   -     -     -         1643   20   35 
+Quigon    958086023 10  8 f   -     -     -         1658    0    0 
+Quigon    958086080  8  5 f   -     -     -         1658    0    0 
+Quigon    958086098  7  5 f   -     -     -         1658    0    0 
+Quigon    958086131  7  4 r   kc    kf    -         1683   30    0 
+Quigon    958086156  6  3 r   -     -     -         1663   20   35 
+Quigon    958086162  6  2 Bk  kf    -     -         1678   10    0 
+Quigon    958086214  5  1 Bc  b     -     -         1668   20   30 
+Quigon    958086225  4  4 f   -     -     -         1678    0    0 
+Quigon    958086232  4  3 r   b     b     b         1678   70  200 Ac 8d
+Quigon    958086263  3  1 Bk  b     -     -         1798   20   30 
+Quigon    958086280  3  1 Br  k     kf    -         1848   20    0 
+Quigon    958086295  3  3 r   r     c     f         1828   60    0 
+Quigon    958086322  2  1 BQ  -     -     -         1768   10    0 

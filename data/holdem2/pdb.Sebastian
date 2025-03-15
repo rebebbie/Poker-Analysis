@@ -1,0 +1,720 @@
+Sebastian 957323338 10 10 f   -     -     -         2107    0    0 
+Sebastian 957323407 10  9 c   c     b     b         2107  140  390 3h 3c
+Sebastian 957323467 10  8 f   -     -     -         2347    0    0 
+Sebastian 957323517 10  7 f   -     -     -         2347    0    0 
+Sebastian 957323580  9  5 cc  c     f     -         2347   60    0 
+Sebastian 957323624  9  4 f   -     -     -         2287    0    0 
+Sebastian 957323666  9  3 rc  kc    kf    -         2287   80    0 
+Sebastian 957323728  9  2 Bf  -     -     -         2207   20    0 
+Sebastian 957323767  9  1 Bc  kf    -     -         2187   20    0 
+Sebastian 957323816  9  9 c   k     f     -         2167   20    0 
+Sebastian 957323853  8  7 c   c     c     r         2147  160  580 3s 4s
+Sebastian 957323919  9  7 r   b     b     k         2567  100    0 Js Jh
+Sebastian 957323991  9  6 c   c     c     f         2467   80    0 
+Sebastian 957324042 10  5 f   -     -     -         2387    0    0 
+Sebastian 957324090 10  4 c   bc    kc    k         2387  120    0 9h Qh
+Sebastian 957324146  9  3 f   -     -     -         2267    0    0 
+Sebastian 957324156  9  2 Bk  kf    -     -         2267   20    0 
+Sebastian 957324219 10  1 Bcc krc   krr   b         2247  300  860 7d 5h
+Sebastian 957324304 10 10 f   -     -     -         2807    0    0 
+Sebastian 957324386 10  9 f   -     -     -         2807    0    0 
+Sebastian 957324441  9  7 c   c     f     -         2807   60    0 
+Sebastian 957324494  9  6 c   b     b     b         2747  120  240 
+Sebastian 957324568  9  5 c   bc    kr    b         2867  180  370 
+Sebastian 957324633  9  4 f   -     -     -         3057    0    0 
+Sebastian 957324658  9  3 c   c     k     k         3057   40  150 6h 4c
+Sebastian 957324713  9  2 Bk  kf    -     -         3167   20    0 
+Sebastian 957324782  9  1 Bc  kf    -     -         3147   40    0 
+Sebastian 957324823 10 10 f   -     -     -         3107    0    0 
+Sebastian 957324894 10  9 c   k     k     k         3107   60    0 5d 7d
+Sebastian 957324991 10  8 f   -     -     -         3047    0    0 
+Sebastian 957325031 10  7 f   -     -     -         3047    0    0 
+Sebastian 957325077 10  6 c   kf    -     -         3047   20    0 
+Sebastian 957325135 10  5 f   -     -     -         3027    0    0 
+Sebastian 957325173 10  4 f   -     -     -         3027    0    0 
+Sebastian 957325229  9  3 f   -     -     -         3027    0    0 
+Sebastian 957325290 10  2 Bk  kf    -     -         3027   20    0 
+Sebastian 957325399 10  1 Bf  -     -     -         3007   10    0 
+Sebastian 957325437 10 10 f   -     -     -         2997    0    0 
+Sebastian 957325502 10  9 c   f     -     -         2997   40    0 
+Sebastian 957325566 10  8 f   -     -     -         2957    0    0 
+Sebastian 957325598 10  7 f   -     -     -         2957    0    0 
+Sebastian 957325691 10  6 f   -     -     -         2957    0    0 
+Sebastian 957325768 10  5 f   -     -     -         2957    0    0 
+Sebastian 957325905 10  4 c   k     kf    -         2957   20    0 
+Sebastian 957325965 10  3 f   -     -     -         2937    0    0 
+Sebastian 957326057 10  2 Bf  -     -     -         2937   20    0 
+Sebastian 957326089 10  1 Bc  k     kf    -         2917   20    0 
+Sebastian 957326155 10 10 c   rc    c     f         2897  220    0 
+Sebastian 957326226 10  9 f   -     -     -         2677    0    0 
+Sebastian 957326302 10  8 f   -     -     -         2677    0    0 
+Sebastian 957326399 10  7 c   b     -     -         2677   40  100 
+Sebastian 957326446 10  6 c   c     cc    c         2737  160    0 Qs As
+Sebastian 957326489 10  5 c   kc    f     -         2577   60    0 
+Sebastian 957326576 10  4 c   b     k     b         2517   80  270 Ah Ks
+Sebastian 957326661 10  3 c   kc    kf    -         2707   40    0 
+Sebastian 957326785 10  2 Bk  kf    -     -         2667   20    0 
+Sebastian 957326843 10  1 Bf  -     -     -         2647   10    0 
+Sebastian 957326900 10 10 c   f     -     -         2637   40    0 
+Sebastian 957326936 10  9 c   k     f     -         2597   20    0 
+Sebastian 957327027 10  8 c   f     -     -         2577   20    0 
+Sebastian 957327090 10  7 c   c     f     -         2557   40    0 
+Sebastian 957327161 10  6 f   -     -     -         2517    0    0 
+Sebastian 957327200 10  5 cc  kf    -     -         2517   40    0 
+Sebastian 957327315 10  4 c   b     c     f         2477   80    0 
+Sebastian 957327370 10  3 c   kc    kc    kf        2397   80    0 
+Sebastian 957327440 10  2 Bc  kc    c     b         2317  140  300 
+Sebastian 957327516 10  1 Bf  -     -     -         2477   10    0 
+Sebastian 957327591 10 10 f   -     -     -         2467    0    0 
+Sebastian 957327620 10  9 r   b     b     r         2467  180  400 
+Sebastian 957327689 10  8 cc  bcc   kcc   f         2687  320    0 
+Sebastian 957327786 10  7 c   b     b     b         2367  140  370 5s 7c
+Sebastian 957327845 10  6 cc  ccc   kf    -         2597  120    0 
+Sebastian 957327923 10  5 cc  f     -     -         2477   40    0 
+Sebastian 957327961 10  5 f   -     -     -         2437    0    0 
+Sebastian 957328064 10  3 f   -     -     -         2437    0    0 
+Sebastian 957328254 10  2 Bc  kc    k     f         2437   60    0 
+Sebastian 957328326 10  1 Bc  kf    -     -         2377   40    0 
+Sebastian 957328426 10 10 f   -     -     -         2337    0    0 
+Sebastian 957328481 10  9 f   -     -     -         2337    0    0 
+Sebastian 957328575 10  8 c   f     -     -         2337   20    0 
+Sebastian 957328647 10  7 f   -     -     -         2317    0    0 
+Sebastian 957328745 10  6 f   -     -     -         2317    0    0 
+Sebastian 957328809 10  5 c   b     b     b         2317  120  440 5s 4s
+Sebastian 957328887 10  4 f   -     -     -         2637    0    0 
+Sebastian 957328922 10  3 f   -     -     -         2637    0    0 
+Sebastian 957329012 10  2 Br  b     bc    b         2637  180  370 
+Sebastian 957329060 10  1 Bc  kf    -     -         2827   40    0 
+Sebastian 957329108 10 10 c   k     k     k         2787   20   90 2h 8h
+Sebastian 957329182 10  9 c   c     c     f         2857  100    0 
+Sebastian 957329236 10  8 f   -     -     -         2757    0    0 
+Sebastian 957329274 10  7 c   f     -     -         2757   40    0 
+Sebastian 957329337 10  6 c   c     f     -         2717   60    0 
+Sebastian 957329417 10  5 c   c     r     b         2657  160  460 6s 7s
+Sebastian 957329465 10  4 c   kc    kf    -         2957   60    0 
+Sebastian 957329571 10  3 c   cc    kf    -         2897   60    0 
+Sebastian 957329659 10  2 Bk  kf    -     -         2837   20    0 
+Sebastian 957329720 10  1 Bf  -     -     -         2817   10    0 
+Sebastian 957329735 10 10 c   c     k     f         2807   60    0 
+Sebastian 957329789 10  9 r   rr    rr    b         2747  380 1110 Ac As
+Sebastian 957329922  9  7 f   -     -     -         3477    0    0 
+Sebastian 957329969 10  7 c   kc    krc   br        3477  280    0 Ad 4d
+Sebastian 957330044 10  7 c   k     k     k         3197   20    0 As Js
+Sebastian 957330118  9  5 c   k     kf    -         3167   20    0 
+Sebastian 957330191 10  4 cc  kc    k     k         3142   60  170 Kh Jd
+Sebastian 957330235 10  3 c   k     k     k         3322   20   50 5h 7d
+Sebastian 957330276 10  2 B   -     -     -         3352   20   30 
+Sebastian 957330290 10  1 Bc  b     kc    kf        3302  100    0 
+Sebastian 957330350 10 10 f   -     -     -         3202    0    0 
+Sebastian 957330389 10  9 f   -     -     -         3467    0    0 
+Sebastian 957330414 10  8 f   -     -     -         3467    0    0 
+Sebastian 957330477 10  7 f   -     -     -         3467    0    0 
+Sebastian 957330519 10  6 c   c     f     -         3687   40    0 
+Sebastian 957330574 10  5 cc  kc    kc    b         3647  140  370 
+Sebastian 957330659 10  4 c   c     c     k         4112   80    0 5s 3d
+Sebastian 957330718 10  3 f   -     -     -         4027    0    0 
+Sebastian 957330771 10  2 Bk  kf    -     -         4152   20    0 
+Sebastian 957330820 10  1 Bf  -     -     -         4132   10    0 
+Sebastian 957330903 10 10 c   k     k     k         4122   20   80 7d 5c
+Sebastian 957331010 10  9 f   -     -     -        10334    0    0 
+Sebastian 957331061 10  8 c   k     f     -        10334   40    0 
+Sebastian 957331152 10  7 cc  r     b     bc       10294  200    0 Ks Qh
+Sebastian 957331241 10  6 f   -     -     -        10084    0    0 
+Sebastian 957331326 10  5 c   k     f     -         9899   60    0 
+Sebastian 957331434 10  4 c   c     Q     -        10434   60    0 
+Sebastian 957401622  6  4 c   k     f     -        13368   20    0 
+Sebastian 957401665  6  3 c   c     k     k        13348   40    0 Th Jh
+Sebastian 957401704  6  2 Bk  kr    b     b        13308  140    0 5h Ac
+Sebastian 957401756  6  1 Bc  k     kf    -        13168   20    0 
+Sebastian 957401827  6  6 c   f     -     -        13148   20    0 
+Sebastian 957401865  6  5 c   k     k     k        13128   20    0 6s 2s
+Sebastian 957401886  6  4 f   -     -     -        13108    0    0 
+Sebastian 957401898  6  3 c   f     -     -        13108   20    0 
+Sebastian 957401915  6  2 B   -     -     -        13088   20   30 
+Sebastian 957401923  6  1 Bc  kc    kr    -        13098  140  260 
+Sebastian 957401953  6  6 c   f     -     -        13218   40    0 
+Sebastian 957401967  6  5 f   -     -     -        13178    0    0 
+Sebastian 957402010  6  4 c   c     c     k        13178   80    0 3h 3s
+Sebastian 957402064  6  3 cc  kf    -     -        13098   40    0 
+Sebastian 957402101  6  2 Bc  kf    -     -        13058   60    0 
+Sebastian 957402168  6  1 Bf  -     -     -        12998   10    0 
+Sebastian 957402190  6  6 f   -     -     -        12988    0    0 
+Sebastian 957402223  6  5 f   -     -     -        12988    0    0 
+Sebastian 957402275  7  4 c   kc    kc    kc       12988  120    0 Tc 9s
+Sebastian 957402332  8  3 c   kf    -     -        12868   20    0 
+Sebastian 957402382 10  2 Bk  k     kf    -        12848   20    0 
+Sebastian 957402440  9  1 Bc  kc    kf    -        12828   40    0 
+Sebastian 957402485 10  9 r   k     r     b        12788  160  390 Jd Qd
+Sebastian 957402548  9  7 c   c     f     -        13018   40    0 
+Sebastian 957402593  9  6 c   f     -     -        12978   20    0 
+Sebastian 957402645  8  5 c   cc    f     -        12958   80    0 
+Sebastian 957402699  9  4 cc  b     c     c        12878  180    0 5s As
+Sebastian 957402754  9  3 f   -     -     -        12698    0    0 
+Sebastian 957402790  9  2 Bc  br    b     b        12698  180  370 4c 2d
+Sebastian 957402818  9  1 Bf  -     -     -        12888   10    0 
+Sebastian 957402847  9  9 f   -     -     -        12878    0    0 
+Sebastian 957402894  8  7 f   -     -     -        12878    0    0 
+Sebastian 957402920  8  6 f   -     -     -        12878    0    0 
+Sebastian 957402946  8  5 cc  c     b     k        12878  100    0 4h 5c
+Sebastian 957403004  8  4 f   -     -     -        12778    0    0 
+Sebastian 957403040  8  3 cc  kc    kc    k        12778  100  310 6c 7c
+Sebastian 957403099  9  2 Bk  k     b     k        12988   60    0 6d 5d
+Sebastian 957403141  9  1 Bf  -     -     -        12928   10    0 
+Sebastian 957403187 10 10 c   cc    f     -        12918   60    0 
+Sebastian 957403237 10  9 f   -     -     -        12858    0    0 
+Sebastian 957403293 10  8 f   -     -     -        12858    0    0 
+Sebastian 957403326  9  6 c   c     cc    k        12858  120  180 Tc Qs
+Sebastian 957403395 10  6 f   -     -     -        12918    0    0 
+Sebastian 957403429 10  5 f   -     -     -        12918    0    0 
+Sebastian 957403489 10  4 f   -     -     -        12918    0    0 
+Sebastian 957403543 10  3 c   k     k     kc       12918   60  150 6c 7h
+Sebastian 957403601 10  2 Bc  kf    -     -        13008   40    0 
+Sebastian 957403633 10  1 Bc  k     k     k        12968   20  120 As 2c
+Sebastian 957403685 10 10 c   b     -     -        13068   40   80 
+Sebastian 957403718 10  9 f   -     -     -        13108    0    0 
+Sebastian 957403765 10  8 c   f     -     -        13108   20    0 
+Sebastian 957403824 10  7 f   -     -     -        13088    0    0 
+Sebastian 957403871 10  6 f   -     -     -        13088    0    0 
+Sebastian 957403945 10  5 f   -     -     -        13088    0    0 
+Sebastian 957404010 10  4 f   -     -     -        13088    0    0 
+Sebastian 957404050 10  3 f   -     -     -        13088    0    0 
+Sebastian 957404110 10  2 Bk  k     k     k        13088   20    0 5d Kh
+Sebastian 957404181 10  1 Br  kc    k     b        13068  120  320 Th Ad
+Sebastian 957404241 10 10 c   r     k     c        13268  140  620 9h 7d
+Sebastian 957404315 10  9 f   -     -     -        13748    0    0 
+Sebastian 957404371 10  8 f   -     -     -        13748    0    0 
+Sebastian 957404415 10  7 cc  c     kf    -        13748   80    0 
+Sebastian 957404480 10  6 f   -     -     -        13668    0    0 
+Sebastian 957404512 10  5 c   kf    -     -        13668   20    0 
+Sebastian 957404554 10  4 c   kc    k     kf       13648   40    0 
+Sebastian 957404619 10  3 f   -     -     -        13608    0    0 
+Sebastian 957404666 10  2 Bc  kc    kf    -        13608   60    0 
+Sebastian 957404702 10  1 Bc  kf    -     -        13548   20    0 
+Sebastian 957404740 10 10 c   f     -     -        13528   20    0 
+Sebastian 957404773 10  9 f   -     -     -        13508    0    0 
+Sebastian 957404805 10  8 c   c     c     k        13508  120    0 6s 3s
+Sebastian 957404875 10  7 c   f     -     -        13388   20    0 
+Sebastian 957404925  9  5 c   c     c     f        13368   80    0 
+Sebastian 957404962  9  5 f   -     -     -        13288    0    0 
+Sebastian 957405016  9  3 f   -     -     -        13288    0    0 
+Sebastian 957405055 10  2 Bk  b     b     k        13288   80  280 6c 6d
+Sebastian 957405098 10  1 Bc  k     kc    k        13488   60    0 4c Kd
+Sebastian 957405142 10 10 f   -     -     -        13428    0    0 
+Sebastian 957405197 10  9 f   -     -     -        13428    0    0 
+Sebastian 957405250 10  8 c   c     k     c        13428   80  130 4c 8c
+Sebastian 957405326 10  7 f   -     -     -        13478    0    0 
+Sebastian 957405384 10  6 f   -     -     -        13478    0    0 
+Sebastian 957405437  9  5 r   b     r     b        13478  180    0 5c 5d
+Sebastian 957405491  9  4 c   k     b     -        13298   60  120 
+Sebastian 957405535  9  3 c   kc    k     k        13358   40    0 Jc 9s
+Sebastian 957405580  9  2 Bk  k     kf    -        13318   20    0 
+Sebastian 957405634 10  1 Bc  k     kf    -        13298   20    0 
+Sebastian 957405708 10 10 c   r     c     k        13278  100    0 Qc Ks
+Sebastian 957405788 10  9 f   -     -     -        13178    0    0 
+Sebastian 957405826  9  7 f   -     -     -        13178    0    0 
+Sebastian 957405858  8  5 c   r     k     f        13178   60    0 
+Sebastian 957405895  8  4 f   -     -     -        13118    0    0 
+Sebastian 957405921  8  3 cc  cc    f     -        13118   80    0 
+Sebastian 957406006  8  2 Bk  kc    k     k        13038   40  130 Ts 8h
+Sebastian 957406044  8  1 Bf  -     -     -        13128   10    0 
+Sebastian 957406091  8  8 c   k     f     -        13118   20    0 
+Sebastian 957406150  8  7 c   k     f     -        13098   20    0 
+Sebastian 957406216  8  6 f   -     -     -        13078    0    0 
+Sebastian 957406261  9  6 c   k     kf    -        13078   20    0 
+Sebastian 957406330  9  5 c   c     c     b        13058  120  260 Js 9s
+Sebastian 957406360  9  4 cc  kc    kf    -        13198   80    0 
+Sebastian 957406421  8  3 f   -     -     -        13118    0    0 
+Sebastian 957406464  9  2 Bk  k     k     k        13118   20   70 Td Kh
+Sebastian 957406499  9  1 Bc  k     k     kf       13168   20    0 
+Sebastian 957406557  9  9 f   -     -     -        13148    0    0 
+Sebastian 957406624  9  8 c   f     -     -        13148   40    0 
+Sebastian 957406691  9  7 r   b     b     bc       13108  180    0 As Ah
+Sebastian 957406737  9  6 f   -     -     -        12928    0    0 
+Sebastian 957406819  9  5 cc  kf    -     -        12928   40    0 
+Sebastian 957406932  9  4 c   f     -     -        12888   20    0 
+Sebastian 957406987  9  3 c   bc    kc    k        12868  100    0 4d 6c
+Sebastian 957407038 10  2 Bk  kf    -     -        12768   20    0 
+Sebastian 957407078 10  1 Bc  kc    kf    -        12748   40    0 
+Sebastian 957407133 10 10 cc  f     -     -        12708   80    0 
+Sebastian 957407220 10  9 c   f     -     -        12628   20    0 
+Sebastian 957407295 10  8 c   f     -     -        12608   20    0 
+Sebastian 957407370 10  7 cc  k     kf    -        12588   40    0 
+Sebastian 957407432 10  6 f   -     -     -        12548    0    0 
+Sebastian 957407509  9  5 c   k     k     k        12548   20    0 4h 3c
+Sebastian 957407565  9  4 c   kf    -     -        12528   20    0 
+Sebastian 957407640  9  3 c   kf    -     -        12508   20    0 
+Sebastian 957407690  9  2 Bf  -     -     -        12488   20    0 
+Sebastian 957407756  9  1 Bf  -     -     -        12468   10    0 
+Sebastian 957407830  9  9 c   k     k     f        12458   20    0 
+Sebastian 957407887  8  8 f   -     -     -        12438    0    0 
+Sebastian 957407905  7  7 c   b     rc    f        12438  160    0 
+Sebastian 957407981  7  6 f   -     -     -        12278    0    0 
+Sebastian 957408006  7  5 c   kc    k     k        12278   40    0 5c 2h
+Sebastian 957408105  8  4 r   b     k     kf       12238   60    0 
+Sebastian 957408175  8  4 f   -     -     -        12178    0    0 
+Sebastian 957408214  7  2 Bk  kf    -     -        12178   20    0 
+Sebastian 957408277  7  1 Bc  kc    kc    kc       12158  120  160 Ad 7c
+Sebastian 957408337  7  7 f   -     -     -        12198    0    0 
+Sebastian 957408346  7  6 cc  c     f     -        12198   60    0 
+Sebastian 957408400  6  4 c   c     k     f        12138   40    0 
+Sebastian 957408440  6  3 c   f     -     -        12098   20    0 
+Sebastian 957408490  6  2 Bk  Q     -     -        12078   20    0 
+Sebastian 957560901  8  5 c   c     r     c        16840  200    0 6d 9s
+Sebastian 957560946  9  4 f   -     -     -        16640    0    0 
+Sebastian 957561009  8  2 Bf  -     -     -        16640   20    0 
+Sebastian 957561055  8  1 Bf  -     -     -        16620   10    0 
+Sebastian 957561058  8  8 c   k     f     -        16610   40    0 
+Sebastian 957561110  8  7 c   r     br    k        16570  200  255 Qc Ad
+Sebastian 957561166  8  6 c   k     b     -        16625   60  110 
+Sebastian 957561198  8  5 c   b     -     -        16675   40   70 
+Sebastian 957561218  6  2 Bk  kf    -     -        16705   20    0 
+Sebastian 957561230  6  1 Bc  k     b     -        16685   60   80 
+Sebastian 957561242  6  6 c   c     c     f        16705  100    0 
+Sebastian 957561289  6  5 c   f     -     -        16605   20    0 
+Sebastian 957561313  6  4 c   f     -     -        16585   20    0 
+Sebastian 957561355  6  3 c   c     c     k        16565   80    0 7h 6h
+Sebastian 957561378  7  3 cc  kc    f     -        16485   80    0 
+Sebastian 957561419  8  3 c   f     -     -        16405   20    0 
+Sebastian 957561451  7  2 Bc  kcc   kf    -        16385   80    0 
+Sebastian 957561514  8  1 Bc  krc   kc    krr      16305  300  740 8c Th
+Sebastian 957561580  9  9 f   -     -     -        16745    0    0 
+Sebastian 957561623  9  8 cc  k     f     -        16745   40    0 
+Sebastian 957561674  9  7 c   c     bf    -        16705  100    0 
+Sebastian 957561739  9  6 c   f     -     -        16605   20    0 
+Sebastian 957561781  8  4 cr  bf    -     -        16585   80    0 
+Sebastian 957561833  9  4 c   kf    -     -        16505   20    0 
+Sebastian 957561882 10  4 c   kf    -     -        16485   20    0 
+Sebastian 957561945 10  4 f   -     -     -        16465    0    0 
+Sebastian 957561979  8  2 Bc  kc    kf    -        16465   60    0 
+Sebastian 957562020  8  1 Bc  kf    -     -        16405   40    0 
+Sebastian 957562076  8  8 f   -     -     -        16365    0    0 
+Sebastian 957562147  9  7 f   -     -     -        16365    0    0 
+Sebastian 957562218  9  6 f   -     -     -        16365    0    0 
+Sebastian 957562294  9  5 cc  cf    -     -        16365   80    0 
+Sebastian 957562398  9  4 c   c     c     k        16285   80  180 7d 9d
+Sebastian 957562457  9  3 f   -     -     -        16385    0    0 
+Sebastian 957562475  9  2 Bk  kc    b     bf       16385  120    0 
+Sebastian 957562585  9  1 Bcc kr    bc    kf       16265  200    0 
+Sebastian 957562668  9  9 c   c     f     -        16065   60    0 
+Sebastian 957562739  9  8 f   -     -     -        16005    0    0 
+Sebastian 957562792  9  7 f   -     -     -        16005    0    0 
+Sebastian 957562855  9  6 c   c     f     -        16005   60    0 
+Sebastian 957562916  9  5 c   kf    -     -        15945   40    0 
+Sebastian 957562988  9  4 f   -     -     -        15905    0    0 
+Sebastian 957563043  9  3 f   -     -     -        15905    0    0 
+Sebastian 957563093  9  2 Bk  kc    krc   kc       15905  200  450 Td 5s
+Sebastian 957563161  8  1 Bc  kc    k     k        16155   40    0 9c 6h
+Sebastian 957563197  8  8 f   -     -     -        16115    0    0 
+Sebastian 957563245  7  6 r   bc    k     brc      16115  240    0 Ks Ah
+Sebastian 957563295  8  6 c   k     k     b        15875   60  130 9d 7c
+Sebastian 957563327  7  5 f   -     -     -        15945    0    0 
+Sebastian 957563351  7  3 Q   -     -     -        15945    0    0 
+Sebastian 957715933  2  1 Bcc kc    kr    -        23346  140  240 
+Sebastian 957715947  2  2 B   -     -     -        23446   20   30 
+Sebastian 957715949  2  1 Bc  k     k     k        23456   20    0 5c 2c
+Sebastian 957715959  2  2 Bf  -     -     -        23436   20    0 
+Sebastian 957715965  2  1 Bf  -     -     -        23416   10    0 
+Sebastian 957715968  2  2 Br  b     b     bf       23406  160    0 
+Sebastian 957715982  2  1 Bc  k     k     k        23246   20   40 6s 8h
+Sebastian 957715996  3  2 Bc  kc    c     b        23266  160  380 3d 4c
+Sebastian 957716019  3  1 Bc  b     b     -        23486  100  200 
+Sebastian 957716060  3  3 c   b     -     -        23586   40   70 
+Sebastian 957716074  2  2 Bf  -     -     -        23616   20    0 
+Sebastian 957716076  2  1 Br  -     -     -        23596   40   60 
+Sebastian 957716080  2  2 Bk  k     k     k        23616   20   40 Kh 4d
+Sebastian 957716090  2  1 Bcc kf    -     -        23636   40    0 
+Sebastian 957716099  2  2 Bk  k     k     f        23596   20    0 
+Sebastian 957716107  2  1 Bcc kf    -     -        23576   40    0 
+Sebastian 957716120  2  2 B   -     -     -        23536   20   30 
+Sebastian 957716122  2  1 Bc  kf    -     -        23546   20    0 
+Sebastian 957716129  2  2 Bf  -     -     -        23526   20    0 
+Sebastian 957716131  2  1 Bf  -     -     -        23506   10    0 
+Sebastian 957716135  2  2 B   -     -     -        23496   20   30 
+Sebastian 957716137  2  1 Br  b     k     b        23506  100  200 7c 9c
+Sebastian 957716153  2  2 B   -     -     -        23606   20   30 
+Sebastian 957716158  2  1 Bcc kr    b     k        23616  120    0 9d 7h
+Sebastian 957716172  2  2 Bf  -     -     -        23496   20    0 
+Sebastian 957716179  2  1 Bcc kc    kr    -        23476  140  240 
+Sebastian 957716193  2  2 Br  b     -     -        23576   80  140 
+Sebastian 957716198  2  1 Bc  kc    kc    kc       23636  120    0 8d Kd
+Sebastian 957716212  2  2 B   -     -     -        23516   20   30 
+Sebastian 957716217  2  1 Br  b     b     -        23526  100  160 
+Sebastian 957716227  2  2 B   -     -     -        23586   20   30 
+Sebastian 957716228  2  1 Bf  -     -     -        23596   10    0 
+Sebastian 957716232  2  2 B   -     -     -        23586   20   30 
+Sebastian 957716234  2  1 Bcc kf    -     -        23596   40    0 
+Sebastian 957716247  3  2 Bk  k     k     kf       23556   20    0 
+Sebastian 957716264  3  1 Br  b     kc    kf       23536  120    0 
+Sebastian 957716288  3  3 c   f     -     -        23416   20    0 
+Sebastian 957716307  3  2 Bf  -     -     -        23396   20    0 
+Sebastian 957716318  3  1 Bf  -     -     -        23376   10    0 
+Sebastian 957716324  3  3 r   -     -     -        23366   40   70 
+Sebastian 957716334  3  2 Bc  kf    -     -        23396   40    0 
+Sebastian 957716340  3  1 Br  kf    -     -        23356   40    0 
+Sebastian 957716353  3  3 c   f     -     -        23316   20    0 
+Sebastian 957716373  3  2 Bf  -     -     -        23296   20    0 
+Sebastian 957716380  3  1 Brc kc    kf    -        23276  100    0 
+Sebastian 957716398  3  3 cc  f     -     -        23176   40    0 
+Sebastian 957716409  3  2 Bk  kc    kf    -        23136   40    0 
+Sebastian 957716451  3  1 Bc  kf    -     -        23096   40    0 
+Sebastian 957716463  3  3 cf  -     -     Q        23056   20    0 
+Sebastian 958242688  8  6 f   -     -     -        35923    0    0 
+Sebastian 958242716  8  5 c   k     b     kf       35923   60    0 
+Sebastian 958242779  8  4 f   -     -     -        35863    0    0 
+Sebastian 958242806  8  3 c   kc    kf    -        35863   40    0 
+Sebastian 958242849  8  2 Bk  k     k     k        35823   20   80 Qd Ah
+Sebastian 958242911  8  1 Bf  -     -     -        35883   10    0 
+Sebastian 958242942  7  7 f   -     -     -        35873    0    0 
+Sebastian 958242986  7  6 f   -     -     -        35873    0    0 
+Sebastian 958243008  7  5 c   b     b     kc       35873  120  290 4d 6c
+Sebastian 958243056  6  4 f   -     -     -        36043    0    0 
+Sebastian 958243093  6  3 r   -     -     -        36043   40   70 
+Sebastian 958243113  6  2 Bk  c     c     r        36073  160  320 Ts 5s
+Sebastian 958243135  6  1 Bf  -     -     -        36233   10    0 
+Sebastian 958243155  6  6 f   -     -     -        36223    0    0 
+Sebastian 958243184  6  5 cc  rr    b     b        36223  200    0 4d 2s
+Sebastian 958243228  6  4 c   kc    kf    -        36023   40    0 
+Sebastian 958243264  6  3 f   -     -     -        35983    0    0 
+Sebastian 958243297  6  2 Bc  kc    kc    k        35983  100    0 6c 3h
+Sebastian 958243343  6  1 Bc  b     k     kc       35883   80  240 8c Kc
+Sebastian 958243389  7  7 r   k     cr    r        36043  280  410 Jc Ad
+Sebastian 958243450  9  8 c   c     c     r        36173  160    0 9h 8s
+Sebastian 958243495  9  7 f   -     -     -        36013    0    0 
+Sebastian 958243549  9  6 c   k     k     k        36013   20    0 8d 9d
+Sebastian 958243588  9  5 c   kc    kf    -        35993   40    0 
+Sebastian 958243624  9  4 c   k     k     f        35953   20    0 
+Sebastian 958243665  9  3 c   kf    -     -        35933   20    0 
+Sebastian 958243703  9  2 Bk  k     kc    kf       35913   60    0 
+Sebastian 958243741  9  1 Bf  -     -     -        35853   10    0 
+Sebastian 958243775  9  9 cc  f     -     -        35843   40    0 
+Sebastian 958243799  9  8 f   -     -     -        35803    0    0 
+Sebastian 958243810  9  7 f   -     -     -        35803    0    0 
+Sebastian 958243849  9  6 c   cc    f     -        35803  100    0 
+Sebastian 958243883 10  6 c   bc    k     k        35703   60  150 Kc Qs
+Sebastian 958243914 10  5 r   b     rc    c        35793  220    0 Qs Kc
+Sebastian 958243959 10  4 f   -     -     -        35573    0    0 
+Sebastian 958243993 10  3 f   -     -     -        35573    0    0 
+Sebastian 958244017  9  1 Bf  -     -     -        35573   20    0 
+Sebastian 958244051  9  1 Bf  -     -     -        35553   10    0 
+Sebastian 958244090  9  9 f   -     -     -        35543    0    0 
+Sebastian 958244181  8  7 f   -     -     -        35543    0    0 
+Sebastian 958244208  9  7 f   -     -     -        35543    0    0 
+Sebastian 958244244  9  6 f   -     -     -        35543    0    0 
+Sebastian 958244275  9  5 f   -     -     -        35543    0    0 
+Sebastian 958244310  9  4 f   -     -     -        35543    0    0 
+Sebastian 958244390  8  3 f   -     -     -        35543    0    0 
+Sebastian 958244409  8  2 Bf  -     -     -        35543   20    0 
+Sebastian 958244446  8  1 Bf  -     -     -        35523   10    0 
+Sebastian 958244480  8  8 f   -     -     -        35513    0    0 
+Sebastian 958244527  8  7 f   -     -     -        35513    0    0 
+Sebastian 958244594  7  5 f   -     -     -        35513    0    0 
+Sebastian 958244619  8  4 f   -     -     -        35513    0    0 
+Sebastian 958244643  8  3 f   -     -     -        35513    0    0 
+Sebastian 958244675  8  2 Bk  kf    -     -        35513   20    0 
+Sebastian 958244725  8  1 Bf  -     -     -        35493   10    0 
+Sebastian 958244738  8  8 f   -     -     -        35483    0    0 
+Sebastian 958244774  9  8 f   -     -     -        35483    0    0 
+Sebastian 958244844  9  7 f   -     -     -        35483    0    0 
+Sebastian 958244886  9  6 f   -     -     -        35483    0    0 
+Sebastian 958244917  9  5 f   -     -     -        35483    0    0 
+Sebastian 958244965  9  4 f   -     -     -        35483    0    0 
+Sebastian 958244990  9  3 f   -     -     -        35483    0    0 
+Sebastian 958245002  9  2 Bk  kf    -     -        35483   20    0 
+Sebastian 958245037 10  1 Bf  -     -     -        35463   10    0 
+Sebastian 958245077 10 10 f   -     -     -        35453    0    0 
+Sebastian 958245119 10  9 f   -     -     -        35453    0    0 
+Sebastian 958245146 10  8 f   -     -     -        35453    0    0 
+Sebastian 958245189 10  7 r   -     -     -        35453   40   70 
+Sebastian 958245200 10  6 rc  c     f     -        35483   80    0 
+Sebastian 958245232 10  5 f   -     -     -        35403    0    0 
+Sebastian 958245278 10  5 r   b     b     -        35403  120  290 
+Sebastian 958245310  9  3 c   kc    kcc   kf       35573  140    0 
+Sebastian 958245366 10  2 Bc  k     b     b        35433  140  340 2s 4h
+Sebastian 958245416  9  1 Bc  k     kf    -        35633   20    0 
+Sebastian 958245463  9  9 c   c     c     f        35613   80    0 
+Sebastian 958245536  8  7 r   b     b     b        35533  140    0 Ts Ad
+Sebastian 958245560  9  7 c   rc    c     r        35393  220  470 9d Ad
+Sebastian 958245612  8  6 f   -     -     -        35643    0    0 
+Sebastian 958245738  7  4 f   -     -     -        35643    0    0 
+Sebastian 958245770  7  3 f   -     -     -        35643    0    0 
+Sebastian 958245801  7  2 Bk  kf    -     -        35643   20    0 
+Sebastian 958245829  7  1 Bf  -     -     -        35623   10    0 
+Sebastian 958245853  7  7 f   -     -     -        35613    0    0 
+Sebastian 958245884  7  6 f   -     -     -        35613    0    0 
+Sebastian 958245899  7  5 f   -     -     -        35613    0    0 
+Sebastian 958245918  7  4 f   -     -     -        35613    0    0 
+Sebastian 958245944  8  3 f   -     -     -        35613    0    0 
+Sebastian 958245961  9  2 Bk  kf    -     -        35613   20    0 
+Sebastian 958245996  9  1 Bf  -     -     -        35593   10    0 
+Sebastian 958246015  9  9 f   -     -     -        35583    0    0 
+Sebastian 958246039  9  8 f   -     -     -        35583    0    0 
+Sebastian 958246065  9  7 f   -     -     -        35583    0    0 
+Sebastian 958246100  9  6 f   -     -     -        35583    0    0 
+Sebastian 958246116  9  5 f   -     -     -        35583    0    0 
+Sebastian 958246161 10  5 r   -     -     -        35583   40   70 
+Sebastian 958246184 10  4 r   b     b     r        35613  180    0 Ad Tc
+Sebastian 958246210 10  3 f   -     -     -        35433    0    0 
+Sebastian 958246270 10  2 Bk  kf    -     -        35433   20    0 
+Sebastian 958246300 10  1 Bc  kr    kf    -        35413   60    0 
+Sebastian 958246338 10 10 r   c     f     -        35353   80    0 
+Sebastian 958246373 10  9 f   -     -     -        35273    0    0 
+Sebastian 958246411 10  8 f   -     -     -        35273    0    0 
+Sebastian 958246440  9  6 f   -     -     -        35273    0    0 
+Sebastian 958246472  9  5 f   -     -     -        35273    0    0 
+Sebastian 958246505  9  4 f   -     -     -        35273    0    0 
+Sebastian 958246542  9  3 f   -     -     -        35273    0    0 
+Sebastian 958246580  9  2 Bk  kf    -     -        35273   20    0 
+Sebastian 958246628  9  1 Bf  -     -     -        35253   10    0 
+Sebastian 958246666  9  9 f   -     -     -        35243    0    0 
+Sebastian 958246698  9  8 f   -     -     -        35243    0    0 
+Sebastian 958246744 10  8 f   -     -     -        35243    0    0 
+Sebastian 958246796 10  7 f   -     -     -        35243    0    0 
+Sebastian 958246824 10  6 f   -     -     -        35243    0    0 
+Sebastian 958246856 10  5 f   -     -     -        35243    0    0 
+Sebastian 958246878 10  4 f   -     -     -        35243    0    0 
+Sebastian 958246935 10  3 f   -     -     -        35243    0    0 
+Sebastian 958246962 10  2 Bk  kf    -     -        35243   20    0 
+Sebastian 958247004 10  1 Bf  -     -     -        35223   10    0 
+Sebastian 958247073 10 10 c   f     -     -        35213   40    0 
+Sebastian 958247108 10  9 c   b     rr    k        35173  220  360 3s Ts
+Sebastian 958247168 10  8 f   -     -     -        35313    0    0 
+Sebastian 958247222 10  7 c   k     b     -        35313   60  110 
+Sebastian 958247252 10  6 f   -     -     -        35363    0    0 
+Sebastian 958247289 10  5 f   -     -     -        35363    0    0 
+Sebastian 958247341 10  4 c   f     -     -        34568   20    0 
+Sebastian 958247413 10  3 c   k     k     k        34548   20    0 4s 2s
+Sebastian 958247463  9  2 B   -     -     -        34528   20   30 
+Sebastian 958247483  9  1 Bf  -     -     -        34538   10    0 
+Sebastian 958247536 10 10 c   b     k     rr       36033  200  440 2s Js
+Sebastian 958247585 10  9 c   k     k     f        36218   20    0 
+Sebastian 958247634 10  8 c   cc    f     -        36198  100    0 
+Sebastian 958247682 10  7 c   k     kf    -        36098   20    0 
+Sebastian 958247733 10  6 cc  cc    cc    f        36013  160    0 
+Sebastian 958247811 10  5 cc  kc    k     k        35853   60    0 9s 6s
+Sebastian 958247853 10  4 ccc kf    -     -        35793   80    0 
+Sebastian 958247935 10  3 c   k     kf    -        35713   20    0 
+Sebastian 958248012 10  2 Bk  kc    kc    kf       35678   80    0 
+Sebastian 958248072 10  1 Bc  k     kc    kf       35338   60    0 
+Sebastian 958248152  9  9 r   b     k     f        35278   60    0 
+Sebastian 958248238  7  6 f   -     -     -        35268    0    0 
+Sebastian 958248256  7  5 c   c     k     kf       35268   60    0 
+Sebastian 958248308  7  4 f   -     -     -        35816    0    0 
+Sebastian 958248347  7  3 f   -     -     -        35816    0    0 
+Sebastian 958248382  7  2 Bc  brc   bc    kc       35816  240    0 Jd Th
+Sebastian 958248431  7  1 Bf  -     -     -        35566   10    0 
+Sebastian 958248442  7  7 c   k     c     f        35556   60    0 
+Sebastian 958248477  7  6 c   f     -     -        35491   40    0 
+Sebastian 958248504  7  5 c   r     k     r        35451  140    0 Ts 8d
+Sebastian 958248589  6  4 f   -     -     -        35311    0    0 
+Sebastian 958248627  7  3 cc  kc    k     kf       35311   60    0 
+Sebastian 958248659  7  2 Bk  b     -     -        35196   40   70 
+Sebastian 958248680  7  1 Bc  k     kc    kf       35226   60    0 
+Sebastian 958248737  7  7 c   k     f     -        34746   20    0 
+Sebastian 958248765  7  6 c   k     k     f        34726   20    0 
+Sebastian 958248810  7  5 c   c     c     k        34706   80    0 7d 7h
+Sebastian 958248848  7  4 c   k     k     k        34471   20   35 Jd 5d
+Sebastian 958248914  7  3 ccc ccc   f     -        43276  160    0 
+Sebastian 958248974  7  2 Bk  b     k     b        43071   80  140 
+Sebastian 958249025  7  1 Bf  -     -     -        43121   10    0 
+Sebastian 958249050  7  7 r   f     -     -        43111   80    0 
+Sebastian 958249088  7  6 c   k     k     k        43021   20    0 5s 5d
+Sebastian 958249160  7  5 f   -     -     -        42936    0    0 
+Sebastian 958249206  7  4 c   k     k     k        42936   20    0 5d 9h
+Sebastian 958249295  7  3 f   -     -     -        43561    0    0 
+Sebastian 958249340  7  2 Bk  kf    -     -        43561   20    0 
+Sebastian 958249386  7  1 Bf  -     -     -        43531   10    0 
+Sebastian 958249400  6  6 f   -     -     -        43521    0    0 
+Sebastian 958249425  5  5 fQ  -     -     -        43521    0    0 
+Sebastian 958941540  7  4 c   cf    -     -         2407   60    0 
+Sebastian 958941630  9  5 cc  c     f     -         2347   80    0 
+Sebastian 958941690  9  4 f   -     -     -         2217    0    0 
+Sebastian 958941736  7  3 c   kf    -     -         2217   20    0 
+Sebastian 958941831  8  2 Bk  c     k     b         2177   80    0 Th 8s
+Sebastian 958941898  8  1 Bc  kf    -     -         2087   40    0 
+Sebastian 958941958  8  8 f   -     -     -         2037    0    0 
+Sebastian 958941996  9  9 c   k     f     -         2027   20    0 
+Sebastian 958942083  9  8 r   bc    kr    b         2007  200  520 5h 4h
+Sebastian 958942155  9  7 f   -     -     -         2327    0    0 
+Sebastian 958942215  9  6 r   b     b     bc        2317  180  235 Ac Kh
+Sebastian 958942253  9  5 c   kf    -     -         2372   20    0 
+Sebastian 958942355  9  4 f   -     -     -         2352    0    0 
+Sebastian 958942445  9  4 f   -     -     -         2212    0    0 
+Sebastian 958942506  9  2 Bf  -     -     -         2212   20    0 
+Sebastian 958942600 10  1 Bc  kf    -     -         2192   20    0 
+Sebastian 958942676 10 10 r   f     -     -         2092   40    0 
+Sebastian 958942788  9  8 c   f     -     -         2052   20    0 
+Sebastian 958942843  9  7 f   -     -     -         2212    0    0 
+Sebastian 958942875 10  6 c   b     k     k         2212   40    0 Jd Td
+Sebastian 958942932 10  5 cc  bc    bc    c         2112  200    0 Qd 3d
+Sebastian 958943028 10  4 c   b     b     -         1987   80  150 
+Sebastian 958943067  9  3 c   b     c     b         2057  120  430 Js 8s
+Sebastian 958943150  9  2 Bc  kf    -     -         2347   40    0 
+Sebastian 958943174  9  1 Bc  k     kf    -         2307   20    0 
+Sebastian 958943241  9  9 f   -     -     -         2287    0    0 
+Sebastian 958943304 10  8 cc  b     b     b         2277  160  550 9s 7h
+Sebastian 958943386 10  7 c   k     k     k         2667   20   80 9d 9c
+Sebastian 958943427 10  6 f   -     -     -         2727    0    0 
+Sebastian 958943513  9  4 f   -     -     -         2727    0    0 
+Sebastian 958943596 10  4 f   -     -     -         2657    0    0 
+Sebastian 958943646 10  3 f   -     -     -         2657    0    0 
+Sebastian 958943740 10  2 Bk  b     b     -         2707   80  150 
+Sebastian 958943788 10  1 Bcc kf    -     -         2777   40    0 
+Sebastian 958943857 10 10 f   -     -     -         2737    0    0 
+Sebastian 958943906 10 10 c   bc    f     -         2657   60    0 
+Sebastian 958943954 10  8 f   -     -     -         2597    0    0 
+Sebastian 958944027 10  7 cc  k     kc    b         2597  120  310 Th Kc
+Sebastian 958944098 10  6 cc  kf    -     -         2757   40    0 
+Sebastian 958944135 10  5 f   -     -     -         2717    0    0 
+Sebastian 958944181 10  4 cc  bc    k     k         2641   80  220 2c 3c
+Sebastian 958944255 10  3 f   -     -     -         2781    0    0 
+Sebastian 958944321 10  2 Bk  bc    kc    k         2846  100    0 6d 9c
+Sebastian 958944374 10  1 Bc  bc    k     b         2746  100  160 
+Sebastian 958944418 10 10 c   k     f     -         2806   20    0 
+Sebastian 958944448 10  9 c   k     f     -         2776   20    0 
+Sebastian 958944525 10  8 f   -     -     -         2696    0    0 
+Sebastian 958944562  9  7 f   -     -     -         2696    0    0 
+Sebastian 958944610  7  5 f   -     -     -         2616    0    0 
+Sebastian 958944624  7  4 f   -     -     -         2616    0    0 
+Sebastian 958944654  6  3 r   -     -     -         2706   40   70 
+Sebastian 958944665  6  2 Bk  f     -     -         2736   20    0 
+Sebastian 958944692  5  1 Bc  kc    kr    k         2686  120    0 Tc 8d
+Sebastian 958944735  6  5 c   f     -     -         2566   40    0 
+Sebastian 958944788  6  4 r   k     k     k         2506   40  100 Qc Qd
+Sebastian 958944816  7  3 f   -     -     -         2566    0    0 
+Sebastian 958944847  7  2 Bk  k     k     k         2566   20    0 7c 5s
+Sebastian 958944900  7  1 Bc  kf    -     -         2546   20    0 
+Sebastian 958944943  7  7 c   c     k     k         2596   40    0 9d 4d
+Sebastian 958945005  8  7 f   -     -     -         2596    0    0 
+Sebastian 958945039  8  6 cc  f     -     -         2596   60    0 
+Sebastian 958945075  8  5 c   f     -     -         2536   20    0 
+Sebastian 958945103  8  4 f   -     -     -         2516    0    0 
+Sebastian 958945169  9  3 r   bc    kc    k         2506  120    0 Js Qs
+Sebastian 958945269  9  2 Bc  kc    kc    bf        2656  140    0 
+Sebastian 958945306  9  1 Bf  -     -     -         2516   10    0 
+Sebastian 958945337  9  9 c   k     k     k         2446   20    0 4h 5c
+Sebastian 958945421  8  7 f   -     -     -         2426    0    0 
+Sebastian 958945453  8  6 f   -     -     -         2426    0    0 
+Sebastian 958945503  7  4 c   rc    r     -         2426  180  350 
+Sebastian 958945545  7  3 c   k     k     f         2696   20    0 
+Sebastian 958945603  7  2 Bf  -     -     -         2656   20    0 
+Sebastian 958945636  7  1 Bf  -     -     -         2626   10    0 
+Sebastian 958945652  7  7 c   c     f     -         2616   60    0 
+Sebastian 958945681  7  6 f   -     -     -         2556    0    0 
+Sebastian 958945716  7  5 f   -     -     -         2556    0    0 
+Sebastian 958945763  8  4 f   -     -     -         2536    0    0 
+Sebastian 958945781  8  3 f   -     -     -         2536    0    0 
+Sebastian 958945826  8  2 Bk  cc    kf    -         2536   60    0 
+Sebastian 958945895  8  1 Bc  kf    -     -         2926   40    0 
+Sebastian 958945944  9  9 r   b     bc    f         2886  140    0 
+Sebastian 958945996 10  9 cc  kc    b     b         2746  180  450 
+Sebastian 958946043 10  8 cf  -     -     -         3171   20    0 
+Sebastian 958946117 10  7 r   r     bc    c         3281  240    0 Kd Ks
+Sebastian 958946166 10  6 c   b     b     b         6357  120  240 
+Sebastian 958946214 10  5 c   b     bc    kf        6477  120    0 
+Sebastian 958946267 10  4 KQ  -     -     -         6357    0    0 
+Sebastian 959556753 10  9 c   k     b     k         2087   60  150 5c 6h
+Sebastian 959556831  9  7 c   f     -     -         2137   40    0 
+Sebastian 959556858  9  6 f   -     -     -         2097    0    0 
+Sebastian 959556934  9  5 c   c     r     c         2057  180    0 9c Ac
+Sebastian 959556978  8  3 cc  kf    -     -         1877   40    0 
+Sebastian 959557030  8  3 c   kf    -     -         1837   20    0 
+Sebastian 959557070  8  2 Bf  -     -     -         1817   20    0 
+Sebastian 959557110  8  1 Bc  b     b     b         1797  140    0 6h 8d
+Sebastian 959557155  8  8 c   f     -     -         1657   20    0 
+Sebastian 959557172  8  7 f   -     -     -         1637    0    0 
+Sebastian 959557208  8  6 c   c     k     f         1607   40    0 
+Sebastian 959557244  9  6 f   -     -     -         1547    0    0 
+Sebastian 959557286  8  5 f   -     -     -         1537    0    0 
+Sebastian 959557316  8  4 c   c     r     b         1627  160  420 7d 8h
+Sebastian 959557374  8  3 c   bc    c     c         1877  140    0 9c Qh
+Sebastian 959557474  8  2 Bf  -     -     -         1907   20    0 
+Sebastian 959557487  8  1 Bf  -     -     -         1867   10    0 
+Sebastian 959557510  8  8 c   b     -     -         1862   40   70 
+Sebastian 959557532  8  7 f   -     -     -         1892    0    0 
+Sebastian 959557561  8  6 f   -     -     -         1882    0    0 
+Sebastian 959557615  9  5 f   -     -     -         1882    0    0 
+Sebastian 959557658  9  4 c   b     kc    kf        1967   80    0 
+Sebastian 959557696  9  3 cc  kc    kc    k         1887  100    0 Ac Th
+Sebastian 959557727  9  2 Bc  f     -     -         1787   40    0 
+Sebastian 959557753  9  1 Bc  kf    -     -         1667   20    0 
+Sebastian 959557825 10 10 f   -     -     -         1647    0    0 
+Sebastian 959557949 10  9 c   k     f     -         1517   20    0 
+Sebastian 959558004 10  8 f   -     -     -         1497    0    0 
+Sebastian 959558064 10  7 c   cc    k     b         1447  120    0 6s 3s
+Sebastian 959558132 10  6 f   -     -     -         1297    0    0 
+Sebastian 959558206 10  5 f   -     -     -         1677    0    0 
+Sebastian 959558252 10  4 f   -     -     -         1657    0    0 
+Sebastian 959558305 10  3 f   -     -     -         1627    0    0 
+Sebastian 959558357 10  2 Bf  -     -     -         1607   20    0 
+Sebastian 959558381 10  1 Bf  -     -     -         1587   10    0 
+Sebastian 959558438 10 10 f   -     -     -         1557    0    0 
+Sebastian 959558466 10  9 f   -     -     -         1557    0    0 
+Sebastian 959558535 10  8 f   -     -     -         1427    0    0 
+Sebastian 959558585 10  7 f   -     -     -         1427    0    0 
+Sebastian 959558626 10  6 f   -     -     -         1397    0    0 
+Sebastian 959558673 10  5 f   -     -     -         1387    0    0 
+Sebastian 959558704 10  4 f   -     -     -         1387    0    0 
+Sebastian 959558775 10  3 f   -     -     -         1382    0    0 
+Sebastian 959558826 10  2 Bk  k     kf    -         1170   20    0 
+Sebastian 959558849 10  1 Bf  -     -     -         1150   10    0 
+Sebastian 959558902 10 10 f   -     -     -         1120    0    0 
+Sebastian 959558974 10  9 f   -     -     -         1120    0    0 
+Sebastian 959559014 10  8 f   -     -     -         1060    0    0 
+Sebastian 959559030 10  7 f   -     -     -         1060    0    0 
+Sebastian 959559053 10  6 f   -     -     -         1060    0    0 
+Sebastian 959559121 10  5 f   -     -     -         1060    0    0 
+Sebastian 959559151 10  4 f   -     -     -         1060    0    0 
+Sebastian 959559196 10  3 f   -     -     -         1060    0    0 
+Sebastian 959559251 10  2 Bk  kf    -     -         1060   20    0 
+Sebastian 959559289 10  1 Bf  -     -     -         1010   10    0 
+Sebastian 959559354 10 10 f   -     -     -          930    0    0 
+Sebastian 959559440 10  9 f   -     -     -          973    0    0 
+Sebastian 959559514 10  8 f   -     -     -          948    0    0 
+Sebastian 959559557 10  7 f   -     -     -          948    0    0 
+Sebastian 959559589 10  6 f   -     -     -          948    0    0 
+Sebastian 959559636 10  5 f   -     -     -          948    0    0 
+Sebastian 959559677 10  4 f   -     -     -          948    0    0 
+Sebastian 959559724 10  3 f   -     -     -          868    0    0 
+Sebastian 959559780 10  2 Bf  -     -     -          868   20    0 
+Sebastian 959559811 10  1 Bf  -     -     -          658   10    0 
+Sebastian 959559904 10 10 f   -     -     -          838    0    0 
+Sebastian 959559984 10  9 f   -     -     -          838    0    0 
+Sebastian 959560099 10  8 f   -     -     -          823    0    0 
+Sebastian 959560152 10  7 f   -     -     -          823    0    0 
+Sebastian 959560204 10  6 f   -     -     -          823    0    0 
+Sebastian 959560227 10  5 f   -     -     -          823    0    0 
+Sebastian 959560262 10  4 f   -     -     -          823    0    0 
+Sebastian 959560299 10  3 cc  f     -     -          823   60    0 
+Sebastian 959560361 10  2 Bc  br    b     -          848  160  560 
+Sebastian 959560418 10  1 Bf  -     -     -         1248   10    0 
+Sebastian 959560453 10 10 c   f     -     -         1238   40    0 
+Sebastian 959560486 10  9 cc  kf    -     -         1128   40    0 
+Sebastian 959560545 10  8 c   k     k     k         1038   20    0 8d 9d
+Sebastian 959560588 10  7 f   -     -     -         1083    0    0 
+Sebastian 959560642 10  6 f   -     -     -         1053    0    0 
+Sebastian 959560662 10  5 c   k     kc    k         1343   60  150 Td 7s
+Sebastian 959560698 10  4 cc  kc    kf    -         1433   60    0 
+Sebastian 959560735 10  3 f   -     -     -         1373    0    0 
+Sebastian 959560797 10  2 Bcc kc    kr    b         1323  220    0 Kh Qs
+Sebastian 959560840 10  1 Bcc kc    kf    -         1103   80    0 
+Sebastian 959560878 10 10 c   c     k     f         1023   60    0 
+Sebastian 959560923 10  9 ccc c     f     -          963  100    0 
+Sebastian 959560999 10  8 c   c     k     f          863   60    0 
+Sebastian 959561036 10  7 f   -     -     -          793    0    0 
+Sebastian 959561087 10  6 f   -     -     -          793    0    0 
+Sebastian 959561132 10  5 c   kcc   kf    -          663  100    0 
+Sebastian 959561204 10  4 c   kc    k     k          403   40    0 Js 2s
+Sebastian 959561263 10  3 r   k     k     b          303   80  180 Jc Jh
+Sebastian 959561290 10  2 Bk  kc    kf    -          403   40    0 
+Sebastian 959561343 10  1 Br  br    k     b          353  140  440 Js Ts
+Sebastian 959561402 10 10 f   -     -     -          633    0    0 
+Sebastian 959561454 10  9 cc  f     -     -          633   40    0 
+Sebastian 959561508 10  8 f   -     -     -          513    0    0 
+Sebastian 959561558 10  7 c   k     r     f          513  100    0 
+Sebastian 959561587 10  6 cc  k     b     k          413   80    0 2c 4h
+Sebastian 959561645 10  5 f   -     -     -          323    0    0 
+Sebastian 959561679 10  4 f   -     -     -          313    0    0 
+Sebastian 959561714 10  3 f   -     -     -          263    0    0 
+Sebastian 959561769 10  2 Bk  k     kc    kc         263  100    0 Qs Tc
+Sebastian 959561811 10  1 BA  -     -     -            3    3   15 7d Ts
+Sebastian 959561878 10 10 cA  -     -     -           15   15    0 7d 8s

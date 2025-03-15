@@ -1,0 +1,91 @@
+dcoder    957160638  4  2 B   -     -     -          777   10   15 
+dcoder    957160659  4  1 Bc  kc    k     k          782   20   40 Jc 3d
+dcoder    957160699  4  4 c   k     f     -          802   10    0 
+dcoder    957160721  4  3 f   -     -     -          792    0    0 
+dcoder    957160734  4  2 Bk  kc    kf    -          792   20    0 
+dcoder    957160765  4  1 Bc  kc    kf    -          772   20    0 
+dcoder    957160801  4  4 c   b     -     -          752   20   35 
+dcoder    957160812  4  3 c   k     b     c          767   50    0 2c Kh
+dcoder    957160836  4  2 Bc  kc    b     b          717   70  145 Ad 7s
+dcoder    957160870  4  1 Bf  -     -     -          792    5    0 
+dcoder    957160880  4  4 f   -     -     -          787    0    0 
+dcoder    957160892  4  3 cc  k     f     -          787   20    0 
+dcoder    957160939  6  2 Bk  b     k     b          767   40   90 Kh 8h
+dcoder    957160975  6  1 Bc  k     b     b          817   50   80 
+dcoder    957161005  6  6 f   -     -     -          847    0    0 
+dcoder    957161037  7  6 c   c     b     c          847   60  160 Qd 7c
+dcoder    957161090  7  5 f   -     -     -          947    0    0 
+dcoder    957161117  7  4 f   -     -     -          947    0    0 
+dcoder    957161156  8  4 c   f     -     -          947   10    0 
+dcoder    957161202  8  3 f   -     -     -          937    0    0 
+dcoder    957161232  8  2 Bk  c     c     f          937   40    0 
+dcoder    957161274  8  1 Bf  -     -     -          897    5    0 
+dcoder    957161301  8  8 f   -     -     -          892    0    0 
+dcoder    957161330  8  7 c   c     r     b          892   90    0 Jh 8h
+dcoder    957161377  8  6 f   -     -     -          802    0    0 
+dcoder    957161426  8  5 c   c     f     -          802   20    0 
+dcoder    957161459  8  4 f   -     -     -          782    0    0 
+dcoder    957161493  8  3 f   -     -     -          782    0    0 
+dcoder    957161530  8  2 Bc  kc    k     k          782   30    0 2s 5d
+dcoder    957161607  9  1 Bc  bc    b     bc         752  100    0 Ad Ks
+dcoder    957161671  9  9 cc  c     f     -          652   30    0 
+dcoder    957161732  9  8 f   -     -     -          622    0    0 
+dcoder    957161761  8  6 c   c     c     f          622   40    0 
+dcoder    957161796  9  5 f   -     -     -          582    0    0 
+dcoder    957161842  9  4 f   -     -     -          582    0    0 
+dcoder    957161898 10  4 c   k     c     k          582   30  120 9c As
+dcoder    957161969 10  3 f   -     -     -          672    0    0 
+dcoder    957162043 10  2 Bc  bc    bc    kc         672  100  240 Ah Ad
+dcoder    957162108  9  1 Bc  kc    b     b          812   60  160 As Ad
+dcoder    957162189 10  9 f   -     -     -          912    0    0 
+dcoder    957162255 10  8 c   c     k     r          912   60  165 7d 7c
+dcoder    957162312 10  7 f   -     -     -         1017    0    0 
+dcoder    957162358  8  5 c   c     c     c         1017   60  150 2c 6c
+dcoder    957162403  8  4 c   k     b     b         1107   50    0 8d Kd
+dcoder    957162453  8  3 f   -     -     -         1057    0    0 
+dcoder    957162517  8  2 Bk  kf    -     -         1057   10    0 
+dcoder    957162558  8  1 Bc  kc    kc    kc        1047   60    0 2d 9s
+dcoder    957162624  8  8 f   -     -     -          987    0    0 
+dcoder    957162662  7  7 c   k     b     c          987   50    0 5h 5d
+dcoder    957162721  7  6 f   -     -     -          937    0    0 
+dcoder    957162762  7  5 f   -     -     -          937    0    0 
+dcoder    957162803  8  4 c   c     c     k          937   40    0 6c Kc
+dcoder    957162854  8  3 f   -     -     -          897    0    0 
+dcoder    957162894  8  2 Bk  k     k     k          897   10    0 4h 9c
+dcoder    957162962  8  1 Bc  kc    kc    kc         887   60    0 9d 9s
+dcoder    957163026  9  9 f   -     -     -          827    0    0 
+dcoder    957163064  8  8 f   -     -     -          827    0    0 
+dcoder    957163114  8  7 f   -     -     -          827    0    0 
+dcoder    957163153  8  6 c   cf    -     -          827   20    0 
+dcoder    957163220  8  5 f   -     -     -          807    0    0 
+dcoder    957163266  9  4 c   c     k     k          807   20   80 6c As
+dcoder    957163318  9  3 cc  kc    kf    -          867   30    0 
+dcoder    957163379 10  3 f   -     -     -          837    0    0 
+dcoder    957163431 10  2 Bk  k     kf    -          837   10    0 
+dcoder    957163516 10  1 Bf  -     -     -          827    5    0 
+dcoder    957163568 10 10 c   c     c     c          822   70    0 Ks As
+dcoder    957163636 10  9 c   k     k     f          752   10    0 
+dcoder    957163712 10  8 f   -     -     -          742    0    0 
+dcoder    957163786 10  7 f   -     -     -          742    0    0 
+dcoder    957163829 10  6 f   -     -     -          742    0    0 
+dcoder    957163879 10  5 c   b     k     c          742   40    0 Qh Qs
+dcoder    957163967  9  4 c   c     b     c          702   60    0 Jh As
+dcoder    957164025  9  3 f   -     -     -          642    0    0 
+dcoder    957164105  9  2 Bk  kf    -     -          642   10    0 
+dcoder    957164207  9  1 Bc  kc    kf    -          632   20    0 
+dcoder    957164280 10 10 f   -     -     -          612    0    0 
+dcoder    957164321 10  9 f   -     -     -          612    0    0 
+dcoder    957164398 10  8 f   -     -     -          612    0    0 
+dcoder    957164469 10  7 f   -     -     -          612    0    0 
+dcoder    957164514 10  6 c   f     -     -          612   20    0 
+dcoder    957164579 10  5 f   -     -     -          592    0    0 
+dcoder    957164626  9  4 f   -     -     -          592    0    0 
+dcoder    957164688  9  3 c   cc    f     -          592   40    0 
+dcoder    957164745  8  2 Bk  kf    -     -          552   10    0 
+dcoder    957164791  8  1 Bf  -     -     -          542    5    0 
+dcoder    957164822  8  8 f   -     -     -          537    0    0 
+dcoder    957164845  8  7 f   -     -     -          537    0    0 
+dcoder    957164884  8  6 c   c     c     c          537   60    0 Ah 2s
+dcoder    957164943  8  5 f   -     -     -          477    0    0 
+dcoder    957164989  9  4 f   -     -     -          477    0    0 
+dcoder    957165060  9  2 Bc  kc    KQ    -          477   30    0 

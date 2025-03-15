@@ -1,0 +1,1415 @@
+CityPam   957155499 10  7 f   -     -     -         3291    0    0 
+CityPam   957155535 10  6 cc  f     -     -         3291   40    0 
+CityPam   957155606 10  5 f   -     -     -         3251    0    0 
+CityPam   957155648 10  4 f   -     -     -         3251    0    0 
+CityPam   957155709 10  3 c   c     cf    -         3251  100    0 
+CityPam   957155761 10  2 Bc  kc    krr   -         3151  240  570 
+CityPam   957155829 10  1 Bf  -     -     -         3481   10    0 
+CityPam   957155875 10 10 f   -     -     -         3471    0    0 
+CityPam   957155928 10  9 c   k     f     -         3471   20    0 
+CityPam   957156039 10  8 f   -     -     -         3451    0    0 
+CityPam   957156084 10  7 f   -     -     -         3451    0    0 
+CityPam   957156156 10  6 f   -     -     -         3451    0    0 
+CityPam   957156249 10  5 cc  k     c     c         3451  160  740 Kc Ac
+CityPam   957156332 10  4 f   -     -     -         4031    0    0 
+CityPam   957156398 10  3 f   -     -     -         4031    0    0 
+CityPam   957156480 10  2 Bf  -     -     -         4031   20    0 
+CityPam   957156502 10  1 Bc  kc    kf    -         4011   40    0 
+CityPam   957156564 10 10 f   -     -     -         3971    0    0 
+CityPam   957156685  9  8 c   k     b     b         3971  100    0 5d 6h
+CityPam   957156739  9  6 f   -     -     -         3871    0    0 
+CityPam   957156803  9  5 cf  -     -     -         3871   20    0 
+CityPam   957156909  9  4 f   -     -     -         3851    0    0 
+CityPam   957156971  9  3 f   -     -     -         3851    0    0 
+CityPam   957157029  9  2 Bf  -     -     -         3851   20    0 
+CityPam   957157076  9  1 Bf  -     -     -         3831   10    0 
+CityPam   957157097  9  9 f   -     -     -         3821    0    0 
+CityPam   957157141  9  8 f   -     -     -         3821    0    0 
+CityPam   957157175  9  7 fQ  -     -     -         3821    0    0 
+CityPam   957396983  8  5 c   c     f     -         4346   40    0 
+CityPam   957397016  7  4 f   -     -     -         4306    0    0 
+CityPam   957397045  6  2 Bk  c     f     -         4306   40    0 
+CityPam   957397069  5  1 Bf  -     -     -         4266   10    0 
+CityPam   957397095  5  5 f   -     -     -         4256    0    0 
+CityPam   957397118  5  4 fQ  -     -     -         4256    0    0 
+CityPam   957405634 10  3 c   k     kc    kf        5118   60    0 
+CityPam   957405708 10  2 Bk  kf    -     -         5058   20    0 
+CityPam   957405788 10  1 Bf  -     -     -         5038   10    0 
+CityPam   957405826  9  9 f   -     -     -         5028    0    0 
+CityPam   957405858  8  7 c   f     -     -         5028   20    0 
+CityPam   957405895  8  6 f   -     -     -         5008    0    0 
+CityPam   957405921  8  5 f   -     -     -         5008    0    0 
+CityPam   957406006  8  4 f   -     -     -         5008    0    0 
+CityPam   957406044  8  3 f   -     -     -         5008    0    0 
+CityPam   957406091  8  2 Bk  k     cc    kc        5008  140    0 7h As
+CityPam   957406150  8  1 Bf  -     -     -         4868   10    0 
+CityPam   957406216  8  8 f   -     -     -         4858    0    0 
+CityPam   957406261  9  8 c   k     cf    -         4858   60    0 
+CityPam   957406330  9  7 f   -     -     -         4798    0    0 
+CityPam   957406360  9  6 fQ  -     -     -         4798    0    0 
+CityPam   957486262 10  2 Bk  k     f     -         4725   20    0 
+CityPam   957486338 10  1 Bc  bc    kc    kc        4705  140    0 Ts Qs
+CityPam   957486410 10 10 c   b     -     -         4565   40  150 
+CityPam   957486461 10  9 f   -     -     -         4675    0    0 
+CityPam   957486500 10  8 f   -     -     -         4675    0    0 
+CityPam   957486559 10  7 c   f     -     -         4675   20    0 
+CityPam   957486631 10  6 c   c     f     -         4655   40    0 
+CityPam   957486662 10  5 c   r     b     b         4615  140  480 Kc Ks
+CityPam   957486720 10  4 f   -     -     -         4955    0    0 
+CityPam   957486746 10  3 f   -     -     -         4955    0    0 
+CityPam   957486783  9  2 Bk  k     b     -         4955   60  130 
+CityPam   957486811 10  1 Bc  kc    k     b         5025   80  160 
+CityPam   957486849 10 10 f   -     -     -         5105    0    0 
+CityPam   957486907 10  9 f   -     -     -         5105    0    0 
+CityPam   957486948 10  8 f   -     -     -         5105    0    0 
+CityPam   957486979 10  7 f   -     -     -         5105    0    0 
+CityPam   957487013 10  6 cf  -     -     -         5105   20    0 
+CityPam   957487073 10  5 f   -     -     -         5085    0    0 
+CityPam   957487106 10  4 f   -     -     -         5085    0    0 
+CityPam   957487161 10  3 c   kc    kf    -         5085   40    0 
+CityPam   957487238 10  2 Bk  kc    k     k         5045   40    0 4h Kh
+CityPam   957487304  9  1 Bc  k     b     b         5005  100  240 Ad 2c
+CityPam   957487356  8  8 f   -     -     -         5145    0    0 
+CityPam   957487405 10  8 c   c     r     b         5145  160  420 8d 8s
+CityPam   957487471 10  7 f   -     -     -         5405    0    0 
+CityPam   957487534 10  6 cc  kf    -     -         5405   40    0 
+CityPam   957487598  9  5 f   -     -     -         5365    0    0 
+CityPam   957487641  9  4 f   -     -     -         5365    0    0 
+CityPam   957487672  9  3 c   kf    -     -         5365   20    0 
+CityPam   957487752 10  2 Bf  -     -     -         5345   20    0 
+CityPam   957487772 10  1 Bf  -     -     -         5325   10    0 
+CityPam   957487853 10 10 f   -     -     -         5315    0    0 
+CityPam   957487895 10  9 f   -     -     -         5315    0    0 
+CityPam   957487996 10  8 f   -     -     -         5315    0    0 
+CityPam   957488040 10  7 c   c     cc    c         5315  160  440 Qd Ts
+CityPam   957488096 10  6 f   -     -     -         5595    0    0 
+CityPam   957488144 10  5 f   -     -     -         5595    0    0 
+CityPam   957488181 10  4 f   -     -     -         5595    0    0 
+CityPam   957488258  8  3 f   -     -     -         5595    0    0 
+CityPam   957488296  8  2 Bf  -     -     -         5595   20    0 
+CityPam   957488371  8  1 Bf  -     -     -         5575   10    0 
+CityPam   957488415  8  8 f   -     -     -         5565    0    0 
+CityPam   957488447  9  8 c   cf    -     -         5565   40    0 
+CityPam   957488507  9  7 c   c     r     c         5525  160    0 Qc 8d
+CityPam   957488564  8  5 f   -     -     -         5365    0    0 
+CityPam   957488601  8  4 f   -     -     -         5365    0    0 
+CityPam   957488703  8  3 f   -     -     -         5365    0    0 
+CityPam   957488726  8  2 Bk  f     -     -         5365   20    0 
+CityPam   957488775  8  1 Bf  -     -     -         5345   10    0 
+CityPam   957488798  8  8 f   -     -     -         5335    0    0 
+CityPam   957488826  7  6 f   -     -     -         5335    0    0 
+CityPam   957488878  7  5 f   -     -     -         5335    0    0 
+CityPam   957488930  9  5 c   b     b     -         5335   80  130 
+CityPam   957488978  9  3 f   -     -     -         5385    0    0 
+CityPam   957489025  9  2 Bf  -     -     -         5385   20    0 
+CityPam   957489076 10  1 Bc  kf    -     -         5365   20    0 
+CityPam   957489101 10 10 f   -     -     -         5345    0    0 
+CityPam   957489155 10  9 cc  kc    k     kc        5345  100    0 Kd 7d
+CityPam   957489187 10  8 f   -     -     -         5245    0    0 
+CityPam   957489239 10  7 f   -     -     -         5245    0    0 
+CityPam   957489304 10  6 c   b     -     -         5245   40   90 
+CityPam   957489357 10  5 f   -     -     -         5295    0    0 
+CityPam   957489412 10  4 cc  kf    -     -         5295   40    0 
+CityPam   957489463 10  3 f   -     -     -         5255    0    0 
+CityPam   957489495 10  2 Bk  k     k     k         5255   20    0 7s Th
+CityPam   957489529 10  1 Bf  -     -     -         5235   10    0 
+CityPam   957489545 10 10 c   c     c     k         5225   80    0 5h 5s
+CityPam   957489597 10  9 f   -     -     -         5145    0    0 
+CityPam   957489639 10  8 f   -     -     -         5145    0    0 
+CityPam   957489722 10  7 f   -     -     -         5145    0    0 
+CityPam   957489732 10  6 cc  c     r     k         5145  140    0 Jh 9h
+CityPam   957489803 10  5 f   -     -     -         5005    0    0 
+CityPam   957489863 10  4 f   -     -     -         5005    0    0 
+CityPam   957489905 10  3 fQ  -     -     -         5005    0    0 
+CityPam   957491840  8  3 cc  c     kf    -         4875   60    0 
+CityPam   957491882  8  2 Bf  -     -     -         4815   20    0 
+CityPam   957491922  8  1 Bc  k     k     k         4795   20   40 Ad 5h
+CityPam   957491958  9  9 f   -     -     -         4815    0    0 
+CityPam   957492018  9  8 f   -     -     -         4815    0    0 
+CityPam   957492107 10  8 f   -     -     -         4815    0    0 
+CityPam   957492181 10  7 f   -     -     -         4815    0    0 
+CityPam   957492249 10  6 f   -     -     -         4815    0    0 
+CityPam   957492298 10  5 cc  kf    -     -         4815   40    0 
+CityPam   957492321 10  4 c   c     c     k         4775   80    0 Qh 7h
+CityPam   957492363 10  3 f   -     -     -         4695    0    0 
+CityPam   957492460 10  2 Bk  kf    -     -         4695   20    0 
+CityPam   957492486  9  1 Bf  -     -     -         4675   10    0 
+CityPam   957492553  9  9 f   -     -     -         4665    0    0 
+CityPam   957492592  9  8 c   f     -     -         4665   20    0 
+CityPam   957492621  9  7 c   r     b     b         4645  140  390 
+CityPam   957492687  9  6 f   -     -     -         4895    0    0 
+CityPam   957492741  9  5 f   -     -     -         4895    0    0 
+CityPam   957492758  8  3 f   -     -     -         4895    0    0 
+CityPam   957492772  8  2 Bf  -     -     -         4895   20    0 
+CityPam   957492802  9  1 Bc  kf    -     -         4875   20    0 
+CityPam   957492888  9  9 c   c     c     f         4855   80    0 
+CityPam   957492923  9  8 f   -     -     -         4775    0    0 
+CityPam   957492945  9  7 f   -     -     -         4775    0    0 
+CityPam   957493004  9  6 f   -     -     -         4775    0    0 
+CityPam   957493061  9  5 fQ  -     -     -         4775    0    0 
+CityPam   957619454  8  8 c   c     b     b         4775  120  330 8d 6h
+CityPam   957619504  8  7 f   -     -     -         4985    0    0 
+CityPam   957619542  9  7 c   c     c     cc        4985  160    0 9d 7c
+CityPam   957619620  9  6 cf  -     -     -         4825   20    0 
+CityPam   957619712  9  5 c   kc    k     k         4805   40    0 Js 2s
+CityPam   957619762  9  4 fQ  -     -     -         4765    0    0 
+CityPam   957654751  8  5 f   -     -     -         4200    0    0 
+CityPam   957654784  8  4 f   -     -     -         4200    0    0 
+CityPam   957654852  8  3 f   -     -     -         4200    0    0 
+CityPam   957654868  8  2 Bk  bc    kc    kf        4200  100    0 
+CityPam   957654915  8  1 Bc  kc    k     kf        4100   60    0 
+CityPam   957654986  8  8 f   -     -     -         4040    0    0 
+CityPam   957655021  8  7 f   -     -     -         4040    0    0 
+CityPam   957655057  8  6 f   -     -     -         4040    0    0 
+CityPam   957655088  8  5 cc  kf    -     -         4040   40    0 
+CityPam   957655155  9  4 c   bc    kc    k         4000  100    0 Kh As
+CityPam   957655228  9  3 ccc kcc   kc    kc        3900  240    0 Ah Ac
+CityPam   957655296  9  2 Bc  kc    k     b         3660  100  350 Qh Js
+CityPam   957655378  9  1 Bf  -     -     -         3910   10    0 
+CityPam   957655431 10  9 f   -     -     -         3900    0    0 
+CityPam   957655481 10  8 f   -     -     -         3900    0    0 
+CityPam   957655531  9  6 cc  kc    k     k         3900   60    0 Kc 7c
+CityPam   957655581  9  5 cf  -     -     -         3840   20    0 
+CityPam   957655608  8  4 c   c     c     c         3820  140  350 Qd Ah
+CityPam   957655654  8  3 f   -     -     -         4030    0    0 
+CityPam   957655671  8  2 Bk  kf    -     -         4030   20    0 
+CityPam   957655711  8  1 Bf  -     -     -         4010   10    0 
+CityPam   957655771  8  8 f   -     -     -         4000    0    0 
+CityPam   957655809  8  7 f   -     -     -         4000    0    0 
+CityPam   957655857  8  6 c   f     -     -         4000   20    0 
+CityPam   957655907  8  5 cc  kc    kc    kf        3980  100    0 
+CityPam   957655950  8  4 f   -     -     -         3880    0    0 
+CityPam   957655989  8  3 f   -     -     -         3880    0    0 
+CityPam   957656041  9  3 c   f     -     -         3880   20    0 
+CityPam   957656084  9  2 Bf  -     -     -         3860   20    0 
+CityPam   957656108  8  1 Bc  kf    -     -         3840   20    0 
+CityPam   957656174  8  8 c   k     k     f         3820   20    0 
+CityPam   957656226  8  7 c   c     c     c         3800  140  310 Td Tc
+CityPam   957656254  8  6 f   -     -     -         3970    0    0 
+CityPam   957656269  8  5 f   -     -     -         3970    0    0 
+CityPam   957656322  8  4 f   -     -     -         3970    0    0 
+CityPam   957656396  8  3 f   -     -     -         3970    0    0 
+CityPam   957656451  8  2 Bk  k     k     k         3970   20   25 9c 6d
+CityPam   957656479  8  1 Bf  -     -     -         3975   10    0 
+CityPam   957656524  8  8 c   f     -     -         3965   40    0 
+CityPam   957656558  8  7 c   c     f     -         3925   40    0 
+CityPam   957656597  8  6 c   b     b     -         3885  100  290 
+CityPam   957656658  9  5 f   -     -     -         4075    0    0 
+CityPam   957656695  8  3 c   b     kf    -         4075   40    0 
+CityPam   957656765  8  2 Bk  kf    -     -         4035   20    0 
+CityPam   957656815  8  1 Bc  kc    k     bc        4015  140  340 Qc 9h
+CityPam   957656874  8  8 f   -     -     -         4215    0    0 
+CityPam   957656930  8  7 f   -     -     -         4215    0    0 
+CityPam   957656967  9  7 f   -     -     -         4215    0    0 
+CityPam   957656995  9  6 cf  -     -     -         4215   20    0 
+CityPam   957657043  9  5 cc  c     k     c         4195  100  280 9d Ac
+CityPam   957657094 10  4 f   -     -     -         4375    0    0 
+CityPam   957657138 10  3 f   -     -     -         4375    0    0 
+CityPam   957657186 10  2 Bk  kf    -     -         4375   20    0 
+CityPam   957657214 10  1 Bc  kc    kc    kf        4355   80    0 
+CityPam   957657256 10 10 f   -     -     -         4275    0    0 
+CityPam   957657282 10  9 f   -     -     -         4275    0    0 
+CityPam   957657353 10  8 f   -     -     -         4275    0    0 
+CityPam   957657369 10  7 f   -     -     -         4275    0    0 
+CityPam   957657435  9  6 f   -     -     -         4275    0    0 
+CityPam   957657477  9  5 c   k     kc    kf        4275   60    0 
+CityPam   957657505  9  4 f   -     -     -         4215    0    0 
+CityPam   957657559  9  3 f   -     -     -         4215    0    0 
+CityPam   957657595  9  2 Bk  b     -     -         4215   40   80 
+CityPam   957657618  8  1 Bf  -     -     -         4255   10    0 
+CityPam   957657651  8  8 c   f     -     -         4245   20    0 
+CityPam   957657704  8  7 f   -     -     -         4225    0    0 
+CityPam   957657762  8  6 c   f     -     -         4225   20    0 
+CityPam   957657816  7  4 cc  bc    kc    c         4205  200    0 9h 9s
+CityPam   957657883  7  4 c   kc    kc    k         4005   80  220 Kd 7h
+CityPam   957657922  7  3 f   -     -     -         4145    0    0 
+CityPam   957657955  7  2 Bf  -     -     -         4145   20    0 
+CityPam   957657986  7  1 Bc  k     b     b         4125  100  180 
+CityPam   957658011  7  7 c   k     k     f         4205   20    0 
+CityPam   957658052  7  6 f   -     -     -         4185    0    0 
+CityPam   957658067  7  5 c   f     -     -         4185   20    0 
+CityPam   957658131  7  4 f   -     -     -         4165    0    0 
+CityPam   957658168  7  3 f   -     -     -         4165    0    0 
+CityPam   957658187  7  2 Bc  kc    kc    k         4165  100  210 4h 4s
+CityPam   957658213  7  1 Bf  -     -     -         4275   10    0 
+CityPam   957658262  7  7 c   c     k     k         4265   40    0 2s 3s
+CityPam   957658307  7  6 f   -     -     -         4225    0    0 
+CityPam   957658347  6  4 c   c     c     b         4225  120  250 3h 5h
+CityPam   957658377  6  3 cf  -     -     -         4355   20    0 
+CityPam   957658411  6  2 Bk  f     -     -         4335   20    0 
+CityPam   957658434  6  1 Bc  kc    kc    kc        4315  180    0 Ac 7c
+CityPam   957658483  6  6 c   c     b     b         4135  120  270 As Ah
+CityPam   957658532  6  5 cc  k     kf    -         4285   40    0 
+CityPam   957658573  5  3 c   f     -     -         4245   20    0 
+CityPam   957658616  5  2 Bf  -     -     -         4225   20    0 
+CityPam   957658629  5  1 Bf  -     -     -         4205   10    0 
+CityPam   957658644  5  5 f   Q     -     -         4195    0    0 
+CityPam   957677031 10  4 f   -     -     -         4195    0    0 
+CityPam   957677088 10  3 f   -     -     -         4195    0    0 
+CityPam   957677181 10  2 Bk  f     -     -         4195   20    0 
+CityPam   957677237 10  1 Bf  -     -     -         4175   10    0 
+CityPam   957677300 10 10 c   c     f     -         4165   40    0 
+CityPam   957677336 10  9 cc  f     -     -         4125   40    0 
+CityPam   957677416 10  8 f   -     -     -         4085    0    0 
+CityPam   957677479 10  7 f   -     -     -         4085    0    0 
+CityPam   957677538 10  6 f   -     -     -         4085    0    0 
+CityPam   957677610 10  5 f   -     -     -         4085    0    0 
+CityPam   957677631 10  4 f   -     -     -         4085    0    0 
+CityPam   957677664 10  3 c   bc    c     f         4085  100    0 
+CityPam   957677739 10  2 Bf  -     -     -         3985   20    0 
+CityPam   957677772 10  1 Bc  k     bc    k         3965  160  560 6c Qc
+CityPam   957677833 10 10 f   -     -     -         4365    0    0 
+CityPam   957677908 10  9 f   -     -     -         4365    0    0 
+CityPam   957677946 10  8 c   k     f     -         4365   20    0 
+CityPam   957677987 10  7 f   -     -     -         4345    0    0 
+CityPam   957678011 10  6 cc  c     k     c         4345  100    0 6s 6d
+CityPam   957678059 10  5 f   -     -     -         4245    0    0 
+CityPam   957678108 10  4 f   -     -     -         4245    0    0 
+CityPam   957678179 10  3 cc  c     cc    kc        4245  180    0 Ac Ts
+CityPam   957678281 10  2 Bc  kf    -     -         4065   60    0 
+CityPam   957678331 10  1 Bcc kf    -     -         4005   40    0 
+CityPam   957678409 10 10 f   -     -     -         3965    0    0 
+CityPam   957678446  9  8 cc  kc    k     f         3965   80    0 
+CityPam   957678509  8  6 f   -     -     -         3885    0    0 
+CityPam   957678528  8  6 f   -     -     -         3885    0    0 
+CityPam   957678571  8  5 c   kc    k     k         3885   60    0 3h 4c
+CityPam   957678635  8  4 f   -     -     -         3825    0    0 
+CityPam   957678673  8  3 ccc kc    kcc   kf        3825  260    0 
+CityPam   957678757  9  2 Bc  kc    k     b         3565  100  210 Qh 2h
+CityPam   957678783  9  1 Bc  kf    -     -         3675   20    0 
+CityPam   957678832 10 10 f   -     -     -         3655    0    0 
+CityPam   957678874  9  8 f   -     -     -         3655    0    0 
+CityPam   957678908  9  7 f   -     -     -         3655    0    0 
+CityPam   957678952  9  6 cc  c     f     -         3655   80    0 
+CityPam   957679019  9  5 f   -     -     -         3575    0    0 
+CityPam   957679053  9  4 f   -     -     -         3575    0    0 
+CityPam   957679082  8  3 f   -     -     -         3575    0    0 
+CityPam   957679116  8  2 Bf  -     -     -         3575   20    0 
+CityPam   957679126  8  1 Bcc kf    -     -         3555   80    0 
+CityPam   957679191  8  8 c   c     c     f         3475   80    0 
+CityPam   957679305  8  8 c   f     Q     -         3395   20    0 
+CityPam   957707239  6  2 Bc  kf    -     -         3325   40    0 
+CityPam   957707263  6  1 Bf  -     -     -         3285   10    0 
+CityPam   957707309  6  6 f   -     -     -         3275    0    0 
+CityPam   957707355  6  5 f   -     -     -         3275    0    0 
+CityPam   957707423  6  4 f   -     -     -         3275    0    0 
+CityPam   957707457  6  3 c   kc    kc    kf        3275   80    0 
+CityPam   957707501  5  1 Bk  kc    kc    kc        3195  120    0 8c Jh
+CityPam   957707534  5  1 Bc  b     k     k         3075   40  120 As Js
+CityPam   957707574  5  5 c   f     -     -         3155   20    0 
+CityPam   957707609  4  4 c   f     -     -         3135   20    0 
+CityPam   957707647  4  3 c   b     -     -         3115   40   80 
+CityPam   957707669  4  2 Bk  f     -     -         3155   20    0 
+CityPam   957707680  4  1 Bf  -     -     -         3135   10    0 
+CityPam   957707699  4  4 f   -     -     -         3125    0    0 
+CityPam   957707705  4  3 c   k     c     k         3125   60  200 Ah 2s
+CityPam   957707736  4  2 Bk  kf    -     -         3265   20    0 
+CityPam   957707778  4  1 Bc  k     kf    -         3245   20    0 
+CityPam   957707797  4  4 f   -     -     -         3225    0    0 
+CityPam   957707831  5  3 c   b     b     b         3225  120  270 Ad Qh
+CityPam   957707850  5  2 B   -     -     -         3375   20   30 
+CityPam   957707859  5  1 Bc  kc    k     k         3385   40  100 Ac Jh
+CityPam   957707883  5  5 c   f     -     -         3445   20    0 
+CityPam   957707915  5  4 r   b     -     -         3425   60  160 
+CityPam   957707943  5  3 f   -     -     -         3525    0    0 
+CityPam   957707964  5  2 Bk  c     c     k         3525   80    0 8d Th
+CityPam   957707983  5  1 Bf  -     -     -         3445   10    0 
+CityPam   957708009  5  5 c   c     c     f         3435   80    0 
+CityPam   957708040  5  4 f   -     -     -         3355    0    0 
+CityPam   957708064  6  4 c   b     b     k         3355   80  190 Ad 3c
+CityPam   957708099  6  3 c   c     k     k         3465   40    0 3c 3d
+CityPam   957708136  6  2 Br  b     k     k         3425   60    0 Js Qs
+CityPam   957708174  6  1 Bf  -     -     -         3365   10    0 
+CityPam   957708197  6  6 c   k     k     b         3355   60  170 5s Js
+CityPam   957708228  6  5 f   -     -     -         3465    0    0 
+CityPam   957708238  6  4 r   kc    kc    k         3465  100    0 As 7s
+CityPam   957708269  6  3 c   b     -     -         3365   40   70 
+CityPam   957708283  6  2 Bf  -     -     -         3395   20    0 
+CityPam   957708301  6  1 Br  b     b     b         3375  160  420 Ah Ac
+CityPam   957708339  6  6 f   -     -     -         3635    0    0 
+CityPam   957708367  6  5 f   -     -     -         3635    0    0 
+CityPam   957708384  6  4 f   -     -     -         3635    0    0 
+CityPam   957708417  7  3 cc  kc    kc    kc        3635  140  370 2c Ac
+CityPam   957708476  7  2 Bk  b     b     kc        3865  120    0 4s 2c
+CityPam   957708512  7  1 Bc  kf    -     -         3745   20    0 
+CityPam   957708557  7  7 f   -     -     -         3725    0    0 
+CityPam   957708599  7  6 f   -     -     -         3725    0    0 
+CityPam   957708666  7  5 f   -     -     -         3725    0    0 
+CityPam   957708697  7  4 c   c     c     f         3725   80    0 
+CityPam   957708731  7  3 f   -     -     -         3645    0    0 
+CityPam   957708767  7  2 Bc  kc    k     k         3645   60    0 Tc Qh
+CityPam   957708803  7  1 Bf  -     -     -         3585   10    0 
+CityPam   957708830  7  7 f   -     -     -         3575    0    0 
+CityPam   957708854  7  6 c   c     c     b         3575  120  350 
+CityPam   957708898  7  5 f   -     -     -         3805    0    0 
+CityPam   957708929  7  4 f   -     -     -         3805    0    0 
+CityPam   957708968  7  3 cc  b     b     kc        3805  140    0 8d Ad
+CityPam   957709022  7  2 Bk  k     kf    -         3665   20    0 
+CityPam   957709050  7  1 Bf  -     -     -         3645   10    0 
+CityPam   957709062  7  7 c   k     f     -         3635   20    0 
+CityPam   957709100  7  6 r   b     k     b         3615  100  170 
+CityPam   957709122  7  5 f   -     -     -         3685    0    0 
+CityPam   957709155  7  4 c   f     -     -         3685   20    0 
+CityPam   957709184  7  3 fQ  -     -     -         3665    0    0 
+CityPam   957828914 10  1 Bc  kc    kc    k         5195   80  200 3c 2c
+CityPam   957828969 10 10 c   f     -     -         5315   20    0 
+CityPam   957829072 10  9 c   c     f     -         5295   40    0 
+CityPam   957829164 10  8 c   b     b     -         5255   80  180 
+CityPam   957829238 10  7 c   f     -     -         5355   20    0 
+CityPam   957829271 10  6 f   -     -     -         5335    0    0 
+CityPam   957829337 10  6 f   -     -     -         5335    0    0 
+CityPam   957829396 10  4 f   -     -     -         5335    0    0 
+CityPam   957829489 10  3 f   -     -     -         5335    0    0 
+CityPam   957829564 10  2 Bc  kc    kf    -         5335   60    0 
+CityPam   957829640 10  1 Bc  kc    kc    k         5275   80    0 9c 6c
+CityPam   957829697 10 10 f   -     -     -         5195    0    0 
+CityPam   957829730 10  9 f   -     -     -         5195    0    0 
+CityPam   957829806 10  8 r   b     b     b         5195  140    0 Jd Jh
+CityPam   957829865 10  7 f   -     -     -         5055    0    0 
+CityPam   957829953 10  6 c   c     c     f         5055   80    0 
+CityPam   957830011 10  5 f   -     -     -         4975    0    0 
+CityPam   957830057 10  4 cf  -     -     -         4975   20    0 
+CityPam   957830079 10  3 f   -     -     -         4955    0    0 
+CityPam   957830139 10  2 Bk  kf    -     -         4955   20    0 
+CityPam   957830239 10  1 Bf  -     -     -         4935   10    0 
+CityPam   957830292 10 10 f   -     -     -         4925    0    0 
+CityPam   957830356 10  9 f   -     -     -         4925    0    0 
+CityPam   957830414 10  8 f   -     -     -         4925    0    0 
+CityPam   957830483 10  7 c   k     kc    c         4925  100  340 6c 8c
+CityPam   957830587 10  6 f   -     -     -         5165    0    0 
+CityPam   957830636 10  5 f   -     -     -         5165    0    0 
+CityPam   957830721 10  4 f   -     -     -         5165    0    0 
+CityPam   957830767 10  3 f   -     -     -         5165    0    0 
+CityPam   957830825 10  2 Bk  k     kf    -         5165   20    0 
+CityPam   957830876 10  1 Bf  -     -     -         5145   10    0 
+CityPam   957830923 10 10 f   -     -     -         5135    0    0 
+CityPam   957831026 10  9 f   -     -     -         5135    0    0 
+CityPam   957831097 10  8 c   fQ    -     -         5135   20    0 
+CityPam   957834723 10  4 f   -     -     -         5115    0    0 
+CityPam   957834740 10  3 c   k     f     -         5115   20    0 
+CityPam   957834787 10  2 Bk  kf    -     -         5095   20    0 
+CityPam   957834853 10  1 Bf  -     -     -         5075   10    0 
+CityPam   957834903 10 10 f   -     -     -         5065    0    0 
+CityPam   957834925 10  9 f   -     -     -         5065    0    0 
+CityPam   957835024 10  8 f   -     -     -         5065    0    0 
+CityPam   957835058 10  7 f   -     -     -         5065    0    0 
+CityPam   957835087 10  6 c   c     k     f         5065   60    0 
+CityPam   957835129 10  5 cc  kc    k     k         5005   60    0 Kd Jd
+CityPam   957835190 10  4 c   b     b     b         4945  120  155 8c As
+CityPam   957835229 10  3 f   -     -     -         4980    0    0 
+CityPam   957835269 10  2 Bf  -     -     -         4980   20    0 
+CityPam   957835309 10  1 Bc  kf    -     -         4960   20    0 
+CityPam   957835353 10 10 f   -     -     -         4940    0    0 
+CityPam   957835388 10  9 f   -     -     -         4940    0    0 
+CityPam   957835406 10  8 c   c     c     f         4940  100    0 
+CityPam   957835436  9  6 f   -     -     -         4840    0    0 
+CityPam   957835457  9  5 c   b     b     -         4840   80  140 
+CityPam   957835497 10  5 f   -     -     -         4900    0    0 
+CityPam   957835528 10  4 c   b     -     -         4900   40   80 
+CityPam   957835541 10  3 f   -     -     -         4940    0    0 
+CityPam   957835582 10  2 Bk  kf    -     -         4940   20    0 
+CityPam   957835644  9  1 Bf  -     -     -         4920   10    0 
+CityPam   957835698 10 10 f   -     -     -         4910    0    0 
+CityPam   957835739 10  9 f   -     -     -         4910    0    0 
+CityPam   957835746 10  8 cc  kc    kc    kc        4910  140    0 7c 7d
+CityPam   957835786 10  7 f   -     -     -         4770    0    0 
+CityPam   957835833 10  6 c   c     c     k         4770   80    0 9s Ks
+CityPam   957835868 10  5 f   -     -     -         4690    0    0 
+CityPam   957835934 10  4 c   k     f     -         4690   20    0 
+CityPam   957835968 10  3 c   k     f     -         4670   20    0 
+CityPam   957835989 10  2 Bc  kf    -     -         4650   40    0 
+CityPam   957836041 10  1 Bf  -     -     -         4610   10    0 
+CityPam   957836090 10 10 fQ  -     -     -         4600    0    0 
+CityPam   957916645  7  3 cc  cc    kc    k         4541  140    0 Qs Qh
+CityPam   957916686  7  2 Bk  bc    b     b         4401  140  340 3c 4c
+CityPam   957916720  7  1 Bf  -     -     -         4601   10    0 
+CityPam   957916745  8  7 c   b     -     -         4591   40  130 
+CityPam   957916771  8  6 f   -     -     -         4681    0    0 
+CityPam   957916790  8  5 c   b     -     -         4681   40   90 
+CityPam   957916812  8  4 f   -     -     -         4731    0    0 
+CityPam   957916870  8  3 cf  -     -     -         4731   20    0 
+CityPam   957916893  8  2 Bf  -     -     -         4711   20    0 
+CityPam   957916920  8  1 Bf  -     -     -         4691   10    0 
+CityPam   957916935  8  8 f   -     -     -         4681    0    0 
+CityPam   957916994  8  7 f   -     -     -         4681    0    0 
+CityPam   957917003  9  7 rr  b     b     b         4681  180  510 Ah Ad
+CityPam   957917046 10  7 cc  c     c     c         5011  140    0 As 9s
+CityPam   957917116 10  6 cf  -     -     -         4871   20    0 
+CityPam   957917194 10  5 cc  k     k     kc        4851   80    0 6s 6d
+CityPam   957917239 10  4 cc  k     k     k         4771   40    0 9s 7s
+CityPam   957917286 10  3 cf  -     -     -         4731   20    0 
+CityPam   957917323 10  2 Bf  -     -     -         4711   20    0 
+CityPam   957917365 10  1 Bc  brc   bcc   kcc       4691  420  630 Th 9c
+CityPam   957917461 10 10 cc  bc    c     c         4901  160    0 Jc Jd
+CityPam   957917540 10  9 f   -     -     -         4741    0    0 
+CityPam   957917579 10  8 cc  c     f     -         4741   60    0 
+CityPam   957917632 10  7 c   c     f     -         4681   40    0 
+CityPam   957917691 10  6 c   c     c     c         4641  120    0 8s As
+CityPam   957917735 10  5 f   -     -     -         4521    0    0 
+CityPam   957917797 10  4 f   -     -     -         4521    0    0 
+CityPam   957917837 10  3 c   kc    k     k         4521   40  110 8d 8c
+CityPam   957917893 10  2 Bc  kf    -     -         4591   40    0 
+CityPam   957917941 10  1 Bc  kf    -     -         4551   20    0 
+CityPam   957917994 10 10 c   f     -     -         4531   40    0 
+CityPam   957918037 10  9 c   rr    b     rc        4491  280    0 Ad As
+CityPam   957918093 10  8 c   kf    -     -         4211   20    0 
+CityPam   957918148 10  7 f   -     -     -         4191    0    0 
+CityPam   957918183 10  6 f   -     -     -         4191    0    0 
+CityPam   957918217 10  5 f   -     -     -         4191    0    0 
+CityPam   957918256 10  4 cf  -     -     -         4191   20    0 
+CityPam   957918288 10  3 r   bf    -     -         4171   60    0 
+CityPam   957918318 10  2 Bk  kf    -     -         4111   20    0 
+CityPam   957918351 10  1 Bc  kc    kc    kc        4091  140    0 Tc 8c
+CityPam   957918387 10 10 f   -     -     -         3951    0    0 
+CityPam   957918426 10  9 f   -     -     -         3951    0    0 
+CityPam   957918434 10  8 c   c     c     b         3951  120  380 4c Tc
+CityPam   957918498 10  7 f   -     -     -         4211    0    0 
+CityPam   957918556 10  6 f   -     -     -         4211    0    0 
+CityPam   957918587 10  5 cc  kc    k     kf        4211   60    0 
+CityPam   957918649 10  4 f   -     -     -         4151    0    0 
+CityPam   957918689 10  3 f   -     -     -         4151    0    0 
+CityPam   957918776 10  2 Bf  -     -     -         4151   20    0 
+CityPam   957918794 10  1 Bc  k     k     bc        4131  100    0 Jd Kh
+CityPam   957918827 10 10 c   k     k     b         4031   60  160 
+CityPam   957918928 10  9 f   -     -     -         4131    0    0 
+CityPam   957918938 10  8 f   -     -     -         4131    0    0 
+CityPam   957918975 10  7 c   b     b     b         4131  120  260 3h As
+CityPam   957919002 10  6 f   -     -     -         4271    0    0 
+CityPam   957919034 10  5 f   -     -     -         4271    0    0 
+CityPam   957919085  9  4 f   -     -     -         4271    0    0 
+CityPam   957919127  9  3 c   c     c     k         4271   80    0 Jd Kh
+CityPam   957919162  8  2 Bk  kf    -     -         4191   20    0 
+CityPam   957919204  8  1 Bcc k     kc    k         4171   80    0 2c Ac
+CityPam   957919249  8  8 c   c     k     k         4091   40   90 Js Ad
+CityPam   957919275  8  7 r   b     bc    k         4141  140    0 Qc Qd
+CityPam   957919317  8  6 f   -     -     -         4001    0    0 
+CityPam   957919344  8  5 f   -     -     -         4001    0    0 
+CityPam   957919386  8  4 f   -     -     -         4001    0    0 
+CityPam   957919416  8  3 f   -     -     -         4001    0    0 
+CityPam   957919446  8  2 Bk  kc    k     b         4001   80  160 
+CityPam   957919490  8  1 Bf  -     -     -         4081   10    0 
+CityPam   957919528  8  8 cc  cf    -     -         4071  100    0 
+CityPam   957919577  8  7 f   -     -     -         3971    0    0 
+CityPam   957919592  8  6 f   -     -     -         3971    0    0 
+CityPam   957919598  8  5 f   -     -     -         3971    0    0 
+CityPam   957919616  8  4 f   -     -     -         3971    0    0 
+CityPam   957919643  8  3 cf  -     -     -         3971   20    0 
+CityPam   957919666  8  2 Bc  k     k     k         3951   60    0 5h 6h
+CityPam   957919691  8  1 Bf  -     -     -         3891   10    0 
+CityPam   957919714  8  8 fQ  -     -     -         3881    0    0 
+CityPam   957920812 10 10 c   f     -     -         3881   20    0 
+CityPam   957920868 10  9 c   c     cc    c         3861  160    0 6h 5c
+CityPam   957920905 10  8 f   -     -     -         3701    0    0 
+CityPam   957920921 10  7 c   b     b     k         3701   80    0 5h 4s
+CityPam   957920963 10  6 f   -     -     -         3621    0    0 
+CityPam   957920991 10  5 f   -     -     -         3621    0    0 
+CityPam   957921000 10  4 f   -     -     -         3621    0    0 
+CityPam   957921060 10  3 f   -     -     -         3621    0    0 
+CityPam   957921113 10  2 B   -     -     -         3621   20   30 
+CityPam   957921126 10  1 Bc  bc    kc    kc        3631  140  540 3c 2c
+CityPam   957921209 10 10 c   f     -     -         4031   20    0 
+CityPam   957921268  8  7 f   -     -     -         4011    0    0 
+CityPam   957921293  8  6 cc  c     c     c         4011  140    0 9h Qd
+CityPam   957921330  7  4 f   -     -     -         3871    0    0 
+CityPam   957921345  7  3 f   -     -     -         3871    0    0 
+CityPam   957921375  7  2 Bc  kc    kf    -         3871   60    0 
+CityPam   957921412  8  1 Bc  kf    -     -         3811   40    0 
+CityPam   957921436  8  8 c   c     b     b         3771  120  260 
+CityPam   957921470  8  7 f   -     -     -         3911    0    0 
+CityPam   957921510  9  7 f   -     -     -         3911    0    0 
+CityPam   957921547  9  6 c   b     b     b         3911  120  320 Qc Kd
+CityPam   957921605 10  6 c   k     k     k         4111   20   80 Kc 9c
+CityPam   957921663 10  5 f   -     -     -         4171    0    0 
+CityPam   957921701 10  4 f   -     -     -         4171    0    0 
+CityPam   957921717 10  3 f   -     -     -         4171    0    0 
+CityPam   957921760 10  2 Bk  k     k     k         4171   20    0 Jc 8c
+CityPam   957921809 10  1 Bf  -     -     -         4151   10    0 
+CityPam   957921851 10 10 f   -     -     -         4141    0    0 
+CityPam   957921895 10  9 f   -     -     -         4141    0    0 
+CityPam   957921954 10  8 f   -     -     -         4141    0    0 
+CityPam   957921987 10  7 f   -     -     -         4141    0    0 
+CityPam   957922038 10  6 f   -     -     -         4141    0    0 
+CityPam   957922112 10  5 f   -     -     -         4141    0    0 
+CityPam   957922149  9  4 c   kc    k     k         4141   40    0 Qh 9h
+CityPam   957922185  9  3 f   -     -     -         4101    0    0 
+CityPam   957922214  9  2 Bk  k     c     b         4101  100  260 Qh 5h
+CityPam   957922256  9  1 Bf  -     -     -         4261   10    0 
+CityPam   957922294  9  9 c   k     k     k         4251   20   70 Kd Jd
+CityPam   957922383  9  8 f   -     -     -         4301    0    0 
+CityPam   957922405  9  7 f   -     -     -         4301    0    0 
+CityPam   957922458  9  7 f   -     -     -         4301    0    0 
+CityPam   957922494  8  5 c   c     c     k         4301   80    0 Jd 8h
+CityPam   957922542  8  4 c   c     c     f         4221   80    0 
+CityPam   957922590  9  3 f   -     -     -         4141    0    0 
+CityPam   957922606 10  2 Bk  k     k     kf        4141   20    0 
+CityPam   957922658 10  1 Bc  kc    kc    bc        4121  180    0 7h Kh
+CityPam   957922756 10 10 c   k     f     -         3941   20    0 
+CityPam   957922808 10  9 c   k     b     k         3921   60  200 Td Kc
+CityPam   957922882  9  7 c   b     b     -         4061   80  150 
+CityPam   957922916  9  6 f   -     -     -         4131    0    0 
+CityPam   957922999 10  5 f   -     -     -         4131    0    0 
+CityPam   957923059 10  4 f   -     -     -         4131    0    0 
+CityPam   957923100 10  3 f   -     -     -         4131    0    0 
+CityPam   957923137 10  2 Bk  k     k     bf        4131   60    0 
+CityPam   957923187 10  1 Bf  -     -     -         4071   10    0 
+CityPam   957923256 10 10 c   c     f     -         4061   40    0 
+CityPam   957923297 10  9 c   b     b     b         4021  120  280 Kd 7d
+CityPam   957923337 10  8 f   -     -     -         4181    0    0 
+CityPam   957923371 10  7 f   -     -     -         4181    0    0 
+CityPam   957923440 10  6 cc  kc    kf    -         4181   60    0 
+CityPam   957923574 10  5 f   -     -     -         4121    0    0 
+CityPam   957923623 10  4 f   -     -     -         4121    0    0 
+CityPam   957923664 10  3 f   -     -     -         4121    0    0 
+CityPam   957923685 10  2 Bc  kc    kc    kf        4121  100    0 
+CityPam   957923719 10  1 Bc  k     k     k         4021   20    0 Ks 5s
+CityPam   957923773 10 10 f   -     -     -         4001    0    0 
+CityPam   957923806 10  9 f   -     -     -         4001    0    0 
+CityPam   957923834 10  8 f   -     -     -         4001    0    0 
+CityPam   957923884 10  7 r   r     cc    f         4001  180    0 
+CityPam   957924078 10  6 f   -     -     -         3821    0    0 
+CityPam   957924133 10  5 f   -     -     -         3821    0    0 
+CityPam   957924199 10  4 f   -     -     -         3821    0    0 
+CityPam   957924251 10  3 c   b     -     -         3821   40   90 
+CityPam   957924281 10  2 Bc  kf    -     -         3871   40    0 
+CityPam   957924315 10  1 Bc  kc    kf    -         3831   40    0 
+CityPam   957924357 10 10 cc  k     c     k         3791   80    0 3d 3h
+CityPam   957924404 10  9 c   cf    -     -         3711   40    0 
+CityPam   957924437 10  8 c   k     c     f         3671   60    0 
+CityPam   957924577  9  6 fQ  -     -     -         3611    0    0 
+CityPam   958088415 10  7 f   -     -     -         4159    0    0 
+CityPam   958088430 10  6 f   -     -     -         4159    0    0 
+CityPam   958088460 10  5 c   k     k     k         4159   20    0 9c Kc
+CityPam   958088520 10  4 f   -     -     -         4139    0    0 
+CityPam   958088598 10  3 f   -     -     -         4139    0    0 
+CityPam   958088671 10  2 Bk  kf    -     -         4139   20    0 
+CityPam   958088718 10  1 Bc  kf    -     -         4119   20    0 
+CityPam   958088828 10 10 f   -     -     -         4099    0    0 
+CityPam   958088926 10  9 c   c     b     -         4099   80  180 
+CityPam   958088976 10  8 f   -     -     -         4199    0    0 
+CityPam   958089018 10  7 c   cf    -     -         4199   40    0 
+CityPam   958089089 10  6 c   f     -     -         4159   20    0 
+CityPam   958089139 10  5 f   -     -     -         4139    0    0 
+CityPam   958089180 10  4 c   kc    kc    kf        4139   80    0 
+CityPam   958089257 10  3 f   -     -     -         4059    0    0 
+CityPam   958089307 10  2 Bf  -     -     -         4059   20    0 
+CityPam   958089349 10  1 Bf  -     -     -         4039   10    0 
+CityPam   958089411 10 10 c   f     -     -         4029   40    0 
+CityPam   958089439 10  9 f   -     -     -         3989    0    0 
+CityPam   958089494 10  8 f   -     -     -         3989    0    0 
+CityPam   958089522 10  7 c   c     k     c         3989  100  330 Qh 8c
+CityPam   958089591 10  6 f   -     -     -         4219    0    0 
+CityPam   958089628 10  5 c   k     f     -         4219   20    0 
+CityPam   958089673 10  4 c   kf    -     -         4199   20    0 
+CityPam   958089739 10  3 f   -     -     -         4179    0    0 
+CityPam   958089784  9  2 Bk  bf    -     -         4179   40    0 
+CityPam   958089820  9  1 Bc  b     b     -         4139   80  160 
+CityPam   958089869  8  8 c   c     c     k         4219   80    0 9c Kd
+CityPam   958089935  9  7 f   -     -     -         4139    0    0 
+CityPam   958089951  9  6 c   c     r     k         4139  120  470 Th As
+CityPam   958090039  9  5 cf  -     -     -         4489   20    0 
+CityPam   958090103  9  4 f   -     -     -         4469    0    0 
+CityPam   958090134  8  3 f   -     -     -         4469    0    0 
+CityPam   958090167  8  2 Bf  -     -     -         4469   20    0 
+CityPam   958090205  8  1 Bf  -     -     -         4449   10    0 
+CityPam   958090241  8  8 f   -     -     -         4439    0    0 
+CityPam   958090295  7  6 f   -     -     -         4439    0    0 
+CityPam   958090313  6  4 fQ  -     -     -         4439    0    0 
+CityPam   958174109 10  7 cc  k     k     k         4439   40    0 Jh 8c
+CityPam   958174145 10  6 cc  k     k     b         4399   80  170 
+CityPam   958174200 10  5 f   -     -     -         4489    0    0 
+CityPam   958174241 10  4 f   -     -     -         4489    0    0 
+CityPam   958174276  9  2 Bc  bc    kc    b         4489  180  450 3h 5h
+CityPam   958174341  9  1 Bf  -     -     -         4759   10    0 
+CityPam   958174412  9  9 cc  c     k     k         4749   60    0 Qd 4d
+CityPam   958174514  8  7 f   -     -     -         4689    0    0 
+CityPam   958174527  8  6 cf  -     -     -         4689   20    0 
+CityPam   958174592  8  5 ccc kf    Q     -         4669   80    0 
+CityPam   958174708 10  5 f   -     -     -         4589    0    0 
+CityPam   958174734 10  4 f   -     -     -         4589    0    0 
+CityPam   958174749 10  3 c   k     k     k         4589   20    0 8h Js
+CityPam   958174785 10  2 Bf  -     -     -         4569   20    0 
+CityPam   958174835 10  1 Bc  kc    kf    -         4549   40    0 
+CityPam   958174871 10 10 f   -     -     -         4509    0    0 
+CityPam   958174923 10  9 f   -     -     -         4509    0    0 
+CityPam   958174986  9  7 cc  b     b     -         4509  100  210 
+CityPam   958175019  9  6 f   -     -     -         4619    0    0 
+CityPam   958175032  8  5 f   -     -     -         4619    0    0 
+CityPam   958175069  8  4 f   -     -     -         4619    0    0 
+CityPam   958175088  8  3 c   c     c     c         4619  120    0 Qc 8c
+CityPam   958175123  8  2 Bc  c     f     -         4499   60    0 
+CityPam   958175173  8  1 Bf  -     -     -         4439   10    0 
+CityPam   958175203  9  9 c   bc    c     f         4429  100    0 
+CityPam   958175266 10  8 c   b     -     -         4329   40  130 
+CityPam   958175296 10  7 c   c     c     c         4419  120    0 6s 6h
+CityPam   958175353 10  6 cc  kf    -     -         4299   40    0 
+CityPam   958175447 10  5 f   -     -     -         4259    0    0 
+CityPam   958175493 10  4 f   -     -     -         4259    0    0 
+CityPam   958175533 10  3 c   kf    -     -         4259   20    0 
+CityPam   958175599  9  2 Bc  kc    kc    b         4239  140  290 Js Qd
+CityPam   958175635  9  1 Bf  -     -     -         4389   10    0 
+CityPam   958175667  9  9 f   -     -     -         4379    0    0 
+CityPam   958175693  9  8 c   c     c     f         4379  100    0 
+CityPam   958175723  9  7 c   f     -     -         4279   20    0 
+CityPam   958175795  9  6 f   -     -     -         4259    0    0 
+CityPam   958175825  9  5 f   -     -     -         4259    0    0 
+CityPam   958175861  9  4 f   -     -     -         4259    0    0 
+CityPam   958175906  8  2 Bk  kc    kf    -         4259   40    0 
+CityPam   958175945  8  1 Bf  -     -     -         4219   10    0 
+CityPam   958175961  8  8 f   -     -     -         4209    0    0 
+CityPam   958176000  9  8 f   -     -     -         4209    0    0 
+CityPam   958176047  9  7 f   -     -     -         4209    0    0 
+CityPam   958176097  8  6 f   -     -     -         4209    0    0 
+CityPam   958176159  8  5 f   -     -     -         4209    0    0 
+CityPam   958176197  9  4 f   -     -     -         4209    0    0 
+CityPam   958176269  9  3 f   -     -     -         4209    0    0 
+CityPam   958176303  9  2 Bk  k     k     k         4209   20    0 8c 5s
+CityPam   958176326  9  1 Bc  kc    kc    k         4189  100  220 6d 6s
+CityPam   958176364  9  9 f   -     -     -         4309    0    0 
+CityPam   958176409  8  7 f   -     -     -         4309    0    0 
+CityPam   958176438  8  6 c   f     -     -         4309   40    0 
+CityPam   958176474  8  5 f   -     -     -         4269    0    0 
+CityPam   958176521  8  4 cc  kc    kf    -         4269   60    0 
+CityPam   958176584  8  3 c   kf    -     -         4209   20    0 
+CityPam   958176656  8  2 Bf  -     -     -         4189   20    0 
+CityPam   958176695  8  1 Bc  kc    k     bc        4169  160    0 As Td
+CityPam   958176760  8  8 c   k     k     f         4009   20    0 
+CityPam   958176815  8  7 f   -     -     -         3989    0    0 
+CityPam   958176901  8  6 f   -     -     -         3989    0    0 
+CityPam   958176941  6  5 c   b     -     -         3989   40   90 
+CityPam   958176971  6  4 c   f     -     -         4039   20    0 
+CityPam   958176989  6  3 f   -     -     -         4019    0    0 
+CityPam   958177036  6  2 Bf  -     -     -         4019   20    0 
+CityPam   958177078  7  1 Bf  -     -     -         3999   10    0 
+CityPam   958177106  7  7 f   -     -     -         3989    0    0 
+CityPam   958177143  7  6 f   -     -     -         3989    0    0 
+CityPam   958177162  6  4 f   -     -     -         3989    0    0 
+CityPam   958177191  7  3 f   -     -     -         3989    0    0 
+CityPam   958177231  7  2 Bk  kf    -     -         3989   20    0 
+CityPam   958177245  7  1 Bc  kc    k     kc        3969  100    0 Qc Js
+CityPam   958177313  6  6 c   f     -     -         3869   20    0 
+CityPam   958177348  6  5 c   c     f     -         3849   40    0 
+CityPam   958177391  6  4 f   -     Q     -         3809    0    0 
+CityPam   958179414 10  9 f   -     -     -         3809    0    0 
+CityPam   958179492 10  8 c   c     k     k         3809   40    0 Kd Tc
+CityPam   958179526 10  7 c   k     b     b         3769  100  280 
+CityPam   958179603 10  6 c   k     f     -         3949   20    0 
+CityPam   958179650 10  5 c   c     c     c         3929  120    0 7c 8d
+CityPam   958179704 10  4 cf  -     -     -         3809   20    0 
+CityPam   958179772  9  3 f   -     -     -         3789    0    0 
+CityPam   958179817 10  2 Bf  -     -     -         3789   20    0 
+CityPam   958179848 10  1 Bc  k     k     k         3769   20   40 Qh Kc
+CityPam   958179873 10 10 f   -     -     -         3789    0    0 
+CityPam   958179915 10  9 c   b     b     bc        3789  160  500 4h Ah
+CityPam   958180013 10  8 c   c     c     f         4129   80    0 
+CityPam   958180064 10  7 f   -     -     -         4049    0    0 
+CityPam   958180101 10  6 c   k     k     f         4049   20    0 
+CityPam   958180168 10  5 f   -     -     -         4029    0    0 
+CityPam   958180270 10  4 f   -     -     -         4029    0    0 
+CityPam   958180338 10  3 c   k     k     k         4029   20   25 Jd 8h
+CityPam   958180374 10  2 Bk  b     b     kc        4034  120    0 6h 4c
+CityPam   958180422 10  1 Bc  kf    -     -         3914   20    0 
+CityPam   958180496 10 10 c   c     c     c         3894  120  270 Qd 8d
+CityPam   958180530 10  9 c   c     f     -         4044   40    0 
+CityPam   958180586 10  8 f   -     -     -         4004    0    0 
+CityPam   958180637 10  7 c   c     k     bc        4004  120    0 8s Qd
+CityPam   958180754 10  6 c   c     c     c         3884  120    0 2s Ks
+CityPam   958180797 10  5 f   -     -     -         3764    0    0 
+CityPam   958180887 10  5 f   -     -     -         3764    0    0 
+CityPam   958180917 10  3 cc  bf    -     -         3764   60    0 
+CityPam   958180956 10  2 Bk  kf    -     -         3704   20    0 
+CityPam   958181032 10  1 Bf  -     -     -         3684   10    0 
+CityPam   958181128 10 10 f   -     -     -         3674    0    0 
+CityPam   958181173 10  9 f   -     -     -         3674    0    0 
+CityPam   958181219 10  8 f   -     -     -         3674    0    0 
+CityPam   958181306 10  7 f   -     -     -         3674    0    0 
+CityPam   958181357  9  5 cc  f     -     -         3674   40    0 
+CityPam   958181420  9  4 cc  f     -     -         3634   40    0 
+CityPam   958181460  9  3 f   -     -     -         3594    0    0 
+CityPam   958181501  9  2 Bf  -     -     -         3594   20    0 
+CityPam   958181571  9  1 Bf  -     -     -         3574   10    0 
+CityPam   958181625 10 10 f   -     -     -         3564    0    0 
+CityPam   958181688  8  7 f   -     -     -         3564    0    0 
+CityPam   958181720  7  5 c   c     c     f         3564  100    0 
+CityPam   958181775  7  4 cc  kc    kf    -         3464   60    0 
+CityPam   958181825  7  3 c   b     -     -         3404   40   70 
+CityPam   958181839  8  2 Br  k     bc    kc        3434  160  330 Tc Ac
+CityPam   958181873  7  1 Bc  k     k     k         3604   20    0 Qh 8d
+CityPam   958181917  7  7 f   Q     -     -         3584    0    0 
+CityPam   958182938  7  1 Bk  k     kf    -         3584   20    0 
+CityPam   958182978  7  1 Bf  -     -     -         3564   10    0 
+CityPam   958182995  7  7 c   c     c     c         3554  120    0 Qh Js
+CityPam   958183058  7  6 f   -     -     -         3434    0    0 
+CityPam   958183138  7  6 f   -     -     -         3434    0    0 
+CityPam   958183167  7  5 c   k     k     k         3434   20   80 8c Tc
+CityPam   958183251  9  5 c   kc    kc    kf        3494   80    0 
+CityPam   958183310 10  5 f   -     -     -         3414    0    0 
+CityPam   958183388 10  4 f   -     -     -         3414    0    0 
+CityPam   958183521 10  3 c   f     -     -         3414   20    0 
+CityPam   958183588 10  2 Bc  bc    kc    k         3394  120  290 Ah Jh
+CityPam   958183654 10  1 Bc  k     b     k         3564   60    0 Th 6s
+CityPam   958183698 10 10 f   -     -     -         3504    0    0 
+CityPam   958183748 10  9 r   k     k     k         3504   60    0 Ac Qc
+CityPam   958183791 10  8 c   f     -     -         3444   20    0 
+CityPam   958183830 10  7 cc  kc    b     -         3424  100  220 
+CityPam   958183865 10  6 f   -     -     -         3544    0    0 
+CityPam   958183903 10  5 f   -     -     -         3544    0    0 
+CityPam   958183967 10  4 cc  f     -     -         3544   40    0 
+CityPam   958184018 10  3 cc  kc    k     b         3504  100  230 Ac 3s
+CityPam   958184056 10  2 Bc  kc    bc    bc        3634  220  490 Ks Qd
+CityPam   958184102 10  1 Bf  -     -     -         3904   10    0 
+CityPam   958184147 10 10 c   k     f     -         3894   20    0 
+CityPam   958184220 10  9 f   -     -     -         3874    0    0 
+CityPam   958184268 10  8 f   -     -     -         3874    0    0 
+CityPam   958184309 10  7 f   -     -     -         3874    0    0 
+CityPam   958184345 10  6 c   b     k     b         3874   80  260 Td Qs
+CityPam   958184405 10  5 f   -     -     -         4054    0    0 
+CityPam   958184482 10  4 f   -     -     -         4054    0    0 
+CityPam   958184498 10  3 f   -     -     -         4054    0    0 
+CityPam   958184562 10  2 Bk  kf    -     -         4054   20    0 
+CityPam   958184620 10  1 Bf  -     -     -         4034   10    0 
+CityPam   958184675 10 10 f   -     -     -         4024    0    0 
+CityPam   958184714 10  9 c   c     f     -         4024   40    0 
+CityPam   958184787 10  8 f   -     -     -         3984    0    0 
+CityPam   958184840 10  7 cc  k     kc    k         3984   80    0 5s Ks
+CityPam   958184913 10  6 f   -     -     -         3904    0    0 
+CityPam   958184981 10  5 f   -     -     -         3904    0    0 
+CityPam   958185032 10  4 c   c     b     b         3904  120    0 Qd Qc
+CityPam   958185084 10  3 cc  kf    -     -         3784   40    0 
+CityPam   958185145 10  2 Bf  -     -     -         3744   20    0 
+CityPam   958185185 10  1 Bc  k     kc    k         3724   60    0 Ah 7c
+CityPam   958185238 10 10 f   -     -     -         3664    0    0 
+CityPam   958185291 10  9 f   -     -     -         3664    0    0 
+CityPam   958185354 10  8 f   -     -     -         3664    0    0 
+CityPam   958185391 10  7 f   -     -     -         3664    0    0 
+CityPam   958185428 10  6 c   kc    kc    k         3664   80  230 Ah Kd
+CityPam   958185485 10  5 f   -     -     -         3814    0    0 
+CityPam   958185517 10  4 c   k     k     kf        3814   20    0 
+CityPam   958185572 10  3 f   -     -     -         3794    0    0 
+CityPam   958185601 10  2 Bc  kf    -     -         3794   40    0 
+CityPam   958185634 10  1 Bf  -     -     -         3754   10    0 
+CityPam   958185699 10 10 f   -     -     -         3744    0    0 
+CityPam   958185761 10  9 f   -     -     -         3744    0    0 
+CityPam   958185776 10  8 f   -     -     -         3744    0    0 
+CityPam   958185839 10  7 f   -     -     -         3744    0    0 
+CityPam   958185873 10  6 f   -     -     -         3744    0    0 
+CityPam   958185915 10  6 c   f     -     -         3744   40    0 
+CityPam   958185962 10  4 f   -     -     -         3704    0    0 
+CityPam   958185996 10  3 c   k     b     kc        3704  100    0 Ts Ks
+CityPam   958186087 10  2 Bf  -     -     -         3604   20    0 
+CityPam   958186105 10  1 Bc  kf    -     -         3584   20    0 
+CityPam   958186146 10 10 c   c     k     k         3564   60  250 6c 6h
+CityPam   958186199 10  9 f   -     -     -         3754    0    0 
+CityPam   958186267 10  8 f   -     -     -         3754    0    0 
+CityPam   958186305 10  7 cc  kf    -     -         3754   40    0 
+CityPam   958186374 10  6 f   -     -     -         3714    0    0 
+CityPam   958186423 10  5 f   -     -     -         3714    0    0 
+CityPam   958186550 10  4 f   -     -     -         3714    0    0 
+CityPam   958186580 10  3 f   -     -     -         3714    0    0 
+CityPam   958186639 10  2 Bc  kc    kf    -         3714   60    0 
+CityPam   958186686 10  1 Bf  -     -     -         3654   10    0 
+CityPam   958186746 10 10 f   -     -     -         3644    0    0 
+CityPam   958186800 10  9 f   -     -     -         3644    0    0 
+CityPam   958186860 10  8 c   b     -     -         3644   40   70 
+CityPam   958186879 10  7 c   k     f     -         3674   20    0 
+CityPam   958186959 10  6 c   k     kf    -         3654   20    0 
+CityPam   958187052 10  5 f   -     -     -         3634    0    0 
+CityPam   958187124 10  4 f   -     -     -         3634    0    0 
+CityPam   958187238 10  3 f   -     -     -         3634    0    0 
+CityPam   958187269 10  2 Bk  kc    kc    k         3634  100    0 9h Js
+CityPam   958187350 10  1 Bc  b     b     b         3534  120  300 6h Ac
+CityPam   958187381 10 10 c   c     c     f         3714   80    0 
+CityPam   958187454 10  9 c   c     c     f         3634  100    0 
+CityPam   958187492 10  8 f   -     -     -         3534    0    0 
+CityPam   958187544 10  7 c   b     -     -         3534   40   70 
+CityPam   958187579 10  6 f   -     -     -         3564    0    0 
+CityPam   958187599 10  5 cc  k     kf    -         3564   40    0 
+CityPam   958187656 10  4 cc  k     k     kf        3524   40    0 
+CityPam   958187695 10  3 f   -     -     -         3484    0    0 
+CityPam   958187721 10  2 Br  b     b     bc        3484  180  420 Ts Js
+CityPam   958187752 10  1 Bc  b     k     k         3724   40  220 Jc Tc
+CityPam   958187793 10 10 f   -     -     -         3904    0    0 
+CityPam   958187874 10  9 cc  r     b     b         3904  160  360 
+CityPam   958187907 10  8 c   r     k     c         4104  120    0 9h Kh
+CityPam   958187949 10  7 c   b     b     bc        3984  160    0 9h Qh
+CityPam   958187990 10  6 f   -     -     -         3824    0    0 
+CityPam   958188048 10  5 c   bcc   kc    kc        3824  180    0 Kd 9h
+CityPam   958188098 10  4 f   -     -     -         3644    0    0 
+CityPam   958188164 10  3 c   kc    b     k         3644   80  240 8s Ks
+CityPam   958188223 10  2 Bk  kf    -     -         3804   20    0 
+CityPam   958188271 10  1 Bc  kf    -     -         3784   40    0 
+CityPam   958188317 10 10 f   -     -     -         3744    0    0 
+CityPam   958188339 10  9 c   b     b     -         3744   80  220 
+CityPam   958188374 10  8 f   -     -     -         3884    0    0 
+CityPam   958188417 10  7 f   -     -     -         3884    0    0 
+CityPam   958188473 10  6 f   -     -     -         3884    0    0 
+CityPam   958188538 10  5 cc  k     c     c         3884  120  350 7d 7c
+CityPam   958188593 10  4 f   -     -     -         4114    0    0 
+CityPam   958188641 10  3 f   -     -     -         4114    0    0 
+CityPam   958188687 10  2 Bk  b     kc    kc        4114  120    0 4s Qh
+CityPam   958188746 10  1 Bc  k     kf    -         3994   20    0 
+CityPam   958188778 10 10 f   -     -     -         3974    0    0 
+CityPam   958188821 10  9 f   -     -     -         3974    0    0 
+CityPam   958188878 10  8 c   k     b     -         3974   60  110 
+CityPam   958188897 10  7 f   -     -     -         4024    0    0 
+CityPam   958188951 10  6 f   -     -     -         4024    0    0 
+CityPam   958188968 10  5 f   -     -     -         4024    0    0 
+CityPam   958189017 10  4 f   -     -     -         4024    0    0 
+CityPam   958189043 10  3 fQ  -     -     -         4024    0    0 
+CityPam   958218396  2  1 Bc  k     k     k         4024   20    0 3h 6h
+CityPam   958218411  2  2 B   -     -     -         4004   20   30 
+CityPam   958218414  2  1 Bc  kc    kf    -         4014   40    0 
+CityPam   958218436  2  2 Bk  b     -     -         3974   40   60 
+CityPam   958218473  2  1 Bc  k     k     k         3994   20    0 Kc Jc
+CityPam   958218499  2  2 Bk  f     -     -         3974   20    0 
+CityPam   958218518  2  1 Bc  k     b     -         3954   60   80 
+CityPam   958218535  2  2 Br  f     -     -         3974   40    0 
+CityPam   958218556  2  1 Bc  k     k     k         3934   20   40 8d Kd
+CityPam   958218569  3  3 c   k     b     k         3954   60  140 9h 8d
+CityPam   958218595  3  2 B   -     -     -         4034   20   30 
+CityPam   958218604  3  1 Bf  -     -     -         4044   10    0 
+CityPam   958218610  3  3 c   b     -     -         4034   40   70 
+CityPam   958218627  3  2 Bk  c     c     k         4064   80    0 3d 9h
+CityPam   958218649  3  1 Bc  k     k     k         3984   20    0 7c 5c
+CityPam   958218681  3  3 f   -     -     -         3964    0    0 
+CityPam   958218697  3  2 Bk  c     k     b         3964   80  120 
+CityPam   958218733  3  1 Bc  kf    -     -         4004   20    0 
+CityPam   958218746  3  3 f   -     -     -         3984    0    0 
+CityPam   958218749  3  2 Bk  b     -     -         3984   40   60 
+CityPam   958218761  3  1 Bf  -     -     -         4004   10    0 
+CityPam   958218776  3  3 f   -     -     -         3994    0    0 
+CityPam   958218783  3  2 Bk  k     k     kf        3994   20    0 
+CityPam   958218857  3  1 Bc  k     k     b         3974   60  120 8h Tc
+CityPam   958218876  3  3 f   -     -     -         4034    0    0 
+CityPam   958218903  3  2 Bk  k     k     f         4034   20    0 
+CityPam   958218918  3  1 Bc  kc    kf    -         4014   40    0 
+CityPam   958218936  3  3 c   k     k     k         3974   20   50 7c Tc
+CityPam   958218952  3  2 Bk  k     f     -         4004   20    0 
+CityPam   958218968  3  1 Bc  b     -     -         3984   40   60 
+CityPam   958218977  3  3 r   k     k     k         4004   40    0 Ac Qh
+CityPam   958219000  3  2 Bc  k     f     -         3964   40    0 
+CityPam   958219059  3  1 Bc  b     -     -         3924   40   80 
+CityPam   958219081  3  3 c   k     k     k         3964   20    0 7c 9s
+CityPam   958219096  3  2 Bk  c     r     b         3944  160  280 
+CityPam   958219122  3  1 Bc  k     k     b         4064   60   80 
+CityPam   958219148  3  3 c   c     c     k         4084   80    0 Jh Jd
+CityPam   958219201  3  2 Bk  b     -     -         4004   40   80 
+CityPam   958219221  3  1 Bc  b     b     b         4044  120  220 
+CityPam   958219242  3  3 r   c     f     -         4144   60    0 
+CityPam   958219262  3  2 Bf  -     -     -         4084   20    0 
+CityPam   958219273  3  1 Bc  b     b     -         4064   80  120 
+CityPam   958219287  2  2 Bk  f     -     -         4104   20    0 
+CityPam   958219296  2  1 Bf  -     -     -         4084   10    0 
+CityPam   958219298  2  2 B   -     -     -         4074   20   30 
+CityPam   958219301  2  1 Bf  -     -     -         4084   10    0 
+CityPam   958219303  2  2 B   -     -     -         4074   20   30 
+CityPam   958219306  2  1 Bc  kc    kf    -         4084   40    0 
+CityPam   958219328  2  2 B   -     -     -         4044   20   30 
+CityPam   958219330  2  1 Bc  b     -     -         4054   40   60 
+CityPam   958219338  2  2 B   -     -     -         4074   20   30 
+CityPam   958219342  2  1 Bc  kc    k     k         4084   40    0 3c Ac
+CityPam   958219377  2  2 B   -     -     -         4044   20   30 
+CityPam   958219380  2  1 Bf  -     -     -         4054   10    0 
+CityPam   958219383  2  2 B   -     -     -         4044   20   30 
+CityPam   958219386  2  1 Bf  -     -     -         4054   10    0 
+CityPam   958219388  2  2 B   -     -     -         4044   20   30 
+CityPam   958219392  2  1 Bc  kc    k     b         4054   80  160 5d 7h
+CityPam   958219408  2  2 Bk  b     -     -         4134   40   60 
+CityPam   958219422  2  1 Bf  -     -     -         4154   10    0 
+CityPam   958219425  2  2 B   -     -     -         4144   20   30 
+CityPam   958219427  2  1 Bf  -     -     -         4154   10    0 
+CityPam   958219429  2  2 B   -     -     -         4144   20   30 
+CityPam   958219431  2  1 Bc  b     -     -         4154   40   60 
+CityPam   958219439  2  2 Bk  f     -     -         4174   20    0 
+CityPam   958219449  2  1 Bf  -     -     -         4154   10    0 
+CityPam   958219452  2  2 Bk  k     k     k         4144   20    0 9h 3d
+CityPam   958219471  2  1 Bc  b     b     k         4124   80  160 5s 4c
+CityPam   958219504  2  2 B   -     -     -         4204   20   30 
+CityPam   958219513  2  1 Bc  b     k     b         4214   80    0 3c Ks
+CityPam   958219539  2  2 B   -     -     -         4134   20   30 
+CityPam   958219542  2  1 Bf  -     -     -         4144   10    0 
+CityPam   958219547  2  2 Bf  -     -     -         4134   20    0 
+CityPam   958219558  2  1 Bc  kf    -     -         4114   20    0 
+CityPam   958219577  2  2 B   -     -     -         4094   20   30 
+CityPam   958219587  2  1 Bc  k     k     k         4104   20   40 Ac Kd
+CityPam   958219617  2  2 B   -     -     -         4124   20   30 
+CityPam   958219620  2  1 Bc  kf    -     -         4134   20    0 
+CityPam   958219639  2  2 B   -     -     -         4114   20   30 
+CityPam   958219654  2  1 Bc  kc    kc    kc        4124  120    0 8h 7d
+CityPam   958219684  2  2 B   -     -     -         4004   20   30 
+CityPam   958219692  2  1 Bc  k     k     b         4014   60   80 
+CityPam   958219720  2  2 Bk  k     k     k         4034   20    0 8d 6s
+CityPam   958219749  2  1 Bc  b     k     k         4014   40    0 7c 8s
+CityPam   958219785  2  2 B   -     -     -         3974   20   30 
+CityPam   958219787  2  1 Bc  b     -     -         3984   40   60 
+CityPam   958219797  2  2 Bk  b     -     -         4004   40   60 
+CityPam   958219808  2  1 Bf  -     -     -         4024   10    0 
+CityPam   958219812  2  2 Bk  c     c     b         4014  120  240 7c 8s
+CityPam   958219828  2  1 Bc  k     k     k         4134   20    0 8s Td
+CityPam   958219869  2  2 B   -     -     -         4114   20   30 
+CityPam   958219872  2  1 Bc  b     b     -         4124   80  120 
+CityPam   958219886  2  2 Bk  k     k     k         4164   20    0 Tc 6h
+CityPam   958219905  2  1 Bf  -     -     -         4144   10    0 
+CityPam   958219909  2  2 B   -     -     -         4134   20   30 
+CityPam   958219911  2  1 Bf  -     -     -         4144   10    0 
+CityPam   958219913  2  2 B   -     -     -         4134   20   30 
+CityPam   958219916  2  1 Bc  b     -     -         4144   40   60 
+CityPam   958219924  2  2 B   -     -     -         4164   20   30 
+CityPam   958219926  2  1 Bf  -     -     -         4174   10    0 
+CityPam   958219929  2  2 Bk  k     k     k         4164   20    0 8d Kd
+CityPam   958219940  2  1 Bc  b     -     -         4144   40   60 
+CityPam   958219958  2  2 B   -     -     -         4164   20   30 
+CityPam   958219962  2  1 Bc  kf    -     -         4174   20    0 
+CityPam   958219970  2  2 B   -     -     -         4154   20   30 
+CityPam   958219974  2  1 Bf  -     -     -         4164   10    0 
+CityPam   958219977  2  2 B   -     -     -         4154   20   30 
+CityPam   958219979  2  1 Bf  -     -     -         4164   10    0 
+CityPam   958219982  2  2 B   -     -     -         4154   20   30 
+CityPam   958219984  2  1 Bf  -     -     -         4164   10    0 
+CityPam   958219987  2  2 B   -     -     -         4154   20   30 
+CityPam   958219989  2  1 Bf  -     -     -         4164   10    0 
+CityPam   958219992  2  2 B   -     -     -         4154   20   30 
+CityPam   958219994  2  1 Bc  kc    kf    -         4164   40    0 
+CityPam   958220012  2  2 B   -     -     -         4124   20   30 
+CityPam   958220018  2  1 Bf  -     -     -         4134   10    0 
+CityPam   958220021  2  2 Bk  k     k     k         4124   20    0 2d 8h
+CityPam   958220049  2  1 Bf  -     -     -         4104   10    0 
+CityPam   958220055  2  2 Bk  f     -     -         4094   20    0 
+CityPam   958220075  2  1 Bf  -     -     -         4074   10    0 
+CityPam   958220077  2  2 Bk  c     c     r         4064  160    0 Js 9h
+CityPam   958220091  2  1 Bc  k     k     kc        3904   60  120 8c As
+CityPam   958220127  2  2 B   -     -     -         3964   20   30 
+CityPam   958220144  2  1 Bf  -     -     -         3974   10    0 
+CityPam   958220148  2  2 Bk  b     -     -         3964   40   60 
+CityPam   958220158  2  1 Bf  -     -     -         3984   10    0 
+CityPam   958220162  2  2 B   -     -     -         3974   20   30 
+CityPam   958220163  2  1 Bc  b     kc    kc        3984  120    0 Ah 3d
+CityPam   958220182  2  2 B   -     -     -         3864   20   30 
+CityPam   958220185  2  1 Bf  -     -     -         3874   10    0 
+CityPam   958220189  2  2 Bf  -     -     -         3864   20    0 
+CityPam   958220191  2  1 Bc  b     -     -         3844   40   60 
+CityPam   958220199  2  2 B   -     -     -         3864   20   30 
+CityPam   958220201  2  1 Bc  b     -     -         3874   40   60 
+CityPam   958220208  2  2 Bk  k     k     k         3894   20    0 Js 4d
+CityPam   958220220  2  1 Bf  -     -     -         3874   10    0 
+CityPam   958220225  2  2 Bk  k     f     -         3864   20    0 
+CityPam   958220237  2  1 Bc  k     k     k         3844   20   40 6c Jc
+CityPam   958220255  2  2 Bk  b     b     c         3864  120    0 Kc 4c
+CityPam   958220282  2  1 Bc  b     b     b         3744  120    0 Kh Kd
+CityPam   958220302  2  2 B   -     -     -         3624   20   30 
+CityPam   958220305  2  1 Bc  b     -     -         3634   40   60 
+CityPam   958220314  2  2 B   -     -     -         3654   20   30 
+CityPam   958220317  2  1 Bf  -     -     -         3664   10    0 
+CityPam   958220319  2  2 Bk  k     k     k         3654   20    0 Kh 4h
+CityPam   958220336  2  1 Bc  k     k     k         3634   20   40 Kd 6d
+CityPam   958220361  2  2 B   -     -     -         3654   20   30 
+CityPam   958220364  2  1 Bc  b     b     k         3664   80   80 As 4s
+CityPam   958220390  2  2 B   -     -     -         3664   20   30 
+CityPam   958220393  2  1 Bf  -     -     -         3674   10    0 
+CityPam   958220396  2  2 B   -     -     -         3664   20   30 
+CityPam   958220398  2  1 Bf  -     -     -         3674   10    0 
+CityPam   958220401  2  2 Bk  b     -     -         3664   40   60 
+CityPam   958220419  2  1 Bcc kc    kc    kc        3684  140  280 8c As
+CityPam   958220447  2  2 B   -     -     -         3824   20   30 
+CityPam   958220467  2  1 Bc  b     -     -         3834   40   60 
+CityPam   958220487  2  2 Br  b     -     -         3854   60  100 
+CityPam   958220500  2  1 Bc  k     k     k         3894   20   20 8h Qh
+CityPam   958220518  2  2 B   -     -     -         3894   20   30 
+CityPam   958220523  2  1 Bc  b     -     -         3904   40   60 
+CityPam   958220537  2  2 B   -     -     -         3924   20   30 
+CityPam   958220539  2  1 BQ  -     -     -         3934   10    0 
+CityPam   958220820  3  3 c   k     f     -         3924   20    0 
+CityPam   958220906  4  2 Bk  kf    -     -         3904   20    0 
+CityPam   958220937  5  1 Bf  -     -     -         3884   10    0 
+CityPam   958220962  5  5 f   -     -     -         3874    0    0 
+CityPam   958220982  5  4 f   -     -     -         3874    0    0 
+CityPam   958221004  5  3 c   c     c     k         3874   80    0 6d 6h
+CityPam   958221034  5  2 Bk  k     k     b         3794   60   90 
+CityPam   958221051  5  1 Bc  b     b     br        3824  200  200 3c Qc
+CityPam   958221074  5  5 f   -     -     -         3824    0    0 
+CityPam   958221094  5  4 f   -     -     -         3824    0    0 
+CityPam   958221105  5  3 f   -     -     -         3824    0    0 
+CityPam   958221125  5  2 Bk  kf    -     -         3824   20    0 
+CityPam   958221150  5  1 Bc  b     kc    kc        3804  120    0 Qh 9c
+CityPam   958221180  4  4 c   c     k     f         3684   40    0 
+CityPam   958221218  4  3 c   f     -     -         3644   20    0 
+CityPam   958221230  4  2 Bk  c     c     r         3624  160  400 9h 8d
+CityPam   958221262  4  1 Bc  kc    kf    -         3864   40    0 
+CityPam   958221285  4  4 f   -     -     -         3824    0    0 
+CityPam   958221303  4  3 f   -     -     -         3824    0    0 
+CityPam   958221323  4  2 Bk  c     c     c         3824  120    0 Tc Qs
+CityPam   958221342  4  1 Bc  b     -     -         3704   40   60 
+CityPam   958221361  4  4 c   b     -     -         3724   40   80 
+CityPam   958221376  4  3 f   -     -     -         3764    0    0 
+CityPam   958221403  4  2 Bk  f     -     -         3764   20    0 
+CityPam   958221413  4  1 Bf  -     -     -         3744   10    0 
+CityPam   958221432  4  4 f   -     -     -         3734    0    0 
+CityPam   958221456  4  3 f   -     -     -         3734    0    0 
+CityPam   958221468  4  2 Bk  c     k     kf        3734   40    0 
+CityPam   958221493  4  1 Bc  b     -     -         3694   40   60 
+CityPam   958221504  4  4 f   -     -     -         3714    0    0 
+CityPam   958221508  4  3 c   b     -     -         3714   40  100 
+CityPam   958221524  4  2 Bf  -     -     -         3774   20    0 
+CityPam   958221528  4  1 Bf  -     -     -         3754   10    0 
+CityPam   958221532  4  4 f   -     -     -         3744    0    0 
+CityPam   958221543  4  3 c   k     k     k         3744   20   60 Jd Qd
+CityPam   958221558  4  2 Bk  b     b     kc        3784  120    0 Td Ks
+CityPam   958221593  5  1 Bf  -     -     -         3664   10    0 
+CityPam   958221603  5  5 cc  c     c     c         3654  140    0 Ts Td
+CityPam   958221633  5  4 f   -     -     -         3514    0    0 
+CityPam   958221660  5  3 c   k     k     b         3514   60  100 
+CityPam   958221683  5  2 Bk  kf    -     -         3554   20    0 
+CityPam   958221718  5  1 Bc  b     bc    k         3534  120    0 8d Kh
+CityPam   958221743  5  5 f   -     -     -         3414    0    0 
+CityPam   958221752  5  4 c   kc    b     kc        3414  120    0 9d Ad
+CityPam   958221791  5  3 f   -     -     -         3294    0    0 
+CityPam   958221824  6  2 Bc  kc    k     k         3294   60    0 8c Kh
+CityPam   958221848  6  1 Bf  -     -     -         3234   10    0 
+CityPam   958221857  5  5 f   Q     -     -         3224    0    0 
+CityPam   958222347  4  2 Bk  b     b     -         3224   80  120 
+CityPam   958222367  4  1 Bcc kc    kf    -         3264   60    0 
+CityPam   958222382  4  4 f   -     -     -         3204    0    0 
+CityPam   958222393  4  3 f   -     -     -         3204    0    0 
+CityPam   958222405  4  2 Bf  -     -     -         3204   20    0 
+CityPam   958222424  4  1 Bc  kf    -     -         3184   20    0 
+CityPam   958222446  4  4 cc  k     b     -         3164   80  140 
+CityPam   958222471  4  3 f   -     -     -         3224    0    0 
+CityPam   958222477  4  2 Bk  b     b     -         3224   80  160 
+CityPam   958222503  4  1 Bf  -     -     -         3304   10    0 
+CityPam   958222518  4  4 f   -     -     -         3294    0    0 
+CityPam   958222530  4  3 f   -     -     -         3294    0    0 
+CityPam   958222559  4  2 Bc  k     bc    kc        3294  160    0 5s 5d
+CityPam   958222587  4  1 Bf  -     -     -         3134   10    0 
+CityPam   958222610  5  5 f   -     -     -         3124    0    0 
+CityPam   958222625  5  4 c   k     k     k         3124   20    0 Td Qh
+CityPam   958222642  5  3 cc  bc    kc    kc        3104  160    0 Qd 4d
+CityPam   958222674  5  2 Bk  b     -     -         2944   40   60 
+CityPam   958222694  5  1 Bf  -     -     -         2964   10    0 
+CityPam   958222709  5  5 c   b     -     -         2954   40  100 
+CityPam   958222728  5  4 cc  kf    -     -         3014   40    0 
+CityPam   958222743  5  3 c   b     k     f         2974   40    0 
+CityPam   958222769  5  2 Bf  -     -     -         2934   20    0 
+CityPam   958222794  5  1 Bf  -     -     -         2914   10    0 
+CityPam   958222811  5  5 c   c     c     f         2904  100    0 
+CityPam   958222838  5  4 c   b     -     -         2804   40  100 
+CityPam   958222856  5  3 f   -     -     -         2864    0    0 
+CityPam   958222876  5  2 Bk  k     b     b         2864  100  180 
+CityPam   958222903  5  1 Bf  -     -     -         2944   10    0 
+CityPam   958222941  6  6 cc  b     -     -         2934   60  140 
+CityPam   958222962  6  5 f   -     -     -         3014    0    0 
+CityPam   958222989  6  4 f   -     -     -         3014    0    0 
+CityPam   958223014  6  3 f   -     -     -         3014    0    0 
+CityPam   958223038  6  2 Bk  kc    kf    -         3014   40    0 
+CityPam   958223072  6  1 Bc  k     k     b         2974   60  120 
+CityPam   958223110  6  6 f   -     -     -         3034    0    0 
+CityPam   958223127  6  5 f   -     -     -         3034    0    0 
+CityPam   958223155  6  4 c   kf    -     -         3034   20    0 
+CityPam   958223174  6  3 f   -     -     -         3014    0    0 
+CityPam   958223190  6  2 Bc  kc    kf    -         3014   60    0 
+CityPam   958223210  6  1 Bf  -     -     -         2954   10    0 
+CityPam   958223240  6  6 f   -     -     -         2944    0    0 
+CityPam   958223266  6  5 f   -     -     -         2944    0    0 
+CityPam   958223305  6  4 f   -     -     -         2944    0    0 
+CityPam   958223330  6  3 f   -     -     -         2944    0    0 
+CityPam   958223350  6  2 Bk  k     kf    -         2944   20    0 
+CityPam   958223375  6  1 Bcc k     k     k         2924   40  120 2c 3d
+CityPam   958223403  6  6 cc  c     c     b         3004  140  280 
+CityPam   958223433  5  4 f   -     -     -         3144    0    0 
+CityPam   958223449  5  3 c   b     b     b         3144  120  250 Js Th
+CityPam   958223472  4  2 Bk  b     -     -         3274   40   80 
+CityPam   958223493  5  1 Bf  -     -     -         3314   10    0 
+CityPam   958223502  5  5 f   -     -     -         3304    0    0 
+CityPam   958223510  5  4 f   -     -     -         3304    0    0 
+CityPam   958223542  5  3 c   kc    kc    k         3304   80    0 Ad 9d
+CityPam   958223570  5  2 Bf  -     -     -         3224   20    0 
+CityPam   958223597  5  1 Bf  -     -     -         3204   10    0 
+CityPam   958223608  5  5 c   c     b     c         3194  120    0 Kh Qs
+CityPam   958223641  5  4 f   -     -     -         3074    0    0 
+CityPam   958223647  5  3 f   -     -     -         3074    0    0 
+CityPam   958223672  5  2 Bc  kc    k     b         3074  100  170 
+CityPam   958223703  5  1 Bcc kc    kc    kf        3144  100    0 
+CityPam   958223736  5  5 f   -     -     -         3044    0    0 
+CityPam   958223746  5  4 c   kc    kc    kc        3044  120  290 Kd Ac
+CityPam   958223782  5  3 f   -     -     -         3214    0    0 
+CityPam   958223808  5  2 Bk  k     kc    b         3214  100  220 4s 6c
+CityPam   958223844  5  1 Bf  -     -     -         3334   10    0 
+CityPam   958223872  5  5 c   f     -     -         3324   20    0 
+CityPam   958223898  5  4 cc  k     bf    -         3304   80    0 
+CityPam   958223923  5  3 c   f     Q     -         3224   20    0 
+CityPam   958277917 10  3 f   -     -     -         2934    0    0 
+CityPam   958277952 10  2 Bk  kf    -     -         2894   20    0 
+CityPam   958277977 10  1 Bc  b     -     -         2874   40   80 
+CityPam   958278003 10 10 c   c     c     f         2914   80    0 
+CityPam   958278049 10  9 c   b     b     b         2834  120    0 7s 8c
+CityPam   958278094 10  8 f   -     -     -         2714    0    0 
+CityPam   958278121 10  7 f   -     -     -         2714    0    0 
+CityPam   958278164 10  6 f   -     -     -         2714    0    0 
+CityPam   958278197 10  5 c   kf    -     -         2714   20    0 
+CityPam   958278248 10  4 f   -     -     -         2694    0    0 
+CityPam   958278297 10  3 c   b     bc    kc        2694  160    0 Tc Kc
+CityPam   958278348 10  2 Bf  -     -     -         2534   20    0 
+CityPam   958278390 10  1 Bf  -     -     -         2514   10    0 
+CityPam   958278431 10 10 f   -     -     -         2504    0    0 
+CityPam   958278496 10  9 f   -     -     -         2504    0    0 
+CityPam   958278560 10  8 f   -     -     -         2504    0    0 
+CityPam   958278622 10  7 f   -     -     -         2504    0    0 
+CityPam   958278692 10  6 c   kf    -     -         2504   20    0 
+CityPam   958278728 10  5 f   -     -     -         2484    0    0 
+CityPam   958278785 10  4 c   kf    -     -         2484   20    0 
+CityPam   958278845 10  3 f   -     -     -         2464    0    0 
+CityPam   958278917 10  2 Bc  k     bc    k         2464  160    0 6c Ac
+CityPam   958278972 10  1 Bf  -     -     -         2304   10    0 
+CityPam   958279014 10 10 f   -     -     -         2294    0    0 
+CityPam   958279036 10  9 c   k     f     -         2294   20    0 
+CityPam   958279084 10  8 c   f     -     -         2274   20    0 
+CityPam   958279138 10  7 cc  kf    -     -         2254   40    0 
+CityPam   958279206 10  6 c   k     k     k         2214   20   80 Ad 7c
+CityPam   958279248 10  5 c   c     r     b         2274  160  410 8s 8h
+CityPam   958279290 10  4 f   -     -     -         2524    0    0 
+CityPam   958279318 10  3 f   -     -     -         2524    0    0 
+CityPam   958279365 10  2 Bk  b     -     -         2524   40   80 
+CityPam   958279393 10  1 Bf  -     -     -         2564   10    0 
+CityPam   958279454 10 10 f   -     -     -         2554    0    0 
+CityPam   958279489 10  9 cc  cc    c     r         2554  320 1100 2d Ad
+CityPam   958279576 10  8 cc  k     kc    kc        3334  120  310 8s 8h
+CityPam   958279643 10  7 f   -     -     -         3524    0    0 
+CityPam   958279688 10  6 cc  f     -     -         3524   40    0 
+CityPam   958279748 10  5 f   -     -     -         3484    0    0 
+CityPam   958279824 10  4 c   k     f     -         3484   20    0 
+CityPam   958279877 10  3 cc  k     c     c         3464  120    0 Js 7s
+CityPam   958279936 10  2 Bf  -     -     -         3344   20    0 
+CityPam   958280020 10  1 Bf  -     -     -         3324   10    0 
+CityPam   958280065 10 10 f   -     -     -         3314    0    0 
+CityPam   958280115 10  9 c   c     r     b         3314  160  520 
+CityPam   958280175 10  8 f   -     -     -         3674    0    0 
+CityPam   958280238 10  7 f   -     -     -         3674    0    0 
+CityPam   958280282 10  6 f   Q     -     -         3674    0    0 
+CityPam   958280975 10 10 c   k     b     r         3674  124    0 2d Jd
+CityPam   958281056 10  9 f   -     -     -         3550    0    0 
+CityPam   958281125 10  8 c   kc    kf    -         3550   40    0 
+CityPam   958281204  9  6 f   -     -     -         3510    0    0 
+CityPam   958281244 10  6 f   -     -     -         3510    0    0 
+CityPam   958281278 10  5 f   -     -     -         3510    0    0 
+CityPam   958281304 10  4 f   -     -     -         3510    0    0 
+CityPam   958281340 10  3 c   b     k     kc        3510   80  300 9h Jh
+CityPam   958281398 10  2 Bk  kf    -     -         3730   20    0 
+CityPam   958281432  9  1 Bf  -     -     -         3710   10    0 
+CityPam   958281462  9  9 f   -     -     -         3700    0    0 
+CityPam   958281500  9  8 c   b     -     -         3700   40  120 
+CityPam   958281531  9  7 f   -     -     -         3780    0    0 
+CityPam   958281582  9  6 f   -     -     -         3780    0    0 
+CityPam   958281612  9  5 f   -     -     -         3780    0    0 
+CityPam   958281640 10  4 cc  kc    kc    k         3780  100    0 8h 7c
+CityPam   958281691 10  3 f   -     -     -         3680    0    0 
+CityPam   958281740 10  2 Bk  k     kf    -         3680   20    0 
+CityPam   958281779 10  1 Bc  kf    -     -         3660   20    0 
+CityPam   958281821  9  9 c   k     f     -         3640   20    0 
+CityPam   958281873 10  9 c   f     -     -         3620   20    0 
+CityPam   958281920 10  8 f   -     -     -         3600    0    0 
+CityPam   958281938 10  7 f   -     -     -         3600    0    0 
+CityPam   958281963 10  6 f   -     -     -         3600    0    0 
+CityPam   958282019 10  5 cc  kc    kc    k         3600  100  270 3h 3d
+CityPam   958282065 10  4 f   -     -     -         3770    0    0 
+CityPam   958282129 10  3 f   -     -     -         3770    0    0 
+CityPam   958282192 10  2 Bf  -     -     -         3770   20    0 
+CityPam   958282221 10  1 Bc  kc    kc    kf        3750   80    0 
+CityPam   958282279 10 10 c   k     k     k         3670   20    0 Kd Ah
+CityPam   958282327 10  9 f   -     -     -         3650    0    0 
+CityPam   958282348 10  8 c   r     b     b         3650  140  350 Kd Ah
+CityPam   958282422 10  7 f   -     -     -         3860    0    0 
+CityPam   958282481 10  6 cf  -     -     -         3860   20    0 
+CityPam   958282519 10  6 f   -     -     -         3840    0    0 
+CityPam   958282573 10  4 f   -     -     -         3840    0    0 
+CityPam   958282654 10  3 f   -     -     -         3840    0    0 
+CityPam   958282688 10  2 Bf  -     -     -         3840   20    0 
+CityPam   958282734 10  1 Bc  kf    -     -         3820   40    0 
+CityPam   958282794  9  9 f   -     -     -         3780    0    0 
+CityPam   958282835  9  8 f   -     -     -         3780    0    0 
+CityPam   958282867 10  7 f   -     -     -         3780    0    0 
+CityPam   958282898 10  6 f   -     -     -         3780    0    0 
+CityPam   958282933 10  5 c   kf    -     -         3780   20    0 
+CityPam   958282964 10  4 f   -     -     -         3760    0    0 
+CityPam   958282980 10  3 r   b     kf    -         3760   60    0 
+CityPam   958283027 10  2 Bc  kc    k     bc        3700  140  440 9s Qs
+CityPam   958283092 10  1 Bf  -     -     -         4000   10    0 
+CityPam   958283182  9  9 r   b     b     k         3990  100  330 Jh Jd
+CityPam   958283232  9  8 c   r     b     b         4220  140  460 Td As
+CityPam   958283298 10  8 c   f     -     -         4540   40    0 
+CityPam   958283370 10  7 c   cc    k     f         4500   60    0 
+CityPam   958283440 10  6 f   -     -     -         4440    0    0 
+CityPam   958283471  9  5 c   k     k     f         4440   20    0 
+CityPam   958283517  9  4 f   -     -     -         4420    0    0 
+CityPam   958283544  9  3 f   -     -     -         4420    0    0 
+CityPam   958283610  9  2 Bk  f     -     -         4420   20    0 
+CityPam   958283647 10  1 Bf  -     -     -         4400   10    0 
+CityPam   958283764  9  9 f   -     -     -         4390    0    0 
+CityPam   958283815 10  9 c   k     k     k         4390   20    0 8h Qs
+CityPam   958283869 10  8 f   -     -     -         4370    0    0 
+CityPam   958283921 10  7 f   -     -     -         4370    0    0 
+CityPam   958283972 10  6 f   -     -     -         4370    0    0 
+CityPam   958284041 10  5 f   -     -     -         4370    0    0 
+CityPam   958284093 10  4 f   -     -     -         4370    0    0 
+CityPam   958284135 10  3 cc  kc    kc    kf        4370  100    0 
+CityPam   958284196 10  2 Bk  k     b     -         4270   60  100 
+CityPam   958284251 10  1 Bc  k     k     k         4310   20   60 Jc 3c
+CityPam   958284296 10 10 f   -     -     -         4350    0    0 
+CityPam   958284363 10  9 f   -     -     -         4350    0    0 
+CityPam   958284415 10  8 f   -     -     -         4350    0    0 
+CityPam   958284455 10  7 c   cf    -     -         4350   40    0 
+CityPam   958284509 10  6 f   -     -     -         4310    0    0 
+CityPam   958284554 10  5 f   -     -     -         4310    0    0 
+CityPam   958284615 10  4 c   c     k     k         4310   40    0 5c 5d
+CityPam   958284664 10  3 f   -     -     -         4270    0    0 
+CityPam   958284706 10  2 Bc  kc    kc    k         4270  100    0 Th Kd
+CityPam   958284775 10  1 Bc  kf    -     -         4170   40    0 
+CityPam   958284858 10 10 f   -     -     -         4130    0    0 
+CityPam   958284916  9  8 c   b     -     -         4130   40   70 
+CityPam   958284950  8  6 f   -     -     -         4160    0    0 
+CityPam   958284975  8  5 f   -     -     -         4160    0    0 
+CityPam   958285006  8  4 f   -     -     -         4160    0    0 
+CityPam   958285023  8  3 cc  kf    -     -         4160   40    0 
+CityPam   958285043  8  2 Bc  kf    -     -         4120   40    0 
+CityPam   958285096  8  1 Bf  -     -     -         4080   10    0 
+CityPam   958285138  8  8 f   -     -     -         4070    0    0 
+CityPam   958285229  7  7 c   c     c     f         4070   80    0 
+CityPam   958285288  8  7 f   -     -     -         3990    0    0 
+CityPam   958285319  8  6 c   k     k     k         3990   20   20 9s Jd
+CityPam   958285350  8  5 f   -     -     -         3990    0    0 
+CityPam   958285372  8  4 f   -     -     -         3990    0    0 
+CityPam   958285409  8  3 c   b     bc    kc        3990  160    0 Kh Qs
+CityPam   958285454  8  2 Bk  k     k     k         3830   20    0 9d 8h
+CityPam   958285482  8  1 Bf  -     -     -         3810   10    0 
+CityPam   958285490  8  8 f   -     -     -         3800    0    0 
+CityPam   958285547  8  7 f   -     -     -         3800    0    0 
+CityPam   958285577  8  6 f   -     -     -         3800    0    0 
+CityPam   958285618  8  5 fQ  -     -     -         3800    0    0 
+CityPam   958527462 10  2 Bk  f     -     -         4030   20    0 
+CityPam   958527537 10  1 Bf  -     -     -         4010   10    0 
+CityPam   958527631 10 10 f   -     -     -         4000    0    0 
+CityPam   958527673 10  9 f   -     -     -         4000    0    0 
+CityPam   958527719 10  8 f   -     -     -         4000    0    0 
+CityPam   958527762 10  7 c   k     c     f         4000   80    0 
+CityPam   958527796 10  6 f   -     -     -         3920    0    0 
+CityPam   958527849 10  5 f   -     -     -         3920    0    0 
+CityPam   958527891 10  4 f   -     -     -         3920    0    0 
+CityPam   958527955 10  3 c   c     f     -         3920   40    0 
+CityPam   958528002 10  2 Bk  kc    kc    kf        3880   80    0 
+CityPam   958528047 10  1 Bf  -     -     -         3800   10    0 
+CityPam   958528108 10 10 f   -     -     -         3790    0    0 
+CityPam   958528152 10  9 f   -     -     -         3790    0    0 
+CityPam   958528255 10  8 f   -     -     -         3790    0    0 
+CityPam   958528307 10  7 c   c     c     c         3790  140    0 6c 6s
+CityPam   958528328 10  6 c   c     f     -         3650   60    0 
+CityPam   958528384 10  5 f   -     -     -         3590    0    0 
+CityPam   958528429 10  4 f   -     -     -         3590    0    0 
+CityPam   958528482 10  3 cc  kc    kc    kf        3590  100    0 
+CityPam   958528550 10  2 Bf  -     -     -         3490   20    0 
+CityPam   958528596 10  1 Bf  -     -     -         3470   10    0 
+CityPam   958528692 10 10 c   b     b     bc        3460  160    0 9h Td
+CityPam   958528748 10  9 c   f     -     -         3300   40    0 
+CityPam   958528808 10  8 c   k     c     c         3260  100    0 Td Ah
+CityPam   958528846 10  7 c   k     c     c         3160  100    0 Td Ks
+CityPam   958528915 10  6 c   c     f     -         3060   40    0 
+CityPam   958528966 10  5 fQ  -     -     -         3020    0    0 
+CityPam   958693642 10  9 cc  kc    c     c         3020  140    0 Qd Qc
+CityPam   958693744 10  8 f   -     -     -         2880    0    0 
+CityPam   958693820 10  7 cc  c     c     f         2880  120    0 
+CityPam   958693871 10  6 f   -     -     -         2760    0    0 
+CityPam   958693920 10  5 f   -     -     -         2760    0    0 
+CityPam   958693977 10  4 ccc c     f     -         2760  100    0 
+CityPam   958694048 10  3 f   -     -     -         2660    0    0 
+CityPam   958694110 10  2 Bc  kc    kc    kf        2660  120    0 
+CityPam   958694209 10  1 Bc  bc    kc    kc        2540  140    0 6d Tc
+CityPam   958694280 10 10 f   -     -     -         2400    0    0 
+CityPam   958694323 10  9 f   -     -     -         2400    0    0 
+CityPam   958694365 10  8 f   -     -     -         2400    0    0 
+CityPam   958694421 10  7 c   c     cc    c         2400  160    0 Jd Qs
+CityPam   958694488 10  6 cc  c     c     b         2240  160  720 7d Ah
+CityPam   958694562 10  5 f   -     -     -         2800    0    0 
+CityPam   958694618 10  4 c   b     b     -         2800   80  230 
+CityPam   958694674 10  3 f   -     -     -         2950    0    0 
+CityPam   958694710 10  2 Bk  k     k     k         2950   20    0 Ac 4d
+CityPam   958694757 10  1 Bc  kf    -     -         2930   20    0 
+CityPam   958694796 10 10 f   -     -     -         2910    0    0 
+CityPam   958694828 10  9 c   k     k     k         2910   20    0 Jc Ks
+CityPam   958694872 10  8 cc  c     c     k         2890  100    0 4h Qh
+CityPam   958694928 10  7 f   -     -     -         2790    0    0 
+CityPam   958695015 10  6 f   -     -     -         2790    0    0 
+CityPam   958695100 10  5 cc  kf    -     -         2790   40    0 
+CityPam   958695141 10  4 cc  bc    kc    k         2750  120    0 6h 6d
+CityPam   958695196 10  3 f   -     -     -         2630    0    0 
+CityPam   958695239 10  2 Bf  -     -     -         2630   20    0 
+CityPam   958695281 10  1 Bc  b     kr    b         2610  160  480 Jh Jd
+CityPam   958695347 10 10 f   -     -     -         2930    0    0 
+CityPam   958695369 10  9 f   -     -     -         2930    0    0 
+CityPam   958695460 10  8 f   -     -     -         2930    0    0 
+CityPam   958695469 10  7 cf  -     -     -         2930   20    0 
+CityPam   958695522 10  6 c   c     f     -         2910   40    0 
+CityPam   958695566 10  5 c   b     b     -         2870   80  150 
+CityPam   958695624  9  3 f   -     -     -         2940    0    0 
+CityPam   958695660 10  3 cc  c     b     b         2940  140  480 Th Ts
+CityPam   958695707 10  2 Bf  -     -     -         3280   20    0 
+CityPam   958695720 10  1 Bc  k     b     -         3260   60  120 
+CityPam   958695747 10 10 c   b     b     k         3320   80  220 Ad Td
+CityPam   958695799 10  9 f   -     -     -         3460    0    0 
+CityPam   958695868 10  8 cc  cf    -     -         3460   80    0 
+CityPam   958695921 10  7 cc  kc    kf    -         3380   60    0 
+CityPam   958695972 10  6 f   -     -     -         3320    0    0 
+CityPam   958695997 10  5 c   ccc   kc    k         3320  180    0 8s 8d
+CityPam   958696083 10  4 f   -     -     -         3140    0    0 
+CityPam   958696145 10  3 f   -     -     -         3140    0    0 
+CityPam   958696171 10  2 Bk  kc    kcc   kf        3140  120    0 
+CityPam   958696263  9  1 Bc  k     kc    k         3020   60    0 Qc 3c
+CityPam   958696315  9  9 c   c     c     r         2960  160  350 
+CityPam   958696377  9  8 c   b     b     c         3150  120    0 Ad 6s
+CityPam   958696440  8  6 f   -     -     -         3030    0    0 
+CityPam   958696466  8  5 c   k     kf    -         3030   20    0 
+CityPam   958696527  8  4 f   -     -     -         3010    0    0 
+CityPam   958696553  8  3 f   -     -     -         3010    0    0 
+CityPam   958696589  8  2 Bf  -     -     -         3010   20    0 
+CityPam   958696604  8  1 Bf  -     -     -         2990   10    0 
+CityPam   958696630  8  8 f   -     -     -         2980    0    0 
+CityPam   958696699  8  7 f   -     -     -         2980    0    0 
+CityPam   958696755  7  5 c   b     -     -         2980   40  120 
+CityPam   958696807  8  4 f   -     -     -         3060    0    0 
+CityPam   958696852  9  3 f   -     -     -         3060    0    0 
+CityPam   958696895 10  2 Bk  kc    kc    kf        3060   80    0 
+CityPam   958696948 10  1 Bf  -     -     -         2980   10    0 
+CityPam   958696986 10 10 fQ  -     -     -         2970    0    0 
+CityPam   958703732  8  8 f   -     -     -         2970    0    0 
+CityPam   958703754  8  7 f   -     -     -         2970    0    0 
+CityPam   958703798  7  5 f   -     -     -         2970    0    0 
+CityPam   958703838  7  4 c   k     f     -         2970   20    0 
+CityPam   958703901  8  4 f   -     -     -         2950    0    0 
+CityPam   958703941  8  3 f   -     -     -         2950    0    0 
+CityPam   958703991  8  2 Bk  b     b     kc        2950  120    0 Kd 5d
+CityPam   958704027  8  1 Bf  -     -     -         2830   10    0 
+CityPam   958704076  8  8 f   -     -     -         2820    0    0 
+CityPam   958704119  9  8 cc  kc    kc    kf        2820  100    0 
+CityPam   958704166 10  8 f   -     -     -         2720    0    0 
+CityPam   958704191 10  7 f   -     -     -         2720    0    0 
+CityPam   958704224 10  6 f   -     -     -         2720    0    0 
+CityPam   958704269 10  5 cc  bc    b     kc        2720  160    0 Jh Js
+CityPam   958704335 10  4 r   c     c     f         2560  100    0 
+CityPam   958704374 10  3 c   b     kc    kf        2460   80    0 
+CityPam   958704426 10  2 Bk  bc    kc    k         2380  100    0 Js Kh
+CityPam   958704467 10  1 Brc bc    br    b         2280  340 1040 Js As
+CityPam   958704535 10 10 f   -     -     -         2980    0    0 
+CityPam   958704578 10  9 cc  f     -     -         2980   40    0 
+CityPam   958704644 10  8 f   -     -     -         2940    0    0 
+CityPam   958704717 10  7 f   -     -     -         2940    0    0 
+CityPam   958704757 10  6 f   -     -     -         2940    0    0 
+CityPam   958704866 10  5 f   -     -     -         2940    0    0 
+CityPam   958704897 10  4 c   k     k     k         2940   20    0 Qc Ad
+CityPam   958704977 10  3 f   -     -     -         2920    0    0 
+CityPam   958705076 10  2 Bc  kc    kc    kc        2920  140    0 Th Td
+CityPam   958705148 10  1 Bc  k     kc    kf        2780   60    0 
+CityPam   958705183 10 10 f   -     -     -         2720    0    0 
+CityPam   958705227 10  9 f   -     -     -         2720    0    0 
+CityPam   958705273 10  8 c   f     -     -         2720   20    0 
+CityPam   958705330 10  7 f   -     -     -         2700    0    0 
+CityPam   958705395 10  6 cf  -     -     -         2700   20    0 
+CityPam   958705415 10  5 f   -     -     -         2680    0    0 
+CityPam   958705445 10  4 c   c     k     f         2680   60    0 
+CityPam   958705516 10  3 r   b     b     b         2620  140    0 9d 9s
+CityPam   958705553  9  2 B   -     -     -         2480   20   30 
+CityPam   958705581  8  1 Bf  Q     -     -         2490   10    0 

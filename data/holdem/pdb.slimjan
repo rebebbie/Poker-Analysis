@@ -1,0 +1,380 @@
+slimjan   957563463  9  3 f   -     -     -         1218    0    0 
+slimjan   957563504  9  2 Bf  -     -     -         1218   10    0 
+slimjan   957563600 10  1 Bf  -     -     -         1208    5    0 
+slimjan   957563653 10 10 rc  f     -     -         1203   40    0 
+slimjan   957563720 10  9 rc  b     br    r         1163  150  450 Jh Ts
+slimjan   957563788  9  7 rc  rr    b     b         1463  120    0 Ts Qc
+slimjan   957563855  8  5 r   b     kc    kc        1343   70  255 9c Ac
+slimjan   957563917  8  5 f   -     -     -         1528    0    0 
+slimjan   957563950  8  4 f   -     -     -         1528    0    0 
+slimjan   957564038  8  3 f   -     -     -         1528    0    0 
+slimjan   957564077  7  2 Bf  -     -     -         1528   10    0 
+slimjan   957564111  7  1 Bf  -     -     -         1518    5    0 
+slimjan   957564131  7  7 f   -     -     -         1513    0    0 
+slimjan   957564191  5  4 r   b     -     -         1513   30   60 
+slimjan   957564217  5  3 c   b     b     k         1543   40    0 3s Ks
+slimjan   957564278  5  2 B   -     -     -         1503   10   15 
+slimjan   957564297  5  1 Bf  -     -     -         1508    5    0 
+slimjan   957564317  4  4 f   -     -     -         1503    0    0 
+slimjan   957564370  4  3 c   br    f     -         1503   50    0 
+slimjan   957564466  4  2 Bf  -     -     -         1453   10    0 
+slimjan   957564476  4  1 Bf  -     -     -         1443    5    0 
+slimjan   957564496  4  4 f   -     -     -         1438    0    0 
+slimjan   957564515  4  3 c   r     k     b         1438   50  115 8c 7s
+slimjan   957564553  5  2 Bk  k     b     bf        1503   50    0 
+slimjan   957564591  6  1 Brc b     b     k         1453   70    0 2s As
+slimjan   957564665  7  7 r   b     b     -         1383   50   95 
+slimjan   957564702  7  6 f   -     -     -         1428    0    0 
+slimjan   957564800  7  5 cc  f     -     -         1428   30    0 
+slimjan   957564883  7  4 f   -     -     -         1398    0    0 
+slimjan   957564981  7  3 f   -     -     -         1398    0    0 
+slimjan   957565070  7  2 Bf  -     -     -         1398   10    0 
+slimjan   957565133  7  1 Bf  -     -     -         1388    5    0 
+slimjan   957565188  5  5 f   -     -     -         1383    0    0 
+slimjan   957565217  6  5 f   -     -     -         1383    0    0 
+slimjan   957565256  8  6 r   b     -     -         1383   40   85 
+slimjan   957565295 10  5 f   -     -     -         1428    0    0 
+slimjan   957565367 10  4 f   -     -     -         1428    0    0 
+slimjan   957565461  9  3 f   -     -     -         1428    0    0 
+slimjan   957565538  9  2 Bf  -     -     -         1428   10    0 
+slimjan   957565606 10  1 Bf  -     -     -         1418    5    0 
+slimjan   957565689 10 10 f   -     -     -         1413    0    0 
+slimjan   957565776 10  9 f   -     -     -         1413    0    0 
+slimjan   957565801 10  8 f   -     -     -         1413    0    0 
+slimjan   957565874  9  6 rc  c     rr    f         1413  130    0 
+slimjan   957565942 10  6 r   f     -     -         1283   20    0 
+slimjan   957566067 10  5 f   -     -     -         1263    0    0 
+slimjan   957566139 10  4 f   -     -     -         1263    0    0 
+slimjan   957566252 10  3 f   -     -     -         1263    0    0 
+slimjan   957566317 10  2 Bk  kQ    -     -         1263   10    0 
+slimjan   957569066  3  2 Brr br    b     b         1253  110  270 
+slimjan   957569123  3  1 Brc b     kr    b         1413  110  260 Qc Kh
+slimjan   957569159  3  3 r   b     k     k         1563   30   70 Jc Qc
+slimjan   957569180  3  2 Bk  brc   bc    kf        1603   90    0 
+slimjan   957569210  3  1 Br  b     -     -         1513   30   70 
+slimjan   957569231  3  3 f   -     -     -         1553    0    0 
+slimjan   957569244  3  2 Br  brc   kf    -         1553   60    0 
+slimjan   957569264  3  1 Br  b     -     -         1493   30   50 
+slimjan   957569282  3  3 c   k     k     f         1513   10    0 
+slimjan   957569325  3  2 Br  kf    -     -         1503   30    0 
+slimjan   957569355  4  1 Bc  k     br    kc        1473   90    0 Qc 5s
+slimjan   957569407  4  4 rr  b     -     -         1383   50  130 
+slimjan   957569440  3  3 rr  rc    c     f         1463   90    0 
+slimjan   957569480  3  2 Br  k     br    b         1373  110  250 4d 4h
+slimjan   957569525  3  1 Bc  bc    bc    br        1513  130  240 
+slimjan   957569553  3  3 c   b     b     k         1623   40   90 Qd 8s
+slimjan   957569576  3  2 Br  brc   brc   b         1673  160  305 
+slimjan   957569604  3  1 Br  kf    -     -         1818   20    0 
+slimjan   957569614  3  3 cc  f     -     -         1798   20    0 
+slimjan   957569628  3  2 Br  bf    -     -         1778   40    0 
+slimjan   957569643  3  1 Bc  k     b     bf        1738   50    0 
+slimjan   957569671  3  3 cc  rr    rr    b         1688  160  330 9h Ad
+slimjan   957569699  3  2 Br  kf    -     -         1858   30    0 
+slimjan   957569715  3  1 Bc  k     k     k         1828   10    0 8d 3c
+slimjan   957569727  3  3 rr  rr    f     -         1818   80    0 
+slimjan   957569752  2  1 Br  b     -     -         1738   30   50 
+slimjan   957569759  2  1 Br  brc   kc    kf        1758   80    0 
+slimjan   957569783  2  2 Bk  r     b     b         1678   70  120 
+slimjan   957569802  2  1 Bc  brc   kc    kc        1728   90    0 3h 7h
+slimjan   957569820  2  2 Br  bf    -     -         1638   30    0 
+slimjan   957569843  2  1 Bc  kf    -     -         1608   10    0 
+slimjan   957569853  2  2 Br  r     k     b         1598   60  100 
+slimjan   957569873  2  1 Bf  -     -     -         1638    5    0 
+slimjan   957569878  2  2 Br  b     b     -         1633   50   80 
+slimjan   957569891  2  1 Bc  k     k     b         1663   30   40 
+slimjan   957569902  3  3 cc  f     -     -         1673   20    0 
+slimjan   957569921  3  2 Bk  kf    -     -         1653   10    0 
+slimjan   957569937  4  1 Bf  -     -     -         1643    5    0 
+slimjan   957569964  4  4 f   -     -     -         1638    0    0 
+slimjan   957569978  4  3 f   -     -     -         1638    0    0 
+slimjan   957569998  4  2 Bf  -     -     -         1638   10    0 
+slimjan   957570035  4  1 Br  brc   brc   bc        1628  180    0 Jc 7c
+slimjan   957570095  4  4 r   f     -     -         1448   20    0 
+slimjan   957570131  4  3 r   b     b     -         1428   50   90 
+slimjan   957570149  5  2 Bc  krc   kr    k         1468   90    0 5s 7h
+slimjan   957570214  7  1 Br  br    b     b         1378   90  200 9s 8s
+slimjan   957570248  7  7 f   -     -     -         1488    0    0 
+slimjan   957570309  8  7 r   b     b     b         1488   70    0 Jh Jd
+slimjan   957570346  8  6 r   b     -     -         1418   30   65 
+slimjan   957570367  8  5 f   -     -     -         1453    0    0 
+slimjan   957570423  8  4 cc  kf    -     -         1453   20    0 
+slimjan   957570497  8  3 f   -     -     -         1433    0    0 
+slimjan   957570551  8  2 Bk  k     k     k         1433   10    0 Td 2d
+slimjan   957570597  8  1 Bf  -     -     -         1423    5    0 
+slimjan   957570643  9  9 c   c     f     -         1418   30    0 
+slimjan   957570688  9  8 f   -     -     -         1388    0    0 
+slimjan   957570741  9  7 f   -     -     -         1388    0    0 
+slimjan   957570781  9  6 r   f     -     -         1388   20    0 
+slimjan   957570834  9  5 f   Q     -     -         1368    0    0 
+slimjan   957585807  8  4 f   -     -     -         1368    0    0 
+slimjan   957585859  7  2 f   -     -     -         1368    0    0 
+slimjan   957585949  8  2 Br  b     k     k         1368   30    0 4h 4c
+slimjan   957586010  8  1 Bf  -     -     -         1338    5    0 
+slimjan   957586079  8  8 f   -     -     -         1333    0    0 
+slimjan   957586130  9  7 f   -     -     -         1333    0    0 
+slimjan   957586187  9  6 f   -     -     -         1333    0    0 
+slimjan   957586259 10  5 f   -     -     -         1333    0    0 
+slimjan   957586330 10  4 c   r     rf    -         1333   90    0 
+slimjan   957586376 10  3 f   -     -     -         1243    0    0 
+slimjan   957586448  9  2 Bk  kf    -     -         1243   10    0 
+slimjan   957586526  9  1 Br  kr    kr    b         1233  120  400 Kc Ad
+slimjan   957586653  9  9 f   -     -     -         1513    0    0 
+slimjan   957586754  7  6 f   -     -     -         1513    0    0 
+slimjan   957586812  8  6 f   -     -     -         1513    0    0 
+slimjan   957586860  8  5 f   -     -     -         1513    0    0 
+slimjan   957586906  9  5 cc  rc    br    b         1513  130  450 Tc 6c
+slimjan   957587014  9  4 c   c     c     kf        1833   40    0 
+slimjan   957587070  9  3 f   -     -     -         1793    0    0 
+slimjan   957587131 10  2 Bk  bc    kc    k         1793   50    0 8d 6s
+slimjan   957587192 10  1 Bc  kf    -     -         1743   10    0 
+slimjan   957587247 10 10 f   -     -     -         1733    0    0 
+slimjan   957587287 10  9 f   -     -     -         1733    0    0 
+slimjan   957587357 10  8 f   -     -     -         1733    0    0 
+slimjan   957587443 10  7 f   -     -     -         1733    0    0 
+slimjan   957587498 10  6 f   -     -     -         1733    0    0 
+slimjan   957587561  9  4 f   -     -     -         1733    0    0 
+slimjan   957587630 10  3 rr  k     kf    -         1733   40    0 
+slimjan   957587691 10  2 Bk  b     k     b         1693   40   75 
+slimjan   957587734 10  1 Bf  -     -     -         1728    5    0 
+slimjan   957587763 10 10 c   r     k     k         1723   30    0 8s Td
+slimjan   957587824 10  9 f   -     -     -         1693    0    0 
+slimjan   957587866 10  8 f   -     -     -         1693    0    0 
+slimjan   957587910 10  7 f   -     -     -         1693    0    0 
+slimjan   957588001 10  6 f   -     -     -         1693    0    0 
+slimjan   957588073 10  5 f   -     -     -         1693    0    0 
+slimjan   957588118 10  4 c   r     b     b         1693   70    0 3h Ah
+slimjan   957588166 10  3 r   b     b     b         1623   70  160 Ac 9c
+slimjan   957588214 10  2 Br  c     r     k         1713   70    0 9d Th
+slimjan   957588269 10  1 Bf  -     -     -         1643    5    0 
+slimjan   957588339 10 10 f   -     -     -         1638    0    0 
+slimjan   957588380  9  9 f   -     -     -         1638    0    0 
+slimjan   957588423  8  7 f   Q     -     -         1638    0    0 
+slimjan   957726093 10  6 f   -     -     -         1483    0    0 
+slimjan   957726132 10  5 f   -     -     -         1483    0    0 
+slimjan   957726196 10  4 f   -     -     -         1483    0    0 
+slimjan   957726240 10  3 f   -     -     -         1483    0    0 
+slimjan   957726276 10  2 Bc  kf    -     -         1483   20    0 
+slimjan   957726339 10  1 Bf  -     -     -         1463    5    0 
+slimjan   957726373 10 10 f   -     -     -         1458    0    0 
+slimjan   957726428 10  9 f   -     -     -         1458    0    0 
+slimjan   957726452 10  8 f   -     -     -         1458    0    0 
+slimjan   957726550 10  7 c   r     f     -         1458   30    0 
+slimjan   957726604 10  6 f   -     -     -         1428    0    0 
+slimjan   957726665 10  5 f   -     -     -         1428    0    0 
+slimjan   957726709 10  4 c   br    b     b         1428   80  310 Jc Kc
+slimjan   957726781 10  3 f   -     -     -         1658    0    0 
+slimjan   957726813 10  2 Bk  kf    -     -         1658   10    0 
+slimjan   957726872 10  1 Bc  kf    -     -         1648   10    0 
+slimjan   957726917 10 10 f   -     -     -         1638    0    0 
+slimjan   957726995 10  9 f   -     -     -         1638    0    0 
+slimjan   957727034 10  8 f   -     -     -         1638    0    0 
+slimjan   957727084 10  7 f   -     -     -         1638    0    0 
+slimjan   957727148 10  6 f   -     -     -         1638    0    0 
+slimjan   957727232 10  5 f   -     -     -         1638    0    0 
+slimjan   957727292 10  4 f   -     -     -         1638    0    0 
+slimjan   957727385 10  3 cc  krc   kf    -         1638   60    0 
+slimjan   957727473 10  2 Bk  k     f     -         1578   10    0 
+slimjan   957727564 10  1 Bc  kf    -     -         1568   10    0 
+slimjan   957727626 10 10 r   r     b     k         1558   60    0 7s 8s
+slimjan   957727694 10  9 f   -     -     -         1498    0    0 
+slimjan   957727765 10  8 c   f     -     -         1498   10    0 
+slimjan   957727811 10  7 f   -     -     -         1488    0    0 
+slimjan   957727872 10  6 f   -     -     -         1488    0    0 
+slimjan   957727988 10  5 f   -     -     -         1488    0    0 
+slimjan   957728074 10  4 c   bc    br    b         1488  110  425 
+slimjan   957728168 10  3 c   k     f     -         1803   10    0 
+slimjan   957728292  9  2 Bf  -     -     -         1793   10    0 
+slimjan   957728382 10  1 Br  b     b     k         1783   50    0 Qc Ac
+slimjan   957728460 10 10 f   -     -     -         1733    0    0 
+slimjan   957728564 10  9 f   -     -     -         1733    0    0 
+slimjan   957728667 10  8 f   -     -     -         1733    0    0 
+slimjan   957728753 10  7 f   -     -     -         1733    0    0 
+slimjan   957728836 10  6 f   -     -     -         1733    0    0 
+slimjan   957728940 10  5 f   -     -     -         1733    0    0 
+slimjan   957729044 10  4 f   -     -     -         1733    0    0 
+slimjan   957729117 10  3 f   -     -     -         1733    0    0 
+slimjan   957729206 10  2 Bk  kc    kf    -         1733   20    0 
+slimjan   957729296 10  1 Bf  -     -     -         1713    5    0 
+slimjan   957729415 10 10 f   -     -     -         1708    0    0 
+slimjan   957729516 10  9 f   -     -     -         1708    0    0 
+slimjan   957729602 10  8 c   f     -     -         1708   10    0 
+slimjan   957729700 10  7 f   -     -     -         1698    0    0 
+slimjan   957729754 10  6 f   -     -     -         1698    0    0 
+slimjan   957729821 10  5 f   -     -     -         1698    0    0 
+slimjan   957729900 10  4 c   br    rr    c         1698  150    0 Ks Qd
+slimjan   957729976 10  3 r   b     k     f         1548   30    0 
+slimjan   957730040 10  2 Bk  kr    cr    b         1518  110  530 8s 3s
+slimjan   957730156 10  1 Bc  kf    -     -         1938   10    0 
+slimjan   957730257 10 10 KQ  -     -     -         1928    0    0 
+slimjan   958080525  5  3 c   f     -     -         1748   10    0 
+slimjan   958080558  5  2 Bk  kr    b     b         1708   70  135 
+slimjan   958080605  5  1 Bf  -     -     -         1763    5    0 
+slimjan   958080618  5  5 c   c     c     c         1758   60    0 Th 8h
+slimjan   958080648  5  4 f   -     -     -         1698    0    0 
+slimjan   958080683  5  3 f   -     -     -         1658    0    0 
+slimjan   958080708  5  2 Bc  b     bc    bc        1743  110    0 5s 6d
+slimjan   958080742  5  1 Bf  -     -     -         1633    5    0 
+slimjan   958080756  5  5 f   -     -     -         1628    0    0 
+slimjan   958080785  5  4 c   b     b     -         1628   40   70 
+slimjan   958080846  5  3 cr  k     rr    r         1658  150    0 Th Qh
+slimjan   958080890  4  2 Bc  k     kc    k         1508   40    0 7s Ad
+slimjan   958080923  4  1 Bf  -     -     -         1468    5    0 
+slimjan   958080940  4  4 f   -     -     -         1463    0    0 
+slimjan   958080968  4  3 r   -     -     -         1408   20   35 
+slimjan   958080978  4  2 Bk  br    kc    k         1423   60    0 Th 2d
+slimjan   958081025  4  1 Bc  bc    kc    kf        1293   60    0 
+slimjan   958081062  4  4 f   -     -     -         1233    0    0 
+slimjan   958081065  4  3 f   -     -     -         1233    0    0 
+slimjan   958081088  4  2 Bf  -     -     -         1233   10    0 
+slimjan   958081102  4  1 Bf  -     -     -         1223    5    0 
+slimjan   958081107  4  4 c   bc    c     c         1208   70    0 Jc 9h
+slimjan   958081133  5  3 f   -     -     -         1138    0    0 
+slimjan   958081167  5  2 Bk  k     b     -         1133   30   60 
+slimjan   958081201  5  1 Bc  kc    k     b         1163   50  160 Td Ah
+slimjan   958081237  5  5 c   f     -     -         1273   10    0 
+slimjan   958081272  6  4 f   -     -     -         1263    0    0 
+slimjan   958081316  6  3 cc  k     cc    kf        1253   60    0 
+slimjan   958081358  5  2 Bc  r     b     b         1193   80  220 Jh Ks
+slimjan   958081394  5  1 Br  b     b     b         1333   70  160 Js Jh
+slimjan   958081431  4  4 c   b     k     k         1733   20   50 Th 4h
+slimjan   958081455  4  3 f   -     -     -         1763    0    0 
+slimjan   958081483  4  2 Bc  kf    -     -         1753   20    0 
+slimjan   958081510  4  1 Bf  -     -     -         1733    5    0 
+slimjan   958081541  4  4 r   b     k     f         1718   30    0 
+slimjan   958081567  4  3 f   -     -     -         1733    0    0 
+slimjan   958081598  4  2 Bk  b     b     -         1733   40   70 
+slimjan   958081622  4  1 Bc  kf    -     -         1763   10    0 
+slimjan   958081637  4  4 f   -     -     -         1753    0    0 
+slimjan   958081663  4  3 r   b     b     b         1753   70  130 
+slimjan   958081710  5  2 Bc  bc    kc    k         1813   60    0 6s 9h
+slimjan   958081757  6  1 Bc  kf    -     -         1683   10    0 
+slimjan   958081786  6  6 f   -     -     -         1673    0    0 
+slimjan   958081815  6  5 r   k     r     k         1673   60  160 Qc Qd
+slimjan   958081853  6  4 f   -     -     -         1773    0    0 
+slimjan   958081884  5  3 cc  f     -     -         1773   20    0 
+slimjan   958081922  5  2 Bk  k     kf    -         1753   10    0 
+slimjan   958081949  4  1 Bc  kf    -     -         1743   10    0 
+slimjan   958081981  4  4 f   -     -     -         1673    0    0 
+slimjan   958081995  4  3 f   -     -     -         1673    0    0 
+slimjan   958082011  5  2 Bc  c     c     f         1673   50    0 
+slimjan   958082120  5  1 Bc  kf    -     -         1623   20    0 
+slimjan   958082154  6  6 c   f     -     -         1583   10    0 
+slimjan   958082183  6  5 c   k     k     k         1573   10   40 Kd 9d
+slimjan   958082230  7  4 f   -     -     -         1603    0    0 
+slimjan   958082299  8  3 c   kf    -     -         1503   10    0 
+slimjan   958082335  9  2 Bk  k     f     -         1493   10    0 
+slimjan   958082389 10  1 Br  bc    kf    -         1453   50    0 
+slimjan   958082509  9  9 f   -     -     -         1393    0    0 
+slimjan   958082576  9  8 f   -     -     -         1393    0    0 
+slimjan   958082625  9  7 c   b     b     -         1393   40   90 
+slimjan   958082680  9  6 f   -     -     -         1443    0    0 
+slimjan   958082744  8  4 f   -     -     -         1443    0    0 
+slimjan   958082842  8  4 c   kf    -     -         1443   10    0 
+slimjan   958082893  8  4 f   -     -     -         1433    0    0 
+slimjan   958082928  9  3 f   -     -     -         1433    0    0 
+slimjan   958082968  9  2 Bk  kf    -     -         1433   10    0 
+slimjan   958083012  9  1 Bf  -     -     -         1423    5    0 
+slimjan   958083099  8  8 f   -     -     -         1418    0    0 
+slimjan   958083148  7  6 f   -     -     -         1418    0    0 
+slimjan   958083195  7  5 c   k     f     -         1418   10    0 
+slimjan   958083222  8  5 f   -     -     -         1408    0    0 
+slimjan   958083279  8  4 c   f     -     -         1408   20    0 
+slimjan   958083346 10  3 f   -     -     -         1388    0    0 
+slimjan   958083399 10  2 Brc kr    b     brc       1388  160  303 9s 9h
+slimjan   958083502  9  1 Bc  b     b     -         1531   50  130 
+slimjan   958083545  8  8 r   b     b     b         1611   70    0 7h 7c
+slimjan   958083602  7  6 f   -     -     -         1541    0    0 
+slimjan   958083625  7  5 f   -     -     -         1541    0    0 
+slimjan   958083654  8  5 f   -     -     -         1541    0    0 
+slimjan   958083682  8  4 f   -     -     -         1541    0    0 
+slimjan   958083722  9  4 f   -     -     -         1541    0    0 
+slimjan   958083764  9  3 f   -     -     -         1541    0    0 
+slimjan   958083820  8  2 Bc  br    bc    k         1541  100    0 4s 3c
+slimjan   958083892  9  1 Bc  b     k     k         1441   20   60 Kd 4d
+slimjan   958083953  9  9 f   -     -     -         1481    0    0 
+slimjan   958084006  9  8 f   -     -     -         1481    0    0 
+slimjan   958084069  8  6 f   -     -     -         1481    0    0 
+slimjan   958084134  8  6 r   b     k     b         1481   60  185 
+slimjan   958084179  8  5 c   f     -     -         1606   20    0 
+slimjan   958084246  8  4 f   -     -     -         1586    0    0 
+slimjan   958084309  8  3 f   -     -     -         1586    0    0 
+slimjan   958084355  8  2 Br  b     k     k         1586   30    0 9h Jh
+slimjan   958084392  7  1 Bc  b     k     kf        1556   20    0 
+slimjan   958084443  7  7 f   -     -     -         1536    0    0 
+slimjan   958084472  7  6 r   f     -     -         1536   20    0 
+slimjan   958084551  7  5 f   -     -     -         1516    0    0 
+slimjan   958084602  7  4 c   f     -     -         1516   20    0 
+slimjan   958084644  6  2 Bk  kc    kf    -         1496   30    0 
+slimjan   958084721  6  1 Bf  -     -     -         1466    5    0 
+slimjan   958084741  6  6 c   b     k     f         1461   20    0 
+slimjan   958084794  7  6 f   -     -     -         1441    0    0 
+slimjan   958084809  7  5 c   f     -     -         1441   10    0 
+slimjan   958084889  7  4 f   -     -     -         1431    0    0 
+slimjan   958084931  7  3 f   -     -     -         1431    0    0 
+slimjan   958084985  7  2 Bc  kc    kf    -         1431   30    0 
+slimjan   958085015  7  1 Bf  -     -     -         1401    5    0 
+slimjan   958085033  7  7 r   f     -     -         1396   30    0 
+slimjan   958085080  7  6 r   k     b     -         1366   50  125 
+slimjan   958085115  8  5 f   -     -     -         1441    0    0 
+slimjan   958085157  8  4 f   -     -     -         1441    0    0 
+slimjan   958085199  9  3 f   -     -     -         1441    0    0 
+slimjan   958085221  9  2 Bc  kf    -     -         1441   20    0 
+slimjan   958085369  8  1 Bf  -     -     -         1421    5    0 
+slimjan   958085407  9  9 f   -     -     -         1416    0    0 
+slimjan   958085453  8  7 f   -     -     -         1416    0    0 
+slimjan   958085481  8  6 c   f     -     -         1416   10    0 
+slimjan   958085544  8  5 f   -     -     -         1406    0    0 
+slimjan   958085583  9  4 c   rc    k     b         1406   60  200 7d Ad
+slimjan   958085644  9  3 f   -     -     -         1546    0    0 
+slimjan   958085684  9  2 Bf  -     -     -         1546   10    0 
+slimjan   958085728 10  1 Br  b     -     -         1536   30   70 
+slimjan   958085754  9  9 f   -     -     -         1576    0    0 
+slimjan   958085823 10  9 f   -     -     -         1576    0    0 
+slimjan   958085850 10  8 c   c     c     k         1576   40    0 Jh 8h
+slimjan   958085900 10  7 f   -     -     -         1536    0    0 
+slimjan   958085939 10  6 f   -     -     -         1536    0    0 
+slimjan   958086008 10  5 f   -     -     -         1536    0    0 
+slimjan   958086023 10  5 cr  b     b     k         1536   60    0 Jc Qc
+slimjan   958086080  8  2 c   b     -     -         1476   20   40 
+slimjan   958086098  7  2 Br  b     b     -         1496   60  115 
+slimjan   958086131  7  1 BQ  -     -     -         1551    5    0 
+slimjan   958792589 10  9 f   -     -     -         1341    0    0 
+slimjan   958792621 10  8 f   -     -     -         1341    0    0 
+slimjan   958792703  9  7 f   -     -     -         1341    0    0 
+slimjan   958792737  8  5 f   -     -     -         1341    0    0 
+slimjan   958792788 10  5 f   -     -     -         1341    0    0 
+slimjan   958792836 10  4 f   -     -     -         1341    0    0 
+slimjan   958792908 10  3 c   k     f     -         1341   10    0 
+slimjan   958793020 10  2 Bk  k     k     kf        1331   10    0 
+slimjan   958793142  9  1 Bf  -     -     -         1321    5    0 
+slimjan   958793190 10 10 f   -     -     -         1316    0    0 
+slimjan   958793283 10  9 f   -     -     -         1316    0    0 
+slimjan   958793360 10  8 f   -     Q     -         1316    0    0 
+slimjan   959275045  9  5 f   -     -     -         1321    0    0 
+slimjan   959275071  9  4 f   -     -     -         1321    0    0 
+slimjan   959275122  9  3 f   -     -     -         1321    0    0 
+slimjan   959275184  9  2 Bk  k     b     b         1331   50  125 5d 4s
+slimjan   959275232  9  1 Bf  -     -     -         1406    5    0 
+slimjan   959275270  9  9 r   f     -     -         1401   20    0 
+slimjan   959275338  9  8 f   -     -     -         1381    0    0 
+slimjan   959275370 10  8 rr  f     -     -         1381   40    0 
+slimjan   959275443 10  7 f   -     -     -         1341    0    0 
+slimjan   959275481 10  6 f   -     -     -         1341    0    0 
+slimjan   959275555  9  5 fQ  -     -     -         1341    0    0 
+slimjan   959275727  9  6 f   -     -     -         1341    0    0 
+slimjan   959275798  9  4 f   -     -     -         1341    0    0 
+slimjan   959275832  9  3 f   -     -     -         1336    0    0 
+slimjan   959275885  9  2 Bc  bc    kr    b         1336  100  305 3c 2c
+slimjan   959275928  9  1 Bc  kf    -     -         1541   20    0 
+slimjan   959276009  8  8 c   r     r     k         1521   80  255 Tc 8d
+slimjan   959276045  7  7 rr  k     f     -         1696   40    0 
+slimjan   959276086  7  6 f   -     -     -         1656    0    0 
+slimjan   959276142  9  5 f   -     -     -         1656    0    0 
+slimjan   959276234 10  4 f   -     -     -         1656    0    0 
+slimjan   959276292 10  3 f   -     -     -         1656    0    0 
+slimjan   959276343 10  2 Br  b     br    -         1656  110  340 
+slimjan   959276407  9  1 Bc  br    b     b         1886  100  380 Kc Tc
+slimjan   959276494  8  8 f   -     -     -         2166    0    0 
+slimjan   959276555  8  7 rc  rc    f     -         2166   70    0 
+slimjan   959276622  7  5 f   -     -     -         2096    0    0 
+slimjan   959276651  8  4 fQ  -     -     -         2096    0    0 

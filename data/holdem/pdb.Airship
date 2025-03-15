@@ -1,0 +1,92 @@
+Airship   957526190  7  5 f   -     -     -         1189    0    0 
+Airship   957526215  7  4 f   -     -     -         1189    0    0 
+Airship   957526262  7  3 f   -     -     -         1189    0    0 
+Airship   957526351  7  2 Bk  k     f     -         1189   10    0 
+Airship   957526392  7  1 Bf  -     -     -         1179    5    0 
+Airship   957526440  7  7 c   b     b     b         1174   60  120 
+Airship   957526505  6  4 f   -     -     -         1234    0    0 
+Airship   957526556  6  3 f   -     -     -         1234    0    0 
+Airship   957526593  6  2 Bf  -     -     -         1234   10    0 
+Airship   957526600  6  1 Bf  -     -     -         1224    5    0 
+Airship   957526623  6  6 f   -     -     -         1219    0    0 
+Airship   957526648  6  5 c   k     b     b         1219   50   95 
+Airship   957526683  6  4 f   -     -     -         1264    0    0 
+Airship   957526696  6  3 f   -     -     -         1264    0    0 
+Airship   957526742  6  2 Bk  kf    -     -         1264   10    0 
+Airship   957526789  6  1 Bf  -     -     -         1254    5    0 
+Airship   957526808  6  6 f   -     -     -         1249    0    0 
+Airship   957526830  6  5 f   -     -     -         1249    0    0 
+Airship   957526864  6  4 f   -     -     -         1249    0    0 
+Airship   957526891  6  3 c   bc    c     k         1249   50    0 Jd 8d
+Airship   957526925  6  2 Bf  -     -     -         1199   10    0 
+Airship   957526971  6  1 Bc  k     k     kf        1189   10    0 
+Airship   957527019  5  5 f   -     -     -         1179    0    0 
+Airship   957527068  5  4 f   -     -     -         1179    0    0 
+Airship   957527128  5  3 f   -     -     -         1179    0    0 
+Airship   957527164  5  2 Bk  f     -     -         1179   10    0 
+Airship   957527219  5  1 Bc  k     bf    -         1169   30    0 
+Airship   957527258  5  5 f   -     -     -         1139    0    0 
+Airship   957527293  5  4 f   -     -     -         1139    0    0 
+Airship   957527322  5  3 f   -     -     -         1139    0    0 
+Airship   957527370  6  2 Bf  -     -     -         1139   10    0 
+Airship   957527411  6  1 Bf  -     -     -         1129    5    0 
+Airship   957527454  6  6 f   -     -     -         1124    0    0 
+Airship   957527479  6  5 r   c     c     rc        1124  110  265 Ks Kd
+Airship   957527532  6  4 cf  -     -     -         1279   10    0 
+Airship   957527573  6  3 cc  kc    kc    kc        1269   70    0 9c Ks
+Airship   957527610  6  2 Bk  k     f     -         1199   10    0 
+Airship   957527648  6  1 Bf  -     -     -         1189    5    0 
+Airship   957527674  6  6 cc  c     f     -         1184   50    0 
+Airship   957527745  7  6 f   -     -     -         1134    0    0 
+Airship   957527768  7  5 f   -     -     -         1134    0    0 
+Airship   957527790  8  4 c   b     k     b         1134   40  135 9h Qh
+Airship   957527832  8  3 f   -     -     -         1229    0    0 
+Airship   957527912 10  4 c   k     kf    -         1229   10    0 
+Airship   957528002  9  3 c   f     -     -         1219   10    0 
+Airship   957528041 10  2 Bk  b     b     -         1209   40   75 
+Airship   957528079 10  1 Bcc kQ    -     -         1244   30    0 
+Airship   957536443  5  2 B   -     -     -         1214   10   15 
+Airship   957536450  5  1 Bc  b     -     -         1219   20   30 
+Airship   957536458  5  5 c   k     k     k         1229   10    0 Jc Td
+Airship   957536478  5  4 f   -     -     -         1219    0    0 
+Airship   957536494  5  3 f   -     -     -         1219    0    0 
+Airship   957536509  4  2 B   -     -     -         1219   10   15 
+Airship   957536517  4  1 Bf  -     -     -         1224    5    0 
+Airship   957536534  4  4 f   -     -     -         1219    0    0 
+Airship   957536558  4  3 f   -     -     -         1219    0    0 
+Airship   957536570  4  2 Bc  kc    k     k         1219   30   65 Qd 5d
+Airship   957536587  4  1 Bf  -     -     -         1254    5    0 
+Airship   957536593  4  4 c   f     -     -         1249   10    0 
+Airship   957536614  5  3 f   -     -     -         1239    0    0 
+Airship   957536643  4  2 B   -     -     -         1239   10   15 
+Airship   957536649  4  1 Bf  -     -     -         1244    5    0 
+Airship   957536667  4  4 f   -     -     -         1239    0    0 
+Airship   957536685  4  3 f   -     -     -         1239    0    0 
+Airship   957536701  4  2 Bf  -     -     -         1239   10    0 
+Airship   957536715  4  1 Bf  -     -     -         1229    5    0 
+Airship   957536718  4  4 f   -     -     -         1224    0    0 
+Airship   957536740  4  3 r   -     -     -         1224   20   35 
+Airship   957536746  4  2 Bk  b     -     -         1239   20   30 
+Airship   957536758  4  1 Bf  -     -     -         1249    5    0 
+Airship   957536770  4  4 f   -     -     -         1244    0    0 
+Airship   957536785  4  3 f   -     -     -         1244    0    0 
+Airship   957536795  4  2 Bk  b     -     -         1244   20   40 
+Airship   957536807  4  1 Bf  -     -     -         1264    5    0 
+Airship   957536820  4  4 f   -     -     -         1259    0    0 
+Airship   957536835  4  3 f   -     -     -         1259    0    0 
+Airship   957536858  4  2 Bk  b     -     -         1259   20   30 
+Airship   957536867  4  1 Bf  -     -     -         1269    5    0 
+Airship   957536873  4  4 f   -     -     -         1264    0    0 
+Airship   957536886  4  3 f   -     -     -         1264    0    0 
+Airship   957536900  4  2 Bk  f     -     -         1264   10    0 
+Airship   957536911  4  1 Bf  -     -     -         1254    5    0 
+Airship   957536923  4  4 f   -     -     -         1249    0    0 
+Airship   957536938  4  3 r   b     k     bf        1249   50    0 
+Airship   957536960  4  2 Bf  -     -     -         1199   10    0 
+Airship   957536964  4  1 Bf  -     -     -         1189    5    0 
+Airship   957536973  4  4 r   b     b     r         1184   90  195 Td As
+Airship   957536997  4  3 f   -     -     -         1289    0    0 
+Airship   957537002  4  2 Bk  k     k     k         1289   10    0 3d 5c
+Airship   957537013  4  1 Bf  -     -     Q         1279    5    0 
+Airship   959420901 10  4 c   kf    -     -         1004   10    0 
+Airship   959421011 10  3 fQ  -     -     -          994    0    0 

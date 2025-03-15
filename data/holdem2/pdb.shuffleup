@@ -1,0 +1,378 @@
+shuffleup 957210149  3  3 f   -     -     -         2285    0    0 
+shuffleup 957210157  3  2 Bk  c     c     f         2285   80    0 
+shuffleup 957210214  3  1 Bf  -     -     -         2205   10    0 
+shuffleup 957210230  3  3 c   k     c     f         2195   60    0 
+shuffleup 957210261  3  2 Bk  f     -     -         2135   20    0 
+shuffleup 957210275  3  1 Bf  -     -     -         2115   10    0 
+shuffleup 957210291  3  3 f   -     -     -         2105    0    0 
+shuffleup 957210302  3  2 Bk  kf    -     -         2105   20    0 
+shuffleup 957210362  3  1 Bc  b     b     b         2085  120  260 8s Ks
+shuffleup 957210385  3  3 r   b     c     k         2225  100    0 Qh Qc
+shuffleup 957210412  3  2 Bk  k     k     k         2125   20    0 8d Tc
+shuffleup 957210447  3  1 Bc  k     k     k         2105   20    0 8s 9d
+shuffleup 957210471  3  3 f   -     -     -         2085    0    0 
+shuffleup 957210484  3  2 Bc  f     -     -         2085   40    0 
+shuffleup 957210505  3  1 Bf  -     -     -         2045   10    0 
+shuffleup 957210508  3  3 f   -     -     -         2035    0    0 
+shuffleup 957210523  3  2 Bk  k     k     r         2035  100  200 Jd Qh
+shuffleup 957210562  3  1 Bc  kf    -     -         2135   20    0 
+shuffleup 957210583  2  2 c   k     f     -         2115   20    0 
+shuffleup 957210598  2  2 Bf  -     -     -         2095   20    0 
+shuffleup 957210601  2  1 Bf  -     -     -         2075   10    0 
+shuffleup 957210604  2  2 Bk  b     c     f         2065   80    0 
+shuffleup 957210633  2  1 Br  -     -     -         1985   40   60 
+shuffleup 957210642  2  2 Bk  bc    rc    c         2005  220  440 Jh 4s
+shuffleup 957210665  2  1 Bf  -     -     -         2225   10    0 
+shuffleup 957210676  2  2 Bk  k     k     k         2215   20   40 8h Qs
+shuffleup 957210690  2  1 Bc  k     k     k         2235   20   40 Qd 5d
+shuffleup 957210709  3  2 Bk  kf    -     -         2255   20    0 
+shuffleup 957210745  3  1 Bf  -     -     -         2235   10    0 
+shuffleup 957210777  3  3 c   k     f     -         2225   20    0 
+shuffleup 957210820  3  2 Bk  b     b     b         2205  120  260 Jc 5c
+shuffleup 957210857  3  1 Br  b     -     -         2345   60  140 
+shuffleup 957210903  3  3 r   rr    rc    c         2425  280    0 Ac Kc
+shuffleup 957210939  3  2 Br  b     -     -         2145   60  100 
+shuffleup 957210960  3  1 Bc  b     bc    kc        2185  160  340 8s Jc
+shuffleup 957210990  4  3 r   -     -     -         2365   40   70 
+shuffleup 957211004  4  2 Bk  b     bc    c         2395  200  300 5d 4h
+shuffleup 957211039  4  1 BfQ -     -     -         2495   10    0 
+shuffleup 957216112  8  6 f   -     -     -         2485    0    0 
+shuffleup 957216146  8  5 f   -     -     -         2485    0    0 
+shuffleup 957216214  7  4 f   -     -     -         2485    0    0 
+shuffleup 957216247  7  3 f   -     -     -         2485    0    0 
+shuffleup 957216277  7  2 Bf  -     -     -         2485   20    0 
+shuffleup 957216297  7  1 Bf  -     -     -         2465   10    0 
+shuffleup 957216322  7  7 r   rc    c     c         2455  200    0 Ad Qh
+shuffleup 957216382  7  6 r   k     r     b         2255  220  510 As Qs
+shuffleup 957216500  7  5 c   k     k     k         2545   20    0 7c 8c
+shuffleup 957216563  7  4 f   -     -     -         2525    0    0 
+shuffleup 957216596  7  3 f   -     -     -         2525    0    0 
+shuffleup 957216627  8  2 Br  c     kc    kc        2525  200    0 9s 9d
+shuffleup 957216710  8  1 Br  b     bc    kf        2325  140    0 
+shuffleup 957216779  8  8 f   -     -     -         2185    0    0 
+shuffleup 957216845  7  6 c   r     b     b         2185  160  430 7h 8d
+shuffleup 957216901  7  5 cc  rc    c     c         2455  180    0 8s 9h
+shuffleup 957216958  7  4 f   -     -     -         2275    0    0 
+shuffleup 957216998  7  3 f   -     -     -         2275    0    0 
+shuffleup 957217053  8  2 Bk  kf    -     -         2275   20    0 
+shuffleup 957217142  9  1 Bc  kc    kr    b         2255  180  400 As Js
+shuffleup 957217202  9  9 f   -     -     -         2475    0    0 
+shuffleup 957217283  9  8 f   -     -     -         2475    0    0 
+shuffleup 957217337 10  8 f   -     -     -         2475    0    0 
+shuffleup 957217442 10  7 f   -     -     -         2475    0    0 
+shuffleup 957217536 10  6 f   -     -     -         2475    0    0 
+shuffleup 957217597 10  5 f   -     -     -         2475    0    0 
+shuffleup 957217721 10  4 f   -     -     -         2475    0    0 
+shuffleup 957217821 10  3 f   -     -     -         2475    0    0 
+shuffleup 957217880 10  2 Bk  kf    -     -         2475   20    0 
+shuffleup 957217971 10  1 Bf  -     -     -         2455   10    0 
+shuffleup 957218014 10 10 f   -     -     -         2445    0    0 
+shuffleup 957218066 10  9 f   -     -     -         2445    0    0 
+shuffleup 957218096 10  8 c   b     bc    kc        2445  180    0 Th Qh
+shuffleup 957218228 10  7 f   -     -     -         2265    0    0 
+shuffleup 957218285 10  6 c   cc    k     b         2265  100    0 Jd As
+shuffleup 957218449 10  5 f   -     -     -         2165    0    0 
+shuffleup 957218497 10  4 f   -     -     -         2165    0    0 
+shuffleup 957218535 10  3 f   -     -     -         2165    0    0 
+shuffleup 957218659 10  2 Bk  k     k     b         2165   60    0 3s 5h
+shuffleup 957218752 10  1 Br  b     k     k         2105   60    0 Tc Ac
+shuffleup 957218860  9  9 f   -     -     -         2045    0    0 
+shuffleup 957218887  9  9 f   Q     -     -         2045    0    0 
+shuffleup 957294590  2  1 Bc  b     b     b         2045  120    0 3d Kh
+shuffleup 957294624  2  2 B   -     -     -         1925   20   30 
+shuffleup 957294631  2  1 Bf  -     -     -         1935   10    0 
+shuffleup 957294636  2  2 B   -     -     -         1925   20   30 
+shuffleup 957294638  2  1 Bf  -     -     -         1935   10    0 
+shuffleup 957294640  2  2 Bk  k     k     k         1925   20    0 7h 9s
+shuffleup 957294650  2  1 Bf  -     -     -         1905   10    0 
+shuffleup 957294657  2  2 Bf  -     -     -         1895   20    0 
+shuffleup 957294659  2  1 Bf  -     -     -         1875   10    0 
+shuffleup 957294661  2  2 B   -     -     -         1865   20   30 
+shuffleup 957294663  2  1 Bf  -     -     -         1875   10    0 
+shuffleup 957294664  2  2 Bf  -     -     -         1865   20    0 
+shuffleup 957294667  2  1 Bf  -     -     -         1845   10    0 
+shuffleup 957294670  2  2 Bc  f     -     -         1835   40    0 
+shuffleup 957294678  2  1 Bf  -     -     -         1795   10    0 
+shuffleup 957294680  2  2 B   -     -     -         1785   20   30 
+shuffleup 957294683  2  1 Bf  -     -     -         1795   10    0 
+shuffleup 957294684  2  2 Bf  -     -     -         1785   20    0 
+shuffleup 957294690  2  1 Bf  -     -     -         1765   10    0 
+shuffleup 957294694  2  2 Bf  -     -     -         1755   20    0 
+shuffleup 957294698  2  1 Bc  kc    b     -         1735   80  120 
+shuffleup 957294711  2  2 Bc  b     r     -         1775  140  240 
+shuffleup 957294725  2  1 Bf  -     -     -         1875   10    0 
+shuffleup 957294728  2  2 B   -     -     -         1865   20   30 
+shuffleup 957294730  2  1 Bc  kf    -     -         1875   20    0 
+shuffleup 957294742  2  2 Bf  -     -     -         1855   20    0 
+shuffleup 957294744  2  1 Bf  -     -     -         1835   10    0 
+shuffleup 957294745  2  2 B   -     -     -         1825   20   30 
+shuffleup 957294747  2  1 Bf  -     -     -         1835   10    0 
+shuffleup 957294749  2  2 B   -     -     -         1825   20   30 
+shuffleup 957294751  2  1 Bf  -     -     -         1835   10    0 
+shuffleup 957294753  2  2 B   -     -     -         1825   20   30 
+shuffleup 957294755  2  1 Bf  -     -     -         1835   10    0 
+shuffleup 957294760  2  2 B   -     -     -         1825   20   30 
+shuffleup 957294763  2  1 Bc  k     k     kf        1835   20    0 
+shuffleup 957294785  2  2 Bf  -     -     -         1815   20    0 
+shuffleup 957294787  2  1 Bcc kc    kc    kc        1795  140  280 8s 8h
+shuffleup 957294805  2  2 Bk  c     k     k         1935   40    0 8d 4s
+shuffleup 957294836  2  1 Bf  -     -     -         1895   10    0 
+shuffleup 957294851  2  2 Bf  -     -     -         1885   20    0 
+shuffleup 957294853  2  1 Bcc kc    kc    b         1865  140  240 
+shuffleup 957294873  2  2 Bk  c     c     b         1965  120    0 Qd 6d
+shuffleup 957294892  2  1 Bf  -     -     -         1845   10    0 
+shuffleup 957294897  2  2 Bf  -     -     -         1835   20    0 
+shuffleup 957294898  2  1 Bf  -     -     -         1815   10    0 
+shuffleup 957294902  2  2 Bf  -     -     -         1805   20    0 
+shuffleup 957294904  2  1 Bc  k     b     b         1785  100  160 
+shuffleup 957294920  2  2 B   -     -     -         1845   20   30 
+shuffleup 957294922  2  1 Bf  -     -     -         1855   10    0 
+shuffleup 957294927  2  2 Bf  -     -     -         1845   20    0 
+shuffleup 957294931  2  1 Bf  -     -     -         1825   10    0 
+shuffleup 957294933  2  2 Bf  -     -     -         1815   20    0 
+shuffleup 957294936  2  1 Br  b     b     b         1795  140  240 
+shuffleup 957294948  2  2 Br  b     -     -         1895   60  100 
+shuffleup 957294963  2  1 Bf  -     -     -         1935   10    0 
+shuffleup 957294969  2  2 Bf  -     -     -         1925   20    0 
+shuffleup 957294971  2  1 Bf  -     -     -         1905   10    0 
+shuffleup 957294972  2  2 B   -     -     -         1895   20   30 
+shuffleup 957294973  2  1 Bc  k     kf    -         1905   20    0 
+shuffleup 957294985  2  2 Bk  f     -     -         1885   20    0 
+shuffleup 957294993  2  1 Bf  -     -     -         1865   10    0 
+shuffleup 957294999  2  2 B   -     -     -         1855   20   30 
+shuffleup 957295001  2  1 Bc  kc    kc    k         1865   80    0 Kh Qd
+shuffleup 957295022  2  2 B   -     -     -         1785   20   30 
+shuffleup 957295027  2  1 Bc  b     -     -         1795   40   60 
+shuffleup 957295033  2  2 Bf  -     -     -         1815   20    0 
+shuffleup 957295038  2  1 Bc  bf    -     -         1795   40    0 
+shuffleup 957295053  2  2 B   -     -     -         1755   20   30 
+shuffleup 957295056  2  1 Bf  -     -     -         1765   10    0 
+shuffleup 957295058  2  2 Bc  c     c     c         1755  140    0 Ah 4c
+shuffleup 957295072  2  1 Bf  -     -     -         1615   10    0 
+shuffleup 957295077  2  2 B   -     -     -         1605   20   30 
+shuffleup 957295079  2  1 Bc  k     k     k         1615   20   40 Js Qc
+shuffleup 957295091  2  2 Bk  k     k     k         1635   20   40 8h 2s
+shuffleup 957295108  2  1 Bf  -     -     -         1655   10    0 
+shuffleup 957295113  2  2 B   -     -     -         1645   20   30 
+shuffleup 957295115  2  1 Bf  -     -     -         1655   10    0 
+shuffleup 957295119  2  2 B   -     -     -         1645   20   30 
+shuffleup 957295121  2  1 Bc  kf    -     -         1655   20    0 
+shuffleup 957295129  2  2 Bf  -     -     -         1635   20    0 
+shuffleup 957295132  2  1 Bf  -     -     -         1615   10    0 
+shuffleup 957295134  2  2 Bc  b     -     -         1605   60  100 
+shuffleup 957295145  2  1 Bf  -     -     -         1645   10    0 
+shuffleup 957295148  2  2 B   -     -     -         1635   20   30 
+shuffleup 957295152  2  1 Bf  -     -     -         1645   10    0 
+shuffleup 957295154  2  2 B   -     -     -         1635   20   30 
+shuffleup 957295155  2  1 Bf  -     -     -         1645   10    0 
+shuffleup 957295157  2  2 Bf  -     -     -         1635   20    0 
+shuffleup 957295160  2  1 Bf  -     -     -         1615   10    0 
+shuffleup 957295164  2  2 Bf  -     -     -         1605   20    0 
+shuffleup 957295168  2  1 Bf  -     -     -         1585   10    0 
+shuffleup 957295188  2  2 Bc  c     c     f         1575  100    0 
+shuffleup 957295202  2  1 Bc  k     k     k         1475   20    0 5h Ad
+shuffleup 957295215  2  2 Bc  k     b     -         1455   80  120 
+shuffleup 957295232  2  1 Bf  -     -     -         1495   10    0 
+shuffleup 957295236  2  2 Br  b     -     -         1485   60  100 
+shuffleup 957295266  2  1 Br  b     -     -         1525   60  100 
+shuffleup 957295284  2  2 Br  b     -     -         1565   80  140 
+shuffleup 957295314  3  1 Bc  k     b     -         1625   60   80 
+shuffleup 957295334  3  3 f   -     -     -         1645    0    0 
+shuffleup 957295343  2  2 Bk  k     k     k         1645   20    0 Kc 6d
+shuffleup 957295367  2  1 Bcc kc    k     kc        1625  100    0 Kd 9s
+shuffleup 957295393  2  2 B   -     -     -         1525   20   30 
+shuffleup 957295399  2  1 Bcc kc    kc    k         1535  100    0 9h Ad
+shuffleup 957295432  2  2 Bf  -     -     -         1435   20    0 
+shuffleup 957295438  2  1 Br  -     -     -         1415   40   60 
+shuffleup 957295444  2  2 B   -     -     -         1435   20   30 
+shuffleup 957295447  2  1 Bf  -     -     -         1445   10    0 
+shuffleup 957295450  2  2 Bk  b     -     -         1435   40   60 
+shuffleup 957295464  2  1 Br  kc    kc    k         1455  100  200 Tc Ts
+shuffleup 957295491  2  2 Bf  -     -     -         1555   20    0 
+shuffleup 957295502  3  1 Bf  -     -     -         1535   10    0 
+shuffleup 957295506  3  3 f   -     -     -         1525    0    0 
+shuffleup 957295517  3  2 Br  b     b     -         1525  100  170 
+shuffleup 957295534  3  1 Bf  -     -     -         1595   10    0 
+shuffleup 957295556  3  3 c   c     b     -         1585   80  130 
+shuffleup 957295582  4  3 r   -     -     -         1635   40   70 
+shuffleup 957295590  4  2 Bk  kf    -     -         1665   20    0 
+shuffleup 957295612  4  1 Bc  k     k     b         1645   80  140 
+shuffleup 957295639  4  4 f   -     -     -         1705    0    0 
+shuffleup 957295657  4  3 cc  f     -     -         1705   40    0 
+shuffleup 957295690  5  3 f   -     -     -         1665    0    0 
+shuffleup 957295705  5  2 Bf  -     -     -         1665   20    0 
+shuffleup 957295743  5  1 Bf  -     -     -         1645   10    0 
+shuffleup 957295757  5  5 f   -     -     -         1635    0    0 
+shuffleup 957295766  5  4 f   -     -     -         1635    0    0 
+shuffleup 957295793  5  3 c   c     k     f         1635   40    0 
+shuffleup 957295824  5  2 Bc  kc    kc    kf        1595  100    0 
+shuffleup 957295853  5  1 Bf  -     -     -         1495   10    0 
+shuffleup 957295879  5  5 f   -     -     -         1485    0    0 
+shuffleup 957295888  5  4 f   -     -     -         1485    0    0 
+shuffleup 957295922  6  4 f   -     -     -         1485    0    0 
+shuffleup 957295971  6  3 f   -     -     -         1485    0    0 
+shuffleup 957295992  7  3 cc  bc    b     k         1485  120  290 Kh Jc
+shuffleup 957296040  8  3 f   -     -     -         1655    0    0 
+shuffleup 957296075  7  2 Bf  -     -     -         1655   20    0 
+shuffleup 957296109  8  1 Bf  -     -     -         1635   10    0 
+shuffleup 957296147  7  7 f   -     -     -         1625    0    0 
+shuffleup 957296172  7  6 f   -     -     -         1625    0    0 
+shuffleup 957296201  6  4 f   -     -     -         1625    0    0 
+shuffleup 957296221  6  3 f   -     -     -         1625    0    0 
+shuffleup 957296250  6  2 Bk  kf    -     -         1625   20    0 
+shuffleup 957296325  7  1 Bf  -     -     -         1605   10    0 
+shuffleup 957296347  7  7 c   f     -     -         1595   20    0 
+shuffleup 957296372  7  6 f   -     -     -         1575    0    0 
+shuffleup 957296410  7  5 f   -     -     -         1575    0    0 
+shuffleup 957296436  7  4 f   -     -     -         1575    0    0 
+shuffleup 957296471  7  3 f   -     -     -         1575    0    0 
+shuffleup 957296514  7  2 Bc  kc    kc    k         1575  100    0 Jd Ks
+shuffleup 957296570  7  1 Bf  -     -     -         1475   10    0 
+shuffleup 957296614  7  7 f   -     -     -         1465    0    0 
+shuffleup 957296648  7  6 f   -     -     -         1465    0    0 
+shuffleup 957296711  7  5 f   -     -     -         1465    0    0 
+shuffleup 957296781  7  4 f   -     -     -         1465    0    0 
+shuffleup 957296817  7  4 f   -     -     -         1465    0    0 
+shuffleup 957296849  6  2 Br  b     -     -         1465   80  200 
+shuffleup 957296876  6  1 Bf  -     -     -         1585   10    0 
+shuffleup 957296884  6  6 r   b     b     -         1575  100  190 
+shuffleup 957296924  6  5 c   rc    b     -         1665  120  230 
+shuffleup 957296953  6  4 f   -     -     -         1775    0    0 
+shuffleup 957296982  6  3 f   -     -     -         1775    0    0 
+shuffleup 957297024  6  2 Bf  -     -     -         1775   20    0 
+shuffleup 957297103  6  1 Bf  -     -     -         1755   10    0 
+shuffleup 957297184  6  6 c   c     rr    br        1745  360 1040 2d 2h
+shuffleup 957297259  6  5 f   -     -     -         2425    0    0 
+shuffleup 957297293  5  3 cc  kc    k     k         2425   60  170 Jh Jc
+shuffleup 957297352  4  1 Bk  kc    kc    kf        2535   80    0 
+shuffleup 957297393  4  1 Bcc bc    k     k         2455   80  160 9h Th
+shuffleup 957297431  4  4 r   -     -     -         2535   40   70 
+shuffleup 957297440  3  2 Bf  -     -     -         2565   20    0 
+shuffleup 957297444  3  1 Bf  -     -     -         2545   10    0 
+shuffleup 957297453  3  3 rc  c     c     c         2535  160    0 8c Kc
+shuffleup 957297470  3  2 Bf  -     -     -         2375   20    0 
+shuffleup 957297480  3  1 BQ  -     -     -         2355   10    0 
+shuffleup 957389926 10  8 f   -     -     -         2345    0    0 
+shuffleup 957390017 10  7 f   -     -     -         2345    0    0 
+shuffleup 957390068 10  6 f   -     -     -         2345    0    0 
+shuffleup 957390111 10  5 c   f     -     -         2345   20    0 
+shuffleup 957390149 10  4 f   -     -     -         2325    0    0 
+shuffleup 957390228 10  3 f   -     -     -         2325    0    0 
+shuffleup 957390286 10  2 Bf  -     -     -         2325   20    0 
+shuffleup 957390369 10  1 Bf  -     -     -         2305   10    0 
+shuffleup 957390451 10 10 f   -     -     -         2295    0    0 
+shuffleup 957390516  9  8 f   -     -     -         2295    0    0 
+shuffleup 957390579 10  8 f   -     -     -         2295    0    0 
+shuffleup 957390653  7  4 f   -     -     -         2295    0    0 
+shuffleup 957390711  8  3 f   -     -     -         2295    0    0 
+shuffleup 957390784  8  2 Bc  k     f     -         2295   60    0 
+shuffleup 957390867  9  1 Bf  -     -     -         2235   10    0 
+shuffleup 957390904  9  9 f   -     -     -         2225    0    0 
+shuffleup 957390942 10  9 f   -     -     -         2225    0    0 
+shuffleup 957391008 10  8 f   -     -     -         2225    0    0 
+shuffleup 957391059 10  7 r   b     b     b         2225  140  350 Qs Qc
+shuffleup 957391126  9  5 f   -     -     -         2435    0    0 
+shuffleup 957391194  9  4 f   -     -     -         2435    0    0 
+shuffleup 957391243  9  3 f   -     -     -         2435    0    0 
+shuffleup 957391338 10  2 BKQ -     -     -         2435   20    0 
+shuffleup 957391852 10  7 f   -     -     -         2415    0    0 
+shuffleup 957391893  9  5 c   f     -     -         2415   20    0 
+shuffleup 957391959  9  5 f   -     -     -         2395    0    0 
+shuffleup 957392055  9  4 c   c     c     f         2395   80    0 
+shuffleup 957392122 10  3 f   -     -     -         2315    0    0 
+shuffleup 957392162 10  2 Bf  -     -     -         2315   20    0 
+shuffleup 957392256 10  1 Bc  b     b     -         2295  100  240 
+shuffleup 957392324  9  9 f   -     -     -         2435    0    0 
+shuffleup 957392362  9  8 c   Q     -     -         2435   20    0 
+shuffleup 957394566  8  6 f   -     -     -         2415    0    0 
+shuffleup 957394587  8  5 f   -     -     -         2415    0    0 
+shuffleup 957394619  8  4 f   -     -     -         2415    0    0 
+shuffleup 957394667  8  3 f   -     -     -         2415    0    0 
+shuffleup 957394720  8  2 Bf  -     -     -         2415   20    0 
+shuffleup 957394769  8  1 Bf  -     -     -         2395   10    0 
+shuffleup 957394826  8  8 r   b     b     b         2385  140  330 Tc Td
+shuffleup 957394866  9  7 c   f     -     -         2575   20    0 
+shuffleup 957394894  9  6 f   -     -     -         2555    0    0 
+shuffleup 957394948  8  4 f   -     -     -         2555    0    0 
+shuffleup 957394996  8  3 f   -     -     -         2555    0    0 
+shuffleup 957395058  8  2 Bk  KQ    -     -         2555   20    0 
+shuffleup 957395137  9  9 f   -     -     -         2535    0    0 
+shuffleup 957395172 10  9 f   -     -     -         2535    0    0 
+shuffleup 957395200 10  8 r   bc    c     c         2535  160    0 5c Ad
+shuffleup 957395229  9  6 f   -     -     -         2375    0    0 
+shuffleup 957395267 10  6 f   -     -     -         2375    0    0 
+shuffleup 957395303 10  5 c   f     -     -         2375   20    0 
+shuffleup 957395366 10  4 f   -     -     -         2355    0    0 
+shuffleup 957395397 10  3 f   -     -     -         2355    0    0 
+shuffleup 957395450 10  2 Bk  kf    -     -         2355   20    0 
+shuffleup 957395500 10  1 Bc  kf    -     -         2335   40    0 
+shuffleup 957395554 10 10 f   -     -     -         2295    0    0 
+shuffleup 957395610 10  9 f   -     -     -         2295    0    0 
+shuffleup 957395667  9  7 f   -     -     -         2295    0    0 
+shuffleup 957395691  9  6 f   -     -     -         2295    0    0 
+shuffleup 957395727  9  5 f   -     -     -         2295    0    0 
+shuffleup 957395761  9  4 f   -     -     -         2295    0    0 
+shuffleup 957395792  9  3 f   -     -     -         2295    0    0 
+shuffleup 957395820  9  2 Bk  k     kf    -         2295   20    0 
+shuffleup 957395895  9  1 Bf  -     -     -         2275   10    0 
+shuffleup 957395936  9  9 KQ  -     -     -         2265    0    0 
+shuffleup 957396026 10  2 Brc b     b     b         2265  180  510 Kd Td
+shuffleup 957396082  9  1 Bc  k     k     kf        2595   20    0 
+shuffleup 957396145  9  9 rc  c     c     c         2575  160    0 8c 8h
+shuffleup 957396186  9  8 r   b     k     k         2415   60    0 Ks Qc
+shuffleup 957396230  9  7 f   -     -     -         2355    0    0 
+shuffleup 957396275  9  6 f   -     -     -         2355    0    0 
+shuffleup 957396321  9  5 f   -     -     -         2355    0    0 
+shuffleup 957396371  9  4 f   -     -     -         2355    0    0 
+shuffleup 957396429  9  3 f   -     -     -         2355    0    0 
+shuffleup 957396478  9  2 Bk  cc    kc    kQ        2355  100    0 
+shuffleup 957408618  6  3 f   -     -     -         2255    0    0 
+shuffleup 957408665  6  2 Bf  -     -     -         2255   20    0 
+shuffleup 957408697  6  1 Bf  -     -     -         2235   10    0 
+shuffleup 957408754  6  6 f   -     -     -         2225    0    0 
+shuffleup 957408787  6  5 f   -     -     -         2225    0    0 
+shuffleup 957408823  7  4 f   -     -     -         2225    0    0 
+shuffleup 957408873  7  3 f   -     -     -         2225    0    0 
+shuffleup 957408936  7  2 Bk  k     kc    kf        2225   60    0 
+shuffleup 957409024  7  1 Bf  -     -     -         2165   10    0 
+shuffleup 957409053  7  7 c   k     k     k         2155   20    0 9c 8c
+shuffleup 957409111  7  6 f   -     -     -         2135    0    0 
+shuffleup 957409138  7  5 f   -     -     -         2135    0    0 
+shuffleup 957409177  7  4 f   -     -     -         2135    0    0 
+shuffleup 957409210  7  3 c   b     b     k         2135   80    0 Js Ah
+shuffleup 957409292  7  2 Bf  -     -     -         2055   20    0 
+shuffleup 957409328  6  1 Bf  -     -     -         2035   10    0 
+shuffleup 957409370  6  6 f   -     -     -         2025    0    0 
+shuffleup 957409422  6  5 f   -     -     -         2025    0    0 
+shuffleup 957409485  6  4 f   -     -     -         2025    0    0 
+shuffleup 957409597  5  2 B   -     -     -         2025   20   30 
+shuffleup 957409605  5  1 Bf  -     -     -         2035   10    0 
+shuffleup 957409649  5  5 f   -     -     -         2025    0    0 
+shuffleup 957409659  5  4 f   -     -     -         2025    0    0 
+shuffleup 957409689  5  3 c   k     b     -         2025   60  100 
+shuffleup 957409731  5  2 Br  b     -     -         2065   60  160 
+shuffleup 957409758  5  1 Bf  -     -     -         2165   10    0 
+shuffleup 957409799  5  5 f   -     -     -         2155    0    0 
+shuffleup 957409832  5  4 f   -     -     -         2155    0    0 
+shuffleup 957409880  5  3 f   -     -     -         2155    0    0 
+shuffleup 957409891  5  2 B   -     -     -         2155   20   30 
+shuffleup 957409924  4  1 Bf  -     -     -         2165   10    0 
+shuffleup 957409950  4  4 c   b     -     -         2155   40   70 
+shuffleup 957409975  4  3 f   -     -     -         2185    0    0 
+shuffleup 957409998  4  2 Bk  b     -     -         2185   40   60 
+shuffleup 957410039  5  1 Br  b     b     b         2205  140  260 
+shuffleup 957410070  7  7 f   -     -     -         2325    0    0 
+shuffleup 957410132  7  6 f   -     -     -         2325    0    0 
+shuffleup 957410186  7  5 f   -     -     -         2325    0    0 
+shuffleup 957410243  7  4 f   -     -     -         2325    0    0 
+shuffleup 957410275  7  3 f   -     -     -         2325    0    0 
+shuffleup 957410348  7  2 Bk  kf    -     -         2325   20    0 
+shuffleup 957410444  7  1 Bc  kfQ   -     -         2305   20    0 
+shuffleup 957474753 10  8 f   -     -     -         2285    0    0 
+shuffleup 957474789 10  7 f   -     -     -         2285    0    0 
+shuffleup 957474828 10  6 c   f     -     -         2285   20    0 
+shuffleup 957474858 10  5 r   b     b     b         2265  140    0 Kh Ah
+shuffleup 957474914 10  4 cc  kc    kf    -         2125   60    0 
+shuffleup 957475046  9  2 f   -     -     -         2065    0    0 
+shuffleup 957475104 10  2 Bk  k     f     -         2065   20    0 
+shuffleup 957475186 10  1 BfQ -     -     -         2045   10    0 

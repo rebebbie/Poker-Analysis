@@ -1,0 +1,199 @@
+StuHunger 958946744  9  8 f   -     -     -         2085    0    0 
+StuHunger 958946795  9  7 f   -     -     -         2085    0    0 
+StuHunger 958946879  8  5 f   -     -     -         2085    0    0 
+StuHunger 958946912  8  4 r   f     -     -         2085   40    0 
+StuHunger 958946977  8  3 f   -     -     -         2045    0    0 
+StuHunger 958947038 10  3 f   -     -     -         2045    0    0 
+StuHunger 958947099 10  2 Bk  k     b     -         2045   60  140 
+StuHunger 958947160 10  1 Bf  -     -     -         2125   10    0 
+StuHunger 958947175 10 10 f   -     -     -         2115    0    0 
+StuHunger 958947247 10  9 f   -     -     -         2115    0    0 
+StuHunger 958947275 10  8 f   -     -     -         2115    0    0 
+StuHunger 958947344 10  7 r   bc    c     k         2115  120  520 Qd Qc
+StuHunger 958947442 10  6 f   -     -     -         2515    0    0 
+StuHunger 958947477 10  5 f   -     -     -         2515    0    0 
+StuHunger 958947527 10  4 f   -     -     -         2515    0    0 
+StuHunger 958947568 10  3 f   -     -     -         2515    0    0 
+StuHunger 958947624 10  2 Bk  k     f     -         2515   20    0 
+StuHunger 958947669  9  1 Bf  -     -     -         2495   10    0 
+StuHunger 958947711  9  9 r   b     c     c         2485  160    0 Tc Td
+StuHunger 958947772  9  8 r   b     -     -         2325   60  140 
+StuHunger 958947808  9  7 f   -     -     -         2405    0    0 
+StuHunger 958947844  9  6 KQ  -     -     -         2405    0    0 
+StuHunger 958948088 10  4 f   -     -     -         2405    0    0 
+StuHunger 958948122 10  3 f   -     -     -         2405    0    0 
+StuHunger 958948159 10  2 Br  b     -     -         2405   60  150 
+StuHunger 958948228 10  1 Br  b     -     -         2495   60  120 
+StuHunger 958948294 10 10 f   -     -     -         2555    0    0 
+StuHunger 958948340  9  8 f   -     -     -         2555    0    0 
+StuHunger 958948364  7  6 rc  c     bc    c         2555  220    0 Jc Jh
+StuHunger 958948408  7  5 f   -     -     -         2335    0    0 
+StuHunger 958948447  7  4 f   -     -     -         2335    0    0 
+StuHunger 958948463  7  3 f   -     -     -         2335    0    0 
+StuHunger 958948484  7  2 Bc  kf    -     -         2335   40    0 
+StuHunger 958948509  7  1 Bc  b     -     -         2295   40  120 
+StuHunger 958948527  7  7 f   -     -     -         2375    0    0 
+StuHunger 958948541  7  6 c   c     b     b         2375  120    0 Qh Jh
+StuHunger 958948578  7  5 rc  r     b     b         2255  180    0 Td Jc
+StuHunger 958948608  7  4 r   k     rc    c         2075  200  450 Kc Kd
+StuHunger 958948651  7  3 f   -     -     -         2325    0    0 
+StuHunger 958948680  7  2 Bk  b     kf    -         2325   40    0 
+StuHunger 958948732  7  1 Bf  -     -     -         2285   10    0 
+StuHunger 958948808  5  5 f   -     -     -         2275    0    0 
+StuHunger 958949823  9  3 f   -     -     -         2340    0    0 
+StuHunger 958949863  9  2 Brc bc    kf    -         2340  120    0 
+StuHunger 958949901  9  1 Bc  kc    b     kf        2220   80    0 
+StuHunger 958949971 10  9 f   -     -     -         2140    0    0 
+StuHunger 958950001  9  7 c   c     c     bc        2140  180  550 Kh Jh
+StuHunger 958950080  9  7 f   -     -     -         2510    0    0 
+StuHunger 958950133  9  6 f   -     -     -         2510    0    0 
+StuHunger 958950146  9  5 cc  bc    kc    kc        2510  160    0 3d Ad
+StuHunger 958950197  9  4 f   -     -     -         2350    0    0 
+StuHunger 958950248 10  3 f   -     -     -         2350    0    0 
+StuHunger 958950313 10  2 Bk  kf    -     -         2350   20    0 
+StuHunger 958950349 10  1 Bf  -     -     -         2330   10    0 
+StuHunger 958950398 10 10 f   -     -     -         2320    0    0 
+StuHunger 958950443 10  9 f   -     -     -         2320    0    0 
+StuHunger 958950503 10  8 f   -     -     -         2320    0    0 
+StuHunger 958950565 10  7 f   -     -     -         2320    0    0 
+StuHunger 958950626 10  6 f   -     -     -         2320    0    0 
+StuHunger 958950654 10  5 f   -     -     -         2320    0    0 
+StuHunger 958950731 10  4 c   c     bc    f         2320  140    0 
+StuHunger 958950801 10  4 f   -     -     -         2180    0    0 
+StuHunger 958950863 10  2 B   -     -     -         2180   20   30 
+StuHunger 958950883 10  1 Bf  -     -     -         2190   10    0 
+StuHunger 958950925 10 10 f   -     -     -         2180    0    0 
+StuHunger 958950964 10  9 f   -     -     -         2180    0    0 
+StuHunger 958951021 10  8 f   -     -     -         2180    0    0 
+StuHunger 958951115 10  7 f   -     -     -         2180    0    0 
+StuHunger 958951178 10  6 f   -     -     -         2180    0    0 
+StuHunger 958951242 10  5 f   -     -     -         2180    0    0 
+StuHunger 958951262 10  4 f   -     -     -         2180    0    0 
+StuHunger 958951350 10  3 f   -     -     -         2180    0    0 
+StuHunger 958951401 10  2 Bc  kf    -     -         2180   40    0 
+StuHunger 958951449 10  1 Bf  -     -     -         2140   10    0 
+StuHunger 958951487 10 10 r   b     bf    -         2130  100    0 
+StuHunger 958951558 10  9 r   f     -     -         2030   40    0 
+StuHunger 958951609 10  8 f   -     -     -         1990    0    0 
+StuHunger 958951658 10  7 c   b     b     b         1990  120  260 
+StuHunger 958951726 10  6 c   c     c     c         2130  120    0 5s 7s
+StuHunger 958951794 10  5 f   -     -     -         2010    0    0 
+StuHunger 958951838 10  4 f   -     -     -         2010    0    0 
+StuHunger 958951884 10  3 f   -     -     -         2010    0    0 
+StuHunger 958951912 10  2 Bf  -     -     -         2010   20    0 
+StuHunger 958951982 10  1 Bc  b     b     -         1990   80  160 
+StuHunger 958952022 10 10 f   -     -     -         2070    0    0 
+StuHunger 958952057 10  9 f   -     -     -         2070    0    0 
+StuHunger 958952106 10  8 rc  c     c     c         2070  180    0 Ah Qd
+StuHunger 958952164 10  7 f   -     -     -         1890    0    0 
+StuHunger 958952200 10  6 f   -     -     -         1890    0    0 
+StuHunger 958952317 10  5 r   rc    b     k         1890  160    0 Js Jc
+StuHunger 958952417 10  4 f   -     -     -         1730    0    0 
+StuHunger 958952471 10  3 Q   -     -     -         1730    0    0 
+StuHunger 959116668 10  7 f   -     -     -         2090    0    0 
+StuHunger 959116711  9  6 f   -     -     -         2090    0    0 
+StuHunger 959116720  8  5 f   Q     -     -         2090    0    0 
+StuHunger 959117054  7  5 r   b     b     b         2040  140  370 Ac 8c
+StuHunger 959117083  7  4 f   -     -     -         2270    0    0 
+StuHunger 959117107  7  3 f   -     -     -         2270    0    0 
+StuHunger 959117165  7  2 Bf  -     -     -         2270   20    0 
+StuHunger 959117206  7  1 Bc  kf    -     -         2250   20    0 
+StuHunger 959117265  6  6 f   -     -     -         2230    0    0 
+StuHunger 959117286  6  5 f   -     -     -         2230    0    0 
+StuHunger 959117308  6  4 f   -     -     -         2230    0    0 
+StuHunger 959117335  7  3 f   -     -     -         2230    0    0 
+StuHunger 959117368  8  2 Bc  kc    kr    b         2230  180  470 
+StuHunger 959117398  8  1 Bf  -     -     -         2520   10    0 
+StuHunger 959117432  8  8 f   -     -     -         2510    0    0 
+StuHunger 959117454  8  7 f   -     -     -         2510    0    0 
+StuHunger 959117477  9  7 r   f     -     -         2510   40    0 
+StuHunger 959117554  9  6 f   -     -     -         2470    0    0 
+StuHunger 959117586  9  5 ccc c     c     c         2470  180    0 Qc Kd
+StuHunger 959117636  8  3 f   -     -     -         2290    0    0 
+StuHunger 959117681  8  2 Bf  -     -     -         2290   20    0 
+StuHunger 959117714  8  1 Bf  -     -     -         2270   10    0 
+StuHunger 959117751  9  9 f   -     -     -         2260    0    0 
+StuHunger 959117796 10  9 r   r     b     rc        2260  240    0 Ks Ah
+StuHunger 959117828  9  7 r   b     c     f         2020  100    0 
+StuHunger 959117878  9  6 f   -     -     -         1920    0    0 
+StuHunger 959117946  9  5 f   -     -     -         1920    0    0 
+StuHunger 959117992  9  4 f   -     -     -         1920    0    0 
+StuHunger 959118029  9  3 f   -     -     -         1920    0    0 
+StuHunger 959118073  9  2 Bc  kf    -     -         1920   40    0 
+StuHunger 959118106  9  1 Bc  kf    -     -         1880   20    0 
+StuHunger 959118147  9  9 f   -     -     -         1860    0    0 
+StuHunger 959118203 10  9 f   -     -     -         1860    0    0 
+StuHunger 959118250 10  8 f   -     -     -         1860    0    0 
+StuHunger 959118324 10  7 f   -     -     -         1860    0    0 
+StuHunger 959118389 10  6 f   -     -     -         1860    0    0 
+StuHunger 959118500 10  5 f   Q     -     -         1860    0    0 
+StuHunger 959136573 10  8 f   -     -     -         2690    0    0 
+StuHunger 959136645 10  7 f   -     -     -         2690    0    0 
+StuHunger 959136779  9  7 KQ  -     -     -         2690    0    0 
+StuHunger 959138131  9  2 Bk  f     -     -         2680   20    0 
+StuHunger 959138186 10  1 Bf  -     -     -         2650   10    0 
+StuHunger 959138199 10 10 f   -     -     -         2640    0    0 
+StuHunger 959138274 10  9 f   -     -     -         2640    0    0 
+StuHunger 959138307 10  8 f   -     -     -         2640    0    0 
+StuHunger 959138348 10  7 f   -     -     -         2640    0    0 
+StuHunger 959138390 10  6 r   f     -     -         2640   40    0 
+StuHunger 959138479  9  5 rr  b     b     kc        2600  180    0 Qh Qs
+StuHunger 959138541  9  4 f   -     -     -         2420    0    0 
+StuHunger 959138592  9  3 f   -     -     -         2420    0    0 
+StuHunger 959138610  9  2 Bf  -     -     -         2420   20    0 
+StuHunger 959138663  9  1 Bf  -     -     -         2400   10    0 
+StuHunger 959138706  9  9 f   -     -     -         2390    0    0 
+StuHunger 959138760  9  8 f   -     -     -         2390    0    0 
+StuHunger 959138794  9  7 f   -     -     -         2390    0    0 
+StuHunger 959138847 10  6 f   -     -     -         2390    0    0 
+StuHunger 959138945  9  5 fQ  -     -     -         2390    0    0 
+StuHunger 959139419  8  4 f   -     -     -         2615    0    0 
+StuHunger 959139476  8  3 rc  b     b     b         2615  160    0 Ad Jd
+StuHunger 959139506  8  2 Bf  -     -     -         2455   20    0 
+StuHunger 959139579  8  1 Bf  -     -     -         2550   10    0 
+StuHunger 959139656  8  8 f   -     -     -         2540    0    0 
+StuHunger 959139677  9  7 f   -     -     -         2540    0    0 
+StuHunger 959139726 10  6 f   -     -     -         2540    0    0 
+StuHunger 959139763 10  5 c   c     k     k         2540   40    0 6d 8d
+StuHunger 959139842 10  4 f   -     -     -         2500    0    0 
+StuHunger 959139867 10  3 f   -     -     -         2500    0    0 
+StuHunger 959139914 10  2 Br  bf    -     -         2500   60    0 
+StuHunger 959139959 10  1 Br  -     -     -         2440   40   60 
+StuHunger 959139982 10 10 f   -     -     -         2460    0    0 
+StuHunger 959140083  9  8 f   -     -     -         2460    0    0 
+StuHunger 959140149 10  8 rc  f     -     -         2460   60    0 
+StuHunger 959140217 10  7 f   -     -     -         2400    0    0 
+StuHunger 959140246 10  6 r   br    b     b         2400  180  440 Js Kh
+StuHunger 959140339 10  5 f   -     -     -         2660    0    0 
+StuHunger 959140387 10  4 f   -     -     -         2660    0    0 
+StuHunger 959140430 10  3 f   -     -     -         2660    0    0 
+StuHunger 959140501 10  2 Bk  b     b     kc        2660  120    0 6c 7s
+StuHunger 959140582 10  1 Bf  -     -     -         2540   10    0 
+StuHunger 959140627 10 10 f   -     -     -         2530    0    0 
+StuHunger 959140659 10  9 f   -     -     -         2530    0    0 
+StuHunger 959140694 10  8 f   -     -     -         2530    0    0 
+StuHunger 959140752 10  7 r   b     b     c         2530  140    0 Qs Qd
+StuHunger 959140823 10  6 f   -     -     -         2390    0    0 
+StuHunger 959140900 10  5 f   -     -     -         2390    0    0 
+StuHunger 959140976 10  4 rcc kc    b     -         2390  140  430 
+StuHunger 959141037 10  3 f   -     -     -         2680    0    0 
+StuHunger 959141048 10  2 Bk  b     -     -         2680   40   80 
+StuHunger 959141097 10  1 Bf  -     -     -         2720   10    0 
+StuHunger 959141149 10 10 f   -     -     -         2710    0    0 
+StuHunger 959141222 10  9 f   -     -     -         2710    0    0 
+StuHunger 959141261 10  8 f   -     -     -         2710    0    0 
+StuHunger 959141333 10  7 r   b     b     b         2710  140  320 
+StuHunger 959141399 10  6 f   -     -     -         2890    0    0 
+StuHunger 959141433 10  5 f   -     -     -         2890    0    0 
+StuHunger 959141504 10  4 f   -     -     -         2890    0    0 
+StuHunger 959141588 10  3 f   -     -     -         2890    0    0 
+StuHunger 959141660 10  2 Bk  kc    k     k         2890   40    0 7s 9s
+StuHunger 959141733 10  1 Bf  -     -     -         2850   10    0 
+StuHunger 959141756  9  9 f   -     -     -         2840    0    0 
+StuHunger 959141797  9  8 f   -     -     -         2840    0    0 
+StuHunger 959141860 10  8 f   -     -     -         2840    0    0 
+StuHunger 959141896 10  7 f   -     -     -         2840    0    0 
+StuHunger 959141954 10  6 f   -     -     -         2840    0    0 
+StuHunger 959142005 10  5 rc  brc   bc    b         2840  260  550 8c Ac
+StuHunger 959142087 10  4 f   -     -     -         3130    0    0 
+StuHunger 959142174 10  3 Q   -     -     -         3130    0    0 

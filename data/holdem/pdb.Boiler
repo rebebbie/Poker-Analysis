@@ -1,0 +1,553 @@
+Boiler    958878131 10  5 c   rcc   rc    c          700  130    0 As 4s
+Boiler    958878186 10  4 f   -     -     -          560    0    0 
+Boiler    958878241  9  3 f   -     -     -          560    0    0 
+Boiler    958878277  9  2 Bk  b     k     b          560   40  135 3h 3c
+Boiler    958878317  9  1 Bc  kf    -     -          655   10    0 
+Boiler    958878382 10 10 c   c     r     r          645  100  365 Ah 6c
+Boiler    958878453 10  9 c   bf    -     -          910   20    0 
+Boiler    958878508 10  8 c   f     -     -          890   10    0 
+Boiler    958878574  9  6 c   b     -     -          880   20   35 
+Boiler    958878594  9  5 f   -     -     -          895    0    0 
+Boiler    958878652  9  4 cf  -     -     -          895   10    0 
+Boiler    958878716  8  3 c   kc    k     kf         885   20    0 
+Boiler    958878775  8  2 Bf  -     -     -          865   10    0 
+Boiler    958878829  7  1 Bf  -     -     -          855    5    0 
+Boiler    958878883  7  7 f   -     -     -          850    0    0 
+Boiler    958878918  8  7 f   -     -     -          850    0    0 
+Boiler    958878948  8  6 c   f     -     -          850   20    0 
+Boiler    958878986  8  5 f   -     -     -          830    0    0 
+Boiler    958879007  8  4 f   -     -     -          830    0    0 
+Boiler    958879037  8  3 c   br    krr   bc         830  160  380 Tc As
+Boiler    958879112  9  2 Bk  kf    -     -         1050   10    0 
+Boiler    958879191  9  1 Bc  k     b     -         1040   30   60 
+Boiler    958879232  9  9 r   b     r     b         1070   90  205 Ac 7c
+Boiler    958879292  8  7 f   -     -     -         1185    0    0 
+Boiler    958879302  8  6 f   -     -     -         1185    0    0 
+Boiler    958879350  8  5 c   k     k     f         1185   10    0 
+Boiler    958879382  8  4 f   -     -     -         1175    0    0 
+Boiler    958879416  9  3 cf  -     -     -         1175   10    0 
+Boiler    958879463  9  2 Bk  br    b     b         1165   80    0 Qc Jd
+Boiler    958879503  9  1 Bc  k     kf    -         1085   10    0 
+Boiler    958879543  9  9 f   -     -     -         1075    0    0 
+Boiler    958879583 10  9 c   c     f     -         1075   30    0 
+Boiler    958879649 10  8 cc  f     -     -         1045   40    0 
+Boiler    958879703 10  7 f   -     -     -         1005    0    0 
+Boiler    958879745 10  6 f   -     -     -         1005    0    0 
+Boiler    958879775  9  5 f   -     -     -         1005    0    0 
+Boiler    958879819 10  4 f   -     -     -         1005    0    0 
+Boiler    958879875 10  3 cf  -     -     -         1005   10    0 
+Boiler    958879921 10  2 Bf  -     -     -          995   10    0 
+Boiler    958879954  9  1 Brc k     bc    kc         985  120    0 Qd Kh
+Boiler    958880038  9  9 rc  rc    cf    -          865  110    0 
+Boiler    958880090 10  9 cc  f     -     -          755   20    0 
+Boiler    958880124 10  8 f   -     -     -          735    0    0 
+Boiler    958880163  9  7 c   k     b     -          735   30   65 
+Boiler    958880207  9  6 c   f     -     -          770   10    0 
+Boiler    958880244  9  5 cc  cf    -     -          760   30    0 
+Boiler    958880310 10  4 f   -     -     -          730    0    0 
+Boiler    958880326 10  3 f   -     -     -          730    0    0 
+Boiler    958880359 10  2 Bk  k     r     cc         730   90    0 3s Qd
+Boiler    958880427 10  1 Bf  -     -     -          640    5    0 
+Boiler    958880463 10 10 f   -     -     -          635    0    0 
+Boiler    958880502 10  9 c   f     -     -          635   20    0 
+Boiler    958880555 10  8 f   -     -     -          615    0    0 
+Boiler    958880604 10  7 c   f     -     -          615   10    0 
+Boiler    958880653 10  6 c   r     b     b          605   80  300 Ad 7d
+Boiler    958880739  9  5 f   -     -     -          825    0    0 
+Boiler    958880791  9  4 r   br    b     c          825  100  275 Kh Kc
+Boiler    958880847  9  3 f   -     -     -         1000    0    0 
+Boiler    958880880  9  2 Bf  -     -     -         1000   10    0 
+Boiler    958880921 10  1 Bc  bc    kc    kf         990   60    0 
+Boiler    958880970 10 10 r   c     c     f          930   80    0 
+Boiler    958881070 10  9 f   -     -     -          850    0    0 
+Boiler    958881116 10  8 cc  rc    rc    c          850  170  730 4h Ac
+Boiler    958881182  9  7 f   Q     -     -         1410    0    0 
+Boiler    958958637  4  3 f   -     -     -         1010    0    0 
+Boiler    958958668  4  2 Bk  kc    krc   kc        1010  100  110 Qh 4c
+Boiler    958958710  4  1 Bf  -     -     -         1020    5    0 
+Boiler    958958729  4  4 c   f     -     -         1015   10    0 
+Boiler    958958786  4  3 f   -     -     -         1005    0    0 
+Boiler    958958809  4  2 Bk  b     k     b         1005   40   80 
+Boiler    958958839  4  1 Bf  -     -     -         1045    5    0 
+Boiler    958958868  4  4 c   f     -     -         1040   10    0 
+Boiler    958958894  4  3 r   k     b     -         1030   40   75 
+Boiler    958958912  4  2 Bk  kf    -     -         1065   10    0 
+Boiler    958958929  4  1 Bc  kf    -     -         1055   10    0 
+Boiler    958958961  4  4 f   -     -     -         1045    0    0 
+Boiler    958958977  4  3 c   b     k     k         1045   20   50 7h 7s
+Boiler    958959005  4  2 Br  k     b     -         1075   40   70 
+Boiler    958959033  4  1 Bc  k     k     k         1105   10   30 Qh 5h
+Boiler    958959059  4  4 f   -     -     -         1125    0    0 
+Boiler    958959098  4  3 c   kf    -     -         1125   10    0 
+Boiler    958959227  3  1 Bf  -     -     -         1115   10    0 
+Boiler    958959232  3  1 Br  b     -     -         1105   30   50 
+Boiler    958959243  3  3 f   -     -     -         1125    0    0 
+Boiler    958959263  4  3 f   -     -     -         1125    0    0 
+Boiler    958959294  4  2 Bk  k     b     kf        1125   30    0 
+Boiler    958959326  4  1 Bc  kf    -     -         1095   10    0 
+Boiler    958959342  4  4 f   -     -     -         1085    0    0 
+Boiler    958959356  4  3 c   b     -     -         1085   20   40 
+Boiler    958959374  4  2 Bf  -     -     -         1105   10    0 
+Boiler    958959380  4  1 Bf  -     -     -         1095    5    0 
+Boiler    958959398  4  4 r   b     r     b         1090  100  240 Ts As
+Boiler    958959438  4  3 f   -     -     -         1230    0    0 
+Boiler    958959461  4  2 Bc  kc    kf    -         1230   30    0 
+Boiler    958959505  4  1 Bf  -     -     -         1200    5    0 
+Boiler    958959540  5  4 c   k     b     k         1195   30    0 6c 6h
+Boiler    958959578  5  3 f   -     -     -         1165    0    0 
+Boiler    958959596  5  2 Br  b     b     k         1165   60  150 Qs Ac
+Boiler    958959635  5  1 Brc kc    kc    b         1255   80  150 
+Boiler    958959673  5  5 r   b     -     -         1325   30   70 
+Boiler    958959688  5  4 f   -     -     -         1365    0    0 
+Boiler    958959707  5  3 c   kf    -     -         1365   10    0 
+Boiler    958959730  5  2 Bc  k     c     rr        1355  120  300 Tc As
+Boiler    958959774  5  1 Bf  -     -     -         1535    5    0 
+Boiler    958959808  5  5 c   k     b     -         1530   30   55 
+Boiler    958959849  6  5 f   -     -     -         1555    0    0 
+Boiler    958959876  5  4 c   f     -     -         1555   10    0 
+Boiler    958959912  5  3 f   -     -     -         1545    0    0 
+Boiler    958959960  7  2 Bk  k     b     kc        1545   50    0 As 6c
+Boiler    958960006  7  1 Bf  -     -     -         1495    5    0 
+Boiler    958960039  7  7 r   b     k     b         1490   50  170 
+Boiler    958960092  8  7 c   k     k     f         1610   10    0 
+Boiler    958960142  7  7 r   b     k     b         1600   50  120 
+Boiler    958960175  7  5 f   -     -     -         1670    0    0 
+Boiler    958960214  7  4 r   b     b     -         1670   50  110 
+Boiler    958960247  8  3 f   -     -     -         1730    0    0 
+Boiler    958960293  9  2 BfQ -     -     -         1730   10    0 
+Boiler    958960608  9  5 cc  kf    -     -         1720   20    0 
+Boiler    958960655  8  4 f   -     Q     -         1700    0    0 
+Boiler    958960799  8  8 c   k     f     -         1700   10    0 
+Boiler    958960850  8  7 r   b     b     bf        1690   70    0 
+Boiler    958960899  8  6 f   -     -     -         1620    0    0 
+Boiler    958960929  8  6 f   -     -     -         1620    0    0 
+Boiler    958960967  8  5 f   -     -     -         1620    0    0 
+Boiler    958961011  8  4 f   -     -     -         1620    0    0 
+Boiler    958961037  9  3 c   c     b     br        1620  130  550 2d 2c
+Boiler    958961124  9  2 Bc  kf    -     -         2040   20    0 
+Boiler    958961186  9  1 Bf  -     -     -         2020    5    0 
+Boiler    958961237  9  9 c   f     -     -         2015   10    0 
+Boiler    958961344  9  8 c   f     -     -         2005   10    0 
+Boiler    958961423  8  6 cc  cc    kf    -         1995   40    0 
+Boiler    958961553  8  5 c   rc    c     b         1955  100  285 6h 6d
+Boiler    958961634  8  4 f   -     -     -         2140    0    0 
+Boiler    958961677  7  2 Bf  -     Q     -         2140   10    0 
+Boiler    959130441  3  3 f   -     -     -         2020    0    0 
+Boiler    959130448  2  2 Br  -     -     -         2020   20   30 
+Boiler    959130457  2  1 BQ  -     -     -         2030    5    0 
+Boiler    959134403  6  6 c   rc    c     c         1705   80    0 As Qs
+Boiler    959134447  6  5 f   -     -     -         1625    0    0 
+Boiler    959134479  6  4 f   -     -     -         1625    0    0 
+Boiler    959134514  8  3 f   -     -     -         1625    0    0 
+Boiler    959134561  8  2 Bk  kc    kc    brc       1625  120    0 Qc Jh
+Boiler    959134624  9  1 Bc  k     kf    -         1505   10    0 
+Boiler    959134662  9  9 c   r     f     -         1495   30    0 
+Boiler    959134713  9  8 f   -     -     -         1465    0    0 
+Boiler    959134743  9  7 f   -     -     -         1465    0    0 
+Boiler    959134767  8  5 f   -     -     -         1465    0    0 
+Boiler    959134810  8  4 f   -     -     -         1465    0    0 
+Boiler    959134835  9  3 c   f     -     -         1465   10    0 
+Boiler    959134875  9  2 Bf  -     -     -         1455   10    0 
+Boiler    959134911  9  1 Bf  -     -     -         1445    5    0 
+Boiler    959134927  8  8 f   -     -     -         1440    0    0 
+Boiler    959134948  8  7 c   f     -     -         1440   10    0 
+Boiler    959134992  8  6 f   -     -     -         1430    0    0 
+Boiler    959135020  8  5 f   -     -     -         1430    0    0 
+Boiler    959135054  9  5 f   -     -     -         1430    0    0 
+Boiler    959135076  9  4 f   -     -     -         1430    0    0 
+Boiler    959135121  9  3 r   krr   bc    b         1430  120    0 Ac Kc
+Boiler    959135181  9  2 Bf  -     -     -         1310   10    0 
+Boiler    959135224  9  1 Bf  -     -     -         1300    5    0 
+Boiler    959135298  9  9 f   -     -     -         1295    0    0 
+Boiler    959135306  9  8 c   rc    c     r         1295  110    0 Td Qd
+Boiler    959135360 10  8 c   kc    k     kf        1185   20    0 
+Boiler    959135432 10  7 f   -     -     -         1165    0    0 
+Boiler    959135519 10  6 f   -     -     -         1165    0    0 
+Boiler    959135557 10  5 f   -     -     -         1165    0    0 
+Boiler    959135591 10  4 f   -     -     -         1165    0    0 
+Boiler    959135650  9  2 f   -     -     -         1165    0    0 
+Boiler    959135676  9  2 Bf  -     -     -         1165   10    0 
+Boiler    959135722  9  1 Bf  -     -     -         1155    5    0 
+Boiler    959135792 10 10 f   -     -     -         1150    0    0 
+Boiler    959135872 10  9 f   -     -     -         1150    0    0 
+Boiler    959135925 10  8 f   -     -     -         1150    0    0 
+Boiler    959135959 10  7 f   -     -     -         1150    0    0 
+Boiler    959136026 10  6 f   -     -     -         1150    0    0 
+Boiler    959136073 10  5 c   f     -     -         1150   10    0 
+Boiler    959136148 10  4 f   -     -     -         1140    0    0 
+Boiler    959136185 10  3 f   -     -     -         1140    0    0 
+Boiler    959136223 10  2 Bk  b     k     k         1140   20    0 Qh Td
+Boiler    959136256 10  1 Br  b     b     b         1120   70    0 Ks Ah
+Boiler    959136299  9  9 c   f     -     -         1050   10    0 
+Boiler    959136364 10  9 c   k     b     b         1040   50  130 
+Boiler    959136415 10  9 f   -     -     -         1120    0    0 
+Boiler    959136454  9  7 f   -     -     -         1120    0    0 
+Boiler    959136518  9  6 c   rr    k     b         1120   80  235 7h 9h
+Boiler    959136617 10  5 c   r     b     b         1275   80  220 Jh Ac
+Boiler    959136692 10  4 f   -     -     -         1415    0    0 
+Boiler    959136754 10  3 f   -     -     -         1415    0    0 
+Boiler    959136828 10  2 Bk  kf    -     -         1415   10    0 
+Boiler    959136888 10  1 Bf  -     -     -         1405    5    0 
+Boiler    959136909 10 10 c   f     -     -         1400   20    0 
+Boiler    959136947 10  9 f   -     -     -         1380    0    0 
+Boiler    959136991 10  8 f   -     -     -         1380    0    0 
+Boiler    959137039 10  7 f   -     -     -         1380    0    0 
+Boiler    959137107 10  6 f   -     -     -         1380    0    0 
+Boiler    959137148 10  5 c   kf    -     -         1380   10    0 
+Boiler    959137222 10  4 c   r     r     k         1370   70  200 Ts Kh
+Boiler    959137277 10  3 f   -     -     -         1500    0    0 
+Boiler    959137332 10  2 Bk  kf    -     -         1500   10    0 
+Boiler    959137368 10  1 Bf  -     -     -         1490    5    0 
+Boiler    959137428  8  8 f   -     -     -         1485    0    0 
+Boiler    959137472  8  7 f   -     -     -         1485    0    0 
+Boiler    959137495  8  6 c   r     kf    -         1485   30    0 
+Boiler    959137541  8  6 f   -     -     -         1455    0    0 
+Boiler    959137593  8  5 f   -     -     -         1455    0    0 
+Boiler    959137637  8  4 r   b     -     -         1455   30   65 
+Boiler    959137657  8  3 f   -     -     -         1490    0    0 
+Boiler    959137694  8  2 Bc  kf    -     -         1490   30    0 
+Boiler    959137737  7  1 Bf  -     -     -         1460    5    0 
+Boiler    959137757  7  7 c   f     -     -         1455   10    0 
+Boiler    959137784  6  5 f   -     -     -         1445    0    0 
+Boiler    959137812  6  4 cc  kf    -     -         1445   20    0 
+Boiler    959137845  6  3 c   b     -     -         1425   20   50 
+Boiler    959137862  6  2 Bf  -     -     -         1455   10    0 
+Boiler    959137873  6  1 Br  krr   b     b         1445  100  210 Kh Ks
+Boiler    959137907  6  6 f   -     -     -         1555    0    0 
+Boiler    959137931  6  6 c   f     -     -         1555   10    0 
+Boiler    959137957  6  5 f   -     -     -         1545    0    0 
+Boiler    959137976  6  4 f   -     -     -         1545    0    0 
+Boiler    959138022  6  3 f   -     -     -         1545    0    0 
+Boiler    959138044  6  2 Bc  kr    b     -         1545   60  105 
+Boiler    959138065  6  1 Bf  -     -     -         1590    5    0 
+Boiler    959138084  6  6 f   -     -     -         1585    0    0 
+Boiler    959138110  6  5 f   -     -     -         1585    0    0 
+Boiler    959138130  6  4 c   bc    kc    k         1585   50    0 Qc Th
+Boiler    959138167  6  3 c   b     -     -         1535   20   40 
+Boiler    959138187  6  2 Bk  f     -     -         1555   10    0 
+Boiler    959138201  6  1 Bf  -     -     -         1545    5    0 
+Boiler    959138224  6  6 r   -     -     -         1540   20   35 
+Boiler    959138235  6  5 r   r     c     c         1555   80  190 Jc Qd
+Boiler    959138261  6  4 c   kc    kf    -         1665   20    0 
+Boiler    959138319  8  4 f   -     -     -         1645    0    0 
+Boiler    959138341  8  3 f   -     -     -         1645    0    0 
+Boiler    959138387  8  2 Bk  kf    -     -         1645   10    0 
+Boiler    959138442  8  1 Bc  kf    -     -         1635   10    0 
+Boiler    959138471  8  8 f   -     -     -         1625    0    0 
+Boiler    959138492  8  7 f   -     -     -         1625    0    0 
+Boiler    959138518  8  6 c   kf    -     -         1625   10    0 
+Boiler    959138542  8  5 f   -     -     -         1615    0    0 
+Boiler    959138566  8  4 cc  kc    b     -         1615   50  145 
+Boiler    959138601  8  3 cc  c     f     -         1710   30    0 
+Boiler    959138626  8  2 Bf  -     -     -         1680   10    0 
+Boiler    959138648  8  1 Bc  kf    -     -         1670   10    0 
+Boiler    959138694  8  8 c   r     b     k         1660   50  145 As Js
+Boiler    959138743  9  8 f   -     -     -         1755    0    0 
+Boiler    959138787  9  7 f   Q     -     -         1755    0    0 
+Boiler    959650836  3  2 B   -     -     -         1965   10   25 
+Boiler    959651012  3  2 BKQ -     -     -         1980   10    0 
+Boiler    959651108  4  4 r   b     b     -         1970   50  120 
+Boiler    959651145  4  3 f   -     -     -         2040    0    0 
+Boiler    959651191  5  2 Bf  -     -     -         2040   10    0 
+Boiler    959651227  5  1 Bf  -     -     -         2030    5    0 
+Boiler    959651282  5  5 c   b     b     c         2025   60    0 Kc Ah
+Boiler    959651338  7  6 c   k     b     b         1965   50    0 7d Ks
+Boiler    959651404  9  7 c   b     c     c         1915   60    0 Th Jd
+Boiler    959651452  8  5 c   f     -     -         1855   10    0 
+Boiler    959651525  8  5 f   -     -     -         1845    0    0 
+Boiler    959651603  7  3 f   -     -     -         1845    0    0 
+Boiler    959651664  8  3 c   b     -     -         1845   20   55 
+Boiler    959651691  9  2 Bf  -     -     -         1880   10    0 
+Boiler    959651734  9  1 Bf  -     -     -         1870    5    0 
+Boiler    959651772  9  9 f   -     -     -         1865    0    0 
+Boiler    959651819 10  9 f   -     -     -         1865    0    0 
+Boiler    959651902 10  8 f   -     -     -         1865    0    0 
+Boiler    959651949 10  7 f   -     -     -         1865    0    0 
+Boiler    959652032 10  6 c   f     -     -         1865   10    0 
+Boiler    959652135 10  5 c   f     -     -         1855   20    0 
+Boiler    959652183 10  4 f   -     -     -         1835    0    0 
+Boiler    959652268 10  3 cr  kf    -     -         1835   40    0 
+Boiler    959652383 10  2 Bc  kr    kc    kf        1795   70    0 
+Boiler    959652465 10  1 Bc  bc    kcc   kf        1725  110    0 
+Boiler    959652550 10 10 f   -     -     -         1615    0    0 
+Boiler    959652614 10  9 f   -     -     -         1615    0    0 
+Boiler    959652693 10  8 f   -     -     -         1615    0    0 
+Boiler    959652832  8  5 cc  k     bc    kf        1615   60    0 
+Boiler    959652884  7  4 f   -     -     -         1555    0    0 
+Boiler    959652916  7  3 c   k     f     -         1555   10    0 
+Boiler    959652966  8  2 Bk  kr    b     -         1545   50  105 
+Boiler    959653012  7  1 Bc  kf    -     -         1600   10    0 
+Boiler    959653053  8  8 c   c     f     -         1590   20    0 
+Boiler    959653111  6  6 c   cc    c     c         1570   80    0 7h 7d
+Boiler    959653200  9  7 f   -     -     -         1490    0    0 
+Boiler    959653235 10  7 rc  r     kc    kc        1490  100    0 Ks Ad
+Boiler    959653318 10  7 f   -     -     -         1390    0    0 
+Boiler    959653375 10  5 f   -     -     -         1390    0    0 
+Boiler    959653410 10  4 f   -     -     -         1390    0    0 
+Boiler    959653438 10  3 f   -     -     -         1390    0    0 
+Boiler    959653485 10  2 Bf  -     -     -         1390   10    0 
+Boiler    959653523 10  1 Bc  kf    -     -         1380   10    0 
+Boiler    959653579 10 10 r   r     rr    br        1370  180    0 7s 7c
+Boiler    959653666 10  9 f   -     -     -         1190    0    0 
+Boiler    959653723 10  8 c   kc    f     -         1190   30    0 
+Boiler    959653805 10  7 f   -     -     -         1160    0    0 
+Boiler    959653859 10  6 f   -     -     -         1160    0    0 
+Boiler    959653923  9  5 c   c     c     f         1160   50    0 
+Boiler    959654006 10  4 c   cc    f     -         1110   40    0 
+Boiler    959654105  9  3 cc  k     c     r         1070   80  270 6c 7d
+Boiler    959654179  9  2 Bk  k     bf    -         1260   30    0 
+Boiler    959654224  9  1 Br  bc    bc    bf        1230  100    0 
+Boiler    959654313 10 10 c   k     c     b         1130   50  135 5c 4d
+Boiler    959654371 10  9 c   r     bc    rr        1215  150    0 3s Qs
+Boiler    959654458 10  8 f   -     -     -         1065    0    0 
+Boiler    959654511 10  7 c   c     f     -         1065   20    0 
+Boiler    959654566 10  6 r   r     c     c         1045   80    0 8d Ad
+Boiler    959654644 10  5 Q   -     -     -          965    0    0 
+Boiler    959726855  4  4 f   -     -     -          965    0    0 
+Boiler    959726864  4  3 c   b     kc    b          965   60    0 8s 9c
+Boiler    959726889  4  2 Bk  k     f     -          905   10    0 
+Boiler    959726908  4  1 Bf  -     -     -          895    5    0 
+Boiler    959726947  4  4 r   b     -     -          890   30   60 
+Boiler    959726964  4  3 f   -     -     -          920    0    0 
+Boiler    959726984  4  2 Bc  b     k     b          920   50  120 7c Qc
+Boiler    959727003  4  1 Bc  kc    kc    bf         990   60    0 
+Boiler    959727039  5  4 f   -     -     -          930    0    0 
+Boiler    959727056  5  3 f   -     -     -          930    0    0 
+Boiler    959727105  5  2 Bk  kc    b     b          930   60  110 
+Boiler    959727138  5  1 Bf  -     -     -          980    5    0 
+Boiler    959727159  5  5 rc  b     k     f          975   40    0 
+Boiler    959727193  6  5 f   -     -     -          935    0    0 
+Boiler    959727271  7  5 f   -     -     -          935    0    0 
+Boiler    959727304  8  5 f   -     -     -          935    0    0 
+Boiler    959727345  8  4 f   -     -     -          935    0    0 
+Boiler    959727389  8  3 c   kc    kf    -          935   20    0 
+Boiler    959727442 10  2 Bk  kf    -     -          915   10    0 
+Boiler    959727485 10  1 Bc  krr   k     bc         905   90    0 Qd Ac
+Boiler    959727557 10 10 f   -     -     -          815    0    0 
+Boiler    959727636 10  9 c   c     c     c          815   70    0 Kh 7h
+Boiler    959727690 10  3 Q   -     -     -          745    0    0 
+Boiler    959728190  8  7 f   -     -     -          745    0    0 
+Boiler    959728220  8  6 c   b     -     -          745   20   35 
+Boiler    959728244  8  5 f   Q     -     -          760    0    0 
+Boiler    959729318  9  4 f   -     -     -          760    0    0 
+Boiler    959729366  9  3 cc  kc    kc    kf         760   70    0 
+Boiler    959729439  9  2 Bk  k     kf    -          690   10    0 
+Boiler    959729494  9  1 Bc  kf    -     -          680   10    0 
+Boiler    959729575  9  9 f   -     -     -          670    0    0 
+Boiler    959729601  8  8 f   -     -     -          670    0    0 
+Boiler    959729685  7  6 f   -     -     -          670    0    0 
+Boiler    959729717  7  5 f   -     -     -          670    0    0 
+Boiler    959729754  7  4 c   k     k     b          670   30   85 Qh Td
+Boiler    959729798  8  4 c   k     f     -          725   10    0 
+Boiler    959729848  8  3 f   -     -     -          715    0    0 
+Boiler    959729879  8  3 c   b     b     -          715   40  110 
+Boiler    959729993  8  2 Bf  -     -     -          785   10    0 
+Boiler    959730027  8  1 Br  b     b     kc         775   70  230 Ac Ah
+Boiler    959730069  8  8 c   r     r     rr         935  160  405 Qs Td
+Boiler    959730119  8  7 rc  c     c     f         1180  100    0 
+Boiler    959730194  8  3 Q   -     -     -         1080    0    0 
+Boiler    959730839  9  7 f   -     -     -         1080    0    0 
+Boiler    959730941  9  5 c   k     b     k         1080   30  130 7c Qc
+Boiler    959731020 10  5 f   -     -     -         1180    0    0 
+Boiler    959731093 10  4 c   k     c     b         1180   50  135 
+Boiler    959731193  9  3 c   f     -     -         1265   10    0 
+Boiler    959731235  9  2 Bk  kf    -     -         1255   10    0 
+Boiler    959731299  7  1 Bf  -     -     -         1245    5    0 
+Boiler    959731331  6  6 f   -     -     -         1240    0    0 
+Boiler    959731356  7  6 f   -     -     -         1240    0    0 
+Boiler    959731397  7  5 f   -     -     -         1240    0    0 
+Boiler    959731432  7  4 f   -     -     -         1240    0    0 
+Boiler    959731472  7  3 f   -     -     -         1240    0    0 
+Boiler    959731534  7  2 Bf  -     -     -         1240   10    0 
+Boiler    959731631  7  1 Bf  -     -     -         1230    5    0 
+Boiler    959731708  7  7 f   -     -     -         1225    0    0 
+Boiler    959731764  7  6 c   rr    b     kf        1225   80    0 
+Boiler    959731856  7  5 f   -     -     -         1145    0    0 
+Boiler    959731910  7  4 cc  r     kf    -         1145   40    0 
+Boiler    959731965  8  5 f   -     -     -         1105    0    0 
+Boiler    959732022  8  4 f   -     -     -         1105    0    0 
+Boiler    959732046  7  2 Bk  b     b     k         1105   40   45 8c 7s
+Boiler    959732080  7  1 Bf  -     -     -         1110    5    0 
+Boiler    959732110  7  7 f   -     -     -         1105    0    0 
+Boiler    959732181  9  8 f   -     -     -         1105    0    0 
+Boiler    959732262  9  7 f   -     -     -         1105    0    0 
+Boiler    959732338  8  5 c   b     k     k         1105   20   90 5d 7d
+Boiler    959732414  8  4 f   -     -     -         1175    0    0 
+Boiler    959732482  8  3 f   -     -     -         1175    0    0 
+Boiler    959732550  8  2 Bk  kf    -     -         1175   10    0 
+Boiler    959732602  7  1 Bc  kf    -     -         1165   10    0 
+Boiler    959732685  9  9 f   -     -     -         1155    0    0 
+Boiler    959732746  9  8 cc  k     c     c         1155   60    0 Kd 9d
+Boiler    959732844  8  6 cc  rc    c     f         1095   90    0 
+Boiler    959732994  8  5 f   -     -     -         1005    0    0 
+Boiler    959733054  8  4 cc  c     c     c         1005   70  165 8c Ac
+Boiler    959733103  9  4 f   Q     -     -         1100    0    0 
+Boiler    959735338  9  6 f   -     -     -         1100    0    0 
+Boiler    959735400 10  5 f   -     -     -         1100    0    0 
+Boiler    959735435 10  4 c   k     b     b         1100   50  150 
+Boiler    959735494 10  3 f   -     -     -         1200    0    0 
+Boiler    959735555 10  2 Bf  -     -     -         1200   10    0 
+Boiler    959735588 10  1 Bf  -     -     -         1190    5    0 
+Boiler    959735618 10 10 r   b     b     b         1185   70  230 
+Boiler    959735714 10  9 r   f     -     -         1345   30    0 
+Boiler    959735788 10  8 c   f     -     -         1315   10    0 
+Boiler    959735844 10  7 f   -     -     -         1305    0    0 
+Boiler    959735910 10  6 c   k     c     k         1305   30    0 5d 3d
+Boiler    959735985 10  5 f   -     -     -         1275    0    0 
+Boiler    959736031 10  4 f   -     -     -         1275    0    0 
+Boiler    959736086 10  3 f   -     -     -         1275    0    0 
+Boiler    959736189 10  2 Bk  k     k     b         1275   30    0 4h Qh
+Boiler    959736238 10  1 Bc  k     b     br        1245   90  140 Qd Jh
+Boiler    959736337 10 10 f   -     -     -         1295    0    0 
+Boiler    959736418 10  9 c   f     -     -         1295   10    0 
+Boiler    959736525 10  8 f   -     -     -         1285    0    0 
+Boiler    959736566 10  7 f   -     -     -         1285    0    0 
+Boiler    959736661  9  6 r   b     b     -         1285   50  150 
+Boiler    959736739 10  5 cc  rc    c     r         1385  110    0 Qd Kd
+Boiler    959736816 10  4 f   -     -     -         1275    0    0 
+Boiler    959736872 10  3 cc  kf    -     -         1275   20    0 
+Boiler    959736948  9  2 Bf  -     -     -         1255   10    0 
+Boiler    959737009  9  1 Bc  k     kf    -         1245   10    0 
+Boiler    959737089  9  9 f   -     -     -         1235    0    0 
+Boiler    959737129  9  8 c   bc    c     c         1235   70    0 Th Ks
+Boiler    959737207  9  7 f   -     -     -         1165    0    0 
+Boiler    959737278  9  6 f   -     -     -         1165    0    0 
+Boiler    959737362  9  5 f   -     -     -         1165    0    0 
+Boiler    959737405 10  4 c   b     b     b         1165   60    0 Ks Ts
+Boiler    959737449 10  3 c   k     k     k         1105   10    0 Td Qh
+Boiler    959737553 10  2 Bf  -     -     -         1095   10    0 
+Boiler    959737592 10  1 Bf  -     -     -         1085    5    0 
+Boiler    959737646 10 10 f   -     -     -         1080    0    0 
+Boiler    959737738 10  9 f   -     -     -         1080    0    0 
+Boiler    959737808 10  8 c   b     b     b         1080   60  220 Ts Ad
+Boiler    959737866 10  7 f   -     -     -         1240    0    0 
+Boiler    959737927 10  6 f   -     -     -         1240    0    0 
+Boiler    959737989 10  5 f   -     -     -         1240    0    0 
+Boiler    959738021 10  4 cc  c     ccc   f         1240  110    0 
+Boiler    959738092 10  3 f   -     -     -         1130    0    0 
+Boiler    959738145 10  2 Bk  kf    -     -         1130   10    0 
+Boiler    959738181 10  1 Bc  kr    bc    kf        1120   80    0 
+Boiler    959738259 10 10 c   k     k     f         1040   10    0 
+Boiler    959738368 10  9 f   -     -     -         1030    0    0 
+Boiler    959738414 10  8 f   -     -     -         1030    0    0 
+Boiler    959738464 10  7 cc  bc    kc    kf        1030   60    0 
+Boiler    959738548 10  6 r   b     k     b          970   50  150 
+Boiler    959738641 10  5 f   -     -     -         1070    0    0 
+Boiler    959738668 10  4 f   -     -     -         1070    0    0 
+Boiler    959738734 10  3 f   -     -     -         1070    0    0 
+Boiler    959738817 10  2 Bf  -     -     -         1070   10    0 
+Boiler    959738867 10  1 Bf  -     -     -         1060    5    0 
+Boiler    959738945 10 10 c   f     -     -         1055   10    0 
+Boiler    959739009 10  9 f   -     -     -         1045    0    0 
+Boiler    959739064 10  8 c   f     -     -         1045   10    0 
+Boiler    959739105  8  5 f   -     -     -         1035    0    0 
+Boiler    959739148  9  5 cc  krc   bf    -         1035   70    0 
+Boiler    959739229  9  4 f   -     -     -          965    0    0 
+Boiler    959739310 10  4 f   -     -     -          965    0    0 
+Boiler    959739402 10  3 f   -     -     -          965    0    0 
+Boiler    959739469 10  2 Bc  k     kc    kf         965   40    0 
+Boiler    959739557 10  1 Bc  kf    -     -          925   10    0 
+Boiler    959739627 10 10 f   -     -     -          915    0    0 
+Boiler    959739674 10  9 f   -     -     -          915    0    0 
+Boiler    959739752 10  8 f   -     -     -          915    0    0 
+Boiler    959739811 10  7 c   f     -     -          915   10    0 
+Boiler    959739866  8  5 c   f     -     -          905   20    0 
+Boiler    959739931 10  4 c   b     b     kf         885   40    0 
+Boiler    959740009 10  3 c   kc    b     b          845   60  240 
+Boiler    959740093 10  2 Bk  kf    -     -         1025   10    0 
+Boiler    959740178 10  1 Bf  -     -     -         1015    5    0 
+Boiler    959740242 10 10 f   -     -     -         1010    0    0 
+Boiler    959740329 10  9 f   -     -     -         1010    0    0 
+Boiler    959740387 10  8 c   r     b     br        1010  110  345 Qd Qs
+Boiler    959740468 10  7 f   -     -     -         1245    0    0 
+Boiler    959740618 10  6 c   c     k     c         1245   40    0 Th 7h
+Boiler    959740677 10  5 c   kf    -     -         1205   10    0 
+Boiler    959740751 10  4 f   -     -     -         1195    0    0 
+Boiler    959740803 10  3 f   -     -     -         1195    0    0 
+Boiler    959740863 10  2 Bk  k     kf    -         1195   10    0 
+Boiler    959740946 10  1 Bf  -     -     -         1185    5    0 
+Boiler    959740994 10 10 f   -     -     -         1180    0    0 
+Boiler    959741059 10  9 f   -     -     -         1180    0    0 
+Boiler    959741148 10  8 f   -     -     -         1180    0    0 
+Boiler    959741268 10  7 f   -     -     -         1180    0    0 
+Boiler    959741301 10  6 f   -     -     -         1180    0    0 
+Boiler    959741348 10  5 c   kc    bc    f         1180   60    0 
+Boiler    959741411 10  4 r   r     krc   kf        1120  100    0 
+Boiler    959741482 10  3 f   -     -     -         1020    0    0 
+Boiler    959741530 10  2 Bf  -     -     -         1020   10    0 
+Boiler    959741589 10  1 Bc  kc    kc    kr        1010   80  280 Td Kd
+Boiler    959741656 10 10 f   -     -     -         1210    0    0 
+Boiler    959741731 10  9 c   r     c     rr        1210  130  290 9s Ts
+Boiler    959741802 10  8 r   kf    Q     -         1370   20    0 
+Boiler    959745394  9  7 f   -     -     -         1350    0    0 
+Boiler    959745476  9  6 c   f     -     -         1350   10    0 
+Boiler    959745540  9  5 f   -     -     -         1340    0    0 
+Boiler    959745591  9  4 f   -     -     -         1340    0    0 
+Boiler    959745651  9  3 f   -     -     -         1340    0    0 
+Boiler    959745718  9  2 Bk  kc    kc    k         1340   40    0 5s 5d
+Boiler    959745770  9  1 Bf  -     -     -         1300    5    0 
+Boiler    959745824  9  9 f   -     -     -         1295    0    0 
+Boiler    959745885 10  9 f   -     -     -         1295    0    0 
+Boiler    959745984  9  8 r   rc    f     -         1295   50    0 
+Boiler    959746062  9  7 f   -     -     -         1245    0    0 
+Boiler    959746104  9  6 f   -     -     -         1245    0    0 
+Boiler    959746189  9  4 crc b     b     b         1245   90  270 
+Boiler    959746259 10  3 cc  bc    k     k         1425   40  190 Kh 8h
+Boiler    959746346 10  2 Bk  kf    -     -         1575   10    0 
+Boiler    959746411 10  1 Bf  -     -     -         1565    5    0 
+Boiler    959746465 10 10 f   -     -     -         1560    0    0 
+Boiler    959746624 10  9 f   -     -     -         1560    0    0 
+Boiler    959746764  9  7 c   r     k     b         1560   50  150 5h Ah
+Boiler    959746818  9  6 rr  b     kc    kf        1660   70    0 
+Boiler    959746907  8  5 f   -     -     -         1590    0    0 
+Boiler    959746928  8  4 c   kcf   -     -         1590   30    0 
+Boiler    959746987  8  3 c   f     -     -         1560   10    0 
+Boiler    959747030  8  2 Bf  -     -     -         1550   10    0 
+Boiler    959747093  8  1 Bc  kc    kf    -         1540   20    0 
+Boiler    959747165  8  8 c   f     -     -         1520   10    0 
+Boiler    959747223  8  7 f   -     -     -         1510    0    0 
+Boiler    959747275  9  7 c   b     c     f         1510   40    0 
+Boiler    959747345  9  6 c   b     -     -         1470   20   55 
+Boiler    959747388  9  5 cc  kf    -     -         1505   20    0 
+Boiler    959747448  7  3 f   -     -     -         1485    0    0 
+Boiler    959747501  7  2 Bf  -     -     -         1485   10    0 
+Boiler    959747519  7  1 Bc  kf    -     -         1475   10    0 
+Boiler    959747547  7  7 r   k     b     b         1465   70  255 Qh Ad
+Boiler    959747603  7  6 f   -     -     -         1650    0    0 
+Boiler    959747685  7  3 Q   -     -     -         1650    0    0 
+Boiler    959825954 10 10 cc  f     -     -         1650   40    0 
+Boiler    959826007  8  8 c   c     f     -         1610   20    0 
+Boiler    959826059  8  7 f   -     -     -         1590    0    0 
+Boiler    959826092  8  6 cc  f     -     -         1590   20    0 
+Boiler    959826161  8  5 f   -     -     -         1570    0    0 
+Boiler    959826238  8  4 cc  r     r     b         1570  100  335 
+Boiler    959826313  8  3 r   kc    kf    -         1805   40    0 
+Boiler    959826356  8  2 BQ  -     -     -         1765   10    0 
+Boiler    959827367  3  3 rr  rr    r     b         1755  140  290 Kc Ks
+Boiler    959827408  2  1 Bk  kc    k     k         1905   20    0 5h Ah
+Boiler    959827438  2  1 Brc kf    -     -         1885   30    0 
+Boiler    959827461  2  2 B   -     -     -         1855   10   15 
+Boiler    959827464  2  1 Bf  -     -     -         1860    5    0 
+Boiler    959827470  2  2 Bk  k     b     k         1855   30   60 2h 6d
+Boiler    959827493  2  1 Bf  -     -     -         1885    5    0 
+Boiler    959827499  2  2 Br  k     b     -         1880   40   60 
+Boiler    959827567  3  1 Bf  -     -     -         1900    5    0 
+Boiler    959827572  3  3 c   k     r     f         1895   50    0 
+Boiler    959827638  3  2 Bf  -     -     -         1845   10    0 
+Boiler    959827667  3  1 Bf  -     -     -         1835    5    0 
+Boiler    959827708  3  3 f   -     -     -         1830    0    0 
+Boiler    959827713  3  2 Bk  b     -     -         1830   20   30 
+Boiler    959827727  3  1 Bc  kcf   -     -         1840   30    0 
+Boiler    959827777  3  3 c   c     c     b         1810   60  130 Ad Tc
+Boiler    959827825  4  2 Br  b     b     -         1880   50   80 
+Boiler    959827854  5  1 Bc  kc    kf    -         1910   20    0 
+Boiler    959827915  5  5 f   -     -     -         1890    0    0 
+Boiler    959827961  5  4 r   k     b     b         1890   60    0 Ks Qh
+Boiler    959828036  4  2 Bk  kf    -     -         1830   10    0 
+Boiler    959828069  5  1 Bf  -     -     -         1820    5    0 
+Boiler    959828126  5  5 c   c     f     -         1815   30    0 
+Boiler    959828176  5  4 c   b     bc    kr        1785  100    0 9h Tc
+Boiler    959828243  6  4 cc  kc    k     r         1685   70  260 Kc 6h
+Boiler    959828309  6  3 f   -     -     -         1875    0    0 
+Boiler    959828374  6  2 Brc rr    b     k         1875   90    0 3c Qc
+Boiler    959828420  5  1 Bc  kQ    -     -         1785   10    0 

@@ -1,0 +1,671 @@
+DBCooper  957812876  3  2 B   -     -     -         2077   20   30 
+DBCooper  957812877  3  1 Bf  -     -     -         2087   10    0 
+DBCooper  957812882  3  3 f   -     -     -         2077    0    0 
+DBCooper  957812884  3  2 Bc  c     k     k         2077   60  120 Qh Kd
+DBCooper  957812897  3  1 Bc  kc    kf    -         2137   60    0 
+DBCooper  957812910  3  3 r   b     k     k         2077   60  130 Ah Qc
+DBCooper  957812927  3  2 Bf  -     -     -         2147   20    0 
+DBCooper  957812934  3  1 Bf  -     -     -         2127   10    0 
+DBCooper  957812937  3  3 f   -     -     -         2117    0    0 
+DBCooper  957812947  3  2 Bf  -     -     -         2117   20    0 
+DBCooper  957812950  3  1 Bf  -     -     -         2097   10    0 
+DBCooper  957812952  3  3 f   -     -     -         2087    0    0 
+DBCooper  957812954  3  2 Bf  -     -     -         2087   20    0 
+DBCooper  957812963  3  1 Bc  b     -     -         2067   40   60 
+DBCooper  957812976  3  3 f   Q     -     -         2087    0    0 
+DBCooper  957813009  3  2 Bc  k     k     f         2087   40    0 
+DBCooper  957813028  3  1 Bc  b     -     -         2047   40   60 
+DBCooper  957813036  3  3 f   -     -     -         2067    0    0 
+DBCooper  957813039  3  2 Bf  -     -     -         2067   20    0 
+DBCooper  957813049  3  1 Bf  -     -     -         2047   10    0 
+DBCooper  957813066  3  3 f   -     -     -         2037    0    0 
+DBCooper  957813079  3  2 Br  b     k     c         2037  140    0 Ks Ac
+DBCooper  957813103  3  1 Bc  kc    k     b         1897   80  120 
+DBCooper  957813118  3  3 c   b     -     -         1937   40   70 
+DBCooper  957813128  3  2 Bf  -     -     -         1967   20    0 
+DBCooper  957813151  3  1 Bc  kf    -     -         1947   20    0 
+DBCooper  957813166  3  3 f   -     -     -         1927    0    0 
+DBCooper  957813178  3  2 B   -     -     -         1927   20   30 
+DBCooper  957813182  3  1 Bc  kc    kc    kc        1937  140  300 Js Qd
+DBCooper  957813196  3  3 f   -     -     -         2097    0    0 
+DBCooper  957813205  3  2 B   -     -     -         2097   20   30 
+DBCooper  957813207  3  1 Bc  kf    -     -         2107   40    0 
+DBCooper  957813218  3  3 f   -     -     -         2067    0    0 
+DBCooper  957813234  3  2 Bf  -     -     -         2067   20    0 
+DBCooper  957813241  3  1 Bf  -     -     -         2047   10    0 
+DBCooper  957813243  3  3 c   b     -     -         2037   40   70 
+DBCooper  957813256  3  2 Bk  k     bc    c         2067  140    0 Jc 6s
+DBCooper  957813277  3  1 Bcc kc    k     b         1927  100  160 
+DBCooper  957813308  3  3 f   -     -     -         1987    0    0 
+DBCooper  957813313  3  2 B   -     -     -         1987   20   30 
+DBCooper  957813314  3  1 Bc  bf    -     -         1997   40    0 
+DBCooper  957813327  3  3 f   -     -     -         1957    0    0 
+DBCooper  957813329  3  2 Bc  k     bc    c         1957  160    0 Kh 5h
+DBCooper  957813349  3  1 Bf  -     -     -         1797   10    0 
+DBCooper  957813356  3  3 f   -     -     -         1787    0    0 
+DBCooper  957813358  3  2 Bf  -     -     -         1787   20    0 
+DBCooper  957813361  3  1 Bf  -     -     -         1767   10    0 
+DBCooper  957813364  3  3 f   -     -     -         1757    0    0 
+DBCooper  957813366  3  2 Bc  kc    kc    k         1757  100    0 Jd Jh
+DBCooper  957813380  3  1 Bf  -     -     -         1657   10    0 
+DBCooper  957813394  3  3 f   -     -     -         1647    0    0 
+DBCooper  957813413  3  2 Bf  -     -     -         1647   20    0 
+DBCooper  957813418  3  1 Bf  -     -     -         1627   10    0 
+DBCooper  957813421  3  3 c   bc    c     k         1617  100  210 Ks 7s
+DBCooper  957813442  3  2 Bf  -     -     -         1727   20    0 
+DBCooper  957813448  3  1 Bc  kf    -     -         1707   20    0 
+DBCooper  957813455  3  3 f   -     -     -         1687    0    0 
+DBCooper  957813468  3  2 Bf  -     -     -         1687   20    0 
+DBCooper  957813477  3  1 Bf  -     -     -         1667   10    0 
+DBCooper  957813490  3  3 f   -     -     -         1657    0    0 
+DBCooper  957813510  3  2 Bc  c     f     -         1657   60    0 
+DBCooper  957813531  3  1 Bf  -     -     -         1597   10    0 
+DBCooper  957813533  3  3 f   -     -     -         1587    0    0 
+DBCooper  957813543  3  2 B   -     -     -         1587   20   30 
+DBCooper  957813545  3  1 Bc  kf    -     -         1597   20    0 
+DBCooper  957813556  3  3 f   -     -     -         1577    0    0 
+DBCooper  957813558  3  2 B   -     -     -         1577   20   30 
+DBCooper  957813559  3  1 Bcc k     b     kc        1587  160    0 Kc Ad
+DBCooper  957813592  3  3 f   -     -     -         1427    0    0 
+DBCooper  957813597  3  2 Bc  f     -     -         1427   40    0 
+DBCooper  957813605  3  1 Bc  b     -     -         1387   40   60 
+DBCooper  957813615  4  3 f   -     -     -         1407    0    0 
+DBCooper  957813633  4  2 Bf  -     -     -         1407   20    0 
+DBCooper  957813647  4  1 Bc  kr    -     -         1387   80  160 
+DBCooper  957813665  5  5 f   -     -     -         1467    0    0 
+DBCooper  957813684  5  4 c   f     -     -         1467   20    0 
+DBCooper  957813715  5  3 f   -     -     -         1447    0    0 
+DBCooper  957813733  5  2 Br  b     b     b         1447  160  400 Kh Jh
+DBCooper  957813757  5  1 Bf  -     -     -         1687   10    0 
+DBCooper  957813786  5  5 f   -     -     -         1677    0    0 
+DBCooper  957813801  5  4 f   -     -     -         1677    0    0 
+DBCooper  957813837  6  3 c   k     b     b         1677  100  210 
+DBCooper  957813869  6  2 Bk  kc    kc    kf        1787   80    0 
+DBCooper  957813896  6  1 Bc  k     k     k         1707   20    0 Kd 9d
+DBCooper  957813918  6  6 f   -     -     -         1687    0    0 
+DBCooper  957813946  6  5 f   -     -     -         1687    0    0 
+DBCooper  957813966  6  4 c   b     b     b         1687  120  300 Ks Qc
+DBCooper  957814001  6  3 f   -     -     -         1867    0    0 
+DBCooper  957814036  6  2 Bk  kf    -     -         1867   20    0 
+DBCooper  957814060  6  1 Bf  -     -     -         1847   10    0 
+DBCooper  957814069  6  6 f   -     -     -         1837    0    0 
+DBCooper  957814124  5  5 f   -     -     -         1837    0    0 
+DBCooper  957814143  5  4 f   -     -     -         1837    0    0 
+DBCooper  957814159  5  3 f   -     -     -         1837    0    0 
+DBCooper  957814181  5  2 Bk  b     b     bf        1837  120    0 
+DBCooper  957814202  5  1 Bf  -     -     -         1717   10    0 
+DBCooper  957814208  5  5 f   -     -     -         1707    0    0 
+DBCooper  957814222  6  4 f   -     -     -         1707    0    0 
+DBCooper  957814236  6  3 c   b     kf    -         1707   40    0 
+DBCooper  957814260  6  2 Bf  -     -     -         1667   20    0 
+DBCooper  957814273  6  1 Bc  k     kf    -         1647   20    0 
+DBCooper  957814299  6  6 f   -     -     -         1627    0    0 
+DBCooper  957814333  6  5 f   -     -     -         1627    0    0 
+DBCooper  957814362  5  3 f   -     -     -         1627    0    0 
+DBCooper  957814383  5  2 Bk  b     -     -         1627   40   70 
+DBCooper  957814393  5  1 Bf  -     -     -         1657   10    0 
+DBCooper  957814414  5  5 f   -     -     -         1647    0    0 
+DBCooper  957814435  5  4 f   -     -     -         1647    0    0 
+DBCooper  957814454  5  3 f   -     -     -         1647    0    0 
+DBCooper  957814472  5  2 B   -     -     -         1647   20   30 
+DBCooper  957814477  5  1 Bc  b     b     k         1657   80  160 9s 9c
+DBCooper  957814500  6  6 f   -     -     -         1737    0    0 
+DBCooper  957814507  6  6 f   -     -     -         1737    0    0 
+DBCooper  957814521  6  5 f   -     -     -         1737    0    0 
+DBCooper  957814557  6  4 f   -     -     -         1737    0    0 
+DBCooper  957814575  5  2 f   -     -     -         1737    0    0 
+DBCooper  957814583  6  2 Bf  -     -     -         1737   20    0 
+DBCooper  957814608  6  1 Bf  -     -     -         1717   10    0 
+DBCooper  957814641  6  6 f   -     -     -         1707    0    0 
+DBCooper  957814661  6  5 f   -     -     -         1707    0    0 
+DBCooper  957814671  6  4 f   -     -     -         1707    0    0 
+DBCooper  957814697  6  3 f   -     -     -         1707    0    0 
+DBCooper  957814720  6  2 Bc  kc    kc    k         1707  100    0 9s 9d
+DBCooper  957814755  6  1 Bc  kf    -     -         1607   20    0 
+DBCooper  957814778  6  6 f   -     -     -         1587    0    0 
+DBCooper  957814799  6  5 c   b     -     -         1587   40   80 
+DBCooper  957814824  6  4 c   c     k     r         1627  120  280 8d 8s
+DBCooper  957814857  7  3 f   -     -     -         1787    0    0 
+DBCooper  957814886  7  2 Bk  r     brc   kc        1787  260  560 9d Ad
+DBCooper  957814923  6  1 Bf  -     -     -         2087   10    0 
+DBCooper  957814935  6  6 fQ  -     -     -         2077    0    0 
+DBCooper  957815317  6  5 f   -     -     -         2077    0    0 
+DBCooper  957815325  6  4 f   -     -     -         2077    0    0 
+DBCooper  957815345  6  3 f   -     -     -         2077    0    0 
+DBCooper  957815366  6  2 Bk  kf    -     -         2077   20    0 
+DBCooper  957815389  6  1 Bc  k     k     k         2057   20    0 6s 4d
+DBCooper  957815422  6  6 f   -     -     -         2037    0    0 
+DBCooper  957815463  7  6 f   -     -     -         2037    0    0 
+DBCooper  957815491  7  4 f   -     -     -         2037    0    0 
+DBCooper  957815509  8  4 f   -     -     -         2037    0    0 
+DBCooper  957815515  8  3 f   -     -     -         2037    0    0 
+DBCooper  957815543  8  2 Br  b     -     -         2037   60  100 
+DBCooper  957815559  8  1 Bf  -     -     -         2077   10    0 
+DBCooper  957815583  8  8 f   -     -     -         2067    0    0 
+DBCooper  957815611  6  5 f   -     -     -         2152    0    0 
+DBCooper  957815655  6  4 f   -     -     -         2152    0    0 
+DBCooper  957815691  7  4 f   -     -     -         2142    0    0 
+DBCooper  957815721  7  3 f   -     -     -         2142    0    0 
+DBCooper  957815758  7  2 Bf  -     -     -         2232   20    0 
+DBCooper  957815800  8  1 Bc  k     kf    -         2212   20    0 
+DBCooper  957815831  8  8 c   c     c     c         2152  120  310 Tc Kc
+DBCooper  957815859  8  7 f   -     -     -         2342    0    0 
+DBCooper  957815888  8  6 f   -     -     -         2342    0    0 
+DBCooper  957815909  8  5 f   -     -     -         2332    0    0 
+DBCooper  957815956  9  4 f   -     -     -         2332    0    0 
+DBCooper  957815983  9  3 f   -     -     -         2332    0    0 
+DBCooper  957816017  9  2 Bk  k     f     -         2322   20    0 
+DBCooper  957816059  9  1 Bf  -     -     -         2252   10    0 
+DBCooper  957816102  9  9 f   -     -     -         2242    0    0 
+DBCooper  957816174  9  9 f   -     -     -         2202    0    0 
+DBCooper  957816237  9  8 f   -     -     -         2202    0    0 
+DBCooper  957816286  9  7 f   -     -     -         2202    0    0 
+DBCooper  957816302  9  6 f   -     -     -         2202    0    0 
+DBCooper  957816377  9  5 f   -     -     -         2202    0    0 
+DBCooper  957816420  8  4 f   -     -     -         2202    0    0 
+DBCooper  957816460  7  2 B   -     -     -         2202   20   30 
+DBCooper  957816481  7  1 Bc  b     -     -         2212   40   80 
+DBCooper  957816505  7  7 f   -     -     -         2252    0    0 
+DBCooper  957816537  7  6 f   -     -     -         2222    0    0 
+DBCooper  957816599  7  5 f   -     -     -         2222    0    0 
+DBCooper  957816665  7  4 f   -     -     -         2212    0    0 
+DBCooper  957816711  9  4 f   -     -     -         2207    0    0 
+DBCooper  957816737  9  3 f   -     -     -         2207    0    0 
+DBCooper  957816816  9  1 Bk  kf    -     -         2197   20    0 
+DBCooper  957816855  9  1 Bc  kf    -     -         2177   20    0 
+DBCooper  957816906 10 10 c   f     -     -         2157   20    0 
+DBCooper  957816952 10  9 f   -     -     -         2137    0    0 
+DBCooper  957816998 10  8 f   -     -     -         2242    0    0 
+DBCooper  957817032  9  7 f   -     -     -         2242    0    0 
+DBCooper  957817073  9  6 f   -     -     -         2242    0    0 
+DBCooper  957817121  9  5 cc  f     -     -         2232   40    0 
+DBCooper  957817164  8  3 f   -     -     -         2172    0    0 
+DBCooper  957817222  9  2 Bk  kc    kf    -         2112   40    0 
+DBCooper  957817275 10  1 Bf  -     -     -         2032   10    0 
+DBCooper  957817312 10 10 f   -     -     -         2022    0    0 
+DBCooper  957817349 10  9 f   -     -     -         2022    0    0 
+DBCooper  957817407  9  7 f   -     -     -         2247    0    0 
+DBCooper  957817431  9  6 r   c     c     f         2247  100    0 
+DBCooper  957817482  8  4 f   -     -     -         2147    0    0 
+DBCooper  957817518  8  3 f   -     -     -         2117    0    0 
+DBCooper  957817571  8  2 Bf  -     -     -         2117   20    0 
+DBCooper  957817626  8  1 Bf  -     -     -         2192   10    0 
+DBCooper  957817669  7  7 f   -     -     -         2172    0    0 
+DBCooper  957817726  7  7 f   -     -     -         2172    0    0 
+DBCooper  957817770  7  6 c   b     k     f         2162   40    0 
+DBCooper  957817824  7  5 f   -     -     -         2142    0    0 
+DBCooper  957817880  7  4 f   -     -     -         2132    0    0 
+DBCooper  957817923  8  3 f   -     -     -         2122    0    0 
+DBCooper  957817939  8  2 Bf  -     -     -         2122   20    0 
+DBCooper  957817970  8  1 Bf  -     -     -         2092   10    0 
+DBCooper  957818009  8  8 f   -     -     -         2032    0    0 
+DBCooper  957818052  7  6 c   c     b     b         2032  120  280 Ad Ks
+DBCooper  957818099  8  6 f   -     -     -         2382    0    0 
+DBCooper  957818136  8  5 f   -     -     -         2382    0    0 
+DBCooper  957818201  8  4 f   -     -     -         2412    0    0 
+DBCooper  957818210  8  3 f   -     -     -         2412    0    0 
+DBCooper  957818263  8  2 Bf  -     -     -         2372   20    0 
+DBCooper  957818308  8  1 Bf  -     -     -         2352   10    0 
+DBCooper  957818339  8  8 f   -     -     -         2322    0    0 
+DBCooper  957818393  8  7 f   -     -     -         2377    0    0 
+DBCooper  957818414  7  5 f   -     -     -         2377    0    0 
+DBCooper  957818457  6  3 f   -     -     -         2377    0    0 
+DBCooper  957818501  6  2 Bf  -     -     -         2377   20    0 
+DBCooper  957818523  6  1 Bc  kc    kc    kc        2357  140  440 As Ks
+DBCooper  957818563  6  6 c   r     b     k         2657  120    0 Kh Jh
+DBCooper  957818600  6  5 f   -     -     -         2537    0    0 
+DBCooper  957818611  6  4 f   -     -     -         2537    0    0 
+DBCooper  957818644  6  3 cc  c     c     k         2537  100    0 Kd Jc
+DBCooper  957818673  6  2 Bk  kf    -     -         2437   20    0 
+DBCooper  957818699  6  1 Bc  kf    -     -         2417   20    0 
+DBCooper  957818742  6  6 c   b     b     b         2397  140  310 
+DBCooper  957818783  6  6 c   k     k     k         2567   20    0 4d 4s
+DBCooper  957818835  5  4 c   f     -     Q         2547   20    0 
+DBCooper  957819004  4  4 f   -     -     -         2527    0    0 
+DBCooper  957819011  4  3 f   -     -     -         2527    0    0 
+DBCooper  957819033  4  2 Bk  kf    -     -         2527   20    0 
+DBCooper  957819049  4  1 Bc  k     b     -         2507   60  120 
+DBCooper  957819069  4  4 f   -     -     -         2567    0    0 
+DBCooper  957819107  4  3 c   c     f     -         2567   40    0 
+DBCooper  957819133  4  2 Bf  -     -     -         2527   20    0 
+DBCooper  957819145  4  1 Bf  -     -     -         2507   10    0 
+DBCooper  957819168  4  4 c   b     -     -         2497   40   70 
+DBCooper  957819179  4  3 f   -     -     -         2527    0    0 
+DBCooper  957819201  4  2 Bf  -     -     -         2527   20    0 
+DBCooper  957819209  4  1 Bf  -     -     -         2507   10    0 
+DBCooper  957819220  5  5 f   -     -     -         2497    0    0 
+DBCooper  957819244  5  4 f   -     -     -         2497    0    0 
+DBCooper  957819264  5  3 f   -     -     -         2497    0    0 
+DBCooper  957819291  6  2 Bf  -     -     -         2497   20    0 
+DBCooper  957819333  6  1 Bf  -     -     -         2477   10    0 
+DBCooper  957819341  6  6 f   -     -     -         2467    0    0 
+DBCooper  957819375  6  5 c   k     k     k         2467   20    0 Jd Kh
+DBCooper  957819432  7  5 f   -     -     -         2447    0    0 
+DBCooper  957819492  7  4 f   -     -     -         2447    0    0 
+DBCooper  957819526  7  3 f   -     -     -         2447    0    0 
+DBCooper  957819582  7  2 Bk  k     b     b         2447  100  200 
+DBCooper  957819627  7  1 Bc  kf    -     -         2547   20    0 
+DBCooper  957819645  6  6 c   b     b     b         2527  120  230 
+DBCooper  957819682  6  5 f   -     -     -         2637    0    0 
+DBCooper  957819707  6  4 f   -     -     -         2637    0    0 
+DBCooper  957819716  6  3 f   -     -     -         2637    0    0 
+DBCooper  957819761  6  2 Bk  c     k     bc        2637  120  280 Kh Qh
+DBCooper  957819813  6  1 Bc  kf    -     -         2797   20    0 
+DBCooper  957819864  6  6 c   c     c     c         2777  140    0 Jc 9c
+DBCooper  957819890  6  5 f   -     -     -         2637    0    0 
+DBCooper  957819926  6  4 f   -     -     -         2637    0    0 
+DBCooper  957819949  6  3 f   -     -     -         2637    0    0 
+DBCooper  957819958  6  2 Bk  f     -     -         2637   20    0 
+DBCooper  957819979  6  1 Bf  -     -     -         2617   10    0 
+DBCooper  957819993  6  6 f   -     -     -         2607    0    0 
+DBCooper  957820037  6  5 f   -     -     -         2607    0    0 
+DBCooper  957820058  6  4 c   b     b     -         2607   80  150 
+DBCooper  957820087  6  3 f   -     -     -         2677    0    0 
+DBCooper  957820130  7  3 f   -     -     -         2677    0    0 
+DBCooper  957820175  7  2 Bf  -     -     -         2677   20    0 
+DBCooper  957820209  7  1 Bc  kf    -     -         2657   20    0 
+DBCooper  957820273  7  7 f   -     -     -         2637    0    0 
+DBCooper  957820285  7  6 f   -     -     -         2637    0    0 
+DBCooper  957820298  7  5 cc  c     c     c         2637  140  330 Jd Js
+DBCooper  957820357  7  4 f   -     -     -         2827    0    0 
+DBCooper  957820387  7  3 c   b     b     k         2827   80  280 7h Ah
+DBCooper  957820436  7  2 BQ  -     -     -         3027   20    0 
+DBCooper  958084423  9  7 f   -     -     -         2005    0    0 
+DBCooper  958084477  7  5 f   -     -     -         2005    0    0 
+DBCooper  958084507  6  3 c   b     k     k         2005   40    0 5c Ac
+DBCooper  958084564  6  2 Bf  -     -     -         1965   20    0 
+DBCooper  958084578  6  1 Bc  b     b     b         1945  120  260 Js Qs
+DBCooper  958084605  7  7 f   -     -     -         2085    0    0 
+DBCooper  958084677  9  8 f   -     -     -         2085    0    0 
+DBCooper  958084736  9  7 f   -     -     -         2085    0    0 
+DBCooper  958084761  9  6 f   -     -     -         2085    0    0 
+DBCooper  958084778  9  5 f   -     -     -         2085    0    0 
+DBCooper  958084823  9  4 f   -     -     -         2085    0    0 
+DBCooper  958084877  9  3 cc  kc    k     kf        2085   60    0 
+DBCooper  958084956  9  2 Bf  -     -     -         2025   20    0 
+DBCooper  958084984  9  1 Bf  -     -     -         2005   10    0 
+DBCooper  958085026  9  9 f   -     -     -         1995    0    0 
+DBCooper  958085060 10  9 f   -     -     -         1995    0    0 
+DBCooper  958085135 10  8 f   -     -     -         1995    0    0 
+DBCooper  958085234  9  6 f   -     -     -         1995    0    0 
+DBCooper  958085261  9  5 f   -     -     -         1995    0    0 
+DBCooper  958085345  9  4 f   -     -     -         1995    0    0 
+DBCooper  958085411 10  4 f   -     -     -         1995    0    0 
+DBCooper  958085459 10  2 Bf  -     -     -         1995   20    0 
+DBCooper  958085521 10  1 Bc  k     b     kc        1975  100  320 Ks 8s
+DBCooper  958085589  8  8 f   -     -     -         2195    0    0 
+DBCooper  958085637  8  7 f   -     -     -         2195    0    0 
+DBCooper  958085694  8  6 f   -     -     -         2195    0    0 
+DBCooper  958085753  9  6 f   -     -     -         2195    0    0 
+DBCooper  958085799  8  4 cc  kc    kc    kc        2195  140    0 Ah Js
+DBCooper  958085868  9  4 f   -     -     -         2055    0    0 
+DBCooper  958085909  9  3 f   -     -     -         2055    0    0 
+DBCooper  958085948  9  2 Bk  kc    kf    -         2055   40    0 
+DBCooper  958085978  9  1 Bc  kf    -     -         2015   40    0 
+DBCooper  958086029  9  9 c   b     c     k         1975  120  380 Kh Td
+DBCooper  958086081  8  7 f   -     -     -         2235    0    0 
+DBCooper  958086130  9  7 f   -     -     -         2235    0    0 
+DBCooper  958086177  9  6 r   b     kf    -         2235   60    0 
+DBCooper  958086245  9  6 f   -     -     -         2175    0    0 
+DBCooper  958086313  9  4 f   -     -     -         2175    0    0 
+DBCooper  958086359  9  3 f   -     -     -         2175    0    0 
+DBCooper  958086379  9  2 Bf  -     -     -         2175   20    0 
+DBCooper  958086391  9  1 Bf  -     -     -         2155   10    0 
+DBCooper  958086413  9  9 f   -     -     -         2145    0    0 
+DBCooper  958086509  9  8 f   -     -     -         2145    0    0 
+DBCooper  958086542  9  7 f   -     -     -         2145    0    0 
+DBCooper  958086591  9  6 c   f     -     -         2145   20    0 
+DBCooper  958086633  9  5 f   -     -     -         2125    0    0 
+DBCooper  958086682  8  4 f   -     -     -         2125    0    0 
+DBCooper  958086712  8  3 f   -     -     -         2125    0    0 
+DBCooper  958086741  8  2 Bk  kf    -     -         2125   20    0 
+DBCooper  958086824  8  1 Bc  kc    kc    kc        2105  120  360 Jh Jc
+DBCooper  958086875  8  8 f   -     -     -         2345    0    0 
+DBCooper  958086903  8  7 f   -     -     -         2345    0    0 
+DBCooper  958086925  8  6 f   -     -     -         2345    0    0 
+DBCooper  958086944  8  5 cc  kc    kf    -         2345   60    0 
+DBCooper  958086993  8  4 f   -     -     -         2285    0    0 
+DBCooper  958087019  8  3 f   -     -     -         2285    0    0 
+DBCooper  958087057  7  2 Bk  brc   bc    kc        2285  220    0 Ah 9h
+DBCooper  958087092  8  1 Bc  b     b     b         2065  120  200 
+DBCooper  958087126  8  6 Q   -     -     -         2145    0    0 
+DBCooper  958088343  9  4 f   -     -     -         2145    0    0 
+DBCooper  958088370  9  3 f   -     -     -         2145    0    0 
+DBCooper  958088415 10  2 Bf  -     -     -         2145   20    0 
+DBCooper  958088430 10  1 Bf  -     -     -         2125   10    0 
+DBCooper  958088460 10 10 f   -     -     -         2115    0    0 
+DBCooper  958088520 10  9 f   -     -     -         2115    0    0 
+DBCooper  958088598 10  8 c   f     -     -         2115   20    0 
+DBCooper  958088671 10  7 f   -     -     -         2095    0    0 
+DBCooper  958088718 10  6 f   -     -     -         2095    0    0 
+DBCooper  958088828 10  5 c   b     c     b         2095  120  280 
+DBCooper  958088926 10  4 c   b     kf    -         2255   40    0 
+DBCooper  958088976 10  3 f   -     -     -         2215    0    0 
+DBCooper  958089018 10  2 Bk  kf    -     -         2215   20    0 
+DBCooper  958089089 10  1 Bc  b     b     kf        2195   80    0 
+DBCooper  958089139 10 10 f   -     -     -         2115    0    0 
+DBCooper  958089180 10  9 f   -     -     -         2115    0    0 
+DBCooper  958089257 10  8 f   -     -     -         2115    0    0 
+DBCooper  958089307 10  7 f   -     -     -         2115    0    0 
+DBCooper  958089349 10  6 f   -     -     -         2115    0    0 
+DBCooper  958089411 10  5 f   -     -     -         2115    0    0 
+DBCooper  958089439 10  4 f   -     -     -         2115    0    0 
+DBCooper  958089494 10  3 f   -     -     -         2115    0    0 
+DBCooper  958089522 10  2 Bf  -     -     -         2115   20    0 
+DBCooper  958089591 10  1 Br  b     -     -         2095   60  180 
+DBCooper  958089628 10 10 f   -     -     -         2215    0    0 
+DBCooper  958089673 10  9 f   -     -     -         2215    0    0 
+DBCooper  958089739 10  8 f   -     -     -         2215    0    0 
+DBCooper  958089784  9  7 f   -     -     -         2215    0    0 
+DBCooper  958089820  9  6 f   -     -     -         2215    0    0 
+DBCooper  958089869  8  4 f   -     -     -         2215    0    0 
+DBCooper  958089935  9  3 f   -     -     -         2215    0    0 
+DBCooper  958089951  9  2 Bk  b     bc    k         2215  120    0 Ah 2s
+DBCooper  958090039  9  1 Bf  -     -     -         2095   10    0 
+DBCooper  958090103  9  9 f   -     -     -         2085    0    0 
+DBCooper  958090134  8  7 f   -     -     -         2085    0    0 
+DBCooper  958090167  8  6 r   r     r     -         2085  160  340 
+DBCooper  958090205  8  5 c   b     k     k         2265   40    0 3h Ah
+DBCooper  958090241  8  4 f   -     -     -         2225    0    0 
+DBCooper  958090295  7  2 Bf  -     -     -         2225   20    0 
+DBCooper  958090313  6  1 Bc  kf    -     -         2205   20    0 
+DBCooper  958090345  5  5 c   c     c     r         2185  160  340 Jd Th
+DBCooper  958090374  5  4 c   b     k     k         2365   40    0 As Qc
+DBCooper  958090431  5  3 fQ  -     -     -         2325    0    0 
+DBCooper  958090726  6  5 f   -     -     -         2325    0    0 
+DBCooper  958090773  6  4 f   -     -     -         2325    0    0 
+DBCooper  958090819  6  3 f   -     -     -         2325    0    0 
+DBCooper  958090839  6  2 Bc  kc    k     k         2325   60    0 Ad Ts
+DBCooper  958090875  6  1 Bf  -     -     -         2265   10    0 
+DBCooper  958090897  7  7 c   c     ccc   c         2255  240    0 Ad Qc
+DBCooper  958090953  8  7 f   -     -     -         2015    0    0 
+DBCooper  958090998  7  5 c   bc    kc    k         2015  100  280 
+DBCooper  958091067  6  4 f   -     -     -         2195    0    0 
+DBCooper  958091090  7  3 fQ  -     -     -         2195    0    0 
+DBCooper  958167937  9  2 Bf  -     -     -         2195   20    0 
+DBCooper  958167951  9  1 Bc  k     k     kf        2175   20    0 
+DBCooper  958167995  9  9 c   f     -     -         2155   20    0 
+DBCooper  958168036  9  8 f   -     -     -         2135    0    0 
+DBCooper  958168063  9  7 f   -     -     -         2135    0    0 
+DBCooper  958168117 10  6 f   -     -     -         2135    0    0 
+DBCooper  958168144 10  5 f   -     -     -         2135    0    0 
+DBCooper  958168186 10  4 f   -     -     -         2135    0    0 
+DBCooper  958168210  9  3 f   Q     -     -         2135    0    0 
+DBCooper  958168300  9  5 c   b     b     b         2135  120  220 
+DBCooper  958168324  9  4 c   b     k     k         2235   40   90 3d 3c
+DBCooper  958168356  9  3 fQ  -     -     -         2285    0    0 
+DBCooper  958240021  4  3 f   -     -     -         2285    0    0 
+DBCooper  958240041  4  2 Bk  k     k     k         2285   20    0 7s 2h
+DBCooper  958240059  4  1 Bf  -     -     -         2265   10    0 
+DBCooper  958240073  4  4 f   -     -     -         2255    0    0 
+DBCooper  958240083  4  3 f   -     -     -         2255    0    0 
+DBCooper  958240122  5  2 Bf  -     -     -         2255   20    0 
+DBCooper  958240150  5  1 Bf  -     -     -         2235   10    0 
+DBCooper  958240187  5  5 rc  c     c     r         2225  220  350 Jc Ks
+DBCooper  958240251  5  4 r   c     c     k         2355  100  210 Ac Ks
+DBCooper  958240285  5  3 c   b     k     f         2465   40    0 
+DBCooper  958240328  5  2 Bcc kc    kc    kc        2425  180    0 Kd 8d
+DBCooper  958240369  6  1 Bc  k     kf    -         2245   20    0 
+DBCooper  958240397  6  6 f   -     -     -         2225    0    0 
+DBCooper  958240433  6  5 f   -     -     -         2225    0    0 
+DBCooper  958240487  6  4 f   -     -     -         2225    0    0 
+DBCooper  958240535  6  2 Bk  f     -     -         2225   20    0 
+DBCooper  958240569  6  1 Bf  -     -     -         2205   10    0 
+DBCooper  958240594  7  7 f   -     -     -         2195    0    0 
+DBCooper  958240616  7  6 f   -     -     -         2195    0    0 
+DBCooper  958240649  7  5 c   b     b     b         2195  120  350 2h Kh
+DBCooper  958240703  7  4 f   -     -     -         2425    0    0 
+DBCooper  958240731  8  3 f   -     -     -         2425    0    0 
+DBCooper  958240784  8  2 Bf  -     -     -         2425   20    0 
+DBCooper  958240842  8  1 Br  bcc   kc    b         2405  240    0 As Jd
+DBCooper  958240911  8  8 f   -     -     -         2165    0    0 
+DBCooper  958240962  7  6 c   c     bc    c         2165  160    0 7c 7d
+DBCooper  958241021  8  6 f   -     -     -         2005    0    0 
+DBCooper  958241059  9  6 f   -     -     -         2005    0    0 
+DBCooper  958241099  9  5 f   -     -     -         2005    0    0 
+DBCooper  958241138  9  4 f   -     -     -         2005    0    0 
+DBCooper  958241182  9  3 f   -     -     -         2005    0    0 
+DBCooper  958241277 10  2 Bf  -     -     -         2005   20    0 
+DBCooper  958241350 10  1 Bc  k     b     -         1985   60  120 
+DBCooper  958241377 10 10 f   -     -     -         2045    0    0 
+DBCooper  958241400 10  9 f   -     -     -         2045    0    0 
+DBCooper  958241448  9  7 c   k     f     -         2045   20    0 
+DBCooper  958241495 10  7 f   -     -     -         2025    0    0 
+DBCooper  958241528 10  6 f   -     -     -         2025    0    0 
+DBCooper  958241554 10  5 f   -     -     -         2025    0    0 
+DBCooper  958241625 10  4 f   -     -     -         2025    0    0 
+DBCooper  958241661 10  3 f   -     -     -         2025    0    0 
+DBCooper  958241746  9  2 Bk  kf    -     -         2025   20    0 
+DBCooper  958241788 10  1 Bf  -     -     -         2005   10    0 
+DBCooper  958241841  9  9 f   -     -     -         1995    0    0 
+DBCooper  958241880  9  8 f   -     -     -         1995    0    0 
+DBCooper  958241933  9  7 f   -     -     -         1995    0    0 
+DBCooper  958241961  9  6 f   -     -     -         1995    0    0 
+DBCooper  958242007  9  5 cf  -     -     -         1995   20    0 
+DBCooper  958242037 10  5 f   -     -     -         1975    0    0 
+DBCooper  958242092 10  4 c   b     b     b         1975  120  340 Ad Th
+DBCooper  958242152  9  3 f   -     -     -         2195    0    0 
+DBCooper  958242206  8  2 Bf  -     -     -         2195   20    0 
+DBCooper  958242250  8  1 Bf  -     -     -         2175   10    0 
+DBCooper  958242284  7  7 c   c     f     -         2165   40    0 
+DBCooper  958242348  7  6 f   -     -     -         2125    0    0 
+DBCooper  958242385  8  5 f   -     -     -         2125    0    0 
+DBCooper  958242472  8  3 f   -     -     -         2125    0    0 
+DBCooper  958242542  9  1 Bf  -     -     -         2125   20    0 
+DBCooper  958242605  9  1 Bc  k     b     b         2105  120  360 Ad Td
+DBCooper  958242647  8  8 f   -     -     -         2345    0    0 
+DBCooper  958242688  8  7 f   -     -     -         2345    0    0 
+DBCooper  958242716  8  6 f   -     -     -         2345    0    0 
+DBCooper  958242779  8  5 f   -     -     -         2345    0    0 
+DBCooper  958242806  8  4 f   -     -     -         2345    0    0 
+DBCooper  958242849  8  3 f   -     -     -         2345    0    0 
+DBCooper  958242911  8  2 Bk  k     b     -         2345   60  110 
+DBCooper  958242942  7  1 Bc  k     k     b         2395   60  100 
+DBCooper  958242986  7  7 f   -     -     -         2435    0    0 
+DBCooper  958243008  7  6 c   c     c     b         2435  120    0 Jh Ac
+DBCooper  958243056  6  5 cc  c     r     b         2315  180  370 Jc Jd
+DBCooper  958243093  6  4 f   -     -     -         2505    0    0 
+DBCooper  958243113  6  3 f   -     -     -         2505    0    0 
+DBCooper  958243135  6  2 Bk  kf    -     -         2505   20    0 
+DBCooper  958243155  6  1 Bc  kf    -     -         2485   20    0 
+DBCooper  958243184  6  6 r   f     -     -         2465   40    0 
+DBCooper  958243228  6  5 f   -     -     -         2425    0    0 
+DBCooper  958243264  6  4 c   c     b     b         2425  120  280 
+DBCooper  958243297  6  3 f   -     -     -         2585    0    0 
+DBCooper  958243343  6  2 Bk  c     k     kc        2585   80    0 8s Td
+DBCooper  958243389  7  1 Bc  k     brc   bc        2505  280  410 Ah Jh
+DBCooper  958243450  9  9 c   f     -     -         2635   20    0 
+DBCooper  958243495  9  8 f   -     -     -         2615    0    0 
+DBCooper  958243549  9  7 f   -     -     -         2615    0    0 
+DBCooper  958243588  9  6 f   -     -     -         2615    0    0 
+DBCooper  958243624  9  5 f   -     -     -         2615    0    0 
+DBCooper  958243665  9  4 f   -     -     -         2615    0    0 
+DBCooper  958243703  9  3 f   -     -     -         2615    0    0 
+DBCooper  958243741  9  2 Bk  k     b     -         2615   60   90 
+DBCooper  958243775  9  1 Bcf -     -     -         2645   20    0 
+DBCooper  958243799  9  9 f   -     -     -         2625    0    0 
+DBCooper  958243810  9  8 c   c     c     f         2625   80    0 
+DBCooper  958243849  9  7 f   -     -     -         2545    0    0 
+DBCooper  958243883 10  7 f   -     -     -         2545    0    0 
+DBCooper  958243914 10  6 f   -     -     -         2545    0    0 
+DBCooper  958243959 10  5 f   -     -     -         2545    0    0 
+DBCooper  958243993 10  4 f   -     -     -         2545    0    0 
+DBCooper  958244017  9  2 cc  kc    k     k         2545   60  200 7c 7d
+DBCooper  958244051  9  2 Bf  -     -     -         2685   20    0 
+DBCooper  958244090  9  1 Bc  kc    kf    -         2665   40    0 
+DBCooper  958244181  8  8 f   -     -     -         2625    0    0 
+DBCooper  958244208  9  8 c   k     c     f         2625   80    0 
+DBCooper  958244244  9  7 f   -     -     -         2545    0    0 
+DBCooper  958244275  9  6 f   -     -     -         2545    0    0 
+DBCooper  958244310  9  5 f   -     -     -         2545    0    0 
+DBCooper  958244390  8  4 f   -     -     -         2545    0    0 
+DBCooper  958244409  8  3 f   -     -     -         2545    0    0 
+DBCooper  958244446  8  2 Brc kc    kf    -         2545  100    0 
+DBCooper  958244480  8  1 Bc  kf    -     -         2445   20    0 
+DBCooper  958244527  8  8 f   -     -     -         2425    0    0 
+DBCooper  958244594  7  6 f   -     -     -         2425    0    0 
+DBCooper  958244619  8  5 f   -     -     -         2425    0    0 
+DBCooper  958244643  8  4 f   -     -     -         2425    0    0 
+DBCooper  958244675  8  3 f   -     -     -         2425    0    0 
+DBCooper  958244725  8  2 Bf  -     -     -         2425   20    0 
+DBCooper  958244738  8  1 Bf  -     -     -         2405   10    0 
+DBCooper  958244774  9  9 f   -     -     -         2395    0    0 
+DBCooper  958244844  9  8 f   -     -     -         2395    0    0 
+DBCooper  958244886  9  7 f   -     -     -         2395    0    0 
+DBCooper  958244917  9  6 c   c     cc    kc        2395  180    0 Kh As
+DBCooper  958244965  9  5 f   -     -     -         2215    0    0 
+DBCooper  958244990  9  4 f   -     -     -         2215    0    0 
+DBCooper  958245002  9  3 f   -     -     -         2215    0    0 
+DBCooper  958245037 10  2 Bf  -     -     -         2215   20    0 
+DBCooper  958245077 10  1 Bc  k     b     k         2195   60    0 6s Ks
+DBCooper  958245119 10 10 f   -     -     -         2135    0    0 
+DBCooper  958245146 10  9 f   -     -     -         2135    0    0 
+DBCooper  958245189 10  8 f   -     -     -         2135    0    0 
+DBCooper  958245200 10  7 f   -     -     -         2135    0    0 
+DBCooper  958245232 10  6 f   -     -     -         2135    0    0 
+DBCooper  958245278 10  6 f   -     -     -         2135    0    0 
+DBCooper  958245310  9  4 f   -     -     -         2135    0    0 
+DBCooper  958245366 10  3 f   -     -     -         2135    0    0 
+DBCooper  958245416  9  2 Bk  k     b     bc        2135  140    0 Ad 7h
+DBCooper  958245463  9  1 Bc  kf    -     -         1995   20    0 
+DBCooper  958245536  8  8 f   -     -     -         1975    0    0 
+DBCooper  958245560  9  8 f   -     -     -         1975    0    0 
+DBCooper  958245612  8  7 f   -     -     -         1975    0    0 
+DBCooper  958245738  7  5 cc  c     r     b         1975  180  330 
+DBCooper  958245770  7  4 cc  c     c     c         2125  140    0 Qs Ah
+DBCooper  958245801  7  3 f   -     -     -         1985    0    0 
+DBCooper  958245829  7  2 Bk  kc    kc    b         1985  120    0 Qd Tc
+DBCooper  958245853  7  1 Bf  -     -     -         1865   10    0 
+DBCooper  958245884  7  7 c   k     f     -         1855   40    0 
+DBCooper  958245899  7  6 c   k     k     k         1815   20    0 2s Ad
+DBCooper  958245918  7  5 c   c     c     k         1795   80    0 8h Jh
+DBCooper  958245944  8  4 r   b     -     -         1715   60  120 
+DBCooper  958245961  9  3 f   -     -     -         1775    0    0 
+DBCooper  958245996  9  2 Bf  -     -     -         1775   20    0 
+DBCooper  958246015  9  1 Bc  k     b     k         1755   60  140 8d Ks
+DBCooper  958246039  9  9 f   -     -     -         1835    0    0 
+DBCooper  958246065  9  8 cf  -     -     -         1835   20    0 
+DBCooper  958246100  9  7 f   -     -     -         1815    0    0 
+DBCooper  958246116  9  6 r   brc   c     c         1815  200    0 Kh Kc
+DBCooper  958246161 10  6 f   -     -     -         1615    0    0 
+DBCooper  958246184 10  5 f   -     -     -         1615    0    0 
+DBCooper  958246210 10  4 cc  kc    k     bc        1615  140    0 Th 9h
+DBCooper  958246270 10  3 f   -     -     -         1475    0    0 
+DBCooper  958246300 10  2 Bk  kf    -     -         1475   20    0 
+DBCooper  958246338 10  1 Bf  -     -     -         1455   10    0 
+DBCooper  958246373 10 10 f   -     -     -         1445    0    0 
+DBCooper  958246411 10  9 f   -     -     -         1445    0    0 
+DBCooper  958246440  9  7 f   -     -     -         1445    0    0 
+DBCooper  958246472  9  6 c   k     kf    -         1445   20    0 
+DBCooper  958246505  9  5 f   -     -     -         1425    0    0 
+DBCooper  958246542  9  4 ccc kc    kc    kf        1425  140    0 
+DBCooper  958246580  9  3 f   -     -     -         1285    0    0 
+DBCooper  958246628  9  2 Bk  k     bf    -         1285   60    0 
+DBCooper  958246666  9  1 Bc  k     b     -         1225   60  140 
+DBCooper  958246698  9  9 cf  -     -     -         1305   20    0 
+DBCooper  958246744 10  9 cc  f     -     -         1285   40    0 
+DBCooper  958246796 10  8 c   kf    -     -         1245   20    0 
+DBCooper  958246824 10  7 f   -     -     -         1225    0    0 
+DBCooper  958246856 10  6 f   -     -     -         1225    0    0 
+DBCooper  958246878 10  5 f   -     -     -         1225    0    0 
+DBCooper  958246935 10  4 f   -     -     -         1225    0    0 
+DBCooper  958246962 10  3 f   -     -     -         1225    0    0 
+DBCooper  958247004 10  2 Bf  -     -     -         1225   20    0 
+DBCooper  958247073 10  1 Bf  -     -     -         1205   10    0 
+DBCooper  958247108 10 10 f   -     -     -         1195    0    0 
+DBCooper  958247168 10  9 f   -     -     -         1195    0    0 
+DBCooper  958247222 10  8 f   -     -     -         1195    0    0 
+DBCooper  958247252 10  7 r   c     c     f         1195  100    0 
+DBCooper  958247289 10  6 f   -     -     -         1095    0    0 
+DBCooper  958247341 10  5 f   -     -     -         1095    0    0 
+DBCooper  958247413 10  4 f   -     -     -         1095    0    0 
+DBCooper  958247463  9  3 f   -     -     -         1095    0    0 
+DBCooper  958247483  9  2 Br  bc    kr    b         1095  200  690 
+DBCooper  958247536 10  1 Bc  kf    -     -         1585   20    0 
+DBCooper  958247585 10 10 f   -     -     -         1565    0    0 
+DBCooper  958247634 10  9 c   f     -     -         1565   40    0 
+DBCooper  958247682 10  8 f   -     -     -         1525    0    0 
+DBCooper  958247733 10  7 f   -     -     -         1525    0    0 
+DBCooper  958247811 10  6 r   b     k     k         1525   60  150 Kh Qh
+DBCooper  958247853 10  5 f   -     -     -         1615    0    0 
+DBCooper  958247935 10  4 f   -     -     -         1615    0    0 
+DBCooper  958248012 10  3 f   -     -     -         1615    0    0 
+DBCooper  958248072 10  2 Bk  k     b     b         1615  100  200 
+DBCooper  958248152  9  1 Bc  kc    k     b         1715  100  380 Ks Kd
+DBCooper  958248238  7  7 f   -     -     -         1995    0    0 
+DBCooper  958248256  7  6 c   c     k     b         1995  100  350 Ac Qh
+DBCooper  958248308  7  5 f   -     -     -         2245    0    0 
+DBCooper  958248347  7  4 f   -     -     -         2245    0    0 
+DBCooper  958248382  7  3 f   -     -     -         2245    0    0 
+DBCooper  958248431  7  2 B   -     -     -         2245   20   30 
+DBCooper  958248442  7  1 Bf  -     -     -         2255   10    0 
+DBCooper  958248477  7  7 f   -     -     -         2245    0    0 
+DBCooper  958248504  7  6 f   -     -     -         2245    0    0 
+DBCooper  958248589  6  5 f   -     -     -         2245    0    0 
+DBCooper  958248627  7  4 f   -     -     -         2245    0    0 
+DBCooper  958248659  7  3 f   -     -     -         2245    0    0 
+DBCooper  958248680  7  2 Bk  k     b     b         2245  100  180 
+DBCooper  958248737  7  1 Bc  k     b     -         2325   60  100 
+DBCooper  958248765  7  7 f   -     -     -         2365    0    0 
+DBCooper  958248810  7  6 f   -     -     -         2365    0    0 
+DBCooper  958248848  7  5 f   -     -     -         2365    0    0 
+DBCooper  958248914  7  4 cf  -     -     -         2365   20    0 
+DBCooper  958248974  7  3 f   -     -     -         2345    0    0 
+DBCooper  958249025  7  2 Bk  k     kf    -         2345   20    0 
+DBCooper  958249050  7  1 Bf  -     -     -         2325   10    0 
+DBCooper  958249088  7  7 f   -     -     -         2315    0    0 
+DBCooper  958249160  7  6 f   -     -     -         2315    0    0 
+DBCooper  958249206  7  5 f   -     -     -         2315    0    0 
+DBCooper  958249295  7  4 f   -     -     -         2315    0    0 
+DBCooper  958249340  7  3 f   -     -     -         2315    0    0 
+DBCooper  958249386  7  2 BQ  -     -     -         2315   20    0 
+DBCooper  958250443 10  4 cc  kc    bc    kc        2295  180    0 Qs Jd
+DBCooper  958250503 10  3 f   -     -     -         2115    0    0 
+DBCooper  958250559 10  2 Bf  -     -     -         2115   20    0 
+DBCooper  958250620 10  1 Bcc kc    kr    b         2095  220  700 Js Qd
+DBCooper  958250675 10 10 f   -     -     -         2575    0    0 
+DBCooper  958250713 10  9 c   b     -     -         2575   40   70 
+DBCooper  958250737 10  8 f   -     -     -         2605    0    0 
+DBCooper  958250808 10  7 f   -     -     -         2605    0    0 
+DBCooper  958250869 10  6 f   -     -     -         2605    0    0 
+DBCooper  958250958 10  5 cc  k     cf    -         2605   80    0 
+DBCooper  958251033 10  4 f   -     -     -         2525    0    0 
+DBCooper  958251144 10  3 f   -     -     -         2525    0    0 
+DBCooper  958251220 10  2 Bf  -     -     -         2525   20    0 
+DBCooper  958251359  9  1 Bc  k     kf    -         2505   40    0 
+DBCooper  958251419  9  9 f   -     -     -         2465    0    0 
+DBCooper  958251448  8  7 f   -     -     -         2465    0    0 
+DBCooper  958251469  8  6 f   -     -     -         2465    0    0 
+DBCooper  958251504  8  5 f   -     -     -         2465    0    0 
+DBCooper  958251551  7  3 c   k     bc    kf        2465  100    0 
+DBCooper  958251589  7  2 Bk  kf    -     -         2365   20    0 
+DBCooper  958251643  7  1 Bc  kf    -     -         2345   20    0 
+DBCooper  958251711  6  6 cc  c     f     -         2325   60    0 
+DBCooper  958251735  6  5 f   -     -     -         2265    0    0 
+DBCooper  958251765  6  4 f   -     -     -         2265    0    0 
+DBCooper  958251794  6  3 f   -     -     -         2265    0    0 
+DBCooper  958251833  6  2 Bk  b     b     b         2265  120  260 9d Ks
+DBCooper  958251885  6  1 Bf  -     -     -         2405   10    0 
+DBCooper  958251896  6  6 f   -     -     -         2395    0    0 
+DBCooper  958251919  6  5 f   -     -     -         2395    0    0 
+DBCooper  958251956  6  4 f   -     -     -         2395    0    0 
+DBCooper  958251997  7  3 c   c     c     r         2395  160  340 
+DBCooper  958252026  7  2 Bf  -     -     -         2575   20    0 
+DBCooper  958252082  6  1 Bc  kc    k     b         2555  100  320 
+DBCooper  958252151  6  6 f   -     -     -         2775    0    0 
+DBCooper  958252193  6  5 f   -     -     -         2775    0    0 
+DBCooper  958252233  6  4 f   -     -     -         2775    0    0 
+DBCooper  958252259  6  3 f   -     -     -         2775    0    0 
+DBCooper  958252276  6  2 Bk  kQ    -     -         2775   20    0 
+DBCooper  958252428  6  2 Bf  -     -     -         2755   20    0 
+DBCooper  958252474  6  1 Bc  kf    -     -         2735   40    0 
+DBCooper  958252504  7  7 c   b     -     -         2695   40  120 
+DBCooper  958252542  7  6 f   -     -     -         2775    0    0 
+DBCooper  958252587  7  5 c   b     -     -         2775   40   80 
+DBCooper  958252614  7  4 f   -     -     -         2815    0    0 
+DBCooper  958252687  7  3 f   Q     -     -         2815    0    0 
+DBCooper  958253454  7  7 f   -     -     -         2815    0    0 
+DBCooper  958253512  7  6 f   -     -     -         2815    0    0 
+DBCooper  958253550  7  5 f   -     -     -         2815    0    0 
+DBCooper  958253603  7  4 c   b     -     -         2815   40  110 
+DBCooper  958253641  7  3 fQ  -     -     -         2885    0    0 

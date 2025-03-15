@@ -1,0 +1,1224 @@
+HardCase  957488930  9  6 f   -     -     -        46299    0    0 
+HardCase  957488978  9  4 f   -     -     -        46299    0    0 
+HardCase  957489025  9  3 f   -     -     -        46299    0    0 
+HardCase  957489076 10  2 Bk  b     -     -        46299   40   80 
+HardCase  957489101 10  1 Bc  kc    kc    kf       46339   80    0 
+HardCase  957489155 10 10 r   b     k     b        46259  100  280 5c Qc
+HardCase  957489187 10  9 c   b     br    k        46439  160    0 8c 7c
+HardCase  957489239 10  8 f   -     -     -        46279    0    0 
+HardCase  957489304 10  7 f   -     -     -        46279    0    0 
+HardCase  957489357 10  6 rc  kf    -     -        46279   60    0 
+HardCase  957489412 10  5 r   bc    f     -        46219   80    0 
+HardCase  957489463 10  4 f   -     -     -        46139    0    0 
+HardCase  957489495 10  3 f   -     -     -        46139    0    0 
+HardCase  957489529 10  2 B   -     -     -        46139   20   30 
+HardCase  957489545 10  1 Bc  b     b     k        46149   80  180 Ad Js
+HardCase  957489597 10 10 f   -     -     -        46249    0    0 
+HardCase  957489639 10  9 c   f     -     -        46249   20    0 
+HardCase  957489722 10  8 f   -     -     -        46229    0    0 
+HardCase  957489732 10  7 f   -     -     -        46229    0    0 
+HardCase  957489803 10  6 f   -     -     -        46229    0    0 
+HardCase  957489863 10  5 c   rr    b     b        46229  180    0 8c Jc
+HardCase  957489905 10  4 c   f     -     -        46049   20    0 
+HardCase  957489940 10  3 f   -     -     -        46029    0    0 
+HardCase  957489964 10  2 Bc  kf    -     -        46029   40    0 
+HardCase  957490010 10  1 Bc  kc    b     b        45989  120  280 5h 7c
+HardCase  957490044 10 10 c   r     b     k        46149  100    0 Ah 2h
+HardCase  957490109 10  9 f   -     -     -        46049    0    0 
+HardCase  957490217  9  7 f   -     -     -        46049    0    0 
+HardCase  957490295 10  7 r   b     b     b        46049  140    0 5s Js
+HardCase  957490365  9  5 f   -     -     -        45909    0    0 
+HardCase  957490419 10  5 f   -     -     -        45909    0    0 
+HardCase  957490464 10  4 f   -     -     -        45909    0    0 
+HardCase  957490503 10  3 f   -     -     -        45909    0    0 
+HardCase  957490546 10  2 Bk  f     -     -        45909   20    0 
+HardCase  957490597 10  1 Bc  k     kf    -        45889   20    0 
+HardCase  957490664  9  9 f   -     -     -        45869    0    0 
+HardCase  957490784  9  8 c   k     Q     -        45869   20    0 
+HardCase  957578293 10 10 f   -     -     -        45849    0    0 
+HardCase  957578339  8  8 f   -     -     -        45849    0    0 
+HardCase  957578389  8  7 r   r     b     k        45849  140  370 Jd Jh
+HardCase  957578438  9  6 f   -     -     -        46079    0    0 
+HardCase  957578482  8  5 f   -     -     -        46079    0    0 
+HardCase  957578505  8  4 r   b     br    b        46079  220  470 9d Kd
+HardCase  957578538  8  3 f   -     -     -        46329    0    0 
+HardCase  957578572  8  2 Bf  -     -     -        46329   20    0 
+HardCase  957578611  8  1 Bc  kf    -     -        46309   20    0 
+HardCase  957578651  8  8 f   -     -     -        46289    0    0 
+HardCase  957578691  8  7 f   -     -     -        46289    0    0 
+HardCase  957578713  8  6 f   -     -     -        46289    0    0 
+HardCase  957578761  8  6 c   f     -     -        46289   20    0 
+HardCase  957578811  7  4 f   -     -     -        46269    0    0 
+HardCase  957578833  7  3 f   -     -     -        46269    0    0 
+HardCase  957578854  7  2 Bk  b     bc    k        46269  120    0 6c Qs
+HardCase  957578916  9  1 Bf  -     -     -        46149   10    0 
+HardCase  957578940  9  9 f   -     -     -        46139    0    0 
+HardCase  957578976  8  7 r   r     b     k        46139  120  250 Qs Qd
+HardCase  957579008  8  6 f   -     -     -        46269    0    0 
+HardCase  957579048  8  5 f   -     -     -        46269    0    0 
+HardCase  957579082  7  4 f   -     -     -        46269    0    0 
+HardCase  957579123  7  3 f   -     -     -        46269    0    0 
+HardCase  957579168  7  2 Bk  b     brc   kc       46269  240    0 Tc 4d
+HardCase  957579198  7  1 Bcc kc    kf    -        46029   80    0 
+HardCase  957579230  6  6 rc  r     k     k        45949  100  110 Jh Ad
+HardCase  957579254  6  5 rc  br    b     b        45959  200  500 
+HardCase  957579297  7  4 cc  b     c     c        46259  140    0 9c Jc
+HardCase  957579356  7  3 f   -     -     -        46119    0    0 
+HardCase  957579396  7  2 B   -     -     -        46119   20   30 
+HardCase  957579411  7  1 Bf  -     -     -        46129   10    0 
+HardCase  957579451  8  8 f   -     -     -        46119    0    0 
+HardCase  957579485  7  6 f   -     -     -        46119    0    0 
+HardCase  957579533  7  5 r   r     r     k        46119  180  480 Kd Kh
+HardCase  957579574  7  4 f   -     -     -        46419    0    0 
+HardCase  957579600  8  3 f   -     -     -        46419    0    0 
+HardCase  957579680  8  2 B   -     -     -        46419   20   30 
+HardCase  957579702  8  1 Bf  -     -     -        46429   10    0 
+HardCase  957579716  8  8 f   -     -     -        46419    0    0 
+HardCase  957579769  9  8 f   -     -     -        46419    0    0 
+HardCase  957579827  9  7 f   -     -     -        46419    0    0 
+HardCase  957579865  9  6 f   -     -     -        46419    0    0 
+HardCase  957579894  9  5 f   -     -     -        46419    0    0 
+HardCase  957579961  9  4 f   -     -     -        46419    0    0 
+HardCase  957580011  9  3 f   -     -     -        46419    0    0 
+HardCase  957580050  9  2 Bf  -     -     -        46419   20    0 
+HardCase  957580092  9  1 Bc  k     kf    -        46399   20    0 
+HardCase  957580129  9  9 f   -     -     -        46379    0    0 
+HardCase  957580155  8  7 f   -     -     -        46379    0    0 
+HardCase  957580202  8  6 f   -     -     -        46379    0    0 
+HardCase  957580255  8  5 f   -     -     -        46379    0    0 
+HardCase  957580298 10  5 f   -     -     -        46379    0    0 
+HardCase  957580362 10  4 f   -     -     -        46379    0    0 
+HardCase  957580389 10  3 f   -     -     -        46379    0    0 
+HardCase  957580440  9  1 Br  b     b     b        46379  160  480 
+HardCase  957580485 10  1 Bf  -     -     -        46699   10    0 
+HardCase  957580547 10 10 f   -     -     -        46689    0    0 
+HardCase  957580611  9  8 f   -     -     -        46689    0    0 
+HardCase  957580649  9  7 r   b     b     -        46689  100  170 
+HardCase  957580669  9  6 r   kf    -     -        46759   40    0 
+HardCase  957580721  9  5 f   -     -     -        46719    0    0 
+HardCase  957580784 10  4 f   -     -     -        46719    0    0 
+HardCase  957580807 10  3 f   -     -     -        46719    0    0 
+HardCase  957580898 10  2 Bc  kf    -     -        46719   40    0 
+HardCase  957580952 10  1 Bf  -     -     -        46679   10    0 
+HardCase  957581002  9  9 f   -     -     -        46669    0    0 
+HardCase  957581063  8  7 f   -     -     -        46669    0    0 
+HardCase  957581112  8  6 f   -     -     -        46669    0    0 
+HardCase  957581159  8  5 f   -     -     -        46669    0    0 
+HardCase  957581218  8  4 f   -     -     -        46669    0    0 
+HardCase  957581256  8  3 r   -     -     -        46669   40   70 
+HardCase  957581276  8  2 Bc  b     k     k        46699   60   60 4s Ac
+HardCase  957581301  8  1 Bf  -     -     -        46699   10    0 
+HardCase  957581339  8  8 f   -     -     -        46689    0    0 
+HardCase  957581370  8  7 f   -     -     -        46689    0    0 
+HardCase  957581413  8  6 f   -     -     -        46689    0    0 
+HardCase  957581463  7  4 f   -     -     -        46689    0    0 
+HardCase  957581529  7  3 rc  c     c     r        46689  200    0 Ah 8h
+HardCase  957581568  7  2 Bk  kc    kc    kc       46489  120    0 2h 2s
+HardCase  957581609  6  1 Bcc bc    kc    kc       46369  200  300 Kc Qh
+HardCase  957581667  6  6 f   -     -     -        46469    0    0 
+HardCase  957581720  7  6 f   -     -     -        46469    0    0 
+HardCase  957581746  6  4 r   b     -     -        46469   60  110 
+HardCase  957581760  6  3 cc  r     b     -        46519  120  260 
+HardCase  957581802  6  2 Bk  k     f     -        46659   20    0 
+HardCase  957581840  6  1 Bc  b     b     -        46639  100  220 
+HardCase  957581863  6  6 f   -     -     -        46759    0    0 
+HardCase  957581896  6  5 f   -     -     -        46759    0    0 
+HardCase  957581915  6  4 f   -     -     -        46759    0    0 
+HardCase  957581925  6  3 f   -     -     -        46759    0    0 
+HardCase  957581974  6  2 Bc  k     k     b        46759   80  130 
+HardCase  957582007  6  1 Bc  kc    k     k        46809   40  100 3h Kh
+HardCase  957582048  6  6 r   b     k     k        46869   60    0 Kc Ad
+HardCase  957582077  6  5 f   -     -     -        46809    0    0 
+HardCase  957582107  6  4 f   -     -     -        46809    0    0 
+HardCase  957582114  6  3 f   -     -     -        46809    0    0 
+HardCase  957582123  6  2 Bk  bc    b     b        46809  140  380 Jd Kc
+HardCase  957582157  6  1 Bc  b     b     -        47049   80  120 
+HardCase  957582176  5  5 fQ  -     -     -        47089    0    0 
+HardCase  957656041  9  2 Bk  bc    k     kc       47089  100  135 5d As
+HardCase  957656084  9  1 Bf  -     -     -        47124   10    0 
+HardCase  957656108  8  8 f   -     -     -        47114    0    0 
+HardCase  957656174  8  7 f   -     -     -        47114    0    0 
+HardCase  957656226  8  6 r   b     b     b        47114  140    0 5c Ac
+HardCase  957656254  8  5 f   -     -     -        46974    0    0 
+HardCase  957656269  8  4 f   -     -     -        46974    0    0 
+HardCase  957656322  8  3 f   -     -     -        46974    0    0 
+HardCase  957656396  8  2 Bk  br    br    b        46974  240  540 Th 8s
+HardCase  957656451  8  1 Bf  -     -     -        47274   10    0 
+HardCase  957656479  8  8 f   -     -     -        47264    0    0 
+HardCase  957656524  8  7 f   -     -     -        47264    0    0 
+HardCase  957656558  8  6 f   -     -     -        47264    0    0 
+HardCase  957656597  8  5 f   -     -     -        47264    0    0 
+HardCase  957656658  9  4 f   -     -     -        47264    0    0 
+HardCase  957656695  8  2 Bk  kf    -     -        47264   20    0 
+HardCase  957656765  8  1 Bf  -     -     -        47244   10    0 
+HardCase  957656815  8  8 f   -     -     -        47234    0    0 
+HardCase  957656874  8  7 f   -     -     -        47234    0    0 
+HardCase  957656930  8  6 f   -     -     -        47234    0    0 
+HardCase  957656967  9  6 r   b     -     -        47234   60  120 
+HardCase  957656995  9  5 f   -     -     -        47294    0    0 
+HardCase  957657043  9  4 f   -     -     -        47294    0    0 
+HardCase  957657094 10  3 f   -     -     -        47294    0    0 
+HardCase  957657138 10  2 Bk  kf    -     -        47294   20    0 
+HardCase  957657186 10  1 Bf  -     -     -        47274   10    0 
+HardCase  957657214 10 10 f   -     -     -        47264    0    0 
+HardCase  957657256 10  9 f   -     -     -        47264    0    0 
+HardCase  957657282 10  8 f   -     -     -        47264    0    0 
+HardCase  957657353 10  7 f   -     -     -        47264    0    0 
+HardCase  957657369 10  6 f   -     -     -        47264    0    0 
+HardCase  957657435  9  5 f   -     -     -        47264    0    0 
+HardCase  957657477  9  4 f   -     -     -        47264    0    0 
+HardCase  957657505  9  3 f   -     -     -        47264    0    0 
+HardCase  957657559  9  2 Bk  k     f     -        47264   20    0 
+HardCase  957657595  9  1 Bc  kQ    -     -        47244   20    0 
+HardCase  957663403  4  4 f   -     -     -        47224    0    0 
+HardCase  957663428  4  3 r   b     -     -        47224   60  120 
+HardCase  957663439  4  2 Bc  kc    kr    b        47284  180  370 Jh As
+HardCase  957663456  6  1 Br  b     b     kc       47474  140    0 9h Jd
+HardCase  957663479  6  6 f   -     -     -        47334    0    0 
+HardCase  957663501  6  5 f   -     -     -        47334    0    0 
+HardCase  957663528  7  5 f   -     -     -        47334    0    0 
+HardCase  957663560  8  5 c   kf    -     -        47334   20    0 
+HardCase  957663603  9  5 c   kf    -     -        47314   20    0 
+HardCase  957663660  9  4 f   -     -     -        47294    0    0 
+HardCase  957663707  9  3 r   b     b     k        47294  100  230 Kh Kc
+HardCase  957663735  9  2 Bk  b     -     -        47424   40   80 
+HardCase  957663759  9  1 Bf  -     -     -        47464   10    0 
+HardCase  957663806 10  9 f   -     -     -        47454    0    0 
+HardCase  957663859 10  8 r   f     -     -        47454   40    0 
+HardCase  957663893 10  7 f   -     -     -        47414    0    0 
+HardCase  957663947 10  6 f   -     -     -        47414    0    0 
+HardCase  957663984 10  5 r   f     -     -        47414   40    0 
+HardCase  957664039 10  4 f   -     -     -        47374    0    0 
+HardCase  957664076 10  3 f   -     -     -        47374    0    0 
+HardCase  957664109 10  2 Bf  -     -     -        47374   20    0 
+HardCase  957664146 10  1 Bf  -     -     -        47354   10    0 
+HardCase  957664165 10 10 f   -     -     -        47344    0    0 
+HardCase  957664237  9  8 f   -     -     -        47344    0    0 
+HardCase  957664290 10  7 f   -     -     -        47344    0    0 
+HardCase  957664320 10  6 f   -     -     -        47344    0    0 
+HardCase  957664363 10  5 f   -     -     -        47344    0    0 
+HardCase  957664405 10  4 f   -     -     -        47344    0    0 
+HardCase  957664458 10  3 f   -     -     -        47344    0    0 
+HardCase  957664500 10  2 Bk  bc    kf    -        47344   60    0 
+HardCase  957664575 10  1 Bf  -     -     -        47284   10    0 
+HardCase  957664642 10 10 f   -     -     -        47274    0    0 
+HardCase  957664735 10  9 f   -     -     -        47274    0    0 
+HardCase  957664796 10  8 f   -     -     -        47274    0    0 
+HardCase  957664823 10  7 f   -     -     -        47274    0    0 
+HardCase  957664883  9  6 f   -     -     -        47274    0    0 
+HardCase  957664898  9  5 f   -     -     -        47274    0    0 
+HardCase  957664930  9  4 f   -     -     -        47274    0    0 
+HardCase  957664975  9  3 f   -     -     -        47274    0    0 
+HardCase  957665011  9  2 Bk  b     bc    kc       47274  160    0 5c 5d
+HardCase  957665048  9  1 Bc  k     k     kf       47114   20    0 
+HardCase  957665124 10 10 f   -     -     -        47094    0    0 
+HardCase  957665209 10  9 r   b     b     k        47094  120    0 Ah Jh
+HardCase  957665244 10  8 f   -     -     -        46974    0    0 
+HardCase  957665308 10  7 r   b     br    k        46974  180    0 Qd Qs
+HardCase  957665347 10  6 f   -     -     -        46794    0    0 
+HardCase  957665410 10  5 f   -     -     -        46794    0    0 
+HardCase  957665450 10  4 rr  b     kf    -        46794  100    0 
+HardCase  957665535 10  3 f   -     -     -        46694    0    0 
+HardCase  957665570 10  2 Bk  f     -     -        46694   20    0 
+HardCase  957665609 10  1 Bc  bc    kc    k        46674  100    0 Jc Tc
+HardCase  957665670 10 10 c   Q     -     -        46574   40    0 
+HardCase  957707831  5  4 f   -     -     -        46534    0    0 
+HardCase  957707850  5  3 f   -     -     -        46534    0    0 
+HardCase  957707859  5  2 Bk  b     k     k        46534   40    0 Td Js
+HardCase  957707883  5  1 Bf  -     -     -        46494   10    0 
+HardCase  957707915  5  5 f   -     -     -        46484    0    0 
+HardCase  957707943  5  4 f   -     -     -        46484    0    0 
+HardCase  957707964  5  3 f   -     -     -        46484    0    0 
+HardCase  957707983  5  2 Bc  kc    kc    k        46484  100    0 Th Td
+HardCase  957708009  5  1 Bc  kf    -     -        46384   20    0 
+HardCase  957708040  5  5 r   b     k     k        46364   60    0 Ks Qc
+HardCase  957708064  6  5 f   -     -     -        46304    0    0 
+HardCase  957708099  6  4 f   -     -     -        46304    0    0 
+HardCase  957708136  6  3 f   -     -     -        46304    0    0 
+HardCase  957708174  6  2 Bk  kf    -     -        46304   20    0 
+HardCase  957708197  6  1 Bf  -     -     -        46284   10    0 
+HardCase  957708228  6  6 f   -     -     -        46274    0    0 
+HardCase  957708238  6  5 f   -     -     -        46274    0    0 
+HardCase  957708269  6  4 f   -     -     -        46274    0    0 
+HardCase  957708283  6  3 r   b     b     b        46274  140  310 Qc Qh
+HardCase  957708301  6  2 Bf  -     -     -        46444   20    0 
+HardCase  957708339  6  1 Bc  k     kf    -        46424   20    0 
+HardCase  957708367  6  6 r   -     -     -        46404   40   70 
+HardCase  957708384  6  5 f   -     -     -        46434    0    0 
+HardCase  957708417  7  5 r   b     b     b        46434  140    0 Kc Jd
+HardCase  957708476  7  4 f   -     -     -        46294    0    0 
+HardCase  957708512  7  3 c   b     b     k        46294   80  280 Qc Ts
+HardCase  957708557  7  2 Bf  -     -     -        46494   20    0 
+HardCase  957708599  7  1 Bc  kf    -     -        46474   20    0 
+HardCase  957708666  7  7 f   -     -     -        46454    0    0 
+HardCase  957708697  7  6 f   -     -     -        46454    0    0 
+HardCase  957708731  7  5 rc  b     bc    c        46454  200    0 8h 9h
+HardCase  957708767  7  4 f   -     -     -        46254    0    0 
+HardCase  957708803  7  3 f   -     -     -        46254    0    0 
+HardCase  957708830  7  2 Bk  b     k     k        46254   40  120 Qh 9d
+HardCase  957708854  7  1 Bf  -     -     -        46334   10    0 
+HardCase  957708898  7  7 f   -     -     -        46324    0    0 
+HardCase  957708929  7  6 f   -     -     -        46324    0    0 
+HardCase  957708968  7  5 f   -     -     -        46324    0    0 
+HardCase  957709022  7  4 f   -     -     -        46324    0    0 
+HardCase  957709050  7  3 f   -     -     -        46324    0    0 
+HardCase  957709062  7  2 Bk  k     kf    -        46324   20    0 
+HardCase  957709100  7  1 Bf  -     -     -        46304   10    0 
+HardCase  957709122  7  7 f   -     -     -        46294    0    0 
+HardCase  957709155  7  6 c   f     -     -        46294   20    0 
+HardCase  957709184  7  5 r   bf    -     -        46274   60    0 
+HardCase  957709210  6  3 f   -     -     -        46214    0    0 
+HardCase  957709220  6  2 Bc  rr    br    b        46214  300    0 Qd As
+HardCase  957709259  6  1 Bc  kf    -     -        45914   20    0 
+HardCase  957709287  6  6 f   -     -     -        45894    0    0 
+HardCase  957709337  6  5 f   -     -     -        45894    0    0 
+HardCase  957709376  6  4 f   -     -     -        45894    0    0 
+HardCase  957709399  6  3 f   -     -     -        45894    0    0 
+HardCase  957709416  6  2 Bc  kc    b     b        45894  140  370 
+HardCase  957709469  6  1 Bf  -     -     -        46124   10    0 
+HardCase  957709497  6  6 f   -     -     -        46114    0    0 
+HardCase  957709525  6  5 f   -     -     -        46114    0    0 
+HardCase  957709535  6  4 f   -     -     -        46114    0    0 
+HardCase  957709591  8  5 f   -     -     -        46114    0    0 
+HardCase  957709643  8  4 f   -     -     -        46114    0    0 
+HardCase  957709687  8  3 f   -     -     -        46114    0    0 
+HardCase  957709705  8  2 Bf  -     -     -        46114   20    0 
+HardCase  957709747  8  1 Bf  -     -     -        46094   10    0 
+HardCase  957709755  8  8 c   k     rc    c        46084  220    0 9c Jh
+HardCase  957709821  7  6 c   f     -     -        45864   20    0 
+HardCase  957709852  7  5 r   r     b     k        45844  120  320 Qh Ks
+HardCase  957709885  7  4 f   -     -     -        46044    0    0 
+HardCase  957709909  7  3 f   -     -     -        46044    0    0 
+HardCase  957709923  7  2 Bf  -     -     -        46044   20    0 
+HardCase  957710000  7  1 Bc  b     b     -        46024   80  160 
+HardCase  957710033  7  7 c   b     k     b        46104   80  170 
+HardCase  957710086  8  7 f   -     -     -        46194    0    0 
+HardCase  957710102  7  5 f   -     -     -        46194    0    0 
+HardCase  957710133  7  4 f   -     -     -        46194    0    0 
+HardCase  957710152  7  3 f   -     -     -        46194    0    0 
+HardCase  957710178  7  2 Bk  kf    -     -        46194   20    0 
+HardCase  957710209  7  1 Bf  -     -     -        46174   10    0 
+HardCase  957710236  7  7 c   f     -     -        46164   20    0 
+HardCase  957710269  7  6 f   -     -     -        46144    0    0 
+HardCase  957710295  7  5 f   -     -     -        46144    0    0 
+HardCase  957710327  8  4 f   -     -     -        46144    0    0 
+HardCase  957710354  8  3 rc  k     kf    -        46144   60    0 
+HardCase  957710382  9  3 f   -     -     -        46084    0    0 
+HardCase  957710395  9  2 Bk  kc    bc    kc       46084  160    0 3d 9h
+HardCase  957710432  9  1 Br  b     b     b        45924  140    0 9s As
+HardCase  957710454  9  9 c   f     -     -        45784   40    0 
+HardCase  957710484 10  9 f   -     -     -        45744    0    0 
+HardCase  957710515 10  8 c   f     -     -        45744   20    0 
+HardCase  957710561 10  7 f   -     -     -        45724    0    0 
+HardCase  957710593 10  6 r   c     b     b        45724  160  430 Kd Kh
+HardCase  957710627 10  5 f   -     -     -        45994    0    0 
+HardCase  957710653 10  4 f   -     -     -        45994    0    0 
+HardCase  957710682 10  3 f   -     -     -        45994    0    0 
+HardCase  957710724 10  2 Bk  b     brr   br       45994  360  810 Qh Th
+HardCase  957710777 10  1 Bc  b     -     -        46444   40   80 
+HardCase  957710804 10  7 Q   -     -     -        46484    0    0 
+HardCase  957738278  4  4 f   -     -     -        46484    0    0 
+HardCase  957738284  4  3 f   Q     -     -        46484    0    0 
+HardCase  957744855  8  8 c   f     -     -        46484   20    0 
+HardCase  957744888  7  7 f   -     -     -        46464    0    0 
+HardCase  957744904  6  5 f   -     -     -        46464    0    0 
+HardCase  957744946  7  5 f   -     -     -        46464    0    0 
+HardCase  957744960  7  4 f   -     -     -        46464    0    0 
+HardCase  957744986  7  3 f   -     -     -        46464    0    0 
+HardCase  957745015  7  2 Bc  b     b     b        46464  140    0 Td 7s
+HardCase  957745042  7  1 Bc  kf    -     -        46324   20    0 
+HardCase  957745100  7  7 f   -     -     -        46304    0    0 
+HardCase  957745150  7  4 Q   -     -     -        46304    0    0 
+HardCase  958280322 10  2 Bk  kf    -     -        46304   20    0 
+HardCase  958280352 10  1 Bf  -     -     -        46284   10    0 
+HardCase  958280411 10 10 f   -     -     -        46274    0    0 
+HardCase  958280457 10  9 f   -     -     -        46274    0    0 
+HardCase  958280577 10  8 cc  kf    -     -        46274   40    0 
+HardCase  958280646 10  7 f   -     -     -        46234    0    0 
+HardCase  958280686 10  6 c   f     -     -        46234   20    0 
+HardCase  958280736 10  5 cc  kf    -     -        46214   40    0 
+HardCase  958280791 10  4 f   -     -     -        46174    0    0 
+HardCase  958280839 10  3 rr  b     b     k        46174  140  660 Ks Kd
+HardCase  958280894 10  2 Bk  k     b     k        46694   60  150 5d 5c
+HardCase  958280931 10  1 Bc  Q     -     -        46784   20    0 
+HardCase  958361328 10  4 f   -     -     -        46764    0    0 
+HardCase  958361370 10  3 f   -     -     -        46764    0    0 
+HardCase  958361406 10  2 Bk  k     k     b        46764   60  210 7c Ks
+HardCase  958361451 10  1 Bc  b     b     b        46914  120  400 As 9c
+HardCase  958361484 10 10 f   -     -     -        47194    0    0 
+HardCase  958361544 10  9 f   -     -     -        47194    0    0 
+HardCase  958361603 10  8 f   -     -     -        47194    0    0 
+HardCase  958361644 10  7 f   -     -     Q        47194    0    0 
+HardCase  958529010 10  4 f   -     -     -        47194    0    0 
+HardCase  958529068 10  3 f   -     -     -        47194    0    0 
+HardCase  958529146 10  2 Bf  -     -     -        47194   20    0 
+HardCase  958529183 10  1 Bf  -     -     -        47174   10    0 
+HardCase  958529214 10 10 f   -     -     -        47164    0    0 
+HardCase  958529262 10  9 f   -     -     -        47164    0    0 
+HardCase  958529307 10  8 f   -     -     -        47164    0    0 
+HardCase  958529351 10  7 f   -     -     -        47164    0    0 
+HardCase  958529399 10  6 f   -     -     -        47164    0    0 
+HardCase  958529440 10  5 r   b     b     -        47164  100  300 
+HardCase  958529471 10  4 f   -     -     -        47364    0    0 
+HardCase  958529531 10  3 f   -     -     -        47364    0    0 
+HardCase  958529600 10  2 Bk  k     k     kf       47364   20    0 
+HardCase  958529631 10  1 Bf  -     -     -        47344   10    0 
+HardCase  958529652 10 10 c   c     f     -        47334   40    0 
+HardCase  958529719 10  9 c   c     f     -        47294   60    0 
+HardCase  958529815 10  8 Q   -     -     -        47234    0    0 
+HardCase  958616570  8  2 Bf  -     -     -        47234   20    0 
+HardCase  958616595  8  1 Bf  -     -     -        47214   10    0 
+HardCase  958616620  8  8 f   -     -     -        47204    0    0 
+HardCase  958616653  7  6 f   -     -     -        47204    0    0 
+HardCase  958616679  7  5 f   -     -     -        47204    0    0 
+HardCase  958616701  7  4 c   cc    kf    -        47204   60    0 
+HardCase  958616735  7  3 f   -     -     -        47144    0    0 
+HardCase  958616769  7  2 Bk  k     kf    -        47144   20    0 
+HardCase  958616806  8  1 Bf  -     -     -        47124   10    0 
+HardCase  958616856  8  8 f   -     -     -        47114    0    0 
+HardCase  958616884  8  7 f   Q     -     -        47114    0    0 
+HardCase  958840695  5  2 Bk  b     -     -        47114   40   60 
+HardCase  958840710  5  1 Bc  kc    kf    -        47134   40    0 
+HardCase  958840740  5  5 f   -     -     -        47094    0    0 
+HardCase  958840780  5  4 f   -     -     -        47094    0    0 
+HardCase  958840812  5  3 r   -     -     -        47094   40   70 
+HardCase  958840835  5  2 Bc  r     c     c        47124  160    0 Th 9c
+HardCase  958840864  6  1 Bc  kf    -     -        46964   20    0 
+HardCase  958840928  7  7 f   -     -     -        46944    0    0 
+HardCase  958840961  7  6 f   -     -     -        46944    0    0 
+HardCase  958841015  8  5 f   -     -     -        46944    0    0 
+HardCase  958841085  9  4 f   -     -     -        46944    0    0 
+HardCase  958841131 10  3 f   -     -     -        46944    0    0 
+HardCase  958841164 10  2 Bc  kf    -     -        46944   40    0 
+HardCase  958841238  9  1 Bc  b     bc    k        46904  120  400 Ts Tc
+HardCase  958841289  9  9 f   -     -     -        47184    0    0 
+HardCase  958841314  8  8 c   f     -     -        47184   20    0 
+HardCase  958841351  9  8 f   -     -     -        47164    0    0 
+HardCase  958841386  9  7 f   -     -     -        47164    0    0 
+HardCase  958841425  9  6 f   -     -     -        47164    0    0 
+HardCase  958841456  9  5 f   -     -     -        47164    0    0 
+HardCase  958841504  9  4 cc  kf    -     -        47164   40    0 
+HardCase  958841525 10  3 r   b     kf    -        47124   60    0 
+HardCase  958841567 10  2 Bc  kc    c     f        47064  120    0 
+HardCase  958841652 10  1 Bf  -     -     -        46944   10    0 
+HardCase  958841713 10 10 c   rc    c     f        46934  120    0 
+HardCase  958841796 10  9 f   -     -     -        46814    0    0 
+HardCase  958841854  9  7 f   -     -     -        46814    0    0 
+HardCase  958841914  9  6 f   -     -     -        46814    0    0 
+HardCase  958841974  8  4 f   -     -     -        46814    0    0 
+HardCase  958842001  8  3 f   -     -     -        46814    0    0 
+HardCase  958842042  8  2 Bf  -     -     -        46814   20    0 
+HardCase  958842063 10  1 Bf  -     -     -        46794   10    0 
+HardCase  958842118 10 10 c   f     -     -        46784   20    0 
+HardCase  958842156 10  9 f   -     -     -        46764    0    0 
+HardCase  958842213 10  8 c   f     -     -        46764   20    0 
+HardCase  958842311  9  6 c   c     c     rc       46744  220    0 Kd Qh
+HardCase  958842357  8  4 c   f     -     -        46524   20    0 
+HardCase  958842391  8  3 f   -     -     -        46504    0    0 
+HardCase  958842415  9  2 Bk  b     -     -        46504   40   60 
+HardCase  958842505  9  1 Bc  kc    kf    -        46524   40    0 
+HardCase  958842558  9  9 f   -     -     -        46484    0    0 
+HardCase  958842584  9  8 r   f     -     -        46484   40    0 
+HardCase  958842647  8  6 Q   -     -     -        46444    0    0 
+HardCase  958955648  8  5 f   -     -     -        46444    0    0 
+HardCase  958955666  8  4 f   -     -     -        46444    0    0 
+HardCase  958955684  8  3 f   -     -     -        46444    0    0 
+HardCase  958955733  8  2 Bk  b     -     -        46444   40   60 
+HardCase  958955751  7  1 Bf  -     -     -        46464   10    0 
+HardCase  958955790  6  6 f   -     -     -        46454    0    0 
+HardCase  958955805  6  5 r   br    b     kc       46454  180    0 Ah 8s
+HardCase  958955836  6  4 rc  bc    kc    kc       46274  180    0 Td Kc
+HardCase  958955863  6  3 f   -     -     -        46094    0    0 
+HardCase  958955881  5  2 Bc  kf    -     -        46094   40    0 
+HardCase  958955891  4  1 Bf  -     -     -        46054   10    0 
+HardCase  958955897  4  4 f   -     -     -        46044    0    0 
+HardCase  958955913  4  3 r   b     k     k        46044   60    0 Kh 2h
+HardCase  958955933  4  2 Bc  kf    -     -        45984   40    0 
+HardCase  958955945  4  1 Bf  -     -     -        45944   10    0 
+HardCase  958955948  4  4 f   -     -     -        45934    0    0 
+HardCase  958955970  5  3 f   -     -     -        45934    0    0 
+HardCase  958955989  4  1 Bk  k     kc    k        45934   60  140 7d 7h
+HardCase  958956011  4  1 Br  -     -     -        46014   40   60 
+HardCase  958956019  4  4 f   -     -     -        46034    0    0 
+HardCase  958956025  4  3 c   b     -     -        46034   40   80 
+HardCase  958956044  4  2 Bf  -     -     -        46074   20    0 
+HardCase  958956052  4  1 Bc  kc    b     k        46054  100  220 5s 5d
+HardCase  958956075  4  4 r   -     -     -        46174   40   70 
+HardCase  958956084  4  3 f   -     -     -        46204    0    0 
+HardCase  958956109  4  2 Bc  c     b     b        46204  140  280 Ac Ah
+HardCase  958956136  4  1 Bf  -     -     -        46344   10    0 
+HardCase  958956150  4  4 f   -     -     -        46334    0    0 
+HardCase  958956171  4  3 f   -     -     -        46334    0    0 
+HardCase  958956173  4  2 B   -     -     -        46334   20   30 
+HardCase  958956181  4  1 Bf  -     -     -        46344   10    0 
+HardCase  958956184  4  4 c   f     -     -        46334   40    0 
+HardCase  958956209  4  3 f   -     -     -        46294    0    0 
+HardCase  958956233  4  2 B   -     -     -        46294   20   30 
+HardCase  958956240  4  1 Bf  -     -     -        46304   10    0 
+HardCase  958956248  4  4 f   -     -     -        46294    0    0 
+HardCase  958956259  4  3 f   -     -     -        46294    0    0 
+HardCase  958956262  4  2 Bc  b     k     k        46294   60  120 6d 6c
+HardCase  958956278  4  1 Bf  -     -     -        46354   10    0 
+HardCase  958956284  4  4 f   -     -     -        46344    0    0 
+HardCase  958956287  4  3 f   -     -     -        46344    0    0 
+HardCase  958956299  5  3 f   Q     -     -        46344    0    0 
+HardCase  958959021  3  2 Bc  f     -     -        46344   40    0 
+HardCase  958959034  3  1 Bf  -     -     -        46304   10    0 
+HardCase  958959039  3  3 r   -     -     -        46294   40   70 
+HardCase  958959043  3  2 B   -     -     -        46324   20   30 
+HardCase  958959045  3  1 Bf  -     -     -        46334   10    0 
+HardCase  958959047  3  3 Q   -     -     -        46324    0    0 
+HardCase  958960076  5  2 Bc  kf    -     -        46324   40    0 
+HardCase  958960098  5  1 Bf  -     -     -        46284   10    0 
+HardCase  958960117  5  5 c   f     -     -        46274   20    0 
+HardCase  958960137  5  4 f   -     -     -        46254    0    0 
+HardCase  958960162  5  3 r   b     b     f        46254  100    0 
+HardCase  958960194  5  2 Bk  k     b     b        46154  100  200 7c 5c
+HardCase  958960211  5  1 Bf  -     -     -        46254   10    0 
+HardCase  958960221  5  5 r   -     -     -        46244   40   70 
+HardCase  958960230  5  4 f   -     -     -        46274    0    0 
+HardCase  958960249  5  3 f   -     -     -        46274    0    0 
+HardCase  958960268  5  2 Bk  b     k     k        46274   40   80 Jh 7c
+HardCase  958960291  6  1 BQ  -     -     -        46314   10    0 
+HardCase  958960405  7  4 f   -     -     -        46304    0    0 
+HardCase  958960430  7  3 f   -     -     -        46304    0    0 
+HardCase  958960455  7  2 Bf  -     -     -        46304   20    0 
+HardCase  958960481  7  1 Br  b     kc    kc       46284  140    0 Qs Ah
+HardCase  958960534  7  7 f   -     -     -        46144    0    0 
+HardCase  958960578  7  6 f   -     -     -        46144    0    0 
+HardCase  958960604  7  5 f   -     -     -        46144    0    0 
+HardCase  958960643  8  4 r   b     b     b        46144  140  280 
+HardCase  958960677  8  3 f   -     -     -        46284    0    0 
+HardCase  958960701  8  2 Bc  f     -     -        46284   40    0 
+HardCase  958960737  9  1 Bf  -     -     -        46244   10    0 
+HardCase  958960752  9  9 f   -     -     -        46234    0    0 
+HardCase  958960785  9  8 c   f     -     -        46234   40    0 
+HardCase  958960816  9  7 rc  r     b     c        46194  200    0 Ts Ah
+HardCase  958960858  9  6 c   f     -     -        45994   40    0 
+HardCase  958960894 10  5 f   -     -     -        45954    0    0 
+HardCase  958960922 10  4 f   -     -     -        45954    0    0 
+HardCase  958960959 10  3 r   b     b     -        45954  100  250 
+HardCase  958960980 10  2 Bk  b     b     kc       46104  120  280 Jd 9d
+HardCase  958961015 10  1 Bc  k     k     k        46264   20    0 Qs 9c
+HardCase  958961040 10 10 f   -     -     -        46244    0    0 
+HardCase  958961061 10  9 r   b     -     -        46244   60  190 
+HardCase  958961083 10  8 f   -     -     -        46374    0    0 
+HardCase  958961113  9  7 f   -     -     -        46374    0    0 
+HardCase  958961135  9  6 f   -     -     -        46374    0    0 
+HardCase  958961161  9  5 f   -     -     -        46374    0    0 
+HardCase  958961183  9  4 f   -     -     -        46374    0    0 
+HardCase  958961208  9  3 f   -     -     -        46374    0    0 
+HardCase  958961230  9  2 Bk  r     b     b        46374  140  320 8c 2s
+HardCase  958961270  8  1 Bf  -     -     -        46554   10    0 
+HardCase  958961338  8  8 f   -     -     -        46544    0    0 
+HardCase  958961367  8  7 f   -     -     -        46544    0    0 
+HardCase  958961415  8  6 f   -     -     -        46544    0    0 
+HardCase  958961442  8  5 rc  f     -     -        46544   80    0 
+HardCase  958961462  8  5 f   -     -     -        46464    0    0 
+HardCase  958961498  7  3 f   -     -     -        46464    0    0 
+HardCase  958961532  7  2 Bk  f     -     -        46464   20    0 
+HardCase  958961556  7  1 Bf  -     -     -        46444   10    0 
+HardCase  958961580  7  7 c   k     k     k        46434   20    0 9c 5c
+HardCase  958961608  7  6 r   b     b     b        46414  140  290 7s 8s
+HardCase  958961629  7  5 f   -     -     -        46564    0    0 
+HardCase  958961663  7  4 f   -     -     -        46564    0    0 
+HardCase  958961694  7  3 f   -     -     -        46564    0    0 
+HardCase  958961713  7  2 Bk  k     k     kf       46564   20    0 
+HardCase  958961749  8  1 Bf  -     -     -        46544   10    0 
+HardCase  958961780 10  8 f   -     -     -        46534    0    0 
+HardCase  958961827 10  7 c   b     b     b        46534  120  280 
+HardCase  958961869 10  6 f   -     -     -        46694    0    0 
+HardCase  958961923 10  5 cc  kf    -     -        46694   40    0 
+HardCase  958961945 10  4 f   -     -     -        46654    0    0 
+HardCase  958962007 10  3 r   b     kf    -        46654   60    0 
+HardCase  958962054 10  2 Bc  kf    -     -        46594   40    0 
+HardCase  958962094 10  1 Bf  -     -     -        46554   10    0 
+HardCase  958962132 10 10 c   rf    -     -        46544   60    0 
+HardCase  958962191 10  9 c   b     b     k        46484   80  190 Tc 8h
+HardCase  958962230 10  8 r   -     -     -        46594   40   70 
+HardCase  958962242 10  7 f   -     -     -        46624    0    0 
+HardCase  958962300 10  6 r   b     -     -        46624   60  170 
+HardCase  958962337 10  6 f   -     -     -        46734    0    0 
+HardCase  958962369 10  4 f   -     -     -        46734    0    0 
+HardCase  958962449 10  3 f   -     -     -        46734    0    0 
+HardCase  958962489 10  2 Bc  kf    -     -        46734   40    0 
+HardCase  958962530  9  1 Bf  -     -     -        46694   10    0 
+HardCase  958962549  9  9 c   f     -     -        46684   20    0 
+HardCase  958962578  9  8 f   -     -     -        46664    0    0 
+HardCase  958962621  9  7 f   -     -     -        46664    0    0 
+HardCase  958962683 10  6 f   -     -     -        46664    0    0 
+HardCase  958962716 10  5 rc  bc    kc    k        46664  140    0 3d Ad
+HardCase  958962773 10  4 r   b     b     -        46524  100  260 
+HardCase  958962842 10  3 f   -     -     -        46684    0    0 
+HardCase  958962879 10  2 Bc  Q     -     -        46684   40    0 
+HardCase  959134077  7  7 c   k     f     -        46644   20    0 
+HardCase  959134124  7  6 f   -     -     -        46624    0    0 
+HardCase  959134184  7  5 c   k     k     f        46624   20    0 
+HardCase  959134233  7  4 r   r     b     k        46604  120  320 Ah Jd
+HardCase  959134262  7  3 f   -     -     -        46804    0    0 
+HardCase  959134291  7  2 Bf  -     -     -        46804   20    0 
+HardCase  959134336  7  1 Bf  -     -     -        46784   10    0 
+HardCase  959134382  8  8 f   -     -     -        46774    0    0 
+HardCase  959134416  7  6 r   f     -     -        46774   40    0 
+HardCase  959134439  7  5 r   f     -     -        46734   40    0 
+HardCase  959134485  7  4 f   -     -     -        46694    0    0 
+HardCase  959134506  9  3 f   -     -     -        46694    0    0 
+HardCase  959134565  9  2 Bc  kc    k     bf       46694  100    0 
+HardCase  959134620  9  1 Bc  kf    -     -        46594   40    0 
+HardCase  959134679  9  9 c   r     b     k        46554  120    0 6d 5d
+HardCase  959134740  8  7 f   -     -     -        46434    0    0 
+HardCase  959134802  8  4 Q   -     -     -        46434    0    0 
+HardCase  959219385  4  2 Bk  b     k     c        46434   80    0 Js 5d
+HardCase  959219414  5  1 Br  b     -     -        46354   60  140 
+HardCase  959219450  5  5 f   -     -     -        46434    0    0 
+HardCase  959219456  6  5 f   -     -     -        46434    0    0 
+HardCase  959219477  6  4 f   -     -     -        46434    0    0 
+HardCase  959219501  6  3 f   -     -     -        46434    0    0 
+HardCase  959219547  6  2 Bf  -     -     -        46434   20    0 
+HardCase  959219564  6  1 Bc  b     br    b        46414  200  460 7c 6s
+HardCase  959219607  6  6 r   b     -     -        46674   60  120 
+HardCase  959219627  4  3 f   -     -     -        46734    0    0 
+HardCase  959219643  4  2 Bk  Q     -     -        46734   20    0 
+HardCase  959434861  6  2 Bk  k     k     k        46714   20    0 6d 5d
+HardCase  959434882  6  1 Bc  kf    -     -        46694   20    0 
+HardCase  959434901  7  6 c   c     f     -        46674   40    0 
+HardCase  959434938  7  5 f   -     -     -        46634    0    0 
+HardCase  959434970  7  4 f   -     -     -        46634    0    0 
+HardCase  959434994  7  3 f   -     -     -        46634    0    0 
+HardCase  959435025  7  2 Bk  k     k     k        46634   20    0 2c Jh
+HardCase  959435048  7  1 Bc  b     bc    kf       46614  120    0 
+HardCase  959435097  7  7 c   b     b     -        46494   80  170 
+HardCase  959435125  7  6 r   -     -     -        46584   40   70 
+HardCase  959435135  7  5 f   -     -     -        46614    0    0 
+HardCase  959435156  7  4 f   -     -     -        46614    0    0 
+HardCase  959435221  7  3 f   -     -     -        46614    0    0 
+HardCase  959435258  7  2 Bf  -     -     -        46614   20    0 
+HardCase  959435295  7  1 Bf  -     -     -        46594   10    0 
+HardCase  959435338  7  7 c   f     -     -        46584   20    0 
+HardCase  959435382  8  7 f   -     -     -        46564    0    0 
+HardCase  959435409  9  7 cc  b     b     b        46564  140  440 5d 5s
+HardCase  959435471 10  7 r   b     kf    -        46864   60    0 
+HardCase  959435537 10  6 f   -     -     -        46804    0    0 
+HardCase  959435571 10  5 f   -     -     -        46804    0    0 
+HardCase  959435622 10  4 f   -     -     -        46804    0    0 
+HardCase  959435640  9  2 Bk  c     f     -        46804   40    0 
+HardCase  959435674 10  1 Bf  -     -     -        46764   10    0 
+HardCase  959435711 10 10 f   -     -     -        46754    0    0 
+HardCase  959435744 10  9 f   -     -     -        46754    0    0 
+HardCase  959435785 10  8 f   -     -     -        46754    0    0 
+HardCase  959435838 10  7 f   -     -     -        46754    0    0 
+HardCase  959435890 10  6 r   bc    bc    cc       46754  240    0 Qc Qs
+HardCase  959435961 10  5 f   -     -     -        46514    0    0 
+HardCase  959436010 10  4 f   -     -     -        46514    0    0 
+HardCase  959436052 10  3 r   b     -     -        46514   60  130 
+HardCase  959436066 10  2 Bk  k     kf    -        46584   20    0 
+HardCase  959436121  9  1 Bc  kc    k     b        46564   80  180 
+HardCase  959436159  9  9 f   -     -     -        46664    0    0 
+HardCase  959436192  8  7 f   -     -     -        46664    0    0 
+HardCase  959436240  8  6 f   -     -     -        46664    0    0 
+HardCase  959436299  8  5 f   -     -     -        46664    0    0 
+HardCase  959436330  8  4 f   -     -     -        46664    0    0 
+HardCase  959436364  8  3 f   -     -     -        46664    0    0 
+HardCase  959436426  8  2 Bk  kc    kc    kc       46664  160  290 4s Js
+HardCase  959436492  7  1 Bf  -     -     -        46794   10    0 
+HardCase  959436547  7  7 c   k     f     -        46784   20    0 
+HardCase  959436595  6  5 f   -     -     -        46764    0    0 
+HardCase  959436635  6  4 f   -     -     -        46764    0    0 
+HardCase  959436668  6  3 rc  kc    kr    b        46764  200  660 Tc Th
+HardCase  959436715  6  2 Bk  k     b     k        47224   60    0 9s As
+HardCase  959436742  6  1 Bf  -     -     -        47164   10    0 
+HardCase  959436777  6  6 f   -     -     -        47154    0    0 
+HardCase  959436801  6  5 f   -     -     -        47154    0    0 
+HardCase  959436844  6  4 r   b     -     -        47154   60  110 
+HardCase  959436869  5  2 Bf  -     -     -        47204   20    0 
+HardCase  959436890  5  1 Br  b     b     -        47184  100  180 
+HardCase  959436914  5  5 c   k     k     k        47264   20   23 Qh 9c
+HardCase  959436930  5  4 f   -     -     -        47267    0    0 
+HardCase  959436959  5  3 f   -     -     -        47267    0    0 
+HardCase  959436992  5  2 BQ  -     -     -        47267   20    0 
+HardCase  959468535  9  5 f   -     -     -        47247    0    0 
+HardCase  959468573 10  4 f   -     -     -        47247    0    0 
+HardCase  959468604 10  3 cc  kc    k     k        47247  120  590 Ah 8h
+HardCase  959468655 10  2 Bk  kf    -     -        47717   20    0 
+HardCase  959468692 10  1 Bc  kf    -     -        47697   20    0 
+HardCase  959468753 10 10 f   -     -     -        47677    0    0 
+HardCase  959468807 10  9 f   -     -     -        47677    0    0 
+HardCase  959468843 10  8 f   -     -     -        47677    0    0 
+HardCase  959468892 10  7 r   -     -     -        47677   40   70 
+HardCase  959468906 10  7 r   b     b     b        47707  140  380 
+HardCase  959468945 10  6 f   -     -     -        47947    0    0 
+HardCase  959468976 10  4 f   -     -     -        47947    0    0 
+HardCase  959469019 10  3 cc  kf    -     -        47947   40    0 
+HardCase  959469054 10  2 Bc  br    b     br       47907  260    0 Ac As
+HardCase  959469084  9  1 Bf  -     -     -        47647   10    0 
+HardCase  959469114  9  9 c   b     -     -        47637   40  100 
+HardCase  959469133  9  8 rr  c     r     rc       47697  300    0 Ad Ah
+HardCase  959469183  9  7 f   -     -     -        47397    0    0 
+HardCase  959469206  9  6 rc  rc    c     c        47397  200    0 5h 4h
+HardCase  959469231  9  5 f   -     -     -        47197    0    0 
+HardCase  959469254  9  4 r   b     b     f        47197  100    0 
+HardCase  959469286  9  3 f   -     -     -        47097    0    0 
+HardCase  959469304  9  2 Bc  c     rr    b        47097  260  560 3s 9h
+HardCase  959469340  9  1 Bf  -     -     -        47397   10    0 
+HardCase  959469370  9  9 f   -     -     -        47387    0    0 
+HardCase  959469425  8  7 r   b     b     k        47387  100  280 Jh Js
+HardCase  959469461  8  6 f   -     -     -        47567    0    0 
+HardCase  959469498  8  5 f   -     -     -        47567    0    0 
+HardCase  959469536  9  5 f   -     -     -        47567    0    0 
+HardCase  959469561  9  4 cc  kc    kc    k        47567  100  360 9s As
+HardCase  959469623  9  3 f   -     -     -        47827    0    0 
+HardCase  959469655  9  2 Bf  -     -     -        47827   20    0 
+HardCase  959469709  8  1 Bcc kf    -     -        47807   40    0 
+HardCase  959469758  8  8 f   -     -     -        47767    0    0 
+HardCase  959469795  9  7 f   -     -     -        47767    0    0 
+HardCase  959469832  9  6 f   -     -     -        47767    0    0 
+HardCase  959469886  9  5 f   -     -     -        47767    0    0 
+HardCase  959469897  9  4 f   -     -     -        47767    0    0 
+HardCase  959469916  9  3 f   -     -     -        47767    0    0 
+HardCase  959469963  9  2 Bc  kc    kc    kc       47767  140  330 8s Js
+HardCase  959470001 10  1 Bf  -     -     -        47957   10    0 
+HardCase  959470042 10 10 cc  r     k     k        47947  120    0 Js As
+HardCase  959470081 10  9 r   c     b     b        47827  140  340 6s 6c
+HardCase  959470114 10  8 f   -     -     -        48027    0    0 
+HardCase  959470147 10  7 f   -     -     -        48027    0    0 
+HardCase  959470190 10  6 f   -     -     -        48027    0    0 
+HardCase  959470222 10  5 f   -     -     -        48027    0    0 
+HardCase  959470281 10  4 f   -     -     -        48027    0    0 
+HardCase  959470308 10  3 rc  b     b     b        48027  160  410 Ts As
+HardCase  959470336 10  2 Bk  kf    -     -        48277   20    0 
+HardCase  959470376 10  1 Bf  -     -     -        48257   10    0 
+HardCase  959470474 10 10 cc  cf    -     -        48247   60    0 
+HardCase  959470564 10  9 f   -     -     -        48187    0    0 
+HardCase  959470628 10  8 f   -     -     -        48187    0    0 
+HardCase  959470655 10  7 cc  bc    brc   kc       48187  280    0 7s Qs
+HardCase  959470718 10  6 f   -     -     -        47907    0    0 
+HardCase  959470805 10  5 f   -     -     -        47907    0    0 
+HardCase  959470849 10  4 f   -     -     -        47907    0    0 
+HardCase  959470908 10  3 f   -     -     -        47907    0    0 
+HardCase  959470961 10  2 Bf  -     -     -        47907   20    0 
+HardCase  959470992 10  1 Bf  -     -     -        47887   10    0 
+HardCase  959471039  9  9 f   -     -     -        47877    0    0 
+HardCase  959471091  9  8 f   -     -     -        47877    0    0 
+HardCase  959471170  9  7 f   -     -     -        47877    0    0 
+HardCase  959471231 10  6 f   -     -     -        47877    0    0 
+HardCase  959471262  8  5 f   -     -     -        47877    0    0 
+HardCase  959471336  9  4 f   -     -     -        47877    0    0 
+HardCase  959471398  9  3 f   -     -     -        47877    0    0 
+HardCase  959471430  9  2 Bf  -     -     -        47877   20    0 
+HardCase  959471475  9  1 Bf  -     -     -        47857   10    0 
+HardCase  959471517  8  8 f   -     -     -        47847    0    0 
+HardCase  959471552  8  8 f   -     -     -        47847    0    0 
+HardCase  959471589  8  7 f   -     -     -        47847    0    0 
+HardCase  959471605  8  6 f   -     -     -        47847    0    0 
+HardCase  959471713 10  5 f   -     -     -        47847    0    0 
+HardCase  959471784 10  4 f   -     -     -        47847    0    0 
+HardCase  959471821 10  3 fQ  -     -     -        47847    0    0 
+HardCase  959480620 10  2 Bk  kf    -     -        47847   20    0 
+HardCase  959480652 10  1 Bf  -     -     -        47827   10    0 
+HardCase  959480680 10 10 f   -     -     -        47817    0    0 
+HardCase  959480750 10  9 f   -     -     -        47817    0    0 
+HardCase  959480793 10  8 c   f     -     -        47817   20    0 
+HardCase  959480858 10  7 f   -     -     -        47797    0    0 
+HardCase  959480938 10  6 f   -     -     -        47797    0    0 
+HardCase  959480967 10  5 f   -     -     -        47797    0    0 
+HardCase  959480989 10  4 f   -     -     -        47797    0    0 
+HardCase  959481003 10  3 f   -     -     -        47797    0    0 
+HardCase  959481064 10  2 Bk  k     kf    -        47797   20    0 
+HardCase  959481106 10  1 Bf  -     -     -        47777   10    0 
+HardCase  959481151 10 10 f   -     -     -        47767    0    0 
+HardCase  959481200 10  9 f   -     -     -        47767    0    0 
+HardCase  959481255 10  8 f   -     -     -        47767    0    0 
+HardCase  959481307 10  7 f   -     -     -        47767    0    0 
+HardCase  959481347 10  6 f   -     -     -        47767    0    0 
+HardCase  959481379 10  5 f   -     -     -        47767    0    0 
+HardCase  959481422 10  4 f   -     -     -        47767    0    0 
+HardCase  959481466 10  3 f   -     -     -        47767    0    0 
+HardCase  959481530 10  2 Bf  -     -     -        47767   20    0 
+HardCase  959481623 10  1 Bf  -     -     -        47747   10    0 
+HardCase  959481665 10 10 f   -     -     -        47737    0    0 
+HardCase  959481709  9  8 c   b     -     -        47737   40   80 
+HardCase  959481757  9  8 f   -     -     -        47777    0    0 
+HardCase  959481841  9  7 rc  kf    -     -        47777   60    0 
+HardCase  959481873 10  6 f   -     -     -        47717    0    0 
+HardCase  959481921 10  5 f   -     -     -        47717    0    0 
+HardCase  959481947 10  4 f   -     -     -        47717    0    0 
+HardCase  959481992 10  3 f   -     -     -        47717    0    0 
+HardCase  959482013 10  2 Bc  kf    -     -        47717   40    0 
+HardCase  959482047 10  1 Bc  kf    -     -        47677   20    0 
+HardCase  959482092 10 10 f   -     -     -        47657    0    0 
+HardCase  959482139 10  9 c   f     -     -        47657   20    0 
+HardCase  959482214 10  8 f   -     -     -        47637    0    0 
+HardCase  959482274 10  8 f   -     -     -        47637    0    0 
+HardCase  959482337  9  6 r   c     f     -        47637   60    0 
+HardCase  959482380 10  5 ccc bc    kc    kf       47577  160    0 
+HardCase  959482475 10  4 cc  r     b     b        47417  160  340 
+HardCase  959482527 10  3 f   -     -     -        47597    0    0 
+HardCase  959482607  9  2 Bk  kf    -     -        47597   20    0 
+HardCase  959482645  9  1 Bc  kf    -     -        47577   40    0 
+HardCase  959482684  9  9 f   -     -     -        47537    0    0 
+HardCase  959482724  9  8 f   -     -     -        47537    0    0 
+HardCase  959482783 10  7 f   -     -     -        47537    0    0 
+HardCase  959482822 10  6 f   -     -     -        47537    0    0 
+HardCase  959482872 10  5 f   -     -     -        47537    0    0 
+HardCase  959482947 10  4 f   -     -     -        47537    0    0 
+HardCase  959483003 10  3 f   -     -     -        47537    0    0 
+HardCase  959483040 10  2 Bk  kf    -     -        47537   20    0 
+HardCase  959483082 10  1 Bc  b     b     k        47517   80  240 Ac 4h
+HardCase  959483124 10 10 r   r     b     b        47677  160  330 
+HardCase  959483161 10  9 c   c     c     f        47847  100    0 
+HardCase  959483206 10  8 f   -     -     -        47747    0    0 
+HardCase  959483244 10  7 f   -     -     -        47747    0    0 
+HardCase  959483305 10  6 f   -     -     -        47747    0    0 
+HardCase  959483333 10  5 f   -     -     -        47747    0    0 
+HardCase  959483357 10  4 f   -     -     -        47747    0    0 
+HardCase  959483406 10  3 rcc b     b     b        47747  180  550 
+HardCase  959483449 10  2 Bf  -     -     -        48117   20    0 
+HardCase  959483495 10  1 Bf  -     -     -        48097   10    0 
+HardCase  959483525  9  9 c   r     f     -        48087   60    0 
+HardCase  959483550  9  8 f   -     -     -        48027    0    0 
+HardCase  959483576  9  7 c   f     -     -        48027   20    0 
+HardCase  959483603  9  6 f   -     -     -        48007    0    0 
+HardCase  959483622  9  5 rc  kc    krr   brrrrrr  48007  760 1670 6h 4h
+HardCase  959483692  9  5 f   -     -     -        48917    0    0 
+HardCase  959483714  9  4 f   -     -     -        48917    0    0 
+HardCase  959483759  9  3 f   -     -     -        48917    0    0 
+HardCase  959483790  9  2 Bk  k     kf    -        48917   20    0 
+HardCase  959483820  9  1 Bf  -     -     -        48897   10    0 
+HardCase  959483848  9  9 f   -     -     -        48887    0    0 
+HardCase  959483896  9  8 c   c     b     c        48887  120    0 Th Ah
+HardCase  959483959  9  7 r   k     cc    kc       48767  160    0 Kd Jd
+HardCase  959484008  9  6 f   -     -     -        48607    0    0 
+HardCase  959484046 10  5 f   -     -     -        48607    0    0 
+HardCase  959484085 10  4 f   -     -     -        48607    0    0 
+HardCase  959484149 10  3 f   -     -     -        48607    0    0 
+HardCase  959484197  9  2 Bk  kf    -     -        48607   20    0 
+HardCase  959484225 10  1 Bc  kf    -     -        48587   20    0 
+HardCase  959484261 10 10 c   f     -     -        48567   20    0 
+HardCase  959484305 10  9 f   -     -     -        48547    0    0 
+HardCase  959484350 10  8 f   -     -     -        48547    0    0 
+HardCase  959484396 10  7 rc  bc    k     kc       48547  140    0 Ac Ts
+HardCase  959484442 10  6 f   -     -     -        48407    0    0 
+HardCase  959484472 10  5 f   -     -     -        48407    0    0 
+HardCase  959484514 10  4 c   b     b     -        48407   80  150 
+HardCase  959484542 10  3 f   -     -     -        48477    0    0 
+HardCase  959484553 10  2 Bk  kf    -     -        48477   20    0 
+HardCase  959484614 10  1 Bf  -     -     -        48457   10    0 
+HardCase  959484662 10 10 c   b     -     -        48447   40  130 
+HardCase  959484695 10  9 c   f     -     -        48537   20    0 
+HardCase  959484717 10  8 f   -     -     -        48517    0    0 
+HardCase  959484756 10  7 rr  r     b     k        48517  160    0 Ad Qh
+HardCase  959484803 10  6 f   -     -     -        48357    0    0 
+HardCase  959484836 10  5 c   k     f     -        48357   20    0 
+HardCase  959484890 10  4 f   -     -     -        48337    0    0 
+HardCase  959484940 10  3 f   -     -     -        48337    0    0 
+HardCase  959484989 10  2 Bk  kc    kc    b        48337  120  290 5c 8s
+HardCase  959485036 10  1 Bc  k     bc    kc       48507  160    0 8c 6c
+HardCase  959485063 10 10 c   r     bc    b        48347  200  450 Kc 2c
+HardCase  959485103 10  9 f   -     -     -        48597    0    0 
+HardCase  959485137 10  8 c   r     cc    kf       48597  140    0 
+HardCase  959485193 10  7 f   -     -     -        48457    0    0 
+HardCase  959485216 10  6 f   -     -     -        48457    0    0 
+HardCase  959485244 10  5 f   -     -     -        48457    0    0 
+HardCase  959485252 10  4 f   -     -     -        48457    0    0 
+HardCase  959485281 10  3 f   -     -     -        48457    0    0 
+HardCase  959485302 10  2 Bc  k     kf    -        48457   40    0 
+HardCase  959485370 10  1 Bf  -     -     -        48417   10    0 
+HardCase  959485405 10 10 f   -     -     -        48407    0    0 
+HardCase  959485453 10  9 f   -     -     -        48407    0    0 
+HardCase  959485495 10  8 f   -     -     -        48407    0    0 
+HardCase  959485535 10  7 f   -     -     -        48407    0    0 
+HardCase  959485573 10  6 f   -     -     -        48407    0    0 
+HardCase  959485628 10  5 f   -     -     -        48407    0    0 
+HardCase  959485670  9  3 fQ  -     -     -        48407    0    0 
+HardCase  959549422  8  6 f   -     -     -        48407    0    0 
+HardCase  959549466  8  5 f   -     -     -        48407    0    0 
+HardCase  959549521  7  4 f   -     -     -        48407    0    0 
+HardCase  959549590  7  3 f   -     -     -        48407    0    0 
+HardCase  959549621  7  2 Bf  -     -     -        48407   20    0 
+HardCase  959549678  6  1 Br  br    b     bc       48387  220    0 Qs Qc
+HardCase  959549718  6  6 f   -     -     -        48167    0    0 
+HardCase  959549740  7  6 c   c     f     -        48167   40    0 
+HardCase  959549781  7  5 r   b     b     k        48127  100  110 9c 6c
+HardCase  959549802  7  4 f   -     -     -        48137    0    0 
+HardCase  959549816  7  3 f   -     -     -        48137    0    0 
+HardCase  959549854  7  2 Bf  -     -     -        48137   20    0 
+HardCase  959549865  7  1 Bc  b     b     b        48117  120  260 3h As
+HardCase  959549889  7  7 f   -     -     -        48257    0    0 
+HardCase  959549931  7  6 f   -     -     -        48257    0    0 
+HardCase  959549958  7  5 f   -     -     -        48257    0    0 
+HardCase  959549982  7  4 f   -     -     -        48257    0    0 
+HardCase  959550015  7  3 f   -     -     -        48257    0    0 
+HardCase  959550066  7  2 Bk  kf    -     -        48257   20    0 
+HardCase  959550090  7  1 Bc  b     b     b        48237  120  280 Js Ac
+HardCase  959550111  7  7 f   -     -     -        48397    0    0 
+HardCase  959550161  7  6 rc  b     b     -        48397  120  230 
+HardCase  959550189  7  5 f   -     -     -        48507    0    0 
+HardCase  959550236  7  4 f   -     -     -        48507    0    0 
+HardCase  959550298  6  3 f   -     -     -        48507    0    0 
+HardCase  959550339  6  2 Bk  b     -     -        48507   40   70 
+HardCase  959550376  6  1 Bf  -     -     -        48537   10    0 
+HardCase  959550422  6  6 f   -     -     -        48527    0    0 
+HardCase  959550491  6  5 c   bc    kc    k        48527  100    0 Ah 6h
+HardCase  959550562  6  4 r   b     b     -        48427  100  170 
+HardCase  959550585  6  3 f   -     Q     -        48497    0    0 
+HardCase  959551986  4  3 f   -     -     -        48497    0    0 
+HardCase  959552004  4  2 Bc  b     brc   b        48497  260  580 Qc Qd
+HardCase  959552046  4  1 Bf  -     -     -        48817   10    0 
+HardCase  959552077  3  3 r   b     -     -        48807   60  140 
+HardCase  959552096  3  2 Bk  b     -     -        48887   40   60 
+HardCase  959552103  3  1 Bf  -     -     -        48907   10    0 
+HardCase  959552117  3  3 r   k     b     b        48897  120  250 Ac Ah
+HardCase  959552133  3  2 Bk  k     k     k        49027   20   40 8c As
+HardCase  959552147  3  1 Bf  -     -     -        49047   10    0 
+HardCase  959552161  3  3 r   f     -     -        49037   40    0 
+HardCase  959552187  4  2 Bk  k     k     b        48997   60  120 7s Ks
+HardCase  959552204  4  1 Bc  k     b     b        49057  100  220 Qs Jd
+HardCase  959552222  4  4 r   bc    k     c        49177  120    0 As 9c
+HardCase  959552248  4  3 rc  r     k     k        49057  100    0 9h 6h
+HardCase  959552273  4  2 Bk  k     k     k        48957   20   40 3c 2h
+HardCase  959552286  4  1 Bf  -     -     -        48977   10    0 
+HardCase  959552302  4  4 Q   -     -     -        48967    0    0 
+HardCase  959553600  5  3 r   bf    -     -        48967   60    0 
+HardCase  959553637  6  2 Bk  k     kf    -        48907   20    0 
+HardCase  959553676  6  1 Bf  -     -     -        48887   10    0 
+HardCase  959553718  5  5 r   c     f     -        48877   60    0 
+HardCase  959553763  5  4 r   b     b     k        48817  100  340 Js Jd
+HardCase  959553813  5  3 r   bc    b     b        49057  160  330 
+HardCase  959553836  4  1 Bk  k     kc    k        49227   60  120 Kd 7c
+HardCase  959553854  4  1 Bf  -     -     -        49287   10    0 
+HardCase  959553869  4  4 rc  r     b     k        49277  140  290 Ah Th
+HardCase  959553889  4  3 f   -     -     -        49427    0    0 
+HardCase  959553906  4  2 Bc  c     b     k        49427  100  200 2c 6c
+HardCase  959553928  4  1 Bf  -     -     -        49527   10    0 
+HardCase  959553936  4  4 f   -     -     -        49517    0    0 
+HardCase  959553967  4  3 rc  b     b     k        49517  120  380 9s Ah
+HardCase  959554005  4  2 B   -     -     -        49777   20   30 
+HardCase  959554016  4  1 Bc  kf    -     -        49787   20    0 
+HardCase  959554051  4  4 f   -     -     -        49767    0    0 
+HardCase  959554061  4  3 r   rr    b     k        49767  160    0 Kh Kc
+HardCase  959554100  4  2 B   -     -     -        49607   20   30 
+HardCase  959554113  4  1 Bf  -     -     -        49617   10    0 
+HardCase  959554131  4  4 f   -     -     -        49607    0    0 
+HardCase  959554137  4  3 f   -     -     -        49607    0    0 
+HardCase  959554143  4  2 Bk  k     f     -        49607   20    0 
+HardCase  959554157  4  1 Bf  -     -     -        49587   10    0 
+HardCase  959554222  3  3 r   -     -     -        49577   40   60 
+HardCase  959554232  3  3 f   -     -     -        49597    0    0 
+HardCase  959554267  4  3 rc  r     b     -        49597  140  250 
+HardCase  959554305  3  2 Bk  bc    br    b        49707  220  440 Ks Ac
+HardCase  959554335  3  1 Bc  bc    k     k        49927   60  180 Ks 8s
+HardCase  959554365  3  3 f   -     -     -        50047    0    0 
+HardCase  959554371  3  2 Bk  k     k     k        50047   20   20 3d Ad
+HardCase  959554388  3  1 Bf  -     -     -        50047   10    0 
+HardCase  959554393  3  3 r   r     b     k        50037  120  260 8d Tc
+HardCase  959554417  3  2 Bc  kc    k     k        50177   60    0 6h 7h
+HardCase  959554441  3  1 Bf  -     -     -        50117   10    0 
+HardCase  959554447  3  3 f   -     -     -        50107    0    0 
+HardCase  959554466  3  2 B   -     -     -        50107   20   30 
+HardCase  959554469  3  1 Bf  -     -     -        50117   10    0 
+HardCase  959554480  3  3 r   b     k     k        50107   60  130 4h Th
+HardCase  959554521  3  2 Bf  -     -     -        50177   20    0 
+HardCase  959554549  3  1 Bf  -     -     -        50157   10    0 
+HardCase  959554571  3  3 f   -     -     -        50147    0    0 
+HardCase  959554581  3  2 B   -     -     -        50147   20   30 
+HardCase  959554585  3  1 Bf  -     -     -        50157   10    0 
+HardCase  959554590  3  3 f   -     -     -        50147    0    0 
+HardCase  959554595  3  2 Bc  c     c     c        50147  140    0 8s Ah
+HardCase  959554610  3  1 Bc  kf    -     -        50007   40    0 
+HardCase  959554652  3  3 r   -     -     -        49967   40   70 
+HardCase  959554663  3  2 Bc  f     -     -        49997   40    0 
+HardCase  959554674  3  1 Br  bf    -     -        49957   60    0 
+HardCase  959554689  3  3 f   -     -     -        49897    0    0 
+HardCase  959554727  3  2 B   -     -     -        49897   20   30 
+HardCase  959554735  3  1 Bf  -     -     -        49907   10    0 
+HardCase  959554738  3  3 rr  b     b     k        49897  140  290 Jd As
+HardCase  959554754  3  2 Bf  -     -     -        50047   20    0 
+HardCase  959554760  3  1 Bf  -     -     -        50027   10    0 
+HardCase  959554762  3  3 r   b     -     -        50017   60  110 
+HardCase  959554769  3  2 Bc  f     -     -        50067   40    0 
+HardCase  959554780  3  1 Bf  -     -     -        50027   10    0 
+HardCase  959554784  3  3 f   -     -     -        50017    0    0 
+HardCase  959554791  3  2 B   -     -     -        50017   20   30 
+HardCase  959554797  3  1 Bf  -     -     -        50027   10    0 
+HardCase  959554810  3  3 f   -     -     -        50017    0    0 
+HardCase  959554838  3  2 Bk  bc    kf    -        50017   60    0 
+HardCase  959554868  3  1 Br  b     b     -        49957  100  160 
+HardCase  959554883  3  3 f   -     -     -        50017    0    0 
+HardCase  959554906  3  2 Bc  r     b     -        50017  120  200 
+HardCase  959554917  3  1 Bf  -     -     -        50097   10    0 
+HardCase  959554925  3  3 r   b     bc    k        50087  140    0 Qd 7d
+HardCase  959554959  3  2 Bc  kf    -     -        49947   40    0 
+HardCase  959554975  3  1 Br  -     -     -        49907   40   60 
+HardCase  959554989  3  3 r   -     -     -        49927   40   70 
+HardCase  959554992  3  2 Bc  brc   c     k        49957  160  480 Qh Ks
+HardCase  959555030  3  1 Br  b     b     b        50277  140    0 7d Qd
+HardCase  959555064  3  3 f   -     -     -        50137    0    0 
+HardCase  959555079  3  2 Bc  kf    -     -        50137   40    0 
+HardCase  959555088  3  1 Br  -     -     -        50097   40   60 
+HardCase  959555094  3  3 f   -     -     -        50117    0    0 
+HardCase  959555098  3  2 Bc  kr    b     b        50117  180  460 Jd Ah
+HardCase  959555127  3  1 Br  k     b     -        50397   80  120 
+HardCase  959555153  3  3 f   -     -     -        50437    0    0 
+HardCase  959555156  3  2 Bc  kc    kc    kc       50437  140    0 Kc Js
+HardCase  959555180  3  1 Bf  -     -     -        50297   10    0 
+HardCase  959555213  4  3 r   b     b     kc       50287  140  330 5c Ad
+HardCase  959555241  4  2 Bc  kc    k     b        50477  100  170 
+HardCase  959555271  4  1 Brc b     b     bf       50547  160    0 
+HardCase  959555305  4  4 r   b     c     c        50387  140    0 Ah 6s
+HardCase  959555337  4  3 f   -     -     -        50247    0    0 
+HardCase  959555401  4  2 Bk  kf    -     -        50247   20    0 
+HardCase  959555416  4  1 Bf  -     -     -        50227   10    0 
+HardCase  959555420  4  4 f   -     -     -        50217    0    0 
+HardCase  959555428  4  3 rc  bc    kc    kc       50217  180  430 Ac Qc
+HardCase  959555464  4  2 Bc  c     r     b        50467  200  460 6s 6d
+HardCase  959555511  4  1 Bf  -     -     -        50727   10    0 
+HardCase  959555521  4  4 f   -     -     -        50717    0    0 
+HardCase  959555575  4  3 f   -     -     -        50717    0    0 
+HardCase  959555640  4  2 Bc  kc    c     c        50717  160    0 2c 5c
+HardCase  959555674  4  1 Br  b     brc   kc       50557  260    0 8s Jd
+HardCase  959555706  4  4 r   -     -     -        50297   40   70 
+HardCase  959555716  4  3 f   -     -     -        50327    0    0 
+HardCase  959555727  4  2 Bc  k     kc    kf       50327   80    0 
+HardCase  959555754  4  1 Bc  kf    -     -        50247   20    0 
+HardCase  959555779  4  4 r   b     -     -        50227   80  170 
+HardCase  959555799  4  3 f   -     -     -        50317    0    0 
+HardCase  959555829  4  2 Bc  kf    -     -        50317   40    0 
+HardCase  959555856  4  1 Bc  b     b     b        50277  140  340 Tc 9s
+HardCase  959555881  4  4 r   b     b     r        50477  180  380 Qd Ts
+HardCase  959555910  4  3 r   kf    -     -        50677   40    0 
+HardCase  959555937  4  2 Bc  b     b     kc       50637  140    0 Kh 4h
+HardCase  959555973  5  1 Bf  -     -     -        50497   10    0 
+HardCase  959556016  5  5 f   -     -     -        50487    0    0 
+HardCase  959556068  5  4 f   -     -     -        50487    0    0 
+HardCase  959556099  4  3 f   -     -     -        50487    0    0 
+HardCase  959556112  4  3 r   b     b     b        50487  140  270 
+HardCase  959556133  4  2 Bk  kc    kc    kc       50617  120    0 Qc Th
+HardCase  959556155  4  1 Bf  -     -     -        50497   10    0 
+HardCase  959556183  4  4 r   bc    k     c        50487  140    0 Qh Js
+HardCase  959556208  4  3 f   -     -     -        50347    0    0 
+HardCase  959556234  4  2 Bc  kc    kc    kc       50347  140    0 8s 3s
+HardCase  959556256  4  1 Br  b     b     b        50207  160  340 Qs Ac
+HardCase  959556276  4  4 r   b     k     k        50387   80  190 Ad Qd
+HardCase  959556302  4  3 f   -     -     -        50497    0    0 
+HardCase  959556332  6  2 Bc  k     f     -        50497   40    0 
+HardCase  959556349  6  1 Bc  kf    -     -        50457   40    0 
+HardCase  959556450  7  7 r   -     -     -        50417   40   70 
+HardCase  959556465  7  6 f   -     -     -        50447    0    0 
+HardCase  959556478  7  5 rc  kf    -     -        50447   60    0 
+HardCase  959556527  7  4 f   -     -     -        50387    0    0 
+HardCase  959556558  7  3 r   kf    -     -        50387   40    0 
+HardCase  959556605  6  2 Bk  kf    -     -        50347   20    0 
+HardCase  959556617  6  1 Bf  -     -     -        50327   10    0 
+HardCase  959556662  8  8 rc  brc   f     -        50317  160    0 
+HardCase  959556705  8  8 cc  f     -     -        50157   40    0 
+HardCase  959556753 10  8 f   -     Q     -        50117    0    0 
+HardCase  959567008 10  5 f   -     -     -        50117    0    0 
+HardCase  959567047  9  4 f   -     -     -        50117    0    0 
+HardCase  959567078  9  3 f   -     -     -        50117    0    0 
+HardCase  959567115  8  2 Bf  -     -     -        50117   20    0 
+HardCase  959567158  8  1 Bf  -     -     -        50097   10    0 
+HardCase  959567192  8  8 f   -     -     -        50087    0    0 
+HardCase  959567219  8  7 f   -     -     -        50087    0    0 
+HardCase  959567233  8  6 f   -     -     -        50087    0    0 
+HardCase  959567262  8  5 f   -     -     -        50087    0    0 
+HardCase  959567314  9  4 f   -     -     -        50087    0    0 
+HardCase  959567371  9  3 f   -     -     -        50087    0    0 
+HardCase  959567387  9  2 Bf  -     -     -        50087   20    0 
+HardCase  959567430  9  1 Bf  -     -     -        50067   10    0 
+HardCase  959567495  9  9 rc  f     -     -        50057   60    0 
+HardCase  959567542  9  8 r   b     b     b        49997  140  270 
+HardCase  959567576 10  8 f   -     -     -        50127    0    0 
+HardCase  959567615 10  7 f   -     -     -        50127    0    0 
+HardCase  959567710 10  6 f   -     -     -        50127    0    0 
+HardCase  959567737  9  4 f   -     -     -        50127    0    0 
+HardCase  959567814 10  4 f   -     -     -        50127    0    0 
+HardCase  959567847 10  3 f   -     -     -        50127    0    0 
+HardCase  959567878 10  2 Bk  f     -     -        50127   20    0 
+HardCase  959567924 10  1 Bc  kc    k     kf       50107   40    0 
+HardCase  959567971 10 10 f   -     -     -        50067    0    0 
+HardCase  959568013 10  9 c   br    r     k        50067  180    0 2c Ac
+HardCase  959568043 10  8 cc  c     c     f        49887  140    0 
+HardCase  959568106 10  7 f   -     -     -        49747    0    0 
+HardCase  959568140 10  6 c   cr    bc    kcc      49747  300    0 Qd Th
+HardCase  959568193 10  5 f   -     -     -        49447    0    0 
+HardCase  959568294  8  3 f   -     -     -        49447    0    0 
+HardCase  959568356 10  3 f   -     -     -        49447    0    0 
+HardCase  959568381 10  2 Bc  brc   c     f        49447  160    0 
+HardCase  959568436 10  1 Br  br    brrrrc kc       49287  540    0 Qh Th
+HardCase  959568475 10 10 c   f     -     -        48747   40    0 
+HardCase  959568517 10  9 f   -     -     -        48707    0    0 
+HardCase  959568530 10  8 c   b     kf    -        48707   40    0 
+HardCase  959568591 10  7 f   -     -     -        48667    0    0 
+HardCase  959568631 10  6 f   -     -     -        48667    0    0 
+HardCase  959568711 10  5 f   -     -     -        48667    0    0 
+HardCase  959568764 10  4 f   -     -     -        48667    0    0 
+HardCase  959568815 10  3 f   -     -     -        48667    0    0 
+HardCase  959568831 10  2 Bc  kf    -     -        48667   40    0 
+HardCase  959568871 10  1 Bc  k     k     k        48627   20    0 6h 8c
+HardCase  959568924 10 10 f   -     -     -        48607    0    0 
+HardCase  959568962 10  9 c   f     -     -        48607   40    0 
+HardCase  959568979 10  8 f   -     -     -        48567    0    0 
+HardCase  959569029 10  7 f   -     -     -        48567    0    0 
+HardCase  959569077 10  6 f   -     -     -        48567    0    0 
+HardCase  959569133 10  5 r   -     -     -        48567   40   70 
+HardCase  959569154  9  4 f   -     -     -        48597    0    0 
+HardCase  959569176  9  3 f   -     -     -        48597    0    0 
+HardCase  959569190  9  2 Bc  b     bc    k        48597  140    0 2d 4d
+HardCase  959569238  9  1 Bc  kf    -     -        48457   20    0 
+HardCase  959569256  9  9 c   k     k     k        48437   20    0 4s 5s
+HardCase  959569299  9  8 f   -     -     -        48417    0    0 
+HardCase  959569335  9  7 f   -     -     -        48417    0    0 
+HardCase  959569372  8  5 f   -     -     -        48417    0    0 
+HardCase  959569415  8  4 f   -     -     -        48417    0    0 
+HardCase  959569481  6  2 f   -     -     -        48417    0    0 
+HardCase  959569512  7  2 Bf  -     -     -        48417   20    0 
+HardCase  959569542  7  1 Bf  -     -     -        48397   10    0 
+HardCase  959569582  7  7 f   -     -     -        48387    0    0 
+HardCase  959569621  7  6 f   -     -     -        48387    0    0 
+HardCase  959569663  7  5 f   -     -     -        48387    0    0 
+HardCase  959569689  7  4 f   -     -     -        48387    0    0 
+HardCase  959569727  8  4 f   -     -     -        48387    0    0 
+HardCase  959569749  8  3 f   -     -     -        48387    0    0 
+HardCase  959569785  8  2 Bk  r     b     f        48387  100    0 
+HardCase  959569818  8  1 Bf  -     -     -        48287   10    0 
+HardCase  959569839  8  8 f   -     -     -        48277    0    0 
+HardCase  959569864  8  7 f   -     -     -        48277    0    0 
+HardCase  959569891  8  6 c   f     -     -        48277   20    0 
+HardCase  959569937  8  5 f   -     -     -        48257    0    0 
+HardCase  959570027  8  4 f   -     -     -        48257    0    0 
+HardCase  959570064  7  3 c   kf    -     -        48257   20    0 
+HardCase  959570090  8  2 Bk  b     b     k        48237   80   90 6c Qd
+HardCase  959570121  8  1 Bf  -     -     -        48247   10    0 
+HardCase  959570138  8  8 f   -     -     -        48237    0    0 
+HardCase  959570156  8  7 f   -     -     -        48237    0    0 
+HardCase  959570186  8  6 f   -     -     -        48237    0    0 
+HardCase  959570203  8  5 cc  f     -     -        48237   80    0 
+HardCase  959570242  8  4 f   -     -     -        48157    0    0 
+HardCase  959570259  9  3 r   b     b     bc       48157  180    0 Qc As
+HardCase  959570297  9  2 Bc  k     k     b        47977   80  240 
+HardCase  959570347  9  1 Bf  -     -     -        48137   10    0 
+HardCase  959570380  9  9 f   -     -     -        48127    0    0 
+HardCase  959570405  9  8 cc  rc    c     k        48127  140    0 Ts 9d
+HardCase  959570449  8  6 f   -     -     -        47987    0    0 
+HardCase  959570470  9  6 rr  r     b     k        47987  160  400 Qh Ac
+HardCase  959570504  9  5 f   -     -     -        48227    0    0 
+HardCase  959570581  9  4 f   -     -     -        48227    0    0 
+HardCase  959570644  9  3 r   rr    b     k        48227  160  680 Qd Ac
+HardCase  959570698  8  2 Bk  k     f     -        48747   20    0 
+HardCase  959570741  8  1 Bf  -     -     -        48727   10    0 
+HardCase  959570785  8  8 f   -     -     -        48717    0    0 
+HardCase  959570802  8  7 f   -     -     -        48717    0    0 
+HardCase  959570835  8  6 f   -     -     -        48717    0    0 
+HardCase  959570864  8  5 f   -     -     -        48717    0    0 
+HardCase  959570891  8  4 f   -     -     -        48717    0    0 
+HardCase  959570909  8  3 f   -     -     -        48717    0    0 
+HardCase  959570936  8  2 Bc  b     b     b        48717  140  350 
+HardCase  959570962  8  1 Bf  -     -     -        48927   10    0 
+HardCase  959570977  8  8 f   -     -     -        48917    0    0 
+HardCase  959571002  8  7 f   -     -     -        48917    0    0 
+HardCase  959571062  8  6 f   -     -     -        48917    0    0 
+HardCase  959571099  8  5 f   -     -     -        48917    0    0 
+HardCase  959571118  8  4 f   -     -     -        48917    0    0 
+HardCase  959571132  8  3 f   -     -     -        48917    0    0 
+HardCase  959571156  8  2 Bk  kf    -     -        48917   20    0 
+HardCase  959571210  8  1 Bf  -     -     -        48897   10    0 
+HardCase  959571245  8  8 f   -     -     -        48887    0    0 
+HardCase  959571303  8  7 c   rr    b     k        48887  140  430 Ts As
+HardCase  959571343  7  5 f   -     -     -        49177    0    0 
+HardCase  959571386  7  4 f   -     -     -        49177    0    0 
+HardCase  959571420  7  3 f   -     -     -        49177    0    0 
+HardCase  959571451  6  2 Bf  -     -     -        49177   20    0 
+HardCase  959571477  6  1 Bf  -     -     -        49157   10    0 
+HardCase  959571499  6  6 f   -     -     -        49147    0    0 
+HardCase  959571517  6  5 cc  k     k     k        49147   40    0 5c 6c
+HardCase  959571543  7  5 f   -     -     -        49107    0    0 
+HardCase  959571582  7  4 f   -     -     -        49107    0    0 
+HardCase  959571620  7  3 f   -     -     -        49107    0    0 
+HardCase  959571644  7  2 Bf  -     -     -        49107   20    0 
+HardCase  959571723  7  1 Bc  kcc   k     k        49087   80  260 7h 7d
+HardCase  959571759  8  8 f   -     -     -        49267    0    0 
+HardCase  959571800  8  7 f   -     -     -        49267    0    0 
+HardCase  959571834  8  6 f   -     -     -        49267    0    0 
+HardCase  959571853  8  5 c   b     -     -        49267   40   80 
+HardCase  959571874  8  4 f   -     -     -        49307    0    0 
+HardCase  959571910  8  3 f   -     -     -        49307    0    0 
+HardCase  959571936  8  2 Bf  -     -     -        49307   20    0 
+HardCase  959572062  8  1 Bf  -     -     -        49287   10    0 
+HardCase  959572098  8  8 r   b     -     -        49277   60  170 
+HardCase  959572122  8  7 f   -     -     -        49387    0    0 
+HardCase  959572168  8  6 f   -     -     -        49387    0    0 
+HardCase  959572189  9  5 f   -     -     -        49387    0    0 
+HardCase  959572249  9  4 f   -     -     -        49387    0    0 
+HardCase  959572308 10  3 f   -     -     -        49387    0    0 
+HardCase  959572395 10  2 Bc  f     -     -        49387   40    0 
+HardCase  959572446 10  1 Bc  kc    k     k        49347   80    0 Kd Ac
+HardCase  959572511 10 10 f   -     -     -        49267    0    0 
+HardCase  959572541 10  9 f   -     -     -        49267    0    0 
+HardCase  959572579 10  8 f   -     -     -        49267    0    0 
+HardCase  959572653 10  7 r   c     c     r        49267  200    0 Qc Qd
+HardCase  959572739 10  6 f   -     -     -        49067    0    0 
+HardCase  959572789 10  5 r   b     f     -        49067   60    0 
+HardCase  959572847 10  4 f   -     -     -        49007    0    0 
+HardCase  959572885 10  3 r   r     b     b        49007  160    0 Ad Kd
+HardCase  959572952 10  2 Bk  kf    -     -        48847   20    0 
+HardCase  959573028 10  1 Bf  -     -     -        48827   10    0 
+HardCase  959573052 10 10 cc  rc    c     c        48817  220    0 8s 8h
+HardCase  959573109 10  9 cc  b     k     k        48597  100  430 4s 4d
+HardCase  959573201 10  8 f   -     -     -        48927    0    0 
+HardCase  959573221 10  7 rc  rc    c     c        48927  220    0 Qd Ac
+HardCase  959573286 10  6 f   -     -     -        48707    0    0 
+HardCase  959573321 10  5 f   -     -     -        48707    0    0 
+HardCase  959573355 10  4 f   -     -     -        48707    0    0 
+HardCase  959573399 10  3 f   -     -     -        48707    0    0 
+HardCase  959573438 10  2 Bk  b     kc    kf       48707   80    0 
+HardCase  959573481 10  1 Bc  brc   bc    kc       48627  220    0 2h 5h
+HardCase  959573525 10 10 c   f     -     -        48407   40    0 
+HardCase  959573584 10  9 c   b     b     b        48367  120  340 Kc 9s
+HardCase  959573623 10  8 f   -     -     -        48587    0    0 
+HardCase  959573698 10  7 f   -     -     -        48587    0    0 
+HardCase  959573772 10  6 c   c     r     b        48587  160  420 Jc 7c
+HardCase  959573838 10  5 f   -     -     -        48847    0    0 
+HardCase  959573880 10  4 f   -     -     -        48847    0    0 
+HardCase  959573924 10  3 f   -     -     -        48847    0    0 
+HardCase  959573945 10  2 Bc  kc    kc    kc       48847  140    0 Td Th
+HardCase  959573972 10  1 Bc  kc    kf    -        48707   40    0 
+HardCase  959574020 10 10 f   -     -     -        48667    0    0 
+HardCase  959574107 10  9 c   f     -     -        48667   40    0 
+HardCase  959574142 10  8 f   -     -     -        48627    0    0 
+HardCase  959574155 10  7 f   -     -     -        48627    0    0 
+HardCase  959574184 10  6 f   -     -     -        48627    0    0 
+HardCase  959574227 10  6 f   -     -     -        48627    0    0 
+HardCase  959574259  9  4 rc  bc    kc    kc       48627  180    0 Ac Kh
+HardCase  959574322  8  3 f   -     -     -        48447    0    0 
+HardCase  959574358  8  2 Bf  -     -     -        48447   20    0 
+HardCase  959574408  8  1 Bf  -     -     -        48427   10    0 
+HardCase  959574463  7  7 c   c     c     c        48417  140  350 Qd Jd
+HardCase  959574499  7  6 r   b     -     -        48627   60  110 
+HardCase  959574523  7  5 cc  cc    kf    -        48677   80    0 
+HardCase  959574570  8  5 cc  bc    kc    kc       48597  160    0 5s As
+HardCase  959574610  8  4 f   -     -     -        48437    0    0 
+HardCase  959574667  8  3 f   -     -     -        48437    0    0 
+HardCase  959574704  8  2 Bf  -     -     -        48437   20    0 
+HardCase  959574769  7  1 Bf  -     -     -        48417   10    0 
+HardCase  959574783  7  7 cc  c     c     c        48407  160    0 Js 6s
+HardCase  959574833  7  6 f   -     -     -        48247    0    0 
+HardCase  959574871  8  5 r   r     b     k        48247  120  260 Ac Kc
+HardCase  959574903  8  4 f   -     -     -        48387    0    0 
+HardCase  959574946  9  3 f   -     -     -        48387    0    0 
+HardCase  959574995  9  2 Bk  kc    b     b        48387  120  270 Ks Ad
+HardCase  959575045  9  1 Bf  -     -     -        48537   10    0 
+HardCase  959575098  8  8 f   -     -     -        48527    0    0 
+HardCase  959575137  9  8 f   -     -     -        48527    0    0 
+HardCase  959575161  9  7 c   c     f     -        48527   40    0 
+HardCase  959575197  9  6 f   -     -     -        48487    0    0 
+HardCase  959575247  9  5 f   -     -     -        48487    0    0 
+HardCase  959575274 10  4 f   -     -     -        48487    0    0 
+HardCase  959575325 10  3 f   -     -     -        48487    0    0 
+HardCase  959575386 10  2 Bf  -     -     -        48487   20    0 
+HardCase  959575455 10  1 Bf  -     -     -        48467   10    0 
+HardCase  959575537 10 10 f   -     -     -        48457    0    0 
+HardCase  959575635 10  9 f   -     -     -        48457    0    0 
+HardCase  959575684 10  8 f   -     -     -        48457    0    0 
+HardCase  959575738 10  7 f   -     -     -        48457    0    0 
+HardCase  959575764 10  6 f   -     -     -        48457    0    0 
+HardCase  959575833 10  5 fQ  -     -     -        48457    0    0 

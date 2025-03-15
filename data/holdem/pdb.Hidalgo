@@ -1,0 +1,337 @@
+Hidalgo   957223648  7  6 c   c     k     rc        1217   90    0 9c 8d
+Hidalgo   957223708  9  7 c   c     c     rr        1127  130    0 8s 9s
+Hidalgo   957223747 10  7 rc  k     f     -          997   40    0 
+Hidalgo   957223799 10  3 Q   -     -     -          957    0    0 
+Hidalgo   957374678  2  2 B   -     -     -         1583   10   15 
+Hidalgo   957374683  3  1 Bc  b     -     -         1588   20   30 
+Hidalgo   957374691  3  3 c   rc    rc    b         1598  120  125 Kh 6s
+Hidalgo   957374714  3  2 Bc  f     -     -         1603   20    0 
+Hidalgo   957374723  3  1 Bc  k     k     bf        1583   40    0 
+Hidalgo   957374738  4  4 r   bc    c     c         1543   80    0 Kc Qs
+Hidalgo   957374765  4  3 r   k     b     -         1463   40   65 
+Hidalgo   957374781  4  2 Bk  kf    -     -         1488   10    0 
+Hidalgo   957374804  4  1 Bc  kc    kc    b         1478   70  140 
+Hidalgo   957374838  4  4 c   c     c     c         1548   70    0 8c Ks
+Hidalgo   957374849  4  3 r   b     -     -         1478   30   55 
+Hidalgo   957374863  4  2 Br  k     k     k         1503   30   35 Kc Ac
+Hidalgo   957374893  4  1 Bc  bc    kcc   kc        1508  100    0 7d 7c
+Hidalgo   957374937  4  4 r   b     b     b         1408   70  125 
+Hidalgo   957374959  4  3 c   k     b     -         1463   30   55 
+Hidalgo   957374976  4  2 Bk  k     k     b         1488   30   65 Td 4c
+Hidalgo   957374989  4  1 Bc  kc    kf    -         1523   20    0 
+Hidalgo   957375003  4  4 f   -     -     -         1503    0    0 
+Hidalgo   957375013  4  3 c   k     b     -         1503   30   45 
+Hidalgo   957375034  4  2 Bk  kf    -     -         1518   10    0 
+Hidalgo   957375052  4  1 Bf  -     -     -         1508    5    0 
+Hidalgo   957375059  4  4 c   c     k     c         1503   40    0 Kh Ah
+Hidalgo   957375073  4  3 c   f     -     -         1463   10    0 
+Hidalgo   957375090  4  2 Br  b     -     -         1453   30   70 
+Hidalgo   957375102  4  1 Bc  bc    bc    b         1493  100  220 
+Hidalgo   957375125  4  4 c   k     k     f         1613   10    0 
+Hidalgo   957375141  4  3 c   f     -     -         1603   10    0 
+Hidalgo   957375152  4  2 Bk  k     b     -         1593   30   50 
+Hidalgo   957375167  4  1 Bc  kf    -     -         1613   20    0 
+Hidalgo   957375175  4  4 c   f     -     -         1593   10    0 
+Hidalgo   957375184  4  3 r   -     -     -         1583   20   35 
+Hidalgo   957375191  4  2 Bc  kc    kc    k         1598   50    0 Th Qd
+Hidalgo   957375206  4  1 Bc  kc    k     b         1548   40  130 Ah 9d
+Hidalgo   957375226  4  4 c   b     k     c         1638   40  110 Jh 8c
+Hidalgo   957375256  4  3 c   k     c     r         1708   70  190 Td Kd
+Hidalgo   957375288  4  2 Bc  cc    kc    k         1828   60  150 Js Th
+Hidalgo   957375308  5  1 Bf  -     -     -         1918    5    0 
+Hidalgo   957375337  5  5 c   k     b     b         1913   50  105 7h 8d
+Hidalgo   957375355  5  4 c   k     c     c         1968   50  140 6d 8s
+Hidalgo   957375389  5  3 Q   -     -     -         2058    0    0 
+Hidalgo   957460600  9  3 cc  kf    -     -          813   20    0 
+Hidalgo   957460656  9  2 Br  bc    b     b          793   80  285 8h As
+Hidalgo   957460730  8  1 Br  b     -     -          998   30   80 
+Hidalgo   957460757  8  8 c   b     b     -         1048   40   90 
+Hidalgo   957460789  8  6 c   b     k     f         1098   20    0 
+Hidalgo   957460852  9  6 c   r     b     kc        1078   80    0 5h 9h
+Hidalgo   957460917  9  5 c   k     k     kf         998   10    0 
+Hidalgo   957461038 10  4 Q   -     -     -          988    0    0 
+Hidalgo   957481212  9  6 ccc kf    -     -          803   40    0 
+Hidalgo   957481281  9  5 rc  bc    kf    -          763   70    0 
+Hidalgo   957481353  9  4 rc  kc    b     b          693   90    0 Kc Ad
+Hidalgo   957481486 10  3 f   -     -     -          603    0    0 
+Hidalgo   957481524 10  2 Bk  k     bc    kc         603   70    0 Ad 5c
+Hidalgo   957481570 10  1 Bc  b     -     -          533   30   60 
+Hidalgo   957481617 10 10 c   c     c     c          563   70    0 Kd 5c
+Hidalgo   957481681  9  8 c   Q     -     -          493   10    0 
+Hidalgo   957535321  7  3 c   k     b     -          483   30   60 
+Hidalgo   957535359  6  2 Bc  kc    kc    kc         513   70    0 Th 3d
+Hidalgo   957535389  5  1 Brc k     k     kf         443   40    0 
+Hidalgo   957535460  5  5 c   k     k     k          403   10    0 6c Tc
+Hidalgo   957535478  5  4 cc  k     b     b          393   60  120 
+Hidalgo   957535568  6  3 c   k     b     -          453   30   60 
+Hidalgo   957535601  6  2 Bc  kr    b     b          483   80    0 9h 2s
+Hidalgo   957535632  6  1 Bc  b     -     -          403   20   40 
+Hidalgo   957535659  6  6 r   f     -     -          423   20    0 
+Hidalgo   957535681  6  5 c   k     r     -          403   50   90 
+Hidalgo   957535714  6  4 r   -     -     -          443   20   35 
+Hidalgo   957535725  7  3 r   b     k     f          458   30    0 
+Hidalgo   957535750  7  2 Bk  kf    -     -          428   10    0 
+Hidalgo   957535798  7  1 Br  b     b     -          418   60  110 
+Hidalgo   957535826  8  8 cc  c     f     -          468   50    0 
+Hidalgo   957535916  8  7 rc  r     b     br         418  140    0 8h 9h
+Hidalgo   957535977  9  6 r   b     b     bc         278  100    0 8h Qh
+Hidalgo   957536018  9  5 rc  c     c     c          178  120    0 Qc Jh
+Hidalgo   957536069  8  4 r   b     bcA   -           58   58    0 Ks 6d
+Hidalgo   957545485  8  3 r   kf    -     -         1000   20    0 
+Hidalgo   957545502  8  2 BQ  -     -     -          980   10    0 
+Hidalgo   958787777  8  6 f   -     -     -          780    0    0 
+Hidalgo   958787809  8  5 cc  f     -     -          780   20    0 
+Hidalgo   958787833  8  4 c   kf    -     -          760   10    0 
+Hidalgo   958787872 10  3 f   -     -     -          750    0    0 
+Hidalgo   958787959 10  2 Bk  k     k     k          750   10    0 6h Qd
+Hidalgo   958788026 10  1 Bc  kf    -     -          740   10    0 
+Hidalgo   958788061  9  9 r   k     f     -          730   20    0 
+Hidalgo   958788092 10  9 c   f     -     -          710   10    0 
+Hidalgo   958788159 10  8 c   f     -     -          700   10    0 
+Hidalgo   958788208 10  7 c   f     -     -          690   10    0 
+Hidalgo   958788283 10  6 r   f     -     -          680   20    0 
+Hidalgo   958788335 10  5 r   f     -     -          660   20    0 
+Hidalgo   958788388 10  4 rr  c     c     r          640  110  350 As 5h
+Hidalgo   958788448 10  3 f   -     -     -          880    0    0 
+Hidalgo   958788578 10  2 Bk  b     b     b          880   60  160 
+Hidalgo   958788636 10  1 Bcc kf    -     -          980   20    0 
+Hidalgo   958788723 10 10 c   f     -     -          960   10    0 
+Hidalgo   958788788 10  9 r   k     r     k          950   60    0 8s Qs
+Hidalgo   958788841 10  8 cr  c     f     -          890   40    0 
+Hidalgo   958788917 10  7 rr  b     b     b          850   90    0 Jc Jd
+Hidalgo   958788982 10  6 r   rr    rr    brc        760  220    0 As 7s
+Hidalgo   958789078 10  5 cc  f     -     -          540   20    0 
+Hidalgo   958789156 10  3 Q   -     -     -          520    0    0 
+Hidalgo   958825758  4  2 Bc  kf    -     -          520   20    0 
+Hidalgo   958825788  4  1 Bc  kr    b     b          500   80    0 Th 6d
+Hidalgo   958825809  4  4 cr  c     c     k          420   70    0 6c 5s
+Hidalgo   958825837  4  3 crc k     kc    kc         350   80    0 Th 8s
+Hidalgo   958825875  4  2 Bf  -     -     -          270   10    0 
+Hidalgo   958825897  4  1 Bc  b     b     b          260   60  110 
+Hidalgo   958825916  4  4 rc  c     c     k          310   70    0 As Kd
+Hidalgo   958825958  4  3 r   k     k     b          240   40   85 
+Hidalgo   958825988  4  2 Bc  k     kc    b          285   70  190 9h Tc
+Hidalgo   958826014  4  1 Brc k     k     b          405   60  180 
+Hidalgo   958826053  4  4 cc  k     c     c          525   60    0 Kd 4d
+Hidalgo   958826082  4  3 rc  b     b     b          465   80  195 4s 6s
+Hidalgo   958826102  4  2 Br  brc   b     b          580  110  280 As Qs
+Hidalgo   958826137  4  1 Bc  b     b     bc         750   90    0 Td Tc
+Hidalgo   958826167  4  4 cf  -     -     -          660   10    0 
+Hidalgo   958826182  4  3 cc  k     k     f          650   20    0 
+Hidalgo   958826204  4  2 Bk  kc    kc    kc         630   60    0 2d Ks
+Hidalgo   958826222  4  1 Bc  k     k     kf         570   10    0 
+Hidalgo   958826255  4  4 rr  k     f     -          560   40    0 
+Hidalgo   958826272  4  3 c   c     c     k          520   40    0 9s 8d
+Hidalgo   958826293  4  2 Bc  kf    -     -          480   20    0 
+Hidalgo   958826318  4  1 Bc  k     k     kf         460   10    0 
+Hidalgo   958826345  4  4 c   c     k     bc         450   70  175 2s Kd
+Hidalgo   958826386  4  3 cr  f     -     -          555   40    0 
+Hidalgo   958826427  5  2 Br  b     -     -          515   40  130 
+Hidalgo   958826450  5  1 Brc b     k     b          605   70  190 Th Jd
+Hidalgo   958826481  5  5 cr  r     b     brc        725  160  365 8d 9d
+Hidalgo   958826529  4  3 c   kc    kc    kQ         930   40    0 
+Hidalgo   958830829  2  1 Bcc kc    kc    kc         890   70    0 3s 5s
+Hidalgo   958830856  2  2 Bc  k     k     b          820   40   60 
+Hidalgo   958830878  2  1 Bc  b     -     -          840   20   30 
+Hidalgo   958830886  2  2 B   -     -     -          850   10   15 
+Hidalgo   958830888  2  1 Bc  bc    b     b          855   70  140 6s 2h
+Hidalgo   958830915  2  2 Bc  c     b     b          925   70  140 6d Qd
+Hidalgo   958830934  2  1 Bc  b     b     b          995   60  100 
+Hidalgo   958830958  2  2 B   -     -     -         1035   10   15 
+Hidalgo   958830960  2  1 Bc  k     kc    k         1040   30   60 2s Qc
+Hidalgo   958830980  2  2 Br  b     b     k         1070   50  100 Qs Jh
+Hidalgo   958830996  2  1 Bcc k     k     kf        1120   20    0 
+Hidalgo   958831016  2  2 Bc  c     c     b         1100   70  140 4d 6c
+Hidalgo   958831028  2  1 Bcc kc    k     kc        1170   50    0 3h 9c
+Hidalgo   958831045  2  2 Br  -     -     -         1120   20   30 
+Hidalgo   958831051  2  1 Bcc kc    kc    kc        1130   70    0 2d Qd
+Hidalgo   958831067  2  2 B   -     -     -         1060   10   15 
+Hidalgo   958831071  2  1 Br  b     -     -         1065   30   50 
+Hidalgo   958831079  2  2 B   -     -     -         1085   10   15 
+Hidalgo   958831081  2  1 Bc  k     b     -         1090   30   40 
+Hidalgo   958831089  2  2 Br  b     k     k         1100   40   80 8s 8h
+Hidalgo   958831102  2  1 Bcc b     kc    kc        1140   70    0 6h Qc
+Hidalgo   958831120  2  2 B   -     -     -         1070   10   15 
+Hidalgo   958831124  2  1 Bcc b     b     -         1075   50   80 
+Hidalgo   958831151  2  2 B   -     -     -         1105   10   15 
+Hidalgo   958831153  2  1 Bc  k     k     k         1110   10   20 8h Ts
+Hidalgo   958831172  3  3 cc  c     c     c         1120   70    0 9h 7h
+Hidalgo   958831189  3  2 Bc  kc    kf    -         1050   30    0 
+Hidalgo   958831203  3  1 Bf  -     -     -         1020    5    0 
+Hidalgo   958831208  2  2 Bc  c     c     c         1015   70  140 2d Ac
+Hidalgo   958831218  2  1 Bc  k     k     k         1085   10    0 7h 8c
+Hidalgo   958831235  2  2 B   -     -     -         1075   10   15 
+Hidalgo   958831240  2  1 Bc  kc    k     k         1080   20    0 Qc Tc
+Hidalgo   958831251  2  2 Bf  -     -     -         1060   10    0 
+Hidalgo   958831257  2  1 Bc  b     b     -         1050   40   60 
+Hidalgo   958831267  2  2 B   -     -     -         1070   10   15 
+Hidalgo   958831272  2  1 Bc  k     k     k         1075   10   20 Jh 4c
+Hidalgo   958831296  2  2 B   -     -     -         1085   10   15 
+Hidalgo   958831301  2  1 Bc  kf    -     -         1090   10    0 
+Hidalgo   958831317  2  2 B   -     -     -         1080   10   15 
+Hidalgo   958831318  2  1 Br  kc    kc    k         1085   50    0 Ts Ac
+Hidalgo   958831332  2  2 Bc  f     -     -         1035   20    0 
+Hidalgo   958831340  2  1 Bf  -     -     -         1015    5    0 
+Hidalgo   958831342  2  2 Bc  c     c     f         1010   50    0 
+Hidalgo   958831352  2  1 Bc  k     b     -          960   30   40 
+Hidalgo   958831361  2  2 B   -     -     -          970   10   15 
+Hidalgo   958831363  2  1 Bc  b     b     bc         975   80    0 Js 9c
+Hidalgo   958831381  2  2 Bc  r     r     b          895  100    0 6s 4s
+Hidalgo   958831402  2  1 Br  -     -     -          795   20   30 
+Hidalgo   958831408  2  2 Bc  b     -     -          805   30   50 
+Hidalgo   958831415  2  1 Br  -     -     -          825   20   30 
+Hidalgo   958831419  2  2 Br  k     b     b          835   70  140 7d 5c
+Hidalgo   958831431  2  1 Bcc kc    kc    kc         905   70    0 6d Js
+Hidalgo   958831447  2  2 Bc  k     k     c          835   40   40 4s Kh
+Hidalgo   958831462  2  1 Bc  k     kc    k          835   30   60 5s 4h
+Hidalgo   958831476  2  2 Bc  c     r     -          865   70  120 
+Hidalgo   958831489  2  1 Bc  k     kf    -          915   10    0 
+Hidalgo   958831501  2  2 Bc  f     -     -          905   20    0 
+Hidalgo   958831506  2  1 Bc  k     k     b          885   30   40 
+Hidalgo   958831518  2  2 B   -     -     -          895   10   15 
+Hidalgo   958831520  2  1 Bcc kr    b     kc         900   80    0 6c 9s
+Hidalgo   958831535  2  2 B   -     -     -          820   10   15 
+Hidalgo   958831539  2  1 Bcc kc    k     b          825   50  100 6c Qd
+Hidalgo   958831552  2  2 B   -     -     -          875   10   15 
+Hidalgo   958831556  2  1 Bcc k     kc    kc         880   60    0 5h 7h
+Hidalgo   958831570  2  2 Bk  k     k     k          820   10   20 Qd 5s
+Hidalgo   958831582  2  1 Br  kc    kc    b          830   70  140 Qd Js
+Hidalgo   958831600  2  2 Bc  k     b     -          900   40   60 
+Hidalgo   958831615  3  1 Bc  kf    -     -          920   20    0 
+Hidalgo   958831655  3  3 cc  f     -     -          900   20    0 
+Hidalgo   958831670  3  2 Bf  -     -     -          880   10    0 
+Hidalgo   958831684  3  1 Bc  k     b     -          870   30   40 
+Hidalgo   958831697  3  3 cc  f     -     -          880   20    0 
+Hidalgo   958831718  3  2 Bc  b     bc    bc         860  110    0 3h 8h
+Hidalgo   958831737  3  1 Bcrc kc    kc    k          750   70    0 Ad 8c
+Hidalgo   958831756  3  3 c   r     b     b          680   70  150 7c Jh
+Hidalgo   958831776  3  2 B   -     -     -          760   10   15 
+Hidalgo   958831782  3  1 Bcf -     -     -          765   10    0 
+Hidalgo   958831789  3  3 cc  c     c     k          755   50  110 Jd 6s
+Hidalgo   958831803  3  2 Bc  bc    br    b          815  120  260 6s 4h
+Hidalgo   958831823  3  1 Bc  b     b     b          955   60  120 Jd Qh
+Hidalgo   958831840  3  3 cc  c     c     c         1015   70    0 Kh 7s
+Hidalgo   958831885  3  2 Bc  f     -     -          945   20    0 
+Hidalgo   958831898  3  1 Bf  -     -     -          925    5    0 
+Hidalgo   958831910  3  3 cc  f     -     -          920   20    0 
+Hidalgo   958831955  4  3 cc  r     b     b          900   80    0 6s 9s
+Hidalgo   958832014  3  2 BQ  -     -     -          820   10    0 
+Hidalgo   958915279  2  1 Bc  kc    b     b          790   60    0 2d Kh
+Hidalgo   958915311  3  3 c   k     k     b          730   30   50 
+Hidalgo   958915345  4  3 c   k     b     -          750   30   60 
+Hidalgo   958915377  4  2 Bk  k     f     -          780   10    0 
+Hidalgo   958915396  5  1 Bc  b     -     -          770   20   30 
+Hidalgo   958915419  4  4 c   k     k     f          780   10    0 
+Hidalgo   958915445  4  3 c   k     k     k          770   10    0 7d 4c
+Hidalgo   958915473  4  2 Bk  b     b     k          760   40    0 6s 9h
+Hidalgo   958915503  4  1 Bc  k     b     -          720   30   40 
+Hidalgo   958915530  4  4 c   k     k     f          730   10    0 
+Hidalgo   958915560  4  3 r   b     -     -          720   30   60 
+Hidalgo   958915580  4  2 Bk  k     b     -          750   30   55 
+Hidalgo   958915624  4  1 Bc  k     k     k          775   10    0 7s Jh
+Hidalgo   958915642  4  4 r   b     k     b          765   50   75 Ac Ts
+Hidalgo   958915676  4  3 r   b     -     -          790   30   65 
+Hidalgo   958915691  4  2 Bk  k     b     k          825   30    0 Kc 5s
+Hidalgo   958915713  4  1 Bc  kf    -     -          795   10    0 
+Hidalgo   958915739  4  4 c   k     k     k          785   10    0 Ks 8d
+Hidalgo   958915757  4  3 c   k     k     kf         775   10    0 
+Hidalgo   958915785  4  2 Br  b     -     -          765   30   75 
+Hidalgo   958915799  4  1 Br  b     b     -          810   50   90 
+Hidalgo   958915812  5  5 c   k     k     k          850   10    0 Ks 6s
+Hidalgo   958915852  5  4 f   -     -     -          840    0    0 
+Hidalgo   958915876  5  3 c   k     f     -          840   10    0 
+Hidalgo   958915941  5  2 Bk  k     b     b          830   50   90 
+Hidalgo   958915968  5  1 Bc  k     b     b          870   50  110 
+Hidalgo   958915993  5  5 c   k     k     f          930   10    0 
+Hidalgo   958916016  6  5 c   k     k     kf         920   10    0 
+Hidalgo   958916050  7  5 f   -     -     -          910    0    0 
+Hidalgo   958916075  7  4 f   -     -     -          910    0    0 
+Hidalgo   958916118  7  3 f   -     -     -          910    0    0 
+Hidalgo   958916163  7  2 Bf  -     -     -          910   10    0 
+Hidalgo   958916188  7  1 Bc  kf    -     -          900   10    0 
+Hidalgo   958916223  7  7 r   b     b     b          890   70  155 As Ad
+Hidalgo   958916248  7  6 c   f     -     -          975   10    0 
+Hidalgo   958916294  7  5 r   rr    b     -          965   80  240 
+Hidalgo   958916371  7  4 ccc f     -     -         1125   40    0 
+Hidalgo   958916430  7  3 rc  r     br    b         1085  140    0 Ah As
+Hidalgo   958916502  6  2 Br  b     b     bc         945   90    0 Jd 6d
+Hidalgo   958916555  4  1 BQ  -     -     -          855    5    0 
+Hidalgo   958920167 10  4 c   kf    -     -          850   10    0 
+Hidalgo   958920228 10  3 r   r     c     c          840   80    0 7s 4h
+Hidalgo   958920301 10  2 Bk  kf    -     -          760   10    0 
+Hidalgo   958920339 10  1 Br  b     b     b          750   70  250 Js Ah
+Hidalgo   958920405 10 10 c   Q     -     -          930   20    0 
+Hidalgo   958996345  2  1 Bc  kc    kc    k          910   40    0 7s Qc
+Hidalgo   958996367  2  2 B   -     -     -          870   10   15 
+Hidalgo   958996371  2  1 Bc  kf    -     -          875   10    0 
+Hidalgo   958996380  2  2 B   -     -     -          865   10   15 
+Hidalgo   958996383  2  1 Bc  k     kc    k          870   30   60 Ks Ad
+Hidalgo   958996397  2  2 Bk  k     b     -          900   30   40 
+Hidalgo   958996411  2  1 Bc  b     b     b          910   60  100 
+Hidalgo   958996426  2  2 B   -     -     -          950   10   15 
+Hidalgo   958996428  2  1 Bcc kc    kc    k          955   50    0 Ac 5h
+Hidalgo   958996446  2  2 B   -     -     -          905   10   15 
+Hidalgo   958996451  2  1 Bc  k     k     k          910   10   20 Tc 3d
+Hidalgo   958996463  2  2 Bk  b     -     -          920   20   30 
+Hidalgo   958996474  2  1 Bc  k     k     b          930   30   40 
+Hidalgo   958996487  2  2 B   -     -     -          940   10   15 
+Hidalgo   958996489  2  1 Bc  k     k     b          945   30   40 
+Hidalgo   958996500  2  2 Bk  k     k     k          955   10   10 3d 5s
+Hidalgo   958996514  3  1 Bc  kc    kc    kc         955   60    0 Ad Kc
+Hidalgo   958996537  3  3 c   k     k     k          895   10    0 7c Tc
+Hidalgo   958996554  3  2 Bk  k     f     -          885   10    0 
+Hidalgo   958996573  3  1 Bf  -     -     -          875    5    0 
+Hidalgo   958996576  3  3 f   -     -     -          870    0    0 
+Hidalgo   958996578  3  2 Bf  -     Q     -          870   10    0 
+Hidalgo   959005680  8  6 r   b     b     b          860   70    0 Qc Tc
+Hidalgo   959005730  9  6 c   bc    k     b          790   50  140 
+Hidalgo   959005784  9  5 r   br    k     k          880   50    0 Qs Ad
+Hidalgo   959005837  9  4 r   b     b     b          830   70  260 6s 7h
+Hidalgo   959005896  9  3 c   kf    -     -         1020   10    0 
+Hidalgo   959005951  8  2 Bf  -     -     -         1010   10    0 
+Hidalgo   959006014  8  1 Br  b     b     b         1000   70    0 8c 7c
+Hidalgo   959006069  8  8 c   k     b     -          930   30   55 
+Hidalgo   959006108  9  7 cc  Q     -     -          955   20    0 
+Hidalgo   959695222  3  2 c   -     -     -          821   10   20 
+Hidalgo   959695258  2  1 Bc  kc    kc    k          831   50  100 Kc 4h
+Hidalgo   959695273  2  1 Bc  bc    kc    k          881   50    0 8c Ts
+Hidalgo   959695295  2  2 Bc  f     -     -          831   20    0 
+Hidalgo   959695304  2  1 Bc  k     kc    kc         811   50  100 5h Qh
+Hidalgo   959695322  2  2 Bc  k     k     b          861   40   80 Tc 8d
+Hidalgo   959695342  2  1 Brc kc    k     k          901   40    0 Ts Kh
+Hidalgo   959695359  2  2 Bk  k     k     b          861   30   40 
+Hidalgo   959695376  2  1 Bc  k     k     kf         871   10    0 
+Hidalgo   959695391  3  3 c   b     -     -          861   20   40 
+Hidalgo   959695404  2  2 Bc  c     r     -          881   70  120 
+Hidalgo   959695417  2  1 Br  -     -     -          931   20   30 
+Hidalgo   959695422  2  2 Bk  k     c     f          941   30    0 
+Hidalgo   959695436  2  1 Bc  kf    -     -          911   10    0 
+Hidalgo   959695445  2  2 B   -     -     -          901   10   15 
+Hidalgo   959695447  2  1 Br  bc    kf    -          906   40    0 
+Hidalgo   959695464  2  2 B   -     -     -          866   10   15 
+Hidalgo   959695466  2  1 Brc kf    -     -          871   30    0 
+Hidalgo   959695477  2  2 B   -     -     -          841   10   15 
+Hidalgo   959695479  2  1 Bcf -     -     -          846   10    0 
+Hidalgo   959695486  2  2 B   -     -     -          836   10   15 
+Hidalgo   959695489  2  1 Bc  b     -     -          841   20   30 
+Hidalgo   959695499  2  2 B   -     -     -          851   10   15 
+Hidalgo   959695501  2  1 Bc  kc    kc    b          856   60    0 3h Js
+Hidalgo   959695522  3  3 rc  rc    k     k          796   60   62 2s Kh
+Hidalgo   959695554  4  3 c   c     b     -          798   40   70 
+Hidalgo   959695583  4  2 Bc  kc    kc    kc         828   70    0 Ah 2h
+Hidalgo   959695602  4  1 Bc  b     bc    b          758   80  140 
+Hidalgo   959695636  4  4 cr  b     b     -          818   70  165 
+Hidalgo   959695661  4  3 cc  kc    k     c          913   50    0 5s Js
+Hidalgo   959695702  6  4 ccc rr    rr    c          863  170    0 Qd 6c
+Hidalgo   959695778  6  3 c   k     kc    f          693   30    0 
+Hidalgo   959695850  7  2 Bc  cc    f     -          663   80    0 
+Hidalgo   959695924  7  1 Bf  -     -     -          583    5    0 
+Hidalgo   959696003  7  7 rc  k     c     c          578   80    0 9h Qd
+Hidalgo   959696068  7  6 r   rc    rr    b          498  160  435 Ts Qh
+Hidalgo   959696195  7  5 c   ccc   c     c          773  100    0 Js Ks
+Hidalgo   959696247  7  4 rc  rc    rc    cc         673  200    0 Ah Ac
+Hidalgo   959696427  8  3 r   br    bc    kc         473  110    0 4c Ac
+Hidalgo   959696498  8  3 c   b     b     k          363   40    0 Th Jh
+Hidalgo   959696539  9  2 Br  bcc   br    kf         323  160    0 
+Hidalgo   959696630  9  1 Bc  b     b     b          163   60    0 5h 8d
+Hidalgo   959696737  8  8 c   Q     -     -          103   10    0 

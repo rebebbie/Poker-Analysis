@@ -1,0 +1,176 @@
+jrholdem  957702898  2  1 Bk  b     -     -         1085   20   30 
+jrholdem  957702909  2  1 Br  b     -     -         1095   30   50 
+jrholdem  957702916  2  2 B   -     -     -         1115   10   15 
+jrholdem  957702918  2  1 Br  bc    kc    kc        1120   80  160 Jc Ts
+jrholdem  957702937  2  2 B   -     -     -         1200   10   15 
+jrholdem  957702942  2  1 Bc  kc    k     k         1205   20    0 Qh 7s
+jrholdem  957702957  2  2 B   -     -     -         1185   10   15 
+jrholdem  957702962  2  1 Bc  bc    kr    b         1190   90  160 
+jrholdem  957702980  3  3 r   k     b     bc        1260   80    0 8h 8c
+jrholdem  957703011  5  4 r   b     -     -         1180   30   75 
+jrholdem  957703034  5  3 r   -     -     -         1225   20   35 
+jrholdem  957703040  5  2 Brc kc    kf    -         1240   40    0 
+jrholdem  957703071  5  1 Br  b     b     b         1200   70  150 7c Ah
+jrholdem  957703098  4  4 c   rc    c     c         1280   90    0 6s Qh
+jrholdem  957703127  4  3 cc  c     f     -         1190   30    0 
+jrholdem  957703180  5  3 r   k     c     f         1160   40    0 
+jrholdem  957703205  6  3 cc  brc   kc    kr        1120  120  255 Th 5c
+jrholdem  957703240  6  2 Bk  kf    -     -         1255   10    0 
+jrholdem  957703283  6  1 Bc  k     kf    -         1245   20    0 
+jrholdem  957703335  6  6 f   -     -     -         1225    0    0 
+jrholdem  957703373  6  5 r   bc    c     f         1225   70    0 
+jrholdem  957703418  6  4 c   bc    c     c         1155   70    0 9h 2h
+jrholdem  957703455  6  3 f   -     -     -         1085    0    0 
+jrholdem  957703474  6  2 Br  b     -     -         1085   30   70 
+jrholdem  957703491  6  1 Bf  -     -     -         1125    5    0 
+jrholdem  957703514  6  6 f   -     -     -         1120    0    0 
+jrholdem  957703564  6  5 c   b     b     b         1120   60  130 9d 4d
+jrholdem  957703596  6  4 f   -     -     -         1190    0    0 
+jrholdem  957703635  6  3 r   b     -     -         1190   30   80 
+jrholdem  957703652  6  2 Br  bc    k     k         1240   50    0 6c Ks
+jrholdem  957703678  7  1 Brr k     kc    b         1190   80    0 Qh Kh
+jrholdem  957703740  7  7 rc  f     -     -         1110   40    0 
+jrholdem  957703769  6  6 f   -     -     -         1070    0    0 
+jrholdem  957703823  6  5 rr  b     b     -         1070   70  170 
+jrholdem  957703871  6  4 cc  k     k     kf        1170   20    0 
+jrholdem  957703924  6  3 f   -     -     -         1150    0    0 
+jrholdem  957703981  7  2 Brr bc    kc    kc        1150  100    0 4c 4d
+jrholdem  957704062  8  1 Bf  -     -     -         1050    5    0 
+jrholdem  957704137  8  8 c   cc    f     -         1045   40    0 
+jrholdem  957704205  7  6 f   -     -     -         1005    0    0 
+jrholdem  957704272  7  5 f   -     -     -         1005    0    0 
+jrholdem  957704316  7  4 f   -     -     -         1005    0    0 
+jrholdem  957704343  7  3 c   b     k     b         1005   40    0 7d Th
+jrholdem  957704397  7  2 Bc  brc   k     f          965   60    0 
+jrholdem  957704464  7  1 Bf  -     -     -          905    5    0 
+jrholdem  957704534  9  9 c   b     r     b          900   80  200 Jc 6c
+jrholdem  957704594  9  8 cc  kf    -     -         1020   20    0 
+jrholdem  957704681  9  7 c   br    b     b         1000   80    0 As 9h
+jrholdem  957704734  9  6 f   -     -     -          920    0    0 
+jrholdem  957704795  9  5 r   b     k     kf         920   30    0 
+jrholdem  957704858  9  4 f   -     -     -          890    0    0 
+jrholdem  957704884  9  3 c   b     k     r          890   60    0 6s 5d
+jrholdem  957704931  9  2 Br  b     -     -          830   40  130 
+jrholdem  957704963  9  1 Bf  -     -     -          920    5    0 
+jrholdem  957705018  8  8 r   b     -     -          915   30   55 
+jrholdem  957705041  8  7 f   -     -     -          940    0    0 
+jrholdem  957705057  8  6 r   b     -     -          940   30   65 
+jrholdem  957705099  8  5 cc  b     b     b          975   70  165 
+jrholdem  957705149  8  4 c   kc    bc    kf        1070   60    0 
+jrholdem  957705195  8  3 r   b     k     k         1010   30    0 8h 8d
+jrholdem  957705235  7  2 Br  k     k     k          980   20    0 6h Jh
+jrholdem  957705283  6  1 Br  k     kf    -          960   30    0 
+jrholdem  957705318  6  6 rc  r     b     b          930   90  275 8d Ah
+jrholdem  957705361  6  5 rc  kc    c     b         1115  100  330 As Qs
+jrholdem  957705412  6  4 f   -     -     -         1345    0    0 
+jrholdem  957705434  6  3 rc  b     br    b         1345  120  325 Qh Ts
+jrholdem  957705479  6  2 Bc  kf    -     -         1550   20    0 
+jrholdem  957705522  6  1 Brc kc    kc    kc        1530   80    0 3d Ac
+jrholdem  957705543  6  6 c   r     r     b         1450  110    0 Ts 5s
+jrholdem  957705576  6  5 cc  Q     -     -         1340   20    0 
+jrholdem  958797190 10  3 Q   -     -     -         1320    0    0 
+jrholdem  958799493 10  5 c   brc   k     r         1320   90    0 4s Qs
+jrholdem  958799648 10  4 f   -     -     -         1230    0    0 
+jrholdem  958799743 10  3 rc  rc    rc    f         1230  130    0 
+jrholdem  958799831 10  2 Br  b     kf    -         1100   30    0 
+jrholdem  958799930 10  1 Bc  b     b     b         1070   70  180 Jh 6h
+jrholdem  958799970 10 10 c   k     r     brc       1180  140  355 2h 2d
+jrholdem  958800054 10  9 f   -     -     -         1395    0    0 
+jrholdem  958800119 10  8 cc  rf    -     -         1395   60    0 
+jrholdem  958800242 10  7 f   -     -     -         1335    0    0 
+jrholdem  958800302 10  6 ccc r     cc    kf        1335  100    0 
+jrholdem  958800425 10  5 c   cc    kc    kf        1235   60    0 
+jrholdem  958800529  9  4 f   -     -     -         1175    0    0 
+jrholdem  958800589 10  3 r   kc    bc    kf        1175   70    0 
+jrholdem  958800662 10  2 Bc  f     -     -         1105   20    0 
+jrholdem  958800722  9  1 Bc  kf    -     -         1085   40    0 
+jrholdem  958800876 10 10 f   -     -     -         1045    0    0 
+jrholdem  958800964 10 10 f   -     -     -         1045    0    0 
+jrholdem  958801042  9  8 r   b     b     b         1045   80  185 
+jrholdem  958801089  9  7 f   -     -     -         1150    0    0 
+jrholdem  958801158  9  6 f   -     -     -         1150    0    0 
+jrholdem  958801234  9  5 f   -     -     -         1150    0    0 
+jrholdem  958801333 10  4 f   -     -     -         1150    0    0 
+jrholdem  958801408 10  3 cc  brc   brc   br        1150  240  775 2d 9d
+jrholdem  958801496 10  2 Bc  bc    bc    kc        1685  160    0 Qd 8d
+jrholdem  958801587 10  1 Bf  -     -     -         1525    5    0 
+jrholdem  958801689  9  9 f   -     -     -         1520    0    0 
+jrholdem  958801778  8  8 f   -     -     -         1520    0    0 
+jrholdem  958801842  8  7 f   -     -     -         1520    0    0 
+jrholdem  958801952  8  5 c   cc    f     -         1520   30    0 
+jrholdem  958802028 10  5 f   -     -     -         1490    0    0 
+jrholdem  958802104  9  4 cc  kcc   brc   brc       1490  210  760 7s Tc
+jrholdem  958802167  9  4 f   -     -     -         2040    0    0 
+jrholdem  958802201  8  2 Bc  kc    kc    kf        2040   60    0 
+jrholdem  958802275  8  1 Bc  br    bc    kc        1980  150    0 8s 7h
+jrholdem  958802390  7  7 f   -     -     -         1830    0    0 
+jrholdem  958802414  8  7 f   -     -     -         1830    0    0 
+jrholdem  958802474  8  6 cc  rc    cc    cc        1830  190  690 Kh 7s
+jrholdem  958802518  8  5 f   -     -     -         2330    0    0 
+jrholdem  958802571  8  4 rKQ -     -     -         2330   20    0 
+jrholdem  958802704  9  8 f   -     -     -         2310    0    0 
+jrholdem  958802749 10  7 cc  ccf   -     -         2310   70    0 
+jrholdem  958802825  9  6 f   -     -     -         2240    0    0 
+jrholdem  958802895  9  5 rc  c     c     c         2240   90    0 Ah 7c
+jrholdem  958802946 10  4 cc  cc    rr    c         2150  170    0 As 7h
+jrholdem  958803011 10  3 f   -     -     -         1980    0    0 
+jrholdem  958803063 10  2 Bf  -     -     -         1980   10    0 
+jrholdem  958803157 10  1 Brc kcf   -     -         1970   60    0 
+jrholdem  958803277  9  9 cc  rc    cc    f         1910  170    0 
+jrholdem  958803350  9  8 f   -     -     -         1740    0    0 
+jrholdem  958803428 10  8 cc  c     f     -         1740   50    0 
+jrholdem  958803543 10  7 rc  c     c     f         1690   80    0 
+jrholdem  958803590 10  6 rc  cc    f     -         1610   90    0 
+jrholdem  958803636  9  4 f   -     -     -         1520    0    0 
+jrholdem  958803669 10  4 f   -     -     -         1520    0    0 
+jrholdem  958803754 10  3 cc  f     -     -         1520   30    0 
+jrholdem  958803798 10  2 Br  k     bc    k         1490   80    0 Ad 2d
+jrholdem  958803869 10  1 Br  br    b     brc       1410  150  200 Qc Tc
+jrholdem  958803987 10 10 rc  r     rc    ccc       1460  250    0 Qh Qd
+jrholdem  958804101 10  9 c   k     f     -         1210   10    0 
+jrholdem  958804181  9  7 r   b     f     -         1200   30    0 
+jrholdem  958804220 10  7 rr  brc   brc   brc       1170  240    0 Ac Ad
+jrholdem  958804324  9  6 f   -     Q     -          930    0    0 
+jrholdem  959829273  7  4 f   -     -     -          785    0    0 
+jrholdem  959829315  7  3 f   -     -     -          785    0    0 
+jrholdem  959829353  7  2 Bk  b     -     -          785   20   55 
+jrholdem  959829388  8  1 Bc  kf    -     -          820   20    0 
+jrholdem  959829435  7  7 c   r     bf    -          800   60    0 
+jrholdem  959829491  8  7 c   f     -     -          740   30    0 
+jrholdem  959829554  7  5 c   f     -     -          710   10    0 
+jrholdem  959829586  7  4 rc  cc    k     rc         700  150    0 Qc Jh
+jrholdem  959829643  7  3 ccc bf    -     -          550   50    0 
+jrholdem  959829702  8  2 Bc  kc    kc    k          500   50    0 8h Jc
+jrholdem  959829767  7  1 Bc  kc    kf    -          450   30    0 
+jrholdem  959829814  7  7 f   -     -     -          420    0    0 
+jrholdem  959829833  7  6 r   r     k     k          420   40    0 Th Ad
+jrholdem  959829891  7  5 r   b     k     k          380   40  185 Td Kc
+jrholdem  959829922  8  5 f   -     -     -          525    0    0 
+jrholdem  959829964  8  4 f   -     -     -          525    0    0 
+jrholdem  959830044  9  3 cr  kc    b     b          525   90  290 Ac Kh
+jrholdem  959830096  9  2 Bc  rc    k     cf         725   80    0 
+jrholdem  959830149  9  1 Bc  brc   brc   kc         645  150    0 Ah 7s
+jrholdem  959830188  9  9 f   -     -     -          495    0    0 
+jrholdem  959830269 10  9 c   c     c     c          495   60    0 8c 5c
+jrholdem  959830348 10  8 r   b     r     bc         435  110  255 Kd Ad
+jrholdem  959830408  8  5 c   k     f     -          580   10    0 
+jrholdem  959830459  9  5 cc  rc    c     f          570   80    0 
+jrholdem  959830539  8  3 cc  kc    kc    k          490   50    0 Qs 5s
+jrholdem  959830615  8  2 Bk  k     kf    -          440   10    0 
+jrholdem  959830670  9  1 Bc  kc    kc    kf         430   40    0 
+jrholdem  959830749  9  9 f   -     -     -          390    0    0 
+jrholdem  959830874  9  8 c   k     c     rc         390   90    0 Th 7s
+jrholdem  959830948  7  5 rcc b     b     k          300   70  330 7h 7s
+jrholdem  959831085  8  5 cc  cc    kf    -          560   60    0 
+jrholdem  959831216  8  4 cc  rc    rr    brc        500  205  635 9s Qh
+jrholdem  959831305  5  2 cc  rr    b     kf         930   80    0 
+jrholdem  959831372  6  2 Bf  -     -     -          850   10    0 
+jrholdem  959831439  6  1 Bc  k     kf    -          840   10    0 
+jrholdem  959831488  7  7 r   b     b     b          830   80  175 Ah Qc
+jrholdem  959831535  7  6 cc  r     r     b          925  120  365 Qh 8d
+jrholdem  959831589  7  5 f   -     -     -         1170    0    0 
+jrholdem  959831613  7  4 f   -     -     -         1170    0    0 
+jrholdem  959831624  7  3 f   -     -     -         1170    0    0 
+jrholdem  959831775  7  3 c   kf    -     -         1170   10    0 
+jrholdem  959831836  8  2 Bk  b     kc    kf        1160   40    0 
+jrholdem  959831948  9  1 Bc  k     k     kf        1120   20    0 

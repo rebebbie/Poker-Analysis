@@ -1,0 +1,375 @@
+Jupiter9  957440653  4  2 Bc  r     b     b         1721   80  160 Th Qd
+Jupiter9  957440673  4  1 Br  b     b     k         1801   50    0 Th Ah
+Jupiter9  957440724  4  4 c   f     -     -         1751   20    0 
+Jupiter9  957440747  4  3 r   b     bc    kc        1731   90    0 Kc Tc
+Jupiter9  957440773  4  2 Bc  f     -     -         1641   20    0 
+Jupiter9  957440798  4  1 Br  b     -     -         1621   30   50 
+Jupiter9  957440837  4  4 r   b     bc    c         1641  100    0 Kd 3d
+Jupiter9  957440862  5  4 c   k     k     k         1541   10    0 2s 9s
+Jupiter9  957440910  5  2 BQ  -     -     -         1531   10    0 
+Jupiter9  957730452 10  8 KQ  -     -     -         1331    0    0 
+Jupiter9  957730694 10  8 f   -     -     -         1331    0    0 
+Jupiter9  957730754 10  7 f   -     -     -         1331    0    0 
+Jupiter9  957730814 10  6 ccc kc    kc    kc        1331   90    0 4s 4d
+Jupiter9  957730901 10  5 r   b     b     -         1241   50  140 
+Jupiter9  957730944 10  4 c   kf    -     -         1331   10    0 
+Jupiter9  957731008 10  3 c   kf    -     -         1321   10    0 
+Jupiter9  957731086 10  2 Bk  b     -     -         1311   20   60 
+Jupiter9  957731114 10  1 Bc  b     b     b         1351   70  240 8c Ac
+Jupiter9  957731176  9  9 cc  rc    c     b         1521  110  385 7d 9c
+Jupiter9  957731269 10  9 c   cc    c     f         1796   70    0 
+Jupiter9  957731343 10  8 f   -     -     -         1726    0    0 
+Jupiter9  957731375  9  6 c   k     r     b         1726   70  155 Jc Th
+Jupiter9  957731430  7  4 r   k     k     f         1811   20    0 
+Jupiter9  957731473  8  3 f   -     -     -         1791    0    0 
+Jupiter9  957731538  8  2 Br  r     b     b         1791   80    0 Kd 8h
+Jupiter9  957731613  8  1 Bc  k     kc    kc        1711   70    0 Jd 7d
+Jupiter9  957731703  8  8 r   b     b     b         1641   70  125 Ts Js
+Jupiter9  957731779  8  7 c   f     Q     -         1696   10    0 
+Jupiter9  958434035  9  8 r   b     b     b         2006   70  220 
+Jupiter9  958434114  8  6 c   kf    -     -         2156   10    0 
+Jupiter9  958434150  8  5 c   cc    f     -         2146   50    0 
+Jupiter9  958434198  9  4 r   b     bc    f         2096   70    0 
+Jupiter9  958434246 10  3 r   f     -     -         2026   20    0 
+Jupiter9  958434290  9  2 Bk  kc    r     k         2006   60    0 Kd 4s
+Jupiter9  958434367  9  1 Bc  kf    -     -         1946   10    0 
+Jupiter9  958434446  8  8 r   c     rf    -         1936   80    0 
+Jupiter9  958434509  9  8 cc  br    b     b         1856   90  300 Kc 7h
+Jupiter9  958434597  9  7 c   b     b     -         2066   40   90 
+Jupiter9  958434633 10  7 c   b     b     -         2116   40   85 
+Jupiter9  958434685  9  5 f   -     -     -         2161    0    0 
+Jupiter9  958434736  9  4 c   k     b     b         2161   50  150 2d 3d
+Jupiter9  958434770  9  3 c   f     -     -         2261   10    0 
+Jupiter9  958434813  9  2 Bc  kc    kf    -         2251   30    0 
+Jupiter9  958434839  8  1 Bc  k     b     b         2221   60  140 
+Jupiter9  958434880  8  8 c   b     b     -         2301   50  105 
+Jupiter9  958434903  8  7 c   c     c     c         2356   60    0 8d 9s
+Jupiter9  958434946  8  6 cc  bc    kc    k         2296   60    0 7d 6s
+Jupiter9  958434987  8  5 rc  k     b     b         2236   70  165 
+Jupiter9  958435021  8  4 c   b     b     b         2331   60  140 
+Jupiter9  958435054  9  4 rc  b     b     -         2411   60  115 
+Jupiter9  958435075  9  3 cc  bc    kc    k         2466   60    0 9d 8h
+Jupiter9  958435099  9  2 Bc  c     c     b         2406   70  240 4c Kd
+Jupiter9  958435140  9  1 Bc  kf    -     -         2576   10    0 
+Jupiter9  958435215  7  7 rc  c     c     f         2566   70    0 
+Jupiter9  958435267  7  6 c   c     c     f         2496   70    0 
+Jupiter9  958435315  7  5 f   -     -     -         2426    0    0 
+Jupiter9  958435335  8  5 c   f     -     -         2426   10    0 
+Jupiter9  958435361  8  4 r   b     f     -         2416   30    0 
+Jupiter9  958435397  8  3 f   -     -     -         2386    0    0 
+Jupiter9  958435436  8  2 Bc  kf    -     -         2386   20    0 
+Jupiter9  958435478  8  1 Bc  kf    -     -         2366   10    0 
+Jupiter9  958435519  8  8 c   f     -     -         2356   20    0 
+Jupiter9  958435564  7  6 c   c     c     c         2336   60    0 Th 3h
+Jupiter9  958435588  7  5 Q   -     -     -         2276    0    0 
+Jupiter9  958608870 10  8 r   f     -     -          786   20    0 
+Jupiter9  958608946 10  7 rc  f     -     -          766   30    0 
+Jupiter9  958609021 10  6 rr  b     r     b          736  110  520 Ad 6h
+Jupiter9  958609112 10  5 cc  f     -     -         1146   20    0 
+Jupiter9  958609178 10  4 rcc br    b     b         1126  110  415 3d Kd
+Jupiter9  958609235 10  3 r   b     bc    kc        1431   90    0 Ah Jh
+Jupiter9  958609279 10  2 Bk  kc    kf    -         1341   30    0 
+Jupiter9  958609337 10  1 Brr brc   kc    kc        1311  120  410 Ad Kh
+Jupiter9  958609397 10 10 f   -     -     -         1601    0    0 
+Jupiter9  958609464 10  9 rc  cc    f     -         1601   80    0 
+Jupiter9  958609558 10  8 f   -     -     -         1521    0    0 
+Jupiter9  958609617 10  7 rc  rc    k     bc        1521  103    0 Ah Td
+Jupiter9  958609722 10  6 c   k     k     k         1418   10    0 3c Ks
+Jupiter9  958609775 10  5 c   b     -     -         1408   20   60 
+Jupiter9  958609833 10  4 c   rc    b     k         1448   60    0 2s Jh
+Jupiter9  958609880 10  3 r   brc   kc    k         1388   80    0 Qs Tc
+Jupiter9  958609956 10  2 Bk  f     -     -         1308   10    0 
+Jupiter9  958609994 10  1 Bc  kc    kc    kc        1298   60    0 8h 5s
+Jupiter9  958610055 10 10 r   b     b     b         1238   70    0 8h Js
+Jupiter9  958610163 10  9 r   c     r     b         1168  110    0 2s 2c
+Jupiter9  958610279 10  5 Q   -     -     -         1058    0    0 
+Jupiter9  958774944  7  7 rc  r     b     r         1058  130    0 Ad 4d
+Jupiter9  958775013  6  5 rr  r     b     b          928  100  320 
+Jupiter9  958775098  8  4 r   bc    kc    kc        1148   80    0 Ts 8s
+Jupiter9  958775160  7  2 Br  b     bc    c         1068  100    0 Jd Kh
+Jupiter9  958775222  6  1 Brc bc    bc    k          968  100    0 7d Ks
+Jupiter9  958775284  6  6 rc  k     c     c          868  100    0 Ks 8s
+Jupiter9  958775363  8  7 f   -     -     -          768    0    0 
+Jupiter9  958775428  9  6 cc  k     kf    -          768   30    0 
+Jupiter9  958775463  9  4 ccc r     c     c          738   95    0 6s Jh
+Jupiter9  958775538  9  4 ccc b     b     b          643   90  425 9c Qh
+Jupiter9  958775601 10  4 r   b     -     -          978   30   85 
+Jupiter9  958775629  9  2 Bc  kf    -     -         1033   20    0 
+Jupiter9  958775693  9  1 Br  kQ    -     -         1013   20    0 
+Jupiter9  958941798 10  6 c   b     b     b         1443   60  190 Jh 8d
+Jupiter9  958941866 10  5 c   r     b     b         1573   70  115 6c Qc
+Jupiter9  958941914 10  4 c   k     k     f         1618   10    0 
+Jupiter9  958941980 10  3 c   kf    -     -         1608   10    0 
+Jupiter9  958942071 10  2 Bk  kcc   kf    -         1598   30    0 
+Jupiter9  958942129 10  1 Bf  -     -     -         1568    5    0 
+Jupiter9  958942189 10 10 r   b     -     -         1563   30   90 
+Jupiter9  958942330  9  8 f   -     -     -         1623    0    0 
+Jupiter9  958942373 10  7 r   r     b     b         1623   80  320 Qh 3h
+Jupiter9  958942437 10  6 Q   -     -     -         1863    0    0 
+Jupiter9  958985885 10  9 c   f     -     -         1863   20    0 
+Jupiter9  958985947 10  8 ccc c     f     -         1843   50    0 
+Jupiter9  958986036 10  7 ccc kf    -     -         1793   40    0 
+Jupiter9  958986190  9  6 cc  kf    -     -         1753   20    0 
+Jupiter9  958986270  9  5 c   b     -     -         1733   20   40 
+Jupiter9  958986296  9  4 ccc bcc   kc    kf        1753  100    0 
+Jupiter9  958986428 10  3 c   k     b     b         1653   50   95 
+Jupiter9  958986472  9  2 Bf  -     -     -         1698   10    0 
+Jupiter9  958986534  9  1 Bc  kf    -     -         1688   10    0 
+Jupiter9  958986569  8  8 cc  c     f     -         1678   30    0 
+Jupiter9  958986610  8  7 f   -     -     -         1648    0    0 
+Jupiter9  958986652  8  6 c   brc   f     -         1648   50    0 
+Jupiter9  958986697  9  5 c   kf    -     -         1598   10    0 
+Jupiter9  958986746  9  4 r   bc    kf    -         1588   40    0 
+Jupiter9  958986784 10  4 c   kf    -     -         1548   10    0 
+Jupiter9  958986896  9  3 rc  rc    ccc   kc        1538  180    0 Ks 5h
+Jupiter9  958986963  9  2 Bk  bc    kc    b         1358   70  300 9h Qh
+Jupiter9  958987017  9  1 Bc  kf    -     -         1588   20    0 
+Jupiter9  958987044  8  8 ccc f     -     -         1568   40    0 
+Jupiter9  958987170  8  7 fQ  -     -     -         1528    0    0 
+Jupiter9  959042923 10  7 r   b     b     b         1528   90  340 
+Jupiter9  959043002 10  6 f   -     -     -         1778    0    0 
+Jupiter9  959043036 10  5 f   -     -     -         1778    0    0 
+Jupiter9  959043095 10  4 r   bf    -     -         1778   30    0 
+Jupiter9  959043121 10  3 f   -     -     -         1748    0    0 
+Jupiter9  959043211 10  2 Bc  kf    -     -         1748   20    0 
+Jupiter9  959043305 10  1 Br  b     bf    -         1728   60    0 
+Jupiter9  959043375 10 10 cc  r     rr    c         1668  160    0 Qs 6d
+Jupiter9  959043497 10  9 r   b     -     -         1508   30  125 
+Jupiter9  959043548 10  8 r   cf    -     -         1603   30    0 
+Jupiter9  959043589 10  7 cc  f     -     -         1573   20    0 
+Jupiter9  959043651 10  6 cc  bc    kf    -         1553   40    0 
+Jupiter9  959043763 10  5 cc  k     kc    kf        1513   40    0 
+Jupiter9  959043899 10  4 r   kc    b     b         1473   70  295 Ks 6s
+Jupiter9  959043989 10  3 c   kf    -     -         1698   10    0 
+Jupiter9  959044079 10  2 Br  br    b     b         1688  100  295 Kd Kc
+Jupiter9  959044130 10  1 Br  b     b     k         1883   50    0 Jc Qd
+Jupiter9  959044233 10 10 r   c     f     -         1833   30    0 
+Jupiter9  959044285 10  9 rc  rc    k     rr        1803  160  237 Ac 8h
+Jupiter9  959044359 10  8 r   b     b     b         1880   70  260 Qh Qc
+Jupiter9  959044429 10  7 f   -     -     -         2070    0    0 
+Jupiter9  959044542 10  6 rr  br    b     k         2070   90    0 5s 5c
+Jupiter9  959044606 10  5 f   -     -     -         1980    0    0 
+Jupiter9  959044657 10  4 c   f     -     -         1980   10    0 
+Jupiter9  959044685 10  3 cc  r     f     -         1970   50    0 
+Jupiter9  959044758 10  2 Br  b     b     b         1920   70  200 Ks Qd
+Jupiter9  959044823 10  1 Bc  br    br    br        2050  190  750 Qd 4d
+Jupiter9  959044900 10 10 f   -     -     -         2610    0    0 
+Jupiter9  959044928 10  9 cc  k     c     f         2610   44    0 
+Jupiter9  959044983 10  8 r   b     kc    kc        2566   70  195 Qc Ah
+Jupiter9  959045032  9  6 rr  rr    r     r         2691  148    0 Qd Ad
+Jupiter9  959045086  9  5 Q   -     -     -         2543    0    0 
+Jupiter9  959162472  9  3 f   -     -     -         2698    0    0 
+Jupiter9  959162549  9  2 Br  b     b     b         2698   70    0 7h Ks
+Jupiter9  959162567  9  1 Bc  kr    b     bc        2628  100    0 Qs 9c
+Jupiter9  959162607 10 10 r   b     -     -         2528   30   75 
+Jupiter9  959162643 10  9 f   -     -     -         2573    0    0 
+Jupiter9  959162726 10  8 c   f     -     -         2573   10    0 
+Jupiter9  959162792 10  7 c   b     b     k         2563   40    0 Qs 9d
+Jupiter9  959162836  9  5 cc  kc    kf    -         2523   30    0 
+Jupiter9  959162878 10  5 f   -     -     -         2493    0    0 
+Jupiter9  959162950  8  2 c   b     b     bf        2493   60    0 
+Jupiter9  959163002  8  2 Brc b     b     b         2433   90  225 Ks As
+Jupiter9  959163046  8  1 Bc  kf    -     -         2568   10    0 
+Jupiter9  959163100  7  7 f   -     -     -         2558    0    0 
+Jupiter9  959163112  7  6 rc  k     b     k         2558   60    0 4d 4s
+Jupiter9  959163142  8  6 c   c     f     -         2498   20    0 
+Jupiter9  959163167  8  5 cc  kf    -     -         2478   20    0 
+Jupiter9  959163224  8  4 f   -     -     -         2458    0    0 
+Jupiter9  959163262  9  4 c   kc    bc    f         2458   60    0 
+Jupiter9  959163341  7  3 f   -     -     -         2398    0    0 
+Jupiter9  959163386  6  1 Bk  k     kf    -         2398   10    0 
+Jupiter9  959163421  6  1 Br  b     b     b         2388   70  160 Ts Kd
+Jupiter9  959163445  6  6 c   c     c     f         2478   40    0 
+Jupiter9  959163480  6  5 c   r     b     b         2438   70  200 Ks 5h
+Jupiter9  959163519  6  4 rc  kf    -     -         2568   40    0 
+Jupiter9  959163552  6  3 cc  k     f     -         2528   20    0 
+Jupiter9  959163584  6  2 Bk  kf    -     -         2508   10    0 
+Jupiter9  959163595  6  1 Bc  kc    kf    -         2498   20    0 
+Jupiter9  959163618  6  6 c   b     -     -         2478   20   60 
+Jupiter9  959163657  6  5 r   b     bc    cf        2518   90    0 
+Jupiter9  959163698  6  4 r   bc    c     c         2428   80  200 Ad Qh
+Jupiter9  959163736  6  3 cc  kc    kf    -         2548   30    0 
+Jupiter9  959163758  6  2 Br  b     b     bc        2518   90    0 7d Ks
+Jupiter9  959163802  6  1 Br  kc    kf    -         2428   30    0 
+Jupiter9  959163844  6  6 r   b     b     -         2398   50  115 
+Jupiter9  959163875  6  5 f   -     -     -         2463    0    0 
+Jupiter9  959163888  6  4 rr  rf    -     -         2463   60    0 
+Jupiter9  959163924  6  3 f   -     -     -         2403    0    0 
+Jupiter9  959163946  6  2 Br  b     b     b         2403   70  230 As Qs
+Jupiter9  959163997  6  1 BQ  -     -     -         2563    5    0 
+Jupiter9  959261935 10  3 f   -     -     -         3343    0    0 
+Jupiter9  959261996 10  2 Bk  kc    kc    kc        3343   60    0 8c 7c
+Jupiter9  959262061 10  1 Br  b     b     -         3283   60  160 
+Jupiter9  959262109 10 10 c   b     k     k         3383   20   50 9h 2h
+Jupiter9  959262171 10  9 c   k     kf    -         3413   10    0 
+Jupiter9  959262214 10  8 c   k     f     -         3403   10    0 
+Jupiter9  959262249 10  7 r   c     k     k         3393   30    0 Ks 8s
+Jupiter9  959262283 10  6 f   -     -     -         3363    0    0 
+Jupiter9  959262307 10  5 r   b     -     -         3363   30  100 
+Jupiter9  959262336 10  4 c   k     k     f         3433   10    0 
+Jupiter9  959262374 10  3 f   -     -     -         3423    0    0 
+Jupiter9  959262403 10  2 Bk  k     kf    -         3423   10    0 
+Jupiter9  959262434 10  1 Bc  kf    -     -         3413   20    0 
+Jupiter9  959262470 10 10 c   k     b     k         3393   30   85 Td 3d
+Jupiter9  959262512 10  9 c   br    -     -         3448   40   95 
+Jupiter9  959262549 10  8 cc  c     f     -         3503   30    0 
+Jupiter9  959262575 10  7 c   k     k     k         3473   10    0 3s Jd
+Jupiter9  959262621 10  6 c   c     f     -         3463   20    0 
+Jupiter9  959262707 10  5 r   bf    -     -         3443   30    0 
+Jupiter9  959262746 10  4 f   Q     -     -         3413    0    0 
+Jupiter9  959318371  6  2 Br  b     -     -         5080   40   75 
+Jupiter9  959318391  6  1 Bf  -     -     -         5115    5    0 
+Jupiter9  959318414  6  6 f   -     -     -         5110    0    0 
+Jupiter9  959318425  6  5 c   k     f     -         5110   10    0 
+Jupiter9  959318467  6  4 c   f     -     -         5100   10    0 
+Jupiter9  959318492  6  3 rr  b     b     bc        5090  110    0 6s Qc
+Jupiter9  959318520  6  2 Bc  b     b     -         4980   50  100 
+Jupiter9  959318545  6  1 Bc  bc    k     b         5030   50  120 
+Jupiter9  959318573  6  6 f   -     -     -         5100    0    0 
+Jupiter9  959318589  6  5 cc  f     -     -         5100   20    0 
+Jupiter9  959318626  6  4 f   -     -     -         5080    0    0 
+Jupiter9  959318642  6  3 cc  b     b     b         5080   70  195 2d Qd
+Jupiter9  959318695  6  2 Bc  k     bc    kc        5205   80    0 3s Ts
+Jupiter9  959318735  6  1 Bc  k     k     k         5125   10    0 Qd 4c
+Jupiter9  959318756  6  6 c   f     -     -         5115   20    0 
+Jupiter9  959318779  6  5 r   c     b     b         5095   70  170 
+Jupiter9  959318821  6  4 cc  c     c     c         5195   70    0 9d Td
+Jupiter9  959318847  6  3 r   r     b     b         5125   80  165 Kd Ad
+Jupiter9  959318880  6  2 Bf  -     -     -         5210   10    0 
+Jupiter9  959318892  6  1 Bf  -     -     -         5200    5    0 
+Jupiter9  959318925  6  6 r   c     cf    -         5195   60    0 
+Jupiter9  959318994  6  5 cc  cf    -     -         5135   30    0 
+Jupiter9  959319027  5  3 rc  rc    cc    k         5105  110    0 6h Kh
+Jupiter9  959319082  5  2 B   -     -     -         4995   10   15 
+Jupiter9  959319094  5  1 Bf  -     -     -         5000    5    0 
+Jupiter9  959319116  6  6 c   f     -     -         4995   20    0 
+Jupiter9  959319148  6  5 f   -     -     -         4975    0    0 
+Jupiter9  959319167  6  4 r   b     b     b         4975   70    0 4s Ks
+Jupiter9  959319199  7  3 c   f     -     -         4905   10    0 
+Jupiter9  959319230  7  2 Br  b     -     -         4895   30   50 
+Jupiter9  959319252  6  1 Bc  k     b     -         4915   40  100 
+Jupiter9  959319282  6  6 c   b     -     -         4975   30  100 
+Jupiter9  959319305  7  5 c   b     b     b         5045   60    0 2c Ks
+Jupiter9  959319343  7  4 r   bc    c     r         4985  100  225 7s 7h
+Jupiter9  959319386  7  3 c   f     -     -         5110   10    0 
+Jupiter9  959319422  7  2 Br  r     r     r         5100  120  240 Js Ad
+Jupiter9  959319463  7  1 Br  -     -     -         5220   20   30 
+Jupiter9  959319476  7  7 r   -     -     -         5230   20   35 
+Jupiter9  959319551  5  5 c   f     -     -         5245   10    0 
+Jupiter9  959319574  5  4 f   -     -     -         5235    0    0 
+Jupiter9  959319608  6  4 r   b     -     -         5235   30   75 
+Jupiter9  959319628  6  3 f   -     -     -         5280    0    0 
+Jupiter9  959319672  6  2 Bf  -     -     -         5280   10    0 
+Jupiter9  959319735  7  1 Brc k     b     b         5270   80    0 Kh Qh
+Jupiter9  959319792  7  7 r   r     b     b         5190   80  230 As Jd
+Jupiter9  959319842  6  5 rr  b     b     b         5340   90  275 Ad Ks
+Jupiter9  959319929  7  5 f   -     -     -         5525    0    0 
+Jupiter9  959319945  7  4 r   bc    kf    -         5525   40    0 
+Jupiter9  959320013  8  3 cc  fQ    -     -         5485   20    0 
+Jupiter9  959361140  7  6 r   b     b     -         9285   50  130 
+Jupiter9  959361201  8  5 r   k     kf    -         9365   20    0 
+Jupiter9  959361266  7  4 cc  kc    kc    kc        9345   70  185 6h Td
+Jupiter9  959361319  7  3 f   -     -     -         9460    0    0 
+Jupiter9  959361347  7  2 Bf  -     -     -         9460   10    0 
+Jupiter9  959361417  6  1 Br  bc    kc    k         9450   60    0 Ad 2d
+Jupiter9  959361466  6  6 f   -     -     -         9390    0    0 
+Jupiter9  959361528  6  5 f   -     -     -         9390    0    0 
+Jupiter9  959361567  5  3 rc  bc    b     b         9390  100  250 8c 8s
+Jupiter9  959361615  5  3 c   f     -     -         9540   10    0 
+Jupiter9  959361645  5  2 Br  b     b     k         9530   50  140 8s 8c
+Jupiter9  959361685  5  1 Bc  kf    -     -         9620   10    0 
+Jupiter9  959361719  5  5 f   -     -     -         9610    0    0 
+Jupiter9  959361756  5  4 c   b     -     -         9610   20   50 
+Jupiter9  959361779  5  3 f   -     -     -         9640    0    0 
+Jupiter9  959361814  6  2 Bk  b     -     -         9640   20   45 
+Jupiter9  959361833  6  1 Bf  -     -     -         9665    5    0 
+Jupiter9  959361885  6  6 c   b     b     b         9660   60  180 7h Tc
+Jupiter9  959361931  6  5 f   -     -     -         9780    0    0 
+Jupiter9  959361971  6  4 ccc f     -     -         9780   40    0 
+Jupiter9  959362040  6  3 fQ  -     -     -         9740    0    0 
+Jupiter9  959677707 10  3 f   -     -     -         5865    0    0 
+Jupiter9  959677745 10  2 Br  r     kf    -         5865   40    0 
+Jupiter9  959677819 10  1 Bf  -     -     -         5825    5    0 
+Jupiter9  959677972  9  9 r   r     b     r         5820  120    0 7d 6h
+Jupiter9  959678051  9  8 rc  cc    c     c         5700  110  380 Ah Ts
+Jupiter9  959678119  9  7 r   b     rc    cc        5970  130    0 Ac Kc
+Jupiter9  959678196  9  6 r   kf    -     -         5840   20    0 
+Jupiter9  959678258 10  6 c   b     b     k         5820   50    0 9h 3h
+Jupiter9  959678339 10  5 cc  c     kf    -         5770   30    0 
+Jupiter9  959678423 10  4 c   f     -     -         5740   10    0 
+Jupiter9  959678441 10  3 cc  k     k     kf        5730   20    0 
+Jupiter9  959678515 10  2 Brc bc    kf    -         5710   70    0 
+Jupiter9  959678635 10  1 Bf  -     -     -         5640    5    0 
+Jupiter9  959678678 10 10 c   f     -     -         5635   10    0 
+Jupiter9  959678751 10  9 r   b     b     b         5625   70  190 
+Jupiter9  959678810 10  8 cc  c     bc    c         5745  100  240 Tc 2c
+Jupiter9  959678919 10  7 fQ  -     -     -         5885    0    0 
+Jupiter9  959762046  5  2 B   -     -     -         1000   10   15 
+Jupiter9  959762052  5  1 Bc  kc    kf    -         1005   40    0 
+Jupiter9  959762084  5  5 r   b     b     b          965   70  210 Kc 6c
+Jupiter9  959762126  5  4 r   b     b     b         1105   70    0 4h Ac
+Jupiter9  959762152  5  3 cc  c     c     c         1035   70    0 Qh 4d
+Jupiter9  959762177  5  2 Bc  kf    -     -          965   20    0 
+Jupiter9  959762201  5  1 Br  bc    kc    b          945   80  240 Js Qs
+Jupiter9  959762232  5  5 c   f     -     -         1105   20    0 
+Jupiter9  959762247  5  4 c   c     c     c         1085   60  140 7d 5c
+Jupiter9  959762278  5  3 cc  bc    kr    b         1165  100  245 9d 8h
+Jupiter9  959762308  5  2 B   -     -     -         1310   10   15 
+Jupiter9  959762318  5  1 Br  bf    -     -         1315   30    0 
+Jupiter9  959762349  5  5 r   f     -     -         1285   20    0 
+Jupiter9  959762385  5  4 r   -     -     -         1265   20   35 
+Jupiter9  959762393  5  3 c   b     r     b         1280   80  155 
+Jupiter9  959762421  5  2 Bk  b     b     b         1355   60  120 Kh 5c
+Jupiter9  959762453  5  1 Bc  brc   kc    kf        1415   70    0 
+Jupiter9  959762486  5  5 r   r     rc    rc        1345  180    0 Js Jd
+Jupiter9  959762526  5  4 r   f     -     -         1165   20    0 
+Jupiter9  959762566  5  3 cc  c     c     c         1145   70  195 8c 2d
+Jupiter9  959762612  5  2 Br  b     -     -         1270   30   70 
+Jupiter9  959762642  5  1 Br  b     kf    -         1310   30    0 
+Jupiter9  959762681  5  5 cc  c     k     f         1280   30    0 
+Jupiter9  959762716  5  4 r   rr    rr    cc        1250  200    0 7d 9s
+Jupiter9  959762761  5  3 rr  rc    c     c         1050  110    0 Qs 9s
+Jupiter9  959762793  5  2 Brc rr    c     c          940  120    0 Th Td
+Jupiter9  959762828  5  1 Br  bc    k     kc         820   60    0 7d 7c
+Jupiter9  959762864  5  5 rr  c     c     f          760   70    0 
+Jupiter9  959762913  5  4 r   brc   k     b          690   80    0 Ks 5d
+Jupiter9  959762961  5  3 r   b     b     bc         610   90    0 6c 4h
+Jupiter9  959762992  5  2 Brc rr    rr    rr         520  240  520 6s 8h
+Jupiter9  959763038  5  1 Bc  k     kr    -          800   50   90 
+Jupiter9  959763064  5  5 r   b     b     b          840   70  190 
+Jupiter9  959763099  5  4 c   r     b     k          960   50    0 4c Jd
+Jupiter9  959763140  5  3 c   rr    rr    b          910  150    0 3d 2d
+Jupiter9  959763187  6  2 Br  b     b     b          760   70   90 Tc Ah
+Jupiter9  959763219  6  1 Bc  bf    -     -          780   20    0 
+Jupiter9  959763262  6  6 rc  rc    f     -          760   70    0 
+Jupiter9  959763306  6  5 r   b     b     b          690   70    0 6s 4d
+Jupiter9  959763335  6  4 r   r     b     b          620   80  115 Ks 9d
+Jupiter9  959763396  6  3 c   k     k     kf         655   10    0 
+Jupiter9  959763427  6  2 Brc br    b     b          645  110  315 Ts Qd
+Jupiter9  959763466  6  1 Bc  k     k     k          850   10   10 8h 3d
+Jupiter9  959763500  6  6 r   b     brc   c          850  130    0 Kd Js
+Jupiter9  959763538  6  5 r   brc   c     c          720  110    0 Js As
+Jupiter9  959763572  6  4 c   k     k     k          610   10    0 2c Td
+Jupiter9  959763615  6  3 r   rr    rr    r          600  180    0 Ad 3h
+Jupiter9  959763655  6  2 Br  bc    k     kc         420   80    0 9c Th
+Jupiter9  959763685  6  1 Br  -     -     -          340   20   30 
+Jupiter9  959763700  6  6 r   rr    r     rc         350  160    0 Ad 6h
+Jupiter9  959763737  6  5 rr  brc   brc   bcA        190  190    0 Ah 4s
+Jupiter9  959811806 10  7 c   brc   c     c         1000   90    0 2d 7d
+Jupiter9  959811881 10  6 cc  f     -     -          910   30    0 
+Jupiter9  959811971  9  5 c   f     -     -          880   10    0 
+Jupiter9  959812029 10  4 cc  r     kc    k          870   60    0 Jh Th
+Jupiter9  959812142 10  3 cc  kf    -     -          810   20    0 
+Jupiter9  959812267 10  2 Brc bc    kc    kc         790  100    0 9s Kd
+Jupiter9  959812365 10  1 Bc  KQ    -     -          690   10    0 
+Jupiter9  959812516 10 10 c   f     -     -          680   10    0 
+Jupiter9  959812594 10  9 c   k     f     -          670   10    0 
+Jupiter9  959812633 10  8 rc  rc    k     brc        660  140    0 Td Js
+Jupiter9  959812691  9  6 c   k     b     c          520   50    0 4s 5s
+Jupiter9  959812735 10  6 rr  brc   b     b          470  120    0 Qh Td
+Jupiter9  959812832 10  5 cc  bcc   kcf   -          350  100    0 
+Jupiter9  959812968  8  2 Bk  b     br    kf         250   80    0 
+Jupiter9  959813040  8  1 Br  b     b     b          170   90  260 
+Jupiter9  959813084  8  8 r   r     rc    c          340  170    0 Ts Tc
+Jupiter9  959813178  8  7 c   c     b     r          170   80    0 Kh 5d
+Jupiter9  959813261  8  6 r   br    b     bA          90   90    0 3h 7s

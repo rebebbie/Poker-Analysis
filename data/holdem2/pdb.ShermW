@@ -1,0 +1,162 @@
+ShermW    959038835  4  2 Bf  -     -     -         2240   20    0 
+ShermW    959038854  4  1 Bf  -     -     -         2220   10    0 
+ShermW    959038865  4  4 f   -     -     -         2410    0    0 
+ShermW    959038893  4  3 f   -     -     -         2410    0    0 
+ShermW    959038909  4  2 B   -     -     -         2410   20   30 
+ShermW    959038912  4  1 Bf  -     -     -         2420   10    0 
+ShermW    959038921  4  4 f   -     -     -         2410    0    0 
+ShermW    959038940  4  3 r   b     -     -         2410   60  150 
+ShermW    959038950  4  2 Bc  r     f     -         2500   80    0 
+ShermW    959038962  4  1 Bc  kf    -     -         2420   20    0 
+ShermW    959038977  4  4 cc  c     c     f         2400  100    0 
+ShermW    959038996  4  3 r   b     b     bc        2300  180    0 2c 2s
+ShermW    959039028  4  2 Br  c     f     -         2120   80    0 
+ShermW    959039055  4  1 Brr k     kc    bc        2040  200    0 8s Ad
+ShermW    959039079  4  4 r   r     br    b         1840  240    0 5c 5h
+ShermW    959039107  4  3 r   brrc  c     f         1600  200    0 
+ShermW    959039133  4  2 Br  b     b     br        1400  220  440 3h Ad
+ShermW    959039151  4  1 Brrrrrrr b     b     b         1620  400    0 9c Kh
+ShermW    959039176  4  4 rrc r     b     b         1220  240    0 Qh 9c
+ShermW    959039197  4  3 r   b     -     -          980   60  110 
+ShermW    959039208  4  2 Bf  -     -     -         1030   20    0 
+ShermW    959039214  4  1 Bf  -     -     -         1010   10    0 
+ShermW    959039217  4  4 f   -     -     -         1000    0    0 
+ShermW    959039236  4  3 r   b     -     -         1000   60  160 
+ShermW    959039249  4  2 Bc  b     b     bc        1100  180    0 Jh Kc
+ShermW    959039267  4  1 Bf  -     -     -          920   10    0 
+ShermW    959039288  4  4 rr  c     c     b          910  180  460 7s 8h
+ShermW    959039311  4  3 r   b     b     b         1190  140  420 Ad 3d
+ShermW    959039336  4  2 Bc  r     kc    kc        1470  160    0 Ts 9s
+ShermW    959039373  4  1 Bf  -     -     -         1310   10    0 
+ShermW    959039402  4  4 f   -     -     -         1300    0    0 
+ShermW    959039429  4  3 r   k     k     f         1300   40    0 
+ShermW    959039452  4  2 Bc  kc    kf    -         1260   60    0 
+ShermW    959039466  4  1 Br  br    b     b         1200  180  400 4c 6h
+ShermW    959039490  4  4 f   -     -     -         1420    0    0 
+ShermW    959039508  4  3 f   -     -     -         1420    0    0 
+ShermW    959039540  5  2 Bf  -     -     -         1420   20    0 
+ShermW    959039569  6  1 Bf  -     -     -         1400   10    0 
+ShermW    959039577  6  6 rc  r     b     -         1390  140  290 
+ShermW    959039605  7  6 f   -     -     -         1540    0    0 
+ShermW    959039641  7  5 f   -     -     -         1540    0    0 
+ShermW    959039670  7  4 f   -     -     -         1540    0    0 
+ShermW    959039679  7  3 rc  kr    b     b         1540  180  390 As 6d
+ShermW    959039700  7  2 B   -     -     -         1750   20   30 
+ShermW    959039708  7  1 Bc  kc    kf    -         1760   40    0 
+ShermW    959039738  7  7 r   k     c     k         1720   80  210 9d As
+ShermW    959039766  7  5 f   -     -     -         1850    0    0 
+ShermW    959039790  7  4 f   -     -     -         1850    0    0 
+ShermW    959039818  7  3 f   -     -     -         1850    0    0 
+ShermW    959039846  7  2 Bc  k     kc    kc        1850  120  250 7d Qc
+ShermW    959039870  7  1 Bf  -     -     -         1980   10    0 
+ShermW    959039884  6  6 f   -     -     -         1970    0    0 
+ShermW    959039906  6  5 f   -     -     -         1970    0    0 
+ShermW    959039938  8  5 c   kf    -     -         1970   20    0 
+ShermW    959039957  9  4 f   -     -     -         1950    0    0 
+ShermW    959040004  9  3 f   -     -     -         1950    0    0 
+ShermW    959040033  9  2 Bf  -     -     -         1950   20    0 
+ShermW    959040085  9  1 Bc  k     kf    -         1930   20    0 
+ShermW    959040131  9  9 f   -     -     -         1910    0    0 
+ShermW    959040147  9  8 f   -     -     -         1910    0    0 
+ShermW    959040162  9  7 f   -     -     -         1910    0    0 
+ShermW    959040260  8  5 c   b     k     k         1910   60  150 Jh 7h
+ShermW    959040310  8  4 c   bc    k     kc        2000  100    0 7h Th
+ShermW    959040348  8  3 f   -     -     -         1900    0    0 
+ShermW    959040405  8  2 B   -     -     -         1900   20   30 
+ShermW    959040440  8  1 Bc  kc    kc    kf        1910  100    0 
+ShermW    959040476  8  8 f   -     -     -         1810    0    0 
+ShermW    959040522  8  7 f   -     -     -         1810    0    0 
+ShermW    959040605  8  6 f   -     -     -         1810    0    0 
+ShermW    959040657  8  5 f   -     -     -         1810    0    0 
+ShermW    959040712  8  4 r   b     b     c         1810  140    0 Ac 3s
+ShermW    959040749  9  4 f   -     -     -         1670    0    0 
+ShermW    959040791  9  3 f   -     -     -         1670    0    0 
+ShermW    959040854  8  2 Bk  k     kc    kc        1670  100  220 7h 2c
+ShermW    959040881  7  1 Brc krc   b     b         1790  240  680 5d As
+ShermW    959040922  7  7 f   -     -     -         2230    0    0 
+ShermW    959040941  7  6 c   b     -     -         2230   40   70 
+ShermW    959040960  7  5 c   f     -     -         2260   40    0 
+ShermW    959040982  6  3 fQ  -     -     -         2220    0    0 
+ShermW    959229238  5  4 c   k     k     f         2220   20    0 
+ShermW    959229266  5  3 f   -     -     -         2200    0    0 
+ShermW    959229294  5  2 Bk  kc    kf    -         2200   40    0 
+ShermW    959229317  5  1 Bf  -     -     -         2160   10    0 
+ShermW    959229338  5  5 c   c     c     k         2150   80  110 2s Js
+ShermW    959229368  5  4 c   f     -     -         2180   20    0 
+ShermW    959229412  5  3 f   -     -     -         2160    0    0 
+ShermW    959229452  4  2 B   -     -     -         2160   20   30 
+ShermW    959229459  4  1 Bcc b     b     b         2170  140    0 Td Jd
+ShermW    959229475  4  4 f   -     -     -         2030    0    0 
+ShermW    959229510  4  3 f   -     -     -         2030    0    0 
+ShermW    959229548  4  2 Bk  k     k     br        2030  140  290 Kh 7c
+ShermW    959229582  5  1 Bc  kf    -     -         2180   20    0 
+ShermW    959229611  5  4 r   r     b     b         2160  160    0 3d 4d
+ShermW    959229642  5  3 f   -     -     -         2000    0    0 
+ShermW    959229662  5  2 Bk  k     bc    f         2000  100    0 
+ShermW    959229697  5  1 Br  -     -     -         1900   40   80 
+ShermW    959229705  5  5 r   r     c     c         1940  180    0 8c Tc
+ShermW    959229729  5  4 r   b     -     -         1760   60  110 
+ShermW    959229741  5  3 f   -     -     -         1810    0    0 
+ShermW    959229750  5  2 Bk  b     kc    b         1810  120    0 4d 7d
+ShermW    959229770  5  1 Bc  k     k     k         1690   20    0 7s 4h
+ShermW    959229792  5  5 f   -     -     -         1670    0    0 
+ShermW    959229810  5  4 c   r     r     c         1670  180    0 2h Jh
+ShermW    959229837  5  3 r   k     k     k         1490   40  120 7h 6s
+ShermW    959229859  5  2 Bk  b     b     b         1570  120    0 6h 5s
+ShermW    959229883  4  1 Bf  -     -     -         1450   10    0 
+ShermW    959229902  4  4 c   k     b     -         1440   60   90 
+ShermW    959229912  4  3 cc  f     -     -         1470   40    0 
+ShermW    959229930  4  2 Bc  c     k     k         1430   60    0 Ac 4d
+ShermW    959229941  4  1 Br  -     -     -         1370   40   60 
+ShermW    959229949  4  4 c   rr    rc    c         1390  260    0 Ks 8s
+ShermW    959229965  4  3 cc  rr    r     f         1130  200    0 
+ShermW    959229989  4  2 Br  k     c     k          930   80    0 Qh 2h
+ShermW    959230011  4  1 Bf  -     -     -          850   10    0 
+ShermW    959230018  4  4 r   b     b     b          840  140    0 8s Ad
+ShermW    959230035  4  3 c   k     f     -          700   20    0 
+ShermW    959230065  4  2 Bc  b     b     b          680  140  300 
+ShermW    959230086  4  1 Bf  -     -     -          840   10    0 
+ShermW    959230093  4  4 r   k     k     b          830   80  130 
+ShermW    959230105  4  3 c   b     -     -          880   40   70 
+ShermW    959230117  4  2 Br  b     bc    c          910  200    0 2c 2d
+ShermW    959230141  4  1 Br  -     -     -          710   40   60 
+ShermW    959230148  4  4 c   k     b     -          730   60   90 
+ShermW    959230157  4  3 f   -     -     -          760    0    0 
+ShermW    959230160  4  2 Bk  b     b     b          760  120  240 6h 9d
+ShermW    959230170  4  1 Bf  -     -     -          880   10    0 
+ShermW    959230185  4  4 c   f     -     -          870   20    0 
+ShermW    959230200  4  3 r   b     b     -          850  100  200 
+ShermW    959230217  4  2 Bk  b     -     -          950   40   60 
+ShermW    959230232  4  1 Bc  k     k     k          970   20   40 Qh Tc
+ShermW    959230245  4  4 c   k     b     -          990   60   90 
+ShermW    959230256  4  3 c   k     c     k         1020   60  140 Jc Ac
+ShermW    959230273  4  2 Br  b     b     b         1100  160    0 Ah Ts
+ShermW    959230293  4  1 Bc  k     k     k          940   20   80 2s Ah
+ShermW    959230323  4  4 f   -     -     -         1000    0    0 
+ShermW    959230338  4  3 c   k     f     -         1000   20    0 
+ShermW    959230363  4  2 Bc  c     k     k          980   60    0 6h Jh
+ShermW    959230378  4  1 Bf  -     -     -          920   10    0 
+ShermW    959230385  4  4 f   -     -     -          910    0    0 
+ShermW    959230389  4  3 f   -     -     -          910    0    0 
+ShermW    959230399  4  2 Bk  k     k     k          910   20    0 Td 5h
+ShermW    959230410  4  1 Bc  k     kc    k          890   60    0 Js 2s
+ShermW    959230428  4  4 c   r     k     b          830  120    0 2s Ah
+ShermW    959230446  4  3 c   r     k     c          710  100    0 6c 9h
+ShermW    959230486  4  2 Br  b     b     b          610  140  280 6s As
+ShermW    959230502  4  1 Bf  -     -     -          750   10    0 
+ShermW    959230516  4  4 c   c     c     f          740   80    0 
+ShermW    959230536  4  3 r   f     -     -          660   40    0 
+ShermW    959230553  4  2 Br  kc    kc    k          620  100    0 4c As
+ShermW    959230574  4  1 Br  -     -     -          520   40   60 
+ShermW    959230580  4  4 r   k     c     c          540  120    0 6d Ad
+ShermW    959230594  4  3 c   k     f     -          420   20    0 
+ShermW    959230620  4  2 Bf  -     -     -          400   20    0 
+ShermW    959230636  5  1 Bf  -     -     -          380   10    0 
+ShermW    959230657  5  5 r   k     f     -          370   40    0 
+ShermW    959230681  5  4 f   -     -     -          330    0    0 
+ShermW    959230709  5  3 c   c     c     f          330   80    0 
+ShermW    959230739  5  2 B   -     -     -          250   20   30 
+ShermW    959230749  5  1 Bc  kf    -     -          260   20    0 
+ShermW    959230766  5  5 f   -     -     -          240    0    0 
+ShermW    959230796  5  4 r   rc    c     f          240  140    0 
+ShermW    959230823  5  3 rrcA -     -     -          100  100    0 Js Jc

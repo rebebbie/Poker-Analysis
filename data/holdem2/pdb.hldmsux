@@ -1,0 +1,397 @@
+hldmsux   958701233 10  7 f   -     -     -         5546    0    0 
+hldmsux   958701280 10  6 f   -     -     -         5546    0    0 
+hldmsux   958701312 10  5 f   -     -     -         5546    0    0 
+hldmsux   958701344 10  4 f   -     -     -         5546    0    0 
+hldmsux   958701386 10  3 f   -     -     -         5546    0    0 
+hldmsux   958701435 10  2 Bk  k     k     kf        5546   20    0 
+hldmsux   958701501 10  1 Bc  br    b     b         5526  160    0 Jh Qd
+hldmsux   958701548 10 10 c   f     -     -         5366   20    0 
+hldmsux   958701612 10  9 f   -     -     -         5346    0    0 
+hldmsux   958701668 10  8 f   -     -     -         5346    0    0 
+hldmsux   958701707 10  7 f   -     -     -         5346    0    0 
+hldmsux   958701768  9  5 f   -     -     -         5346    0    0 
+hldmsux   958701805  9  4 r   b     b     -         5346  100  260 
+hldmsux   958701851  9  4 f   -     -     -         5506    0    0 
+hldmsux   958701903  9  3 f   -     -     -         5506    0    0 
+hldmsux   958701935  9  2 Bf  -     -     -         5506   20    0 
+hldmsux   958701976  9  1 Bc  br    b     b         5486  160  230 Jc Qh
+hldmsux   958702036  9  9 r   b     b     -         5556  100  300 
+hldmsux   958702130  9  8 f   -     -     -         5756    0    0 
+hldmsux   958702171  9  7 f   -     -     -         5756    0    0 
+hldmsux   958702234  9  6 f   -     -     -         5756    0    0 
+hldmsux   958702301  9  5 f   -     -     -         5756    0    0 
+hldmsux   958702358  9  4 f   -     -     -         5756    0    0 
+hldmsux   958702398  9  3 f   -     -     -         5756    0    0 
+hldmsux   958702437  9  2 Bc  kc    kf    -         5756   80    0 
+hldmsux   958702527 10  1 Br  br    b     bc        5676  240    0 Ad As
+hldmsux   958702575 10 10 f   -     -     -         5436    0    0 
+hldmsux   958702629 10  9 f   -     -     -         5436    0    0 
+hldmsux   958702645 10  8 f   -     -     -         5436    0    0 
+hldmsux   958702722 10  7 f   -     -     -         5436    0    0 
+hldmsux   958702761 10  6 f   -     -     -         5436    0    0 
+hldmsux   958702830  8  3 f   -     -     -         5436    0    0 
+hldmsux   958702925  9  3 f   -     -     -         5436    0    0 
+hldmsux   958702955  9  2 Bf  -     -     -         5436   20    0 
+hldmsux   958703022  8  1 Bf  -     -     -         5416   10    0 
+hldmsux   958703038  8  8 f   -     -     -         5406    0    0 
+hldmsux   958703074  8  7 f   -     -     -         5406    0    0 
+hldmsux   958703101  7  5 f   -     -     -         5406    0    0 
+hldmsux   958703152  7  5 f   -     -     -         5406    0    0 
+hldmsux   958703170  7  4 f   -     -     -         5406    0    0 
+hldmsux   958703205  5  3 f   -     -     -         5406    0    0 
+hldmsux   958703221  5  2 Bk  b     bc    kf        5406  120    0 
+hldmsux   958703264  5  1 Bc  b     -     -         5286   40   60 
+hldmsux   958703278  5  5 f   -     -     -         5306    0    0 
+hldmsux   958703324  5  4 r   b     b     -         5306  100  210 
+hldmsux   958703358  5  3 f   -     -     -         5416    0    0 
+hldmsux   958703386  5  2 Bk  b     -     -         5416   40   60 
+hldmsux   958703407  5  1 Bc  kf    -     -         5436   20    0 
+hldmsux   958703440  5  5 f   -     -     -         5416    0    0 
+hldmsux   958703465  5  4 f   -     -     -         5416    0    0 
+hldmsux   958703485  5  3 c   b     b     bf        5416  120    0 
+hldmsux   958703531  5  2 Bf  -     -     -         5296   20    0 
+hldmsux   958703562  5  1 Bf  -     -     -         5276   10    0 
+hldmsux   958703575  5  5 r   b     b     b         5266  140  330 Ad 8s
+hldmsux   958703611  6  4 f   -     -     -         5456    0    0 
+hldmsux   958703618  6  3 f   -     -     -         5456    0    0 
+hldmsux   958703631  6  2 Bk  f     -     -         5456   20    0 
+hldmsux   958703665  6  1 Bf  -     -     -         5436   10    0 
+hldmsux   958703678  6  6 f   -     -     -         5426    0    0 
+hldmsux   958703699  6  5 r   b     bc    k         5426  160    0 Kh Ad
+hldmsux   958703732  8  4 f   -     -     -         5266    0    0 
+hldmsux   958703754  8  3 c   kf    -     -         5266   20    0 
+hldmsux   958703798  7  2 Bc  k     b     -         5246   80  160 
+hldmsux   958703838  7  1 Bc  k     b     b         5326  100  140 Th Jd
+hldmsux   958703901  8  8 f   -     -     -         5366    0    0 
+hldmsux   958703941  8  7 f   -     -     -         5366    0    0 
+hldmsux   958703991  8  6 f   -     -     -         5366    0    0 
+hldmsux   958704027  8  5 f   -     -     -         5366    0    0 
+hldmsux   958704076  8  4 c   b     b     b         5366  120    0 3c 3d
+hldmsux   958704119  9  4 f   -     -     -         5246    0    0 
+hldmsux   958704166 10  4 f   -     -     -         5246    0    0 
+hldmsux   958704191 10  3 cc  kc    kf    -         5246   60    0 
+hldmsux   958704224 10  2 Bk  k     b     k         5186   60  160 3c Jc
+hldmsux   958704269 10  1 Bf  -     -     -         5286   10    0 
+hldmsux   958704335 10 10 c   c     c     f         5276  100    0 
+hldmsux   958704374 10  9 f   -     -     -         5176    0    0 
+hldmsux   958704426 10  8 f   -     -     -         5176    0    0 
+hldmsux   958704467 10  7 rc  r     rc    c         5176  340    0 Ad Ac
+hldmsux   958704535 10  6 f   -     -     Q         4836    0    0 
+hldmsux   959042379  9  5 f   -     -     -         4836    0    0 
+hldmsux   959042444  9  4 f   -     -     -         4836    0    0 
+hldmsux   959042496  7  2 Bf  -     -     -         4836   20    0 
+hldmsux   959042512  6  1 Bf  -     -     -         4816   10    0 
+hldmsux   959042563  6  6 f   -     -     -         4806    0    0 
+hldmsux   959042583  6  5 c   f     -     -         4806   20    0 
+hldmsux   959042609  6  4 f   -     -     -         4786    0    0 
+hldmsux   959042642  7  3 f   -     -     -         4786    0    0 
+hldmsux   959042702  7  2 Bk  k     k     k         4786   20    0 Qd 3d
+hldmsux   959042743  7  1 Bc  kf    -     -         4766   20    0 
+hldmsux   959042780  7  7 rc  f     -     -         4746   60    0 
+hldmsux   959042844  7  6 f   -     -     -         4686    0    0 
+hldmsux   959042880  7  5 KQ  -     -     -         4686    0    0 
+hldmsux   959045529 10  7 f   -     -     -         4686    0    0 
+hldmsux   959045583 10  6 f   -     -     -         4686    0    0 
+hldmsux   959045655 10  5 f   -     -     -         4686    0    0 
+hldmsux   959045703 10  4 f   -     -     -         4686    0    0 
+hldmsux   959045743 10  3 r   br    b     b         4686  180  205 Qs Ts
+hldmsux   959045803 10  2 Bk  b     b     -         4711   80  150 
+hldmsux   959045846 10  1 Bf  -     -     -         4781   10    0 
+hldmsux   959045914 10 10 cc  f     -     -         4771   60    0 
+hldmsux   959045975 10  9 f   -     -     -         4711    0    0 
+hldmsux   959046057 10  8 f   -     -     -         4711    0    0 
+hldmsux   959046095 10  7 f   -     -     -         4711    0    0 
+hldmsux   959046150 10  6 cc  kf    -     -         4711   40    0 
+hldmsux   959046232 10  5 f   -     -     -         4671    0    0 
+hldmsux   959046342  9  4 f   -     -     -         4671    0    0 
+hldmsux   959046384  9  3 f   -     -     -         4671    0    0 
+hldmsux   959046440  9  2 Bk  br    k     kf        4671   80    0 
+hldmsux   959046495  9  1 Bf  -     -     -         4591   10    0 
+hldmsux   959046523  8  8 f   -     -     -         4581    0    0 
+hldmsux   959046582  8  7 f   -     -     -         4581    0    0 
+hldmsux   959046671  8  6 f   -     -     -         4581    0    0 
+hldmsux   959046695  8  5 f   -     -     -         4581    0    0 
+hldmsux   959046723  8  4 cc  rc    k     k         4581  100  320 7h 7d
+hldmsux   959046779  7  3 f   -     -     -         4801    0    0 
+hldmsux   959046808  8  2 Bk  kf    -     -         4801   20    0 
+hldmsux   959046831  8  1 Bf  -     -     -         4781   10    0 
+hldmsux   959046852  8  8 f   -     -     -         4771    0    0 
+hldmsux   959046884  8  7 f   -     -     -         4771    0    0 
+hldmsux   959046905  8  6 r   b     b     b         4771  140    0 Ks Qd
+hldmsux   959046936  8  5 f   -     -     -         4631    0    0 
+hldmsux   959047002  8  4 f   -     -     -         4631    0    0 
+hldmsux   959047053  8  3 c   f     -     -         4631   20    0 
+hldmsux   959047072  8  2 Bf  -     -     -         4611   20    0 
+hldmsux   959047125  8  1 Bc  br    b     b         4591  180  480 Kc 9c
+hldmsux   959047191  8  8 r   r     b     b         4891  160    0 Tc Kc
+hldmsux   959047251  9  8 r   f     -     -         4731   40    0 
+hldmsux   959047298  9  7 f   -     -     -         4691    0    0 
+hldmsux   959047337  9  6 f   -     -     -         4691    0    0 
+hldmsux   959047382  9  5 f   -     -     -         4691    0    0 
+hldmsux   959047406  9  4 r   bc    kf    -         4691  100    0 
+hldmsux   959047481  9  3 f   -     -     -         4591    0    0 
+hldmsux   959047564  9  2 Bc  bc    kf    -         4591  120    0 
+hldmsux   959047656  9  1 Bf  -     -     -         4471   10    0 
+hldmsux   959047699  9  9 f   -     -     -         4461    0    0 
+hldmsux   959047758  9  8 f   -     -     -         4461    0    0 
+hldmsux   959047804  9  7 c   r     b     b         4461  140    0 8c Kc
+hldmsux   959047855  9  6 f   -     -     -         4321    0    0 
+hldmsux   959047903  9  5 f   -     -     -         4321    0    0 
+hldmsux   959047947  9  4 cc  kc    kf    -         4321   80    0 
+hldmsux   959048005  9  3 f   -     -     -         4241    0    0 
+hldmsux   959048047  9  2 Bk  f     -     -         4241   20    0 
+hldmsux   959048087 10  1 Bf  -     -     -         4221   10    0 
+hldmsux   959048129 10 10 f   -     -     -         4211    0    0 
+hldmsux   959048171 10  9 f   -     -     -         4211    0    0 
+hldmsux   959048223 10  8 c   b     b     b         4211  120  380 6c 6h
+hldmsux   959048314 10  7 c   f     -     -         4471   40    0 
+hldmsux   959048360 10  6 f   -     -     -         4431    0    0 
+hldmsux   959048393 10  5 f   -     -     -         4431    0    0 
+hldmsux   959048474 10  4 f   -     -     -         4431    0    0 
+hldmsux   959048506 10  3 r   bc    kr    b         4431  200  570 Js Jd
+hldmsux   959048562 10  2 Bk  kf    -     -         4801   20    0 
+hldmsux   959048611 10  1 Bf  -     -     -         4781   10    0 
+hldmsux   959048662 10 10 f   -     -     -         4771    0    0 
+hldmsux   959048711 10  9 f   -     -     -         4771    0    0 
+hldmsux   959048762 10  8 fQ  -     -     -         4771    0    0 
+hldmsux   959401285  9  8 f   -     -     -         4771    0    0 
+hldmsux   959401335 10  8 f   -     -     -         4771    0    0 
+hldmsux   959401392 10  7 f   -     -     -         4771    0    0 
+hldmsux   959401429 10  6 f   -     -     -         4771    0    0 
+hldmsux   959401542 10  5 f   -     -     -         4771    0    0 
+hldmsux   959401576 10  5 r   b     b     c         4771  140    0 Qd Kc
+hldmsux   959401664  9  3 f   -     -     -         4631    0    0 
+hldmsux   959401694  9  2 Bc  bc    kf    -         4631   80    0 
+hldmsux   959401761  9  1 Bf  -     -     -         4551   10    0 
+hldmsux   959401805  9  9 f   -     -     -         4541    0    0 
+hldmsux   959401870  9  8 f   -     -     -         4541    0    0 
+hldmsux   959401895  8  6 f   -     -     -         4541    0    0 
+hldmsux   959401950  9  6 f   -     -     -         4541    0    0 
+hldmsux   959401982  9  5 f   -     -     -         4541    0    0 
+hldmsux   959402036  8  4 f   -     -     -         4541    0    0 
+hldmsux   959402081  8  3 f   -     -     -         4541    0    0 
+hldmsux   959402115  8  2 Bk  b     b     -         4541   80  160 
+hldmsux   959402143  8  1 Bf  -     -     -         4621   10    0 
+hldmsux   959402184  9  9 r   r     b     f         4611  140    0 
+hldmsux   959402238  9  8 f   -     -     -         4471    0    0 
+hldmsux   959402313  9  7 f   -     -     -         4471    0    0 
+hldmsux   959402394  9  6 f   -     -     -         4471    0    0 
+hldmsux   959402457  9  4 f   -     -     -         4471    0    0 
+hldmsux   959402506  9  3 f   -     -     -         4471    0    0 
+hldmsux   959402576  9  2 Bf  -     -     -         4471   20    0 
+hldmsux   959402617  9  1 Bf  -     -     -         4451   10    0 
+hldmsux   959402651  8  8 f   -     -     -         4441    0    0 
+hldmsux   959402691  8  7 f   -     -     -         4441    0    0 
+hldmsux   959402763  8  6 f   -     -     -         4441    0    0 
+hldmsux   959402807  8  5 f   -     -     -         4441    0    0 
+hldmsux   959402842  8  4 f   -     -     -         4441    0    0 
+hldmsux   959402869  8  3 f   -     -     -         4441    0    0 
+hldmsux   959402916  7  2 Bk  b     bc    kc        4441  160  330 Td 6d
+hldmsux   959402965  6  1 Bf  -     -     -         4611   10    0 
+hldmsux   959402990  5  5 f   -     -     -         4601    0    0 
+hldmsux   959403021  5  5 f   -     -     -         4601    0    0 
+hldmsux   959403045  6  5 f   -     -     -         4601    0    0 
+hldmsux   959403076  6  4 f   -     -     -         4601    0    0 
+hldmsux   959403096  6  3 rr  br    bc    kf        4601  220    0 
+hldmsux   959403194  6  2 Bk  kf    -     -         4381   20    0 
+hldmsux   959403252  6  1 Bf  -     -     -         4361   10    0 
+hldmsux   959403270  6  6 r   rc    c     r         4351  220  470 Jd Jc
+hldmsux   959403300  6  5 c   kc    b     b         4601  120  300 Jc Kh
+hldmsux   959403348  6  4 f   -     -     -         4781    0    0 
+hldmsux   959403379  6  3 f   -     -     -         4781    0    0 
+hldmsux   959403418  8  2 Bk  kf    -     -         4781   20    0 
+hldmsux   959403490  9  1 Br  b     -     -         4761   60  160 
+hldmsux   959403528  9  9 f   -     -     -         4861    0    0 
+hldmsux   959403602 10  8 f   -     -     -         4861    0    0 
+hldmsux   959403654 10  7 f   -     -     -         4861    0    0 
+hldmsux   959403698 10  6 f   -     -     -         4861    0    0 
+hldmsux   959403737 10  5 f   -     -     -         4861    0    0 
+hldmsux   959403775 10  4 c   b     bc    c         4861  160    0 7h Kh
+hldmsux   959403866 10  3 f   -     -     Q         4701    0    0 
+hldmsux   959560099 10  1 Bc  kf    -     -         4701   40    0 
+hldmsux   959560152 10 10 f   -     -     -         4661    0    0 
+hldmsux   959560204 10  9 f   -     -     -         4661    0    0 
+hldmsux   959560227 10  8 f   -     -     -         4661    0    0 
+hldmsux   959560262 10  7 f   -     -     -         4661    0    0 
+hldmsux   959560299 10  6 f   -     -     -         4661    0    0 
+hldmsux   959560361 10  5 f   -     -     -         4661    0    0 
+hldmsux   959560418 10  4 f   -     -     -         4661    0    0 
+hldmsux   959560453 10  3 f   -     -     -         4661    0    0 
+hldmsux   959560486 10  2 Bf  -     -     -         4661   20    0 
+hldmsux   959560545 10  1 Bf  -     -     -         4641   10    0 
+hldmsux   959560588 10 10 f   -     -     -         4631    0    0 
+hldmsux   959560642 10  9 f   -     -     -         4631    0    0 
+hldmsux   959560662 10  8 f   -     -     -         4631    0    0 
+hldmsux   959560698 10  7 f   -     -     -         4631    0    0 
+hldmsux   959560735 10  6 f   -     -     -         4631    0    0 
+hldmsux   959560797 10  5 f   -     -     -         4631    0    0 
+hldmsux   959560840 10  4 f   -     -     -         4631    0    0 
+hldmsux   959560878 10  3 f   -     -     -         4631    0    0 
+hldmsux   959560923 10  2 Bf  -     -     -         4631   20    0 
+hldmsux   959560999 10  1 Bf  -     -     -         4611   10    0 
+hldmsux   959561036 10 10 f   -     -     -         4601    0    0 
+hldmsux   959561087 10  9 f   -     -     -         4601    0    0 
+hldmsux   959561132 10  8 f   -     -     -         4601    0    0 
+hldmsux   959561204 10  7 f   -     -     -         4601    0    0 
+hldmsux   959561263 10  6 f   -     -     -         4601    0    0 
+hldmsux   959561290 10  5 c   kf    -     -         4601   20    0 
+hldmsux   959561343 10  4 cc  cc    k     f         4581  100    0 
+hldmsux   959561402 10  3 f   -     -     -         4481    0    0 
+hldmsux   959561454 10  2 Bf  -     -     -         4481   20    0 
+hldmsux   959561508 10  1 Bf  -     -     -         4461   10    0 
+hldmsux   959561558 10 10 f   -     -     -         4451    0    0 
+hldmsux   959561587 10  9 f   -     -     -         4451    0    0 
+hldmsux   959561645 10  8 f   -     -     -         4451    0    0 
+hldmsux   959561679 10  7 f   -     -     -         4451    0    0 
+hldmsux   959561714 10  6 f   -     -     -         4451    0    0 
+hldmsux   959561769 10  5 f   -     -     -         4451    0    0 
+hldmsux   959561811 10  4 f   -     -     -         4451    0    0 
+hldmsux   959561878 10  3 f   -     -     -         4451    0    0 
+hldmsux   959561921 10  2 Bk  kf    -     -         4451   20    0 
+hldmsux   959561984 10  1 Bc  bc    kf    -         4431   60    0 
+hldmsux   959562043 10 10 f   -     -     -         4371    0    0 
+hldmsux   959562082 10  9 f   -     -     -         4371    0    0 
+hldmsux   959562138 10  8 f   -     -     -         4371    0    0 
+hldmsux   959562216 10  7 f   -     -     -         4371    0    0 
+hldmsux   959562250 10  6 f   -     -     -         4371    0    0 
+hldmsux   959562292 10  5 f   -     -     -         4371    0    0 
+hldmsux   959562340 10  4 f   -     -     -         4371    0    0 
+hldmsux   959562383 10  3 f   -     -     -         4371    0    0 
+hldmsux   959562421 10  2 Bc  bc    k     b         4371  120  330 
+hldmsux   959562473 10  1 Bc  bc    kc    kf        4581  100    0 
+hldmsux   959562529 10 10 f   -     -     -         4481    0    0 
+hldmsux   959562590 10  9 f   -     -     -         4481    0    0 
+hldmsux   959562632 10  8 rcc rc    k     f         4481  140    0 
+hldmsux   959562709 10  7 f   -     -     -         4341    0    0 
+hldmsux   959562724 10  6 f   -     -     -         4341    0    0 
+hldmsux   959562773 10  5 f   -     -     -         4341    0    0 
+hldmsux   959562804 10  4 f   -     -     -         4341    0    0 
+hldmsux   959562856 10  3 cc  kf    -     -         4341   40    0 
+hldmsux   959562889 10  2 Bf  -     -     -         4301   20    0 
+hldmsux   959562933 10  1 Bf  -     -     -         4281   10    0 
+hldmsux   959563037 10 10 f   -     -     -         4271    0    0 
+hldmsux   959563077 10  9 f   -     -     -         4271    0    0 
+hldmsux   959563142 10  8 c   b     rc    c         4271  200    0 8c 7c
+hldmsux   959563192 10  7 f   -     -     -         4071    0    0 
+hldmsux   959563224 10  6 c   br    b     b         4071  160    0 8c Jc
+hldmsux   959563272 10  5 f   -     -     -         3911    0    0 
+hldmsux   959563300 10  4 rc  bf    -     -         3911  100    0 
+hldmsux   959563351 10  3 f   -     -     -         3811    0    0 
+hldmsux   959563414 10  2 Bc  kf    -     -         3811   40    0 
+hldmsux   959563441 10  1 Bf  -     -     -         3771   10    0 
+hldmsux   959563474 10 10 f   -     -     -         3761    0    0 
+hldmsux   959563534  9  8 f   -     -     -         3761    0    0 
+hldmsux   959563546  9  7 f   -     -     -         3761    0    0 
+hldmsux   959563581  9  6 f   -     -     -         3761    0    0 
+hldmsux   959563597  9  5 f   -     -     -         3761    0    0 
+hldmsux   959563638  9  4 f   -     -     -         3761    0    0 
+hldmsux   959563669  9  3 f   -     -     -         3761    0    0 
+hldmsux   959563729  9  2 Bc  c     c     c         3761  140  320 Qc Td
+hldmsux   959563804  9  1 Bf  -     -     -         3941   10    0 
+hldmsux   959563818  9  9 f   -     -     -         3931    0    0 
+hldmsux   959563834  9  8 f   -     -     -         3931    0    0 
+hldmsux   959563877 10  8 r   -     -     -         3931   40   70 
+hldmsux   959563921 10  7 f   -     -     -         3961    0    0 
+hldmsux   959563961 10  6 f   -     -     -         3961    0    0 
+hldmsux   959563982 10  5 f   -     -     -         3961    0    0 
+hldmsux   959564021 10  4 f   -     -     -         3961    0    0 
+hldmsux   959564073 10  3 f   -     -     -         3961    0    0 
+hldmsux   959564134 10  2 Bf  -     -     -         3961   20    0 
+hldmsux   959564176 10  1 Bc  kf    -     -         3941   20    0 
+hldmsux   959564219 10 10 f   -     -     -         3921    0    0 
+hldmsux   959564282 10  9 f   Q     -     -         3921    0    0 
+hldmsux   959734836  7  5 f   -     -     -         3921    0    0 
+hldmsux   959734865  6  3 r   -     -     -         3921   40   70 
+hldmsux   959734879  6  2 Bk  br    b     b         3951  160    0 4h 4d
+hldmsux   959734969  6  1 Bc  bc    b     k         3791  100    0 Ks Td
+hldmsux   959735012  6  6 f   -     -     -         3691    0    0 
+hldmsux   959735036  6  5 c   bc    c     c         3691  140    0 Ad 2d
+hldmsux   959735060  6  4 f   -     -     -         3551    0    0 
+hldmsux   959735106  6  3 f   -     -     -         3551    0    0 
+hldmsux   959735113  6  2 Bk  kc    kf    -         3551   40    0 
+hldmsux   959735172  6  1 Bc  b     -     -         3511   40   60 
+hldmsux   959735200  6  6 f   -     -     -         3531    0    0 
+hldmsux   959735211  6  5 f   -     -     -         3531    0    0 
+hldmsux   959735227  6  4 c   f     -     -         3531   20    0 
+hldmsux   959735253  6  3 f   -     -     -         3511    0    0 
+hldmsux   959735287  6  2 B   -     -     -         3511   20   30 
+hldmsux   959735300  6  1 Bf  -     -     -         3521   10    0 
+hldmsux   959735307  6  6 f   -     -     -         3511    0    0 
+hldmsux   959735335  6  5 f   -     -     -         3511    0    0 
+hldmsux   959735359  7  4 f   -     -     -         3511    0    0 
+hldmsux   959735391  7  3 f   -     -     -         3511    0    0 
+hldmsux   959735423  7  2 Bc  kf    -     -         3511   40    0 
+hldmsux   959735444  7  1 Bc  b     brc   kc        3471  240    0 7h 6d
+hldmsux   959735475  5  5 f   -     -     -         3231    0    0 
+hldmsux   959735492  5  4 f   -     -     -         3231    0    0 
+hldmsux   959735505  5  3 f   -     -     -         3231    0    0 
+hldmsux   959735528  5  2 Bf  -     -     -         3231   20    0 
+hldmsux   959735556  5  1 Bc  b     b     b         3211  120  240 
+hldmsux   959735590  5  5 f   -     -     -         3331    0    0 
+hldmsux   959735602  5  4 f   -     -     -         3331    0    0 
+hldmsux   959735620  5  3 f   -     -     -         3331    0    0 
+hldmsux   959735625  5  2 Bc  b     br    -         3331  180  330 
+hldmsux   959735648  5  1 Bc  kc    kc    k         3481  100  300 Th Qh
+hldmsux   959735679  5  5 f   -     -     -         3681    0    0 
+hldmsux   959735691  6  4 f   -     -     -         3681    0    0 
+hldmsux   959735719  7  4 f   -     -     -         3681    0    0 
+hldmsux   959735756  7  3 f   -     -     -         3681    0    0 
+hldmsux   959735769  7  2 Bf  -     -     -         3681   20    0 
+hldmsux   959735783  7  1 Bf  -     -     -         3661   10    0 
+hldmsux   959735789  7  7 f   -     -     -         3651    0    0 
+hldmsux   959735805  7  6 c   b     -     -         3651   40  100 
+hldmsux   959735851  8  6 f   -     -     -         3711    0    0 
+hldmsux   959735873  8  5 cc  kc    kr    b         3711  180  480 
+hldmsux   959735932  8  5 f   -     -     -         4011    0    0 
+hldmsux   959735949  7  3 f   -     -     -         4011    0    0 
+hldmsux   959735990  7  2 Bk  kf    -     -         4011   20    0 
+hldmsux   959736024  7  1 Bf  -     -     -         3991   10    0 
+hldmsux   959736070  9  8 c   b     k     k         3981   40  120 Kh Jd
+hldmsux   959736112  9  7 r   b     b     k         4061  100  290 Qd As
+hldmsux   959736165  9  6 c   b     b     b         4251  120    0 8d 7d
+hldmsux   959736213  9  5 f   -     -     -         4131    0    0 
+hldmsux   959736248  9  4 r   r     rc    c         4131  240    0 Kc Kh
+hldmsux   959736336  8  2 Bk  k     k     kc        3891   60  160 Jd 6s
+hldmsux   959736401  8  1 Bc  kf    -     -         3991   40    0 
+hldmsux   959736465  8  8 f   -     -     -         3951    0    0 
+hldmsux   959736514  9  8 f   -     -     -         3951    0    0 
+hldmsux   959736554  9  7 f   -     -     -         3951    0    0 
+hldmsux   959736623  9  6 f   -     -     -         3951    0    0 
+hldmsux   959736669  9  5 f   -     -     -         3951    0    0 
+hldmsux   959736737  9  4 f   -     -     -         3951    0    0 
+hldmsux   959736788  9  3 f   -     -     -         3951    0    0 
+hldmsux   959736820  9  2 Bk  kf    -     -         3951   20    0 
+hldmsux   959736850  9  1 Bf  -     -     -         3931   10    0 
+hldmsux   959736903 10 10 f   -     -     -         3921    0    0 
+hldmsux   959736933 10  9 f   -     -     -         3921    0    0 
+hldmsux   959736973 10  8 f   -     -     -         3921    0    0 
+hldmsux   959737028 10  7 f   -     -     -         3921    0    0 
+hldmsux   959737108  9  5 f   -     -     -         3921    0    0 
+hldmsux   959737157  9  4 f   -     -     -         3921    0    0 
+hldmsux   959737226  9  3 f   -     -     -         3921    0    0 
+hldmsux   959737274  9  2 Bk  kf    -     -         3921   20    0 
+hldmsux   959737313  9  1 Bf  -     -     -         3901   10    0 
+hldmsux   959737332  9  9 f   -     -     -         3891    0    0 
+hldmsux   959737393  9  8 r   rc    f     -         3891  100    0 
+hldmsux   959737450  9  7 f   -     -     -         3791    0    0 
+hldmsux   959737510  9  6 r   b     b     b         3791  140  410 Qd Qh
+hldmsux   959737557  9  5 f   -     -     -         4061    0    0 
+hldmsux   959737610 10  6 f   -     -     -         4061    0    0 
+hldmsux   959737661  9  4 c   r     b     b         4061  140  300 
+hldmsux   959737718  9  3 c   bf    -     -         4221   40    0 
+hldmsux   959737791  9  2 Bk  f     -     -         4181   20    0 
+hldmsux   959737822  9  1 Bc  b     b     bf        4161  140    0 
+hldmsux   959737879  9  9 f   -     -     -         4021    0    0 
+hldmsux   959737958  9  8 f   -     -     -         4021    0    0 
+hldmsux   959738043  9  7 f   -     -     -         4021    0    0 
+hldmsux   959738109  9  6 r   b     b     b         4021  140  330 Ad Qc
+hldmsux   959738166  9  4 r   b     b     b         4211  140    0 Th Kh
+hldmsux   959738208 10  4 f   -     -     -         4071    0    0 
+hldmsux   959738304 10  3 f   -     -     -         4071    0    0 
+hldmsux   959738328 10  2 Bc  k     b     bc        4071  160    0 Td Ah
+hldmsux   959738382 10  1 Bf  -     -     -         3911   10    0 
+hldmsux   959738419 10 10 f   -     -     -         3901    0    0 
+hldmsux   959738477 10  9 f   -     -     -         3901    0    0 
+hldmsux   959738516 10  8 c   bc    kf    -         3901   60    0 
+hldmsux   959738593 10  7 r   b     b     rc        3841  220  510 Jc Kd
+hldmsux   959738649 10  6 f   -     -     Q         4131    0    0 

@@ -1,0 +1,237 @@
+desert    959149389  8  8 f   -     -     -          989    0    0 
+desert    959149440  7  7 cc  c     c     f          989   50    0 
+desert    959149490  7  6 c   kf    -     -          939   20    0 
+desert    959149558  8  6 ccc cc    f     -          919   70    0 
+desert    959149708  8  5 f   -     -     -          849    0    0 
+desert    959149752  8  4 cc  c     kc    bc         849   90  215 2c 8c
+desert    959149816  8  3 f   -     -     -          974    0    0 
+desert    959149902  9  2 Br  cf    Q     -          974   40    0 
+desert    959154055  8  8 c   c     b     b          934   70  215 
+desert    959154135  8  7 rc  bc    bc    c         1079  110    0 2s Ac
+desert    959154223  9  6 f   -     -     -          969    0    0 
+desert    959154302  9  5 cc  bc    kc    kf         969   60    0 
+desert    959154438 10  5 fQ  -     -     -          909    0    0 
+desert    959155008  9  3 cc  bc    kc    kc         909   80  355 9s Qh
+desert    959155141  9  2 Bk  k     kf    -         1184   10    0 
+desert    959155211  9  1 Br  kc    k     k         1174   50    0 Qc Ac
+desert    959155329  9  9 f   -     -     -         1124    0    0 
+desert    959155397  9  8 f   -     -     -         1124    0    0 
+desert    959155451 10  8 c   k     k     b         1124   30   60 
+desert    959155599 10  7 c   c     cc    kf        1154   60    0 
+desert    959155690 10  6 c   kf    -     -         1094   10    0 
+desert    959155764 10  5 f   -     -     -         1084    0    0 
+desert    959155897  9  4 f   -     -     -         1084    0    0 
+desert    959155969  9  2 Bk  k     kf    -         1084   10    0 
+desert    959156064  8  1 Bf  -     -     -         1074    5    0 
+desert    959156136  8  8 c   c     f     -         1069   20    0 
+desert    959156193  8  7 f   -     -     -         1049    0    0 
+desert    959156289  8  7 c   f     -     -         1049   10    0 
+desert    959156341  8  6 f   -     -     -         1039    0    0 
+desert    959156386  9  6 r   bc    b     b         1039   90  385 
+desert    959156487 10  5 rcc bc    cf    -         1334   80    0 
+desert    959156592 10  4 cc  k     kc    k         1254   40    0 Jd Ah
+desert    959156701 10  3 fQ  -     -     -         1214    0    0 
+desert    959183659 10  6 f   -     -     -         1214    0    0 
+desert    959183702 10  5 f   -     -     -         1214    0    0 
+desert    959183739 10  4 f   -     -     -         1214    0    0 
+desert    959183785 10  3 c   b     b     -         1214   40  100 
+desert    959183825 10  2 Bk  k     b     b         1274   50  120 
+desert    959183872 10  1 Br  bc    kr    b         1344  100  300 
+desert    959184015 10 10 f   -     -     -         1544    0    0 
+desert    959184028 10  9 f   -     -     -         1544    0    0 
+desert    959184066 10  8 r   b     -     -         1544   30   65 
+desert    959184132 10  7 f   -     -     -         1579    0    0 
+desert    959184197 10  6 c   k     c     f         1579   30    0 
+desert    959184260  9  5 c   b     -     -         1549   20   45 
+desert    959184288  9  4 f   -     -     -         1574    0    0 
+desert    959184322 10  3 f   -     -     -         1574    0    0 
+desert    959184379 10  2 Bk  kc    kc    k         1574   40  150 3s Ad
+desert    959184428 10  1 Br  b     b     b         1684   70  140 
+desert    959184472 10 10 f   -     -     -         1754    0    0 
+desert    959184517 10  9 f   -     -     -         1754    0    0 
+desert    959184552 10  8 c   b     -     -         1754   20   45 
+desert    959184588 10  7 f   -     -     -         1779    0    0 
+desert    959184615 10  6 c   c     f     -         1779   30    0 
+desert    959184657 10  5 f   -     -     -         1749    0    0 
+desert    959184698 10  4 c   k     f     -         1749   10    0 
+desert    959184765 10  3 f   -     -     -         1739    0    0 
+desert    959184808 10  2 Bk  kf    -     -         1739   10    0 
+desert    959184843 10  1 Bc  kc    kc    kf        1729   40    0 
+desert    959184913 10 10 f   -     -     -         1689    0    0 
+desert    959184962 10  9 f   -     -     -         1689    0    0 
+desert    959185007 10  8 f   -     -     -         1689    0    0 
+desert    959185041 10  7 c   k     kf    -         1689   10    0 
+desert    959185091  8  5 f   -     -     -         1679    0    0 
+desert    959185098  8  4 c   b     b     b         1679   60  250 Kd Td
+desert    959185147  8  4 c   b     b     b         1869   60  180 2s 3s
+desert    959185201  7  2 Bk  k     k     k         1989   10   35 Ts 5d
+desert    959185245  8  1 Bc  kc    kc    kc        2014   60    0 7h 7d
+desert    959185302  7  7 c   b     b     -         1954   40   75 
+desert    959185333  7  6 f   -     -     -         1989    0    0 
+desert    959185360  7  5 c   c     f     -         1989   20    0 
+desert    959185405  7  4 c   k     k     f         1969   10    0 
+desert    959185451  7  3 c   b     -     -         1959   20   55 
+desert    959185477  7  2 Bk  kc    kc    k         1994   40    0 2c Ah
+desert    959185521  7  1 Bc  k     kr    b         1954   80  250 Ad Kc
+desert    959185604  7  7 c   b     b     b         2124   60  135 
+desert    959185649  7  6 c   k     k     f         2199   10    0 
+desert    959185699  6  4 c   b     b     b         2189   60  165 4c Kc
+desert    959185740  6  3 f   -     -     -         2294    0    0 
+desert    959185793  6  2 Bk  k     k     k         2294   10    0 Ac 6d
+desert    959185828  6  1 Br  -     -     -         2284   20   30 
+desert    959185840  6  6 c   c     f     -         2294   20    0 
+desert    959185874  6  6 c   b     -     -         2274   20   35 
+desert    959185896  5  4 f   -     -     -         2289    0    0 
+desert    959185919  6  4 c   k     k     k         2289   10    0 Ad 4s
+desert    959185969  6  3 f   -     -     -         2279    0    0 
+desert    959186003  6  2 Br  b     bc    f         2279   70    0 
+desert    959186059  5  1 Bc  kc    k     b         2209   40   90 
+desert    959186109  5  5 f   -     -     -         2259    0    0 
+desert    959186143  5  4 f   -     -     -         2259    0    0 
+desert    959186191  6  4 f   -     -     -         2259    0    0 
+desert    959186236  6  3 f   -     -     -         2259    0    0 
+desert    959186290  7  2 Bk  c     f     -         2259   20    0 
+desert    959186345  7  1 Bc  k     k     kf        2239   10    0 
+desert    959186462  7  7 f   -     -     -         2229    0    0 
+desert    959186487  7  6 f   -     -     -         2229    0    0 
+desert    959186516  7  5 cc  kc    k     kf        2229   30    0 
+desert    959186596  7  4 f   -     -     -         2199    0    0 
+desert    959186634  7  3 c   b     -     -         2199   20   35 
+desert    959186657  7  2 Bk  kc    kc    kc        2214   60    0 9h 3h
+desert    959186735  7  1 Bc  kc    kc    kc        2154   70    0 Ac Qh
+desert    959186782  7  7 c   b     -     -         2084   20   35 
+desert    959186802  7  6 f   -     -     -         2099    0    0 
+desert    959186861  9  5 c   f     -     -         2099   10    0 
+desert    959186935  9  4 f   -     -     -         2089    0    0 
+desert    959187003  9  3 f   -     -     -         2089    0    0 
+desert    959187072  9  2 Bk  kc    kf    -         2089   20    0 
+desert    959187159  9  1 Bc  kf    -     -         2069   10    0 
+desert    959187251  9  9 c   c     c     k         2059   40    0 9s Qd
+desert    959187322  9  8 cc  cc    f     -         2019   80    0 
+desert    959187425  8  6 cc  cc    c     f         1939   85    0 
+desert    959187552  8  5 f   -     -     -         1854    0    0 
+desert    959187586  9  5 f   -     -     -         1854    0    0 
+desert    959187622  9  4 f   -     -     -         1854    0    0 
+desert    959187685  9  3 f   -     -     -         1854    0    0 
+desert    959187738  9  2 Bk  kf    Q     -         1854   10    0 
+desert    959187965  8  7 f   -     -     -         1844    0    0 
+desert    959188003  9  6 c   c     f     -         1844   20    0 
+desert    959188059  8  5 c   k     f     -         1824   10    0 
+desert    959188099  8  4 f   -     -     -         1814    0    0 
+desert    959188121  9  3 c   c     f     -         1814   20    0 
+desert    959188165  8  2 Bk  b     b     b         1794   60  160 4h 8c
+desert    959188218 10  1 Bf  -     -     -         1894    5    0 
+desert    959188247 10 10 f   -     -     -         1889    0    0 
+desert    959188308  7  7 f   -     -     -         1889    0    0 
+desert    959188327  6  6 cc  c     c     f         1889   60    0 
+desert    959188381  6  5 f   -     -     -         1829    0    0 
+desert    959188405  6  4 f   -     -     -         1829    0    0 
+desert    959188434  5  2 Bc  f     -     -         1829   20    0 
+desert    959188493  6  1 Br  -     -     -         1809   20   30 
+desert    959188511  6  6 f   -     -     -         1819    0    0 
+desert    959188539  6  5 c   k     k     k         1819   10   20 Ac 5s
+desert    959188576  8  5 f   -     -     -         1829    0    0 
+desert    959188662  7  3 cc  c     cf    -         1829   50    0 
+desert    959188723  8  4 c   c     f     -         1779   20    0 
+desert    959188775  8  3 f   -     -     -         1759    0    0 
+desert    959188813  9  2 Bf  -     -     -         1759   10    0 
+desert    959188886  9  1 Bc  k     b     b         1749   60  160 3c Tc
+desert    959188937 10 10 cc  k     f     -         1849   20    0 
+desert    959189035 10  9 f   -     -     -         1829    0    0 
+desert    959189076 10  9 c   b     b     c         1829   70  250 Kh Td
+desert    959189141 10  7 c   f     -     -         2009   10    0 
+desert    959189211 10  6 f   -     -     -         1999    0    0 
+desert    959189256 10  5 f   -     -     -         1999    0    0 
+desert    959189328 10  4 c   f     -     -         1999   10    0 
+desert    959189384 10  3 cc  kc    kf    -         1989   30    0 
+desert    959189449 10  2 Bf  -     -     -         1959   10    0 
+desert    959189491 10  1 Bc  k     kf    -         1949   10    0 
+desert    959189553 10 10 f   -     -     -         1939    0    0 
+desert    959189614 10  9 f   -     -     -         1939    0    0 
+desert    959189678 10  8 f   -     -     -         1939    0    0 
+desert    959189711 10  7 c   c     f     -         1939   30    0 
+desert    959189758 10  6 c   kc    kc    k         1909   40    0 Ac 3h
+desert    959189877 10  5 c   b     b     b         1869   60    0 Th Kd
+desert    959189941 10  4 f   Q     -     -         1809    0    0 
+desert    959190468 10  9 c   c     f     -         1809   20    0 
+desert    959190593 10  8 c   c     f     -         1789   20    0 
+desert    959190657 10  7 c   c     c     f         1769   50    0 
+desert    959190736 10  6 fQ  -     -     -         1719    0    0 
+desert    959269483  8  5 cc  k     c     b         1659   60  220 3d 5d
+desert    959269538  8  4 f   -     -     -         1819    0    0 
+desert    959269562  8  3 c   c     c     c         1819   60    0 As Tc
+desert    959269596  8  2 Bk  kf    -     -         1759   10    0 
+desert    959269648  8  1 Bf  -     -     -         1749    5    0 
+desert    959269686  8  8 c   cc    c     k         1744   50    0 5s 8s
+desert    959269766  9  8 c   kc    kf    -         1694   20    0 
+desert    959269831  9  7 f   -     -     -         1674    0    0 
+desert    959269875 10  7 f   -     -     -         1674    0    0 
+desert    959269927 10  6 f   -     -     -         1674    0    0 
+desert    959269991 10  5 c   c     c     f         1674   60    0 
+desert    959270070 10  4 f   -     -     -         1614    0    0 
+desert    959270130  9  2 Bc  kc    k     krr       1614  120  470 7d Kd
+desert    959270275 10  1 Br  k     b     -         1964   40   70 
+desert    959270316 10 10 f   -     -     -         1994    0    0 
+desert    959270385 10  9 c   kf    -     -         1994   10    0 
+desert    959270453 10  8 f   -     -     -         1984    0    0 
+desert    959270496 10  7 c   b     b     -         1984   40  110 
+desert    959270548 10  6 f   -     -     -         2054    0    0 
+desert    959270594 10  5 f   -     -     -         2054    0    0 
+desert    959270666 10  6 c   kc    kr    bc        2054  100    0 Ac Qh
+desert    959270767 10  3 c   k     c     f         1954   30    0 
+desert    959270837 10  2 Bk  k     kf    -         1924   10    0 
+desert    959270914 10  1 Bc  kf    -     -         1914   10    0 
+desert    959271011 10 10 rc  f     -     -         1904   30    0 
+desert    959271111 10  9 c   f     -     -         1874   20    0 
+desert    959271153 10  8 c   kcc   f     -         1854   50    0 
+desert    959271274 10  7 f   -     -     -         1804    0    0 
+desert    959271313 10  6 c   r     b     r         1804   90  245 Qs Kd
+desert    959271428 10  5 f   -     -     -         1959    0    0 
+desert    959271493 10  4 f   -     -     -         1959    0    0 
+desert    959271506 10  3 c   b     -     -         1959   20   45 
+desert    959271555 10  2 Bk  kc    kc    kc        1984   60  135 Kh Js
+desert    959271631 10  1 Bf  -     -     -         2059    5    0 
+desert    959271705  8  8 f   Q     -     -         2054    0    0 
+desert    959321540  8  5 c   f     -     -         2513   20    0 
+desert    959321593  8  4 f   -     -     -         2493    0    0 
+desert    959321625  8  3 c   b     k     b         2493   40  115 
+desert    959321670  8  2 Bk  kc    kf    -         2568   20    0 
+desert    959321725  8  1 Bc  kc    kf    -         2548   20    0 
+desert    959321772  8  8 f   -     -     -         2528    0    0 
+desert    959321800  8  7 f   -     -     -         2528    0    0 
+desert    959321847  7  5 f   -     -     -         2528    0    0 
+desert    959321875  7  4 c   bc    k     c         2528   50  160 Ac Qs
+desert    959321920  7  3 c   c     f     -         2638   20    0 
+desert    959321971  7  2 Br  b     b     b         2618   70  125 
+desert    959322006  7  1 Brc b     b     b         2673   80  140 
+desert    959322040  8  8 cc  k     c     c         2733   60    0 3s Ac
+desert    959322097 10  7 c   k     k     f         2673   10    0 
+desert    959322147 10  7 f   -     -     -         2663    0    0 
+desert    959322209 10  5 f   -     -     -         2663    0    0 
+desert    959322287 10  4 f   -     -     -         2663    0    0 
+desert    959322323 10  3 f   -     -     -         2663    0    0 
+desert    959322377 10  2 Bk  cf    -     -         2663   20    0 
+desert    959322450  9  1 Bc  kf    -     -         2643   10    0 
+desert    959322508  9  9 f   -     -     -         2633    0    0 
+desert    959322532 10  9 f   -     -     -         2633    0    0 
+desert    959322616 10  8 cc  c     cf    -         2633   50    0 
+desert    959322811  9  3 Q   -     -     -         2583    0    0 
+desert    959677707 10  8 f   -     -     -         5288    0    0 
+desert    959677745 10  7 f   -     -     -         5288    0    0 
+desert    959677819 10  6 c   cc    kc    kc        5288   80  265 6h 5d
+desert    959677972  9  6 rc  f     -     -         5473   30    0 
+desert    959678051  9  4 f   -     -     -         5443    0    0 
+desert    959678119  9  3 f   -     -     -         5443    0    0 
+desert    959678196  9  2 Bc  kf    -     -         5443   20    0 
+desert    959678258 10  1 Bc  kf    -     -         5423   20    0 
+desert    959678339 10 10 f   -     -     -         5403    0    0 
+desert    959678423 10  9 f   -     -     -         5403    0    0 
+desert    959678441 10  8 f   -     -     -         5403    0    0 
+desert    959678515 10  7 fQ  -     -     -         5403    0    0 
+desert    959761073 10  2 Bk  kf    -     -         5403   10    0 
+desert    959761188 10  1 Bc  k     kf    -         5393   10    0 
+desert    959761233  9  9 f   -     -     -         5383    0    0 
+desert    959761308  9  8 f   -     -     -         5383    0    0 
+desert    959761366  8  7 c   c     c     f         5383   50    0 
+desert    959761427  6  5 f   -     -     -         5333    0    0 
+desert    959761448  6  4 f   -     Q     -         5333    0    0 

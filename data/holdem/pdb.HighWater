@@ -1,0 +1,308 @@
+HighWater 958893091 10  6 r   kf    -     -         1000   20    0 
+HighWater 958893165  9  4 c   c     f     -          980   30    0 
+HighWater 958893216  9  4 f   -     -     -          950    0    0 
+HighWater 958893278  9  3 c   kf    -     -          950   10    0 
+HighWater 958893331  9  2 Bk  kf    -     -          940   10    0 
+HighWater 958893391  8  1 Bc  bc    kc    kf         930   50    0 
+HighWater 958893439  8  8 r   Q     -     -          880   20    0 
+HighWater 958963254  7  2 Bk  r     -     -          860   30   70 
+HighWater 958963279  8  1 Bf  -     -     -          900    5    0 
+HighWater 958963322  7  7 c   f     -     -          875   20    0 
+HighWater 958963336  7  6 c   k     c     f          855   30    0 
+HighWater 958963363  7  5 f   -     -     -          825    0    0 
+HighWater 958963413  7  4 c   k     k     f          825   10    0 
+HighWater 958963450  7  3 cc  kf    -     -          805   20    0 
+HighWater 958963469  7  2 Br  bc    c     c          785   80    0 Td 8c
+HighWater 958963507  7  1 Bf  -     -     -          635    5    0 
+HighWater 958963523  7  7 c   f     -     -          630   10    0 
+HighWater 958963572  6  5 c   k     c     f          610   30    0 
+HighWater 958963593  6  4 f   -     -     -          530    0    0 
+HighWater 958963630  6  3 f   -     -     -          530    0    0 
+HighWater 958963659  6  2 Bk  kf    -     -          530   10    0 
+HighWater 958963678  6  1 Bc  kc    k     k          520   20    0 4s 8s
+HighWater 958963725  6  6 f   -     -     -          430    0    0 
+HighWater 958963762  7  6 rr  b     -     -          600   50  175 
+HighWater 958963795  8  6 c   f     -     -          725   10    0 
+HighWater 958963861  8  5 c   f     -     -          695   10    0 
+HighWater 958963904  8  4 f   -     -     -          685    0    0 
+HighWater 958963941  8  3 cc  f     -     -          685   20    0 
+HighWater 958963978  8  2 Bc  kc    kf    -          705   30    0 
+HighWater 958964015  8  1 Br  k     k     b          675   40  110 Ac Kc
+HighWater 958964048  8  8 c   k     f     -          745   10    0 
+HighWater 958964097  8  7 cc  c     f     -          735   50    0 
+HighWater 958964177  8  6 cc  b     br    b          935  120    0 Kd 9s
+HighWater 958964220  8  5 r   b     -     -          875   30   55 
+HighWater 958964242  8  4 cc  kf    -     -          830   30    0 
+HighWater 958964291  8  3 r   b     b     -          760   50  105 
+HighWater 958964321  8  2 Bf  -     -     -          775   10    0 
+HighWater 958964344  8  1 Bc  kc    kf    -          765   40    0 
+HighWater 958964412  8  8 c   c     c     f          835   50    0 
+HighWater 958964474  9  8 c   k     k     k          865   10    0 Ac 3h
+HighWater 958964518 10  8 c   kf    -     -          860   10    0 
+HighWater 958964553 10  7 cc  c     c     f          780   50    0 
+HighWater 958964612 10  6 r   kc    cc    f          775   70    0 
+HighWater 958964678 10  3 Q   -     -     -          695    0    0 
+HighWater 959042315 10  7 c   k     k     rr         840   90  230 Jh 5h
+HighWater 959042423 10  7 f   -     -     -          980    0    0 
+HighWater 959042488 10  5 c   b     b     b          950   60  130 
+HighWater 959042519 10  4 c   b     kc    kc         880   60    0 Kc 7c
+HighWater 959042589 10  3 c   b     k     k          820   20   70 5c 6c
+HighWater 959042641 10  2 Bk  f     -     -          940   10    0 
+HighWater 959042705 10  1 Br  b     b     bc         900   90    0 As Qh
+HighWater 959042781 10 10 r   f     -     -          780   20    0 
+HighWater 959042923 10  9 f   -     -     -         1370    0    0 
+HighWater 959043002 10  8 f   -     -     -         1370    0    0 
+HighWater 959043036 10  7 f   -     -     -         1370    0    0 
+HighWater 959043095 10  6 c   r     -     -         1170   40  145 
+HighWater 959043121 10  5 rc  rr    b     rc        1275  160    0 Tc Ad
+HighWater 959043211 10  4 f   -     -     -         1101    0    0 
+HighWater 959043305 10  3 cc  c     f     -         1101   40    0 
+HighWater 959043375 10  2 Br  bc    brc   b          841  160  820 Tc 8d
+HighWater 959043497 10  1 Bf  -     -     -         1191    5    0 
+HighWater 959043548 10 10 c   rr    c     c         1126  100    0 3d 6h
+HighWater 959043589 10  9 r   r     k     c         1026   60    0 As Kc
+HighWater 959043651 10  8 cc  cc    bc    Q          936   80    0 
+HighWater 959379626  7  6 c   f     -     -          646   10    0 
+HighWater 959379659  7  5 c   f     -     -          636   10    0 
+HighWater 959379695  8  4 cc  kf    -     -          626   20    0 
+HighWater 959379745  8  3 f   -     -     -          606    0    0 
+HighWater 959379781  8  2 Bk  kc    k     kf         606   20    0 
+HighWater 959379845  8  1 Bf  -     -     -          586    5    0 
+HighWater 959379894  7  7 r   r     r     k          581   80    0 Qd Qh
+HighWater 959379987  8  6 f   -     -     -          501    0    0 
+HighWater 959380036  7  4 cc  bc    kc    r          501  120    0 5c Kh
+HighWater 959380097  7  3 f   -     -     -          381    0    0 
+HighWater 959380177  8  2 Brc cc    kc    kf         381   70    0 
+HighWater 959380245  9  1 Brr brc   brc   brc        311  240    0 Ts Tc
+HighWater 959380339  9  9 rc  rrA   -     -           71   71    0 6d 5d
+HighWater 959380474 10  8 cc  c     c     b         1000  120  600 8c Qh
+HighWater 959380571 10  7 f   -     -     -         1480    0    0 
+HighWater 959380665 10  6 f   -     -     -         1480    0    0 
+HighWater 959380758 10  5 cc  kc    kc    kc        1480   80    0 6s 8h
+HighWater 959380888 10  5 f   -     -     -         1400    0    0 
+HighWater 959380952 10  3 f   -     -     -         1400    0    0 
+HighWater 959381006 10  2 Bk  kf    -     -         1400   10    0 
+HighWater 959381081 10  1 Bf  -     -     -         1390    5    0 
+HighWater 959381118  9  9 c   c     c     f         1385   40    0 
+HighWater 959381188  9  8 c   f     -     -         1345   20    0 
+HighWater 959381237  9  7 f   -     -     -         1325    0    0 
+HighWater 959381346  9  6 r   r     b     b         1325   80  240 Td 9s
+HighWater 959381406  9  5 f   -     -     -         1485    0    0 
+HighWater 959381495  9  4 c   Q     -     -         1485   10    0 
+HighWater 959391102  3  3 r   -     -     -         1475   20   35 
+HighWater 959391117  4  2 Bk  k     r     k         1490   50    0 4h 6d
+HighWater 959391140  4  1 Bc  b     -     -         1440   20   30 
+HighWater 959391154  3  3 f   -     -     -         1450    0    0 
+HighWater 959391164  3  2 Bf  -     -     -         1420   10    0 
+HighWater 959391171  3  1 Bc  k     b     -         1410   30   50 
+HighWater 959391186  3  3 c   k     r     k         1430   50  110 Jd 8c
+HighWater 959391202  3  2 Bf  -     -     -         1485   10    0 
+HighWater 959391211  3  1 Brc b     br    b         1475  130  300 5c 5s
+HighWater 959391237  3  3 c   k     f     -         1645   10    0 
+HighWater 959391256  4  3 cc  kf    -     -         1595   20    0 
+HighWater 959391278  4  2 Br  b     k     k         1575   30    0 3d Ad
+HighWater 959391311  4  1 Bc  kf    -     -         1610   10    0 
+HighWater 959391338  4  4 f   -     -     -         1570    0    0 
+HighWater 959391365  4  3 c   k     k     b         1520   30   65 2h 7h
+HighWater 959391407  4  2 Br  b     b     b         1555   70  125 
+HighWater 959391433  4  1 Bc  k     k     k         1590   10    0 Jd Td
+HighWater 959391454  4  4 c   f     -     -         1580   10    0 
+HighWater 959391482  4  3 Q   -     -     -         1570    0    0 
+HighWater 959656979  4  4 c   k     c     k         1807   40    0 5d 8s
+HighWater 959656997  4  3 c   c     f     -         1767   20    0 
+HighWater 959657036  5  2 Bk  k     k     k         1747   10   20 7h Qd
+HighWater 959657056  5  1 Bc  kf    -     -         1757   20    0 
+HighWater 959657109  6  6 c   r     -     -         1737   30   70 
+HighWater 959657145  6  5 cc  c     kf    -         1777   40    0 
+HighWater 959657194  6  4 r   b     b     b         1737   70    0 Js Kh
+HighWater 959657227  8  4 f   -     -     -         1667    0    0 
+HighWater 959657257  7  3 f   -     -     -         1667    0    0 
+HighWater 959657324  9  3 f   -     -     -         1667    0    0 
+HighWater 959657383 10  3 cr  kc    k     kf        1667   70    0 
+HighWater 959657438 10  2 Br  br    b     b         1597  110  315 5s Ac
+HighWater 959657471 10  1 Bc  kc    bc    b         1802  130  190 8d As
+HighWater 959657543 10 10 f   -     -     -         1862    0    0 
+HighWater 959657606 10  9 c   c     kf    -         1862   20    0 
+HighWater 959657664 10  8 cc  ccc   c     k         1842  120    0 Kh 6h
+HighWater 959657726 10  7 r   b     -     -         1722   30   75 
+HighWater 959657778 10  6 c   b     k     c         1767   40    0 4d 9d
+HighWater 959657816 10  5 r   rc    c     f         1727   70    0 
+HighWater 959657863 10  4 f   -     -     -         1657    0    0 
+HighWater 959657960 10  3 f   -     -     -         1657    0    0 
+HighWater 959658031 10  2 BQ  -     -     -         1657   10    0 
+HighWater 959659517 10  1 Bc  kc    bc    b         1647  120  420 7h Kc
+HighWater 959659595 10 10 c   c     f     -         1947   40    0 
+HighWater 959659668 10  9 c   b     b     b         1907   60  200 4s 9s
+HighWater 959659765 10  8 c   rc    c     c         2047   80    0 Ad Kc
+HighWater 959659856 10  7 r   bc    kc    kf        1967   60    0 
+HighWater 959659916 10  6 f   -     -     -         1907    0    0 
+HighWater 959659988 10  5 f   -     -     -         1907    0    0 
+HighWater 959660086 10  4 r   b     b     b         1907   80    0 4s 2d
+HighWater 959660147 10  3 f   -     -     -         1827    0    0 
+HighWater 959660197 10  2 Bk  kc    k     kc        1827   50    0 4h 4c
+HighWater 959660312 10  1 Bc  kf    -     -         1777   10    0 
+HighWater 959660384 10 10 c   c     c     f         1767   60    0 
+HighWater 959660462 10  9 f   -     -     -         1707    0    0 
+HighWater 959660515 10  8 c   rc    k     c         1707   60  200 Kc 3c
+HighWater 959660607 10  7 c   f     -     -         1847   10    0 
+HighWater 959660687 10  6 c   cc    br    b         1837  110  360 5c 7c
+HighWater 959660816 10  5 f   -     -     -         2087    0    0 
+HighWater 959660876 10  4 f   -     -     -         2087    0    0 
+HighWater 959660924 10  3 c   k     b     br        2087   90    0 Qh 8c
+HighWater 959660973 10  2 Bc  kcc   kf    -         1997   70    0 
+HighWater 959661069 10  1 Bf  -     -     -         1927    5    0 
+HighWater 959661101 10 10 f   -     -     -         1922    0    0 
+HighWater 959661195 10  9 cc  cc    c     f         1922  120    0 
+HighWater 959661304 10  8 c   k     r     b         1802   70    0 8h As
+HighWater 959661389 10  7 r   rc    k     k         1732   50    0 3h 5s
+HighWater 959661471 10  6 r   c     c     c         1682   70    0 As Qs
+HighWater 959661542 10  5 f   -     -     -         1612    0    0 
+HighWater 959661622 10  4 f   -     -     -         1612    0    0 
+HighWater 959661661 10  3 f   -     -     -         1612    0    0 
+HighWater 959661683 10  2 Bc  kc    b     b         1612   70    0 Qs 7h
+HighWater 959661738 10  1 Br  kc    kc    kc        1542  100    0 6d 6c
+HighWater 959661842 10 10 r   f     -     -         1442   20    0 
+HighWater 959661871 10  9 c   rc    rr    b         1422  160  700 6c 9s
+HighWater 959661987 10  8 f   -     -     -         1962    0    0 
+HighWater 959662083 10  7 c   k     k     c         1962   30    0 Jh 2h
+HighWater 959662148 10  6 r   c     f     -         1932   30    0 
+HighWater 959662220 10  5 c   c     c     Q         1902   50    0 
+HighWater 959729798  8  3 f   -     -     -         1377    0    0 
+HighWater 959729848  8  2 Bk  k     f     -         1377   10    0 
+HighWater 959729879  8  1 Bc  kc    kf    -         1367   20    0 
+HighWater 959729993  8  8 r   b     b     f         1462   50    0 
+HighWater 959730027  8  7 f   -     -     -         1402    0    0 
+HighWater 959730069  8  6 f   -     -     -         1387    0    0 
+HighWater 959730119  8  5 rr  rc    c     f         1297  100    0 
+HighWater 959730194  8  5 c   k     k     b         1147   30   70 
+HighWater 959730239  7  3 f   -     -     -         1192    0    0 
+HighWater 959730298  8  2 Bk  k     c     k         1317   30    0 3h 2d
+HighWater 959730346  6  1 Bf  -     -     -         1457    5    0 
+HighWater 959730386  5  5 r   r     b     b         1567   80  200 Js As
+HighWater 959730434  6  4 c   r     b     k         1862   60  165 Tc 7c
+HighWater 959730469  6  3 r   c     f     -         1857   30    0 
+HighWater 959730499  7  2 Bc  kc    kc    kf        1807   80    0 
+HighWater 959730560  7  1 Bf  -     -     -         1687    5    0 
+HighWater 959730583  7  7 c   f     -     -         1682   10    0 
+HighWater 959730644  7  6 c   k     f     -         1602   10    0 
+HighWater 959730674  7  5 f   -     -     -         1592    0    0 
+HighWater 959730702  7  4 r   c     c     f         1502   50    0 
+HighWater 959730724  7  3 c   c     c     k         1422   40    0 Ac 2d
+HighWater 959730765  8  2 Br  k     c     k         1152   40    0 Ts Ad
+HighWater 959730839  9  1 Br  b     b     kf        1032   50    0 
+HighWater 959730941  9  9 c   k     c     k         1077   30    0 5c Kc
+HighWater 959731020 10  9 f   -     -     -         1037    0    0 
+HighWater 959731093 10  8 c   k     f     -         1057   10    0 
+HighWater 959731193  9  7 f   -     -     -         1017    0    0 
+HighWater 959731235  9  6 f   -     -     -         1017    0    0 
+HighWater 959731299  7  5 r   b     b     -          847   50  135 
+HighWater 959731331  6  3 c   k     c     f         1087   30    0 
+HighWater 959731356  7  3 r   r     k     k         1227   40    0 Ts Jd
+HighWater 959731397  7  2 Bf  -     -     -         1187   10    0 
+HighWater 959731432  7  1 Br  kc    k     kf        1177   30    0 
+HighWater 959731472  7  7 f   -     -     -         1147    0    0 
+HighWater 959731534  7  6 r   brc   b     b         1137  100  315 As Ad
+HighWater 959731631  7  5 r   f     -     -         1622   20    0 
+HighWater 959731708  7  4 f   -     -     -         1592    0    0 
+HighWater 959731764  7  3 cc  kf    -     -         1542   20    0 
+HighWater 959731856  7  2 Bk  kc    kc    bc        1617   80    0 4d Td
+HighWater 959731910  7  1 Br  kf    -     -         1507   20    0 
+HighWater 959731965  8  8 f   -     -     -         1467    0    0 
+HighWater 959732022  8  7 c   k     k     k         1557   10    0 Ad 8s
+HighWater 959732046  7  5 f   -     -     -         1537    0    0 
+HighWater 959732080  7  4 f   -     -     -         1537    0    0 
+HighWater 959732110  7  3 cc  kc    kf    -         1537   40    0 
+HighWater 959732181  9  3 c   kc    kf    -         1512   20    0 
+HighWater 959732262  9  2 Br  bc    kc    kf        1492   70    0 
+HighWater 959732338  8  1 Bc  kc    k     k         1422   20    0 Jc Td
+HighWater 959732414  8  8 cc  f     -     -         1402   30    0 
+HighWater 959732482  8  7 rr  r     rc    k         1372  140    0 As Qd
+HighWater 959732550  8  6 f   -     -     -         1232    0    0 
+HighWater 959732602  7  4 f   -     -     -         1232    0    0 
+HighWater 959732685  9  4 f   -     -     -         1232    0    0 
+HighWater 959732746  9  3 cc  k     f     -         1232   20    0 
+HighWater 959732844  8  2 Br  br    b     b         1212  110  415 Jd Jh
+HighWater 959732994  8  1 Bc  k     k     kf        1517   10    0 
+HighWater 959733054  8  8 f   -     -     -         1507    0    0 
+HighWater 959733103  9  8 c   f     -     -         1507   20    0 
+HighWater 959733138  8  6 c   rc    r     k         1487   90    0 8d Tc
+HighWater 959733190  8  5 c   c     f     -         1397   30    0 
+HighWater 959733245  8  4 f   -     -     -         1367    0    0 
+HighWater 959733312  8  3 cc  f     -     -         1367   20    0 
+HighWater 959733365  8  2 Brc bc    kc    kc        1347  100    0 Jd Jh
+HighWater 959733427  7  1 Bf  -     -     -         1247    5    0 
+HighWater 959733486  6  6 f   -     -     -         1242    0    0 
+HighWater 959733507  6  5 c   kc    k     f         1242   20    0 
+HighWater 959733555  7  4 cc  c     f     -         1222   40    0 
+HighWater 959733641  7  3 c   k     bc    Q         1182   50    0 
+HighWater 959806269  8  7 cc  b     r     b         1132  100  275 8c 7h
+HighWater 959806382  8  5 c   b     c     f         1307   40    0 
+HighWater 959806414 10  5 c   k     c     rc        1267  110  215 3c Jc
+HighWater 959806466 10  4 r   bc    k     kf        1372   40    0 
+HighWater 959806513 10  3 f   -     -     -         1332    0    0 
+HighWater 959806558 10  2 Bc  Q     -     -         1332   20    0 
+HighWater 959808011  9  4 ccc ccc   ccc   k         1312  160    0 8h Qd
+HighWater 959808078  9  3 f   -     -     -         1152    0    0 
+HighWater 959808133  9  2 Bk  k     k     k         1152   10    0 5s Qc
+HighWater 959808179  8  1 Bc  k     kf    -         1142   10    0 
+HighWater 959808236  8  8 f   -     -     -         1132    0    0 
+HighWater 959808247  8  7 c   c     c     f         1132   70    0 
+HighWater 959808293  8  6 cc  f     -     -         1062   20    0 
+HighWater 959808337  7  4 r   r     b     rc        1042  120  315 Tc Kc
+HighWater 959808383  8  4 f   -     -     -         1237    0    0 
+HighWater 959808426  8  3 rc  c     c     c         1237  100    0 7d Jd
+HighWater 959808473  7  2 Bf  -     -     -         1137   10    0 
+HighWater 959808516  7  1 Bc  k     kf    -         1127   20    0 
+HighWater 959808574  7  7 c   c     f     -         1107   30    0 
+HighWater 959808607  7  6 f   -     -     -         1077    0    0 
+HighWater 959808644  7  5 r   k     f     -         1077   20    0 
+HighWater 959808700  7  4 f   -     -     -         1057    0    0 
+HighWater 959808758  7  3 c   k     kf    -         1057   10    0 
+HighWater 959808843  7  2 Br  brc   rr    rr        1047  230  530 6c Ac
+HighWater 959808896  7  1 Bc  kc    kc    kf        1347   50    0 
+HighWater 959808978  7  7 c   r     c     c         1297   70    0 7d 4h
+HighWater 959809021  6  5 c   c     c     c         1227   70    0 9s 2s
+HighWater 959809049  6  4 ccc c     c     f         1157   80    0 
+HighWater 959809122  6  3 r   k     f     -         1077   20    0 
+HighWater 959809151  6  2 Bk  b     b     k         1057   40    0 4h 8s
+HighWater 959809175  7  1 Bc  b     brc   bc        1017  140    0 9c Qd
+HighWater 959809221  7  7 r   r     b     k          877   60  155 Kh Kc
+HighWater 959809257  7  6 r   r     b     b          972   80    0 Ts Ad
+HighWater 959809296  9  3 Q   -     -     -          892    0    0 
+HighWater 959818833  8  3 rc  kcc   kf    -          892   90    0 
+HighWater 959818904  6  1 Br  brc   b     b          752  110  220 Qs 7h
+HighWater 959818929  6  1 Bf  -     -     -          862    5    0 
+HighWater 959818950  6  6 c   rc    rr    c          857  150  355 4h 8h
+HighWater 959818987  7  5 f   -     -     -         1012    0    0 
+HighWater 959819032  7  4 ccc f     -     -         1012   40    0 
+HighWater 959819059  6  3 rc  cc    kf    -          972   60    0 
+HighWater 959819090  6  2 Bc  kf    -     -         1232   20    0 
+HighWater 959819107  6  1 Bcc kcc   kcc   kf        1212  160    0 
+HighWater 959819166  6  6 f   -     -     -         1022    0    0 
+HighWater 959819197  5  4 f   -     -     -         1022    0    0 
+HighWater 959819226  5  4 rc  cc    f     -         1022   70    0 
+HighWater 959819281  5  3 f   -     -     -         1437    0    0 
+HighWater 959819330  5  2 Bc  kf    -     -         1437   20    0 
+HighWater 959819353  5  1 Bcc kcc   kcc   kf        1417  160    0 
+HighWater 959819401  5  5 f   -     -     -         1237    0    0 
+HighWater 959819463  6  4 cc  rc    r     b         1217  120  275 
+HighWater 959819521  5  3 cc  rr    rr    c         1372  160    0 9h 9c
+HighWater 959819567  5  2 Br  k     k     k         1172   20   45 7c 4c
+HighWater 959819606  5  1 Bc  kf    -     -         1187   10    0 
+HighWater 959819654  5  5 f   -     -     -         1167    0    0 
+HighWater 959819692  5  4 c   b     brc   kc        1157  120    0 3d 4s
+HighWater 959819732  6  3 r   k     rc    c         1037  100  260 8h 7d
+HighWater 959819778  5  2 Br  b     b     r         1177   90  250 7h 8h
+HighWater 959819819  5  1 Brc kcc   brc   kf        1337  160    0 
+HighWater 959819872  5  5 r   rr    b     b         1127  100  210 
+HighWater 959819919  5  4 r   b     rf    -         1057   70    0 
+HighWater 959819945  5  3 r   r     b     k         1022   60  170 8d Tc
+HighWater 959819976  6  2 Bk  k     k     f         1132   10    0 
+HighWater 959820023  8  1 Bf  -     -     -         1122    5    0 
+HighWater 959820100  7  7 rc  f     -     -         1117   30    0 
+HighWater 959820163  7  6 f   -     -     -         1057    0    0 
+HighWater 959820237  6  5 c   c     f     -         1382   30    0 
+HighWater 959820289  6  4 cc  c     k     f         1282   60    0 
+HighWater 959820387  7  3 r   b     b     k         1132   50    0 Tc Ks
+HighWater 959820439  7  2 Br  rc    f     -         1082   60    0 
+HighWater 959820474  7  1 Bc  kc    kc    kQ         952   60    0 

@@ -1,0 +1,240 @@
+TrySome   957840480 10  6 f   -     -     -         1590    0    0 
+TrySome   957840522 10  5 c   cc    k     k         1590   40    0 Ts 6s
+TrySome   957840578 10  4 c   c     kf    -         1550   20    0 
+TrySome   957840657 10  3 c   c     kf    -         1530   20    0 
+TrySome   957840710  9  2 Bk  k     kf    -         1510   10    0 
+TrySome   957840740  9  1 Bf  -     -     -         1500    5    0 
+TrySome   957840784  9  9 f   -     -     -         1495    0    0 
+TrySome   957840806  9  8 c   c     f     -         1495   20    0 
+TrySome   957840873  9  7 cc  k     k     b         1475   40   85 
+TrySome   957840931  9  6 f   -     -     -         1520    0    0 
+TrySome   957840977  9  5 f   -     -     -         1520    0    0 
+TrySome   957841024  9  4 c   kf    -     -         1520   10    0 
+TrySome   957841100  8  3 r   kcc   kf    -         1510   50    0 
+TrySome   957841174  9  2 B   -     -     -         1460   10   15 
+TrySome   957841194  9  1 Bc  k     kf    -         1465   10    0 
+TrySome   957841261  8  8 f   -     -     -         1455    0    0 
+TrySome   957841287  7  6 cc  bc    b     b         1455   80  200 
+TrySome   957841369  8  6 f   -     -     -         1575    0    0 
+TrySome   957841387  8  5 c   b     -     -         1575   20   35 
+TrySome   957841404  8  4 f   -     -     -         1590    0    0 
+TrySome   957841421  7  2 c   k     k     k         1590   10   15 Ah 2s
+TrySome   957841453  7  2 Bk  kf    -     -         1595   10    0 
+TrySome   957841486  8  1 Bf  -     -     -         1585    5    0 
+TrySome   957841495  8  8 c   f     -     -         1580   10    0 
+TrySome   957841523  8  7 cc  c     c     c         1570   80  220 Qh 9c
+TrySome   957841563  8  6 f   -     -     -         1710    0    0 
+TrySome   957841578  8  5 c   f     -     -         1710   10    0 
+TrySome   957841618  7  4 f   -     -     -         1700    0    0 
+TrySome   957841658  6  3 f   -     -     -         1700    0    0 
+TrySome   957841697  6  2 Bk  kc    kf    -         1700   20    0 
+TrySome   957841722  6  1 Bf  -     -     -         1680    5    0 
+TrySome   957841753  6  6 r   b     b     k         1675   50  115 Ah Ts
+TrySome   957841792  6  5 f   -     -     -         1740    0    0 
+TrySome   957841847  6  4 cc  kf    -     -         1740   20    0 
+TrySome   957841892  6  3 r   cc    f     -         1720   40    0 
+TrySome   957841940  6  2 Bk  krc   b     k         1680   70  400 4d 5s
+TrySome   957842024  6  1 Bc  k     k     k         2010   10   30 4h 4d
+TrySome   957842068  5  5 f   -     -     -         2030    0    0 
+TrySome   957842082  4  3 Q   -     -     -         2030    0    0 
+TrySome   958200023  2  2 Bk  c     c     c         3292   60    0 4c 2c
+TrySome   958200041  2  1 Bc  k     b     -         3232   30   40 
+TrySome   958200062  2  2 B   -     -     -         3242   10   15 
+TrySome   958200065  2  1 Bc  k     kf    -         3247   10    0 
+TrySome   958200079  2  2 Bf  -     -     -         3237   10    0 
+TrySome   958200082  2  1 Bc  kf    -     -         3227   10    0 
+TrySome   958200103  2  2 B   -     -     -         3217   10   15 
+TrySome   958200107  2  1 Bc  kf    -     -         3222   10    0 
+TrySome   958200116  2  2 Bk  rc    c     c         3212   80    0 5d Qc
+TrySome   958200138  2  1 Bc  k     k     brc       3132   90    0 9d Ah
+TrySome   958200165  2  2 Bk  c     f     -         3042   20    0 
+TrySome   958200181  2  1 Bc  kc    k     k         3022   20   20 Ac 9h
+TrySome   958200203  2  2 Br  k     k     k         3022   20   40 6d 6s
+TrySome   958200227  3  1 Bc  kr    k     kc        3042   50  100 7d Kh
+TrySome   958200272  3  3 f   -     -     -         3092    0    0 
+TrySome   958200293  3  2 Bk  k     k     k         3092   10   25 2s Ks
+TrySome   958200315  3  1 Bc  kc    k     kc        3107   40  100 Jh 2h
+TrySome   958200350  4  4 c   c     k     f         3167   20    0 
+TrySome   958200384  4  3 c   kf    -     -         3147   10    0 
+TrySome   958200429  4  2 Bk  k     k     b         3137   30   40 
+TrySome   958200460  4  1 Bc  k     k     k         3147   10    0 3h 6h
+TrySome   958200492  4  4 cc  c     c     c         3137   70    0 Ah 6c
+TrySome   958200539  4  3 f   -     -     -         3067    0    0 
+TrySome   958200548  4  2 Bk  kKQ   -     -         3067   10    0 
+TrySome   958234777 10  6 f   -     -     -         3017    0    0 
+TrySome   958234850  9  5 c   k     c     k         3017   30  130 9d 4d
+TrySome   958234912 10  4 c   kf    -     -         3117   10    0 
+TrySome   958234951 10  3 cc  rc    c     c         3107  100    0 Kd 6d
+TrySome   958235003  9  2 Bk  k     f     -         3007   10    0 
+TrySome   958235049 10  1 Bc  b     k     k         2997   20   90 Jh Jd
+TrySome   958235125  7  7 f   -     -     -         3067    0    0 
+TrySome   958235190  8  7 c   f     -     -         3067   10    0 
+TrySome   958235238  8  6 f   -     -     -         3057    0    0 
+TrySome   958235286  8  5 f   -     -     -         3057    0    0 
+TrySome   958235350  9  4 f   -     -     -         3057    0    0 
+TrySome   958235390  8  3 f   -     -     -         3057    0    0 
+TrySome   958235424  7  2 Bf  -     -     -         3057   10    0 
+TrySome   958235468  8  1 Bf  -     -     -         3047    5    0 
+TrySome   958235538  8  8 f   -     -     -         3042    0    0 
+TrySome   958235562  7  6 f   -     -     -         3042    0    0 
+TrySome   958235598  7  5 cc  kr    b     k         3042   60    0 Ah 9s
+TrySome   958235662  9  5 c   kcc   kf    -         2982   30    0 
+TrySome   958235705  9  4 cc  kc    k     r         2952   80  335 7d 4d
+TrySome   958235778 10  4 cc  kf    -     -         3207   20    0 
+TrySome   958235838 10  3 f   -     -     -         3187    0    0 
+TrySome   958235947 10  2 Bk  b     b     b         3187   60   65 2s Ac
+TrySome   958235974 10  1 Bc  k     k     k         3192   10   40 Qs Jd
+TrySome   958236027 10 10 cc  c     c     f         3222   80    0 
+TrySome   958236079 10  9 f   -     -     -         3142    0    0 
+TrySome   958236122 10  8 cc  f     -     -         3142   30    0 
+TrySome   958236163 10  7 f   -     -     -         3112    0    0 
+TrySome   958236207 10  6 f   -     -     -         3112    0    0 
+TrySome   958236251 10  5 fQ  -     -     -         3112    0    0 
+TrySome   959118022  3  2 Bf  -     -     -         1240   10    0 
+TrySome   959118030  3  1 Bf  -     -     -         1230    5    0 
+TrySome   959118031  3  3 rc  bc    b     b         1225   90    0 7c 7d
+TrySome   959118069  3  2 Bk  c     c     r         1135   80  160 2s 8s
+TrySome   959118087  3  1 Bf  -     -     -         1215    5    0 
+TrySome   959118092  3  3 c   k     b     -         1210   30   45 
+TrySome   959118103  3  2 Bk  k     k     b         1225   30   60 7d 4d
+TrySome   959118124  3  1 Bc  b     -     -         1255   20   30 
+TrySome   959118138  3  3 c   b     b     -         1265   40   65 
+TrySome   959118149  3  2 B   -     -     -         1290   10   15 
+TrySome   959118154  3  1 Br  b     brc   kc        1295  130    0 Ac Ah
+TrySome   959118179  3  3 c   r     b     k         1165   50    0 Ts Ad
+TrySome   959118209  3  2 Bk  k     kc    kf        1115   30    0 
+TrySome   959118231  5  1 Bc  krc   kf    -         1085   40    0 
+TrySome   959118277  5  5 c   b     -     -         1045   20   35 
+TrySome   959118348  4  3 f   -     -     -         1060    0    0 
+TrySome   959118375  4  2 Bk  k     k     k         1060   10    0 9h 7h
+TrySome   959118397  4  1 Bc  k     k     b         1050   30   50 
+TrySome   959118433  4  4 f   -     -     -         1070    0    0 
+TrySome   959118459  4  3 r   -     -     -         1070   20   35 
+TrySome   959118472  4  2 B   -     -     -         1085   10   15 
+TrySome   959118484  4  1 Bc  kc    k     b         1090   40   80 Ah 2h
+TrySome   959118514  4  4 cc  c     c     k         1130   50    0 8d 6d
+TrySome   959118532  4  3 c   k     k     k         1080   10    0 9h Qh
+TrySome   959118570  4  2 Bk  kf    -     -         1070   10    0 
+TrySome   959118611  4  1 Br  b     b     bc        1060   90    0 Ah Th
+TrySome   959118654  4  4 f   -     -     -          970    0    0 
+TrySome   959118682  4  3 f   -     -     -          970    0    0 
+TrySome   959118689  4  2 Bk  kf    -     -          970   10    0 
+TrySome   959118700  4  1 Bf  -     -     -          960    5    0 
+TrySome   959118705  4  4 c   c     r     f          955   60    0 
+TrySome   959118747  4  3 f   -     -     -          895    0    0 
+TrySome   959118769  4  2 Br  b     -     -          895   30   55 
+TrySome   959118782  4  1 Bc  k     kf    -          920   10    0 
+TrySome   959118820  3  3 cc  c     k     f          910   30    0 
+TrySome   959118844  3  2 Bk  k     k     k          880   10   30 Js 9h
+TrySome   959118867  3  1 Bc  bc    kc    kc         900   70  150 9c 8h
+TrySome   959118891  4  4 c   f     -     -          980   20    0 
+TrySome   959118917  5  4 f   -     -     -          960    0    0 
+TrySome   959118943  4  2 Bk  b     kr    k          960   60  130 3d Tc
+TrySome   959118993  4  1 Bc  kf    -     -         1030   20    0 
+TrySome   959119014  4  4 f   -     -     -         1010    0    0 
+TrySome   959119025  4  3 cc  c     c     c         1010   70  145 Jd 7h
+TrySome   959119044  5  3 c   b     -     -         1085   20   45 
+TrySome   959119071  5  2 Bk  k     bc    c         1110   70    0 9d Qc
+TrySome   959119112  5  1 Bc  kf    -     -         1040   10    0 
+TrySome   959119142  5  5 c   b     b     b         1030   60  130 Kc Jc
+TrySome   959119166  4  3 cc  kf    -     -         1100   20    0 
+TrySome   959119190  4  2 Bk  k     k     k         1080   10   25 3c Ts
+TrySome   959119213  5  1 Br  k     k     kf        1095   20    0 
+TrySome   959119247  5  5 c   rcc   c     c         1075   90  310 Jd As
+TrySome   959119301  5  4 cc  kc    cc    kc        1295   90    0 7h 7d
+TrySome   959119382  5  3 c   f     -     -         1205   10    0 
+TrySome   959119410  5  2 Bk  bc    k     b         1195   50  110 
+TrySome   959119458  4  1 Bcc kc    kc    k         1255   50  100 2h 5d
+TrySome   959119490  3  3 cc  f     -     -         1305   20    0 
+TrySome   959119512  3  2 B   -     -     -         1285   10   15 
+TrySome   959119515  3  1 Bc  k     bc    bc        1290   90  135 4d Qs
+TrySome   959119555  3  3 c   k     b     b         1335   50  105 4s Qs
+TrySome   959119596  3  2 Bc  b     bc    kc        1390   90    0 Qd 8c
+TrySome   959119627  2  1 Bc  b     b     bc        1300   80    0 9d 2c
+TrySome   959119648  2  2 Bk  k     k     k         1220   10   20 Ks Qs
+TrySome   959119668  3  1 Bc  kf    -     -         1230   10    0 
+TrySome   959119685  3  3 c   k     c     b         1220   50  110 4h Kc
+TrySome   959119712  2  1 Bc  b     k     k         1280   30   60 2s Jd
+TrySome   959119734  2  1 Bc  b     -     -         1310   20   30 
+TrySome   959119751  2  2 Bk  k     k     k         1320   10    0 7h 3h
+TrySome   959119763  3  1 Bc  k     b     -         1310   30   40 
+TrySome   959119779  3  3 c   k     b     -         1320   30   50 
+TrySome   959119796  2  1 B   -     -     -         1340   10   10 
+TrySome   959119797  2  1 Bc  kc    k     k         1340   20   40 2c Jc
+TrySome   959119822  2  2 B   -     -     -         1360   10   15 
+TrySome   959119826  2  1 Bc  k     kc    kc        1365   50    0 Qc 8d
+TrySome   959119842  2  2 B   -     -     -         1315   10   15 
+TrySome   959119848  3  1 Bc  b     -     -         1320   20   30 
+TrySome   959119856  3  3 c   -     -     -         1330   10   25 
+TrySome   959119863  2  1 Bk  kf    -     -         1345   10    0 
+TrySome   959119873  2  1 Bc  k     kr    k         1335   50  100 Ks Kh
+TrySome   959119896  2  2 B   -     -     -         1385   10   15 
+TrySome   959119901  2  1 Bc  kc    kf    -         1390   20    0 
+TrySome   959119917  2  2 Bk  c     c     f         1370   40    0 
+TrySome   959119933  2  1 Bcc k     kc    kf        1330   40    0 
+TrySome   959119952  2  2 B   -     -     -         1290   10   15 
+TrySome   959119958  2  1 Bc  kf    -     -         1295   10    0 
+TrySome   959119967  2  2 Bc  c     c     k         1285   50    0 Ac 4d
+TrySome   959119979  2  1 Bc  kf    -     -         1235   10    0 
+TrySome   959119993  2  2 B   -     -     -         1225   10   15 
+TrySome   959119995  2  1 Bc  bc    kf    -         1230   30    0 
+TrySome   959120012  2  2 B   -     -     -         1200   10   15 
+TrySome   959120016  2  1 Bc  b     k     b         1205   40   60 
+TrySome   959120032  2  2 Bk  f     -     -         1225   10    0 
+TrySome   959120042  2  1 Bc  k     kf    -         1215   10    0 
+TrySome   959120061  2  2 B   -     -     -         1205   10   15 
+TrySome   959120062  2  1 Bcc kc    kc    k         1210   50    0 5s 3s
+TrySome   959120078  2  2 B   -     -     -         1160   10   15 
+TrySome   959120084  2  1 Bc  kc    kc    kc        1165   60  120 2d Th
+TrySome   959120102  3  3 c   k     k     k         1225   10    0 5c 4c
+TrySome   959120126  3  2 B   -     -     -         1215   10   15 
+TrySome   959120130  3  1 Bcc kc    kc    kf        1220   50    0 
+TrySome   959120150  2  2 B   -     -     -         1170   10   15 
+TrySome   959120154  2  1 Bc  k     kf    -         1175   10    0 
+TrySome   959120168  2  2 B   -     -     -         1165   10   15 
+TrySome   959120171  2  1 Bc  k     b     -         1170   30   40 
+TrySome   959120182  2  2 B   -     -     -         1180   10   15 
+TrySome   959120184  2  1 Bc  b     -     -         1185   20   30 
+TrySome   959120192  2  2 Bc  f     -     -         1195   20    0 
+TrySome   959120199  2  1 Bc  k     k     k         1175   10    0 Ts 4s
+TrySome   959120218  2  2 B   -     -     -         1165   10   15 
+TrySome   959120222  2  1 Bc  k     k     k         1170   10   20 Jh Td
+TrySome   959120238  2  2 Bc  f     -     -         1180   20    0 
+TrySome   959120250  2  1 Bcc kc    kf    -         1160   30    0 
+TrySome   959120269  2  2 Bk  c     c     f         1130   40    0 
+TrySome   959120283  2  1 Bcc kc    kc    kc        1090   70  140 Js Ad
+TrySome   959120302  2  2 Bk  c     c     f         1160   40    0 
+TrySome   959120319  2  1 Bc  kc    k     b         1120   40   80 Ks 4d
+TrySome   959120336  2  2 B   -     -     -         1160   10   15 
+TrySome   959120342  2  1 B   -     -     -         1165    5   15 
+TrySome   959125502  3  1 BKQ -     -     -         1175    5    0 
+TrySome   959228276  7  4 cc  f     -     -         1255   20    0 
+TrySome   959228331  7  3 c   c     c     c         1235   60  140 Jc Ah
+TrySome   959228362  7  2 Bc  kf    -     -         1315   20    0 
+TrySome   959228399  8  1 Bc  kf    -     -         1295   10    0 
+TrySome   959228437  8  8 f   -     -     -         1285    0    0 
+TrySome   959228487  9  8 c   cc    f     -         1285   60    0 
+TrySome   959228581  8  8 c   c     f     -         1225   30    0 
+TrySome   959228628  8  7 f   -     -     -         1195    0    0 
+TrySome   959228677  8  6 c   c     f     -         1195   30    0 
+TrySome   959228742  7  4 cc  kc    b     b         1165   70  170 9h Ks
+TrySome   959228801  7  3 f   -     -     -         1265    0    0 
+TrySome   959228860  7  2 Bk  kf    -     -         1265   10    0 
+TrySome   959228925  7  1 Br  k     k     b         1255   40   90 Ks Kh
+TrySome   959228963  7  7 f   -     -     -         1305    0    0 
+TrySome   959229034  8  6 cc  f     -     -         1305   30    0 
+TrySome   959229119  8  5 c   b     -     -         1275   20   35 
+TrySome   959229143  7  3 f   -     -     -         1290    0    0 
+TrySome   959229187  8  3 c   b     b     -         1290   40   65 
+TrySome   959229231  8  2 Bf  -     -     -         1315   10    0 
+TrySome   959229282  8  1 Bc  b     -     -         1305   20   40 
+TrySome   959229320  8  8 c   f     -     -         1325   20    0 
+TrySome   959229393  8  7 f   -     -     -         1305    0    0 
+TrySome   959229474  7  5 fQ  -     -     -         1305    0    0 
+TrySome   959810617 10  1 BKQ -     -     -          750    5    0 
+TrySome   959810814 10  8 f   -     -     -          745    0    0 
+TrySome   959810860 10  7 c   k     k     f          745   10    0 
+TrySome   959810955 10  6 c   f     -     -          735   20    0 
+TrySome   959810980 10  5 r   b     k     k          715   30  105 As Ac
+TrySome   959811042 10  4 f   -     -     -          790    0    0 
+TrySome   959811125 10  3 Q   -     -     -          790    0    0 

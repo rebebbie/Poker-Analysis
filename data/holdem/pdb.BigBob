@@ -1,0 +1,352 @@
+BigBob    959175229  2  2 B   -     -     -         1000   10   15 
+BigBob    959175232  2  1 Bc  b     kc    b         1005   60    0 3d 5d
+BigBob    959175323  3  2 Bc  bc    KQ    -          945   40    0 
+BigBob    959175462  4  4 cc  -     -     -          905   20   50 
+BigBob    959175480  3  3 r   -     -     -          935   20   35 
+BigBob    959175488  3  2 Br  k     k     b          950   40    0 4d As
+BigBob    959175535  3  1 Bc  k     k     k          910   10   20 6c Kh
+BigBob    959175588  3  3 r   b     -     -          920   30   60 
+BigBob    959175630  3  2 B   -     -     -          950   10   15 
+BigBob    959175633  3  1 Br  b     b     b          955   70    0 7c 7s
+BigBob    959175667  3  3 c   k     c     r          885   70    0 Ks Td
+BigBob    959175713  3  2 B   -     -     -          815   10   15 
+BigBob    959175723  3  1 Bc  kf    -     -          820   20    0 
+BigBob    959175793  3  3 cc  c     c     c          800   70    0 Jd 8c
+BigBob    959175845  3  2 Bk  rr    brc   kc         730  150    0 6s Ac
+BigBob    959175934  3  1 Bc  b     -     -          580   20   30 
+BigBob    959175969  3  3 c   b     -     -          590   20   35 
+BigBob    959175987  3  2 Bk  b     -     -          605   20   30 
+BigBob    959176009  3  1 Bc  b     -     -          615   20   40 
+BigBob    959176030  3  3 rr  k     c     rr         635  140    0 Qs 9s
+BigBob    959176096  3  2 Bk  b     b     -          495   40   60 
+BigBob    959176132  3  1 Br  b     -     -          515   30   50 
+BigBob    959176153  3  3 r   r     r     rr         535  160    0 As Ah
+BigBob    959176205  3  2 Bk  b     b     b          375   60  105 
+BigBob    959176257  4  1 Bc  b     -     -          420   20   30 
+BigBob    959176276  4  4 cc  r     b     -          430   60  110 
+BigBob    959176321  5  4 c   k     b     b          480   50  110 2c 3s
+BigBob    959176366  5  3 r   k     k     kc         540   40    0 Tc 2c
+BigBob    959176415  5  2 Bc  k     kf    -          500   20    0 
+BigBob    959176458  5  1 Br  b     bc    kc         480   90    0 4c 6c
+BigBob    959176518  6  6 r   b     bc    c          390   90    0 6d 8d
+BigBob    959176572  6  5 rr  br    rr    rr         300  230  615 5h Kh
+BigBob    959176648  6  4 cc  c     f     -          685   30    0 
+BigBob    959176703  6  3 r   b     b     b          655   70  220 7c 4c
+BigBob    959176754  6  2 Bc  b     br    b          805  110    0 6h Qs
+BigBob    959176794  6  1 Bc  kc    k     kf         695   30    0 
+BigBob    959176855  6  6 c   k     f     -          665   10    0 
+BigBob    959176907  6  5 rr  rr    brc   bc         655  200    0 Ah 2h
+BigBob    959176982  6  4 rc  rc    rr    b          455  190  530 Th 4h
+BigBob    959177072  6  3 cc  rc    bc    c          795  110    0 5h 2d
+BigBob    959177130  6  2 Bc  brc   brc   brc        685  220    0 Jc Qh
+BigBob    959177213  5  1 Bc  b     b     bc         465   80    0 7d Qs
+BigBob    959177264  5  5 c   b     b     b          385   60  120 
+BigBob    959177323  7  6 cc  b     b     b          445   70    0 Ah 2d
+BigBob    959177372  7  5 c   c     f     -          375   20    0 
+BigBob    959177401  7  4 c   b     brc   c          355  120    0 Ac Th
+BigBob    959177456  7  3 cc  kc    kf    -          235   30    0 
+BigBob    959177531  7  2 B   -     -     -          205   10   15 
+BigBob    959177541  6  1 Bc  b     b     b          210   60  180 5s 4h
+BigBob    959177577  6  6 c   br    c     f          330   70    0 
+BigBob    959177629  6  5 c   kc    b     b          260   60    0 Js 4s
+BigBob    959177675  6  4 c   k     kc    b          200   50  125 9d Kd
+BigBob    959177727  5  3 c   b     brc   brc        275  180    0 8s 4d
+BigBob    959177799  5  2 B   -     -     -           95   10   15 
+BigBob    959177811  5  1 Bc  kc    brcA  -          100  100    0 Ks Tc
+BigBob    959177896  5  4 c   r     b     b         1000   70  145 6s 9c
+BigBob    959177935  5  3 c   c     f     -         1075   20    0 
+BigBob    959177973  5  2 Bk  k     kc    kf        1055   30    0 
+BigBob    959178017  5  1 Br  kc    kcf   -         1025   50    0 
+BigBob    959178064  5  5 c   b     b     b          975   60   62 8s Tc
+BigBob    959178106  5  4 rr  bc    b     Q          977   80    0 
+BigBob    959178322  5  4 c   k     k     k          897   10    0 3d 8d
+BigBob    959178351  5  3 c   b     -     -          887   20   40 
+BigBob    959178371  5  2 Br  b     -     -          907   30   55 
+BigBob    959178390  5  1 Bc  b     b     b          932   60  130 4s Td
+BigBob    959178424  5  5 c   c     c     bc        1002   90    0 2d 7c
+BigBob    959178471  5  4 rc  c     c     f          912   70    0 
+BigBob    959178515  5  3 c   b     -     -          842   20   35 
+BigBob    959178534  5  2 Bc  kc    k     kf         857   30    0 
+BigBob    959178647  5  1 Bc  brc   kc    b          827   90  220 4c 3s
+BigBob    959178716  4  4 c   k     k     b          957   30    0 Qc 7h
+BigBob    959178772  4  3 c   f     -     -          927   10    0 
+BigBob    959178806  4  2 Brc cc    c     f          917   80    0 
+BigBob    959178854  4  1 Bc  brc   brc   b          837  150  300 6d 3c
+BigBob    959178903  4  4 c   c     c     c          987   60    0 5s 3d
+BigBob    959178963  4  3 c   c     c     b          927   60    0 Jc 9s
+BigBob    959179015  5  2 Bk  k     b     -          867   30   45 
+BigBob    959179088  4  1 Br  b     b     b          882   70  150 Qc Ks
+BigBob    959179117  4  4 r   -     -     -          962   20   35 
+BigBob    959179128  4  3 r   rr    c     c          977  100    0 5s 5c
+BigBob    959179164  4  2 B   -     -     -          877   10   15 
+BigBob    959179172  4  1 Br  -     -     -          882   20   30 
+BigBob    959179181  4  4 c   c     f     -          892   20    0 
+BigBob    959179212  4  3 c   k     k     b          872   30   65 3s 8h
+BigBob    959179241  4  2 Br  b     -     -          907   30   50 
+BigBob    959179283  4  1 Bc  k     b     b          927   50   90 
+BigBob    959179342  4  4 c   b     -     -          967   20   35 
+BigBob    959179365  4  3 r   k     k     b          982   40   65 
+BigBob    959179407  6  2 Bk  b     b     b         1007   60  125 8s Tc
+BigBob    959179485  5  1 Bc  b     -     -         1072   20   40 
+BigBob    959179520  6  6 r   c     c     b         1092   80    0 Ks Ac
+BigBob    959179573  6  6 c   b     -     -         1012   20   40 
+BigBob    959179603  6  5 c   b     b     b         1032   60    0 6d Ac
+BigBob    959179652  6  4 c   bc    f     -          972   30    0 
+BigBob    959179703  7  3 c   kc    b     b          942   60    0 8h 4s
+BigBob    959179746  7  2 Bk  kc    k     bc         882   60    0 5h 3h
+BigBob    959179820  8  1 Bc  kc    brc   b          822  130  300 4h 6c
+BigBob    959179888  9  9 c   c     f     -          992   30    0 
+BigBob    959179988  7  6 c   b     -     -          962   20   45 
+BigBob    959180033  7  5 cc  kf    -     -          987   30    0 
+BigBob    959180167  7  4 c   b     b     -          957   40   85 
+BigBob    959180216  8  4 cc  c     f     -         1002   30    0 
+BigBob    959180280  8  3 cc  c     c     c          972   80  200 Tc 9s
+BigBob    959180338  9  2 Bc  kc    kcf   -         1092   60    0 
+BigBob    959180435  9  1 Bc  bc    kc    b         1032   70  200 3c 8d
+BigBob    959180518  8  8 c   c     f     -         1162   30    0 
+BigBob    959180580  8  7 c   f     -     -         1132   10    0 
+BigBob    959180629  8  6 c   c     c     f         1122   50    0 
+BigBob    959180724  8  5 cc  c     c     f         1072   50    0 
+BigBob    959180789  8  4 r   b     b     b         1022   70  165 
+BigBob    959180843  7  2 Bc  kf    Q     -         1117   20    0 
+BigBob    959265118  6  2 Bk  cc    f     -         1097   30    0 
+BigBob    959265168  7  1 BKQ -     -     -         1067    5    0 
+BigBob    959265323  6  4 c   c     f     -         1062   30    0 
+BigBob    959265377  8  3 c   k     kf    -         1032   10    0 
+BigBob    959265425  7  1 Bk  kc    kc    b         1022   60  100 
+BigBob    959265475  6  1 Bc  kc    k     b         1062   40    0 8c 6h
+BigBob    959265542  6  6 f   -     -     -         1022    0    0 
+BigBob    959265560  6  5 f   -     -     -         1022    0    0 
+BigBob    959265586  5  3 c   k     k     bc        1022   50  115 Qs 6d
+BigBob    959265646  5  2 Bc  cc    b     kc        1087   90    0 Kc 7d
+BigBob    959265812  5  1 Br  kc    kc    kf         997   60    0 
+BigBob    959265872  4  4 r   r     b     c          937   80    0 Qc Kh
+BigBob    959265918  2  2 B   -     -     -          857   10   15 
+BigBob    959265934  2  1 Bc  kc    kf    -          862   20    0 
+BigBob    959265969  2  2 B   -     -     -          842   10   15 
+BigBob    959267569  3  1 BKQ -     -     -          847    5    0 
+BigBob    959347747  4  4 KQ  -     -     -          842    0    0 
+BigBob    959354835 10  3 c   c     f     -          842   20    0 
+BigBob    959354898 10  2 Bk  b     b     k          822   40    0 6d Th
+BigBob    959355008 10  1 Br  kc    kKQ   -          782   40    0 
+BigBob    959355274 10  8 f   -     -     -          742    0    0 
+BigBob    959355362 10  7 r   r     b     b          742   80    0 4c 4h
+BigBob    959355475 10  6 f   -     -     -          662    0    0 
+BigBob    959355525 10  5 c   k     k     f          662   10    0 
+BigBob    959355635 10  4 c   kc    kf    -          652   20    0 
+BigBob    959355751 10  3 c   b     b     b          632   60    0 Kd Jh
+BigBob    959355826 10  2 Br  k     kf    -          572   30    0 
+BigBob    959355919 10  1 Bc  k     kf    -          542   10    0 
+BigBob    959356006 10 10 c   rr    rr    rr         532  210  460 Qc Ts
+BigBob    959356096 10  9 cc  k     b     b          782   60    0 9d Jc
+BigBob    959356257 10  8 Q   -     -     -          722    0    0 
+BigBob    959361201  8  6 c   k     kc    b          722   60  220 Jd Ks
+BigBob    959361266  7  5 r   b     b     b          882   70    0 8h 4h
+BigBob    959361319  7  4 c   b     -     -          812   20   50 
+BigBob    959361347  7  4 cc  c     b     b          842   70    0 3h Ad
+BigBob    959361417  6  2 Bc  f     -     -          772   20    0 
+BigBob    959361466  6  1 Brc b     b     b          752   90  300 8d 7d
+BigBob    959361528  6  6 c   b     k     b          962   40    0 Ts 3s
+BigBob    959361567  5  4 r   r     c     c          922  100    0 Ks 4s
+BigBob    959361615  5  4 c   f     -     -          822   10    0 
+BigBob    959361645  5  3 cc  f     -     -          812   20    0 
+BigBob    959361685  5  2 Bk  b     b     -          792   40   90 
+BigBob    959361719  5  1 Bc  kf    -     -          842   10    0 
+BigBob    959361756  5  5 c   f     -     -          832   10    0 
+BigBob    959361779  5  4 c   k     b     -          822   30   60 
+BigBob    959361814  6  3 c   f     -     -          852   10    0 
+BigBob    959361833  6  2 Br  br    b     bc         842  110    0 6c 8c
+BigBob    959361885  6  1 Bc  kf    -     -          732   10    0 
+BigBob    959361931  6  6 c   k     c     b          722   70  190 Ad 6d
+BigBob    959361971  6  5 rr  rr    b     b          842  120  490 Qh Ah
+BigBob    959362040  6  4 c   k     brc   c         1212  110    0 Td 6h
+BigBob    959362100  5  2 Bk  k     kc    kc        1102   50    0 9d Jh
+BigBob    959362144  5  1 Bc  k     kQ    -         1052   10    0 
+BigBob    959368123  2  1 B   -     -     -         1042    5   15 
+BigBob    959369596  3  1 BKQ -     -     -         1052    5    0 
+BigBob    959430306 10  4 f   -     -     -         1047    0    0 
+BigBob    959430384 10  3 c   kc    k     k         1047   20  100 4d 8h
+BigBob    959430467 10  2 Bc  k     k     k         1127   20    0 Ks 9s
+BigBob    959430524  8  1 Bc  k     kc    kc        1107   60    0 8c 7c
+BigBob    959430586  9  9 f   -     -     -         1047    0    0 
+BigBob    959430619 10  8 c   c     kf    Q         1047   30    0 
+BigBob    959431834  7  2 Bk  b     b     bc        1017   80    0 3h Qc
+BigBob    959431887  7  1 Br  -     -     -          937   20   30 
+BigBob    959431900  7  7 c   k     k     k          947   10    0 7s 4c
+BigBob    959431951  7  6 f   -     -     -          937    0    0 
+BigBob    959431975  7  5 c   r     b     b          937   70  145 
+BigBob    959432046  7  4 c   b     b     -         1012   40   90 
+BigBob    959432084  7  3 c   c     c     r         1062   80    0 8s 7c
+BigBob    959432165  8  2 Bk  k     br    brc        982  150    0 6s 2h
+BigBob    959432235  7  1 Bc  kc    kc    b          832   70  210 Td Ad
+BigBob    959432299  7  7 c   c     b     b          972   60  190 
+BigBob    959432367  7  6 cc  c     k     k         1102   30    0 Td Js
+BigBob    959432415  6  5 c   c     f     -         1072   30    0 
+BigBob    959432455  6  4 Q   -     -     -         1042    0    0 
+BigBob    959432816  6  2 BKQ -     -     -         1042   10    0 
+BigBob    959440109  2  2 B   -     -     -         1032   10   15 
+BigBob    959440115  2  1 Bc  k     b     -         1037   30   40 
+BigBob    959440145  2  2 Bk  k     b     -         1047   30   40 
+BigBob    959440181  2  1 Bc  kc    b     b         1057   60  100 
+BigBob    959440220  2  2 Bk  k     b     b         1097   50  100 4h 8s
+BigBob    959440256  2  1 Br  b     -     -         1147   30   50 
+BigBob    959440271  2  2 B   -     -     -         1167   10   15 
+BigBob    959440274  2  1 Brr k     kc    bc        1172  100    0 Kh Jd
+BigBob    959440321  2  2 B   -     -     -         1072   10   15 
+BigBob    959440327  2  1 Bf  -     -     -         1077    5    0 
+BigBob    959440330  2  2 Bk  k     c     r         1072   70  140 Kc 6d
+BigBob    959440360  2  1 Bf  -     -     -         1142    5    0 
+BigBob    959440367  2  2 Bk  b     -     -         1137   20   30 
+BigBob    959440389  2  1 Bf  -     -     -         1147    5    0 
+BigBob    959440396  2  2 B   -     -     -         1142   10   15 
+BigBob    959440399  2  1 Bc  k     br    b         1147   90    0 7c Qd
+BigBob    959440436  2  2 B   -     -     -         1057   10   15 
+BigBob    959440442  2  1 Bc  b     bc    kf        1062   60    0 
+BigBob    959440486  2  2 B   -     -     -         1002   10   15 
+BigBob    959440489  2  1 Bf  -     -     -         1007    5    0 
+BigBob    959440495  2  2 Bk  k     k     b         1002   30   40 
+BigBob    959440529  2  1 Bcc kc    k     k         1012   30    0 Jc 4c
+BigBob    959440570  2  2 B   -     -     -          982   10   15 
+BigBob    959440576  2  1 Bc  k     k     b          987   30   40 
+BigBob    959440613  2  2 Bk  f     -     -          997   10    0 
+BigBob    959440631  2  1 Bcc br    b     b          987   90  180 As Ks
+BigBob    959440677  2  2 B   -     -     -         1077   10   15 
+BigBob    959440683  2  1 Bf  -     -     -         1082    5    0 
+BigBob    959440689  2  2 Bf  -     -     -         1077   10    0 
+BigBob    959440696  2  1 Bc  k     k     k         1067   10   20 Qc Jd
+BigBob    959440726  2  2 Bk  b     -     -         1077   20   30 
+BigBob    959440740  2  1 Bc  kf    -     -         1087   10    0 
+BigBob    959440761  2  2 Bk  k     k     f         1077   10    0 
+BigBob    959440791  2  1 Bf  -     -     -         1067    5    0 
+BigBob    959440797  2  2 Bk  c     f     -         1062   20    0 
+BigBob    959440819  2  1 Bc  b     b     b         1042   60  100 
+BigBob    959440858  2  2 B   -     -     -         1082   10   15 
+BigBob    959440860  2  1 Bcc b     b     b         1087   70  140 4s 6s
+BigBob    959440901  2  2 Bc  f     -     -         1157   20    0 
+BigBob    959440918  2  1 Bf  -     -     -         1137    5    0 
+BigBob    959440925  2  2 Bk  c     b     c         1132   60    0 2c Ad
+BigBob    959440968  2  1 Bc  b     -     -         1072   20   30 
+BigBob    959440992  2  2 B   -     -     -         1082   10   15 
+BigBob    959440996  2  1 Bf  -     -     -         1087    5    0 
+BigBob    959441003  2  2 Bc  f     -     -         1082   20    0 
+BigBob    959441022  2  1 Bc  b     -     -         1062   20   30 
+BigBob    959441039  2  2 B   -     -     -         1072   10   15 
+BigBob    959441042  2  1 Bc  kc    k     kc        1077   40    0 6h Jc
+BigBob    959441081  2  2 Br  br    -     -         1037   60  110 
+BigBob    959441113  2  1 Bc  k     k     b         1087   30   30 Ac 8h
+BigBob    959441146  2  2 Bk  k     k     k         1087   10   10 3s Th
+BigBob    959441177  2  1 Bc  kf    -     -         1087   10    0 
+BigBob    959441203  2  2 Bk  b     b     b         1077   60   60 Ts 6c
+BigBob    959441233  2  1 Bc  kc    kc    bc        1077   80    0 6h Kc
+BigBob    959441332  2  2 Bf  -     -     -          997   10    0 
+BigBob    959441348  2  1 Bf  -     -     -          987    5    0 
+BigBob    959441355  2  2 Bk  k     k     f          982   10    0 
+BigBob    959441386  2  1 Bc  k     k     b          972   30   40 
+BigBob    959441414  2  2 Bk  c     k     k          982   20    0 7d Td
+BigBob    959441446  2  1 Bf  -     -     -          962    5    0 
+BigBob    959441455  2  2 Bk  k     b     -          957   30   40 
+BigBob    959441477  2  1 Bf  -     -     -          967    5    0 
+BigBob    959441485  2  2 Br  b     -     -          962   30   50 
+BigBob    959441504  2  1 Bf  -     -     -          982    5    0 
+BigBob    959441512  2  2 B   -     -     -          977   10   15 
+BigBob    959441516  2  1 Bcc b     b     -          982   50   80 
+BigBob    959441545  2  2 Bc  r     b     b         1012   80  140 
+BigBob    959441579  2  1 Bc  k     k     b         1072   30    0 5d Qs
+BigBob    959441608  2  2 B   -     -     -         1042   10   15 
+BigBob    959441614  2  1 Bc  b     -     -         1047   20   30 
+BigBob    959441631  2  2 Bk  k     b     -         1057   30   40 
+BigBob    959441661  2  1 Bcc kf    -     -         1067   20    0 
+BigBob    959441686  2  2 Bk  b     -     -         1047   20   30 
+BigBob    959441702  2  1 Br  b     -     -         1057   30   50 
+BigBob    959441717  2  2 B   -     -     -         1077   10   15 
+BigBob    959441722  2  1 Bcc k     kc    b         1082   60  120 4c Ad
+BigBob    959441770  2  2 Bk  f     -     -         1142   10    0 
+BigBob    959441791  2  1 Bcc k     bc    k         1132   60    0 9s 4s
+BigBob    959441849  2  2 B   -     -     -         1072   10   15 
+BigBob    959441855  2  1 Bc  k     b     -         1077   30   40 
+BigBob    959441885  2  2 Br  b     -     -         1087   30   50 
+BigBob    959441910  2  1 Br  b     b     b         1107   70    0 2h 2s
+BigBob    959441953  2  2 Bk  b     -     -         1037   20   30 
+BigBob    959441996  2  1 Bc  b     b     br        1047  100    0 6d 8d
+BigBob    959442083  2  2 Bk  k     b     b          947   50   80 
+BigBob    959442123  2  1 Bc  k     k     b          977   30   40 
+BigBob    959442209  2  2 Br  c     k     f          987   30    0 
+BigBob    959442356  2  1 Bc  k     b     -          957   30   40 
+BigBob    959442390  2  2 B   -     -     -          967   10   15 
+BigBob    959442394  2  1 Bc  b     br    -          972   80  140 
+BigBob    959442462  3  2 Bk  -     -     -         1032   10   20 
+BigBob    959442509  2  1 BQ  -     -     -         1042    5    0 
+BigBob    959700719  5  3 f   -     -     -         1029    0    0 
+BigBob    959700771  5  2 Bc  br    br    b         1029  130    0 8d Jc
+BigBob    959700835  6  1 Bc  kc    kf    -          899   20    0 
+BigBob    959700883  7  7 c   c     rr    b          879  130  430 9s Kd
+BigBob    959700952  7  6 f   -     -     -         1179    0    0 
+BigBob    959701034  6  4 c   f     -     -         1179   10    0 
+BigBob    959701082  6  3 c   kc    k     bc        1169   70    0 3d Qc
+BigBob    959701172  6  2 Bk  b     bc    b         1099   80   88 As 6c
+BigBob    959701236  6  1 Br  b     b     b         1107   70  170 Ad As
+BigBob    959701273  6  6 c   r     b     b         1207   70  140 
+BigBob    959701399  5  4 Q   -     -     -         1277    0    0 
+BigBob    959702784  4  2 Bk  b     rc    rr        1277  160    0 6s 8c
+BigBob    959702832  4  1 Br  b     b     kc        1117   70    0 Qc Ad
+BigBob    959702879  4  4 r   k     r     b         1047   80    0 Ah Js
+BigBob    959702919  4  3 c   b     -     -          967   20   40 
+BigBob    959702942  4  2 Bf  -     -     -          987   10    0 
+BigBob    959702994  4  1 Bc  kc    kf    -          977   20    0 
+BigBob    959703039  4  4 c   b     -     -          957   20   45 
+BigBob    959703063  5  3 rr  kc    kc    kf         982   70    0 
+BigBob    959703132  5  2 Bc  k     kf    -          912   20    0 
+BigBob    959703163  5  1 Bcf -     -     -          892   10    0 
+BigBob    959703202  5  5 c   k     k     f          882   10    0 
+BigBob    959703242  5  4 r   rr    c     c          872  100    0 Jc 5c
+BigBob    959703287  4  3 cc  f     -     -          772   20    0 
+BigBob    959703325  4  2 Bf  -     -     -          752   10    0 
+BigBob    959703358  4  1 Bc  k     k     b          742   40  110 3c Kd
+BigBob    959703397  4  4 cc  c     f     -          812   30    0 
+BigBob    959703438  3  2 c   b     -     -          782   20   30 
+BigBob    959703455  3  2 Bc  kc    kf    -          792   30    0 
+BigBob    959703490  3  1 Bcrc br    b     b          762  110    0 4s 4c
+BigBob    959703539  3  3 c   f     -     -          652   10    0 
+BigBob    959703553  3  2 Bk  f     -     -          642   10    0 
+BigBob    959703567  3  1 Bcr br    b     brc        632  160    0 As 7s
+BigBob    959703622  3  3 Q   -     -     -          472    0    0 
+BigBob    959705618  7  4 f   -     -     -          472    0    0 
+BigBob    959705650  7  3 c   f     -     -          472   10    0 
+BigBob    959705681  5  2 Bk  k     kc    kf         462   30    0 
+BigBob    959705741  5  1 Bc  k     b     b          432   50  100 
+BigBob    959705790  6  6 cc  c     f     -          482   30    0 
+BigBob    959705837  7  6 c   b     b     -          452   40   80 
+BigBob    959705881  7  5 c   b     b     -          492   40   70 
+BigBob    959705922  7  4 c   kc    bc    brc        522  140    0 8c As
+BigBob    959706005  7  3 cc  bc    kc    kc         382   80    0 Th Kd
+BigBob    959706052  8  2 Brc b     b     b          302   90    0 7c Js
+BigBob    959706105  7  1 Bc  k     b     -          212   30   50 
+BigBob    959706172  7  7 cc  c     c     f          232   60    0 
+BigBob    959706237  7  6 c   r     c     c          172   80    0 4c Ah
+BigBob    959706305  7  5 c   k     b     k           92   30    0 2s Kh
+BigBob    959706446  5  3 c   k     f     -           62   10    0 
+BigBob    959706476  5  2 Br  r     cA    -           52   52    0 4h 4c
+BigBob    959748942  7  5 cKQ -     -     -         1000   20    0 
+BigBob    959749120  6  3 cc  kc    kf    -          980   30    0 
+BigBob    959749212  7  3 c   kc    kc    kf         950   40    0 
+BigBob    959749323  8  2 Bcc bc    br    br         910  210 1050 6h 7c
+BigBob    959749488  7  1 BQ  -     -     -         1750    5    0 
+BigBob    959783584  3  2 Bk  k     c     b         4160   50  110 As Qc
+BigBob    959783674  4  1 Bc  kc    kr    kr        4220  100  260 
+BigBob    959783798  5  5 c   rr    c     rc        4380  150    0 3d Qd
+BigBob    959783963  5  4 c   brc   rc    r         4230  170    0 5c Kh
+BigBob    959784081  5  3 f   Q     -     -         4060    0    0 
+BigBob    959784201  2  2 Brc rr    rr    rr        4060  240  480 2s 2d
+BigBob    959784329  2  1 Bcrc brc   brc   br        4300  220  420 
+BigBob    959784439  2  2 Brc rr    rr    r         4500  200  380 
+BigBob    959784522  2  1 Brr brc   brc   br        4680  220  460 
+BigBob    959784643  2  2 Brc rr    rr    r         4920  200  390 3d Ks
+BigBob    959784850  3  2 Bk  bc    k     k         5110   30    0 8c 4d
+BigBob    959784918  3  1 Bc  k     b     -         5080   30   40 
+BigBob    959784973  3  3 c   k     c     k         5090   30   70 9c Kd
+BigBob    959785048  3  2 Bk  bf    -     -         5130   20    0 
+BigBob    959785114  3  1 Bc  kf    -     -         5110   10    0 
+BigBob    959785155  3  3 c   c     k     c         5100   40   50 6c Td
+BigBob    959785236  4  2 Bk  bc    brc   b         5110  130    0 4d Ts
+BigBob    959785338  5  1 Bcc brc   kf    -         4980   60    0 
+BigBob    959785432  6  6 Q   -     -     -         4920    0    0 

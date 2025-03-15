@@ -1,0 +1,805 @@
+renagade  957159357  6  5 f   -     -     -         1040    0    0 
+renagade  957159397  6  5 f   -     -     -         1040    0    0 
+renagade  957159413  5  3 c   bc    f     -         1040   30    0 
+renagade  957159440  5  2 Bf  -     -     -         1010   10    0 
+renagade  957159473  5  1 Bc  kf    -     -         1000   10    0 
+renagade  957159497  5  5 f   -     -     -          990    0    0 
+renagade  957159516  5  4 f   -     -     -          990    0    0 
+renagade  957159539  5  3 c   k     k     f          990   10    0 
+renagade  957159564  5  2 Bf  -     -     -          980   10    0 
+renagade  957159571  5  1 Bf  -     -     -          970    5    0 
+renagade  957159583  5  5 c   f     -     -          965   20    0 
+renagade  957159601  5  4 f   Q     -     -          945    0    0 
+renagade  957381413  6  6 f   -     -     -          945    0    0 
+renagade  957381453  6  5 rc  brc   krc   b          945  150    0 Kh Ah
+renagade  957381495  6  4 r   b     r     c          795   90    0 Kc Kd
+renagade  957381542  6  3 f   -     -     -          705    0    0 
+renagade  957381567  6  2 Bk  k     kf    -          705   10    0 
+renagade  957381601  6  1 Bf  -     -     -          695    5    0 
+renagade  957381624  6  6 f   -     -     -          690    0    0 
+renagade  957381655  6  5 c   k     r     b          690   70  140 
+renagade  957381697  7  4 f   -     -     -          760    0    0 
+renagade  957381743  7  3 f   -     -     -          760    0    0 
+renagade  957381770  7  2 Bf  -     -     -          760   10    0 
+renagade  957381796  7  1 Bc  kf    -     -          750   10    0 
+renagade  957381818  8  8 f   -     -     -          740    0    0 
+renagade  957381877  8  7 f   -     -     -          740    0    0 
+renagade  957381928  8  6 f   -     -     -          740    0    0 
+renagade  957381957  8  6 f   -     -     -          740    0    0 
+renagade  957381994  7  4 c   c     cc    b          740  120  370 Js Qs
+renagade  957382031  7  3 f   -     -     -          990    0    0 
+renagade  957382062  7  2 Bk  k     cc    kc         990   70    0 8s Ah
+renagade  957382092  7  1 Bf  -     -     -          920    5    0 
+renagade  957382143  8  8 c   k     k     b          915   30   45 
+renagade  957382191  8  7 f   -     -     -          930    0    0 
+renagade  957382231  8  6 f   -     -     -          930    0    0 
+renagade  957382303  8  5 f   -     -     -          930    0    0 
+renagade  957382337  8  4 f   -     -     -          930    0    0 
+renagade  957382362  9  3 c   kf    -     -          930   10    0 
+renagade  957382392  9  2 Bk  kf    -     -          920   10    0 
+renagade  957382438  9  1 Bf  -     -     -          910    5    0 
+renagade  957382490  9  9 f   -     -     -          905    0    0 
+renagade  957382536  9  8 c   kc    kf    -          905   20    0 
+renagade  957382607 10  8 f   -     -     -          885    0    0 
+renagade  957382663  9  6 c   bf    -     -          885   20    0 
+renagade  957382763 10  6 f   -     -     -          865    0    0 
+renagade  957382816 10  5 c   c     r     b          865   80  215 7d Tc
+renagade  957382867 10  4 c   kf    -     -         1000   10    0 
+renagade  957382910 10  3 cc  k     k     kfQ        990   20    0 
+renagade  957429382 10  7 f   -     -     -          970    0    0 
+renagade  957429474 10  6 c   b     b     b          970   60  210 
+renagade  957429588  8  5 f   -     -     -         1120    0    0 
+renagade  957429637  6  3 cc  cc    kf    -         1120   40    0 
+renagade  957429695  5  2 Bk  kf    -     -         1080   10    0 
+renagade  957429741  5  1 Bc  k     k     kf        1070   10    0 
+renagade  957429779  6  6 f   -     -     -         1060    0    0 
+renagade  957429805  6  5 cc  k     k     b         1060   40  120 6c 8c
+renagade  957429844  6  5 r   b     -     -         1140   30   60 
+renagade  957429865  5  3 c   kc    kf    -         1170   20    0 
+renagade  957429901  4  2 Bf  Q     -     -         1150   10    0 
+renagade  957446164  3  2 Br  b     b     -         1140   50   80 
+renagade  957446206  4  1 Bc  kf    -     -         1170   10    0 
+renagade  957446248  4  4 c   c     c     k         1160   40    0 7d Ad
+renagade  957446288  4  3 cf  -     -     -         1120   10    0 
+renagade  957446313  5  2 Bk  k     b     b         1110   50  110 8h 2s
+renagade  957446350  5  1 Bf  -     -     -         1170    5    0 
+renagade  957446364  5  5 r   b     b     b         1165   70  150 
+renagade  957446404  5  4 c   rc    c     c         1245   80    0 Ad Td
+renagade  957446426  5  3 cc  r     b     b         1165   80  160 
+renagade  957446477  5  2 Bk  k     b     k         1245   30    0 3h Ah
+renagade  957446505  5  1 Bf  -     -     -         1215    5    0 
+renagade  957446529  5  5 r   c     r     b         1210   90  195 Ah Qh
+renagade  957446564  5  4 f   -     -     -         1315    0    0 
+renagade  957446573  5  3 f   -     -     -         1315    0    0 
+renagade  957446607  6  3 cc  kc    b     b         1315   70  165 6d Jd
+renagade  957446637  6  2 Bk  kf    -     -         1410   10    0 
+renagade  957446667  6  1 Bf  -     -     -         1400    5    0 
+renagade  957446700  7  7 f   -     -     -         1395    0    0 
+renagade  957446730  7  6 c   c     k     f         1395   30    0 
+renagade  957446773  8  6 f   -     -     -         1365    0    0 
+renagade  957446810  8  5 c   kc    kf    -         1365   20    0 
+renagade  957446873  8  4 f   -     -     -         1345    0    0 
+renagade  957446917  8  3 f   -     -     -         1345    0    0 
+renagade  957446998  8  2 Bf  -     -     -         1345   10    0 
+renagade  957447040  8  1 Bf  -     -     -         1335    5    0 
+renagade  957447088  8  8 r   rc    b     k         1330   70    0 Ad As
+renagade  957447189  8  7 f   -     -     -         1260    0    0 
+renagade  957447241  8  6 c   c     f     -         1260   30    0 
+renagade  957447345  6  3 f   -     -     -         1230    0    0 
+renagade  957447386  6  3 f   -     -     -         1230    0    0 
+renagade  957447415  5  2 Bf  -     -     -         1230   10    0 
+renagade  957447453  5  1 Bf  -     -     -         1220    5    0 
+renagade  957447495  5  5 f   -     -     -         1215    0    0 
+renagade  957447526  5  4 c   c     b     b         1215   70  200 
+renagade  957447564  5  3 c   k     c     f         1345   30    0 
+renagade  957447595  5  2 Bc  r     b     b         1315   80    0 Ac 4d
+renagade  957447667  4  1 Bc  kc    kf    -         1235   20    0 
+renagade  957447711  4  4 rc  c     k     k         1215   50    0 Ah Jh
+renagade  957447743  5  4 f   -     -     -         1165    0    0 
+renagade  957447768  5  3 f   -     -     -         1165    0    0 
+renagade  957447792  6  2 Bcc bc    b     b         1165  100  360 4h Jh
+renagade  957447862  6  1 Bc  br    k     b         1425   60  190 Ac 6d
+renagade  957447920  6  6 c   c     c     b         1555   60  190 9d Ts
+renagade  957447972  5  4 r   r     rc    f         1685  120    0 
+renagade  957448011  4  2 Bc  f     -     -         1565   20    0 
+renagade  957448041  4  1 Bf  -     -     -         1545    5    0 
+renagade  957448063  4  4 fQ  -     -     -         1540    0    0 
+renagade  957453310  6  6 f   -     -     -         1540    0    0 
+renagade  957453324  6  5 c   k     c     f         1540   30    0 
+renagade  957453356  7  5 c   f     -     -         1510   10    0 
+renagade  957453388  7  4 f   -     -     -         1500    0    0 
+renagade  957453432  7  3 f   -     -     -         1500    0    0 
+renagade  957453512  7  1 Bf  -     -     -         1500   10    0 
+renagade  957453551  8  1 Bc  kf    -     -         1490   10    0 
+renagade  957453582  9  9 f   -     -     -         1480    0    0 
+renagade  957453621  8  7 f   -     -     -         1480    0    0 
+renagade  957453656  8  6 c   bc    c     f         1480   50    0 
+renagade  957453720  8  5 cc  kf    -     -         1430   20    0 
+renagade  957453750  9  5 f   -     -     -         1410    0    0 
+renagade  957453817  8  4 cc  bc    c     f         1410   60    0 
+renagade  957453879  8  3 f   -     -     -         1350    0    0 
+renagade  957453916  8  2 Bk  kc    k     k         1350   20    0 5d Qd
+renagade  957453969  7  1 Bf  -     -     -         1330    5    0 
+renagade  957454007  7  7 f   -     -     -         1325    0    0 
+renagade  957454027  7  6 f   -     -     -         1325    0    0 
+renagade  957454050  7  5 f   -     -     -         1325    0    0 
+renagade  957454076  8  4 c   b     b     -         1325   40   80 
+renagade  957454107  8  3 f   -     -     -         1365    0    0 
+renagade  957454148  7  1 Bc  kf    -     -         1365   20    0 
+renagade  957454177  7  1 Bf  -     -     -         1345    5    0 
+renagade  957454210  6  6 c   b     rc    f         1340   80    0 
+renagade  957454258  7  6 c   c     f     -         1260   30    0 
+renagade  957454340  8  6 f   -     -     -         1230    0    0 
+renagade  957454391  7  4 f   -     -     -         1230    0    0 
+renagade  957454420  7  3 f   -     -     -         1230    0    0 
+renagade  957454446  7  2 Br  b     -     -         1230   30   75 
+renagade  957454465  7  1 Bf  -     -     -         1275    5    0 
+renagade  957454476  6  6 f   -     -     -         1270    0    0 
+renagade  957454482  6  6 c   c     c     r         1270   90    0 8c 8d
+renagade  957454506  6  5 c   k     k     k         1180   10    0 5h 8c
+renagade  957454529  7  5 c   k     c     r         1170   70  130 
+renagade  957454561  7  4 f   -     -     -         1230    0    0 
+renagade  957454591  7  3 c   k     k     k         1230   10    0 5h Qh
+renagade  957454623  7  2 Bk  k     kc    kf        1220   30    0 
+renagade  957454651  6  1 Bf  -     -     -         1190    5    0 
+renagade  957454676  6  6 r   b     -     -         1185   30   70 
+renagade  957454694  6  5 c   k     b     -         1225   30   55 
+renagade  957454709  6  4 r   b     b     b         1250   70    0 2h 2d
+renagade  957454740  6  3 r   b     b     b         1180   70  135 
+renagade  957454759  7  2 Bk  kc    kf    -         1245   20    0 
+renagade  957454792  7  1 Bf  -     -     -         1225    5    0 
+renagade  957454835  8  7 f   -     -     -         1220    0    0 
+renagade  957454874  8  6 f   -     -     -         1220    0    0 
+renagade  957454909  8  5 c   f     -     -         1220   20    0 
+renagade  957454976  8  4 f   -     -     -         1200    0    0 
+renagade  957455032  8  3 c   k     f     -         1200   10    0 
+renagade  957455076  8  2 Bf  -     -     -         1190   10    0 
+renagade  957455143  8  1 Bf  -     -     -         1180    5    0 
+renagade  957455177  8  8 f   -     -     -         1175    0    0 
+renagade  957455190  8  7 c   c     f     -         1175   30    0 
+renagade  957455207  8  6 f   -     -     -         1145    0    0 
+renagade  957455231  8  5 f   -     -     -         1145    0    0 
+renagade  957455269  7  3 f   Q     -     -         1145    0    0 
+renagade  957479702  9  9 cc  c     c     c         1145   90    0 Ts 7s
+renagade  957479771  8  7 c   rc    kc    c         1055   63    0 7c 9c
+renagade  957479830  7  6 c   k     k     c          992   30   80 Ts 9s
+renagade  957479875  8  5 f   -     -     -         1042    0    0 
+renagade  957479904  9  4 f   -     -     -         1042    0    0 
+renagade  957479996  9  3 rc  bc    kc    k         1042   70    0 9h 9d
+renagade  957480058  9  2 Bc  kc    kf    -          972   30    0 
+renagade  957480107 10  1 Bf  -     -     -          942    5    0 
+renagade  957480188  9  9 r   -     -     -          937   20   35 
+renagade  957480210  9  8 f   -     -     -          952    0    0 
+renagade  957480264 10  8 c   k     r     b          952   70  150 Ah Jc
+renagade  957480318  9  6 f   -     -     -         1032    0    0 
+renagade  957480370  9  5 f   -     -     -         1032    0    0 
+renagade  957480416  9  4 ccc kc    kf    -         1032   50    0 
+renagade  957480488 10  3 f   -     -     -          982    0    0 
+renagade  957480524  9  2 Bk  kf    -     -          982   10    0 
+renagade  957480558  9  1 Bf  -     -     -          972    5    0 
+renagade  957480588  9  9 c   c     cc    k          967  110    0 Qh Ac
+renagade  957480658  9  8 r   rc    f     -          857   70    0 
+renagade  957480771 10  7 cc  k     k     f          787   20    0 
+renagade  957480843 10  6 f   -     -     -          767    0    0 
+renagade  957480870  9  4 f   -     -     -          767    0    0 
+renagade  957480901  9  3 f   -     -     -          767    0    0 
+renagade  957480942  9  2 Bc  k     kf    -          767   20    0 
+renagade  957480986  9  1 Bc  kf    -     -          747   10    0 
+renagade  957481040 10 10 c   c     c     f          737   80    0 
+renagade  957481099 10  9 f   -     -     -          657    0    0 
+renagade  957481142  9  7 c   rr    c     c          657   90  200 Jc Ah
+renagade  957481212  9  7 crc kr    b     b          767  100  325 8c 8h
+renagade  957481281  9  6 rc  cc    kc    -          992   90  335 9s Qs
+renagade  957481353  9  5 rc  b     c     f         1237   70    0 
+renagade  957481486 10  4 f   -     -     -         1167    0    0 
+renagade  957481524 10  3 f   -     -     -         1167    0    0 
+renagade  957481570 10  2 Bf  -     -     -         1167   10    0 
+renagade  957481617 10  1 Bc  bc    kc    kf        1157   50    0 
+renagade  957481681  9  9 c   r     b     b         1107   70  150 
+renagade  957481733  9  8 c   f     -     -         1187   20    0 
+renagade  957481760  9  7 f   -     -     -         1167    0    0 
+renagade  957481789  9  6 f   -     -     -         1167    0    0 
+renagade  957481819 10  6 f   -     -     -         1167    0    0 
+renagade  957481885 10  5 f   -     -     -         1167    0    0 
+renagade  957481933 10  4 f   -     -     -         1167    0    0 
+renagade  957481998 10  3 fQ  -     -     -         1167    0    0 
+renagade  957543874  2  1 Bc  k     k     k         1167   10   20 Js 2c
+renagade  957543890  2  2 B   -     -     -         1177   10   15 
+renagade  957543895  2  1 Bcf -     -     -         1182   10    0 
+renagade  957543903  2  2 Bk  f     -     -         1172   10    0 
+renagade  957543911  2  1 Bc  k     k     b         1162   30   40 
+renagade  957543930  3  3 c   r     k     r         1172   70    0 8h 6c
+renagade  957543964  4  3 c   kf    -     -         1102   10    0 
+renagade  957543989  4  2 Bf  -     -     -         1092   10    0 
+renagade  957544005  3  1 Bcc k     k     k         1082   20    0 8s 5d
+renagade  957544030  3  3 f   -     -     -         1062    0    0 
+renagade  957544044  3  2 Bf  -     -     -         1062   10    0 
+renagade  957544059  3  1 Bc  b     b     k         1052   40    0 Ks 5h
+renagade  957544083  3  3 c   c     c     k         1012   40    0 5s Qd
+renagade  957544112  3  2 Bk  kf    -     -          972   10    0 
+renagade  957544127  3  1 Bc  kf    -     -          962   10    0 
+renagade  957544139  3  3 f   -     -     -          952    0    0 
+renagade  957544143  3  2 Bk  k     k     f          952   10    0 
+renagade  957544161  3  1 Bc  k     b     b          942   50  110 6c Td
+renagade  957544178  3  3 r   b     -     -         1002   30   55 
+renagade  957544190  4  2 Bf  -     -     -         1027   10    0 
+renagade  957544221  5  1 Bf  -     -     -         1017    5    0 
+renagade  957544237  5  5 c   r     b     b         1012   70  180 5d 5s
+renagade  957544284  6  5 f   -     -     -         1122    0    0 
+renagade  957544296  6  4 c   k     b     brc       1122  120    0 Kd Ts
+renagade  957544328  6  3 f   -     -     -         1002    0    0 
+renagade  957544352  6  2 B   -     -     -         1002   10   15 
+renagade  957544360  6  1 Bf  -     -     -         1007    5    0 
+renagade  957544386  6  6 f   -     -     -         1002    0    0 
+renagade  957544414  6  5 f   -     -     -         1002    0    0 
+renagade  957544448  6  4 cc  f     -     -         1002   20    0 
+renagade  957544492  7  4 f   -     -     -          982    0    0 
+renagade  957544511  7  3 f   -     -     -          982    0    0 
+renagade  957544523  7  2 Bc  kf    -     -          982   20    0 
+renagade  957544564  6  1 Bf  -     -     -          962    5    0 
+renagade  957544592  6  6 r   b     r     b          957   90  210 Qc 6h
+renagade  957544647  7  5 c   f     -     -         1077   20    0 
+renagade  957544673  7  4 c   k     kf    -         1057   10    0 
+renagade  957544716  7  3 f   -     -     -         1047    0    0 
+renagade  957544762  6  2 Bk  k     b     b         1047   50  120 3h Tc
+renagade  957544796  6  1 Bc  k     k     kf        1117   10    0 
+renagade  957544857  6  6 c   k     k     b         1107   30   55 
+renagade  957544912  9  8 f   -     -     -         1132    0    0 
+renagade  957544950  9  7 c   f     -     -         1132   10    0 
+renagade  957544989  9  3 Q   -     -     -         1122    0    0 
+renagade  957556086  8  7 f   -     -     -         1122    0    0 
+renagade  957556124  9  6 c   f     -     -         1122   10    0 
+renagade  957556170  8  5 f   -     -     -         1112    0    0 
+renagade  957556223  8  4 f   -     -     -         1112    0    0 
+renagade  957556268  8  3 r   b     b     b         1112   70    0 Qd Qs
+renagade  957556312  9  2 Bk  kc    kf    -         1042   20    0 
+renagade  957556388  9  1 Bc  br    b     b         1022   80  350 9d 8c
+renagade  957556450  9  9 rc  c     c     f         1292   70    0 
+renagade  957556540  8  7 f   -     -     -         1222    0    0 
+renagade  957556606  8  6 c   k     f     -         1222   10    0 
+renagade  957556664  8  5 f   -     -     -         1212    0    0 
+renagade  957556719  9  4 r   kf    -     -         1212   20    0 
+renagade  957556805  8  3 c   b     bc    r         1192  100    0 3h 6h
+renagade  957556943  6  2 Bk  c     b     k         1092   40  140 5s 9h
+renagade  957556988  6  1 Bc  b     kf    -         1192   20    0 
+renagade  957557042  7  6 fQ  -     -     -         1172    0    0 
+renagade  957689783 10  2 Bk  kc    kf    -         1522   20    0 
+renagade  957689848  8  1 Bf  -     -     -         1502    5    0 
+renagade  957689913  9  8 f   -     -     -         1497    0    0 
+renagade  957689958  9  7 f   -     -     -         1497    0    0 
+renagade  957690019 10  6 f   -     -     -         1497    0    0 
+renagade  957690082 10  5 cc  kf    -     -         1497   20    0 
+renagade  957690200  9  3 cc  k     kf    -         1477   20    0 
+renagade  957690273 10  2 Bc  kf    -     -         1457   20    0 
+renagade  957690352  8  1 Bf  -     -     -         1437    5    0 
+renagade  957690392  8  8 r   r     c     f         1432   60    0 
+renagade  957690464  9  8 f   -     -     -         1372    0    0 
+renagade  957690505  8  6 c   b     b     b         1372   60  170 Qc As
+renagade  957690556  9  6 r   k     b     -         1482   40   75 
+renagade  957690589  9  5 c   k     k     b         1517   30   75 
+renagade  957690636  9  4 c   kr    br    b         1562  110  245 
+renagade  957690688  9  3 c   k     kf    -         1697   10    0 
+renagade  957690747  9  2 Bf  -     -     -         1687   10    0 
+renagade  957690785  9  1 Bc  kc    kf    -         1677   20    0 
+renagade  957690850  9  9 c   c     c     f         1657   40    0 
+renagade  957690892 10  9 cc  c     c     c         1617   70    0 9d Qc
+renagade  957690946 10  8 f   -     -     -         1547    0    0 
+renagade  957690979 10  7 r   b     b     b         1547   70  250 Qs Qd
+renagade  957691040 10  6 f   -     -     -         1727    0    0 
+renagade  957691095 10  5 f   -     -     -         1727    0    0 
+renagade  957691137 10  4 f   -     -     -         1727    0    0 
+renagade  957691200  9  3 fQ  -     -     -         1727    0    0 
+renagade  957725444  8  5 f   -     -     -         1727    0    0 
+renagade  957725480  8  4 f   -     -     -         1727    0    0 
+renagade  957725516  9  3 f   -     -     -         1727    0    0 
+renagade  957725547  8  2 Bc  k     f     -         1727   20    0 
+renagade  957725591  9  1 Br  b     b     -         1707   50  150 
+renagade  957725655  9  9 c   f     -     -         1807   10    0 
+renagade  957725703  6  6 f   Q     -     -         1797    0    0 
+renagade  957765853  5  3 f   -     -     -         1797    0    0 
+renagade  957765871  5  3 cc  k     b     k         1797   40    0 Kc Qs
+renagade  957765907  7  2 Bf  -     -     -         1757   10    0 
+renagade  957765952  7  1 Bc  b     b     bc        1747   80  190 8d Qc
+renagade  957765988  7  7 f   -     -     -         1857    0    0 
+renagade  957766040  8  7 cc  f     -     -         1857   20    0 
+renagade  957766097  8  6 c   r     b     b         1837   80  280 
+renagade  957766153  8  5 cc  cc    k     k         2037   40    0 9c Qc
+renagade  957766197  8  4 f   -     -     -         1997    0    0 
+renagade  957766271  8  3 c   brc   br    b         1997  130  395 Qd Js
+renagade  957766341  8  2 Bf  -     -     -         2262   10    0 
+renagade  957766387  8  1 Bf  -     -     -         2252    5    0 
+renagade  957766480  7  7 cc  rr    b     b         2247  120  405 
+renagade  957766557  8  7 f   -     -     -         2532    0    0 
+renagade  957766596  7  6 f   -     -     -         2532    0    0 
+renagade  957766626  7  5 r   b     k     f         2532   30    0 
+renagade  957766668  7  4 f   -     -     -         2502    0    0 
+renagade  957766702  7  3 f   -     -     -         2502    0    0 
+renagade  957766736  7  2 Bf  -     -     -         2502   10    0 
+renagade  957766760  7  1 Bf  -     -     -         2492    5    0 
+renagade  957766806  7  7 f   -     -     -         2487    0    0 
+renagade  957766841  7  6 f   -     -     -         2487    0    0 
+renagade  957766882  8  6 cc  rc    b     k         2487   70  110 Ad Js
+renagade  957766934  7  5 f   -     -     -         2527    0    0 
+renagade  957766964  7  4 f   -     -     -         2527    0    0 
+renagade  957767016  6  3 r   brc   rc    r         2527  160    0 Qs Qd
+renagade  957767063  7  2 Bf  -     -     -         2367   10    0 
+renagade  957767114  7  1 BrKQ -     -     -         2357   30    0 
+renagade  957767559  8  6 KQ  -     -     -         2327    0    0 
+renagade  957889891  7  6 c   b     b     b         2762   60    0 9c 8d
+renagade  957889937  7  5 c   kc    b     b         2702   60    0 8c Ad
+renagade  957889980  7  4 c   cf    -     -         2642   40    0 
+renagade  957890028  7  3 f   -     -     -         2602    0    0 
+renagade  957890078  7  2 Bk  kc    b     c         2602   60    0 8h 9c
+renagade  957890127  7  1 Bc  kc    k     kf        2542   20    0 
+renagade  957890182  8  8 cc  cc    cc    f         2522  140    0 
+renagade  957890247  9  8 f   -     -     -         2382    0    0 
+renagade  957890350  8  6 f   -     -     -         2382    0    0 
+renagade  957890457  8  5 fQ  -     -     -         2382    0    0 
+renagade  958102908  3  1 Bc  k     k     b         3207   30   50 
+renagade  958102933  3  3 cf  -     -     -         3227   10    0 
+renagade  958102951  3  2 B   -     -     -         3217   10   15 
+renagade  958102953  3  1 Bcc k     b     b         3222   60  120 
+renagade  958102978  4  4 f   -     -     -         3282    0    0 
+renagade  958103006  4  3 f   -     -     -         3282    0    0 
+renagade  958103028  4  2 Bk  k     k     b         3282   30   40 
+renagade  958103056  4  1 Br  b     kc    kf        3292   50    0 
+renagade  958103097  5  5 f   -     -     -         3242    0    0 
+renagade  958103119  5  4 f   -     -     -         3242    0    0 
+renagade  958103142  5  3 f   -     -     -         3242    0    0 
+renagade  958103165  5  2 Bf  -     -     -         3242   10    0 
+renagade  958103170  5  1 Bc  k     k     k         3232   10    0 6h 2d
+renagade  958103195  6  6 r   f     -     -         3222   20    0 
+renagade  958103222  7  6 f   -     -     -         3202    0    0 
+renagade  958103254  7  5 cc  cf    -     -         3202   30    0 
+renagade  958103303  7  4 c   k     cf    -         3172   30    0 
+renagade  958103398  7  3 fQ  -     -     -         3142    0    0 
+renagade  958123088  8  8 f   -     -     -         3142    0    0 
+renagade  958123137  8  7 c   c     f     -         3142   20    0 
+renagade  958123180  7  5 f   -     -     -         3122    0    0 
+renagade  958123203  7  4 rc  c     rc    rr        3122  200  540 
+renagade  958123287  7  3 c   b     b     -         3462   40   90 
+renagade  958123358  7  2 Bf  -     -     -         3512   10    0 
+renagade  958123377  7  1 Bc  bc    kf    -         3502   50    0 
+renagade  958123413  7  7 f   -     -     -         3452    0    0 
+renagade  958123457  8  7 f   -     -     -         3452    0    0 
+renagade  958123499  8  6 c   k     k     b         3452   30    0 Qd 4d
+renagade  958123549  9  6 f   -     -     -         3422    0    0 
+renagade  958123577  9  5 c   kc    kf    -         3422   20    0 
+renagade  958123643  9  4 rcc rr    c     b         3402  120    0 Td 9d
+renagade  958123746  9  3 f   -     -     -         3282    0    0 
+renagade  958123827  9  2 Bcf -     -     -         3282   30    0 
+renagade  958123940  8  1 Bf  -     -     -         3252    5    0 
+renagade  958123956  8  8 r   b     r     rc        3247  130    0 Qs Kh
+renagade  958124046  8  7 f   -     -     -         3117    0    0 
+renagade  958124084  7  6 c   c     r     -         3117   70  165 
+renagade  958124137  7  5 f   -     -     -         3212    0    0 
+renagade  958124173  7  4 cc  kc    rr    rr        3212  210  345 Qc Kc
+renagade  958124300  8  3 f   -     -     Q         3347    0    0 
+renagade  958184728 10  5 f   -     -     -         3347    0    0 
+renagade  958184818  8  2 f   -     -     -         3347    0    0 
+renagade  958184886  9  2 Bk  kr    br    b         3347  110  255 Ac 9h
+renagade  958184939  7  1 Bc  b     krr   brc       3492  180  370 Qs Ah
+renagade  958184991  8  8 c   c     b     b         3682   60  170 Ac 5h
+renagade  958185080  8  7 c   f     -     -         3792   10    0 
+renagade  958185158  8  7 f   -     -     -         3782    0    0 
+renagade  958185215  9  6 cc  f     -     -         3782   20    0 
+renagade  958185289  9  5 f   -     -     -         3762    0    0 
+renagade  958185390  9  4 f   -     -     -         3762    0    0 
+renagade  958185458  8  3 fQ  -     -     -         3762    0    0 
+renagade  958349353  4  3 c   k     k     k         3762   10    0 7s Qs
+renagade  958349414  3  1 Brr brc   kr    br        3752  180    0 7h 7d
+renagade  958349461  3  1 Bc  k     k     k         3572   10    0 Jh 3c
+renagade  958349524  3  3 f   -     -     -         3562    0    0 
+renagade  958349558  4  3 f   -     -     -         3562    0    0 
+renagade  958349573  4  2 Bc  bc    kc    bc        3562  100    0 Tc 9h
+renagade  958349604  5  1 Bc  bc    kc    kf        3462   50    0 
+renagade  958349667  5  5 f   -     -     -         3412    0    0 
+renagade  958349718  5  4 f   -     -     -         3412    0    0 
+renagade  958349751  4  3 f   -     -     -         3412    0    0 
+renagade  958349756  3  2 Br  b     b     b         3412   70  140 8s 8d
+renagade  958349787  3  1 Bc  k     b     b         3482   50  100 7s Jh
+renagade  958349811  3  3 c   k     k     k         3532   10    0 8h 3c
+renagade  958349839  3  2 Br  b     -     -         3522   30   50 
+renagade  958349860  3  1 Bc  b     b     b         3542   60  120 3s Qd
+renagade  958349879  3  3 c   b     b     b         3602   60  105 
+renagade  958349903  3  2 Bk  f     -     -         3647   10    0 
+renagade  958349919  3  1 Bc  k     k     k         3637   10    0 3h 7h
+renagade  958349937  3  3 f   -     -     -         3627    0    0 
+renagade  958349945  3  2 Bk  kf    -     -         3627   10    0 
+renagade  958349960  3  1 Br  b     b     b         3617   70  160 Ks Ah
+renagade  958349982  3  3 c   k     b     k         3707   30    0 Jh 4h
+renagade  958350004  3  2 Bk  kf    -     -         3677   10    0 
+renagade  958350026  3  1 Bc  k     k     b         3667   30   40 
+renagade  958350046  4  4 f   -     -     -         3677    0    0 
+renagade  958350063  4  3 f   -     -     -         3677    0    0 
+renagade  958350095  4  2 Bk  k     k     k         3677   10    0 Qc 6d
+renagade  958350119  4  1 Bf  -     -     -         3667    5    0 
+renagade  958350153  4  4 f   -     -     -         3662    0    0 
+renagade  958350175  4  3 r   b     -     -         3662   30   65 
+renagade  958350191  4  2 Bk  c     f     -         3697   20    0 
+renagade  958350212  4  1 Bc  kf    -     -         3677   10    0 
+renagade  958350234  4  4 c   k     k     k         3667   10    0 7d 2d
+renagade  958350260  4  3 c   b     -     -         3657   20   35 
+renagade  958350285  4  2 Bk  k     k     k         3672   10   20 8s 3d
+renagade  958350313  4  1 Bc  b     b     b         3682   60    0 Kc 6d
+renagade  958350336  4  4 c   c     f     -         3622   20    0 
+renagade  958350365  4  3 r   b     b     -         3602   50   85 
+renagade  958350386  5  2 Bf  -     -     -         3637   10    0 
+renagade  958350415  5  1 Bf  -     -     -         3627    5    0 
+renagade  958350434  5  5 f   -     -     -         3622    0    0 
+renagade  958350464  5  4 f   -     -     -         3622    0    0 
+renagade  958350500  5  3 c   k     k     f         3622   10    0 
+renagade  958350534  5  2 Bf  -     -     -         3612   10    0 
+renagade  958350543  5  1 Bf  -     -     -         3602    5    0 
+renagade  958350576  5  5 rc  cc    cc    f         3597  160    0 
+renagade  958350643  5  4 rr  c     c     rc        3437  150    0 Ad Qc
+renagade  958350702  6  3 cc  c     f     -         3287   30    0 
+renagade  958350733  6  2 Bc  kf    -     -         3257   20    0 
+renagade  958350760  6  1 Bf  -     -     -         3237    5    0 
+renagade  958350784  6  4 Q   -     -     -         3232    0    0 
+renagade  958413668  7  2 Bk  kc    k     brc       3232  100  260 Qs 6d
+renagade  958413718  8  1 Bc  kc    br    b         3392  110    0 Kd Jc
+renagade  958413769  8  8 f   -     -     -         3282    0    0 
+renagade  958413804  8  7 f   -     -     -         3282    0    0 
+renagade  958413864  8  6 f   -     -     -         3282    0    0 
+renagade  958413922  8  5 cc  c     cc    bc        3282  110    0 Jh 8c
+renagade  958414018  8  4 r   b     b     b         3172   70  180 5s Qd
+renagade  958414054  8  3 fQ  -     -     -         3282    0    0 
+renagade  958724235  9  6 f   -     -     -         2927    0    0 
+renagade  958724286  9  5 c   c     kf    -         2927   30    0 
+renagade  958724377  8  4 c   b     b     b         2897   60    0 Ac Jd
+renagade  958724410  8  3 c   kf    -     -         2837   10    0 
+renagade  958724443  8  2 Bf  -     -     -         2827   10    0 
+renagade  958724485  8  1 Bf  -     -     -         2817    5    0 
+renagade  958724537  8  8 f   Q     -     -         2812    0    0 
+renagade  958813507  7  5 f   -     -     -         2812    0    0 
+renagade  958813568  7  4 c   f     -     -         2812   10    0 
+renagade  958813624  7  3 f   -     -     -         2802    0    0 
+renagade  958813660  8  2 Bc  b     b     b         2802   70   73 8h 7c
+renagade  958813703  8  1 Bf  -     -     -         2805    5    0 
+renagade  958813766  9  9 f   -     -     -         2800    0    0 
+renagade  958813810  9  8 c   f     -     -         2800   10    0 
+renagade  958813856  8  7 rc  rc    c     r         2790  140  245 Ks Qs
+renagade  958813926  9  6 f   -     -     -         2895    0    0 
+renagade  958814017 10  6 f   -     -     -         2895    0    0 
+renagade  958814106 10  5 cc  rc    rr    b         2895  180  820 
+renagade  958814221 10  4 cf  -     -     -         3535   20    0 
+renagade  958814279  9  3 c   k     k     f         3515   10    0 
+renagade  958814338  9  2 Bk  kc    kfQ   -         3505   20    0 
+renagade  958890620  8  2 Bk  k     f     -         3265   10    0 
+renagade  958890658  9  1 Bf  -     -     -         3255    5    0 
+renagade  958890709  8  8 c   c     k     f         3250   20    0 
+renagade  958890826  8  7 f   -     -     -         3230    0    0 
+renagade  958890898  9  7 c   b     bc    f         3230   60    0 
+renagade  958890978  9  6 r   b     b     r         3170   90    0 9h 6h
+renagade  958891051  9  5 f   -     -     -         3080    0    0 
+renagade  958891138 10  4 f   -     -     -         3080    0    0 
+renagade  958891172 10  3 ccc ccc   f     -         3080   80    0 
+renagade  958891260 10  2 Bk  k     b     b         3000   50    0 7s Js
+renagade  958891330 10  1 Bf  -     -     -         2950    5    0 
+renagade  958891415 10 10 f   -     -     -         2945    0    0 
+renagade  958891466 10  9 cc  f     -     -         2945   20    0 
+renagade  958891504 10  8 c   kc    cc    f         2925   90    0 
+renagade  958891575 10  5 Q   -     -     -         2835    0    0 
+renagade  959245309  6  6 f   -     -     -         2055    0    0 
+renagade  959245360  6  5 cc  c     f     -         2055   30    0 
+renagade  959245427  6  4 f   -     -     -         2025    0    0 
+renagade  959245467  6  3 f   -     -     -         2025    0    0 
+renagade  959245511  6  2 Bf  -     -     -         2025   10    0 
+renagade  959245573  6  1 Bf  -     -     -         2015    5    0 
+renagade  959245630  5  5 f   -     -     -         2010    0    0 
+renagade  959245667  4  3 fQ  -     -     -         2010    0    0 
+renagade  959259069  4  3 f   -     -     -         2010    0    0 
+renagade  959259102  4  2 Bk  b     -     -         2010   20   50 
+renagade  959259127  4  1 Bc  kc    kc    kf        2040   60    0 
+renagade  959259164  4  4 f   -     -     -         1980    0    0 
+renagade  959259180  4  3 cc  f     -     -         1980   20    0 
+renagade  959259197  4  2 Bk  k     kf    -         1960   10    0 
+renagade  959259215  4  1 Br  b     b     b         1950   70    0 Qd Kd
+renagade  959259243  4  4 cc  f     -     -         1880   20    0 
+renagade  959259261  4  3 f   -     -     -         1860    0    0 
+renagade  959259277  4  2 Bc  k     kc    k         1860   40    0 Js Qd
+renagade  959259304  4  1 Bc  kr    b     kc        1820   80    0 8d 8s
+renagade  959259341  5  5 r   b     b     -         1740   50  110 
+renagade  959259383  5  4 f   -     -     -         1800    0    0 
+renagade  959259408  5  3 c   b     -     -         1800   20   40 
+renagade  959259452  5  2 B   -     -     -         1820   10   15 
+renagade  959259460  6  1 Bf  -     -     -         1825    5    0 
+renagade  959259505  6  6 c   k     f     -         1820   10    0 
+renagade  959259555  5  4 c   b     -     -         1810   20   30 
+renagade  959259570  5  4 f   -     -     -         1820    0    0 
+renagade  959259591  5  3 c   r     b     k         1820   50    0 5d Ad
+renagade  959259626  6  2 Bf  -     -     -         1770   10    0 
+renagade  959259649  6  1 Bf  -     -     -         1760    5    0 
+renagade  959259707  6  6 cc  f     -     -         1755   20    0 
+renagade  959259745  6  5 cc  c     f     -         1735   30    0 
+renagade  959259817  6  4 f   -     -     -         1705    0    0 
+renagade  959259864  5  3 c   k     kf    -         1705   10    0 
+renagade  959259895  5  2 B   -     -     -         1695   10   15 
+renagade  959259916  5  1 Bc  b     b     b         1700   60    0 8d 9c
+renagade  959259957  4  4 f   -     -     -         1640    0    0 
+renagade  959259984  4  3 cc  f     -     -         1640   20    0 
+renagade  959260007  4  2 B   -     -     -         1620   10   15 
+renagade  959260015  4  1 Bc  kc    kf    -         1625   30    0 
+renagade  959260053  4  4 f   -     -     -         1595    0    0 
+renagade  959260059  4  3 f   -     -     -         1595    0    0 
+renagade  959260076  4  2 Bk  kc    kf    -         1595   20    0 
+renagade  959260108  4  1 Bf  -     -     -         1575    5    0 
+renagade  959260129  5  5 r   r     r     rc        1570  140    0 5d 5c
+renagade  959260188  5  4 c   b     b     -         1430   40   90 
+renagade  959260224  5  3 f   -     -     -         1480    0    0 
+renagade  959260232  5  2 Bk  kc    kc    k         1480   40    0 Qh 4c
+renagade  959260290  6  1 Bf  -     -     -         1440    5    0 
+renagade  959260312  6  6 c   brc   c     c         1435   90  100 Jh 8d
+renagade  959260399  6  5 f   -     -     -         1445    0    0 
+renagade  959260428  7  5 f   -     -     -         1445    0    0 
+renagade  959260498  7  4 f   -     -     -         1445    0    0 
+renagade  959260575  7  3 f   -     -     -         1445    0    0 
+renagade  959260593  7  2 Bc  kc    k     b         1445   50  135 
+renagade  959260634  7  1 Bc  kf    -     -         1530   20    0 
+renagade  959260660  7  7 f   -     -     -         1510    0    0 
+renagade  959260705  8  7 f   -     -     -         1510    0    0 
+renagade  959260743  7  5 cc  c     f     -         1510   30    0 
+renagade  959260784  6  4 f   -     -     -         1480    0    0 
+renagade  959260803  6  3 f   -     -     -         1480    0    0 
+renagade  959260840  6  2 Bf  -     -     -         1480   10    0 
+renagade  959260865  6  1 Bf  -     -     -         1470    5    0 
+renagade  959260901  7  7 f   -     -     -         1465    0    0 
+renagade  959260982  8  7 f   -     -     -         1465    0    0 
+renagade  959261019  8  6 f   -     -     -         1465    0    0 
+renagade  959261045  8  5 f   -     -     -         1465    0    0 
+renagade  959261061  8  4 c   c     k     k         1465   20   32 Ad 4h
+renagade  959261123  8  3 rr  kr    b     -         1477   80  155 
+renagade  959261155  9  2 Bc  kc    kc    kf        1552   50    0 
+renagade  959261199  8  1 Bc  kf    -     -         1502   10    0 
+renagade  959261222  9  9 c   k     k     k         1492   10    0 9s Ac
+renagade  959261269  9  8 f   -     -     -         1482    0    0 
+renagade  959261303 10  8 f   -     -     -         1482    0    0 
+renagade  959261368 10  7 f   -     -     -         1482    0    0 
+renagade  959261416 10  6 f   -     -     -         1482    0    0 
+renagade  959261471 10  5 f   -     -     -         1482    0    0 
+renagade  959261501 10  4 f   -     -     -         1482    0    0 
+renagade  959261555 10  3 f   -     -     -         1482    0    0 
+renagade  959261585 10  2 Bk  cc    f     -         1482   30    0 
+renagade  959261653 10  1 Bf  -     -     -         1452    5    0 
+renagade  959261693 10 10 c   c     f     -         1447   30    0 
+renagade  959261748  9  8 c   r     rr    c         1417  130    0 5h 8h
+renagade  959261813  9  7 c   f     -     -         1287   20    0 
+renagade  959261878  9  6 f   -     -     -         1267    0    0 
+renagade  959261935 10  6 c   kc    k     b         1267   40   85 
+renagade  959261996 10  5 c   b     b     b         1312   60    0 Qd Jd
+renagade  959262061 10  4 rc  c     f     -         1252   40    0 
+renagade  959262109 10  3 f   -     -     -         1212    0    0 
+renagade  959262171 10  2 Bk  k     kf    -         1212   10    0 
+renagade  959262214 10  1 Bc  k     b     -         1202   30   60 
+renagade  959262249 10 10 f   -     -     -         1232    0    0 
+renagade  959262283 10  9 f   -     -     -         1232    0    0 
+renagade  959262307 10  8 f   -     -     -         1232    0    0 
+renagade  959262336 10  7 f   -     -     -         1232    0    0 
+renagade  959262374 10  6 f   -     -     -         1232    0    0 
+renagade  959262403 10  5 f   -     -     -         1232    0    0 
+renagade  959262434 10  4 f   -     -     -         1232    0    0 
+renagade  959262470 10  3 c   k     kc    k         1232   30    0 As 8s
+renagade  959262512 10  2 Bk  kf    -     -         1202   10    0 
+renagade  959262549 10  1 Br  b     b     -         1192   50  110 
+renagade  959262575 10 10 f   -     -     -         1252    0    0 
+renagade  959262621 10  9 c   c     f     -         1252   20    0 
+renagade  959262707 10  8 c   cc    f     -         1232   40    0 
+renagade  959262746 10  7 f   -     -     -         1192    0    0 
+renagade  959262807 10  6 r   b     b     b         1192   70  125 
+renagade  959262853 10  5 cc  r     b     bc        1247  100    0 As 5h
+renagade  959262941 10  4 f   -     -     -         1147    0    0 
+renagade  959263007 10  3 r   c     r     b         1147   90  260 Qd Ad
+renagade  959263081 10  2 Bf  -     -     -         1317   10    0 
+renagade  959263117 10  1 Bf  -     -     -         1307    5    0 
+renagade  959263172 10 10 r   -     -     -         1302   20   35 
+renagade  959263198 10  9 c   k     b     b         1317   50  105 
+renagade  959263287  9  7 f   -     -     -         1372    0    0 
+renagade  959263330  9  7 f   -     -     -         1372    0    0 
+renagade  959263369  8  5 f   -     -     -         1372    0    0 
+renagade  959263395  8  4 c   f     -     -         1372   10    0 
+renagade  959263442  8  3 cc  kf    -     -         1362   20    0 
+renagade  959263474  8  2 Bc  kc    brc   -         1342   97  199 4d Ad
+renagade  959263509  8  1 Bc  kf    -     -         1444   10    0 
+renagade  959263545  8  8 r   r     c     c         1434   80    0 Jd Jc
+renagade  959263599  8  7 c   k     k     b         1354   30   45 
+renagade  959263641  6  4 c   kc    kf    -         1369   20    0 
+renagade  959263665  6  3 f   -     -     -         1349    0    0 
+renagade  959263701  5  2 Bk  kf    -     -         1349   10    0 
+renagade  959263744  5  1 Br  b     b     b         1339   70    0 Qd 9d
+renagade  959263780  5  5 f   -     -     -         1269    0    0 
+renagade  959263801  6  5 f   -     -     -         1269    0    0 
+renagade  959263828  6  4 c   k     k     k         1269   10   25 5h Td
+renagade  959263848  6  3 c   c     f     -         1284   20    0 
+renagade  959263883  6  2 Bk  k     k     k         1264   10    0 Jh 7c
+renagade  959263906  6  1 Bc  kc    kf    -         1254   30    0 
+renagade  959263938  6  6 c   k     k     b         1224   30   65 Kh 2h
+renagade  959264001  6  5 c   b     k     b         1259   40   75 
+renagade  959264035  6  4 c   k     f     -         1294   10    0 
+renagade  959264049  6  3 c   k     c     f         1284   30    0 
+renagade  959264090  6  2 Bk  c     f     -         1254   20    0 
+renagade  959264117  6  1 Bf  -     -     -         1234    5    0 
+renagade  959264141  7  7 c   k     r     b         1229   80  215 9c 9d
+renagade  959264178  7  6 f   -     -     -         1364    0    0 
+renagade  959264184  7  5 c   b     -     -         1364   20   45 
+renagade  959264218  8  4 c   k     kf    -         1389   10    0 
+renagade  959264260  9  3 f   -     -     -         1379    0    0 
+renagade  959264281  9  2 Bc  c     f     -         1379   30    0 
+renagade  959264322  9  1 Bc  k     bc    k         1349   50    0 5s 5d
+renagade  959264373  9  9 f   -     -     -         1299    0    0 
+renagade  959264428  9  8 f   -     -     -         1299    0    0 
+renagade  959264459 10  8 c   k     k     f         1299   10    0 
+renagade  959264541 10  7 f   -     -     -         1289    0    0 
+renagade  959264596 10  6 f   -     -     -         1289    0    0 
+renagade  959264656 10  5 cc  c     b     b         1289   70   80 Qd Ac
+renagade  959264780  8  3 cc  f     -     Q         1299   20    0 
+renagade  959388047  3  1 Bk  k     k     brc       1159   90    0 Tc 6s
+renagade  959388093  3  1 Bc  k     b     -         1069   30   40 
+renagade  959388114  3  3 r   b     b     b         1079   70  140 
+renagade  959388149  2  2 B   -     -     -         1149   10   15 
+renagade  959388152  2  1 Bc  kf    -     -         1154   10    0 
+renagade  959388165  2  2 Bk  k     c     k         1144   30    0 4c Th
+renagade  959388183  2  1 Br  -     -     -         1114   20   30 
+renagade  959388190  2  2 Bc  f     -     -         1124   20    0 
+renagade  959388200  2  1 Bc  k     kf    -         1104   10    0 
+renagade  959388213  2  2 B   -     -     -         1094   10   15 
+renagade  959388215  2  1 Bc  k     b     -         1099   30   40 
+renagade  959388226  2  2 B   -     -     -         1109   10   15 
+renagade  959388229  2  1 Bc  k     b     bf        1114   50    0 
+renagade  959388247  2  2 B   -     -     -         1064   10   15 
+renagade  959388250  2  1 Bf  -     -     -         1069    5    0 
+renagade  959388254  2  2 Bk  k     k     k         1064   10   20 9c 8d
+renagade  959388269  2  1 Br  -     -     -         1074   20   30 
+renagade  959388274  2  2 Bc  k     k     k         1084   20    0 6d 9s
+renagade  959388292  2  1 Bcc kf    -     -         1064   20    0 
+renagade  959388308  2  2 Bk  c     k     k         1044   20   40 3h Kd
+renagade  959388324  2  1 Br  -     -     -         1064   20   30 
+renagade  959388330  2  2 B   -     -     -         1074   10   15 
+renagade  959388333  3  1 Bf  -     -     -         1079    5    0 
+renagade  959388342  3  3 c   c     f     -         1074   20    0 
+renagade  959388361  3  2 Bf  -     -     -         1054   10    0 
+renagade  959388381  3  1 Bc  k     k     kc        1044   30    0 9c Ad
+renagade  959388407  3  3 f   -     -     -         1014    0    0 
+renagade  959388443  3  2 Bk  c     k     k         1014   20    0 Tc Qh
+renagade  959388465  3  1 Br  b     -     -          994   40   80 
+renagade  959388478  3  3 f   -     -     -         1034    0    0 
+renagade  959388488  3  2 Bf  -     -     -         1034   10    0 
+renagade  959388495  3  1 Bf  -     -     -         1024    5    0 
+renagade  959388515  3  3 c   r     b     -         1019   50   85 
+renagade  959388536  3  2 B   -     -     -         1054   10   15 
+renagade  959388539  3  1 Bc  b     -     -         1059   20   40 
+renagade  959388549  3  3 f   -     -     -         1079    0    0 
+renagade  959388578  4  2 Bf  -     -     -         1079   10    0 
+renagade  959388607  4  1 Bf  -     -     -         1069    5    0 
+renagade  959388636  3  3 c   b     k     k         1064   20    0 Kc 4h
+renagade  959388671  3  2 Bk  k     b     -         1044   30   50 
+renagade  959388695  3  1 Bc  k     bf    -         1064   30    0 
+renagade  959388718  3  3 c   r     b     b         1034   70  170 7d Td
+renagade  959388752  3  2 Bf  -     -     -         1134   10    0 
+renagade  959388764  3  1 Bc  k     b     b         1124   50    0 Ac Th
+renagade  959388785  3  3 cc  k     f     -         1074   20    0 
+renagade  959388826  3  2 Br  b     b     b         1054   70  125 
+renagade  959388849  3  1 Bf  -     -     -         1109    5    0 
+renagade  959388874  3  3 c   k     b     c         1104   50    0 Kd 8d
+renagade  959388914  3  2 Bk  kc    kf    -         1054   20    0 
+renagade  959388937  3  1 Br  brc   kc    kc        1034  100    0 Ks Kd
+renagade  959388971  3  3 r   b     -     -          934   30   60 
+renagade  959388990  3  2 B   -     -     -          964   10   15 
+renagade  959388993  2  1 Bf  -     -     -          969    5    0 
+renagade  959388997  2  2 B   -     -     -          964   10   15 
+renagade  959389000  2  1 Br  b     -     -          969   30   50 
+renagade  959389013  2  2 B   -     -     -          989   10   15 
+renagade  959389015  2  1 Br  -     -     -          994   20   30 
+renagade  959389021  2  2 Bk  k     f     -         1004   10    0 
+renagade  959389038  2  1 Bf  -     -     -          994    5    0 
+renagade  959389041  2  2 Bc  f     -     -          989   20    0 
+renagade  959389050  2  1 Bf  -     -     -          969    5    0 
+renagade  959389053  2  2 B   -     -     -          964   10   15 
+renagade  959389056  2  1 Bcc kf    -     -          969   20    0 
+renagade  959389070  2  2 B   -     -     -          949   10   15 
+renagade  959389074  2  1 Bcc kr    b     k          954   60    0 8c 7h
+renagade  959389098  2  2 B   -     -     -          894   10   15 
+renagade  959389104  2  1 Brr bc    krc   brc        899  200    0 Qd As
+renagade  959389141  2  2 Bk  k     k     k          699   10    0 5c 2s
+renagade  959389163  2  1 Bcf -     -     -          689   10    0 
+renagade  959389173  2  2 Bf  -     -     -          679   10    0 
+renagade  959389177  2  1 Br  b     b     b          669   70  140 9h Ah
+renagade  959389200  3  3 f   -     -     -          739    0    0 
+renagade  959389208  3  2 Bc  bc    kc    kc         739   80    0 Ad Js
+renagade  959389232  3  1 Bcf -     -     -          659   10    0 
+renagade  959389244  3  3 f   -     -     -          649    0    0 
+renagade  959389262  3  2 Bc  k     k     f          649   20    0 
+renagade  959389290  3  1 Bf  -     -     -          629    5    0 
+renagade  959389297  3  3 c   b     k     f          624   20    0 
+renagade  959389328  3  2 Bf  -     -     -          604   10    0 
+renagade  959389336  3  1 Br  -     -     -          594   20   30 
+renagade  959389342  3  3 c   k     b     -          604   30   45 
+renagade  959389361  4  2 Bf  -     -     -          619   10    0 
+renagade  959389373  4  1 Bf  -     -     -          609    5    0 
+renagade  959389398  4  4 f   -     -     -          604    0    0 
+renagade  959389422  4  3 c   k     kf    -          604   10    0 
+renagade  959389457  4  2 Bf  -     -     -          594   10    0 
+renagade  959389470  4  1 Bf  -     -     -          584    5    0 
+renagade  959389492  4  4 f   -     -     -          579    0    0 
+renagade  959389513  4  3 f   -     -     -          579    0    0 
+renagade  959389542  4  2 Bf  -     -     -          579   10    0 
+renagade  959389566  4  1 Brc krc   kf    -          569   60    0 
+renagade  959389593  6  6 cc  f     -     -          509   20    0 
+renagade  959389642  6  5 f   -     -     -          489    0    0 
+renagade  959389665  6  3 Q   -     -     -          489    0    0 
+renagade  959429326  8  4 c   cc    kf    -          489   30    0 
+renagade  959429392  8  3 f   -     -     -          459    0    0 
+renagade  959429427  8  2 Bf  -     -     -          459   10    0 
+renagade  959429458  8  1 Bf  -     -     -          449    5    0 
+renagade  959429508  8  8 c   k     c     f          444   30    0 
+renagade  959429560  8  7 f   -     -     -          414    0    0 
+renagade  959429600  8  6 cc  kc    kc    k          414   60    0 As Tc
+renagade  959429668  8  5 f   -     -     -          354    0    0 
+renagade  959429714  8  4 rc  bc    kf    -          354   60    0 
+renagade  959429767  8  3 f   -     -     -          294    0    0 
+renagade  959429797  8  2 Bf  -     -     -          294   10    0 
+renagade  959429842  8  1 Bf  -     -     -          284    5    0 
+renagade  959429878  8  8 f   -     -     -          279    0    0 
+renagade  959429906  8  7 f   -     -     -          279    0    0 
+renagade  959429987  8  6 c   r     b     b          279   80  355 5h 6h
+renagade  959430035  9  5 cc  rc    kf    -          554   80    0 
+renagade  959430143 10  4 f   -     -     -          474    0    0 
+renagade  959430169 10  3 f   -     -     -          474    0    0 
+renagade  959430214  9  2 Bf  -     -     -          474   10    0 
+renagade  959430254  9  1 Bf  -     -     -          464    5    0 
+renagade  959430306 10 10 f   -     -     -          459    0    0 
+renagade  959430384 10  9 f   -     -     -          459    0    0 
+renagade  959430467 10  8 f   -     -     -          459    0    0 
+renagade  959430524  8  5 f   -     -     -          459    0    0 
+renagade  959430586  9  5 f   -     -     -          459    0    0 
+renagade  959430619 10  4 cc  kf    -     -          459   20    0 
+renagade  959430693  9  3 cc  kc    kc    kr         439  110    0 Qd 7h
+renagade  959430763  9  2 Bc  br    brc   kc         329  150  420 2s Js
+renagade  959430823  9  1 Bc  kf    -     -          599   10    0 
+renagade  959430854  9  9 f   -     -     -          589    0    0 
+renagade  959430890  9  8 f   -     -     -          589    0    0 
+renagade  959430907  9  7 f   -     -     -          589    0    0 
+renagade  959430982  9  6 f   -     -     -          589    0    0 
+renagade  959431021  9  5 f   -     -     -          589    0    0 
+renagade  959431095  9  4 c   k     c     f          589   30    0 
+renagade  959431138  9  3 cc  kf    -     -          559   20    0 
+renagade  959431253  8  2 Bc  kc    kf    -          539   40    0 
+renagade  959431312  7  1 Bf  -     -     -          499    5    0 
+renagade  959431321  7  7 c   k     k     r          494   50   95 
+renagade  959431351  7  6 f   -     -     -          539    0    0 
+renagade  959431380  7  5 f   -     -     -          539    0    0 
+renagade  959431406  7  4 f   -     -     -          539    0    0 
+renagade  959431428  7  3 r   b     -     -          539   30   65 
+renagade  959431448  7  2 Bk  kf    -     -          574   10    0 
+renagade  959431479  6  1 Bc  b     -     -          564   20   40 
+renagade  959431497  6  6 c   c     c     b          584   60  135 Ah 4h
+renagade  959431523  6  5 f   -     -     -          659    0    0 
+renagade  959431553  6  4 c   k     f     -          659   10    0 
+renagade  959431589  6  3 fQ  -     -     -          649    0    0 
+renagade  959667656 10  6 f   -     -     -          839    0    0 
+renagade  959667719 10  5 c   b     b     b          839   60  160 Qh Kd
+renagade  959667753 10  4 f   -     -     -          939    0    0 
+renagade  959667819  9  3 f   -     -     -          939    0    0 
+renagade  959667863  9  2 Bf  -     -     -          939   10    0 
+renagade  959667910  8  1 Bf  -     -     -          929    5    0 
+renagade  959667938  8  8 rr  c     k     r          924   90    0 Qc Kc
+renagade  959667992  7  6 cc  c     k     f          834   30    0 
+renagade  959668075  7  5 c   kc    k     kf         804   20    0 
+renagade  959668140  8  4 f   -     -     -          784    0    0 
+renagade  959668245  7  2 Br  b     b     b          784   70  145 
+renagade  959668274  7  1 Bf  -     -     -          859    5    0 
+renagade  959668320  8  8 f   -     -     -          854    0    0 
+renagade  959668414  8  7 cc  f     -     -          854   20    0 
+renagade  959668443  8  6 f   -     -     -          834    0    0 
+renagade  959668471  8  5 ccc kr    b     bc         834  120    0 Td Kc
+renagade  959668533  9  5 cc  c     f     -          714   30    0 
+renagade  959668575  9  4 f   -     -     -          684    0    0 
+renagade  959668613  9  3 f   -     -     -          684    0    0 
+renagade  959668651  9  2 Bk  k     kcc   kf         684   50    0 
+renagade  959668722  9  1 Bcc kf    -     -          634   30    0 
+renagade  959668797 10 10 f   -     -     -          604    0    0 
+renagade  959668831 10  9 f   -     -     -          604    0    0 
+renagade  959668913 10  8 f   -     -     -          604    0    0 
+renagade  959668971  9  7 f   -     -     -          604    0    0 
+renagade  959669034  9  6 cc  kc    kc    br         604  110  300 Ad 7d
+renagade  959669103 10  5 f   -     Q     -          794    0    0 

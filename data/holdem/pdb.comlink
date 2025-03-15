@@ -1,0 +1,1119 @@
+comlink   957197554  2  1 BKQ -     -     -          910    5    0 
+comlink   957366203 10  7 cc  k     b     -         2290   40  115 
+comlink   957366279  9  6 c   k     k     f         2365   10    0 
+comlink   957366315  9  5 cc  kf    -     -         2355   20    0 
+comlink   957366378  9  4 cc  kc    kc    bc        2335  100    0 Ac 4c
+comlink   957366415  9  3 cc  kc    k     b         2235   50  170 
+comlink   957366466  9  2 Bk  k     k     kc        2355   30  105 3c Qs
+comlink   957366542  9  1 Bf  -     -     -         2430    5    0 
+comlink   957366598  9  9 f   -     -     -         2425    0    0 
+comlink   957366645  9  8 c   k     f     -         2425   10    0 
+comlink   957366675  8  6 c   b     b     bf        2415   60    0 
+comlink   957366717  8  5 cc  bc    br    b         2355  120  290 7c 7s
+comlink   957366757  8  4 f   -     -     -         2525    0    0 
+comlink   957366796  8  3 c   kf    -     -         2525   10    0 
+comlink   957366831  8  2 Bk  b     b     b         2515   60  145 5d 2c
+comlink   957366852  8  1 Bc  k     k     kf        2600   10    0 
+comlink   957366893  8  8 c   c     cc    f         2590   80    0 
+comlink   957366925  8  7 r   b     c     c         2510   55    0 Ah Ad
+comlink   957366974  7  5 f   -     -     -         2455    0    0 
+comlink   957367000  7  4 c   f     -     -         2455   10    0 
+comlink   957367041  9  5 cc  k     k     k         2445   20    0 4h 9c
+comlink   957367072  9  4 c   k     k     kf        2425   10    0 
+comlink   957367121  9  3 c   k     k     r         2415   50  125 3d 3s
+comlink   957367160  9  2 Bk  k     k     k         2490   10   45 7s 5d
+comlink   957367186  9  1 Bcc kf    -     -         2525   40    0 
+comlink   957367238  9  9 c   k     b     k         2485   30    0 4h 3h
+comlink   957367269  9  8 f   -     -     -         2455    0    0 
+comlink   957367293  9  7 c   b     b     b         2455   60  210 2s Js
+comlink   957367325  9  6 f   -     -     -         2605    0    0 
+comlink   957367356  9  5 c   k     k     k         2605   10    0 Th Qc
+comlink   957367404  9  4 r   k     k     k         2595   20    0 Ks Ad
+comlink   957367458 10  3 c   kc    kc    kfQ       2575   40    0 
+comlink   957447743  5  2 Bc  kf    -     -         3875   20    0 
+comlink   957447768  5  1 Bcc kc    kc    kc        3855   70    0 Jd Ts
+comlink   957447792  6  6 f   -     -     -         3785    0    0 
+comlink   957447862  6  5 c   f     -     -         3785   10    0 
+comlink   957447920  6  4 c   b     b     kc        3775   60    0 Kh 3h
+comlink   957447972  5  3 Q   -     -     -         3715    0    0 
+comlink   957540265  5  2 Bk  kf    -     -         2425   10    0 
+comlink   957540277  5  1 Bc  k     kf    -         2415   10    0 
+comlink   957540302  5  5 c   b     b     -         2405   50  105 
+comlink   957540329  5  4 c   k     b     -         2460   30   50 
+comlink   957540370  5  3 cc  c     c     k         2480   50    0 Kh 5h
+comlink   957540402  4  2 Bk  kf    -     -         2430   10    0 
+comlink   957540417  4  1 Bcc kc    kf    -         2420   40    0 
+comlink   957540455  4  4 c   c     f     -         2380   30    0 
+comlink   957540474  3  3 c   k     c     c         2350   50    0 5c 8c
+comlink   957540493  3  2 Bc  k     k     b         2300   40   60 
+comlink   957540517  3  1 Bf  -     -     -         2320    5    0 
+comlink   957540520  3  3 f   -     -     -         2315    0    0 
+comlink   957540536  3  2 Bf  -     -     -         2315   10    0 
+comlink   957540555  3  1 Bc  br    b     b         2305   90  170 
+comlink   957540574  4  3 c   k     c     k         2385   30    0 Ah 4d
+comlink   957540605  4  2 Bk  kc    b     b         2355   60  110 
+comlink   957540628  4  1 Bc  kf    -     -         2405   20    0 
+comlink   957540639  4  4 cc  c     b     k         2385   60  160 9d 6d
+comlink   957540662  4  3 c   b     b     b         2485   60  135 9d Kd
+comlink   957540685  4  2 BQ  -     -     -         2560   10    0 
+comlink   957540827  3  2 Bc  f     -     -         2550   20    0 
+comlink   957540835  3  1 Bc  kf    -     -         2530   20    0 
+comlink   957540848  3  3 f   -     -     -         2510    0    0 
+comlink   957540855  3  2 Bk  k     kf    -         2510   10    0 
+comlink   957540869  3  1 Br  -     -     -         2500   20   30 
+comlink   957540875  3  3 cc  c     c     k         2510   50    0 3c Kh
+comlink   957540887  3  2 Bc  k     k     k         2460   20    0 Kh 4s
+comlink   957540912  3  1 Bc  k     b     -         2440   30   40 
+comlink   957540925  3  3 cc  c     k     b         2450   50    0 4h 7h
+comlink   957540938  3  2 B   -     -     -         2400   10   15 
+comlink   957540944  3  1 Bc  k     k     b         2405   40   90 Jc Kh
+comlink   957540958  3  3 r   -     -     -         2455   20   35 
+comlink   957540963  3  2 Bk  f     -     -         2470   10    0 
+comlink   957540976  3  1 Bc  kc    kc    k         2460   40   80 3c Ad
+comlink   957540985  3  3 c   k     b     -         2500   30   50 
+comlink   957541002  3  2 Bc  f     -     -         2520   20    0 
+comlink   957541007  3  1 Bc  b     b     -         2500   50  100 
+comlink   957541019  3  3 c   f     -     -         2550   10    0 
+comlink   957541025  3  2 Bk  k     kf    -         2540   10    0 
+comlink   957541033  3  1 Bc  kc    kc    kc        2530   70    0 Ah 9s
+comlink   957541046  3  3 c   k     b     -         2460   30   45 
+comlink   957541059  3  2 Bc  f     -     -         2475   20    0 
+comlink   957541078  3  1 Bc  k     b     -         2455   30   40 
+comlink   957541088  3  3 c   f     -     -         2465   10    0 
+comlink   957541097  3  2 Bc  c     k     k         2455   30    0 Kh 2c
+comlink   957541107  3  1 Bf  -     -     -         2425    5    0 
+comlink   957541125  3  3 c   f     -     -         2420   10    0 
+comlink   957541136  3  2 Bc  b     -     -         2410   30   50 
+comlink   957541151  4  1 Bc  k     k     k         2430   10   20 Qh 3s
+comlink   957541161  4  4 c   f     -     -         2440   10    0 
+comlink   957541172  4  3 r   b     k     k         2430   30    0 5s Ks
+comlink   957541186  4  2 Br  b     -     -         2400   40   70 
+comlink   957541203  4  1 Bc  k     kc    kf        2430   30    0 
+comlink   957541225  4  4 c   k     k     k         2400   10   25 5c Qh
+comlink   957541248  4  3 c   k     c     f         2415   30    0 
+comlink   957541267  4  2 Bc  c     k     k         2385   30    0 Kd 4s
+comlink   957541285  4  1 Bc  k     b     b         2355   60  110 
+comlink   957541298  4  4 c   c     b     b         2405   70    0 Jd 7h
+comlink   957541324  4  3 c   k     k     k         2335   10   25 2c Jc
+comlink   957541338  4  2 Bk  kf    -     -         2350   10    0 
+comlink   957541354  4  1 Bc  kf    -     -         2340   20    0 
+comlink   957541379  4  4 c   f     -     -         2320   20    0 
+comlink   957541394  4  3 c   k     f     -         2300   10    0 
+comlink   957541422  4  2 Bc  c     c     k         2290   50    0 Kh 7h
+comlink   957541440  5  1 Bc  kc    kc    kf        2240   50    0 
+comlink   957541465  5  5 cc  f     -     -         2190   20    0 
+comlink   957541486  5  4 rc  c     c     c         2170   80    0 As 3h
+comlink   957541498  5  3 cc  b     k     kc        2090   50    0 7h Kc
+comlink   957541525  5  2 Bc  kf    -     -         2040   20    0 
+comlink   957541544  5  1 Bc  kc    kc    krc       2020  130  130 Kh 5c
+comlink   957541569  5  5 cc  f     -     -         2020   30    0 
+comlink   957541599  5  4 cc  c     f     -         1990   30    0 
+comlink   957541617  5  3 cc  kc    kc    kc        1960   70    0 Qd 3d
+comlink   957541645  5  2 Bc  kcc   kc    k         1890   70  265 As Ad
+comlink   957541678  5  1 Bc  kc    b     b         2085   80  190 Jd 7c
+comlink   957541699  3  3 c   c     k     k         2195   30   70 As 5s
+comlink   957541713  3  3 c   b     -     -         2235   20   35 
+comlink   957541726  3  2 Bc  k     k     b         2250   40   60 
+comlink   957541739  3  1 Bc  k     b     kc        2270   50    0 Ac 3h
+comlink   957541750  3  3 c   c     c     c         2220   60    0 2s Qd
+comlink   957541767  3  2 Bk  kf    -     -         2160   10    0 
+comlink   957541782  3  1 Bc  k     k     k         2150   10    0 6d 8h
+comlink   957541788  3  3 cc  f     -     -         2140   30    0 
+comlink   957541808  3  2 B   -     -     -         2110   10   15 
+comlink   957541814  4  1 Bcc k     b     -         2115   40   60 
+comlink   957541822  5  5 f   -     -     -         2135    0    0 
+comlink   957541841  5  4 f   -     -     -         2135    0    0 
+comlink   957541881  4  2 Bc  b     b     -         2135   50  105 
+comlink   957541898  5  1 Bc  b     b     bc        2190   80    0 7h 2h
+comlink   957541923  4  4 c   f     -     -         2110   20    0 
+comlink   957541951  5  4 cc  f     -     -         2090   20    0 
+comlink   957541959  5  3 cc  kc    cc    kf        2070   70    0 
+comlink   957541982  5  2 Bc  kc    kc    kc        2000   70    0 6h Tc
+comlink   957542003  5  1 Bc  kc    kc    b         1930   60  170 9d Kd
+comlink   957542039  5  5 c   f     -     -         2040   10    0 
+comlink   957542070  5  4 cf  -     -     -         2030   10    0 
+comlink   957542093  5  3 cc  kcc   kf    -         2020   60    0 
+comlink   957542126  5  2 Bc  kc    kf    -         1960   30    0 
+comlink   957542160  5  1 Bf  -     -     -         1930    5    0 
+comlink   957542172  5  5 KQ  -     -     -         1925    0    0 
+comlink   957557702  7  3 c   b     k     k         1905   20   70 Kd Jd
+comlink   957557761  7  2 Bk  kf    -     -         1955   10    0 
+comlink   957557842  9  1 Bc  k     kcc   kf        1945   90    0 
+comlink   957557957  8  8 c   c     k     b         1855   50  135 
+comlink   957558018 10  9 c   c     c     c         1940   60    0 Qh Jd
+comlink   957558086 10  8 f   -     -     -         1880    0    0 
+comlink   957558168 10  7 cc  kc    k     k         1880   30  170 Kh Jc
+comlink   957558211 10  6 c   bc    kc    bc        2020   90  260 Qs 5s
+comlink   957558257 10  5 c   c     k     kf        2190   15    0 
+comlink   957558334 10  4 fQ  -     -     -         2175    0    0 
+comlink   957795127  2  2 B   -     -     -         1820   10   15 
+comlink   957795130  3  1 Bf  -     -     -         1825    5    0 
+comlink   957795134  3  3 c   b     -     -         1820   20   35 
+comlink   957795144  3  2 Bk  k     c     b         1835   50  100 Ts Kd
+comlink   957795159  3  1 Bf  -     -     -         1885    5    0 
+comlink   957795182  3  3 c   k     c     k         1880   30    0 6h 9c
+comlink   957795203  3  2 B   -     -     -         1850   10   15 
+comlink   957795209  3  1 Bcc kcc   kc    kc        1855  120    0 Qd Jc
+comlink   957795240  3  3 c   c     c     c         1735   60    0 6s 6c
+comlink   957795270  3  2 Bk  kc    kc    kc        1675   60    0 Ks 7s
+comlink   957795292  3  1 Bc  bc    k     k         1615   40   90 4d Jc
+comlink   957795309  4  4 c   f     -     -         1665   20    0 
+comlink   957795326  4  3 cc  c     r     b         1645   90  165 
+comlink   957795345  5  3 f   -     -     -         1720    0    0 
+comlink   957795355  4  2 Bf  -     -     -         1720   10    0 
+comlink   957795377  4  1 Bf  -     -     -         1710    5    0 
+comlink   957795410  4  4 cc  c     c     k         1705   50  125 5d Ad
+comlink   957795436  5  4 c   k     kf    -         1780   10    0 
+comlink   957795463  5  3 c   k     b     -         1770   30   50 
+comlink   957795480  5  2 Bk  k     b     b         1790   50   80 
+comlink   957795498  5  1 Bc  b     b     b         1820   60  130 Jd Ac
+comlink   957795511  5  5 c   k     c     c         1890   50   70 6s Ts
+comlink   957795546  5  4 c   f     -     -         1910   10    0 
+comlink   957795583  5  3 cc  f     -     -         1900   20    0 
+comlink   957795600  5  2 Bk  k     kc    k         1880   30    0 8d 2d
+comlink   957795614  5  1 Bc  kc    kc    kc        1850   60    0 Qc Kd
+comlink   957795646  5  5 c   k     k     b         1790   30   50 
+comlink   957795670  5  4 f   -     -     -         1810    0    0 
+comlink   957795686  5  3 cc  c     c     f         1810   50    0 
+comlink   957795701  5  2 Bc  kf    -     -         1760   20    0 
+comlink   957795719  5  1 Bc  k     kc    k         1740   30   70 8s Ac
+comlink   957795737  5  5 cc  f     -     -         1780   20    0 
+comlink   957795768  6  5 cc  c     f     -         1760   30    0 
+comlink   957795805  6  4 r   k     f     -         1730   20    0 
+comlink   957795835  6  3 c   k     k     b         1710   30   45 
+comlink   957795860  7  3 cc  kc    kc    kf        1725   50    0 
+comlink   957795913  7  2 Br  bc    kc    kr        1675  120  405 Ad Kd
+comlink   957795963  7  1 Bc  kc    k     kf        1960   40    0 
+comlink   957796020  7  7 c   k     k     f         1920   10    0 
+comlink   957796090  7  5 c   c     k     k         1910   20    0 8s Jc
+comlink   957796125  8  5 c   c     c     r         1890   90  175 
+comlink   957796147  9  5 c   c     c     k         1975   40   52 5s Kc
+comlink   957796170  9  4 cc  k     k     b         1987   40   95 
+comlink   957796233  9  3 c   k     kf    -         2042   10    0 
+comlink   957796263  9  2 Bf  -     -     -         2032   10    0 
+comlink   957796315  9  1 Bc  kc    kc    kc        2022   70    0 Ac 9h
+comlink   957796352  9  9 c   r     b     c         1952   80    0 Td Ts
+comlink   957796394  9  9 c   f     -     -         1872   20    0 
+comlink   957796461  8  7 r   r     b     c         1852   80  240 5s 5h
+comlink   957796499  7  5 c   k     k     k         2012   10   30 9c Js
+comlink   957796526  7  4 c   kf    -     -         2032   10    0 
+comlink   957796587  7  3 cc  f     -     -         2022   20    0 
+comlink   957796616  7  2 Bc  kf    -     -         2002   20    0 
+comlink   957796639  6  1 Bc  k     k     kc        1982   30    0 5d 6s
+comlink   957796663  6  6 f   -     -     -         1952    0    0 
+comlink   957796682  6  5 c   b     kc    kc        1952   60    0 Qd Kh
+comlink   957796709  7  4 cc  bc    k     kf        1892   50    0 
+comlink   957796753  7  3 r   k     k     k         1842   20    0 Ad Ks
+comlink   957796772  7  2 Bk  k     b     k         1822   30   75 2s Ts
+comlink   957796802  7  1 Bc  kf    -     -         1867   20    0 
+comlink   957796835  7  7 cc  c     c     c         1847   80    0 Qc 5d
+comlink   957796923  7  6 rc  c     c     c         1767   80    0 8d 8s
+comlink   957796951  7  5 cc  c     c     f         1687   50    0 
+comlink   957796974  7  4 c   k     b     b         1637   50  120 
+comlink   957797016  6  3 c   f     -     -         1707   10    0 
+comlink   957797035  6  2 Bc  kc    b     -         1697   50  115 
+comlink   957797070  6  1 Bf  -     -     -         1762    5    0 
+comlink   957797089  6  6 c   c     k     f         1757   20    0 
+comlink   957797113  6  5 c   f     -     -         1737   10    0 
+comlink   957797135  6  4 f   -     -     -         1727    0    0 
+comlink   957797163  6  3 c   k     b     c         1727   50    0 7d Kh
+comlink   957797188  6  2 Bk  b     r     r         1677  100  240 9s Ah
+comlink   957797230  6  1 Bf  -     -     -         1817    5    0 
+comlink   957797253  6  6 c   k     b     -         1812   30   60 
+comlink   957797317  5  4 c   b     b     b         1842   60  140 Th Kc
+comlink   957797352  5  3 c   k     k     b         1922   30   55 
+comlink   957797370  5  2 Bc  kf    -     -         1947   20    0 
+comlink   957797378  5  1 Bc  k     k     k         1927   10    0 8s 9c
+comlink   957797401  5  5 c   f     -     -         1917   10    0 
+comlink   957797414  5  4 f   -     -     -         1907    0    0 
+comlink   957797428  5  3 c   b     b     b         1907   60  130 
+comlink   957797456  5  2 Bk  k     k     kf        1977   10    0 
+comlink   957797474  4  1 Bc  k     k     k         1967   10   30 Jc 6s
+comlink   957797501  4  4 c   k     f     -         1987   10    0 
+comlink   957797517  4  3 c   k     f     -         1977   10    0 
+comlink   957797533  5  2 Bk  k     b     b         1967   50   95 
+comlink   957797564  4  1 Bf  -     -     -         2012    5    0 
+comlink   957797595  6  6 f   -     -     -         2007    0    0 
+comlink   957797626  6  5 r   c     c     c         2007   70    0 5d Ad
+comlink   957797654  6  4 f   -     -     -         1937    0    0 
+comlink   957797665  6  3 f   -     -     -         1937    0    0 
+comlink   957797695  6  2 Br  b     b     -         1937   50   85 
+comlink   957797714  6  1 Bc  kc    kr    b         1972   80    0 Jh 6c
+comlink   957797753  8  8 c   Q     -     -         1892   10    0 
+comlink   957799979  8  3 c   kf    -     -         1882   10    0 
+comlink   957800047  9  2 Bf  -     -     -         1872   10    0 
+comlink   957800106  9  1 Bf  -     -     -         1862    5    0 
+comlink   957800180 10 10 f   -     -     -         1857    0    0 
+comlink   957800225  9  8 c   c     c     r         1857   90  260 5d Ad
+comlink   957800276  9  7 c   k     kf    -         2027   10    0 
+comlink   957800345  8  5 f   -     -     -         2017    0    0 
+comlink   957800418  7  3 c   k     c     kc        2017   50    0 As Qs
+comlink   957800466  7  2 Bk  f     -     -         1967   10    0 
+comlink   957800521  7  1 Bc  kc    kf    -         1957   20    0 
+comlink   957800601  7  7 c   b     b     -         1937   40   75 
+comlink   957800637  6  5 c   k     k     k         1972   10   25 Th 2h
+comlink   957800669  5  4 c   b     b     b         1987   60  115 
+comlink   957800695  5  3 c   kf    Q     -         2042   10    0 
+comlink   957801391  4  4 r   k     c     f         2032   40    0 
+comlink   957801414  4  3 c   c     k     k         1992   20    0 Ks Jd
+comlink   957801446  4  2 Bk  kf    -     -         1972   10    0 
+comlink   957801503  4  1 Bc  k     k     kf        1962   10    0 
+comlink   957801580  4  4 r   r     b     b         1952   80  220 3d 3c
+comlink   957801656  4  3 cc  kf    -     -         2092   20    0 
+comlink   957801689  3  2 Bc  kf    -     -         2072   20    0 
+comlink   957801701  3  1 Bf  -     -     -         2052    5    0 
+comlink   957801716  3  3 r   k     k     c         2047   40  100 8d 8h
+comlink   957801736  3  2 Br  kc    kc    kc        2107   70    0 3c 3s
+comlink   957801755  3  1 Bc  kc    k     k         2037   20    0 4h Ks
+comlink   957801771  4  4 r   k     k     k         2017   20   55 6h 6d
+comlink   957801799  4  3 c   kc    k     k         2052   20    0 6d As
+comlink   957801816  4  2 Brc kc    kc    kc        2032   90    0 Qd Qs
+comlink   957801847  4  1 Brc brc   kc    kc        1942  120  320 Ah Ac
+comlink   957801894  4  4 cc  f     -     -         2142   20    0 
+comlink   957801904  4  3 f   -     -     -         2122    0    0 
+comlink   957801916  4  2 Bk  f     -     -         2122   10    0 
+comlink   957801964  3  1 Bc  kc    k     kf        2112   20    0 
+comlink   957801980  3  3 c   b     k     k         2092   20    0 3h Th
+comlink   957801996  3  2 Bk  c     kc    kf        2072   40    0 
+comlink   957802020  3  1 Bc  k     k     k         2032   10   20 4s Jd
+comlink   957802031  3  3 c   k     c     f         2042   30    0 
+comlink   957802052  3  2 Bk  b     r     k         2012   60    0 7c Tc
+comlink   957802073  4  1 Bcc kf    -     -         1952   20    0 
+comlink   957802086  4  4 c   f     -     -         1932   10    0 
+comlink   957802107  4  3 c   f     -     -         1922   10    0 
+comlink   957802168  4  2 Br  b     bc    kc        1912   90    0 7c 7d
+comlink   957802198  4  1 Bf  -     -     -         1822    5    0 
+comlink   957802211  4  4 f   -     -     -         1817    0    0 
+comlink   957802230  5  3 c   kc    kf    -         1817   20    0 
+comlink   957802259  5  2 Bk  kccc  kc    kf        1797   70    0 
+comlink   957802308  5  1 Bc  kc    kc    kc        1727   60    0 8h Jh
+comlink   957802339  5  5 c   c     c     c         1667   70  190 5s 6h
+comlink   957802358  5  4 f   -     -     -         1787    0    0 
+comlink   957802383  4  3 cc  c     c     f         1787   50    0 
+comlink   957802411  4  2 Bk  k     k     b         1737   30   40 
+comlink   957802430  4  1 Bc  kf    -     -         1747   10    0 
+comlink   957802441  4  4 c   k     c     r         1737   70  150 8s 7s
+comlink   957802472  4  3 c   k     b     kc        1817   50  135 9s 7d
+comlink   957802526  3  2 Bk  k     b     bf        1902   50    0 
+comlink   957802576  4  1 Bc  k     k     kc        1852   30    0 4d Ts
+comlink   957802600  4  4 r   -     -     -         1822   20   35 
+comlink   957802607  4  3 c   k     c     f         1837   30    0 
+comlink   957802624  4  2 Bk  k     c     f         1807   30    0 
+comlink   957802639  4  1 Bc  k     kf    -         1777   10    0 
+comlink   957802658  4  4 r   k     k     k         1767   20   50 Ac 4c
+comlink   957802678  5  3 c   k     k     c         1797   30    0 4s Jd
+comlink   957802700  5  2 Bc  kc    k     c         1767   50    0 5d 5h
+comlink   957802725  5  1 Bc  kf    -     -         1717   10    0 
+comlink   957802756  5  5 f   -     -     -         1707    0    0 
+comlink   957802771  5  4 c   k     k     c         1707   30    0 Kh 6h
+comlink   957802796  5  3 f   -     -     -         1677    0    0 
+comlink   957802802  5  2 Bk  k     k     c         1677   30   30 8s 7h
+comlink   957802818  5  1 Bc  kc    b     b         1677   60  130 3d Jc
+comlink   957802840  5  5 c   c     k     rr        1747  100  220 Jc Jh
+comlink   957802873  5  4 c   k     f     -         1867   10    0 
+comlink   957802905  5  3 c   k     b     b         1857   50   85 
+comlink   957802933  5  2 Bk  k     f     -         1892   10    0 
+comlink   957802956  5  1 Bc  b     -     -         1882   20   30 
+comlink   957802966  5  5 f   -     -     -         1892    0    0 
+comlink   957802992  5  4 c   k     b     -         1892   30   50 
+comlink   957803021  4  3 fQ  -     -     -         1912    0    0 
+comlink   957884033  2  2 B   -     -     -         1782   10   15 
+comlink   957884041  2  1 Bcc kc    kc    k         1787   50    0 8d Ad
+comlink   957884052  2  2 Bk  b     -     -         1737   20   30 
+comlink   957884063  2  1 Bc  k     k     k         1747   10    0 5s 3s
+comlink   957884071  2  2 Bk  c     k     b         1737   40   60 
+comlink   957884085  3  1 Bc  kf    -     -         1757   10    0 
+comlink   957884107  4  4 f   -     -     -         1747    0    0 
+comlink   957884123  4  3 c   c     c     b         1747   60  160 Kh 4s
+comlink   957884150  4  2 Bc  f     -     -         1847   20    0 
+comlink   957884158  4  1 Bc  kf    -     -         1827   20    0 
+comlink   957884178  4  4 c   k     f     -         1807   10    0 
+comlink   957884193  4  3 r   b     b     b         1797   70  145 
+comlink   957884212  4  2 Bk  kf    -     -         1872   10    0 
+comlink   957884223  4  1 Bc  kc    b     b         1862   60  110 
+comlink   957884241  4  4 cc  c     c     c         1912   70    0 Ac 3h
+comlink   957884251  4  3 cc  k     k     k         1842   20    0 3h Qh
+comlink   957884270  4  2 Bk  c     k     k         1822   20   25 Jd 9d
+comlink   957884284  4  1 Bc  kc    kf    -         1827   30    0 
+comlink   957884315  4  4 f   -     -     -         1797    0    0 
+comlink   957884334  4  3 c   b     bc    c         1797   80    0 Th 7d
+comlink   957884355  5  2 Bk  k     bc    kc        1717   70   80 4s Kc
+comlink   957884373  6  1 Bf  -     -     -         1727    5    0 
+comlink   957884394  6  6 c   c     k     b         1722   40   75 
+comlink   957884414  6  5 c   c     c     f         1757   40    0 
+comlink   957884442  6  4 cc  c     c     f         1717   50    0 
+comlink   957884468  6  3 c   kc    kf    -         1667   20    0 
+comlink   957884529  6  2 Bk  f     -     -         1647   10    0 
+comlink   957884546  6  1 Bc  k     kf    -         1637   10    0 
+comlink   957884572  6  6 r   k     k     b         1627   40   75 
+comlink   957884592  6  5 c   k     c     c         1662   50    0 7h 8h
+comlink   957884629  6  4 c   c     c     f         1612   50    0 
+comlink   957884677  5  3 Q   -     -     -         1562    0    0 
+comlink   957885767  5  3 f   -     -     -         1562    0    0 
+comlink   957885780  5  2 Bc  k     k     f         1562   20    0 
+comlink   957885799  5  1 Bf  -     -     -         1542    5    0 
+comlink   957885813  5  5 rc  b     b     -         1537   60  135 
+comlink   957885829  4  3 c   c     c     f         1612   50    0 
+comlink   957885842  4  3 c   b     -     -         1562   20   40 
+comlink   957885857  4  2 Bc  k     k     f         1582   30    0 
+comlink   957885880  4  1 Bc  kc    kr    b         1552   90  210 Ts 7d
+comlink   957885900  4  4 c   b     -     -         1672   20   35 
+comlink   957885913  4  3 cc  k     k     kf        1687   40    0 
+comlink   957885939  4  2 Bc  kf    -     -         1647   20    0 
+comlink   957885954  4  1 Bc  kc    k     b         1627   40  100 5h 4c
+comlink   957885974  4  4 c   c     c     k         1687   40    0 6d 9h
+comlink   957885993  4  3 f   -     -     -         1647    0    0 
+comlink   957886004  4  2 Bf  -     -     -         1647   10    0 
+comlink   957886016  4  1 Bc  k     kc    kc        1637   50    0 2c Kd
+comlink   957886035  4  4 c   c     f     -         1587   40    0 
+comlink   957886054  4  3 cc  c     c     f         1547   50    0 
+comlink   957886073  4  2 Bk  c     k     kc        1497   40    0 6s 2d
+comlink   957886088  4  1 Bcc k     kc    k         1457   50    0 9h 7s
+comlink   957886113  4  4 cc  c     f     -         1407   30    0 
+comlink   957886139  4  3 c   k     b     b         1377   50   90 
+comlink   957886162  4  2 Bc  b     b     -         1417   50   85 
+comlink   957886179  4  1 Bf  -     -     -         1452    5    0 
+comlink   957886198  4  4 c   k     c     k         1447   40  140 3c 4d
+comlink   957886218  4  3 c   c     rr    b         1547  120  260 Kc Jc
+comlink   957886238  4  2 Bc  kc    kf    -         1687   30    0 
+comlink   957886252  4  1 Br  b     b     b         1657   70  150 Qc Qh
+comlink   957886261  4  4 c   b     k     b         1737   50  105 
+comlink   957886280  5  3 f   -     -     -         1792    0    0 
+comlink   957886290  6  2 Bc  bc    c     c         1792   90    0 Qh 9h
+comlink   957886321  7  1 Bf  -     -     -         1702    5    0 
+comlink   957886345  7  7 cc  r     c     r         1697  130  415 4c Qc
+comlink   957886377  6  5 cc  c     cc    k         1982  100    0 Ac Kd
+comlink   957886423  6  5 c   c     c     c         1882   80    0 8c 9c
+comlink   957886463  6  4 f   -     -     -         1802    0    0 
+comlink   957886499  6  3 cc  kf    -     -         1802   20    0 
+comlink   957886525  6  2 Bk  kf    -     -         1782   10    0 
+comlink   957886546  6  1 Bf  -     -     -         1772    5    0 
+comlink   957886558  6  6 c   r     k     c         1767   60  135 2s Ah
+comlink   957886578  6  5 c   r     b     b         1842   80  220 4s Kc
+comlink   957886603  4  2 cc  cc    k     k         1982   40    0 8h 2h
+comlink   957886626  4  2 Bc  kf    -     -         1942   20    0 
+comlink   957886651  4  1 Bc  k     kc    b         1922   50  110 Jd 5h
+comlink   957886667  3  3 cc  f     -     -         1982   20    0 
+comlink   957886679  3  2 Bf  -     -     -         1962   10    0 
+comlink   957886694  3  1 Bf  -     -     -         1952    5    0 
+comlink   957886699  3  3 r   rc    c     c         1947   90   92 Ts As
+comlink   957886710  3  2 Bc  f     -     -         1949   20    0 
+comlink   957886718  3  1 Br  brc   k     b         1929   90  210 5d 5c
+comlink   957886733  3  3 cc  c     f     -         2049   30    0 
+comlink   957886745  3  2 Brc c     c     c         2019   90    0 2d 2s
+comlink   957886759  3  1 Bcc b     -     -         1929   40  100 
+comlink   957886770  3  3 c   c     c     k         1989   40    0 4h 6s
+comlink   957886777  3  2 Br  b     -     -         1949   40   70 
+comlink   957886788  3  1 Bc  kc    kf    -         1979   30    0 
+comlink   957886803  3  3 f   -     -     -         1949    0    0 
+comlink   957886812  3  2 Bc  c     c     k         1949   50  100 Kd Js
+comlink   957886821  3  1 Bc  bc    kc    k         1999   50  100 Kh 3s
+comlink   957886836  3  3 cc  c     c     r         2049  100  240 
+comlink   957886853  3  2 Bc  k     f     -         2189   20    0 
+comlink   957886860  3  1 Bf  -     -     -         2169    5    0 
+comlink   957886865  3  3 cc  c     c     f         2164   50    0 
+comlink   957886877  3  2 Bk  k     f     -         2114   10    0 
+comlink   957886886  3  1 Bc  k     kf    -         2104   20    0 
+comlink   957886901  3  3 f   -     -     -         2084    0    0 
+comlink   957886903  3  2 Bf  -     -     -         2084   10    0 
+comlink   957886910  3  1 Brr k     bc    b         2074  100  200 Kd Kc
+comlink   957886930  3  3 c   k     k     c         2174   30    0 Jd As
+comlink   957886948  3  2 B   -     -     -         2144   10   15 
+comlink   957886956  3  1 Bc  kf    -     -         2149   10    0 
+comlink   957886964  3  3 cc  c     c     f         2139   50    0 
+comlink   957886974  3  2 Bc  kc    kc    k         2089   50    0 5d 3d
+comlink   957886986  3  1 Bf  -     -     -         2039    5    0 
+comlink   957886999  3  3 cc  cc    c     k         2034   80  220 Jc Kh
+comlink   957887012  3  2 Bk  k     f     -         2174   10    0 
+comlink   957887023  3  1 Bc  kcc   kcc   kf        2164  140    0 
+comlink   957887049  3  3 cc  c     c     rr        2024  130  145 6s Ah
+comlink   957887070  4  2 Bc  kf    -     -         2039   20    0 
+comlink   957887094  4  1 Bcc kc    kf    -         2019   30    0 
+comlink   957887117  4  4 cc  c     c     c         1989   70    0 5c Tc
+comlink   957887134  4  3 r   brc   kc    kc        1919  100  215 Ts As
+comlink   957887157  4  2 Bc  kc    kc    kc        2034   70  165 Jh 3d
+comlink   957887171  4  1 Brc kc    brc   brc       2129  210  460 Ah Ad
+comlink   957887210  4  4 cc  f     -     -         2379   20    0 
+comlink   957887220  4  3 rc  ccc   cc    ccc       2359  190    0 8d 8c
+comlink   957887255  3  2 B   -     -     -         2169   10   15 
+comlink   957887266  4  1 Bc  k     k     k         2174   10    0 2d Kc
+comlink   957887282  4  4 f   -     -     -         2164    0    0 
+comlink   957887306  4  3 f   -     -     -         2164    0    0 
+comlink   957887337  3  2 BKQ -     -     -         2164   10    0 
+comlink   957891760  5  2 Bc  kf    -     -         2154   20    0 
+comlink   957891785  5  1 Bf  -     -     -         2134    5    0 
+comlink   957891808  5  5 c   f     -     -         2129   10    0 
+comlink   957891835  5  4 c   k     f     -         2119   10    0 
+comlink   957891857  5  3 f   -     -     -         2109    0    0 
+comlink   957891861  5  2 Bk  c     k     k         2109   20    0 Ah 6d
+comlink   957891885  5  1 Bf  -     -     -         2089    5    0 
+comlink   957891906  5  5 cc  c     c     f         2084   50    0 
+comlink   957891925  5  4 c   b     -     -         2034   20   45 
+comlink   957891942  5  3 r   b     c     c         2059   70    0 5h 5s
+comlink   957891959  5  2 Bk  c     c     c         1989   60   70 4c 9h
+comlink   957891982  5  1 Bc  k     k     k         1999   10    0 Qs 5h
+comlink   957892021  5  5 c   b     b     -         1989   40   95 
+comlink   957892046  4  4 c   c     f     -         2044   20    0 
+comlink   957892068  4  3 f   -     -     -         2024    0    0 
+comlink   957892093  4  2 Bc  kc    kf    -         2024   30    0 
+comlink   957892119  4  1 Bc  kc    k     kf        1994   20    0 
+comlink   957892145  4  4 c   b     k     k         1974   20   70 5s Qd
+comlink   957892174  4  3 r   k     k     b         2024   40   65 
+comlink   957892196  4  2 Bk  f     -     -         2049   10    0 
+comlink   957892206  4  1 Bc  k     kf    -         2039   10    0 
+comlink   957892225  4  4 r   b     b     k         2029   50    0 Ac Kh
+comlink   957892256  4  3 r   k     b     -         1979   40   65 
+comlink   957892277  4  2 Br  k     kc    kc        2004   60    0 8s 8c
+comlink   957892312  4  1 Bc  kf    -     -         1944   10    0 
+comlink   957892341  5  4 c   k     k     f         1934   10    0 
+comlink   957892369  5  3 c   kc    kc    k         1924   40    0 9s Ac
+comlink   957892396  5  2 Bf  -     -     -         1884   10    0 
+comlink   957892428  7  1 Bc  b     b     k         1874   40  100 3s Kh
+comlink   957892473  6  6 cc  f     -     -         1934   20    0 
+comlink   957892512  6  5 c   b     bc    kf        1914   60    0 
+comlink   957892552  8  6 c   f     -     -         1854   10    0 
+comlink   957892581  8  5 f   -     -     -         1844    0    0 
+comlink   957892606  8  4 c   c     c     f         1844   40    0 
+comlink   957892636  8  3 r   kc    k     b         1804   50  165 Kc Ks
+comlink   957892676  8  2 Br  kc    kc    kc        1919   80    0 5d 5c
+comlink   957892743  8  1 Bf  -     -     -         1839    5    0 
+comlink   957892790  8  3 Q   -     -     -         1834    0    0 
+comlink   957893691  9  6 c   f     -     -         1834   10    0 
+comlink   957893731  9  5 c   c     c     f         1824   40    0 
+comlink   957893767  9  4 f   -     -     -         1784    0    0 
+comlink   957893790  9  3 c   k     r     b         1784   70  190 8h 6d
+comlink   957893828  9  2 Bc  bc    kc    rc        1904  180  360 7d 9c
+comlink   957893899 10  1 BQ  -     -     -         2084    5    0 
+comlink   957895578  6  3 c   b     bc    k         2079   60    0 Ad 7h
+comlink   957895671  4  2 Bk  k     k     k         2019   10   35 7h 3c
+comlink   957895714  3  1 Bcc k     kc    k         2044   40   80 6c 3c
+comlink   957895742  3  3 c   k     f     -         2084   10    0 
+comlink   957895783  3  2 Bk  b     b     k         2074   40  100 9d 6d
+comlink   957895820  3  1 Bc  b     b     -         2134   40   60 
+comlink   957895834  4  3 r   k     c     f         2154   40    0 
+comlink   957895869  3  1 Bk  b     k     b         2114   40   60 
+comlink   957895893  3  1 Bc  kf    -     -         2134   20    0 
+comlink   957895903  3  3 c   b     -     -         2114   20   35 
+comlink   957895915  4  3 cc  b     b     c         2129   70  160 7s Jh
+comlink   957895953  4  2 Bf  -     -     -         2219   10    0 
+comlink   957896017  4  1 Bcc kc    kc    kf        2209   50    0 
+comlink   957896057  4  4 c   k     k     f         2159   10    0 
+comlink   957896079  4  3 cc  cf    -     -         2149   40    0 
+comlink   957896133  4  2 Bk  kc    k     kf        2109   20    0 
+comlink   957896161  4  1 Bf  -     -     -         2089    5    0 
+comlink   957896183  7  6 cc  f     -     -         2084   20    0 
+comlink   957896247  7  5 cc  c     c     c         2064   70    0 8d Jh
+comlink   957896289  7  4 c   b     b     -         1994   40   80 
+comlink   957896330  6  3 f   -     -     -         2034    0    0 
+comlink   957896367  7  2 Br  b     b     b         2034   80    0 5c 5s
+comlink   957896395  6  1 Bcc kc    kf    -         1954   30    0 
+comlink   957896433  6  6 c   k     c     f         1924   40    0 
+comlink   957896485  6  5 c   b     b     c         1884   60    0 Kd Jc
+comlink   957896535  6  4 c   k     k     k         1824   10    0 Qc 3d
+comlink   957896565  6  3 cc  bc    b     k         1814   60  165 2s Jc
+comlink   957896621  7  2 Bk  kc    kc    kf        1919   40    0 
+comlink   957896683  7  1 Bc  kQ    -     -         1879   10    0 
+comlink   957898927  2  1 Bc  k     kf    -         1869   10    0 
+comlink   957898939  2  2 B   -     -     -         1859   10   15 
+comlink   957898941  2  1 Bc  kc    kc    k         1864   40    0 Ts 3d
+comlink   957898963  2  2 Bc  c     f     -         1824   30    0 
+comlink   957898972  2  1 Bf  -     -     -         1794    5    0 
+comlink   957898973  2  2 Bk  k     b     -         1789   30   40 
+comlink   957898984  2  1 Bc  kc    k     kc        1799   40    0 3c 6c
+comlink   957899000  2  2 B   -     -     -         1759   10   15 
+comlink   957899004  2  1 Bc  kc    kc    k         1764   40   80 Qc 5s
+comlink   957899017  2  2 Br  b     -     -         1804   40   70 
+comlink   957899031  2  1 Bc  k     kc    k         1834   30    0 4s 4d
+comlink   957899047  2  2 Bc  k     b     b         1804   60  100 
+comlink   957899066  3  1 Bc  k     k     Q         1844   10    0 
+comlink   957902285 10 10 c   k     c     b         1834   60  190 
+comlink   957902374 10  9 c   k     k     f         1964   10    0 
+comlink   957902413  9  7 f   -     -     -         1954    0    0 
+comlink   957902453  9  6 f   -     -     -         1954    0    0 
+comlink   957902490  9  5 c   f     -     -         1954   20    0 
+comlink   957902519 10  4 c   c     c     f         1934   60    0 
+comlink   957902544  9  3 r   k     k     c         1874   40    0 Qs Ad
+comlink   957902561  9  2 Bc  kc    kf    -         1834   30    0 
+comlink   957902580  9  1 Bc  kf    -     -         1804   10    0 
+comlink   957902617  9  9 cc  k     c     f         1794   80    0 
+comlink   957902661  9  8 c   c     rc    c         1714  110  205 9c Js
+comlink   957902704  9  7 f   -     -     -         1809    0    0 
+comlink   957902755  8  5 c   rr    b     c         1809   90  280 Ts 8d
+comlink   957902791  9  4 c   f     -     -         1999   10    0 
+comlink   957902834  8  3 c   b     bc    kf        1989   60    0 
+comlink   957902879  8  2 Bk  kf    -     -         1929   10    0 
+comlink   957902900  8  1 Bc  k     kf    -         1919   10    0 
+comlink   957902925  8  8 cfQ -     -     -         1909   10    0 
+comlink   957903409  6  6 c   f     -     -         1899   10    0 
+comlink   957903472  6  5 f   -     -     -         1889    0    0 
+comlink   957903517  6  4 c   k     f     -         1889   10    0 
+comlink   957903576  6  3 rc  rc    rc    ccc       1879  240    0 Ks Kc
+comlink   957903660  6  2 Bk  kQ    -     -         1639   10    0 
+comlink   957905057  6  4 cc  c     f     -         1629   60    0 
+comlink   957905095  7  4 cQ  -     -     -         1569   10    0 
+comlink   957905168  6  6 c   f     -     -         1559   20    0 
+comlink   957905205  6  5 c   c     k     k         1539   20    0 Ad 9s
+comlink   957905245  6  4 c   f     -     -         1519   10    0 
+comlink   957905275  6  3 rr  r     b     b         1509  100    0 9s 9h
+comlink   957905313  6  2 Bk  kf    -     -         1409   10    0 
+comlink   957905340  6  1 Bc  b     k     k         1399   20   50 2c 8c
+comlink   957905366  6  6 c   c     c     f         1429   50    0 
+comlink   957905423  7  5 f   -     -     Q         1379    0    0 
+comlink   957905519  9  5 cc  f     -     -         1379   20    0 
+comlink   957905589  9  4 ccc cc    c     r         1359  120    0 Ts Ad
+comlink   957905674  9  3 f   -     -     -         1239    0    0 
+comlink   957905707  9  2 Bk  kc    kc    kr        1239   80  145 
+comlink   957905727  9  1 Bc  k     k     bc        1304   60    0 Qd 3s
+comlink   957905787  8  7 f   -     -     -         1244    0    0 
+comlink   957905821  8  6 r   rc    cc    kc        1244  110  365 Kc As
+comlink   957905879  8  5 f   -     -     -         1499    0    0 
+comlink   957905952  8  4 cc  ccc   cf    -         1499   70    0 
+comlink   957906055  6  1 Br  b     b     k         1429   60  220 As Jc
+comlink   957906090  7  1 Bc  kf    -     -         1589   10    0 
+comlink   957906169  3  3 c   b     -     -         1579   20   30 
+comlink   957906182  3  3 r   b     b     k         1589   50  150 Ad Ts
+comlink   957906223  5  2 Bc  kf    -     -         1689   20    0 
+comlink   957906290  5  1 BQ  -     -     -         1669    5    0 
+comlink   957985070  4  3 cc  kc    kc    kc        1769   70    0 Qc Jc
+comlink   957985097  4  2 Bf  -     -     -         1699   10    0 
+comlink   957985104  4  1 Bf  -     -     -         1689    5    0 
+comlink   957985128  4  4 c   k     b     k         1684   30    0 5h Kd
+comlink   957985149  4  3 f   -     -     -         1654    0    0 
+comlink   957985171  4  2 Bk  kf    -     -         1654   10    0 
+comlink   957985189  3  1 Bcc bc    kc    br        1644  120    0 Qd Kc
+comlink   957985208  4  3 c   c     k     r         1524   60  110 
+comlink   957985239  5  2 Bk  k     k     b         1574   30   45 
+comlink   957985266  4  1 Bc  bc    k     k         1589   30   80 Qh 6h
+comlink   957985288  4  4 c   f     -     -         1639   10    0 
+comlink   957985304  4  3 c   k     k     f         1629   10    0 
+comlink   957985338  4  2 Bk  r     b     k         1619   50  100 8d Jd
+comlink   957985369  4  1 Bc  k     kc    kc        1669   70    0 4d 5d
+comlink   957985421  4  4 c   k     f     -         1599   10    0 
+comlink   957985451  4  3 c   c     c     c         1589   60  150 9s Ts
+comlink   957985475  4  2 Bk  b     b     bc        1679   80    0 2c 6c
+comlink   957985523  3  1 Bc  kc    kc    k         1599   40   80 Qc As
+comlink   957985557  3  3 c   k     f     -         1639   10    0 
+comlink   957985572  3  2 Br  k     r     bc        1629  100    0 Ah Th
+comlink   957985604  3  1 Bc  kc    k     k         1529   40    0 Ks Th
+comlink   957985644  3  3 c   b     -     -         1489   20   35 
+comlink   957985661  3  2 Bc  cc    kc    k         1504   60    0 6c Kh
+comlink   957985687  3  1 Bf  -     -     -         1444    5    0 
+comlink   957985696  3  3 cc  f     -     -         1439   20    0 
+comlink   957985712  3  2 Bc  c     c     f         1419   50    0 
+comlink   957985731  5  1 Bf  -     -     -         1369    5    0 
+comlink   957985758  5  5 c   f     -     -         1364   20    0 
+comlink   957985829  6  5 c   k     k     k         1344   10    0 Qs 5d
+comlink   957985857  7  5 c   Q     -     -         1334   10    0 
+comlink   957988039  7  5 f   -     -     -         1324    0    0 
+comlink   957988059  7  4 c   kcc   bc    k         1324   90  355 8s 5s
+comlink   957988092  7  3 cc  cc    k     k         1589   50    0 5s Jh
+comlink   957988128  7  2 Bk  kc    kf    -         1539   20    0 
+comlink   957988158  7  1 Bf  -     -     -         1519    5    0 
+comlink   957988201  7  7 f   -     -     -         1514    0    0 
+comlink   957988225  8  6 c   kf    -     -         1514   10    0 
+comlink   957988249  9  5 c   f     -     -         1504   10    0 
+comlink   957988278  9  4 c   kc    c     r         1494   80  215 4h 5h
+comlink   957988308  9  3 c   b     bc    kf        1629   60    0 
+comlink   957988377  8  2 Bk  Q     -     -         1569   10    0 
+comlink   958060269  5  2 Bk  b     -     -         1616   20   40 
+comlink   958060283  5  1 Bc  kf    -     -         1636   10    0 
+comlink   958060292  5  5 c   k     f     -         1626   10    0 
+comlink   958060307  5  4 c   k     f     -         1616   10    0 
+comlink   958060332  5  3 f   -     -     -         1606    0    0 
+comlink   958060338  5  2 Bk  b     bc    kc        1606   80    0 9s Tc
+comlink   958060357  5  1 Bc  kc    kc    kf        1526   50    0 
+comlink   958060384  5  5 cc  c     c     c         1476   70    0 Qh 3s
+comlink   958060405  5  4 cc  f     -     -         1406   20    0 
+comlink   958060441  5  3 c   k     b     b         1386   50   90 
+comlink   958060476  5  2 Bk  k     k     k         1426   10   10 8d 9s
+comlink   958060494  5  1 Br  kc    kc    br        1426  110  240 7s 7d
+comlink   958060531  5  5 r   k     c     c         1556   60    0 7h 7c
+comlink   958060557  5  4 c   k     k     k         1496   10   15 4d Qs
+comlink   958060598  5  3 c   k     f     -         1501   10    0 
+comlink   958060614  5  2 Bf  -     -     -         1491   10    0 
+comlink   958060625  5  1 Bf  -     -     -         1481    5    0 
+comlink   958060645  5  5 c   cc    f     -         1476   40    0 
+comlink   958060680  5  4 cc  kf    -     -         1436   20    0 
+comlink   958060713  6  3 f   -     -     -         1416    0    0 
+comlink   958060747  6  2 Bf  -     -     -         1416   10    0 
+comlink   958060755  6  1 Bc  b     -     -         1406   20   30 
+comlink   958060780  6  6 f   -     -     -         1416    0    0 
+comlink   958060806  6  5 c   c     k     k         1416   20    0 Jh Ts
+comlink   958060846  6  4 c   c     r     b         1396   80  230 6c 3c
+comlink   958060881  7  3 c   b     c     f         1546   40    0 
+comlink   958060975  6  2 Bc  kc    kc    kf        1506   50    0 
+comlink   958060995  7  1 Bc  kc    kc    kc        1456   70    0 2d 3h
+comlink   958061037  7  7 c   c     c     c         1386   60  165 Ac 2c
+comlink   958061092  8  7 r   cc    f     -         1491   60    0 
+comlink   958061142  9  7 c   r     b     -         1431   50  195 
+comlink   958061230  9  6 r   fQ    -     -         1576   20    0 
+comlink   958068350  9  4 c   c     k     cc        1556   60    0 Tc 7h
+comlink   958068435 10  4 c   k     kc    b         1496   50  175 2d Ah
+comlink   958068491 10  3 c   kc    kc    kc        1621   80    0 8s Qc
+comlink   958068568  9  2 Bf  -     -     -         1541   10    0 
+comlink   958068610 10  1 Bc  k     k     kc        1531   30   70 Ah 5d
+comlink   958068647 10 10 c   k     f     -         1571   10    0 
+comlink   958068724 10  9 c   b     brc   kc        1561  120    0 3d Kc
+comlink   958068771 10  8 c   c     k     k         1441   30    0 4s 7s
+comlink   958068815 10  7 r   b     b     b         1411   70  230 8d 8s
+comlink   958068881 10  6 r   b     b     c         1571   70    0 Ac Ad
+comlink   958068946 10  5 f   -     -     -         1501    0    0 
+comlink   958069037 10  4 c   k     k     kc        1501   30   70 3h Jh
+comlink   958069166 10  4 c   b     kc    kf        1541   40    0 
+comlink   958069273  9  1 Bc  kc    k     kf        1501   30    0 
+comlink   958069315  9  1 Bf  -     -     -         1471    5    0 
+comlink   958069374  9  9 c   c     c     f         1466   40    0 
+comlink   958069404  9  8 r   k     b     -         1426   40   75 
+comlink   958069435  9  7 cc  kc    kc    k         1461   50    0 Td Kc
+comlink   958069477  9  6 c   kc    kc    b         1411   80  290 5h 6h
+comlink   958069560  9  5 f   -     -     -         1621    0    0 
+comlink   958069627  9  4 f   -     -     -         1621    0    0 
+comlink   958069720  9  3 c   k     kf    -         1621   10    0 
+comlink   958069768  9  2 Br  b     b     b         1611   70  300 Jd Jc
+comlink   958069849  9  1 Bf  -     -     -         1841    5    0 
+comlink   958069953  9  9 c   f     -     -         1836   20    0 
+comlink   958070007  9  8 c   r     k     c         1816   50    0 Jd 6c
+comlink   958070037  9  7 c   c     r     c         1766   80  230 2s 5s
+comlink   958070078  9  6 r   k     k     b         1916   40  105 
+comlink   958070115  9  5 f   -     -     -         1981    0    0 
+comlink   958070168  8  4 c   k     k     k         1981   10    0 9h 8s
+comlink   958070201  7  3 f   -     -     -         1971    0    0 
+comlink   958070234  7  2 Bk  k     k     k         1971   10    0 Jd 8s
+comlink   958070273  7  1 Bf  -     -     -         1961    5    0 
+comlink   958070285  7  7 f   -     -     -         1956    0    0 
+comlink   958070308  7  6 c   k     b     b         1956   50  160 Qs Jc
+comlink   958070356  7  5 c   k     c     k         2066   30    0 Ks 5s
+comlink   958070406  7  4 c   k     c     f         2036   30    0 
+comlink   958070462  7  3 r   kc    kc    kc        2006   70    0 8c 8d
+comlink   958070523  7  2 Br  b     b     -         1936   50  120 
+comlink   958070557  7  1 BQ  -     -     -         2006    5    0 
+comlink   958081272  6  6 c   c     k     f         1816   30    0 
+comlink   958081316  6  5 c   k     c     f         1786   60    0 
+comlink   958081358  5  4 c   c     f     -         1726   40    0 
+comlink   958081394  5  3 cc  c     c     c         1686   70    0 Ks 4s
+comlink   958081431  4  2 Bk  kc    k     k         1616   20    0 Qs 2c
+comlink   958081455  4  1 Bc  kc    b     k         1596   50  130 2c Jc
+comlink   958081483  4  4 c   c     c     b         1676   70  180 4s 6s
+comlink   958081510  4  3 cc  f     -     -         1786   20    0 
+comlink   958081541  4  2 Bc  kc    k     b         1766   50   85 
+comlink   958081567  4  1 Bc  kc    k     k         1801   30    0 6s Ac
+comlink   958081598  4  4 c   c     f     -         1771   20    0 
+comlink   958081622  4  3 f   -     -     -         1751    0    0 
+comlink   958081637  4  2 Bk  b     b     k         1751   40   90 Js 4s
+comlink   958081663  4  1 Bc  kc    kc    kf        1801   50    0 
+comlink   958081710  5  4 f   -     -     -         1751    0    0 
+comlink   958081757  6  3 c   kc    kc    kf        1751   40    0 
+comlink   958081786  6  2 Bk  c     b     b         1711   60  100 
+comlink   958081815  6  1 Bc  k     kf    -         1751   20    0 
+comlink   958081853  6  6 f   -     Q     -         1731    0    0 
+comlink   958103097  5  3 c   k     c     f         1731   30    0 
+comlink   958103119  5  2 Bk  k     k     k         1701   10   30 4h Qd
+comlink   958103142  5  1 Bc  k     k     b         1721   30   50 
+comlink   958103165  5  5 f   -     -     -         1741    0    0 
+comlink   958103170  5  4 c   k     k     k         1741   10    0 Th Kd
+comlink   958103195  6  3 f   -     -     -         1731    0    0 
+comlink   958103222  7  2 Bc  bc    c     f         1731   60    0 
+comlink   958103254  7  1 Bf  -     -     -         1671    5    0 
+comlink   958103303  7  7 c   k     rr    b         1666  110  360 
+comlink   958103398  7  6 c   k     c     k         1916   30    0 5h Qc
+comlink   958103451  5  3 c   b     -     -         1886   20   50 
+comlink   958103482  5  2 Bf  -     -     -         1916   10    0 
+comlink   958103511  5  1 Bf  -     -     -         1906    5    0 
+comlink   958103538  6  6 r   c     f     -         1901   30    0 
+comlink   958103609  4  4 c   c     c     r         1871   80  210 6h 7d
+comlink   958103635  5  4 cc  kr    brc   k         2001  120  255 9h 4s
+comlink   958103658  5  3 rc  k     k     k         2136   30    0 Kc Qs
+comlink   958103677  5  2 Bc  kc    kc    kf        2106   50    0 
+comlink   958103716  7  1 Bc  b     k     b         2056   40  100 
+comlink   958103753  8  8 c   c     c     k         2116   70    0 Th 8s
+comlink   958103786  9  8 cc  c     c     f         2046   60    0 
+comlink   958103870 10  8 cc  kc    kc    k         1986   50    0 5d 9h
+comlink   958103936 10  7 cc  f     -     -         1936   20    0 
+comlink   958103984 10  6 c   k     f     -         1916   10    0 
+comlink   958104063 10  5 c   kc    kc    k         1906   50    0 3h Jd
+comlink   958104129 10  4 cc  kf    -     -         1856   20    0 
+comlink   958104190 10  3 ccc kf    -     -         1836   30    0 
+comlink   958104284 10  2 Bk  k     f     -         1806   10    0 
+comlink   958104332 10  1 Bc  kf    -     -         1796   20    0 
+comlink   958104374 10 10 c   ccc   c     c         1776  120    0 Th Jh
+comlink   958104454 10  9 ccc Q     -     -         1656   40    0 
+comlink   958163446  3  1 Bc  k     kf    -         1963   10    0 
+comlink   958163458  3  3 c   k     k     k         1953   10   30 Ah Jc
+comlink   958163473  3  2 Bk  bc    kc    kc        1973   70    0 3s Jc
+comlink   958163492  3  1 Bcc kc    bc    kc        1903   90    0 Ac 7c
+comlink   958163521  4  4 c   k     c     c         1813   50    0 As 6h
+comlink   958163544  5  4 c   kc    kc    r         1763   80  250 Ad 3d
+comlink   958163583  5  3 c   kf    -     -         1933   10    0 
+comlink   958163611  5  2 Bk  k     k     k         1923   10    0 Jc 6s
+comlink   958163651  5  1 Bc  k     k     k         1913   10   30 As 9c
+comlink   958163707  5  5 c   c     f     -         1933   20    0 
+comlink   958163733  5  4 cf  -     -     -         1913   10    0 
+comlink   958163772  5  3 c   f     -     -         1903   10    0 
+comlink   958163786  5  2 Bc  kc    kf    -         1893   30    0 
+comlink   958163854  5  1 Bc  kf    -     -         1863   10    0 
+comlink   958163887  5  5 c   c     c     c         1853   70  155 4h 6d
+comlink   958163904  4  3 c   k     k     b         1938   30   65 Qd Th
+comlink   958163928  4  2 Bk  k     k     b         1973   30   70 Jd Ah
+comlink   958163952  4  1 Bc  kc    kc    kf        2013   40    0 
+comlink   958163981  5  5 c   r     b     rc        1973  110    0 Jd Kc
+comlink   958164031  5  4 c   Q     -     -         1863   20    0 
+comlink   958363867  9  3 ccc kQ    -     -         2693   40    0 
+comlink   958408162  9  9 c   c     c     f         2408   60    0 
+comlink   958408200  9  8 c   k     f     -         2348   20    0 
+comlink   958408256  8  7 c   f     -     -         2328   10    0 
+comlink   958408272  8  6 f   -     -     -         2318    0    0 
+comlink   958408294  8  5 c   f     -     -         2318   10    0 
+comlink   958408315  9  5 cc  kc    kc    kf        2308   50    0 
+comlink   958408365  7  3 cc  kc    kc    kf        2258   50    0 
+comlink   958408400  7  2 Bc  kf    -     -         2208   20    0 
+comlink   958408428  7  1 Bc  k     b     -         2188   30   50 
+comlink   958408455  7  7 c   c     f     -         2208   20    0 
+comlink   958408512  8  7 c   c     c     f         2188   50    0 
+comlink   958408540  6  5 cc  k     f     -         2138   20    0 
+comlink   958408599  6  4 r   b     bc    c         2118   90    0 9d 9s
+comlink   958408620  6  3 cc  r     bc    k         2028   80  220 Qs Kh
+comlink   958408656  6  2 B   -     -     -         2168   10   15 
+comlink   958408663  6  1 Bc  k     k     b         2173   30   60 
+comlink   958408714  5  5 cc  cc    c     f         2203   60    0 
+comlink   958408761  5  4 c   f     -     -         2143   10    0 
+comlink   958408786  5  3 c   k     k     k         2133   10    0 Js Td
+comlink   958408824  4  2 Bc  kcc   kc    k         2123   80    0 8d 9s
+comlink   958408865  4  1 Bc  kc    kc    kc        2043   70  150 4c 3c
+comlink   958408888  4  4 c   b     b     -         2123   40   80 
+comlink   958408929  5  3 r   r     bc    c         2163  100    0 7d 7h
+comlink   958408955  4  2 Bk  k     b     b         2063   50   90 
+comlink   958408997  4  1 Bf  -     -     -         2103    5    0 
+comlink   958409008  4  4 c   k     k     k         2098   10    0 6d 7s
+comlink   958409066  6  3 c   cc    kc    kc        2088   70    0 Kh 4d
+comlink   958409119  6  2 Bc  bc    kc    kf        2018   70    0 
+comlink   958409164  6  1 Bcc kc    kc    kc        1948   70    0 5d 2s
+comlink   958409188  5  5 c   c     k     k         1878   30  100 8s Qs
+comlink   958409213  6  4 cc  kf    -     -         1948   20    0 
+comlink   958409227  6  3 c   k     k     k         1928   10   40 9s Th
+comlink   958409262  6  3 cc  f     -     -         1958   20    0 
+comlink   958409279  6  2 Bk  k     c     f         1938   30    0 
+comlink   958409294  6  1 Bc  kf    -     -         1908   20    0 
+comlink   958409346  6  6 cc  r     b     b         1888  100  420 4d Ts
+comlink   958409403  6  5 cc  k     k     k         2208   20    0 6h Kd
+comlink   958409448  5  3 c   f     -     -         2188   10    0 
+comlink   958409487  5  2 Br  b     -     -         2178   30   55 
+comlink   958409501  5  1 Bc  kc    kf    -         2203   20    0 
+comlink   958409542  5  5 f   -     -     -         2183    0    0 
+comlink   958409563  5  4 cc  k     f     -         2183   20    0 
+comlink   958409605  5  3 c   b     -     -         2163   20   40 
+comlink   958409628  5  2 Bf  -     -     -         2183   10    0 
+comlink   958409656  5  1 Bc  kc    kf    -         2173   30    0 
+comlink   958409684  6  5 c   c     r     b         2143   90    0 8h Th
+comlink   958409714  6  4 c   k     kc    kc        2053   50    0 4c 4d
+comlink   958409748  7  4 cc  b     b     b         2003   70  195 Td Qd
+comlink   958409806  7  3 cc  b     k     kf        2128   30    0 
+comlink   958409885  9  2 Bc  kc    kf    -         2098   30    0 
+comlink   958409907  9  1 Bc  b     kc    kc        2068   60    0 Th Jh
+comlink   958409980  9  9 f   -     -     -         2008    0    0 
+comlink   958410034  9  8 c   c     c     f         2008   50    0 
+comlink   958410088  9  7 c   c     k     k         1958   20   60 2s 5d
+comlink   958410121  9  6 cc  k     c     k         1998   40  140 Qh Kd
+comlink   958410171  9  5 c   k     bc    brc       2098  130  340 Ad 4d
+comlink   958410231  9  4 c   k     k     k         2308   10    0 Kc 4c
+comlink   958410279 10  3 c   f     -     -         2298   10    0 
+comlink   958410363 10  2 Bc  kc    k     kf        2288   30    0 
+comlink   958410440 10  1 Bc  kf    -     -         2258   10    0 
+comlink   958410474 10 10 c   cc    c     f         2248   60    0 
+comlink   958410521 10  9 rr  kc    kc    c         2188  110    0 Ad Ac
+comlink   958410590 10  8 c   f     -     -         2078   10    0 
+comlink   958410653 10  7 cc  kc    c     f         2068   50    0 
+comlink   958410712 10  6 cc  c     f     -         2018   30    0 
+comlink   958410798 10  5 c   b     b     b         1988   60    0 Ah 7c
+comlink   958410845 10  4 c   k     k     f         1928   10    0 
+comlink   958410918 10  3 cc  k     kc    b         1918   60  285 5d 9d
+comlink   958410972 10  2 Bc  kf    -     -         2143   20    0 
+comlink   958411019 10  1 Bc  kc    k     kf        2123   20    0 
+comlink   958411062 10 10 c   cc    f     -         2103   50    0 
+comlink   958411147 10  9 c   k     k     f         2053   20    0 
+comlink   958411201 10  8 r   kc    k     c         2033   50    0 Kd Kh
+comlink   958411263 10  7 c   k     k     f         1983   10    0 
+comlink   958411323 10  6 c   kc    k     b         1973   40  155 
+comlink   958411381 10  5 c   k     b     kc        2088   50    0 7d 9c
+comlink   958411421 10  4 c   cc    b     b         2038   70  175 Qd 8c
+comlink   958411475 10  3 f   -     -     Q         2143    0    0 
+comlink   958413169  4  4 cc  f     -     -         2143   20    0 
+comlink   958413179  4  3 c   k     f     -         2123   10    0 
+comlink   958413206  4  2 Bc  kc    kf    -         2113   30    0 
+comlink   958413232  4  1 Bc  kf    -     -         2083   20    0 
+comlink   958413247  4  4 cc  c     r     -         2063   70  170 
+comlink   958413268  4  3 cc  r     r     b         2163  100  240 3s Ad
+comlink   958413292  5  2 Bk  kc    kc    kf        2303   40    0 
+comlink   958413325  6  1 Bc  kc    kc    kc        2263   70   90 Qc As
+comlink   958413357  6  6 c   k     b     -         2283   30   60 
+comlink   958413382  7  6 c   cf    -     -         2313   30    0 
+comlink   958413460  6  5 c   c     c     r         2283   90    0 6s 2c
+comlink   958413491  6  4 c   c     c     f         2193   50    0 
+comlink   958413525  6  3 f   -     -     -         2143    0    0 
+comlink   958413554  6  2 Bk  k     b     b         2143   50   90 
+comlink   958413587  6  1 Bc  kc    brc   kc        2183  150    0 6s 5h
+comlink   958413668  7  7 c   c     k     f         2033   20    0 
+comlink   958413718  8  7 c   f     -     -         2013   20    0 
+comlink   958413769  8  6 c   f     -     -         1993   10    0 
+comlink   958413804  8  5 c   f     -     -         1983   20    0 
+comlink   958413864  8  4 c   f     -     -         1963   20    0 
+comlink   958413922  8  3 cc  c     cc    kf        1943   70    0 
+comlink   958414018  8  2 Bc  kf    -     -         1873   20    0 
+comlink   958414054  8  1 Bc  kc    kc    k         1853   50    0 Jh 8c
+comlink   958414092  6  6 c   c     r     c         1803  100  355 5h 3d
+comlink   958414138  7  5 c   b     c     f         2058   40    0 
+comlink   958414173  8  4 c   k     b     -         2018   30   50 
+comlink   958414222  8  3 c   b     k     f         2038   20    0 
+comlink   958414267  8  2 Bk  b     b     b         2018   60  195 Tc 8c
+comlink   958414320  8  1 Bc  kcc   kf    -         2153   40    0 
+comlink   958414376  9  9 c   f     -     -         2113   10    0 
+comlink   958414427  8  7 c   c     k     f         2103   20    0 
+comlink   958414458  8  6 cc  kf    -     -         2083   20    0 
+comlink   958414492  8  5 cc  c     c     f         2063   50    0 
+comlink   958414527  9  4 c   f     -     -         2013   10    0 
+comlink   958414572  9  3 c   kc    kfQ   -         2003   20    0 
+comlink   958416741  5  3 cc  k     c     f         1983   50    0 
+comlink   958416780  5  2 Brc kc    kc    b         1933   90  340 Ah 8h
+comlink   958416837  5  1 Bc  kf    -     -         2183   20    0 
+comlink   958416858  7  5 cc  cc    c     c         2163  130  510 6d 2d
+comlink   958416917  7  4 cc  f     -     -         2543   20    0 
+comlink   958416962  7  3 Q   -     -     -         2523    0    0 
+comlink   958418723 10 10 f   -     -     -         2523    0    0 
+comlink   958418785 10  9 r   k     b     -         2523   40  105 
+comlink   958418844 10  8 c   k     k     f         2588   10    0 
+comlink   958418872 10  7 c   c     b     b         2578   70  215 
+comlink   958418915 10  6 cc  k     k     k         2723   40    0 4d Ac
+comlink   958418974 10  6 c   k     c     f         2683   30    0 
+comlink   958419007  9  4 cc  kc    kc    kc        2653   70  235 3s 4h
+comlink   958419068  9  3 c   cc    c     k         2818   50    0 7c 5c
+comlink   958419129 10  2 Bc  bc    kf    -         2768   50    0 
+comlink   958419235 10  1 Br  k     kc    b         2718   60  140 
+comlink   958419291 10  3 Q   -     -     -         2798    0    0 
+comlink   958429553  9  6 ccc ccc   kc    c         2623  120    0 Ac 6h
+comlink   958429622  9  5 cc  kc    kc    kf        2503   50    0 
+comlink   958429678 10  5 c   k     b     k         2453   30    0 6d Ad
+comlink   958429737 10  4 rc  kr    b     k         2423   70    0 Jh Ah
+comlink   958429796 10  3 fQ  -     -     -         2353    0    0 
+comlink   958581773  6  3 f   -     -     -         1893    0    0 
+comlink   958581783  6  2 Bk  k     k     k         1893   10   20 Ac Qd
+comlink   958581805  6  1 Bc  k     k     kf        1903   10    0 
+comlink   958581837  6  6 c   k     k     c         1893   30    0 4s 3s
+comlink   958581869  6  5 c   c     rc    c         1863  100  220 Ac Ts
+comlink   958581909  7  5 c   k     c     k         1983   30    0 Tc Jh
+comlink   958581949  7  4 c   k     c     r         1953   70  135 
+comlink   958582004  9  5 f   -     -     -         2018    0    0 
+comlink   958582051  8  3 r   kc    c     c         2018   70    0 6s 6c
+comlink   958582119  8  3 c   f     -     -         1948   10    0 
+comlink   958582141  9  2 Bc  kc    kf    -         1938   30    0 
+comlink   958582172  9  1 Bc  kc    kf    -         1908   20    0 
+comlink   958582200  9  9 f   -     -     -         1888    0    0 
+comlink   958582272  8  7 c   c     c     f         1888   60    0 
+comlink   958582308  8  6 cc  f     -     -         1828   30    0 
+comlink   958582364  9  6 c   c     cc    kf        1798   90    0 
+comlink   958582440 10  6 c   kf    -     -         1708   10    0 
+comlink   958582520 10  5 c   c     f     -         1698   30    0 
+comlink   958582565 10  4 c   kc    c     kf        1668   50    0 
+comlink   958582616 10  4 c   kf    -     -         1618   10    0 
+comlink   958582666 10  2 Bc  c     c     f         1608   50    0 
+comlink   958582703 10  1 Bc  k     kc    k         1558   50    0 8c 5s
+comlink   958582760 10 10 c   c     k     f         1508   40    0 
+comlink   958582814  9  8 c   c     r     b         1468   80  270 6d Kd
+comlink   958582870  9  7 c   c     c     r         1658  110  550 Js Ts
+comlink   958582928 10  7 f   -     -     -         2098    0    0 
+comlink   958583004 10  6 c   k     c     f         2098   40    0 
+comlink   958583051 10  5 cc  kc    kf    -         2058   60    0 
+comlink   958583123 10  4 cc  kc    kc    kf        1998   50    0 
+comlink   958583170 10  3 f   -     -     -         1948    0    0 
+comlink   958583226 10  2 Bcc kc    kf    -         1948   50    0 
+comlink   958583326 10  1 Bc  k     kf    -         1898   10    0 
+comlink   958583387 10 10 f   -     -     -         1888    0    0 
+comlink   958583432 10  9 c   r     b     k         1888   80    0 Kd Th
+comlink   958583477 10  8 cc  f     -     -         1808   20    0 
+comlink   958583538 10  7 rr  c     r     b         1788  110  420 
+comlink   958583611 10  6 c   c     Q     -         2098   30    0 
+comlink   958743453  6  5 r   r     r     bA          84   84  298 Ad Ks
+comlink   958743491  6  4 f   -     -     -          298    0    0 
+comlink   958743526  5  2 Bk  k     k     kf         298   10    0 
+comlink   958743564  4  1 Bf  -     -     -          288    5    0 
+comlink   958743572  4  4 c   k     k     k          283   10    0 Ts 5s
+comlink   958743594  5  3 c   k     b     kf         273   30    0 
+comlink   958743620  5  2 Bk  k     r     k          243   50  160 9d 6s
+comlink   958743653  7  1 Bc  k     b     -          353   30   40 
+comlink   958743679  7  7 c   b     b     c          363   60  140 4d Qs
+comlink   958743731  6  5 f   -     -     -          443    0    0 
+comlink   958743760  6  4 c   c     f     -          443   20    0 
+comlink   958743799  7  3 f   -     -     -          423    0    0 
+comlink   958743898  8  2 Bf  -     -     -          423   10    0 
+comlink   958743960  9  1 Bc  kf    -     -          413   10    0 
+comlink   958744029  9  9 c   f     -     -          403   30    0 
+comlink   958744075  8  7 c   f     -     -          373   30    0 
+comlink   958744115  9  5 c   k     c     f          343   30    0 
+comlink   958744151  9  4 f   -     -     -          313    0    0 
+comlink   958744205 10  3 cc  kc    kc    b          313   70    0 9h Qh
+comlink   958744298  8  2 Bk  kf    -     -          243   10    0 
+comlink   958744345  7  1 Bc  k     k     kf         233   10    0 
+comlink   958744380  7  7 c   f     -     -          223   10    0 
+comlink   958744410  6  5 cc  b     b     -          213   50  125 
+comlink   958744444  6  4 c   kc    kc    kf         288   40    0 
+comlink   958744500  6  3 c   c     c     k          248   40    0 Jc Qd
+comlink   958744524  6  2 Br  kcc   kf    -          208   70    0 
+comlink   958744565  6  1 BQ  -     -     -          138    5    0 
+comlink   958754703 10  3 cc  f     -     -          133   30    0 
+comlink   958754774 10  2 Bcc kc    kc    kc         103  100    0 Jc Tc
+comlink   958754883  8  1 BA  -     -     -            3    3    0 Ah Td
+comlink   958773338  8  5 c   cc    c     c         1000   80  190 8s As
+comlink   958773371  9  5 cc  k     c     c         1110   60  180 3c Ac
+comlink   958773431  9  4 cc  f     -     -         1230   20    0 
+comlink   958773493  8  3 c   kc    c     c         1210   60    0 As 3c
+comlink   958773553  8  2 Bk  kc    kc    kf        1150   40    0 
+comlink   958773589  8  1 Bc  kc    kc    k         1110   50    0 Qd 3s
+comlink   958773655  8  8 cc  c     k     k         1060   40    0 3s Qc
+comlink   958773711  9  8 c   k     c     b         1020   50  165 
+comlink   958773774  8  6 c   b     k     k         1135   20   70 4s Tc
+comlink   958773814  8  6 c   c     k     k         1185   20   75 Ah 9c
+comlink   958773861  8  5 KQ  -     -     -         1240    0    0 
+comlink   958821537  2  2 B   -     -     -         1145   10   15 
+comlink   958821548  2  1 Bc  k     k     k         1150   10    0 5c Tc
+comlink   958821566  2  2 B   -     -     -         1140   10   15 
+comlink   958821590  2  1 Bf  -     -     -         1145    5    0 
+comlink   958821593  2  2 Bc  k     c     c         1140   60  120 8c Qs
+comlink   958821606  2  1 Bc  kc    k     k         1200   20    0 3h Kd
+comlink   958821624  2  2 Bk  k     f     -         1180   10    0 
+comlink   958821637  2  1 Bf  -     -     -         1170    5    0 
+comlink   958821639  2  2 B   -     -     -         1165   10   15 
+comlink   958821642  2  1 Bc  b     -     -         1170   20   30 
+comlink   958821648  2  2 B   -     -     -         1180   10   15 
+comlink   958821651  2  1 Bf  -     -     -         1185    5    0 
+comlink   958821653  2  2 Bf  -     -     -         1180   10    0 
+comlink   958821658  2  1 Bc  kc    k     k         1170   20    0 Jc 3c
+comlink   958821671  2  2 B   -     -     -         1150   10   15 
+comlink   958821677  2  1 Bcc k     bc    kc        1155   80    0 2c 2d
+comlink   958821692  2  2 B   -     -     -         1075   10   15 
+comlink   958821697  2  1 Bf  -     -     -         1080    5    0 
+comlink   958821700  2  2 B   -     -     -         1075   10   15 
+comlink   958821703  2  1 Bc  b     -     -         1080   20   30 
+comlink   958821710  2  2 B   -     -     -         1090   10   15 
+comlink   958821713  2  1 Bf  -     -     -         1095    5    0 
+comlink   958821714  2  2 Br  k     k     b         1090   50   80 
+comlink   958821732  2  1 Bc  k     k     kc        1120   30    0 Qs 9c
+comlink   958821747  2  2 Bk  k     k     k         1090   10    0 As 5d
+comlink   958821763  2  1 Bc  kc    k     k         1080   20    0 Jh Ah
+comlink   958821780  2  2 B   -     -     -         1060   10   15 
+comlink   958821786  2  1 Bc  b     b     b         1065   60    0 Qc 2c
+comlink   958821799  2  2 Br  k     b     -         1005   50   80 
+comlink   958821815  2  1 Bc  b     b     kc        1035   60    0 Jh 7s
+comlink   958821834  2  2 B   -     -     -          975   10   15 
+comlink   958821840  2  1 Bc  k     k     b          980   30   40 
+comlink   958821852  2  2 B   -     -     -          990   10   15 
+comlink   958821854  2  1 Bc  k     k     k          995   10   20 2c Jd
+comlink   958821866  2  2 Bk  k     f     -         1005   10    0 
+comlink   958821876  2  1 Bcc k     k     b          995   40   60 
+comlink   958821891  2  2 Bk  k     k     f         1015   10    0 
+comlink   958821902  2  1 Bc  kc    k     k         1005   20    0 8c Qc
+comlink   958821915  2  2 Bk  k     c     k          985   30    0 As Td
+comlink   958821930  2  1 Bc  k     k     k          955   10   20 3h 9c
+comlink   958821943  2  2 B   -     -     -          965   10   15 
+comlink   958821949  2  1 Bc  k     k     b          970   30   40 
+comlink   958821960  2  2 B   -     -     -          980   10   15 
+comlink   958821963  2  1 Bc  k     kc    kf         985   30    0 
+comlink   958821978  2  2 B   -     -     -          955   10   15 
+comlink   958821980  2  1 Bc  k     k     k          960   10    0 8h 7d
+comlink   958821991  2  2 Bk  k     k     bc         950   50   50 7c Ac
+comlink   958822009  2  1 Bc  b     -     -          950   20   30 
+comlink   958822019  2  2 Bf  -     -     -          960   10    0 
+comlink   958822024  2  1 Br  -     -     -          950   20   30 
+comlink   958822028  2  2 B   -     -     -          960   10   15 
+comlink   958822030  2  1 Bcc k     k     b          965   40   80 4h As
+comlink   958822043  2  2 Bk  k     k     k         1005   10   20 Qh Ks
+comlink   958822061  2  1 Bcc kc    kf    -         1015   30    0 
+comlink   958822088  2  2 BQ  -     -     -          985   10    0 
+comlink   958836282  5  5 c   k     k     f          975   10    0 
+comlink   958836310  5  4 c   rc    c     b          965   90  290 2s 5s
+comlink   958836368  5  3 c   kf    -     -         1165   10    0 
+comlink   958836415  5  2 Bk  k     c     k         1155   30  120 7c 2c
+comlink   958836449  5  1 Bc  kc    kf    -         1245   30    0 
+comlink   958836485  5  5 c   k     f     -         1215   10    0 
+comlink   958836510  5  4 c   k     f     -         1205   10    0 
+comlink   958836538  5  3 c   f     -     -         1195   10    0 
+comlink   958836575  5  2 Bk  k     c     c         1185   50    0 6h 2h
+comlink   958836594  5  1 Bc  kc    kc    krc       1135  110    0 5c Qd
+comlink   958836618  5  5 c   k     c     f         1025   30    0 
+comlink   958836644  5  4 c   c     c     c          995   60    0 Jd 4h
+comlink   958836684  5  3 r   bc    k     kf         935   40    0 
+comlink   958836722  4  2 Bc  kf    -     -          895   30    0 
+comlink   958836747  4  1 Br  brc   bc    kc         865  120  320 Ah Qc
+comlink   958836785  4  4 c   Q     -     -         1065   10    0 
+comlink   958915812  5  4 c   k     k     k          665   10    0 7s Kc
+comlink   958915852  5  3 c   c     c     c          655   60   65 Jh Th
+comlink   958915876  5  2 Bk  k     b     -          660   30   50 
+comlink   958915941  5  1 Bc  k     kc    kf         680   30    0 
+comlink   958915968  5  5 c   k     c     f          650   30    0 
+comlink   958915993  5  4 c   k     k     f          620   10    0 
+comlink   958916016  6  3 c   k     k     kf         610   10    0 
+comlink   958916050  7  2 Bk  kc    kc    kc         600   60    0 Jh 8d
+comlink   958916075  7  1 Bc  kf    -     -          540   10    0 
+comlink   958916118  7  7 r   k     c     f          530   40    0 
+comlink   958916163  7  6 cc  f     -     -          490   20    0 
+comlink   958916188  7  5 c   kc    k     k          470   20    0 Kh 4h
+comlink   958916223  7  4 cc  kc    kc    kc         450   70    0 8d 6d
+comlink   958916248  7  3 c   rc    kc    k          380   60    0 2c 2h
+comlink   958916294  7  2 Bc  kf    -     -          320   20    0 
+comlink   958916371  7  1 Bccc kf    -     -          300   40    0 
+comlink   958916430  7  7 cc  c     rc    c          260  140  620 6h Th
+comlink   958916502  6  5 cc  c     c     r          740   90  235 Kc Ah
+comlink   958916555  4  4 c   b     -     -          885   20   35 
+comlink   958916579  3  3 c   b     bc    c          900   80    0 Qc 9c
+comlink   958916603  3  2 Bk  b     b     bc         820   80    0 5c Kc
+comlink   958916639  3  1 Bc  k     k     kf         740   10    0 
+comlink   958916664  3  3 c   k     b     -          730   30   45 
+comlink   958916681  3  2 Bk  k     c     f          745   30    0 
+comlink   958916705  3  1 Bc  k     k     b          715   30   40 
+comlink   958916729  3  3 c   k     b     b          725   50   85 
+comlink   958916749  3  2 B   -     -     -          760   10   15 
+comlink   958916755  3  1 Bc  k     k     k          765   10   20 7d 4h
+comlink   958916770  3  3 c   k     k     k          775   10    0 9s 5h
+comlink   958916789  3  2 Bk  k     k     k          765   10    0 9d 3d
+comlink   958916815  3  1 Bc  kc    kc    kc         755   60    0 As 8d
+comlink   958916841  3  3 c   k     k     k          695   10    0 9h Kh
+comlink   958916859  3  2 Bk  kQ    -     -          685   10    0 
+comlink   958917521  4  4 c   b     b     c          675   60  150 Qd As
+comlink   958917557  4  3 r   b     bc    kc         765   90  260 Kd Kc
+comlink   958917593  4  2 Bk  kc    kc    b          935   60  140 3c Jh
+comlink   958917631  6  1 Bc  kc    kc    kf        1015   50    0 
+comlink   958917674  7  7 c   c     f     -          965   20    0 
+comlink   958917714  7  6 c   k     kc    k          945   30    0 5c 4c
+comlink   958917755  6  4 c   c     c     cc         915   80    0 Th Qc
+comlink   958917804  5  3 c   k     k     k          835   10    0 Qc 7h
+comlink   958917832  5  2 Bk  k     kc    k          825   30    0 Qs Tc
+comlink   958917856  5  1 Bc  kc    kc    kf         795   40    0 
+comlink   958917884  5  5 cc  c     c     c          755   70    0 Ks 9c
+comlink   958917916  5  4 cc  c     k     b          685   50  190 Th 2s
+comlink   958917976  6  3 c   b     b     b          825   60  160 
+comlink   958918012  6  2 Bk  k     k     c          925   30    0 Ah 2d
+comlink   958918040  6  1 Bc  kf    -     -          895   10    0 
+comlink   958918064  6  6 c   k     k     k          885   10    0 6s 3h
+comlink   958918097  7  5 c   b     b     b          875   60  180 Th 3h
+comlink   958918140  7  4 cc  kc    f     -          995   30    0 
+comlink   958918198  7  3 rr  bc    kc    kc         965  100  168 Ad As
+comlink   958918253  7  2 Bk  kf    -     -         1033   10    0 
+comlink   958918317  9  1 Bc  kc    kc    b         1023   70  190 Jh Qs
+comlink   958918367  9  9 c   f     -     -         1143   10    0 
+comlink   958918401  9  8 f   -     -     -         1133    0    0 
+comlink   958918439  9  7 cc  f     -     -         1133   20    0 
+comlink   958918508  9  6 cc  c     c     b         1113   70  220 4d Ac
+comlink   958918559  9  5 c   k     k     k         1263   10    0 8c Jh
+comlink   958918684  9  4 c   kc    kc    kf        1253   40    0 
+comlink   958918770  9  3 fQ  -     -     -         1213    0    0 
+comlink   959009201  4  4 c   k     bc    c         1213   70    0 Td Qd
+comlink   959009221  6  3 c   c     f     -         1143   20    0 
+comlink   959009236  6  2 Bk  b     b     kc        1123   60    0 6c As
+comlink   959009255  5  1 Bc  kc    kc    kf        1063   40    0 
+comlink   959009293  5  5 c   k     f     -         1023   10    0 
+comlink   959009319  4  3 c   k     k     k         1013   10    0 Ks 3h
+comlink   959009347  4  2 Bk  k     k     k         1003   10   20 9c 4s
+comlink   959009362  4  1 Bc  k     br    kc        1013   90  110 8d Ks
+comlink   959009409  4  4 c   c     f     -         1033   20    0 
+comlink   959009453  4  3 r   b     c     c         1013   70    0 8s Ac
+comlink   959009475  4  2 Bk  k     k     f          943   10    0 
+comlink   959009497  5  1 Br  bc    kc    kc         933   80    0 3d 3s
+comlink   959009531  5  5 c   k     rc    k          853   90  280 Ac 7d
+comlink   959009574  5  4 cc  Q     -     -         1043   20    0 

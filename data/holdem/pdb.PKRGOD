@@ -1,0 +1,548 @@
+PKRGOD    957333841 10  6 KQ  -     -     -          865    0    0 
+PKRGOD    957681915  6  5 c   c     c     c         1295   60  160 Qd 9d
+PKRGOD    957681963  6  4 r   r     b     b         1395   90  225 Kh Ks
+PKRGOD    957681999  8  3 c   kf    -     -         1530   10    0 
+PKRGOD    957682085 10  2 Bk  f     -     -         1520   10    0 
+PKRGOD    957682118 10  1 Bc  kf    -     -         1510   20    0 
+PKRGOD    957682158 10 10 c   c     f     -         1490   40    0 
+PKRGOD    957682201 10  9 cc  c     c     f         1450   90    0 
+PKRGOD    957682266 10  8 c   cc    c     r         1360  110  460 
+PKRGOD    957682335 10  8 f   -     -     -         1710    0    0 
+PKRGOD    957682385  8  5 cc  f     -     -         1710   40    0 
+PKRGOD    957682436  8  4 c   kc    k     k         1670   20  100 Qs 3c
+PKRGOD    957682479  8  3 c   k     b     b         1750   50  175 9s Kc
+PKRGOD    957682527  8  2 Br  kf    -     -         1875   20    0 
+PKRGOD    957682605  8  1 Bf  -     -     -         1855    5    0 
+PKRGOD    957682647  8  8 c   cc    f     -         1850   40    0 
+PKRGOD    957682705  7  6 c   k     k     k         1810   10    0 8s 8c
+PKRGOD    957682735  7  5 c   k     k     k         1800   10   50 9s 6s
+PKRGOD    957682781  6  3 c   c     f     -         1840   20    0 
+PKRGOD    957682843  6  2 Bk  f     -     -         1820   10    0 
+PKRGOD    957682879  6  1 Bf  -     -     -         1810    5    0 
+PKRGOD    957682906  6  6 c   c     f     -         1805   30    0 
+PKRGOD    957682961  7  6 f   -     -     -         1775    0    0 
+PKRGOD    957683015  7  5 c   cc    kf    -         1775   40    0 
+PKRGOD    957683091  8  5 c   k     r     b         1735   90  265 5h Js
+PKRGOD    957683152  8  4 cc  kc    br    b         1910  110  390 Ad Qs
+PKRGOD    957683222  8  3 c   kcc   k     kc        2190   50    0 9d 6s
+PKRGOD    957683291  8  2 Bc  k     c     r         2140   80    0 Jd 4s
+PKRGOD    957683369  8  1 Bc  kf    -     -         2060   10    0 
+PKRGOD    957683428 10 10 f   -     -     -         2050    0    0 
+PKRGOD    957683469 10  9 c   r     b     b         2050   80    0 Ad 2h
+PKRGOD    957683532 10  8 cc  k     kf    -         1970   20    0 
+PKRGOD    957683595 10  7 c   k     f     -         1950   10    0 
+PKRGOD    957683654 10  6 c   c     c     f         1940   50    0 
+PKRGOD    957683729 10  5 c   f     -     -         1890   10    0 
+PKRGOD    957683781  9  3 f   -     -     -         1880    0    0 
+PKRGOD    957683847  9  2 Bk  cf    -     -         1880   20    0 
+PKRGOD    957683904  9  1 Bcc k     kf    -         1860   20    0 
+PKRGOD    957684002 10 10 c   k     k     f         1840   20    0 
+PKRGOD    957684073 10  9 c   f     -     -         1820   10    0 
+PKRGOD    957684145 10  8 f   -     -     -         1810    0    0 
+PKRGOD    957684216 10  7 f   -     -     -         1810    0    0 
+PKRGOD    957684303 10  6 c   c     k     k         1810   20    0 Jh 9d
+PKRGOD    957684348 10  5 f   -     -     -         1790    0    0 
+PKRGOD    957684414 10  4 cc  k     k     k         1790   20    0 7d 5d
+PKRGOD    957684470  9  4 cc  kf    -     -         1770   20    0 
+PKRGOD    957684545  9  2 Bc  kf    -     -         1750   20    0 
+PKRGOD    957684597  9  1 Bc  kc    k     k         1730   20    0 Qh Ts
+PKRGOD    957684680  8  8 c   f     -     -         1710   20    0 
+PKRGOD    957684731  8  7 c   c     r     r         1690  120    0 Js Td
+PKRGOD    957684810  9  6 c   c     f     -         1570   20    0 
+PKRGOD    957684890  9  5 cc  kc    k     b         1550   50  145 
+PKRGOD    957684952  8  4 r   b     b     b         1645   70  150 
+PKRGOD    957684980  8  3 cr  rr    brc   kc        1725  180    0 2c 2d
+PKRGOD    957685094  8  2 Bk  k     k     r         1545   50    0 9d 7h
+PKRGOD    957685161 10  1 Bc  kc    b     b         1495   60  200 5h 5d
+PKRGOD    957685244 10 10 f   -     -     -         1635    0    0 
+PKRGOD    957685318  9  8 c   c     cc    f         1635   70    0 
+PKRGOD    957685378  9  7 c   k     c     f         1565   30    0 
+PKRGOD    957685445  9  6 c   f     -     -         1535   10    0 
+PKRGOD    957685484  9  5 c   kc    b     br        1525  100    0 Jd 7s
+PKRGOD    957685546  8  3 c   c     cc    c         1425  100    0 9h 9c
+PKRGOD    957685607  8  2 Bk  k     kc    k         1325   30   65 9d 8s
+PKRGOD    957685689  8  1 Bc  kc    k     kc        1360   60    0 6c 2c
+PKRGOD    957685833  5  5 cc  f     -     -         1300   30    0 
+PKRGOD    957685890  6  5 c   k     k     k         1270   10   45 6h 2d
+PKRGOD    957685927  6  4 c   br    brc   rr        1305  210    0 4s 4d
+PKRGOD    957686023  7  4 rc  cc    c     c         1095  110    0 Qs 7h
+PKRGOD    957686105  9  3 cc  kc    kc    kc         985   70  155 4s Js
+PKRGOD    957686159  9  2 Bc  cc    kf    -         1070   40    0 
+PKRGOD    957686229  8  1 Bc  kc    kc    kc        1030   70    0 Jd 7c
+PKRGOD    957686285  8  8 c   c     c     k          960   50    0 Tc 8c
+PKRGOD    957686357  8  7 f   -     -     -          910    0    0 
+PKRGOD    957686413  8  6 c   cc    c     c          910   80    0 6c Ks
+PKRGOD    957686491  8  5 c   kf    -     -          830   10    0 
+PKRGOD    957686537  8  4 c   kc    kc    br         820  100    0 Jh Qc
+PKRGOD    957686605  8  3 cc  kc    k     brc        720  110    0 Jh Qd
+PKRGOD    957686668  8  2 Bc  kc    kc    kc         610   70  180 8d 3d
+PKRGOD    957686769 10  1 Bf  -     -     -          720    5    0 
+PKRGOD    957686811 10 10 f   -     -     -          715    0    0 
+PKRGOD    957686944 10  9 cc  c     br    b          715  110  345 5s 6s
+PKRGOD    957687040 10  8 f   -     -     -          950    0    0 
+PKRGOD    957687082 10  7 cc  kcc   kf    -          950   70    0 
+PKRGOD    957687170 10  6 c   kc    kc    kf         880   40    0 
+PKRGOD    957687273 10  6 c   kf    -     -          840   10    0 
+PKRGOD    957687407 10  4 c   kf    -     -          830   10    0 
+PKRGOD    957687491 10  3 f   -     -     -          820    0    0 
+PKRGOD    957687570 10  2 Bk  k     kr    b          820   70  240 2s 7c
+PKRGOD    957687695 10  1 Bf  -     -     -          990    5    0 
+PKRGOD    957687763 10 10 c   k     f     -          985   10    0 
+PKRGOD    957687812 10  9 f   -     -     -          975    0    0 
+PKRGOD    957687893 10  8 f   -     -     -          975    0    0 
+PKRGOD    957687943 10  7 f   -     -     -          975    0    0 
+PKRGOD    957687998 10  6 f   -     -     -          975    0    0 
+PKRGOD    957688054 10  5 c   c     c     c          975   60    0 7d 9h
+PKRGOD    957688117 10  4 f   -     -     -          915    0    0 
+PKRGOD    957688163 10  3 c   cc    f     -          915   30    0 
+PKRGOD    957688272 10  2 Bk  kf    -     -          885   10    0 
+PKRGOD    957688325 10  1 Bcc kc    k     b          875   60  230 7s 2s
+PKRGOD    957688456 10 10 r   c     r     k         1045   80  395 Kd 6c
+PKRGOD    957688528 10  9 f   -     -     -         1360    0    0 
+PKRGOD    957688626 10  8 f   -     -     -         1360    0    0 
+PKRGOD    957688656 10  7 c   r     c     k         1360   60  280 9s 9d
+PKRGOD    957688758 10  6 c   kf    -     -         1580   10    0 
+PKRGOD    957688801 10  5 c   b     b     b         1570   60  195 
+PKRGOD    957688859 10  4 c   k     b     bf        1705   50    0 
+PKRGOD    957688919 10  3 f   -     -     -         1655    0    0 
+PKRGOD    957688984 10  2 Bc  kc    k     kc        1655   50    0 As Td
+PKRGOD    957689047 10  1 Bc  b     -     -         1605   30  120 
+PKRGOD    957689091 10 10 c   c     c     k         1695   40  190 Ks Qs
+PKRGOD    957689173 10  9 f   -     -     -         1845    0    0 
+PKRGOD    957689251 10  8 c   cr    brc   b         1845  150  510 8c As
+PKRGOD    957689395 10  7 f   -     -     -         2205    0    0 
+PKRGOD    957689444 10  6 cc  cf    -     -         2205   30    0 
+PKRGOD    957689531 10  5 f   -     -     -         2175    0    0 
+PKRGOD    957689598 10  4 cc  kf    -     -         2175   20    0 
+PKRGOD    957689661 10  3 f   -     -     -         2155    0    0 
+PKRGOD    957689705 10  2 Bk  k     kr    -         2155   50  150 
+PKRGOD    957689783 10  1 Bc  kc    kc    b         2255   60  190 Ks 4s
+PKRGOD    957689848  8  8 c   f     -     -         2385   10    0 
+PKRGOD    957689913  9  7 f   -     -     -         2375    0    0 
+PKRGOD    957689958  9  6 c   k     k     b         2375   30    0 Qd 6d
+PKRGOD    957690019 10  5 c   kc    kf    -         2345   20    0 
+PKRGOD    957690082 10  4 f   -     -     -         2325    0    0 
+PKRGOD    957690200  9  2 Bc  k     kf    -         2325   20    0 
+PKRGOD    957690273 10  1 BfQ -     -     -         2305    5    0 
+PKRGOD    957891593  5  2 Bk  kf    -     -         1427   10    0 
+PKRGOD    957891628  4  1 Bf  -     -     -         1417    5    0 
+PKRGOD    957891653  4  4 f   -     -     -         1412    0    0 
+PKRGOD    957891682  4  3 f   -     -     -         1412    0    0 
+PKRGOD    957891708  4  2 Bk  bc    kc    kc        1412   70    0 Ts Qc
+PKRGOD    957891733  4  1 Bf  -     -     -         1342    5    0 
+PKRGOD    957891760  5  5 r   b     -     -         1337   30   90 
+PKRGOD    957891785  5  4 c   k     k     f         1397   10    0 
+PKRGOD    957891808  5  3 f   -     -     -         1387    0    0 
+PKRGOD    957891835  5  2 Bk  k     f     -         1387   10    0 
+PKRGOD    957891857  5  1 Bf  -     -     -         1377    5    0 
+PKRGOD    957891861  5  5 f   -     -     -         1372    0    0 
+PKRGOD    957891885  5  4 f   -     -     -         1372    0    0 
+PKRGOD    957891906  5  3 f   -     -     -         1372    0    0 
+PKRGOD    957891925  5  2 Bk  kf    -     -         1372   10    0 
+PKRGOD    957891942  5  1 Bf  -     -     -         1362    5    0 
+PKRGOD    957891959  5  5 f   -     -     -         1357    0    0 
+PKRGOD    957891982  5  4 f   -     -     -         1357    0    0 
+PKRGOD    957892021  5  3 c   kc    kf    -         1357   20    0 
+PKRGOD    957892046  4  2 Bk  f     -     -         1337   10    0 
+PKRGOD    957892068  4  1 Bc  kc    k     k         1327   20   60 5d 5h
+PKRGOD    957892093  4  4 r   b     b     -         1367   50  110 
+PKRGOD    957892119  4  3 f   -     -     -         1427    0    0 
+PKRGOD    957892145  4  2 Bk  kf    -     -         1427   10    0 
+PKRGOD    957892174  4  1 Bf  -     -     -         1417    5    0 
+PKRGOD    957892196  4  4 c   f     -     -         1412   10    0 
+PKRGOD    957892206  4  3 c   k     f     -         1402   10    0 
+PKRGOD    957892225  4  2 Bc  kc    kc    k         1392   50  180 3s 7s
+PKRGOD    957892256  4  1 Bf  -     -     -         1522    5    0 
+PKRGOD    957892277  4  4 cc  k     b     b         1517   60  200 9s Js
+PKRGOD    957892312  4  3 f   -     -     -         1657    0    0 
+PKRGOD    957892341  5  2 Bk  k     k     b         1657   30   90 Jh 2s
+PKRGOD    957892369  5  1 Bf  -     -     -         1717    5    0 
+PKRGOD    957892396  5  5 r   c     rc    r         1712  130  290 Jc Kh
+PKRGOD    957892428  7  6 c   f     -     -         1872   10    0 
+PKRGOD    957892473  6  4 cc  c     c     k         1862   50  220 Kc 7c
+PKRGOD    957892512  6  3 c   kc    kf    -         2032   20    0 
+PKRGOD    957892552  8  4 c   f     -     -         2012   10    0 
+PKRGOD    957892581  8  3 f   -     -     -         2002    0    0 
+PKRGOD    957892606  8  2 Bk  b     b     b         2002   60  145 
+PKRGOD    957892636  8  1 Bf  -     -     -         2087    5    0 
+PKRGOD    957892676  8  8 rc  f     -     -         2082   30    0 
+PKRGOD    957892743  8  7 f   -     -     -         2052    0    0 
+PKRGOD    957892790  8  7 c   c     f     -         2052   30    0 
+PKRGOD    957892861  7  5 c   k     c     b         2022   70    0 5h Kh
+PKRGOD    957892933  7  4 c   kf    -     -         1952   10    0 
+PKRGOD    957892977  7  3 f   -     -     -         1942    0    0 
+PKRGOD    957893016  6  2 Bk  kf    -     -         1942   10    0 
+PKRGOD    957893036  6  1 Bf  -     -     -         1932    5    0 
+PKRGOD    957893073  7  7 f   -     -     -         1927    0    0 
+PKRGOD    957893099  7  6 f   -     -     -         1927    0    0 
+PKRGOD    957893118  7  5 f   -     -     -         1927    0    0 
+PKRGOD    957893150  8  5 f   -     -     -         1927    0    0 
+PKRGOD    957893183  8  4 f   -     -     -         1927    0    0 
+PKRGOD    957893224  8  3 f   -     -     -         1927    0    0 
+PKRGOD    957893254  8  2 Bk  kf    -     -         1927   10    0 
+PKRGOD    957893294  8  1 Bf  -     -     -         1917    5    0 
+PKRGOD    957893331  9  9 f   -     -     -         1912    0    0 
+PKRGOD    957893356  9  8 f   -     -     -         1912    0    0 
+PKRGOD    957893394  9  7 f   -     -     -         1912    0    0 
+PKRGOD    957893457  9  6 f   -     -     -         1912    0    0 
+PKRGOD    957893496  9  5 f   -     -     -         1912    0    0 
+PKRGOD    957893532  9  4 f   -     -     -         1912    0    0 
+PKRGOD    957893576  8  3 f   -     -     -         1912    0    0 
+PKRGOD    957893627  8  2 Bk  bc    k     bf        1912   50    0 
+PKRGOD    957893691  9  1 Bc  kf    -     -         1862   10    0 
+PKRGOD    957893731  9  9 f   -     -     -         1852    0    0 
+PKRGOD    957893767  9  8 cc  c     c     f         1852   50    0 
+PKRGOD    957893790  9  7 c   k     f     -         1802   10    0 
+PKRGOD    957893828  9  6 r   rc    kf    -         1792   60    0 
+PKRGOD    957893899 10  6 f   -     -     -         1732    0    0 
+PKRGOD    957893956  9  5 c   kf    -     -         1732   10    0 
+PKRGOD    957894051  9  4 cc  kf    -     -         1722   20    0 
+PKRGOD    957894098  9  3 c   c     bc    f         1702   60    0 
+PKRGOD    957894149  9  2 Bc  kcc   k     kf        1642   50    0 
+PKRGOD    957894204  7  1 Bf  -     -     -         1592    5    0 
+PKRGOD    957894238  7  7 f   -     -     -         1587    0    0 
+PKRGOD    957894280  7  6 r   b     b     k         1587   50  175 Kc Ad
+PKRGOD    957894331  6  5 r   b     b     b         1712   70  185 
+PKRGOD    957894375  3  2 rr  b     b     bc        1827  110    0 Ts Qh
+PKRGOD    957894398  3  2 Bk  k     k     b         1717   30   50 
+PKRGOD    957894427  3  1 Bf  -     -     -         1737    5    0 
+PKRGOD    957894432  3  3 f   -     -     -         1732    0    0 
+PKRGOD    957894436  3  2 B   -     -     -         1732   10   15 
+PKRGOD    957894440  3  1 Bc  kc    kr    b         1737   80  150 
+PKRGOD    957894463  3  3 f   -     -     -         1807    0    0 
+PKRGOD    957894494  3  2 Bk  kf    -     -         1807   10    0 
+PKRGOD    957894507  3  1 Bf  -     -     -         1797    5    0 
+PKRGOD    957894509  3  3 f   -     -     -         1792    0    0 
+PKRGOD    957894514  3  2 Bf  -     -     -         1792   10    0 
+PKRGOD    957894518  3  1 Br  b     b     bc        1782  100    0 Jc Jh
+PKRGOD    957894537  3  3 f   -     -     -         1682    0    0 
+PKRGOD    957894554  3  2 Bk  kc    k     k         1682   20   50 5c 5h
+PKRGOD    957894573  4  1 Bc  k     kc    kf        1712   30    0 
+PKRGOD    957894613  4  4 c   b     b     b         1682   70    0 7s 5s
+PKRGOD    957894647  4  3 c   b     b     b         1612   60  110 
+PKRGOD    957894675  4  2 Bf  -     -     -         1662   10    0 
+PKRGOD    957894706  6  1 Bf  -     -     -         1652    5    0 
+PKRGOD    957894733  6  6 c   f     -     -         1647   10    0 
+PKRGOD    957894781  6  5 cc  kc    kc    kf        1637   50    0 
+PKRGOD    957894809  6  4 cc  f     -     -         1587   20    0 
+PKRGOD    957894859  6  3 f   -     -     -         1567    0    0 
+PKRGOD    957894869  6  2 Bk  k     k     k         1567   10   20 Jd 6h
+PKRGOD    957894897  6  1 Bf  -     -     -         1577    5    0 
+PKRGOD    957894922  6  6 c   b     b     -         1572   50  130 
+PKRGOD    957894949  7  6 f   -     -     -         1652    0    0 
+PKRGOD    957894983  7  5 c   r     r     k         1652   70  175 4c As
+PKRGOD    957895011  8  5 ccc kcc   kc    f         1757  110    0 
+PKRGOD    957895073  8  4 r   b     b     b         1647   70  190 Js Ad
+PKRGOD    957895113  8  3 cc  kc    f     -         1767   50    0 
+PKRGOD    957895190  8  2 Bc  kc    kc    kc        1717   70  175 8c 4c
+PKRGOD    957895254  8  1 Bcc kc    kc    kc        1822   80    0 Tc Js
+PKRGOD    957895302  6  6 f   -     -     -         1742    0    0 
+PKRGOD    957895336  6  5 rc  kc    kc    kc        1742   80  205 Ts Tc
+PKRGOD    957895373  5  3 c   k     c     c         1867   50    0 7d 7h
+PKRGOD    957895411  5  2 Bk  c     f     -         1817   20    0 
+PKRGOD    957895443  5  1 Bf  -     -     -         1797    5    0 
+PKRGOD    957895495  6  6 c   c     rc    c         1792  100    0 Ad 6d
+PKRGOD    957895550  5  4 f   -     -     -         1692    0    0 
+PKRGOD    957895578  6  4 fQ  -     -     -         1692    0    0 
+PKRGOD    957943061  8  8 c   r     b     b         1692   90    0 7s As
+PKRGOD    957943088  7  6 c   c     f     -         1602   30    0 
+PKRGOD    957943160  6  5 f   -     -     -         1572    0    0 
+PKRGOD    957943205  6  4 c   kc    kc    kc        1572   60    0 9h Ts
+PKRGOD    957943265  4  3 f   -     -     -         1512    0    0 
+PKRGOD    957943282  4  2 Bc  krc   k     k         1512   50    0 7d 8c
+PKRGOD    957943321  4  1 Bf  -     -     -         1462    5    0 
+PKRGOD    957943345  4  4 c   c     r     b         1457   90  215 Jc 9c
+PKRGOD    957943371  4  3 c   k     fQ    -         1582   10    0 
+PKRGOD    958061142  9  2 Bk  kc    kf    -         1282   30    0 
+PKRGOD    958061230  9  1 Bf  -     -     -         1252    5    0 
+PKRGOD    958061287 10 10 c   r     b     b         1247   70  250 8d Js
+PKRGOD    958061372 10  9 c   k     k     kf        1427   10    0 
+PKRGOD    958061441  8  6 c   c     c     f         1417   40    0 
+PKRGOD    958061473  8  5 f   -     -     -         1377    0    0 
+PKRGOD    958061500  8  4 f   -     -     -         1377    0    0 
+PKRGOD    958061544  7  3 c   f     -     -         1377   10    0 
+PKRGOD    958061584  7  2 Bk  kf    -     -         1367   10    0 
+PKRGOD    958061604  7  1 Bf  -     -     -         1357    5    0 
+PKRGOD    958061636  7  7 f   -     -     -         1352    0    0 
+PKRGOD    958061674  7  7 r   b     bf    -         1352   50    0 
+PKRGOD    958061705  6  5 c   c     k     f         1302   20    0 
+PKRGOD    958061748  7  4 f   -     -     -         1282    0    0 
+PKRGOD    958061817  7  3 f   -     -     -         1282    0    0 
+PKRGOD    958061836  7  2 Bk  kf    -     -         1282   10    0 
+PKRGOD    958061863  7  1 Bf  -     -     -         1272    5    0 
+PKRGOD    958061896  6  6 f   -     -     -         1267    0    0 
+PKRGOD    958061930  6  5 f   -     -     -         1267    0    0 
+PKRGOD    958061962  6  4 f   -     -     -         1267    0    0 
+PKRGOD    958061993  6  3 c   b     b     b         1267   60  140 
+PKRGOD    958062054  6  2 Bc  kc    kc    kf        1347   50    0 
+PKRGOD    958062084  6  1 Bc  k     k     kf        1297   10    0 
+PKRGOD    958062132  6  6 f   -     -     -         1287    0    0 
+PKRGOD    958062160  6  5 c   c     c     c         1287   60    0 Ah 9s
+PKRGOD    958062196  6  4 r   bc    c     c         1227   80    0 Qs Qc
+PKRGOD    958062237  6  3 rr  b     b     b         1147   90    0 Js Qh
+PKRGOD    958062269  6  2 Bk  k     f     -         1057   10    0 
+PKRGOD    958062305  7  1 Br  b     b     bf        1047   70    0 
+PKRGOD    958062343  5  5 c   c     c     f          977   50    0 
+PKRGOD    958062376  5  4 f   -     -     -          927    0    0 
+PKRGOD    958062401  5  3 f   -     -     -          927    0    0 
+PKRGOD    958062433  5  2 Bk  k     f     -          927   10    0 
+PKRGOD    958062484  5  1 Br  b     -     -          917   30   90 
+PKRGOD    958062511  5  5 f   -     -     -          977    0    0 
+PKRGOD    958062524  5  4 cc  k     kf    -          977   20    0 
+PKRGOD    958062574  5  3 c   k     k     bc         957   50  125 8s Qs
+PKRGOD    958062615  5  2 Bk  kf    -     -         1032   10    0 
+PKRGOD    958062649  4  1 Bc  kc    kc    k         1022   40    0 2c 5c
+PKRGOD    958062672  4  4 f   -     -     -          982    0    0 
+PKRGOD    958062693  4  3 c   k     c     r          982   70  135 
+PKRGOD    958062724  4  2 Br  b     -     -         1047   30   55 
+PKRGOD    958062736  4  1 Bc  b     b     kf        1072   40    0 
+PKRGOD    958062761  4  4 f   -     -     -         1032    0    0 
+PKRGOD    958062781  4  3 r   r     b     b         1032   80    0 7h 7d
+PKRGOD    958062812  4  2 Bk  k     rf    -          952   50    0 
+PKRGOD    958062838  5  1 Bc  kc    k     b          902   40    0 5d 5c
+PKRGOD    958062874  5  5 f   -     -     -          862    0    0 
+PKRGOD    958062881  5  4 r   b     b     -          862   50   90 
+PKRGOD    958062907  5  3 f   -     -     -          902    0    0 
+PKRGOD    958062920  5  2 Bk  k     kf    -          902   10    0 
+PKRGOD    958062967  5  1 Bf  -     -     -          892    5    0 
+PKRGOD    958062991  5  5 r   c     c     f          887   50    0 
+PKRGOD    958063034  5  4 f   -     -     -          837    0    0 
+PKRGOD    958063075  6  4 r   b     b     -          837   50  105 
+PKRGOD    958063104  6  3 f   -     -     -          892    0    0 
+PKRGOD    958063125  6  2 Bk  k     kf    -          892   10    0 
+PKRGOD    958063172  6  1 Br  b     b     b          882   70  120 
+PKRGOD    958063191  5  5 c   k     r     b          932   70  145 Ah 7d
+PKRGOD    958063214  5  4 r   r     b     k         1007   60  170 Td Ad
+PKRGOD    958063255  5  3 f   -     -     -         1117    0    0 
+PKRGOD    958063310  5  2 Bk  kf    -     -         1117   10    0 
+PKRGOD    958063349  5  1 Bc  kf    -     -         1107   10    0 
+PKRGOD    958063380  6  5 f   -     -     -         1097    0    0 
+PKRGOD    958063415  6  4 rr  b     b     b         1097   90  195 Ad Qh
+PKRGOD    958063457  6  3 f   -     -     -         1202    0    0 
+PKRGOD    958063490  6  2 Bk  b     b     -         1202   40   65 
+PKRGOD    958063515  6  1 Bf  -     -     -         1227    5    0 
+PKRGOD    958063531  6  6 rc  c     r     b         1222  110  285 Qh Kc
+PKRGOD    958063585  6  5 cc  f     -     -         1397   30    0 
+PKRGOD    958063641  6  4 c   b     b     -         1367   40   80 
+PKRGOD    958063680  6  3 f   -     -     -         1407    0    0 
+PKRGOD    958063706  6  2 Bk  k     b     -         1407   30   50 
+PKRGOD    958063758  6  1 Bc  kf    -     -         1427   10    0 
+PKRGOD    958063793  6  6 c   c     k     b         1417   40  100 
+PKRGOD    958063843  8  7 c   rc    c     r         1477  100    0 6h Jh
+PKRGOD    958063902  8  6 f   -     -     -         1377    0    0 
+PKRGOD    958063948  8  5 f   -     -     -         1377    0    0 
+PKRGOD    958063993  8  4 f   -     -     -         1377    0    0 
+PKRGOD    958064077 10  4 r   kc    kr    b         1377  120  325 Js Kc
+PKRGOD    958064135 10  3 rr  cc    k     f         1582   60    0 
+PKRGOD    958064199 10  2 Bc  kc    kf    -         1522   40    0 
+PKRGOD    958064231 10  1 Bf  -     -     -         1482    5    0 
+PKRGOD    958064312 10 10 c   c     c     c         1477   80  370 5h 5c
+PKRGOD    958064410  8  8 c   f     -     -         1767   10    0 
+PKRGOD    958064434  7  4 Q   -     -     -         1757    0    0 
+PKRGOD    958067719  9  3 f   -     -     -         1757    0    0 
+PKRGOD    958067762  9  2 Bc  k     b     b         1757   60    0 Qc Ac
+PKRGOD    958067794  9  1 Bf  Q     -     -         1697    5    0 
+PKRGOD    958413382  7  2 Bc  kf    -     -         1702   20    0 
+PKRGOD    958413460  6  1 Bc  kc    kc    kc        1682   90  300 Kd 5d
+PKRGOD    958413491  6  6 c   f     -     -         1892   20    0 
+PKRGOD    958413525  6  5 c   k     f     -         1872   10    0 
+PKRGOD    958413554  6  4 f   -     -     -         1862    0    0 
+PKRGOD    958413587  6  3 cc  kc    cr    b         1862  150  530 Th Jd
+PKRGOD    958413668  7  3 f   -     -     -         2242    0    0 
+PKRGOD    958413718  8  2 Bf  -     -     -         2242   10    0 
+PKRGOD    958413769  8  1 Bc  kf    -     -         2232   10    0 
+PKRGOD    958413804  8  8 c   c     c     f         2222   50    0 
+PKRGOD    958413864  8  7 c   c     f     -         2172   30    0 
+PKRGOD    958413922  8  6 cc  c     r     r         2142  110  415 8h 9d
+PKRGOD    958414018  8  5 f   -     -     -         2447    0    0 
+PKRGOD    958414054  8  4 f   -     -     -         2447    0    0 
+PKRGOD    958414092  6  2 Bc  kf    -     -         2447   30    0 
+PKRGOD    958414138  7  1 Bf  -     -     -         2417    5    0 
+PKRGOD    958414173  8  7 f   -     -     -         2412    0    0 
+PKRGOD    958414222  8  6 c   c     k     c         2412   40    0 Kd Js
+PKRGOD    958414267  8  5 c   c     c     c         2372   60    0 6d 6h
+PKRGOD    958414320  8  4 f   -     -     -         2312    0    0 
+PKRGOD    958414376  9  3 f   -     -     -         2312    0    0 
+PKRGOD    958414427  8  2 Bk  b     k     b         2312   40  105 
+PKRGOD    958414458  8  1 Bf  -     -     -         2377    5    0 
+PKRGOD    958414492  8  8 cc  c     f     -         2372   30    0 
+PKRGOD    958414527  9  7 f   -     -     -         2342    0    0 
+PKRGOD    958414572  9  6 c   b     bc    kc        2342   80  115 Ac Th
+PKRGOD    958414652  7  3 c   b     b     b         2377   60  190 Ks Qh
+PKRGOD    958414737  8  3 f   -     -     -         2507    0    0 
+PKRGOD    958414769  8  2 Bk  kf    -     -         2507   10    0 
+PKRGOD    958414799  8  1 Bc  kc    kf    -         2497   20    0 
+PKRGOD    958414856  6  6 f   -     -     -         2477    0    0 
+PKRGOD    958414890  7  6 c   b     r     -         2477   60  125 
+PKRGOD    958414938  6  4 c   c     c     c         2542   60    0 5d 5h
+PKRGOD    958414966  6  3 c   b     b     b         2482   60  130 2d 3c
+PKRGOD    958414993  6  2 Bk  kc    kc    k         2552   40   45 5c Td
+PKRGOD    958415028  6  1 Bf  -     -     -         2557    5    0 
+PKRGOD    958415073  6  6 f   -     -     -         2552    0    0 
+PKRGOD    958415107  6  5 c   f     -     -         2552   10    0 
+PKRGOD    958415144  6  4 r   b     -     -         2542   30   80 
+PKRGOD    958415163  6  3 r   -     -     -         2592   20   35 
+PKRGOD    958415171  5  1 Br  b     b     b         2607   70  180 Ad As
+PKRGOD    958415201  5  1 Bc  kc    kc    k         2717   40   45 Qc Ts
+PKRGOD    958415227  4  4 c   b     -     -         2722   20   40 
+PKRGOD    958415250  3  3 r   b     b     bf        2742   70    0 
+PKRGOD    958415276  3  2 Bc  k     k     b         2672   40   65 
+PKRGOD    958415297  4  1 Bc  kcc   kc    kc        2697   90    0 Ac 9d
+PKRGOD    958415323  4  4 f   -     -     -         2607    0    0 
+PKRGOD    958415342  4  4 c   k     f     -         2607   10    0 
+PKRGOD    958415364  3  2 Bk  kf    -     -         2597   10    0 
+PKRGOD    958415375  3  1 Br  b     -     -         2587   30   50 
+PKRGOD    958415383  2  2 Br  b     b     f         2607   60    0 
+PKRGOD    958415405  3  1 Bc  krc   k     k         2547   50  120 9s 9d
+PKRGOD    958415429  3  3 f   -     -     -         2617    0    0 
+PKRGOD    958415435  3  2 Bc  kc    kc    kf        2617   50    0 
+PKRGOD    958415457  3  1 Bf  -     -     -         2567    5    0 
+PKRGOD    958415463  3  3 f   -     -     -         2562    0    0 
+PKRGOD    958415483  4  3 c   kf    -     -         2562   10    0 
+PKRGOD    958415499  4  2 Bc  kc    kc    kf        2552   50    0 
+PKRGOD    958415528  4  1 Bf  -     -     -         2502    5    0 
+PKRGOD    958415534  4  4 c   c     rc    c         2497  110    0 Qh Qc
+PKRGOD    958415555  4  3 cc  k     r     r         2387  100  220 Qs Kc
+PKRGOD    958415592  4  2 Bc  c     f     -         2507   30    0 
+PKRGOD    958415613  4  1 Bc  b     b     b         2477   60  110 
+PKRGOD    958415637  4  4 f   -     -     Q         2527    0    0 
+PKRGOD    958667180  3  3 c   r     b     b         1549   70    0 Kh 9d
+PKRGOD    958667218  3  2 Bk  f     -     -         1479   10    0 
+PKRGOD    958667234  4  1 Bf  -     -     -         1469    5    0 
+PKRGOD    958667255  4  4 f   -     -     -         1464    0    0 
+PKRGOD    958667282  4  3 f   -     -     -         1464    0    0 
+PKRGOD    958667295  4  2 Bc  kc    kc    kf        1464   50    0 
+PKRGOD    958667315  5  1 Bf  -     -     -         1414    5    0 
+PKRGOD    958667346  5  5 c   c     c     f         1409   40    0 
+PKRGOD    958667390  5  4 c   b     b     b         1369   60  105 
+PKRGOD    958667422  5  3 f   -     -     -         1414    0    0 
+PKRGOD    958667439  5  2 Bk  b     b     bc        1414   80    0 4d Th
+PKRGOD    958667471  5  1 Bc  kc    k     kf        1334   20    0 
+PKRGOD    958667515  5  5 f   Q     -     -         1314    0    0 
+PKRGOD    958684172 10  9 f   -     -     -         2804    0    0 
+PKRGOD    958684245 10  8 c   c     c     c         2804   70    0 Td Jh
+PKRGOD    958684358 10  7 f   -     -     -         2734    0    0 
+PKRGOD    958684430 10  6 c   cc    kc    k         2734   60  260 6d Qd
+PKRGOD    958684515 10  5 f   -     -     -         2934    0    0 
+PKRGOD    958684557 10  4 f   -     -     -         2934    0    0 
+PKRGOD    958684654 10  3 c   kc    kc    k         2934   40  100 8c Ad
+PKRGOD    958684695 10  2 Bc  kc    kc    kf        2994   50    0 
+PKRGOD    958684749 10  1 Bc  k     k     b         2944   30   90 
+PKRGOD    958684794 10 10 c   f     -     -         3004   20    0 
+PKRGOD    958684870 10  9 f   -     -     -         2984    0    0 
+PKRGOD    958684911 10  8 c   fQ    -     -         2984   10    0 
+PKRGOD    958895417  9  4 c   c     r     b          990   80  180 
+PKRGOD    958895465 10  3 cc  c     f     -         1090   30    0 
+PKRGOD    958895526 10  2 Bk  b     b     b         1060   60    0 8s Ad
+PKRGOD    958895553 10  1 Bc  kfQ   -     -         1000   10    0 
+PKRGOD    959670094 10  7 f   -     -     -          829    0    0 
+PKRGOD    959670122  9  5 c   f     -     -          829   20    0 
+PKRGOD    959670161 10  4 r   b     b     b          809   70  125 
+PKRGOD    959670187 10  3 cc  kc    kc    f          864   50    0 
+PKRGOD    959670284 10  2 Bf  -     -     -          814   10    0 
+PKRGOD    959670371 10  1 Bc  kf    -     -          804   10    0 
+PKRGOD    959670393 10 10 r   b     -     -          794   30   55 
+PKRGOD    959670420 10  9 c   b     b     k          819   50  155 5d 5s
+PKRGOD    959670474 10  8 c   cc    c     f          924   60    0 
+PKRGOD    959670545 10  7 f   -     -     -          864    0    0 
+PKRGOD    959670595 10  6 f   -     -     -          864    0    0 
+PKRGOD    959670662  9  4 c   k     b     -          864   30   45 
+PKRGOD    959670694  9  3 r   b     -     -          879   30   85 
+PKRGOD    959670708  9  2 Bk  c     f     -          934   20    0 
+PKRGOD    959670757  9  1 Bc  kc    kc    kf         914   40    0 
+PKRGOD    959670805  9  9 f   -     -     -          874    0    0 
+PKRGOD    959670861  7  7 r   -     -     -          874   20   35 
+PKRGOD    959670874  7  6 f   -     -     -          889    0    0 
+PKRGOD    959670913  8  5 c   c     c     c          889   60    0 Js Jh
+PKRGOD    959670992  8  4 c   k     f     -          829   10    0 
+PKRGOD    959671016  8  3 r   b     bf    -          819   50    0 
+PKRGOD    959671041  8  2 Bc  c     c     c          769   80    0 Ad 7s
+PKRGOD    959671063  8  1 Bf  -     -     Q          689    5    0 
+PKRGOD    959707216  8  4 r   b     b     b          684   70  195 Ac Qh
+PKRGOD    959707289  8  3 c   k     br    b          809  110  430 7s 6h
+PKRGOD    959707396  6  2 Bk  k     kf    -         1129   10    0 
+PKRGOD    959707456  6  1 Bc  kc    kc    kf        1119   50    0 
+PKRGOD    959707505  6  6 f   -     -     -         1069    0    0 
+PKRGOD    959707574  6  5 c   kf    -     -         1069   10    0 
+PKRGOD    959707643  6  4 f   -     -     -         1059    0    0 
+PKRGOD    959707741  6  3 f   -     -     -         1059    0    0 
+PKRGOD    959707831  7  2 Bk  k     b     c         1059   50    0 9c 3s
+PKRGOD    959707880  6  1 Bf  -     -     -         1009    5    0 
+PKRGOD    959707958  5  5 rc  f     -     -         1004   30    0 
+PKRGOD    959708010  4  3 c   kc    kf    -          974   20    0 
+PKRGOD    959708050  4  2 Bk  k     k     k          954   10   20 Jd 6c
+PKRGOD    959708090  4  1 Bf  -     -     -          964    5    0 
+PKRGOD    959708097  4  4 f   -     -     -          959    0    0 
+PKRGOD    959708117  4  3 f   -     -     -          959    0    0 
+PKRGOD    959708124  4  2 Bc  kf    -     -          959   20    0 
+PKRGOD    959708154  4  1 Br  b     b     b          939   70    0 7h Ad
+PKRGOD    959708252  5  5 f   -     -     -          869    0    0 
+PKRGOD    959708306  5  4 f   -     -     -          869    0    0 
+PKRGOD    959708369  4  3 c   b     rc    c          869  100    0 8s Qc
+PKRGOD    959708396  4  2 B   -     -     -          769   10   15 
+PKRGOD    959708403  4  1 Bc  kf    -     -          774   10    0 
+PKRGOD    959708436  4  4 f   -     -     -          764    0    0 
+PKRGOD    959708450  4  3 cc  c     c     k          764   50    0 8s Jh
+PKRGOD    959708470  4  2 Bk  b     -     -          714   20   30 
+PKRGOD    959708484  4  1 Bc  k     kc    kf         724   30    0 
+PKRGOD    959708500  4  4 c   b     -     -          694   20   35 
+PKRGOD    959708511  4  3 r   bc    k     k          709   40  105 Ah As
+PKRGOD    959708532  4  2 Bk  k     kf    -          774   10    0 
+PKRGOD    959708551  4  1 Bf  -     -     -          764    5    0 
+PKRGOD    959708569  4  4 f   -     -     -          759    0    0 
+PKRGOD    959708604  4  3 c   k     b     br         759   90  100 Ts Js
+PKRGOD    959708648  4  2 Bc  kc    kc    k          769   50  105 5d 8d
+PKRGOD    959708668  4  1 Bf  -     -     -          824    5    0 
+PKRGOD    959708689  5  5 f   -     -     -          819    0    0 
+PKRGOD    959708711  5  4 f   -     -     -          819    0    0 
+PKRGOD    959708729  6  4 cc  kf    -     -          819   20    0 
+PKRGOD    959708767  6  3 r   b     br    b          799  110  255 Kh As
+PKRGOD    959708798  7  3 c   kc    k     f          944   20    0 
+PKRGOD    959708835  7  2 Br  bc    kf    -          924   40    0 
+PKRGOD    959708862  8  1 Bf  -     -     -          884    5    0 
+PKRGOD    959708906  8  8 r   rc    c     f          879   70    0 
+PKRGOD    959708949  8  7 r   b     c     rr         809  130    0 Jc Kh
+PKRGOD    959709004  9  6 c   k     f     -          679   10    0 
+PKRGOD    959709036  8  6 c   kc    kc    kf         669   40    0 
+PKRGOD    959709093  7  4 f   -     -     -          629    0    0 
+PKRGOD    959709137  7  4 r   br    k     kf         629   50    0 
+PKRGOD    959709188  7  2 Br  bc    kf    -          579   40    0 
+PKRGOD    959709234  9  1 Br  br    b     b          539   90  330 Ac Ah
+PKRGOD    959709277  9  9 rc  r     b     b          779  100  215 As Qs
+PKRGOD    959709309  9  8 c   f     -     -          894   10    0 
+PKRGOD    959709342  8  7 f   -     -     -          884    0    0 
+PKRGOD    959709372  9  6 c   c     c     k          884   50    0 8d Jd
+PKRGOD    959709407  9  5 c   c     cf    -          834   40    0 
+PKRGOD    959709440  9  4 f   -     -     -          794    0    0 
+PKRGOD    959709470  9  3 f   -     -     -          794    0    0 
+PKRGOD    959709511  9  2 Bk  k     k     k          794   10    0 5c 8s
+PKRGOD    959709535  9  1 Bf  -     -     -          784    5    0 
+PKRGOD    959709582  8  8 cc  c     f     -          779   30    0 
+PKRGOD    959709642 10  8 c   k     b     b          749   50  120 7h Kh
+PKRGOD    959709692 10  7 f   -     -     -          819    0    0 
+PKRGOD    959709722 10  6 rr  bc    k     b          819   80    0 Qd Ac
+PKRGOD    959709790 10  5 c   k     r     rc         739  110  245 8c Qd
+PKRGOD    959709829 10  4 f   -     -     -          874    0    0 
+PKRGOD    959709859 10  3 f   -     -     -          874    0    0 
+PKRGOD    959709900 10  2 Bk  k     k     kf         874   10    0 
+PKRGOD    959709930 10  1 Bf  -     -     -          864    5    0 
+PKRGOD    959709961 10 10 f   -     -     -          859    0    0 
+PKRGOD    959710022 10  9 c   f     -     -          859   10    0 
+PKRGOD    959710053 10  8 r   f     -     -          849   20    0 
+PKRGOD    959710102 10  7 c   k     k     k          829   10    0 8c Qd
+PKRGOD    959710166 10  6 f   -     -     -          819    0    0 
+PKRGOD    959710209  9  4 r   b     b     bc         819   90    0 Ah Js
+PKRGOD    959710253  9  4 f   -     -     -          729    0    0 
+PKRGOD    959710293 10  3 c   k     f     -          729   10    0 
+PKRGOD    959710359 10  2 Bk  kc    kc    k          719   40    0 Qh 9h
+PKRGOD    959710433 10  1 Bc  b     b     b          679   60    0 Tc 7s
+PKRGOD    959710474 10 10 c   c     c     r          619   80  160 
+PKRGOD    959710525 10  9 c   bc    c     k          699   50  100 As 6d
+PKRGOD    959710590  9  7 r   r     b     b          749   90  265 Jh Qs
+PKRGOD    959710625  9  6 r   c     b     bf         924   70    0 
+PKRGOD    959710688  9  5 c   c     k     f          854   30    0 
+PKRGOD    959710735  9  4 r   rc    kc    k          824   70    0 Qh Qs
+PKRGOD    959710797  9  3 f   -     -     -          754    0    0 
+PKRGOD    959710829  9  2 Bcc kf    -     -          754   40    0 
+PKRGOD    959710911  9  1 Bf  Q     -     -          714    5    0 
+PKRGOD    959810617 10  3 Q   -     -     -          709    0    0 

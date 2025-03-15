@@ -1,0 +1,472 @@
+Classic   957396669  8  5 f   -     -     -        33398    0    0 
+Classic   957396682  8  4 f   -     -     -        33398    0    0 
+Classic   957396726  8  3 f   -     -     -        33398    0    0 
+Classic   957396775  8  2 Bc  r     rr    b        33398  280  840 5s 5c
+Classic   957396832  8  1 Bcc kf    -     -        33958   80    0 
+Classic   957396886  8  8 f   -     -     -        33878    0    0 
+Classic   957396919  8  7 f   -     -     -        33878    0    0 
+Classic   957396934  8  6 c   b     b     rc       33878  200    0 Tc Qs
+Classic   957396983  8  4 c   b     b     -        33678   80  150 
+Classic   957397016  7  3 fQ  -     -     -        33748    0    0 
+Classic   957469165  8  5 f   -     -     -        25288    0    0 
+Classic   957469192  8  4 f   -     -     -        25288    0    0 
+Classic   957469237  8  3 f   -     -     -        25288    0    0 
+Classic   957469272  7  2 Bk  kQ    -     -        25288   20    0 
+Classic   957469307  7  4 f   -     -     -        25268    0    0 
+Classic   957469318  7  3 f   -     -     -        25268    0    0 
+Classic   957469354  7  2 Bk  kf    -     -        25268   20    0 
+Classic   957469382  7  1 Bc  br    kc    k        25248  120    0 5s 4c
+Classic   957469427  7  7 f   -     -     -        25128    0    0 
+Classic   957469473  7  6 r   b     -     -        25128   80  230 
+Classic   957469515  7  5 cc  c     k     c        25278  120  420 9h 6h
+Classic   957469566  7  4 f   -     -     -        25578    0    0 
+Classic   957469611  7  3 c   kf    -     -        25578   20    0 
+Classic   957469646  7  2 BQ  -     -     -        25558   20    0 
+Classic   957494010 10  6 f   -     -     -        24328    0    0 
+Classic   957494040  8  4 f   -     -     -        24328    0    0 
+Classic   957494070  8  3 f   -     -     -        24328    0    0 
+Classic   957494170  9  2 Bk  kf    -     -        24328   20    0 
+Classic   957494201  9  1 Bcc kf    -     -        24308   40    0 
+Classic   957494239  9  3 Q   -     -     -        24268    0    0 
+Classic   957590006 10  3 c   bc    kc    kc       28328  160    0 6h Kh
+Classic   957590118 10  2 Bc  kf    -     -        28118   60    0 
+Classic   957590186 10  1 Bf  -     -     -        28053   10    0 
+Classic   957590239 10  9 f   -     -     -        28043    0    0 
+Classic   957590290 10  8 f   -     -     -        28033    0    0 
+Classic   957590324 10  7 cc  f     -     -        28983   40    0 
+Classic   957590395 10  7 c   k     kQ    -        28933   20    0 
+Classic   957643776 10  2 Bk  f     -     -        24038   20    0 
+Classic   957643800 10  1 Bc  k     b     -        24018   60  120 
+Classic   957643847  9  9 c   r     k     k        24078   60    0 5c 3c
+Classic   957643885  9  8 c   k     c     c        24018  100    0 5c Qc
+Classic   957643917  9  7 c   b     k     b        23918   80  170 
+Classic   957643961  9  6 c   c     br    k        24008  160    0 Jc 7c
+Classic   957644030 10  6 c   f     -     -        23848   20    0 
+Classic   957644081 10  5 c   bc    kc    kc       23828  140    0 Th Js
+Classic   957644128 10  4 c   f     -     -        23688   20    0 
+Classic   957644190  9  3 r   c     f     -        23668   60    0 
+Classic   957644226 10  2 Bk  k     k     k        23608   20   50 2d 7c
+Classic   957644257 10  1 Bc  k     kcc   kf       23638  140    0 
+Classic   957644325 10 10 f   -     -     -        23498    0    0 
+Classic   957644375 10  9 f   -     -     -        23498    0    0 
+Classic   957644414 10  8 r   k     b     f        23498   80    0 
+Classic   957644503 10  7 f   -     -     -        23418    0    0 
+Classic   957644534  9  5 f   Q     -     -        23418    0    0 
+Classic   957679757 10  4 c   f     -     -        23448   20    0 
+Classic   957679808 10  3 c   kf    -     -        23428   20    0 
+Classic   957679849 10  2 Bc  kc    kc    kc       23408  140    0 Th Qd
+Classic   957679891 10  1 Bc  kf    -     -        23268   40    0 
+Classic   957679937 10 10 f   -     -     -        23228    0    0 
+Classic   957679994 10  9 cc  f     -     -        23228   40    0 
+Classic   957680031 10  8 r   r     -     -        23188  100  210 
+Classic   957680057 10  7 c   c     k     c        23298  100  360 9s Qs
+Classic   957680108 10  6 f   -     -     -        23558    0    0 
+Classic   957680160 10  5 f   -     -     -        23558    0    0 
+Classic   957680187 10  4 f   -     -     -        23558    0    0 
+Classic   957680244 10  3 c   kf    -     -        23558   20    0 
+Classic   957680284 10  2 Bf  -     -     -        23538   20    0 
+Classic   957680331 10  1 Bf  -     -     -        23518   10    0 
+Classic   957680374 10 10 c   c     f     -        23508   40    0 
+Classic   957680430 10  9 f   -     -     -        23468    0    0 
+Classic   957680453 10  8 f   -     -     -        23468    0    0 
+Classic   957680480 10  7 c   f     -     -        23468   20    0 
+Classic   957680541 10  6 f   -     -     -        23448    0    0 
+Classic   957680589 10  5 r   b     kc    k        23448  120    0 9s 9d
+Classic   957680647 10  4 r   kc    kf    -        23328   60    0 
+Classic   957680701 10  3 f   -     -     -        23268    0    0 
+Classic   957680759 10  2 Bf  -     -     -        23268   20    0 
+Classic   957680789 10  1 Bc  kc    kc    b        23248  140  400 
+Classic   957680842 10 10 c   b     -     -        23508   40  100 
+Classic   957680904 10  9 c   f     -     -        23568   20    0 
+Classic   957680930 10  8 f   -     -     -        23548    0    0 
+Classic   957681010 10  7 c   c     r     b        23548  160  500 3c 3d
+Classic   957681070 10  6 f   -     -     -        23888    0    0 
+Classic   957681083 10  5 f   -     -     -        23888    0    0 
+Classic   957681093 10  4 f   -     -     -        23888    0    0 
+Classic   957681142 10  3 c   k     k     f        23888   20    0 
+Classic   957681181 10  2 Bf  -     -     -        23868   20    0 
+Classic   957681209 10  1 Bf  -     -     -        23848   10    0 
+Classic   957681224 10 10 c   f     -     -        23838   40    0 
+Classic   957681249 10  9 cc  f     -     -        23798   60    0 
+Classic   957681312 10  8 f   -     -     -        23738    0    0 
+Classic   957681396 10  7 f   -     -     -        23738    0    0 
+Classic   957681433 10  6 f   -     -     -        23738    0    0 
+Classic   957681499 10  5 c   f     -     -        23738   20    0 
+Classic   957681592 10  4 f   -     -     -        23718    0    0 
+Classic   957681627 10  3 c   kc    kf    -        23718   40    0 
+Classic   957681679 10  2 Bk  k     k     k        23678   20    0 Ts 3c
+Classic   957681720 10  1 Bf  -     -     -        23658   10    0 
+Classic   957681773 10 10 f   -     -     -        23648    0    0 
+Classic   957681801 10  9 f   -     -     -        23648    0    0 
+Classic   957681829 10  8 c   f     -     -        23648   20    0 
+Classic   957681854 10  7 c   kc    kc    kc       23628  140  370 8c Jc
+Classic   957681925 10  6 c   r     b     b        23858  140  350 Qs Jc
+Classic   957681977 10  5 f   -     -     -        24068    0    0 
+Classic   957681996 10  4 f   -     -     -        24068    0    0 
+Classic   957682039 10  3 f   -     -     -        24068    0    0 
+Classic   957682067 10  2 Bk  kf    -     -        24068   20    0 
+Classic   957682097 10  1 Bc  kf    -     -        24048   20    0 
+Classic   957682185 10 10 f   -     -     -        24028    0    0 
+Classic   957682206 10  9 f   -     -     -        24028    0    0 
+Classic   957682246 10  8 f   -     -     -        24028    0    0 
+Classic   957682265 10  7 f   -     -     -        24028    0    0 
+Classic   957682319 10  6 f   -     -     -        24028    0    0 
+Classic   957682353 10  5 f   -     -     -        24028    0    0 
+Classic   957682386 10  4 f   -     -     -        24028    0    0 
+Classic   957682437 10  3 c   kc    kf    -        24028   40    0 
+Classic   957682522  9  2 Bk  kf    -     -        23988   20    0 
+Classic   957682557  9  1 Bcc b     b     -        23968  100  200 
+Classic   957682593  9  9 f   -     -     -        24068    0    0 
+Classic   957682644  8  7 f   -     -     -        24068    0    0 
+Classic   957682679  8  6 f   -     -     -        24068    0    0 
+Classic   957682699  8  5 c   kf    -     -        24068   20    0 
+Classic   957682736  8  4 c   k     f     -        24048   20    0 
+Classic   957682770  8  3 f   -     -     -        24028    0    0 
+Classic   957682800  9  2 Bk  k     k     k        24028   20    0 2d 3h
+Classic   957682851  9  1 Bc  k     kf    -        24008   20    0 
+Classic   957682886  9  9 c   c     c     f        23988  140    0 
+Classic   957682960  9  8 f   -     -     -        23848    0    0 
+Classic   957683031  9  7 f   -     -     -        23848    0    0 
+Classic   957683080  9  6 c   kc    kc    k        23848   80    0 Jd Qc
+Classic   957683115  9  5 cc  kc    kf    -        23768   60    0 
+Classic   957683160  8  4 c   b     -     -        23708   40   90 
+Classic   957683193  8  3 c   kf    -     -        23758   20    0 
+Classic   957683226  8  2 Bk  kc    k     b        23738   80  170 Qd Ts
+Classic   957683267  8  1 Bc  kf    -     -        23828   40    0 
+Classic   957683307  8  8 c   f     -     -        23788   20    0 
+Classic   957683344  8  7 f   -     -     -        23768    0    0 
+Classic   957683380  8  6 c   c     r     b        23768  160  370 Ah Qd
+Classic   957683433  8  5 f   -     -     -        23978    0    0 
+Classic   957683462  8  4 c   b     b     b        23978  120  250 
+Classic   957683495  8  3 f   -     -     -        24108    0    0 
+Classic   957683505  8  2 Bf  -     -     -        24108   20    0 
+Classic   957683525  8  1 Bf  -     -     -        24088   10    0 
+Classic   957683572  8  8 c   f     -     -        24078   20    0 
+Classic   957683622  8  7 f   -     -     -        24058    0    0 
+Classic   957683646  8  6 f   -     -     -        24058    0    0 
+Classic   957683681  8  5 c   kf    -     -        24058   20    0 
+Classic   957683717  6  3 f   -     -     -        24038    0    0 
+Classic   957683752  6  2 Bk  k     c     f        24038   60    0 
+Classic   957683783  6  1 Bc  b     b     -        23978   80  160 
+Classic   957683805  6  6 f   -     -     -        24058    0    0 
+Classic   957683810  6  5 f   -     -     -        24058    0    0 
+Classic   957683815  6  4 f   -     -     -        24058    0    0 
+Classic   957683834  6  3 f   -     -     -        24058    0    0 
+Classic   957683851  6  2 Bf  -     -     -        24058   20    0 
+Classic   957683862  6  1 Bf  -     -     -        24038   10    0 
+Classic   957683889  6  6 f   -     -     -        24028    0    0 
+Classic   957683899  6  5 f   -     -     -        24028    0    0 
+Classic   957683916  6  4 f   -     -     -        24028    0    0 
+Classic   957683943  5  3 f   -     -     -        24028    0    0 
+Classic   957683972  5  2 Bc  b     b     -        24028  100  240 
+Classic   957684006  5  1 Bf  -     -     -        24168   10    0 
+Classic   957684032  5  5 f   -     -     -        24158    0    0 
+Classic   957684042  5  4 f   -     -     -        24158    0    0 
+Classic   957684060  5  3 r   b     b     bc       24158  180    0 Ks Ad
+Classic   957684116  5  2 BQ  -     -     -        23978   20    0 
+Classic   957728513 10  2 Bc  k     c     c        23923  120    0 Qs 6c
+Classic   957728567 10  1 Bf  -     -     -        23803   10    0 
+Classic   957728659 10 10 f   -     -     -        23793    0    0 
+Classic   957728706 10  9 f   -     -     -        23793    0    0 
+Classic   957728794 10  8 r   c     c     f        23793  100    0 
+Classic   957728865 10  7 c   f     -     -        23693   20    0 
+Classic   957728924 10  6 f   -     -     -        23673    0    0 
+Classic   957728968 10  6 c   f     -     -        23673   20    0 
+Classic   957729034  8  4 f   -     -     -        23653    0    0 
+Classic   957729073  8  3 f   -     -     -        23653    0    0 
+Classic   957729094  8  2 Bf  -     -     -        23653   20    0 
+Classic   957729146  8  1 Bf  -     -     -        23633   10    0 
+Classic   957729189  7  7 f   -     -     -        23623    0    0 
+Classic   957729221  7  6 f   -     -     -        23623    0    0 
+Classic   957729255  7  5 c   c     k     f        23623   40    0 
+Classic   957729357  7  4 c   c     fQ    -        23583   40    0 
+Classic   958108758 10  9 KQ  -     -     -        76744    0    0 
+Classic   958112086 10  6 f   -     -     -        76744    0    0 
+Classic   958112194 10  5 f   -     -     -        76744    0    0 
+Classic   958112253 10  4 f   -     -     -        76744    0    0 
+Classic   958112342 10  3 cc  f     -     -        76744   40    0 
+Classic   958112418 10  2 BQ  -     -     -        76704   20    0 
+Classic   958114128  5  2 Bk  k     b     -        76684   60  100 
+Classic   958114164  5  1 Bf  -     -     -        76724   10    0 
+Classic   958114168  5  5 f   -     -     -        76714    0    0 
+Classic   958114195  5  4 f   -     -     -        76714    0    0 
+Classic   958114219  5  3 c   b     b     b        76714  120  420 5s 6s
+Classic   958114253  5  2 Bk  k     krr   k        77014  180  185 6h Td
+Classic   958114284  6  1 Bf  -     -     -        77019   10    0 
+Classic   958114318  6  6 c   f     -     -        77009   20    0 
+Classic   958114336  5  3 Q   -     -     -        76989    0    0 
+Classic   958366322 10 10 f   -     -     -        77449    0    0 
+Classic   958366381 10  9 f   -     -     -        77449    0    0 
+Classic   958366411 10  8 f   -     -     -        77449    0    0 
+Classic   958366470 10  7 f   -     -     -        77449    0    0 
+Classic   958366525 10  6 f   -     -     -        77449    0    0 
+Classic   958366553 10  5 f   -     -     -        77449    0    0 
+Classic   958366622 10  4 f   -     -     -        77449    0    0 
+Classic   958366677 10  3 f   -     -     -        77449    0    0 
+Classic   958366752 10  2 Bk  b     b     b        77449  120  390 Ac Tc
+Classic   958366804 10  1 Bc  kc    kc    b        77719  120  360 Kc 9d
+Classic   958366864 10 10 f   -     -     -        77959    0    0 
+Classic   958366931 10  9 f   -     -     -        77959    0    0 
+Classic   958366961 10  8 f   -     -     -        77959    0    0 
+Classic   958367015 10  7 f   -     -     -        77959    0    0 
+Classic   958367087 10  6 c   kf    -     -        77959   20    0 
+Classic   958367159 10  5 r   k     k     c        77939  100  230 Ah Kc
+Classic   958367186 10  4 c   f     -     -        78069   20    0 
+Classic   958367234 10  3 c   kf    -     -        78049   20    0 
+Classic   958367285 10  2 Bc  kf    -     -        78029   40    0 
+Classic   958367350 10  1 Bf  -     -     -        77989   10    0 
+Classic   958367403 10 10 c   f     -     -        77979   20    0 
+Classic   958367493 10  9 c   c     k     k        77959   40    0 Qc 5c
+Classic   958367545 10  8 c   r     -     -        77919   80  270 
+Classic   958367581 10  7 f   -     -     -        78109    0    0 
+Classic   958367632 10  6 f   -     -     -        78109    0    0 
+Classic   958367658 10  5 f   -     -     -        78109    0    0 
+Classic   958367699 10  4 f   -     -     -        78109    0    0 
+Classic   958367742 10  3 f   -     -     -        78109    0    0 
+Classic   958367805 10  2 Bk  kf    -     -        78109   20    0 
+Classic   958367848 10  1 Bc  kf    -     -        78089   20    0 
+Classic   958367891 10 10 c   f     -     -        78069   20    0 
+Classic   958367951 10  9 f   -     -     -        78049    0    0 
+Classic   958368003 10  8 r   bc    kc    kc       78049  160    0 Ac Ah
+Classic   958368073 10  7 r   c     f     -        77889   60    0 
+Classic   958368150 10  6 c   k     b     b        77829  100  210 
+Classic   958368226 10  5 c   k     k     k        77939   20    0 8d Ts
+Classic   958368307 10  4 c   r     b     b        77919  140  310 Tc 9d
+Classic   958368360 10  3 f   -     -     -        78089    0    0 
+Classic   958368420 10  2 Bk  kc    b     kf       78089   80    0 
+Classic   958368481 10  1 Bc  b     b     b        78009  120    0 Tc 9h
+Classic   958368520 10 10 f   -     -     -        77889    0    0 
+Classic   958368555 10  9 c   b     bf    -        77889   80    0 
+Classic   958368585 10  8 r   b     br    k        77809  180    0 Kh Kd
+Classic   958368631 10  7 cc  kf    -     -        77629   40    0 
+Classic   958368719 10  6 f   -     -     -        77589    0    0 
+Classic   958368748 10  5 cc  c     c     k        77589  100  300 8s Ad
+Classic   958368787 10  4 f   -     -     -        77789    0    0 
+Classic   958368889 10  3 f   -     -     -        77789    0    0 
+Classic   958368941 10  2 Bk  f     -     -        77789   20    0 
+Classic   958368989 10  1 Bc  k     bc    kc       77769  160    0 8h 7c
+Classic   958369041 10 10 f   -     -     -        77609    0    0 
+Classic   958369078 10  9 c   f     -     -        77609   20    0 
+Classic   958369142 10  8 c   c     f     -        77589   60    0 
+Classic   958369204 10  7 c   f     -     -        77529   40    0 
+Classic   958369264 10  6 r   bc    kf    -        77489   80    0 
+Classic   958369313 10  5 f   -     -     -        77409    0    0 
+Classic   958369372 10  4 f   -     -     -        77409    0    0 
+Classic   958369419 10  3 cc  k     kc    kf       77409   80    0 
+Classic   958369481 10  2 Bk  b     b     b        77329  120    0 3d 4d
+Classic   958369519 10  1 Bc  kf    -     -        77209   20    0 
+Classic   958369585 10 10 f   -     -     -        77189    0    0 
+Classic   958369701 10  9 cc  kcc   rc    c        77189  280    0 8c Qc
+Classic   958369766 10  8 f   -     -     -        76909    0    0 
+Classic   958369795 10  7 c   kc    kc    brc      76909  240  400 4c 5h
+Classic   958369853 10  6 c   kf    -     -        77069   20    0 
+Classic   958369919 10  5 cc  kc    kf    -        77049   60    0 
+Classic   958369979 10  4 f   -     -     -        76989    0    0 
+Classic   958370064 10  3 r   b     b     c        76989  140    0 Ah As
+Classic   958370108 10  2 Bf  -     -     -        76849   20    0 
+Classic   958370164 10  1 Bc  k     k     k        76829   20    0 Qs 6h
+Classic   958370246 10 10 f   -     -     -        76809    0    0 
+Classic   958370315 10  9 f   -     -     -        76809    0    0 
+Classic   958370389 10  8 f   -     -     -        76809    0    0 
+Classic   958370445 10  8 f   -     -     -        76809    0    0 
+Classic   958370517 10  6 f   -     -     -        76809    0    0 
+Classic   958370631 10  5 f   -     -     -        76809    0    0 
+Classic   958370690 10  4 cc  kc    k     kc       76809  100    0 6c 7d
+Classic   958370804 10  3 f   -     -     -        76709    0    0 
+Classic   958370872 10  2 BKQ -     -     -        76709   20    0 
+Classic   958372149 10  4 f   -     -     -        76689    0    0 
+Classic   958372210 10  3 f   -     -     -        76689    0    0 
+Classic   958372241 10  2 Bk  kf    -     -        76689   20    0 
+Classic   958372270 10  1 Bf  -     -     -        76669   10    0 
+Classic   958372343 10 10 c   f     -     -        76659   20    0 
+Classic   958372414 10  9 f   -     -     -        76639    0    0 
+Classic   958372485 10  9 f   -     -     -        76639    0    0 
+Classic   958372537 10  7 c   k     kf    -        76639   20    0 
+Classic   958372620 10  6 c   f     -     -        76619   40    0 
+Classic   958372672 10  5 f   -     -     -        76579    0    0 
+Classic   958372721 10  4 c   kf    -     -        76579   20    0 
+Classic   958372781 10  3 c   k     b     k        76559   60    0 6d 3d
+Classic   958372828 10  2 Bk  kc    kc    kf       76499   80    0 
+Classic   958372878 10  1 Bf  -     -     -        76419   10    0 
+Classic   958372931 10 10 c   c     c     c        76409  120  350 Jc Jd
+Classic   958372974 10  9 f   -     -     -        76639    0    0 
+Classic   958373026 10  8 f   -     -     -        76639    0    0 
+Classic   958373077 10  7 c   c     f     -        76639   80    0 
+Classic   958373170 10  7 f   -     -     -        76559    0    0 
+Classic   958373217 10  5 f   -     -     -        76559    0    0 
+Classic   958373248 10  4 f   -     -     -        76559    0    0 
+Classic   958373307 10  3 cc  c     brc   kc       76559  280  475 5h 3h
+Classic   958373395 10  2 Bk  k     k     k        76754   20    0 2h 8s
+Classic   958373452 10  1 Bf  -     -     -        76734   10    0 
+Classic   958373492 10 10 cc  c     b     k        76724  160    0 5c 9c
+Classic   958373552 10  9 f   -     -     -        76564    0    0 
+Classic   958373581  9  7 f   -     -     -        76564    0    0 
+Classic   958373637 10  7 cc  kc    kc    f        76564  100    0 
+Classic   958373685 10  6 f   -     -     -        76464    0    0 
+Classic   958373734 10  5 f   -     -     -        76464    0    0 
+Classic   958373778 10  4 f   -     -     -        76464    0    0 
+Classic   958373791 10  3 rr  bc    kcc   k        76464  240    0 Jc Jh
+Classic   958373861 10  2 Bk  kf    -     -        76224   20    0 
+Classic   958373928 10  1 Bf  -     -     -        76204   10    0 
+Classic   958374014 10 10 f   -     -     -        76194    0    0 
+Classic   958374075 10  9 f   -     -     -        76194    0    0 
+Classic   958374102 10  8 f   -     -     -        76194    0    0 
+Classic   958374196 10  3 Q   -     -     -        76194    0    0 
+Classic   958621607 10  7 f   -     -     -        76304    0    0 
+Classic   958621647 10  6 f   -     -     -        76304    0    0 
+Classic   958621730 10  5 f   -     -     -        76304    0    0 
+Classic   958621764  9  3 c   b     b     -        76304   80  200 
+Classic   958621832  7  2 Bc  kc    kf    -        76424   60    0 
+Classic   958621865  6  1 Bc  kc    kc    kc       76364  120    0 Qh 8s
+Classic   958621903  6  6 c   r     b     b        76244  140  340 9h Jh
+Classic   958621948  6  5 f   -     -     -        76444    0    0 
+Classic   958621970  6  4 c   b     -     -        76444   40   70 
+Classic   958621995  6  3 f   -     -     -        76474    0    0 
+Classic   958622035  6  2 Bk  kf    -     -        76474   20    0 
+Classic   958622096  6  1 Bf  -     -     -        76454   10    0 
+Classic   958622131  6  6 cc  f     -     -        76444   40    0 
+Classic   958622182  6  5 c   c     c     r        76404  160  370 7d Ac
+Classic   958622216  6  4 f   -     -     -        76614    0    0 
+Classic   958622260  6  3 c   f     -     -        76614   20    0 
+Classic   958622302  6  2 Br  b     b     b        76594  140  250 
+Classic   958622338  6  1 Bc  b     -     -        76704   40   80 
+Classic   958622374  6  6 c   k     f     -        76744   20    0 
+Classic   958622412  6  5 c   c     b     -        76724   80  190 
+Classic   958622462  6  4 f   -     -     -        76834    0    0 
+Classic   958622492  6  3 rc  k     brr   b        76834  300  370 Ac 2c
+Classic   958622547  6  2 Bk  b     b     b        76904  120  220 
+Classic   958622596  6  1 Br  k     kf    -        77004   40    0 
+Classic   958622705  6  6 f   -     -     -        76964    0    0 
+Classic   958622756  6  6 f   -     -     -        76964    0    0 
+Classic   958622825  7  5 c   k     k     k        76964   20   50 7c Jd
+Classic   958622865  7  4 f   -     -     -        76994    0    0 
+Classic   958622939  7  3 cc  k     kc    k        76994   80    0 5h 6h
+Classic   958623024  6  2 Bc  k     k     k        76914   40  130 8h 6h
+Classic   958623061  7  1 Bf  -     -     -        77004   10    0 
+Classic   958623105  8  8 f   -     -     -        76994    0    0 
+Classic   958623130  8  6 Q   -     -     -        76994    0    0 
+Classic   958715988  7  7 f   -     -     -        77812    0    0 
+Classic   958716037  7  6 f   -     -     -        77812    0    0 
+Classic   958716078  7  5 cc  c     f     -        77812   60    0 
+Classic   958716131  7  4 f   -     -     -        77752    0    0 
+Classic   958716187  7  3 f   -     -     -        77752    0    0 
+Classic   958716213  8  2 Bc  kf    -     -        77752   40    0 
+Classic   958716259  8  1 Bc  kf    -     -        77712   20    0 
+Classic   958716308  8  8 c   c     r     b        77692  180  440 Kh Jc
+Classic   958716350  8  7 c   k     k     k        77952   20    0 4h 4s
+Classic   958716402  7  5 f   -     -     -        77932    0    0 
+Classic   958716425  7  4 c   cf    -     -        77932   40    0 
+Classic   958716500  7  3 f   -     -     -        77892    0    0 
+Classic   958716532  7  2 Bf  -     -     -        77892   20    0 
+Classic   958716561  7  1 Bc  kf    -     -        77872   20    0 
+Classic   958716603  7  7 f   -     -     -        77852    0    0 
+Classic   958716667  9  8 f   -     -     -        77852    0    0 
+Classic   958716708  9  7 cc  cc    kc    kc       77852  200    0 Th Jc
+Classic   958716789 10  7 crc br    rc    k        77652  320    0 Ac Kc
+Classic   958716909 10  6 f   -     -     -        77332    0    0 
+Classic   958716978 10  5 f   -     -     -        77332    0    0 
+Classic   958717024 10  4 c   bc    f     -        77332   60    0 
+Classic   958717114  9  3 f   -     -     -        77272    0    0 
+Classic   958717129  9  2 Bc  kf    -     -        77272   40    0 
+Classic   958717185  9  1 Bc  kc    kcf   -        77232  100    0 
+Classic   958717254  9  9 f   -     -     -        77132    0    0 
+Classic   958717321  9  8 c   c     f     -        77132   40    0 
+Classic   958717360 10  8 c   k     f     -        77092   20    0 
+Classic   958717406 10  7 c   rr    b     b        77072  180    0 8c Qc
+Classic   958717467 10  6 crc f     -     -        76892   80    0 
+Classic   958717523 10  5 rc  f     -     -        76812   80    0 
+Classic   958717586 10  4 cc  kcc   kcc   kf       76732  280    0 
+Classic   958717670 10  3 c   k     k     f        76452   20    0 
+Classic   958717749 10  2 Bf  -     -     -        76432   20    0 
+Classic   958717769 10  1 Bc  kf    -     -        76412   20    0 
+Classic   958717809 10 10 f   -     -     -        76392    0    0 
+Classic   958717822 10  9 f   -     -     -        76392    0    0 
+Classic   958717893  9  7 cc  f     -     -        76392   40    0 
+Classic   958717951  9  6 f   -     -     -        76352    0    0 
+Classic   958717976 10  6 c   f     -     -        76352   20    0 
+Classic   958718022 10  5 cc  kf    -     -        76332   40    0 
+Classic   958718100 10  4 f   -     -     -        76292    0    0 
+Classic   958718123 10  3 cc  brc   b     b        76292  200  750 Ts 7s
+Classic   958718177 10  2 Bk  kcc   kc    kf       76842  120    0 
+Classic   958718239 10  1 Bc  kc    b     b        76722  120  300 8d 7h
+Classic   958718302 10 10 f   -     -     -        76902    0    0 
+Classic   958718356 10  9 cc  c     cf    -        76902  100    0 
+Classic   958718463  9  7 f   -     -     -        76802    0    0 
+Classic   958718498  9  6 f   -     -     -        76802    0    0 
+Classic   958718538 10  6 f   -     -     -        76802    0    0 
+Classic   958718574 10  5 cc  kf    -     -        76802   40    0 
+Classic   958718644  9  3 c   c     c     c        76762  120  290 Js Ah
+Classic   958718688  8  2 Brc ccc   cc    f        76932  280    0 
+Classic   958718777 10  1 Bf  -     -     -        76652   10    0 
+Classic   958718829 10 10 f   -     -     -        76642    0    0 
+Classic   958718868 10  9 f   -     -     -        76642    0    0 
+Classic   958718895 10  8 c   kc    f     -        76642   40    0 
+Classic   958718949 10  7 c   b     b     b        76602  140  410 
+Classic   958719009 10  6 f   -     -     -        76872    0    0 
+Classic   958719051 10  5 c   bc    kc    kr       76872  180  450 Tc As
+Classic   958719123 10  4 c   b     k     c        77142   80  140 Ac 2c
+Classic   958719194 10  3 cc  kc    kf    -        77202   60    0 
+Classic   958719280 10  2 Bk  k     b     b        77142  100  260 
+Classic   958719362 10  1 Bc  kcc   kf    -        77302  100    0 
+Classic   958719407 10 10 f   -     -     -        77202    0    0 
+Classic   958719480 10  9 f   -     -     -        77202    0    0 
+Classic   958719535 10  8 f   -     -     -        77202    0    0 
+Classic   958719577 10  7 f   -     -     -        77202    0    0 
+Classic   958719614 10  6 f   -     -     -        77202    0    0 
+Classic   958719653 10  5 f   -     -     -        77202    0    0 
+Classic   958719700 10  4 r   kc    kc    k        77202  100    0 Tc Kc
+Classic   958719765 10  3 f   -     -     -        77102    0    0 
+Classic   958719836 10  2 Bc  bcc   kc    kc       77102  180    0 Jc 9h
+Classic   958719922 10  1 Bcc kc    kc    kc       76922  180    0 As 7s
+Classic   958720026 10 10 c   rr    k     c        76742  140    0 5c Ac
+Classic   958720086 10  9 cc  Q     -     -        76602   40    0 
+Classic   958802723 10  4 f   -     -     -        67922    0    0 
+Classic   958802777 10  3 f   -     -     -        67922    0    0 
+Classic   958802862 10  2 Bk  kf    -     -        67922   20    0 
+Classic   958802949 10  1 Bf  -     -     -        67902   10    0 
+Classic   958803018 10 10 f   -     -     -        67892    0    0 
+Classic   958803094 10  9 f   -     -     -        67892    0    0 
+Classic   958803136 10  8 f   -     -     -        67892    0    0 
+Classic   958803173 10  7 c   k     k     f        67892   20    0 
+Classic   958803225 10  6 c   b     b     c        67872  120  270 As Qd
+Classic   958803281  9  5 f   -     -     -        68022    0    0 
+Classic   958803333  8  3 f   -     -     -        68022    0    0 
+Classic   958803390  8  2 Bk  kf    -     -        68022   20    0 
+Classic   958803442  8  1 Bc  kf    -     -        68002   20    0 
+Classic   958803502  9  9 r   k     b     b        67982  120  290 9h 9s
+Classic   958803574  9  8 f   -     -     -        68152    0    0 
+Classic   958803642 10  8 r   f     -     -        68152   40    0 
+Classic   958803721  9  6 c   k     f     -        68112   20    0 
+Classic   958803825  8  4 f   -     -     -        68092    0    0 
+Classic   958803895  7  2 f   -     -     -        68092    0    0 
+Classic   958803922  7  2 Bk  f     -     -        68092   20    0 
+Classic   958803977  7  1 Bf  -     -     -        68072   10    0 
+Classic   958804002  6  6 r   r     k     c        68062  120  270 Kc Ks
+Classic   958804042  6  5 f   -     -     -        68212    0    0 
+Classic   958804071  7  5 c   f     -     -        68212   20    0 
+Classic   958804093  7  4 cc  kc    kf    -        68192   60    0 
+Classic   958804179  7  3 cc  c     c     c        68132  140    0 4h 4c
+Classic   958804217  7  2 Bf  -     -     -        67992   20    0 
+Classic   958804249  7  1 Bf  -     -     -        67972   10    0 
+Classic   958804263  7  7 c   b     rc    rr       67962  320  700 Kh Jd
+Classic   958804326  7  6 f   -     -     -        68342    0    0 
+Classic   958804369  7  5 c   f     -     -        68342   20    0 
+Classic   958804390  7  4 f   -     -     -        68322    0    0 
+Classic   958804424  7  4 c   cf    -     -        68322   40    0 
+Classic   958804470  6  2 Bk  f     -     -        68282   20    0 
+Classic   958804556  6  1 Bc  kf    -     -        68262   20    0 
+Classic   958804582  5  5 f   -     -     -        68242    0    0 
+Classic   958804589  5  4 fQ  -     -     -        68242    0    0 
+Classic   958884160  9  9 c   k     k     f        68162   20    0 
+Classic   958884199  9  8 f   -     -     -        68142    0    0 
+Classic   958884242  9  7 f   -     -     -        68142    0    0 
+Classic   958884289  8  6 c   f     -     -        68142   20    0 
+Classic   958884315  8  5 f   -     -     -        68122    0    0 
+Classic   958884348  8  4 r   bc    kc    kf       68122  120    0 
+Classic   958884383  7  2 f   -     -     -        68002    0    0 
+Classic   958884418  7  2 Bk  k     k     f        68002   20    0 
+Classic   958884464  8  1 Bc  kc    k     k        67982   60    0 Ts 8d
+Classic   958884503  7  7 cc  k     b     -        67922   80  140 
+Classic   958884573  6  5 f   -     -     -        67982    0    0 
+Classic   958884584  6  5 f   -     -     -        67982    0    0 
+Classic   958884627  5  3 fQ  -     -     -        67982    0    0 

@@ -1,0 +1,685 @@
+spiderbit 957241276 10  5 c   kc    kc    k        16700   80    0 Js 7s
+spiderbit 957241335 10  4 c   c     b     bc       16620  160    0 As 6h
+spiderbit 957241401 10  3 rc  kc    kc    kf       16460  160    0 
+spiderbit 957241472 10  2 Bc  kf    -     -        16300   40    0 
+spiderbit 957241519 10  1 Br  k     b     -        16260  100  180 
+spiderbit 957241553 10 10 c   c     f     -        16340   40    0 
+spiderbit 957241611 10  9 c   kf    -     -        16300   20    0 
+spiderbit 957241656 10  8 r   b     -     -        16280   60  170 
+spiderbit 957241675 10  7 f   -     -     -        16390    0    0 
+spiderbit 957241714 10  6 c   b     c     k        16390  100    0 6h 8c
+spiderbit 957241778 10  5 f   -     -     -        16290    0    0 
+spiderbit 957241850 10  4 c   kc    kc    kf       16290   80    0 
+spiderbit 957241916 10  3 f   -     -     -        16210    0    0 
+spiderbit 957241984 10  2 Bk  kf    -     -        16210   20    0 
+spiderbit 957242029 10  1 Bc  kf    -     -        16190   40    0 
+spiderbit 957242079 10 10 f   -     -     -        16150    0    0 
+spiderbit 957242100 10  9 r   bc    c     k        16150  140  410 Jd Ah
+spiderbit 957242148 10  8 r   k     f     -        16420   40    0 
+spiderbit 957242196 10  7 f   -     -     -        16380    0    0 
+spiderbit 957242237 10  4 Q   -     -     -        16400    0    0 
+spiderbit 957328064 10  1 BKQ -     -     -        24909   10    0 
+spiderbit 957376714  5  4 c   k     b     k        18042   60    0 8s 6c
+spiderbit 957376747  5  3 c   b     -     -        17982   40   80 
+spiderbit 957376764  5  2 Bk  k     k     kf       18022   20    0 
+spiderbit 957376793  5  1 Bf  -     -     -        18002   10    0 
+spiderbit 957376815  5  5 c   b     -     -        17992   40   90 
+spiderbit 957376830  5  4 r   b     k     k        18042   60  150 Jc As
+spiderbit 957376844  5  3 c   b     -     -        18132   40   70 
+spiderbit 957376862  5  2 Br  b     b     k        18162  100    0 Jd 8s
+spiderbit 957376881  4  1 Bc  kc    k     kc       18062   80  180 9s 5h
+spiderbit 957376911  2  2 r   rc    k     k        18162  100  200 Qs 7h
+spiderbit 957376935  2  2 B   -     -     -        18262   20   30 
+spiderbit 957376939  2  1 Br  bf    -     -        18272   60    0 
+spiderbit 957376950  2  2 B   -     -     -        18212   20   30 
+spiderbit 957376952  2  1 Bc  k     bc    kc       18222  140  280 8c Td
+spiderbit 957376973  2  2 Bc  c     br    b        18362  220  440 6h 3c
+spiderbit 957376996  2  1 Bc  krr   -     -        18582  100  180 
+spiderbit 957377014  2  2 B   -     -     -        18662   20   30 
+spiderbit 957377017  2  1 Brr br    k     k        18672  140  280 8d Qd
+spiderbit 957377035  2  2 Br  b     -     -        18812   60  100 
+spiderbit 957377047  2  1 Br  k     kf    -        18852   40    0 
+spiderbit 957377062  2  2 B   -     -     -        18812   20   30 
+spiderbit 957377065  2  1 Bf  -     -     -        18822   10    0 
+spiderbit 957377069  2  2 Br  -     -     -        18812   60  100 
+spiderbit 957377075  2  1 Bf  -     -     -        18852   10    0 
+spiderbit 957377079  2  2 Br  b     b     -        18842  120  200 
+spiderbit 957377095  2  1 Bc  kf    -     -        18922   20    0 
+spiderbit 957377104  2  2 Bc  c     k     k        18902   60  120 3c 3d
+spiderbit 957377119  2  1 Br  -     -     -        18962   40   60 
+spiderbit 957377126  2  2 Bc  k     f     -        18982   40    0 
+spiderbit 957377138  2  1 Br  -     -     -        18942   40   60 
+spiderbit 957377143  2  2 B   -     -     -        18962   20   30 
+spiderbit 957377147  2  1 Bc  k     k     k        18972   20   40 2s 9s
+spiderbit 957377159  2  2 B   -     -     -        18992   20   30 
+spiderbit 957377164  2  1 Bc  kr    b     kc       19002  140    0 Kd 7s
+spiderbit 957377188  2  2 Bf  -     -     -        18862   20    0 
+spiderbit 957377195  2  1 Bc  k     b     -        18842   60   80 
+spiderbit 957377204  2  2 B   -     -     -        18862   20   30 
+spiderbit 957377206  2  1 Br  b     -     -        18872   60  100 
+spiderbit 957377212  2  2 Br  k     c     c        18912  140    0 7h Ah
+spiderbit 957377230  2  1 Br  -     -     -        18772   40   60 
+spiderbit 957377240  2  2 Bc  f     -     -        18792   40    0 
+spiderbit 957377249  3  1 Br  b     kc    kf       18752  120    0 
+spiderbit 957377276  3  3 cc  r     -     -        18632   80  180 
+spiderbit 957377295  3  2 Bc  c     c     b        18732  140    0 2s Th
+spiderbit 957377319  3  1 Br  -     -     -        18592   40   60 
+spiderbit 957377330  3  3 r   bc    rr    -        18612  240  450 
+spiderbit 957377350  3  2 B   -     -     -        18822   20   30 
+spiderbit 957377354  3  1 Brc kc    kc    kc       18832  160  320 4d As
+spiderbit 957377377  3  3 f   -     -     -        18992    0    0 
+spiderbit 957377388  3  2 Bc  kc    kf    -        18992   60    0 
+spiderbit 957377405  3  1 Bc  kr    -     -        18932   60  100 
+spiderbit 957377420  3  3 rc  c     r     k        18972  160  340 3s 7s
+spiderbit 957377438  3  2 Br  k     bf    -        19152  100    0 
+spiderbit 957377459  3  1 Brr kc    kc    b        19052  180  360 Jh Qh
+spiderbit 957377485  3  3 r   -     -     -        19232   40   70 
+spiderbit 957377498  3  2 Bc  k     kf    -        19262   40    0 
+spiderbit 957377516  3  1 Br  -     -     -        19222   40   60 
+spiderbit 957377530  3  3 rc  f     -     -        19242   60    0 
+spiderbit 957377543  3  2 B   -     -     -        19182   20   30 
+spiderbit 957377547  3  1 Bcc kr    k     k        19192   80    0 5s 8c
+spiderbit 957377569  3  3 rc  f     -     -        19112   60    0 
+spiderbit 957377582  3  2 Bc  rrc   r     c        19052  260    0 Ts 9s
+spiderbit 957377606  3  1 Bc  k     kf    -        18792   20    0 
+spiderbit 957377624  3  3 rr  br    b     k        18772  180  380 Th Qh
+spiderbit 957377648  3  2 Bc  bc    k     f        18972   80    0 
+spiderbit 957377682  3  1 Bf  -     -     -        18892   10    0 
+spiderbit 957377698  3  3 f   -     -     -        18882    0    0 
+spiderbit 957377708  3  2 Bc  kr    b     b        18882  160  290 
+spiderbit 957377730  3  1 Br  -     -     -        19012   40   60 
+spiderbit 957377734  3  3 r   -     -     -        19032   40   70 
+spiderbit 957377739  3  2 Bc  kc    k     kf       19062   80    0 
+spiderbit 957377772  3  1 Brc kc    kc    kc       18982  160    0 8d 6h
+spiderbit 957377803  4  4 c   r     b     b        18822  160  380 Td Qc
+spiderbit 957377836  4  3 r   b     -     -        19042   60  110 
+spiderbit 957377850  4  2 Br  b     -     -        19092   60  100 
+spiderbit 957377874  4  1 Bc  kc    kc    k        19132  100    0 3c 3h
+spiderbit 957377904  4  4 rr  r     br    k        19032  240  520 Ac Kd
+spiderbit 957377939  4  3 r   b     b     b        19312  140    0 8c 7h
+spiderbit 957377964  6  3 c   b     brc   k        19172  200  430 Jc 8h
+spiderbit 957377996  6  2 Bk  k     k     k        19402   20    0 2s 4d
+spiderbit 957378020  6  1 Bc  bc    k     b        19382  100    0 Qc 9d
+spiderbit 957378059  6  6 f   -     -     -        19282    0    0 
+spiderbit 957378096  6  5 c   b     k     bf       19282   80    0 
+spiderbit 957378148  6  4 c   rc    c     k        19202  120    0 Td Ad
+spiderbit 957378196  6  3 r   b     k     c        19082  100    0 Jd Kc
+spiderbit 957378231  6  2 Bk  k     b     -        18982   60  120 
+spiderbit 957378267  6  1 Br  b     b     k        19042  100    0 Jc 5c
+spiderbit 957378305  7  7 rc  k     f     -        18942   80    0 
+spiderbit 957378357  7  6 Q   -     -     -        18862    0    0 
+spiderbit 957383195  5  4 Q   -     -     -        20595    0    0 
+spiderbit 957447988  2  2 B   -     -     -        20820   20   30 
+spiderbit 957448037  2  1 Bf  -     -     -        20790   10    0 
+spiderbit 957448042  2  2 Bf  -     -     -        20780   20    0 
+spiderbit 957448046  2  1 Br  -     -     -        20760   40   60 
+spiderbit 957448053  2  2 Bk  b     -     -        20780   40   60 
+spiderbit 957448061  2  1 Bc  b     k     b        20800   80  120 
+spiderbit 957448076  2  2 Bc  k     b     k        20840   80  160 4s 6d
+spiderbit 957448091  2  1 Br  b     -     -        20920   60  100 
+spiderbit 957448100  2  2 Bk  k     b     k        20960   60    0 8h 5d
+spiderbit 957448114  2  1 Bc  k     kf    -        20900   20    0 
+spiderbit 957448129  2  2 Bk  f     -     -        20880   20    0 
+spiderbit 957448138  2  1 Br  b     kf    -        20860   60    0 
+spiderbit 957448151  2  2 Bk  k     b     k        20800   60  120 3c 6d
+spiderbit 957448165  2  1 Br  b     kc    k        20860  100  200 Jc Qs
+spiderbit 957448183  2  2 Bk  b     k     c        20960   80    0 As 7d
+spiderbit 957448200  2  1 Bc  k     k     k        20880   20   40 Kc 5d
+spiderbit 957448215  2  2 Bk  k     f     -        20900   20    0 
+spiderbit 957448226  2  1 Bcc k     k     kf       20880   40    0 
+spiderbit 957448243  2  2 Bk  b     b     k        20840   80  160 6c Th
+spiderbit 957448260  2  1 Br  b     b     b        20920  140  140 Ad 9s
+spiderbit 957448273  2  2 Br  b     k     b        20920  100    0 9h Qh
+spiderbit 957448289  2  1 Bc  b     -     -        20820   40   60 
+spiderbit 957448301  2  2 Br  b     b     -        20840  100  160 
+spiderbit 957448312  2  1 Br  b     b     -        20900  100  160 
+spiderbit 957448321  2  2 Bc  c     c     c        20960  140  280 2d Ah
+spiderbit 957448336  2  1 Br  b     -     -        21100   60  100 
+spiderbit 957448346  2  2 Bc  b     k     f        21140   60    0 
+spiderbit 957448361  2  1 Br  -     -     -        21080   40   60 
+spiderbit 957448364  2  2 Bc  b     b     b        21100  140  240 
+spiderbit 957448384  2  1 BQ  -     -     -        21200   10    0 
+spiderbit 957560262  5  2 Br  b     -     -        31913   60  100 
+spiderbit 957560280  5  1 Bc  k     b     k        31953   60  240 Tc 6d
+spiderbit 957560300  5  5 r   c     b     b        32133  140  260 
+spiderbit 957560324  5  4 r   -     -     -        32253   40   70 
+spiderbit 957560332  5  3 r   b     k     c        32283  100    0 Ad Jc
+spiderbit 957560352  5  2 Br  b     -     -        32183   60  100 
+spiderbit 957560369  5  1 Brr bc    kr    b        32223  240  480 Jd 9d
+spiderbit 957560398  5  5 r   r     b     -        32463  120  320 
+spiderbit 957560437  5  4 c   f     -     -        32663   20    0 
+spiderbit 957560458  5  3 rc  bc    k     k        32643  100    0 2h Ac
+spiderbit 957560484  5  2 Bc  c     f     -        32543   60    0 
+spiderbit 957560503  5  1 Bc  kc    kf    -        32483   60    0 
+spiderbit 957560526  6  5 c   k     b     k        32423   60    0 Ac 3d
+spiderbit 957560558  6  4 r   k     bf    -        32363   80    0 
+spiderbit 957560583  7  3 f   -     -     -        32283    0    0 
+spiderbit 957560628  7  2 Bc  r     b     -        32283  120  280 
+spiderbit 957560666  7  1 Bc  kf    -     -        32443   40    0 
+spiderbit 957560696  7  7 c   k     f     -        32403   20    0 
+spiderbit 957560738  7  6 c   k     bf    -        32383   60    0 
+spiderbit 957560775  7  5 rc  c     f     -        32323   80    0 
+spiderbit 957560796  8  4 c   k     f     -        32243   20    0 
+spiderbit 957560850  8  3 fQ  -     -     -        32223    0    0 
+spiderbit 957561419  8  2 Bk  bf    -     -        32223   40    0 
+spiderbit 957561451  7  1 Bc  kf    -     -        32183   40    0 
+spiderbit 957561514  8  8 c   cc    f     -        32143  100    0 
+spiderbit 957561580  9  7 f   -     -     -        32043    0    0 
+spiderbit 957561623  9  6 f   -     -     -        32043    0    0 
+spiderbit 957561674  9  5 r   b     kc    kc       32043  180    0 Js Qd
+spiderbit 957561739  9  4 fQ  -     -     -        31863    0    0 
+spiderbit 957619306  8  3 f   -     -     -        44003    0    0 
+spiderbit 957619337  7  2 Brc r     b     k        44003  160  540 Jh 8h
+spiderbit 957619391  7  1 Br  b     b     k        44383  100    0 Qs 2c
+spiderbit 957619424  7  6 f   -     -     -        44283    0    0 
+spiderbit 957619454  8  5 c   b     kf    -        44283   40    0 
+spiderbit 957619504  8  4 r   b     k     b        44243  100  260 
+spiderbit 957619542  9  3 f   -     -     -        44403    0    0 
+spiderbit 957619620  9  2 Br  rr    kr    k        44403  220    0 9h 8c
+spiderbit 957619712  9  1 Bc  kf    -     -        44183   20    0 
+spiderbit 957619762  9  9 r   b     c     f        44163  120    0 
+spiderbit 957619862  7  6 c   k     f     -        44043   20    0 
+spiderbit 957619912  7  5 c   rr    r     k        44023  200  850 4h Ad
+spiderbit 957619960  7  4 f   -     -     -        44673    0    0 
+spiderbit 957619999  7  3 rc  kf    -     -        44673   60    0 
+spiderbit 957620035  7  2 Br  b     b     kc       44613  140    0 9c Ah
+spiderbit 957620100  7  1 Bf  -     -     -        44473   10    0 
+spiderbit 957620133  7  7 cc  r     b     k        44463  120  380 9d 6c
+spiderbit 957620169  7  6 c   f     -     -        44723   20    0 
+spiderbit 957620196  7  5 r   brc   rrc   c        44703  360  910 Qs 8s
+spiderbit 957620236  7  4 r   k     b     -        45253   80  150 
+spiderbit 957620265  7  3 r   b     b     k        45323  100    0 4c Td
+spiderbit 957620299  7  2 Bf  -     -     -        45223   20    0 
+spiderbit 957620358  7  1 Br  kc    kf    -        45203   60    0 
+spiderbit 957620407  8  8 r   r     b     b        45143  160  200 Ah 5h
+spiderbit 957620444  8  7 f   -     -     -        45183    0    0 
+spiderbit 957620486  8  6 rr  kc    kc    kf       45183  140    0 
+spiderbit 957620566  8  5 c   kc    kc    kf       45043   80    0 
+spiderbit 957620619  9  4 c   bc    b     bc       44963  180    0 7s 8s
+spiderbit 957620671  9  3 r   b     b     kc       44783  140  410 As 5d
+spiderbit 957620737  9  2 Bc  kc    k     bf       45053  100    0 
+spiderbit 957620775  9  1 BQ  -     -     -        44953   10    0 
+spiderbit 957621310  9  4 c   k     f     -        44863   20    0 
+spiderbit 957621355  9  3 r   b     b     b        44843  140    0 Jh 6h
+spiderbit 957621381  9  2 Br  KQ    -     -        44703   40    0 
+spiderbit 957622956  6  2 Br  k     bc    kc       44663  180    0 4s 2d
+spiderbit 957623028  6  1 Bc  k     b     b        44483  120    0 Js 2d
+spiderbit 957623079  5  3 Q   -     -     -        44363    0    0 
+spiderbit 957706572  3  1 BKQ -     -     -        43348   10    0 
+spiderbit 957706900  5  3 r   b     b     -        43988  100  200 
+spiderbit 957706948  5  2 BQ  -     -     -        44088   20    0 
+spiderbit 957707115  5  4 cc  f     -     -        44068   40    0 
+spiderbit 957707162  5  3 c   kf    -     -        44028   20    0 
+spiderbit 957707189  5  2 Br  c     c     kc       44008  140    0 Ks Ts
+spiderbit 957707239  6  1 Bf  -     -     -        43868   10    0 
+spiderbit 957707263  6  6 r   k     r     r        43858  200  510 Qs Js
+spiderbit 957707309  6  5 r   rc    c     k        44168  140    0 6s Th
+spiderbit 957707355  6  4 f   -     -     -        44028    0    0 
+spiderbit 957707423  6  3 f   -     -     -        44028    0    0 
+spiderbit 957707457  6  2 BQ  -     -     -        44028   20    0 
+spiderbit 957745211  7  4 r   b     -     -        47276   60  130 
+spiderbit 957745226  7  3 rc  kc    k     k        47346   80  270 Tc 8h
+spiderbit 957745272  7  2 Br  b     b     b        47536  140  340 Kh Tc
+spiderbit 957745333  7  1 Br  b     kf    -        47736   60    0 
+spiderbit 957745380  7  7 r   b     b     bf       47676  140    0 
+spiderbit 957745445  8  6 r   cr    b     b        47536  200    0 Td 9s
+spiderbit 957745489  8  5 Q   -     -     -        47336    0    0 
+spiderbit 957794836  2  1 BQ  -     -     -        45911   10    0 
+spiderbit 957979748  7  7 rc  r     b     -        62309  160  310 
+spiderbit 957979793  6  5 f   -     -     -        62459    0    0 
+spiderbit 957979807  6  4 f   -     -     -        62459    0    0 
+spiderbit 957979827  6  3 f   -     -     -        62459    0    0 
+spiderbit 957979847  6  2 Bc  r     k     r        62459  160  320 6d 3d
+spiderbit 957979873  6  1 Bf  -     -     -        62619   10    0 
+spiderbit 957979890  6  6 f   -     -     -        62609    0    0 
+spiderbit 957979897  6  5 f   -     -     -        62609    0    0 
+spiderbit 957979925  6  4 r   cc    c     c        62609  180    0 Jc Kd
+spiderbit 957979974  7  4 c   bc    c     c        62429  140    0 Jh 2h
+spiderbit 957980018  7  3 c   b     -     -        62289   40   90 
+spiderbit 957980035  7  2 Bk  c     k     f        62339   40    0 
+spiderbit 957980073  9  1 Br  bc    kc    k        62299  120  340 Ts Ac
+spiderbit 957980107  9  9 c   r     bc    c        62519  180    0 Kh 9d
+spiderbit 957980170  8  7 r   b     b     b        62339  140  310 
+spiderbit 957980221  8  6 r   b     -     -        62509   60  120 
+spiderbit 957980245  7  4 r   b     k     b        62569  100  180 
+spiderbit 957980282  7  3 f   -     -     -        62649    0    0 
+spiderbit 957980286  7  2 Bc  kc    kc    kc       62649  140  290 9h 2c
+spiderbit 957980316  7  1 Br  b     bf    -        62799  100    0 
+spiderbit 957980351  7  7 r   c     c     c        62699  160    0 3c Ah
+spiderbit 957980401  7  6 cc  f     -     -        62539   40    0 
+spiderbit 957980441  7  5 f   -     -     -        62499    0    0 
+spiderbit 957980499  7  4 f   -     -     -        62499    0    0 
+spiderbit 957980542  7  3 c   b     b     b        62499  120  270 9c Kh
+spiderbit 957980566  7  2 Br  kc    kc    k        62649  120    0 Qh As
+spiderbit 957980621  6  1 BQ  -     -     -        62529   10    0 
+spiderbit 957987287  2  2 c   b     -     -        56171   40   60 
+spiderbit 957987311  2  2 B   -     -     -        56191   20   30 
+spiderbit 957987313  2  1 Bf  -     -     -        56201   10    0 
+spiderbit 957987317  3  2 Bk  k     b     -        56191   60  100 
+spiderbit 957987334  3  1 Bf  -     -     -        56231   10    0 
+spiderbit 957987351  3  3 c   c     f     -        56221   40    0 
+spiderbit 957987363  3  2 B   -     -     -        56181   20   30 
+spiderbit 957987366  3  1 Bc  kf    -     -        56191   20    0 
+spiderbit 957987378  4  4 c   b     k     b        56171  100  210 
+spiderbit 957987427  4  3 c   f     -     -        56281   20    0 
+spiderbit 957987446  4  2 Br  rc    bc    c        56261  220    0 Kh Kd
+spiderbit 957987478  5  1 Bc  kf    -     -        56041   40    0 
+spiderbit 957987502  5  5 f   -     -     -        56001    0    0 
+spiderbit 957987532  5  4 f   -     -     -        56001    0    0 
+spiderbit 957987556  5  3 f   -     -     -        56001    0    0 
+spiderbit 957987590  5  2 Bc  kr    b     -        56001  120  260 
+spiderbit 957987625  5  1 Bc  kf    -     -        56141   40    0 
+spiderbit 957987656  5  5 f   -     -     -        56101    0    0 
+spiderbit 957987664  5  4 r   b     -     -        56101   60  110 
+spiderbit 957987678  5  3 f   -     -     -        56151    0    0 
+spiderbit 957987698  5  2 Br  r     b     b        56151  160  320 Qs Qc
+spiderbit 957987740  5  1 BQ  -     -     -        56296   10    0 
+spiderbit 958051515  4  4 f   -     -     -        47829    0    0 
+spiderbit 958051534  4  3 f   -     -     -        47829    0    0 
+spiderbit 958051546  4  2 B   -     -     -        47829   20   30 
+spiderbit 958051549  4  1 Bf  -     -     -        47839   10    0 
+spiderbit 958051568  4  4 c   c     k     k        47829   60    0 Ac 2c
+spiderbit 958051592  4  3 c   f     -     -        47769   20    0 
+spiderbit 958051605  4  2 Bf  -     -     -        47749   20    0 
+spiderbit 958051618  4  1 Bf  -     -     -        47729   10    0 
+spiderbit 958051627  4  4 r   k     k     k        47719   40    0 Ts Ac
+spiderbit 958051645  4  3 c   c     r     -        47679  120  220 
+spiderbit 958051668  4  2 Bc  f     -     -        47779   40    0 
+spiderbit 958051695  4  1 Bf  -     -     -        47739   10    0 
+spiderbit 958051706  4  4 c   c     c     r        47729  160  350 Js Qd
+spiderbit 958051726  4  3 f   -     -     -        47919    0    0 
+spiderbit 958051745  4  2 Bk  r     -     -        47919   60  100 
+spiderbit 958051758  3  1 Bcc k     bc    kf       47959  120    0 
+spiderbit 958051784  3  3 c   c     f     -        47839   40    0 
+spiderbit 958051801  3  2 B   -     -     -        47799   20   30 
+spiderbit 958051804  3  1 Br  b     b     -        47809  100  160 
+spiderbit 958051817  3  3 rc  b     -     -        47869   80  150 
+spiderbit 958051829  3  2 Bc  r     b     b        47939  160  320 Tc 8c
+spiderbit 958051844  3  1 Br  bf    -     -        48099   60    0 
+spiderbit 958051861  3  3 f   -     -     -        48039    0    0 
+spiderbit 958051873  3  2 B   -     -     -        48039   20   30 
+spiderbit 958051875  3  1 Bf  -     -     -        48049   10    0 
+spiderbit 958051879  3  3 f   -     -     -        48039    0    0 
+spiderbit 958051893  3  2 B   -     -     -        48039   20   30 
+spiderbit 958051898  3  1 Bf  -     -     -        48049   10    0 
+spiderbit 958051902  3  3 r   b     b     -        48039  100  170 
+spiderbit 958051916  3  2 Brc c     c     k        48109  140    0 Qs Ts
+spiderbit 958051934  3  1 Bf  -     -     -        47969   10    0 
+spiderbit 958051940  3  3 c   bc    f     -        47959   60    0 
+spiderbit 958051958  3  2 Bc  f     -     -        47899   40    0 
+spiderbit 958051966  3  1 Bf  -     -     -        47859   10    0 
+spiderbit 958051982  3  3 r   b     -     -        47849   60  110 
+spiderbit 958052003  3  2 Bc  k     k     k        47899   40   80 Qc 9d
+spiderbit 958052024  3  1 Bc  kr    b     -        47939  120  220 
+spiderbit 958052056  3  3 r   b     -     -        48039   60  110 
+spiderbit 958052069  4  2 Bc  r     k     r        48089  160  320 Ks Tc
+spiderbit 958052087  4  1 Br  kr    b     b        48249  160  400 Ah As
+spiderbit 958052131  4  4 r   b     bc    r        48489  220  490 As Ac
+spiderbit 958052163  3  3 r   b     b     b        48759  140    0 Th 9c
+spiderbit 958052186  3  2 Br  k     b     k        48619  100    0 Ks Qs
+spiderbit 958052203  3  1 Bcc kr    bc    kc       48519  200    0 Ac 6d
+spiderbit 958052232  3  3 f   -     -     -        48319    0    0 
+spiderbit 958052242  3  2 Br  b     b     b        48319  160    0 As Kc
+spiderbit 958052258  3  1 Bc  b     b     b        48159  140  320 2d Qd
+spiderbit 958052277  3  3 cc  c     c     c        48339  140    0 4c As
+spiderbit 958052295  3  2 B   -     -     -        48199   20   30 
+spiderbit 958052299  3  1 Br  -     -     -        48209   40   60 
+spiderbit 958052305  3  3 r   b     b     b        48229  140    0 6c 9c
+spiderbit 958052323  3  2 B   -     -     -        48089   20   30 
+spiderbit 958052327  3  1 Br  bc    kf    -        48099   80    0 
+spiderbit 958052343  3  3 f   -     -     -        48019    0    0 
+spiderbit 958052356  3  2 Bc  b     -     -        48019   60  110 
+spiderbit 958052369  3  1 Bc  k     b     kf       48069   60    0 
+spiderbit 958052386  3  3 c   b     k     b        48009   80  170 Js 7s
+spiderbit 958052403  3  2 Bc  kr    b     -        48099  120  210 
+spiderbit 958052421  3  1 Bc  kc    kr    k        48189  140    0 Kd 8d
+spiderbit 958052443  3  3 c   k     f     -        48049   20    0 
+spiderbit 958052463  3  2 Bf  -     -     -        48029   20    0 
+spiderbit 958052483  3  1 Bc  b     -     -        48009   40   60 
+spiderbit 958052501  3  3 r   b     -     -        48029   60  110 
+spiderbit 958052511  3  2 Bc  c     f     -        48079   60    0 
+spiderbit 958052526  3  1 Bc  b     -     -        48019   60  140 
+spiderbit 958052539  3  3 c   bf    -     -        48099   40    0 
+spiderbit 958052552  3  2 B   -     -     -        48059   20   30 
+spiderbit 958052555  3  1 Br  b     -     -        48069   60  100 
+spiderbit 958052563  3  3 f   -     -     -        48109    0    0 
+spiderbit 958052574  3  2 Bf  -     -     -        48109   20    0 
+spiderbit 958052593  3  1 Bc  bc    kc    kc       48089  140    0 Qs Qh
+spiderbit 958052616  3  3 cc  c     c     r        47949  180    0 3d Ac
+spiderbit 958052639  3  2 Bf  -     -     -        47769   20    0 
+spiderbit 958052656  3  1 Bf  -     -     -        47749   10    0 
+spiderbit 958052662  3  3 f   -     -     -        47739    0    0 
+spiderbit 958052668  3  2 Bc  c     kc    k        47739  120    0 5d 5h
+spiderbit 958052692  3  1 Brr b     k     k        47619  100  100 Tc Ad
+spiderbit 958052716  3  3 r   -     -     -        47619   40   70 
+spiderbit 958052725  3  2 Br  k     b     -        47649  100  160 
+spiderbit 958052743  3  1 Br  b     b     b        47709  140  240 
+spiderbit 958052754  3  3 rc  r     -     -        47809  100  200 
+spiderbit 958052764  3  2 Bc  b     k     k        47909   60    0 3h 4d
+spiderbit 958052779  3  1 Bf  -     -     -        47849   10    0 
+spiderbit 958052785  3  3 c   f     -     -        47839   20    0 
+spiderbit 958052804  3  2 Bc  c     c     c        47819  140    0 2c 3d
+spiderbit 958052816  3  1 Bc  k     b     b        47679  100  160 
+spiderbit 958052833  3  3 cc  c     k     k        47739   60    0 Ac 3s
+spiderbit 958052851  3  2 Bc  kf    -     -        47679   40    0 
+spiderbit 958052863  3  1 Br  -     -     -        47639   40   60 
+spiderbit 958052869  3  3 f   -     -     -        47659    0    0 
+spiderbit 958052873  3  2 B   -     -     -        47659   20   30 
+spiderbit 958052875  3  1 Bf  -     -     -        47669   10    0 
+spiderbit 958052878  3  3 f   -     -     -        47659    0    0 
+spiderbit 958052886  3  2 Bf  -     -     -        47659   20    0 
+spiderbit 958052904  3  1 Bc  kr    kr    br       47639  280  300 2c Qc
+spiderbit 958052930  3  3 f   -     -     -        47659    0    0 
+spiderbit 958052944  3  2 Br  kr    b     bc       47659  220    0 Ac Kd
+spiderbit 958052966  3  1 Brc b     kc    kf       47439  120    0 
+spiderbit 958052992  3  3 c   r     b     b        47319  140  300 8s 8d
+spiderbit 958053013  3  2 Bc  kc    kr    -        47479  140  250 
+spiderbit 958053032  3  1 Brc b     b     -        47589  120  200 
+spiderbit 958053047  3  3 r   -     -     -        47669   40   70 
+spiderbit 958053053  3  2 Bc  kr    kc    k        47699  120    0 9s Kd
+spiderbit 958053080  3  1 Bf  -     -     -        47579   10    0 
+spiderbit 958053098  3  3 r   -     -     -        47569   40   70 
+spiderbit 958053105  3  2 Br  k     k     c        47599  100  200 Td Tc
+spiderbit 958053121  3  1 Bf  -     -     -        47699   10    0 
+spiderbit 958053129  3  3 f   -     -     -        47689    0    0 
+spiderbit 958053134  3  2 Bc  r     k     b        47689  120  200 
+spiderbit 958053154  3  1 Bc  b     kc    kf       47769  100    0 
+spiderbit 958053174  3  3 r   c     f     -        47669   60    0 
+spiderbit 958053187  3  2 B   -     -     -        47609   20   30 
+spiderbit 958053190  3  1 Br  -     -     -        47619   40   60 
+spiderbit 958053194  3  3 f   -     -     -        47639    0    0 
+spiderbit 958053204  3  2 Br  b     b     b        47639  160  330 Jc Ad
+spiderbit 958053218  3  1 Bc  k     b     -        47809   80  140 
+spiderbit 958053231  3  3 rr  b     -     -        47869  100  190 
+spiderbit 958053242  3  2 Bc  b     b     -        47959  100  170 
+spiderbit 958053252  3  1 Br  b     -     -        48029   60  100 
+spiderbit 958053260  3  3 r   -     -     -        48069   40   70 
+spiderbit 958053266  3  2 Bf  -     -     -        48099   20    0 
+spiderbit 958053285  3  1 Bcc kr    -     -        48079   80  140 
+spiderbit 958053303  3  3 r   bc    k     c        48139  120    0 7d 7s
+spiderbit 958053319  3  2 Bc  c     f     -        48019   60    0 
+spiderbit 958053333  3  1 Bcc b     b     -        47959  100  160 
+spiderbit 958053347  3  3 r   b     bc    c        48019  180    0 Kd Jc
+spiderbit 958053369  3  2 Br  b     -     -        47839   80  140 
+spiderbit 958053382  3  1 Br  b     kr    b        47899  200  420 Jh Kd
+spiderbit 958053400  3  3 f   -     -     -        48119    0    0 
+spiderbit 958053407  3  2 B   -     -     -        48119   20   30 
+spiderbit 958053410  3  1 Br  b     -     -        48129   60  100 
+spiderbit 958053418  3  3 rc  c     r     b        48169  200  410 5c 3s
+spiderbit 958053439  3  2 Br  b     bc    kc       48379  200    0 6h Ad
+spiderbit 958053460  3  1 Bf  -     -     -        48179   10    0 
+spiderbit 958053471  3  3 c   b     b     -        48169   80  140 
+spiderbit 958053486  3  2 Br  b     b     b        48229  160  330 7c As
+spiderbit 958053500  3  1 Br  b     kc    k        48399  120    0 3s 3d
+spiderbit 958053532  3  3 c   k     k     k        48279   20   50 6c Ad
+spiderbit 958053551  3  2 Bc  kr    kf    -        48309   80    0 
+spiderbit 958053569  4  1 Br  b     b     -        48229  100  160 
+spiderbit 958053580  4  4 f   -     -     -        48289    0    0 
+spiderbit 958053590  4  3 f   -     -     -        48289    0    0 
+spiderbit 958053612  4  2 Bc  kf    -     -        48289   40    0 
+spiderbit 958053630  4  1 Br  bf    -     -        48249   60    0 
+spiderbit 958053644  4  4 f   -     -     -        48189    0    0 
+spiderbit 958053648  4  3 cc  f     -     -        48189   60    0 
+spiderbit 958053662  4  2 Bc  kf    -     -        48129   40    0 
+spiderbit 958053687  4  1 Br  -     -     -        48089   40   60 
+spiderbit 958053698  4  4 f   -     -     -        48109    0    0 
+spiderbit 958053716  4  3 r   bc    r     k        48109  160  330 Kc Ts
+spiderbit 958053737  4  2 Br  k     bf    -        48279   80    0 
+spiderbit 958053767  4  1 Br  -     -     -        48199   40   60 
+spiderbit 958053772  4  4 r   b     -     -        48219   60  150 
+spiderbit 958053786  4  3 r   -     -     -        48309   40   70 
+spiderbit 958053790  4  2 Bc  bc    b     k        48339  120  250 9d 6h
+spiderbit 958053811  5  1 Bc  kc    b     k        48469  100    0 Ts 2d
+spiderbit 958053843  5  5 c   k     b     -        48369   60  120 
+spiderbit 958053875  5  4 r   -     -     -        48429   40   70 
+spiderbit 958053881  5  3 r   b     b     -        48459  100  180 
+spiderbit 958053897  5  2 B   -     -     -        48539   20   30 
+spiderbit 958053904  5  1 Bc  b     b     b        48549  140  320 5c Ah
+spiderbit 958053945  4  4 r   f     -     -        48729   40    0 
+spiderbit 958053959  4  3 r   c     rc    k        48689  180    0 Ac Jh
+spiderbit 958054004  4  2 Bk  k     b     kc       48509  100    0 As 4c
+spiderbit 958054031  4  1 Bc  k     b     k        48409   80  240 2s 2d
+spiderbit 958054074  4  4 r   -     -     -        48569   40   70 
+spiderbit 958054085  4  3 r   b     bc    f        48599  140    0 
+spiderbit 958054110  4  2 Bk  b     k     b        48459   80  170 9d 2d
+spiderbit 958054129  5  1 Brc b     b     b        48549  180    0 7s Ts
+spiderbit 958054153  5  5 f   -     -     -        48369    0    0 
+spiderbit 958054167  5  4 f   -     -     -        48369    0    0 
+spiderbit 958054191  5  3 c   c     c     b        48369  140  400 Qh Th
+spiderbit 958054231  5  2 Bc  kr    -     -        48629   80  190 
+spiderbit 958054257  5  1 Bc  k     k     b        48739   60  100 
+spiderbit 958054276  5  5 r   k     f     -        48779   40    0 
+spiderbit 958054313  5  4 fQ  -     -     -        48739    0    0 
+spiderbit 958078774  4  2 B   -     -     -        48499   20   30 
+spiderbit 958078784  4  1 Br  b     k     b        48509  100  240 Kd Ks
+spiderbit 958078812  4  4 f   -     -     -        48649    0    0 
+spiderbit 958078850  5  3 f   -     -     -        48649    0    0 
+spiderbit 958078872  5  2 Bc  kc    kr    b        48649  180  370 7d 2d
+spiderbit 958078912  5  1 Bc  br    -     -        48839  100  240 
+spiderbit 958078937  5  5 r   b     b     b        48979  140  300 Ah Kh
+spiderbit 958078975  4  3 f   -     -     -        49139    0    0 
+spiderbit 958078996  4  2 Bc  c     c     k        49139  100  200 5h Tc
+spiderbit 958079020  4  1 Bc  kc    kc    k        49239   80  160 Th 7c
+spiderbit 958079047  4  4 r   r     c     c        49319  160    0 7h Qh
+spiderbit 958079080  4  3 c   kc    kc    b        49159  120  240 
+spiderbit 958079122  4  2 Bk  b     -     -        49279   40   70 
+spiderbit 958079134  4  1 Bc  kc    kc    kc       49309  140  380 7s 9h
+spiderbit 958079182  5  5 f   -     -     -        49549    0    0 
+spiderbit 958079227  6  4 c   k     f     -        49549   20    0 
+spiderbit 958079272  6  3 cc  c     c     kc       49529  140    0 8c Jc
+spiderbit 958079309  6  2 Bc  k     bc    kf       49389  120    0 
+spiderbit 958079374  7  1 Bc  b     -     -        49269   40  100 
+spiderbit 958079409  6  6 c   b     k     b        49329   80  160 
+spiderbit 958079450  6  5 r   -     -     -        49409   40   70 
+spiderbit 958079460  6  4 r   c     k     f        49439   60    0 
+spiderbit 958079511  6  3 r   c     k     b        49379  100  300 Qh Jd
+spiderbit 958079552  6  2 Br  c     c     f        49579  100    0 
+spiderbit 958079594  7  1 Bc  bf    -     -        49479   40    0 
+spiderbit 958079618  7  7 c   k     b     -        49439   60  120 
+spiderbit 958079659  7  6 f   -     -     -        49499    0    0 
+spiderbit 958079682  7  5 r   b     b     k        49499  100    0 6d 6s
+spiderbit 958079721  7  4 c   r     c     f        49399  100    0 
+spiderbit 958079764  7  3 fQ  -     -     -        49299    0    0 
+spiderbit 958085060 10  7 cc  kr    bc    kf       46973  160    0 
+spiderbit 958085135 10  6 r   b     b     b        46813  140    0 Ah Ks
+spiderbit 958085234  9  4 r   -     -     -        46673   40   70 
+spiderbit 958085261  9  3 ccc cc    kc    k        46703  160    0 Jc 7s
+spiderbit 958085345  9  2 Bc  k     b     k        46543   80    0 3s 9d
+spiderbit 958085411 10  1 Bc  k     k     k        46463   20   40 5h Th
+spiderbit 958085459 10 10 cc  f     -     -        46483   40    0 
+spiderbit 958085521 10  9 f   -     -     -        46443    0    0 
+spiderbit 958085589  8  6 f   -     -     -        46443    0    0 
+spiderbit 958085637  8  5 cc  c     crr   r        46443  340  410 Ad 4c
+spiderbit 958085694  8  4 c   c     c     r        46513  160  310 
+spiderbit 958085753  9  4 Q   -     -     -        46663    0    0 
+spiderbit 958223672  5  5 r   b     k     f        45993   60    0 
+spiderbit 958223703  5  4 cc  f     -     -        45933   40    0 
+spiderbit 958223736  5  3 r   -     -     -        45893   40   70 
+spiderbit 958223746  5  2 Bk  kf    -     -        45923   20    0 
+spiderbit 958223782  5  1 Br  b     b     k        45903  100    0 8c Ac
+spiderbit 958223808  5  5 c   k     b     c        45803  100    0 6h 3d
+spiderbit 958223844  5  4 f   -     -     -        45703    0    0 
+spiderbit 958223872  5  3 c   c     c     k        45703   80  240 3s 6h
+spiderbit 958223898  5  2 Bc  k     kf    -        45863   40    0 
+spiderbit 958223923  5  1 Bc  kf    -     -        45823   20    0 
+spiderbit 958223962  4  4 c   c     b     k        45803  100  280 5s Ts
+spiderbit 958223996  4  3 c   r     b     b        45983  140  320 Kh Kc
+spiderbit 958224023  4  2 Br  b     -     -        46163   60  110 
+spiderbit 958224052  4  1 Bc  kc    kr    k        46213  140    0 8d 5d
+spiderbit 958224078  4  4 f   -     -     -        46073    0    0 
+spiderbit 958224109  4  3 c   b     -     -        46073   40   70 
+spiderbit 958224120  4  2 Br  b     b     b        46103  160  320 Ah Ad
+spiderbit 958224140  4  1 Bc  kr    b     b        46263  160    0 Qc Jh
+spiderbit 958224168  4  4 r   k     r     b        46103  160  320 
+spiderbit 958224201  4  3 r   k     b     b        46263  120  270 Qs Td
+spiderbit 958224218  4  2 B   -     -     -        46413   20   30 
+spiderbit 958224224  4  1 Br  -     -     -        46423   40   60 
+spiderbit 958224232  4  4 c   r     b     b        46443  160  370 5h Th
+spiderbit 958224252  4  3 r   b     b     b        46653  140  250 
+spiderbit 958224275  4  2 Br  b     bc    kc       46763  180    0 Th 6h
+spiderbit 958224306  3  1 Bc  k     k     k        46583   20   40 Js 5h
+spiderbit 958224329  2  2 B   -     -     -        46603   20   30 
+spiderbit 958397076  7  6 r   bc    kc    kc       40595  180    0 Jc 4c
+spiderbit 958397114  7  5 f   -     -     -        40415    0    0 
+spiderbit 958397142  7  4 c   kf    -     -        40415   20    0 
+spiderbit 958397182  7  3 c   f     -     -        40395   20    0 
+spiderbit 958397223  8  2 Bf  -     -     -        40375   20    0 
+spiderbit 958397254  7  1 Bc  k     k     k        40355   20    0 9c 7h
+spiderbit 958397283  7  7 r   c     c     k        40335  120    0 Ks Qh
+spiderbit 958397315  7  6 f   -     -     -        40215    0    0 
+spiderbit 958397338  7  5 cc  k     c     f        40215   80    0 
+spiderbit 958397381  7  4 f   -     -     -        40135    0    0 
+spiderbit 958397405  7  3 r   b     b     b        40135  140  300 
+spiderbit 958397429  6  2 Br  b     b     br       40295  220  295 Ts As
+spiderbit 958397454  6  1 Bc  k     b     kc       40370  100    0 5d 4h
+spiderbit 958397495  6  6 f   -     -     -        40270    0    0 
+spiderbit 958397522  6  5 r   r     r     b        40270  200  640 5d 2d
+spiderbit 958397565  5  3 rc  c     c     f        40710  120    0 
+spiderbit 958397597  5  2 Bc  kf    -     -        40590   40    0 
+spiderbit 958397619  5  1 Br  bc    kc    k        40550  120    0 4d 3h
+spiderbit 958397648  5  5 f   -     -     -        40430    0    0 
+spiderbit 958397674  7  5 f   -     -     -        40430    0    0 
+spiderbit 958397699  8  4 cc  c     f     -        40430   60    0 
+spiderbit 958397723  8  3 f   -     -     -        40370    0    0 
+spiderbit 958397746  8  2 Bc  kf    -     -        40370   40    0 
+spiderbit 958397802  8  1 Bc  kf    -     -        40330   40    0 
+spiderbit 958397834  9  9 cc  c     k     f        40290   60    0 
+spiderbit 958397878  9  8 f   -     -     -        40230    0    0 
+spiderbit 958397922  9  7 c   b     b     f        40230   80    0 
+spiderbit 958397981  9  6 c   b     r     k        40150  120  460 Qc 3c
+spiderbit 958398049  9  5 c   f     -     -        40490   20    0 
+spiderbit 958398087  7  3 Q   -     -     -        40470    0    0 
+spiderbit 958496962  2  1 Br  b     b     k        30323  100  200 Td Ts
+spiderbit 958497091  2  2 Bk  k     k     k        30223   20    0 4d Qs
+spiderbit 958497108  2  1 Bc  b     -     -        30203   40   60 
+spiderbit 958497118  2  2 B   -     -     -        30223   20   30 
+spiderbit 958497121  2  1 Bf  -     -     -        30233   10    0 
+spiderbit 958497123  2  2 B   -     -     -        30223   20   30 
+spiderbit 958497125  2  1 Bc  b     -     -        30233   40   60 
+spiderbit 958497133  2  2 Bk  r     k     b        30253  100    0 7s 9d
+spiderbit 958497150  2  1 Bf  -     -     -        30153   10    0 
+spiderbit 958497158  2  2 Bk  c     f     -        30143   40    0 
+spiderbit 958497168  2  1 Bc  k     b     bf       30103  100    0 
+spiderbit 958497187  2  2 B   -     -     -        29993   20   30 
+spiderbit 958497189  2  1 Bc  b     -     -        30003   40   60 
+spiderbit 958497197  2  2 B   -     -     -        30023   20   30 
+spiderbit 958497198  2  1 Br  -     -     -        30033   40   60 
+spiderbit 958497203  2  2 Bk  f     -     -        30053   20    0 
+spiderbit 958497208  2  1 Bf  -     -     -        30033   10    0 
+spiderbit 958497211  2  2 B   -     -     -        30023   20   30 
+spiderbit 958497213  2  1 Br  -     -     -        30033   40   60 
+spiderbit 958497218  2  2 Br  c     c     k        30053  100    0 Jc Td
+spiderbit 958497234  2  1 Bc  b     b     b        29953  120  240 Qd Ts
+spiderbit 958497253  2  2 B   -     -     -        30073   20   30 
+spiderbit 958497258  2  1 Br  b     b     kc       30083  140    0 Kd 8d
+spiderbit 958497277  2  2 Bk  b     k     k        29943   40   80 4c 3c
+spiderbit 958497295  2  1 Bc  b     -     -        29983   40   60 
+spiderbit 958497308  2  2 B   -     -     -        30003   20   30 
+spiderbit 958497310  2  1 Bf  -     -     -        30013   10    0 
+spiderbit 958497314  2  2 B   -     -     -        30003   20   30 
+spiderbit 958497316  2  1 Br  b     -     -        30013   60  100 
+spiderbit 958497326  2  2 B   -     -     -        30053   20   30 
+spiderbit 958497328  2  1 Br  b     bc    kf       30063  140    0 
+spiderbit 958497346  2  2 B   -     -     -        29923   20   30 
+spiderbit 958497349  2  1 Bc  b     k     b        29933   80  160 7c Th
+spiderbit 958497363  2  2 Bk  k     b     c        30013  100  200 4s Qd
+spiderbit 958497382  2  1 Bc  kf    -     -        30113   20    0 
+spiderbit 958497396  2  2 Bk  k     b     -        30093   60   80 
+spiderbit 958497406  2  1 Bf  -     -     -        30113   10    0 
+spiderbit 958497409  2  2 Bk  c     c     b        30103  120  240 6d Th
+spiderbit 958497424  2  1 Bf  -     -     -        30223   10    0 
+spiderbit 958497431  2  2 B   -     -     -        30213   20   30 
+spiderbit 958497433  3  1 Bc  b     b     b        30223  120    0 Jc 5c
+spiderbit 958497449  3  3 c   rr    k     k        30103  100    0 8d Ah
+spiderbit 958497473  3  2 Bk  k     f     -        30003   20    0 
+spiderbit 958497491  3  1 Bf  -     -     -        29983   10    0 
+spiderbit 958497494  3  3 f   -     -     -        29973    0    0 
+spiderbit 958497510  3  2 Bk  rr    k     b        29973  140  280 4s 5d
+spiderbit 958497538  3  1 Bf  -     -     -        30113   10    0 
+spiderbit 958497546  3  3 c   c     k     k        30103   40    0 4h Jh
+spiderbit 958497565  3  2 Br  b     b     k        30063  120  240 Jd Jc
+spiderbit 958497590  3  1 Br  k     b     -        30183   80  120 
+spiderbit 958497607  3  3 r   brc   c     r        30223  240  490 Ts Kc
+spiderbit 958497633  3  2 Br  k     b     b        30473  120  240 4h Kh
+spiderbit 958497654  3  1 Bf  -     -     -        30593   10    0 
+spiderbit 958497661  3  3 f   -     -     -        30583    0    0 
+spiderbit 958497664  3  2 B   -     -     -        30583   20   30 
+spiderbit 958497667  3  1 Bc  k     k     b        30593   60    0 3d 5c
+spiderbit 958497689  4  4 f   -     -     -        30533    0    0 
+spiderbit 958497706  4  3 f   -     -     -        30533    0    0 
+spiderbit 958497717  4  2 Bk  f     -     -        30533   20    0 
+spiderbit 958497743  4  1 Bf  -     -     -        30513   10    0 
+spiderbit 958497764  4  4 f   -     -     -        30503    0    0 
+spiderbit 958497785  4  3 r   b     -     -        30503   60  110 
+spiderbit 958497805  4  2 Bc  kf    -     -        30553   40    0 
+spiderbit 958497832  4  1 Bc  kr    b     b        30513  140  300 3c Kd
+spiderbit 958497872  4  4 r   k     b     k        30673   80    0 Th 8c
+spiderbit 958497899  4  3 rrr c     c     f        30593  180    0 
+spiderbit 958497933  4  2 B   -     -     -        30413   20   30 
+spiderbit 958497938  4  1 Br  b     -     -        30423   60  100 
+spiderbit 958497955  4  4 r   c     c     c        30463  140    0 Ts 4c
+spiderbit 958497992  4  3 r   krr   kc    k        30323  160    0 Td 4d
+spiderbit 958498031  4  2 B   -     -     -        30163   20   30 
+spiderbit 958498040  4  1 Bc  k     k     k        30173   20    0 4c 8s
+spiderbit 958498065  4  4 f   -     -     -        30153    0    0 
+spiderbit 958498081  4  3 r   b     c     k        30153  100    0 5d Ad
+spiderbit 958498129  6  4 Q   -     -     -        30053    0    0 
+spiderbit 958530408 10  9 c   c     c     c        44361  120  350 2c Ad
+spiderbit 958530467 10  8 r   bc    c     k        44591  140    0 Qd Ac
+spiderbit 958530549 10  3 Q   -     -     -        44406    0    0 
+spiderbit 958542145  9  5 f   Q     -     -        53119    0    0 
+spiderbit 958596637  9  9 cc  f     -     -        60286   60    0 
+spiderbit 958596689  9  8 r   k     b     -        60226   80  150 
+spiderbit 958596728  9  7 r   k     f     -        60296   60    0 
+spiderbit 958596767  9  6 f   -     -     -        60236    0    0 
+spiderbit 958596837 10  5 f   -     -     -        60236    0    0 
+spiderbit 958596884 10  4 r   b     kc    kf       60236  100    0 
+spiderbit 958596944 10  3 rc  kf    -     -        60136   60    0 
+spiderbit 958596997  9  1 Bk  k     kc    kc       60076  100  110 Js 9d
+spiderbit 958597043 10  1 Br  kc    kf    -        60086   80    0 
+spiderbit 958597107 10 10 f   -     -     -        60006    0    0 
+spiderbit 958597153 10  9 f   -     -     -        60006    0    0 
+spiderbit 958597175 10  8 f   -     -     -        60006    0    0 
+spiderbit 958597219 10  7 f   -     -     -        60006    0    0 
+spiderbit 958597260 10  6 f   -     -     -        60006    0    0 
+spiderbit 958597298 10  5 f   -     -     -        60006    0    0 
+spiderbit 958597323 10  4 f   -     -     -        60006    0    0 
+spiderbit 958597355 10  3 f   -     -     -        60006    0    0 
+spiderbit 958597400 10  2 Bk  k     k     k        60006   20   60 7h 7c
+spiderbit 958597431 10  1 Bf  -     -     -        60046   10    0 
+spiderbit 958597487 10 10 f   -     -     -        60036    0    0 
+spiderbit 958597512 10  9 f   -     -     -        60036    0    0 
+spiderbit 958597587 10  8 f   -     -     -        60036    0    0 
+spiderbit 958597626 10  7 f   -     -     -        60036    0    0 
+spiderbit 958597660  9  5 f   -     -     -        60036    0    0 
+spiderbit 958597688  9  4 f   -     -     -        60036    0    0 
+spiderbit 958597716  9  3 c   bf    -     -        60036   40    0 
+spiderbit 958597740  9  2 Bf  -     -     -        59996   20    0 
+spiderbit 958597781  9  1 Bc  br    b     b        59976  180  540 3h 4h
+spiderbit 958597826  9  9 f   -     -     -        60336    0    0 
+spiderbit 958597912 10  9 c   r     k     c        60336  100    0 8c Jd
+spiderbit 958597973  9  8 f   -     -     -        60236    0    0 
+spiderbit 958598011  9  7 c   k     b     f        60236   60    0 
+spiderbit 958598092 10  3 Q   -     -     -        60176    0    0 
+spiderbit 958689321  9  2 Brc fQ    -     -        54766   80    0 
+spiderbit 958697659 10  5 f   -     -     -        56731    0    0 
+spiderbit 958697744 10  4 f   -     -     -        56731    0    0 
+spiderbit 958697806 10  3 cc  kc    kf    -        56731   60    0 
+spiderbit 958697860 10  2 Bk  kf    -     -        56671   20    0 
+spiderbit 958697892 10  1 Bc  k     k     b        56651   80    0 8s 9d
+spiderbit 958697949 10 10 f   -     -     -        56571    0    0 
+spiderbit 958697993 10  9 f   -     -     -        56571    0    0 
+spiderbit 958698041 10  8 cc  kf    -     -        56571   40    0 
+spiderbit 958698141 10  7 f   -     -     -        56531    0    0 
+spiderbit 958698216 10  6 cc  f     Q     -        56531   40    0 
+spiderbit 958863772 10  7 c   c     f     -        55891   60    0 
+spiderbit 958863826  9  5 r   b     c     k        55831  100    0 As Jh
+spiderbit 958863867  9  4 c   r     k     kf       55731   60    0 
+spiderbit 958863946 10  4 r   b     k     k        55671   60    0 Qh Jd
+spiderbit 958863979 10  3 fQ  -     -     -        55611    0    0 
+spiderbit 959070174 10 10 cc  f     -     -         5889   80    0 
+spiderbit 959070297 10  9 f   -     -     -         5809    0    0 
+spiderbit 959070384 10  8 c   c     bc    f         5809  120    0 
+spiderbit 959070426 10  7 f   -     -     -         5689    0    0 
+spiderbit 959070467 10  6 r   b     b     b         5689  140  460 Td 9d
+spiderbit 959070518 10  5 f   -     -     Q         6009    0    0 

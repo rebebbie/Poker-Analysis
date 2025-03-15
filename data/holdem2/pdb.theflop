@@ -1,0 +1,594 @@
+theflop   957226964  6  2 Bk  kc    kf    -         3233   40    0 
+theflop   957227009  6  1 Bc  b     kc    k         3193   80    0 5c Ac
+theflop   957227047  6  6 c   c     f     -         3113   60    0 
+theflop   957227089  6  5 c   k     k     f         3053   20    0 
+theflop   957227112  6  4 cc  k     kf    -         3033   40    0 
+theflop   957227147  6  3 f   -     -     -         2993    0    0 
+theflop   957227171  6  2 Bc  bc    b     b         2993  160  370 2s Qs
+theflop   957227211  6  1 Bc  b     -     -         3203   40  100 
+theflop   957227237  6  6 f   -     -     -         3263    0    0 
+theflop   957227263  6  5 f   -     -     -         3263    0    0 
+theflop   957227285  6  4 f   -     -     -         3263    0    0 
+theflop   957227293  6  3 cc  kc    b     -         3263  100  230 
+theflop   957227328  6  2 Bf  -     -     -         3393   20    0 
+theflop   957227365  7  1 Bc  b     b     kc        3373  140  300 Ks 9c
+theflop   957227394  7  7 cc  rr    b     b         3533  200  480 6d 8d
+theflop   957227454  7  6 c   c     k     k         3813   80    0 8h 6h
+theflop   957227506  7  5 f   -     -     -         3733    0    0 
+theflop   957227551  7  4 f   -     -     -         3733    0    0 
+theflop   957227603  7  3 f   -     -     -         3733    0    0 
+theflop   957227624  7  2 Bk  b     b     -         3733   80  130 
+theflop   957227654  7  1 Bf  -     -     -         3783   10    0 
+theflop   957227676  7  7 f   -     -     -         3773    0    0 
+theflop   957227727  9  8 c   kf    -     -         3773   20    0 
+theflop   957227759  9  7 f   -     -     -         3753    0    0 
+theflop   957227803  9  6 c   cc    c     f         3753  100    0 
+theflop   957227873 10  6 c   f     -     -         3653   20    0 
+theflop   957227904 10  5 f   -     -     -         3633    0    0 
+theflop   957227946 10  4 f   -     -     -         3633    0    0 
+theflop   957227980 10  3 f   -     -     -         3633    0    0 
+theflop   957228031 10  2 Bc  kf    -     -         3633   40    0 
+theflop   957228072 10  1 Bc  kc    b     kc        3593  140  400 8s As
+theflop   957228123 10 10 f   -     -     -         3853    0    0 
+theflop   957228167 10  9 ccc f     -     -         3853   80    0 
+theflop   957228257 10  8 c   c     c     f         3773  120    0 
+theflop   957228305 10  7 c   cc    b     bc        3653  200    0 Tc Th
+theflop   957228358 10  6 f   -     -     -         3453    0    0 
+theflop   957228391 10  5 cc  k     kc    kc        3453  140    0 9s 9d
+theflop   957228493  9  3 f   -     -     -         3313    0    0 
+theflop   957228550  9  2 Bk  kc    b     b         3313  120  250 
+theflop   957228585  9  1 Bc  kc    k     k         3443   60    0 9h Th
+theflop   957228634  9  9 f   -     -     -         3383    0    0 
+theflop   957228660  9  8 c   c     k     k         3383   60    0 9d Tc
+theflop   957228707  9  7 c   b     k     b         3323   80  210 
+theflop   957228774  8  6 c   c     r     k         3453  140  300 Tc Td
+theflop   957228816  7  5 c   b     -     -         3613   40   70 
+theflop   957228842  7  4 cc  kf    -     -         3643   40    0 
+theflop   957228885  7  3 f   -     -     -         3603    0    0 
+theflop   957228905  7  2 Bc  bc    b     b         3603  160  440 
+theflop   957228967  6  1 Bc  b     k     k         3883   40    0 Ac 9h
+theflop   957229005  6  6 c   f     -     -         3843   20    0 
+theflop   957229055  6  5 f   -     -     -         3823    0    0 
+theflop   957229102  6  4 c   k     k     k         3823   20    0 5c 9c
+theflop   957229128  7  4 cc  kf    -     -         3803   40    0 
+theflop   957229199  7  3 f   -     -     -         3763    0    0 
+theflop   957229246  7  2 Bk  k     k     kf        3763   20    0 
+theflop   957229277  6  1 Bc  b     b     kc        3743  120    0 As Qd
+theflop   957229308  6  6 r   r     rc    c         3623  240    0 Ad As
+theflop   957229356  6  5 c   k     f     -         3383   20    0 
+theflop   957229383  6  4 cc  kc    kc    k         3363  100  320 Tc 7c
+theflop   957229455  6  3 ccc c     k     kf        3583  100    0 
+theflop   957229551  7  2 Bk  kc    kf    -         3483   40    0 
+theflop   957229589  6  1 Bc  b     br    k         3443  160  160 7d 6d
+theflop   957229624  6  6 c   c     c     f         3443   80    0 
+theflop   957229696  6  5 f   -     -     -         3363    0    0 
+theflop   957229727  5  3 f   -     -     -         3363    0    0 
+theflop   957229781  5  2 Bf  -     -     -         3363   20    0 
+theflop   957229807  5  1 Bc  bc    k     k         3343   60    0 8s Jh
+theflop   957229850  5  5 c   c     c     f         3283  100    0 
+theflop   957229896  5  4 f   -     -     -         3183    0    0 
+theflop   957229939  5  3 cc  k     c     r         3183  160  460 5c 6d
+theflop   957229992  5  2 Bf  -     -     -         3483   20    0 
+theflop   957230039  5  1 Bcc kf    -     -         3463   60    0 
+theflop   957230094  5  5 f   -     -     -         3403    0    0 
+theflop   957230106  5  4 cc  c     k     k         3403   60    0 9h Kh
+theflop   957230143  6  4 f   -     -     -         3343    0    0 
+theflop   957230185  6  3 c   f     -     -         3343   20    0 
+theflop   957230251  6  2 Bk  kc    kf    -         3323   40    0 
+theflop   957230301  7  1 Brc bc    kc    b         3283  200  640 Ac Qc
+theflop   957230365  6  6 cc  c     r     k         3723  140  290 9d Kd
+theflop   957230398  6  5 rr  c     c     c         3873  180    0 Qd Qs
+theflop   957230516  6  4 cc  k     bc    k         3693  120  310 Jc 3c
+theflop   957230556  6  3 cc  kf    -     -         3883   40    0 
+theflop   957230576  6  2 Bc  k     kc    kf        3843   80    0 
+theflop   957230636  6  1 Bc  b     b     b         3763  120  360 Ad 7s
+theflop   957230679  6  6 f   -     -     -         4003    0    0 
+theflop   957230723  6  5 f   -     -     -         4003    0    0 
+theflop   957230759  7  4 c   c     r     b         4003  160  360 Tc 9h
+theflop   957230793  7  3 f   -     -     -         4203    0    0 
+theflop   957230821  7  2 Bc  kf    -     -         4203   40    0 
+theflop   957230858  7  1 Bc  kf    -     -         4163   20    0 
+theflop   957230905  7  7 cc  f     -     -         4143   40    0 
+theflop   957230951  7  6 f   -     -     -         4103    0    0 
+theflop   957230988  7  5 rc  brrc  k     k         4103  180  390 Ks Ac
+theflop   957231039  7  4 c   c     c     c         4313  120    0 Th 8d
+theflop   957231093  7  3 cc  kc    k     kc        4193  100    0 4c 5s
+theflop   957231138  8  2 Bf  Q     -     -         4093   20    0 
+theflop   957243788 10  9 c   c     b     k         4548  100    0 7s Ah
+theflop   957243851 10  8 c   kc    kc    kf        4448   80    0 
+theflop   957243903  8  6 f   -     -     -         4368    0    0 
+theflop   957243913  8  5 f   -     -     -         4368    0    0 
+theflop   957243943  8  4 f   -     -     -         4368    0    0 
+theflop   957243966  8  3 f   -     -     -         4368    0    0 
+theflop   957243978  8  2 Bc  kc    kf    -         4368   60    0 
+theflop   957244003  8  1 Bf  -     -     -         4308   10    0 
+theflop   957244024  7  7 c   c     b     k         4298   80  180 Ts 9s
+theflop   957244054  7  6 f   -     -     -         4398    0    0 
+theflop   957244064  7  5 c   b     b     k         4398   80  210 Ah Td
+theflop   957244108  7  4 f   -     -     -         4528    0    0 
+theflop   957244120  7  3 cc  kcf   -     -         4528   80    0 
+theflop   957244157  7  2 Bc  kc    c     f         4448  120    0 
+theflop   957244222  7  1 Bf  -     -     -         4328   10    0 
+theflop   957244256  7  7 c   c     b     b         4318  140  340 8h Th
+theflop   957244284  7  6 c   kf    -     -         4518   20    0 
+theflop   957244310  7  5 f   -     -     -         4498    0    0 
+theflop   957244323  7  4 c   f     -     -         4498   20    0 
+theflop   957244346  7  3 f   -     -     -         4478    0    0 
+theflop   957244380  7  2 Bf  -     -     -         4478   20    0 
+theflop   957244392  7  1 Bc  kf    -     -         4458   40    0 
+theflop   957244436  7  5 Q   -     -     -         4418    0    0 
+theflop   957245308  6  6 c   c     r     b         4418  160  360 9c Qh
+theflop   957245345  6  5 cc  bc    kc    kc        4618  160    0 6c Ad
+theflop   957245379  6  4 c   c     f     -         4458   60    0 
+theflop   957245416  6  3 f   -     -     -         4398    0    0 
+theflop   957245443  6  2 Bk  kf    -     -         4398   20    0 
+theflop   957245473  6  1 Bc  kc    kf    -         4378   60    0 
+theflop   957245521  6  6 c   c     cc    f         4318  120    0 
+theflop   957245577  7  5 c   k     k     k         4198   20   50 Ah 8c
+theflop   957245626  7  4 f   -     -     -         4228    0    0 
+theflop   957245680  8  3 f   -     -     -         4228    0    0 
+theflop   957245734  7  1 Bc  b     kc    kf        4228  100    0 
+theflop   957245771  7  1 Bf  -     -     -         4128   10    0 
+theflop   957245812  7  7 c   k     f     -         4118   20    0 
+theflop   957245848  7  6 c   b     -     -         4098   40   70 
+theflop   957245876  6  5 c   k     c     k         4128  100  130 4d 4s
+theflop   957245908  7  5 f   -     -     -         4158    0    0 
+theflop   957245961  7  4 c   c     kc    k         4158   80    0 5h Ac
+theflop   957246027  7  2 Bk  bc    b     k         4078  100    0 8c 9d
+theflop   957246069  7  1 Bc  kf    -     -         3978   40    0 
+theflop   957246117  8  8 c   f     -     -         3938   40    0 
+theflop   957246136  8  7 f   -     -     -         3898    0    0 
+theflop   957246167  7  5 f   -     -     -         3898    0    0 
+theflop   957246210  8  4 f   -     -     -         3898    0    0 
+theflop   957246230  8  3 f   -     -     -         3898    0    0 
+theflop   957246287  8  2 Bk  rc    kc    b         3898  160  640 8h 9c
+theflop   957246354  7  1 Bc  kf    -     -         4378   20    0 
+theflop   957246398  7  7 r   -     -     -         4358   40   70 
+theflop   957246414  6  5 c   b     b     b         4388  120  250 Jh Ts
+theflop   957246463  5  4 f   -     -     -         4518    0    0 
+theflop   957246497  5  3 c   b     -     -         4518   40  100 
+theflop   957246539  5  2 B   -     -     -         4578   20   30 
+theflop   957246547  5  1 Bf  -     -     -         4588   10    0 
+theflop   957246575  5  5 c   f     -     -         4578   20    0 
+theflop   957246606  5  4 c   b     brr   r         4558  320  650 Tc Ac
+theflop   957246657  5  3 f   -     -     -         4888    0    0 
+theflop   957246684  5  2 Bf  -     -     -         4888   20    0 
+theflop   957246702  5  1 Bc  kc    b     b         4868  120  260 Tc Jc
+theflop   957246731  6  6 c   b     k     c         5008   80    0 3h 3d
+theflop   957246802  6  5 c   bc    kc    kf        4928  100    0 
+theflop   957246851  6  4 r   b     b     b         4828  140  250 
+theflop   957246879  6  3 r   b     b     -         4938  100  190 
+theflop   957246896  6  2 Bc  b     b     kc        5028  140    0 7c Ac
+theflop   957246931  6  1 Bc  k     b     -         4888   80  140 
+theflop   957246965  6  6 c   k     f     -         4948   20    0 
+theflop   957246983  6  5 f   -     -     -         4928    0    0 
+theflop   957247037  6  4 c   c     c     c         4928  120    0 Js Qd
+theflop   957247078  6  3 c   kc    kf    -         4808   40    0 
+theflop   957247149  6  2 Bc  b     -     -         4768   60  100 
+theflop   957247189  5  1 Bf  -     -     -         4808   10    0 
+theflop   957247200  5  5 f   -     -     -         4798    0    0 
+theflop   957247219  5  4 f   -     -     -         4798    0    0 
+theflop   957247252  5  3 c   k     b     k         4798   60  130 6c Qs
+theflop   957247357  5  2 Bk  b     -     -         4868   40   90 
+theflop   957247387  5  1 Bf  -     -     -         4918   10    0 
+theflop   957247422  5  5 c   k     k     f         4908   20    0 
+theflop   957247466  5  4 f   -     -     -         4888    0    0 
+theflop   957247484  5  3 f   -     -     -         4888    0    0 
+theflop   957247526  5  2 Bk  b     -     -         4888   40   70 
+theflop   957247553  5  1 Bf  -     -     -         4918   10    0 
+theflop   957247562  5  5 c   b     b     b         4908  120  310 4s 9s
+theflop   957247626  5  4 f   -     -     -         5098    0    0 
+theflop   957247671  5  3 c   k     c     f         5098   60    0 
+theflop   957247817  4  1 Bk  k     k     k         5038   20    0 3s 5d
+theflop   957247862  4  1 Bc  kc    kf    -         5018   40    0 
+theflop   957247897  4  4 f   -     -     -         4978    0    0 
+theflop   957247913  4  3 c   k     c     f         4978   60    0 
+theflop   957247959  4  2 Bk  b     k     k         4918   40   80 5s 6c
+theflop   957247997  4  1 Bc  kf    -     -         4958   20    0 
+theflop   957248032  5  5 c   c     f     -         4938   40    0 
+theflop   957248078  5  4 cc  kf    -     -         4898   40    0 
+theflop   957248117  6  3 f   -     -     -         4858    0    0 
+theflop   957248133  6  2 Bk  kf    -     -         4858   20    0 
+theflop   957248156  6  1 Bc  k     k     b         4838   60    0 Td 5d
+theflop   957248250  5  5 c   bc    c     c         4778  140  300 As 7d
+theflop   957248294  5  5 c   rc    c     k         4938  120  125 Ac 3d
+theflop   957248331  6  4 cc  kf    -     -         4943   40    0 
+theflop   957248367  7  3 f   -     -     -         4903    0    0 
+theflop   957248405  7  2 Bf  -     -     -         4903   20    0 
+theflop   957248425  7  1 Br  k     k     k         4883   60    0 Kc As
+theflop   957248459  7  7 cc  r     bc    c         4823  200    0 Kc Qc
+theflop   957248535  7  6 c   c     c     c         4623  120    0 9h Jc
+theflop   957248581  8  6 c   c     c     f         4503  120    0 
+theflop   957248624  8  5 c   k     f     -         4383   20    0 
+theflop   957248669  8  4 f   -     -     -         4363    0    0 
+theflop   957248728  8  3 cc  b     br    k         4363  180  580 7h Ad
+theflop   957248817  8  2 Bc  kc    kc    kf        4763  120    0 
+theflop   957248894  7  1 Bf  -     Q     -         4643   10    0 
+theflop   957311234 10  4 c   kc    b     bc        4633  160    0 4c Jc
+theflop   957311308 10  3 f   -     -     -         4473    0    0 
+theflop   957311337 10  2 Bf  -     -     -         4473   20    0 
+theflop   957311382 10  1 Bf  -     -     -         4453   10    0 
+theflop   957311459 10 10 cc  c     b     k         4443  100    0 4s Kc
+theflop   957311555 10  9 f   -     -     -         4343    0    0 
+theflop   957311600 10  8 cc  c     r     b         4343  180  470 2s 2d
+theflop   957311647 10  7 cc  kc    kf    -         4633   60    0 
+theflop   957311711 10  6 cc  f     -     -         4573   40    0 
+theflop   957311784  9  5 c   kc    f     -         4533   40    0 
+theflop   957311836 10  4 c   k     c     k         4493  100    0 Kc 6h
+theflop   957311897 10  3 c   c     f     -         4393   40    0 
+theflop   957311943 10  2 Bf  -     -     -         4353   20    0 
+theflop   957312017 10  1 Bf  -     -     -         4333   10    0 
+theflop   957312079 10 10 f   -     -     -         4323    0    0 
+theflop   957312107 10  9 f   -     -     -         4323    0    0 
+theflop   957312126 10  8 c   f     -     -         4323   40    0 
+theflop   957312171 10  7 f   -     -     -         4283    0    0 
+theflop   957312222 10  6 f   -     -     -         4283    0    0 
+theflop   957312259 10  5 f   -     -     -         4283    0    0 
+theflop   957312307 10  4 f   -     -     -         4283    0    0 
+theflop   957312355 10  3 c   kf    -     -         4283   20    0 
+theflop   957312398 10  2 Bf  -     -     -         4263   20    0 
+theflop   957312434 10  1 Bf  -     -     -         4243   10    0 
+theflop   957312477  9  9 f   -     -     -         4233    0    0 
+theflop   957312510  9  8 c   c     k     k         4233   40   90 Ts Jc
+theflop   957312547 10  8 f   -     -     -         4283    0    0 
+theflop   957312574 10  7 c   f     -     -         4283   40    0 
+theflop   957312617  9  6 c   kc    k     b         4243   80  200 
+theflop   957312691  9  5 cc  f     -     -         4363   40    0 
+theflop   957312762  9  5 c   k     b     c         4323  100    0 Ad 5h
+theflop   957312814  8  3 cc  r     kc    k         4223  140    0 Qc Jd
+theflop   957312903  8  2 Bk  kc    br    kc        4083  200  420 3d 6c
+theflop   957312951  8  1 Bf  -     -     -         4303   10    0 
+theflop   957313014  8  8 c   r     b     c         4293  140    0 Ac 5s
+theflop   957313052  9  7 c   c     c     f         4153   80    0 
+theflop   957313103 10  6 f   -     -     -         4073    0    0 
+theflop   957313132 10  6 f   -     -     -         4073    0    0 
+theflop   957313188  9  4 f   -     -     -         4073    0    0 
+theflop   957313246  9  3 c   k     kf    -         4073   20    0 
+theflop   957313311  9  2 Bf  -     -     -         4053   20    0 
+theflop   957313332  9  1 Bc  k     kc    kf        4033   80    0 
+theflop   957313381  8  8 c   c     c     k         3953   80    0 9c 7c
+theflop   957313413  9  8 f   -     -     -         3873    0    0 
+theflop   957313452  8  6 f   -     -     -         3873    0    0 
+theflop   957313501  8  5 c   f     -     -         3873   40    0 
+theflop   957313571  8  4 f   -     -     -         3833    0    0 
+theflop   957313638  8  3 c   k     c     f         3833   60    0 
+theflop   957313697  7  2 Bf  -     -     -         3773   20    0 
+theflop   957313712  7  1 Bf  -     -     -         3753   10    0 
+theflop   957313726  7  7 f   -     -     -         3743    0    0 
+theflop   957313740  7  6 c   b     k     k         3743   40   45 Ac 9d
+theflop   957313773  5  3 c   k     r     b         3748  140  350 Js 9h
+theflop   957313818  5  2 Bf  -     -     -         3958   20    0 
+theflop   957313826  5  1 Bf  -     -     -         3938   10    0 
+theflop   957313837  5  5 f   -     -     -         3928    0    0 
+theflop   957313858  5  4 c   c     r     k         3928  120  360 Qd As
+theflop   957313892  5  3 f   -     -     -         4168    0    0 
+theflop   957313910  5  2 Bc  kc    kc    kf        4168  120    0 
+theflop   957313950  5  1 Bf  -     -     -         4048   10    0 
+theflop   957313960  5  5 f   -     -     -         4038    0    0 
+theflop   957313979  5  4 c   b     b     b         4038  120  220 
+theflop   957314014  5  3 c   b     b     -         4138   80  140 
+theflop   957314039  5  2 B   -     -     -         4198   20   30 
+theflop   957314046  5  1 Bc  b     k     k         4208   40  120 Qh Ks
+theflop   957314074  5  5 f   -     -     -         4288    0    0 
+theflop   957314093  5  4 f   -     -     -         4288    0    0 
+theflop   957314097  5  3 f   -     -     -         4288    0    0 
+theflop   957314115  5  2 Bk  kc    kf    -         4288   40    0 
+theflop   957314144  5  1 Bc  b     k     k         4248   40    0 3c 4c
+theflop   957314167  5  5 c   b     k     k         4208   40    0 Jd 8d
+theflop   957314201  5  4 f   -     -     -         4168    0    0 
+theflop   957314230  5  3 r   -     -     -         4168   40   70 
+theflop   957314240  5  2 Br  bc    bc    kc        4198  220    0 Kd Kh
+theflop   957314298  5  1 Bc  br    b     -         3978  120  240 
+theflop   957314338  5  5 f   -     -     -         4098    0    0 
+theflop   957314351  5  4 c   f     -     -         4098   20    0 
+theflop   957314399  5  3 f   -     -     -         4078    0    0 
+theflop   957314447  5  2 Bf  -     -     -         4078   20    0 
+theflop   957314505  5  1 Bf  -     -     -         4058   10    0 
+theflop   957314516  6  6 r   b     rc    c         4048  220    0 Kc Ks
+theflop   957314543  6  5 f   -     -     -         3828    0    0 
+theflop   957314568  6  4 c   c     c     c         3828  120  320 8h Kd
+theflop   957314615  6  3 cc  c     k     r         4028  140  300 
+theflop   957314653  6  2 Bk  kf    -     -         4188   20    0 
+theflop   957314679  6  1 Bf  -     -     -         4168   10    0 
+theflop   957314692  6  6 cc  f     -     -         4158   40    0 
+theflop   957314714  6  5 f   -     -     -         4118    0    0 
+theflop   957314742  5  3 Q   -     -     -         4118    0    0 
+theflop   957404925  9  3 f   -     -     -         6330    0    0 
+theflop   957404962  9  2 Bk  kf    -     -         6330   20    0 
+theflop   957405016  9  1 Br  b     bc    kc        6310  180    0 Qc Qd
+theflop   957405055 10  9 c   f     -     -         6130   20    0 
+theflop   957405098 10  8 c   k     b     k         6110   60    0 Ah 7d
+theflop   957405142 10  7 cc  k     c     k         6050   80  110 7s Ah
+theflop   957405197 10  6 f   -     -     -         6080    0    0 
+theflop   957405250 10  5 c   c     k     f         6080   40    0 
+theflop   957405326 10  4 c   b     b     -         6040   80  220 
+theflop   957405384 10  3 f   -     -     -         6180    0    0 
+theflop   957405437  9  2 Bc  kc    bc    kc        6180  180  370 Td Th
+theflop   957405491  9  1 Bc  k     kf    -         6370   20    0 
+theflop   957405535  9  9 f   -     -     -         6350    0    0 
+theflop   957405580  9  8 c   k     f     -         6350   20    0 
+theflop   957405634 10  8 c   k     f     -         6330   20    0 
+theflop   957405708 10  7 c   bc    c     k         6310  100    0 2s As
+theflop   957405788 10  6 c   b     b     k         6210   80  210 Ad Qh
+theflop   957405826  9  5 f   -     -     -         6340    0    0 
+theflop   957405858  8  3 c   f     -     -         6340   20    0 
+theflop   957405895  8  2 Bk  kc    k     k         6320   40   90 4d 2s
+theflop   957405921  8  1 Br  bc    b     -         6370  120  300 
+theflop   957406006  8  8 c   c     k     k         6550   40    0 5s 5h
+theflop   957406044  8  7 f   -     -     -         6510    0    0 
+theflop   957406091  8  6 f   -     -     -         6510    0    0 
+theflop   957406150  8  5 c   k     b     b         6510  100  310 9s Td
+theflop   957406216  8  4 f   -     -     -         6720    0    0 
+theflop   957406261  9  3 f   -     -     -         6720    0    0 
+theflop   957406330  9  2 Bk  f     -     -         6720   20    0 
+theflop   957406360  9  1 Bf  -     -     -         6700   10    0 
+theflop   957406421  8  8 f   -     -     -         6690    0    0 
+theflop   957406464  9  8 c   k     k     k         6690   20    0 7h Qd
+theflop   957406499  9  7 c   k     k     f         6670   20    0 
+theflop   957406557  9  6 c   bc    br    b         6650  220  480 Kd 5c
+theflop   957406624  9  5 f   -     -     -         6910    0    0 
+theflop   957406691  9  4 f   -     -     -         6910    0    0 
+theflop   957406737  9  3 c   cc    k     f         6910   60    0 
+theflop   957406819  9  2 Bc  kc    kf    -         6850   60    0 
+theflop   957406932  9  1 Bc  bc    br    kc        6790  220  500 Th Kh
+theflop   957406987  9  9 c   c     f     -         7070   60    0 
+theflop   957407038 10  9 f   -     -     -         7010    0    0 
+theflop   957407078 10  8 c   kf    -     -         7010   20    0 
+theflop   957407133 10  7 cc  c     c     r         6990  220  400 2d Qd
+theflop   957407220 10  6 f   -     -     -         7170    0    0 
+theflop   957407295 10  5 c   c     c     r         7170  160  410 
+theflop   957407370 10  4 f   -     -     -         7420    0    0 
+theflop   957407432 10  3 c   b     kf    -         7420   40    0 
+theflop   957407509  9  2 Bk  k     k     k         7380   20    0 9s 2d
+theflop   957407565  9  1 Bc  kf    -     -         7360   20    0 
+theflop   957407640  9  9 f   -     -     -         7340    0    0 
+theflop   957407690  9  8 c   c     f     -         7340   60    0 
+theflop   957407756  9  7 c   k     c     k         7280   80  330 Kd 8h
+theflop   957407830  9  6 f   -     -     -         7530    0    0 
+theflop   957407887  8  5 f   -     -     -         7530    0    0 
+theflop   957407905  7  4 c   kc    br    b         7530  200  540 
+theflop   957407981  7  3 f   -     -     -         7870    0    0 
+theflop   957408006  7  2 Bk  kc    k     k         7870   40    0 8h Js
+theflop   957408105  8  1 Bf  -     -     -         7830   10    0 
+theflop   957408175  8  8 c   f     -     -         7820   20    0 
+theflop   957408214  7  6 c   c     c     c         7800  120    0 4d 5c
+theflop   957408277  7  5 f   -     -     -         7680    0    0 
+theflop   957408337  7  4 f   -     -     -         7680    0    0 
+theflop   957408346  7  3 fQ  -     -     -         7680    0    0 
+theflop   957483276 10 10 c   f     -     -         7680   20    0 
+theflop   957483313 10  9 f   -     -     -         7660    0    0 
+theflop   957483386 10  8 r   r     k     k         7660   80    0 Ah Ks
+theflop   957483431 10  7 c   b     br    bc        7580  240    0 3d Jd
+theflop   957483515 10  6 r   c     c     c         7340  140    0 Jc Jh
+theflop   957483584 10  5 cc  kc    k     f         7200   60    0 
+theflop   957483697 10  4 c   cc    c     kc        7140  140    0 Qd Js
+theflop   957483771 10  3 c   c     c     k         7000   80    0 9d Ah
+theflop   957483830 10  2 Bk  kc    c     k         6920  100  340 5s 7c
+theflop   957483916 10  1 Bf  -     -     -         7160   10    0 
+theflop   957484011  9  9 c   r     b     -         7150  100  210 
+theflop   957484113 10  9 f   -     -     -         7260    0    0 
+theflop   957484199 10  8 f   -     -     -         7260    0    0 
+theflop   957484230 10  7 f   -     -     -         7260    0    0 
+theflop   957484271 10  6 f   -     -     -         7260    0    0 
+theflop   957484361  9  5 ccc c     c     b         7260  200  840 Kh 5d
+theflop   957484471  7  3 c   b     -     -         7900   40   70 
+theflop   957484504  7  2 Bf  -     -     -         7930   20    0 
+theflop   957484524  8  1 Bc  kf    -     -         7910   40    0 
+theflop   957484567  8  8 c   b     b     r         7870  160  210 Qs Ks
+theflop   957484660 10  9 f   -     -     -         7920    0    0 
+theflop   957484698 10  8 c   k     c     f         7920   60    0 
+theflop   957484790 10  7 f   -     -     -         7860    0    0 
+theflop   957484869 10  6 c   cc    kc    kf        7860  100    0 
+theflop   957484922 10  5 f   -     -     -         7760    0    0 
+theflop   957484983 10  4 f   -     -     -         7760    0    0 
+theflop   957485034 10  3 c   kf    -     -         7760   20    0 
+theflop   957485084 10  2 Bc  c     c     b         7740  160  440 As Js
+theflop   957485200 10  1 Bf  -     -     -         8020   10    0 
+theflop   957485334  9  9 f   -     -     -         8010    0    0 
+theflop   957485367 10  9 r   b     -     -         8010   60  160 
+theflop   957485401 10  8 f   -     -     -         8110    0    0 
+theflop   957485476 10  7 f   -     -     -         8110    0    0 
+theflop   957485567  9  5 c   f     -     -         8110   20    0 
+theflop   957485623  9  4 c   kc    kc    bc        8090  160    0 Td 7d
+theflop   957485700  9  3 f   -     -     -         7930    0    0 
+theflop   957485747  9  2 Bf  -     -     -         7930   20    0 
+theflop   957485786  9  1 Bc  kc    kc    k         7910  100  220 5h As
+theflop   957485824  9  9 c   c     c     b         8030  140  460 Qs Td
+theflop   957485885  9  8 f   -     -     -         8350    0    0 
+theflop   957485909  9  7 f   -     -     -         8350    0    0 
+theflop   957485938  9  6 f   -     -     -         8350    0    0 
+theflop   957486092  9  5 c   br    bc    kc        8350  240    0 Ts Ks
+theflop   957486262 10  5 c   k     c     c         8110  100  260 Ah 4c
+theflop   957486338 10  4 f   -     -     -         8270    0    0 
+theflop   957486410 10  3 c   kf    -     -         8270   20    0 
+theflop   957486461 10  2 Bk  kf    -     -         8250   20    0 
+theflop   957486500 10  1 Bc  kc    b     brc       8230  260  620 5d Ah
+theflop   957486559 10 10 c   rc    k     f         8590  100    0 
+theflop   957486631 10  9 c   f     -     -         8490   20    0 
+theflop   957486662 10  8 c   f     -     -         8470   20    0 
+theflop   957486720 10  7 f   -     -     -         8450    0    0 
+theflop   957486746 10  7 r   b     b     b         8450  140  310 Kd As
+theflop   957486783  9  5 f   -     -     -         8620    0    0 
+theflop   957486811 10  4 c   b     k     f         8620   40    0 
+theflop   957486849 10  3 cc  kc    kc    kf        8580  100    0 
+theflop   957486907 10  2 Bf  -     -     -         8480   20    0 
+theflop   957486948 10  1 Bc  kc    k     k         8460   60    0 Qc Js
+theflop   957486979 10 10 c   k     k     f         8400   20    0 
+theflop   957487013 10  9 c   r     r     -         8380  160  330 
+theflop   957487073 10  8 f   -     -     -         8550    0    0 
+theflop   957487106 10  7 r   b     b     b         8550  140  490 As Kd
+theflop   957487161 10  6 c   b     b     k         8900   80  340 5c Qc
+theflop   957487238 10  5 c   kc    k     k         9160   40    0 As 4c
+theflop   957487304  9  3 f   -     -     -         9120    0    0 
+theflop   957487356  8  2 Bk  f     -     -         9120   20    0 
+theflop   957487405 10  1 Bc  kc    kf    -         9100   40    0 
+theflop   957487471 10 10 r   b     -     -         9060   60  190 
+theflop   957487534 10  9 c   c     f     -         9190   60    0 
+theflop   957487598  9  8 c   k     k     k         9130   20    0 Ts 9s
+theflop   957487641  9  7 f   -     -     -         9110    0    0 
+theflop   957487672  9  6 c   cc    b     k         9110  100    0 8d Ac
+theflop   957487752 10  5 f   -     -     -         9010    0    0 
+theflop   957487772 10  4 c   f     -     -         9010   20    0 
+theflop   957487853 10  3 c   r     b     -         8990  100  180 
+theflop   957487895 10  2 Bf  -     -     -         9070   20    0 
+theflop   957487996 10  1 Bf  -     -     -         9050   10    0 
+theflop   957488040 10 10 f   -     -     -         9040    0    0 
+theflop   957488096 10  9 f   -     -     -         9040    0    0 
+theflop   957488144 10  8 f   -     -     -         9040    0    0 
+theflop   957488181 10  7 cc  kc    kc    k         9040  100    0 Th Ks
+theflop   957488258  8  5 c   b     -     -         8940   40   70 
+theflop   957488296  8  5 cc  k     k     f         8970   40    0 
+theflop   957488371  8  4 f   -     -     -         8930    0    0 
+theflop   957488415  8  3 r   b     b     -         8930  100  270 
+theflop   957488447  9  2 Bk  kf    -     -         9100   20    0 
+theflop   957488507  9  1 Bc  b     bc    b         9080  160  360 5s 4s
+theflop   957488564  8  8 cc  c     c     k         9280  100    0 8s Ac
+theflop   957488601  8  5 Q   -     -     -         9180    0    0 
+theflop   957492107 10  3 c   k     kf    -         9180   20    0 
+theflop   957492181 10  2 Bc  kc    brc   k         9160  220    0 Tc 9s
+theflop   957492249 10  1 Bc  b     b     k         8940   80  200 Kd Qd
+theflop   957492298 10 10 c   f     -     -         9060   40    0 
+theflop   957492321 10  9 c   c     c     k         9020   80    0 5h 4h
+theflop   957492363 10  8 c   k     k     f         8940   20    0 
+theflop   957492460 10  7 c   b     -     -         8920   40   90 
+theflop   957492486  9  6 cc  k     c     c         8970  120    0 Kd 9h
+theflop   957492553  9  5 f   -     -     -         8850    0    0 
+theflop   957492592  9  4 f   -     -     -         8850    0    0 
+theflop   957492621  9  3 c   kf    -     -         8850   20    0 
+theflop   957492687  9  2 Bc  kf    -     -         8830   40    0 
+theflop   957492741  9  1 Bf  -     -     -         8790   10    0 
+theflop   957492758  8  8 f   -     -     -         8780    0    0 
+theflop   957492772  8  7 f   -     -     -         8780    0    0 
+theflop   957492802  9  6 f   -     -     -         8780    0    0 
+theflop   957492888  9  5 f   -     -     -         8780    0    0 
+theflop   957492923  9  4 cc  f     -     -         8780   40    0 
+theflop   957492945  9  3 f   -     -     -         8740    0    0 
+theflop   957493004  9  2 Bk  kf    -     -         8740   20    0 
+theflop   957493061  9  1 Bf  -     -     -         8720   10    0 
+theflop   957493104  9  9 f   -     -     -         8710    0    0 
+theflop   957493142 10  9 c   c     k     b         8710  100  350 Kd 9h
+theflop   957493204 10  8 f   -     -     -         8960    0    0 
+theflop   957493250 10  7 f   -     -     -         8960    0    0 
+theflop   957493290 10  6 f   -     -     -         8960    0    0 
+theflop   957493335 10  5 f   -     -     -         8960    0    0 
+theflop   957493379 10  4 f   -     -     -         8960    0    0 
+theflop   957493438 10  3 c   kc    KQ    -         8960   80    0 
+theflop   957499077  9  6 c   kc    k     kc        8880   80    0 8c 8d
+theflop   957499131  9  5 c   k     kf    -         8800   20    0 
+theflop   957499158  9  4 f   -     -     -         8780    0    0 
+theflop   957499219  8  2 f   -     -     -         8780    0    0 
+theflop   957499270  8  2 Bf  -     -     -         8780   20    0 
+theflop   957499284  8  1 Bc  bc    kc    k         8760  120    0 7s Ts
+theflop   957499320  8  8 r   c     c     c         8640  180    0 Ah Ac
+theflop   957499402  8  7 c   c     c     k         8460   80    0 As Th
+theflop   957499443  8  6 c   f     -     -         8380   40    0 
+theflop   957499491  8  5 c   k     kf    -         8340   20    0 
+theflop   957499566  8  4 f   -     -     -         8320    0    0 
+theflop   957499595  7  3 f   -     -     -         8320    0    0 
+theflop   957499645  7  2 Bc  kc    kc    bc        8320  180  410 Jh Ah
+theflop   957499697  8  1 Bf  -     -     -         8550   10    0 
+theflop   957499745  8  8 c   c     k     c         8540  100    0 Kh 2h
+theflop   957499779  9  8 c   k     f     -         8440   20    0 
+theflop   957499808  9  7 c   b     b     k         8420   80    0 Qd Jc
+theflop   957499859  9  6 f   -     -     -         8340    0    0 
+theflop   957499915  9  6 f   -     -     -         8340    0    0 
+theflop   957499936  8  4 cc  kr    k     k         8340   80  230 7d 7c
+theflop   957499981  8  3 c   b     b     -         8490   80  130 
+theflop   957500014  8  2 Br  r     b     r         8540  240  560 9d 9h
+theflop   957500060  9  1 Bf  -     -     -         8860   10    0 
+theflop   957500083  9  9 c   c     k     k         8850   60    0 Ks 8d
+theflop   957500114  9  8 c   f     -     -         8790   20    0 
+theflop   957500143  9  7 c   b     b     b         8770  120  270 
+theflop   957500185  9  6 c   b     k     k         8920   40   90 6s Qs
+theflop   957500218 10  5 c   k     k     k         8970   20    0 2s 2d
+theflop   957500287 10  4 f   -     -     -         8950    0    0 
+theflop   957500329 10  3 f   -     -     -         8950    0    0 
+theflop   957500384 10  2 Bc  kcc   br    br        8950  460  890 Tc Qs
+theflop   957500539 10  1 Bf  -     -     -         9380   10    0 
+theflop   957500684 10 10 c   b     -     -         9370   40   70 
+theflop   957500731 10  9 f   -     -     -         9400    0    0 
+theflop   957500772 10  8 f   -     -     -         9400    0    0 
+theflop   957500815 10  7 f   -     -     -         9400    0    0 
+theflop   957500869 10  6 f   -     -     -         9400    0    0 
+theflop   957500929 10  5 r   b     c     c         9400  160  490 Kd Kh
+theflop   957500975 10  4 cc  kf    -     -         9730   40    0 
+theflop   957501034 10  3 r   br    kc    bc        9690  240    0 Ks Kh
+theflop   957501085 10  2 Bc  k     kf    -         9450   40    0 
+theflop   957501152 10  1 Bf  -     -     -         9410   10    0 
+theflop   957501198 10 10 f   -     -     -         9400    0    0 
+theflop   957501233  9  8 f   -     -     -         9400    0    0 
+theflop   957501298  9  7 f   -     -     -         9400    0    0 
+theflop   957501379 10  7 c   cc    c     f         9400  140    0 
+theflop   957501440 10  6 f   -     -     -         9260    0    0 
+theflop   957501485 10  5 f   -     -     -         9260    0    0 
+theflop   957501521 10  4 c   c     k     c         9260   80    0 Kh 9c
+theflop   957501568 10  3 rc  kc    k     k         9180   80    0 Ah Qh
+theflop   957501615 10  2 Bk  k     kf    -         9100   20    0 
+theflop   957501659 10  1 Bc  b     b     b         9080  120  200 
+theflop   957501694 10 10 f   -     -     -         9160    0    0 
+theflop   957501747 10  9 c   r     k     f         9160   60    0 
+theflop   957501812 10  8 c   c     c     f         9100  120    0 
+theflop   957501908 10  7 r   b     -     -         8980   60  130 
+theflop   957501946 10  6 f   -     -     -         9050    0    0 
+theflop   957501991 10  5 c   f     -     -         9050   20    0 
+theflop   957502065 10  4 rc  rc    c     c         9030  200    0 Jc Js
+theflop   957502137  9  3 f   -     -     -         8830    0    0 
+theflop   957502200 10  2 Bk  kf    -     -         8830   20    0 
+theflop   957502267 10  1 Bc  kc    kc    kf        8810  100    0 
+theflop   957502315 10 10 c   f     -     -         8710   40    0 
+theflop   957502364 10  9 r   br    bc    b         8670  240    0 Kh Ah
+theflop   957502456 10  8 c   c     c     k         8430   80    0 Kc 8c
+theflop   957502514 10  7 c   c     f     -         8350   80    0 
+theflop   957502563  9  5 c   kc    kc    b         8270  120  260 
+theflop   957502633  9  4 f   -     -     -         8410    0    0 
+theflop   957502669  9  3 f   -     -     -         8410    0    0 
+theflop   957502700  9  2 Bf  -     -     -         8410   20    0 
+theflop   957502727  9  1 Bc  b     k     k         8390   40    0 4c 5c
+theflop   957502788 10 10 f   -     -     -         8350    0    0 
+theflop   957502830 10  9 c   k     f     -         8350   20    0 
+theflop   957502901 10  8 f   -     -     -         8330    0    0 
+theflop   957502930 10  7 cc  kf    -     -         8330   40    0 
+theflop   957503087 10  6 c   k     f     -         8290   20    0 
+theflop   957503213  9  5 f   -     -     -         8270    0    0 
+theflop   957503240  9  4 c   b     -     -         8270   40   90 
+theflop   957503262  9  3 c   kf    -     -         8320   20    0 
+theflop   957503300  9  2 B   -     -     -         8300   20   30 
+theflop   957503378  8  1 Bf  -     -     -         8310   10    0 
+theflop   957503444  8  8 f   -     -     -         8300    0    0 
+theflop   957503576  8  7 f   -     -     -         8300    0    0 
+theflop   957503665  6  6 c   k     f     -         8300   20    0 
+theflop   957503686  6  5 f   -     -     -         8280    0    0 
+theflop   957503707  6  4 f   -     -     -         8280    0    0 
+theflop   957503719  6  3 cc  k     f     -         8280   40    0 
+theflop   957503747  6  2 Bf  -     -     -         8240   20    0 
+theflop   957503779  5  1 Bf  -     -     -         8220   10    0 
+theflop   957503817  5  5 c   c     c     k         8210  160    0 9d 9h
+theflop   957503874  5  4 c   f     -     -         8050   40    0 
+theflop   957503900  5  3 cc  cc    kc    kc        8010  160    0 7d 9c
+theflop   957503948  6  2 Bc  kc    kc    b         7850  140  420 Jd Ts
+theflop   957503980  6  1 Bc  b     b     k         8130  100  340 7d Kc
+theflop   957504013  6  6 c   c     b     r         8370  240  830 2c 2h
+theflop   957504062  6  5 cc  b     k     k         8960   60    0 6c 6h
+theflop   957504096  6  4 f   -     -     -         8900    0    0 
+theflop   957504112  5  2 Bc  c     c     c         8900  140    0 6s Kh
+theflop   957504126  5  1 Bc  kc    k     b         8760   80  160 
+theflop   957504162  5  5 c   f     -     -         8840   40    0 
+theflop   957504188  5  4 f   -     -     -         8800    0    0 
+theflop   957504236  5  3 f   -     -     -         8800    0    0 
+theflop   957504251  6  2 Bc  kc    kc    k         8800  100    0 3d Qd
+theflop   957504288  6  1 Bf  -     -     -         8700   10    0 
+theflop   957504306  6  6 cc  rc    c     k         8690  140  143 3d Ac
+theflop   957504348  6  5 c   c     f     -         8693   40    0 
+theflop   957504381  6  4 cc  kf    -     -         8653   40    0 
+theflop   957504403  5  2 cc  k     b     b         8613  120  200 
+theflop   957504428  5  2 Bk  b     k     f         8693   40    0 
+theflop   957504476  5  1 Bc  b     -     -         8653   40   80 
+theflop   957504493  5  5 f   -     -     -         8693    0    0 
+theflop   957504509  5  5 c   c     f     -         8693   60    0 
+theflop   957504533  4  3 c   c     f     -         8633   40    0 
+theflop   957504550  4  2 Bk  b     -     -         8593   40   70 
+theflop   957504564  4  1 Bf  -     -     -         8623   10    0 
+theflop   957504595  3  3 c   c     c     k         8613   80    0 Qs 7s
+theflop   957504638  4  2 Bk  k     k     k         8533   20    0 7c 9d
+theflop   957504665  4  1 Bf  -     -     -         8513   10    0 
+theflop   957504671  4  3 Q   -     -     -         8503    0    0 

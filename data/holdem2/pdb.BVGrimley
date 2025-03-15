@@ -1,0 +1,795 @@
+BVGrimley 958721787  9  2 Bk  k     k     k         9119   20    0 8d Kc
+BVGrimley 958721842  9  1 Bf  -     -     -         9099   10    0 
+BVGrimley 958721935  9  9 f   -     -     -         9089    0    0 
+BVGrimley 958721968  9  8 f   -     -     -         9089    0    0 
+BVGrimley 958722004  9  7 f   -     -     -         9089    0    0 
+BVGrimley 958722069  9  6 f   -     -     -         9089    0    0 
+BVGrimley 958722142  9  5 f   -     -     -         9089    0    0 
+BVGrimley 958722185  9  4 f   -     -     -         9089    0    0 
+BVGrimley 958722242  8  3 cc  kf    -     -         9089   40    0 
+BVGrimley 958722263  8  2 Bk  f     -     -         9049   20    0 
+BVGrimley 958722306  8  1 Bc  k     k     kf        9029   20    0 
+BVGrimley 958722348  8  8 cc  f     -     -         9009   40    0 
+BVGrimley 958722386  8  7 r   f     -     -         8969   40    0 
+BVGrimley 958722417  8  6 f   -     -     -         8929    0    0 
+BVGrimley 958722462  8  5 r   rc    kc    kc        8929  180  620 Ks Kc
+BVGrimley 958722507  8  4 f   -     -     -         9369    0    0 
+BVGrimley 958722562  8  3 f   -     -     -         9369    0    0 
+BVGrimley 958722606  8  2 Bcc kc    kcc   k         9369  260  870 2d 5s
+BVGrimley 958722671  8  1 Bf  -     -     -         9979   10    0 
+BVGrimley 958722681  8  8 r   c     b     b         9969  140    0 Qc Ah
+BVGrimley 958722712  8  7 rr  b     b     b         9829  180  580 Qc Qh
+BVGrimley 958722794  8  6 r   r     b     b        10229  160  450 Ac Js
+BVGrimley 958722849  8  5 f   -     -     -        10519    0    0 
+BVGrimley 958722885  8  4 f   -     -     -        10519    0    0 
+BVGrimley 958722912  8  3 c   c     c     rf       10519  160    0 
+BVGrimley 958722947  8  2 Br  b     bf    -        10359  100    0 
+BVGrimley 958722976  7  1 Bf  -     -     -        10259   10    0 
+BVGrimley 958723006  7  7 rc  f     -     -        10249   80    0 
+BVGrimley 958723040  7  6 c   k     f     -        10169   20    0 
+BVGrimley 958723090  7  5 c   bc    kc    kf       10149  100    0 
+BVGrimley 958723150  7  4 c   kf    -     -        10049   20    0 
+BVGrimley 958723207  7  3 f   -     -     -        10029    0    0 
+BVGrimley 958723243  7  2 Bcc kc    kc    b        10029  180  595 Kc Jh
+BVGrimley 958723292  6  1 Bc  b     b     -        10444   80  140 
+BVGrimley 958723323  6  6 rc  f     -     -        10504   60    0 
+BVGrimley 958723372  6  5 c   c     rc    c        10444  200    0 3s Js
+BVGrimley 958723421  6  4 c   c     c     k        10244   80  210 2c As
+BVGrimley 958723490  6  3 c   k     bc    k        10374  100  380 9s 7s
+BVGrimley 958723546  6  2 Bk  b     b     -        10654   80  130 
+BVGrimley 958723582  6  1 Bc  k     kf    -        10704   20    0 
+BVGrimley 958723608  6  6 r   b     k     k        10684   60    0 Kc As
+BVGrimley 958723642  6  5 r   b     -     -        10624   60  110 
+BVGrimley 958723665  5  4 c   kc    f     -        10674   40    0 
+BVGrimley 958723740  6  3 r   -     -     -        10634   40   70 
+BVGrimley 958723762  7  2 Br  k     b     b        10664  120  290 
+BVGrimley 958723796  5  1 Bc  k     k     k        10834   20    0 Jd 7c
+BVGrimley 958723826  5  5 r   b     b     b        10814  140  250 
+BVGrimley 958723855  4  3 c   k     f     -        10924   20    0 
+BVGrimley 958723870  4  2 Bk  k     kf    -        10904   20    0 
+BVGrimley 958723885  4  1 Bc  kf    -     -        10884   20    0 
+BVGrimley 958723906  4  4 r   b     b     k        10864  100    0 Jh Kc
+BVGrimley 958723934  4  3 f   -     -     -        10764    0    0 
+BVGrimley 958723939  4  2 Bk  k     k     kf       10764   20    0 
+BVGrimley 958723958  4  1 Bc  kf    -     -        10744   20    0 
+BVGrimley 958723968  3  3 r   -     -     -        10724   40   70 
+BVGrimley 958723974  3  2 Br  bc    kc    k        10754  140    0 Kh Ad
+BVGrimley 958723991  3  1 Bf  -     -     -        10614   10    0 
+BVGrimley 958724007  3  3 r   -     -     -        10604   40   70 
+BVGrimley 958724012  3  2 Bk  k     f     -        10634   20    0 
+BVGrimley 958724020  3  1 Bc  b     b     kc       10614  120    0 Qs 2s
+BVGrimley 958724039  3  3 c   c     k     c        10494   80  180 Qh Qs
+BVGrimley 958724059  3  2 Bk  k     b     k        10594   60    0 7s Tc
+BVGrimley 958724082  3  1 Bf  -     -     -        10534   10    0 
+BVGrimley 958724107  3  3 c   k     f     -        10524   20    0 
+BVGrimley 958724119  3  2 B   -     -     -        10504   20   30 
+BVGrimley 958724123  3  1 Bc  k     kc    k        10514   60    0 8d Js
+BVGrimley 958724150  3  3 f   -     -     -        10454    0    0 
+BVGrimley 958724186  3  2 Bk  kc    k     k        10454   40  120 7d 8s
+BVGrimley 958724209  3  1 Bc  b     -     -        10534   40   60 
+BVGrimley 958724222  3  3 c   f     -     -        10554   20    0 
+BVGrimley 958724234  3  2 Br  r     b     b        10534  160  160 Kc Ks
+BVGrimley 958724250  3  1 Bc  b     kf    -        10534   40    0 
+BVGrimley 958724276  3  3 f   -     -     -        10494    0    0 
+BVGrimley 958724293  3  2 Bk  b     bc    kc       10494  160  340 Jh As
+BVGrimley 958724329  3  1 Br  -     -     -        10674   40   60 
+BVGrimley 958724340  3  3 r   b     -     -        10694   60  110 
+BVGrimley 958724352  3  2 Bk  kf    -     -        10744   20    0 
+BVGrimley 958724382  3  1 Bc  br    -     -        10724   80  140 
+BVGrimley 958724404  3  3 c   b     b     -        10784   80  140 
+BVGrimley 958724437  3  2 Bc  k     k     k        10844   40   90 3c Ah
+BVGrimley 958724452  3  1 Bc  k     kf    -        10894   20    0 
+BVGrimley 958724473  3  3 c   b     -     -        10874   40   70 
+BVGrimley 958724482  3  2 Bk  k     bf    -        10904   60    0 
+BVGrimley 958724495  3  1 Bc  k     kf    -        10844   20    0 
+BVGrimley 958724516  3  3 f   -     -     -        10824    0    0 
+BVGrimley 958724529  3  2 Bk  k     k     k        10824   20    0 2d 6h
+BVGrimley 958724544  3  1 Bf  -     -     -        10804   10    0 
+BVGrimley 958724565  3  3 r   c     c     k        10794  100    0 Kh 5c
+BVGrimley 958724589  3  2 Bk  k     k     b        10694   60  130 3h 3d
+BVGrimley 958724616  3  1 Bc  k     k     k        10764   20   40 Ac 6c
+BVGrimley 958724636  3  3 f   -     -     -        10784    0    0 
+BVGrimley 958724666  3  2 Bk  k     b     -        10784   60   90 
+BVGrimley 958724682  3  1 Bc  k     k     k        10814   20   40 9c As
+BVGrimley 958724696  3  3 c   b     k     b        10834   80  200 Kd 8c
+BVGrimley 958724732  3  2 Bk  k     kf    -        10954   20    0 
+BVGrimley 958724758  2  1 BQ  -     -     -        10934   10    0 
+BVGrimley 959066671  9  9 f   -     -     -         9069    0    0 
+BVGrimley 959066692  9  8 f   -     -     -         9069    0    0 
+BVGrimley 959066734 10  7 r   f     -     -         9069   40    0 
+BVGrimley 959066776 10  6 f   -     -     -         9029    0    0 
+BVGrimley 959066870 10  5 f   -     -     -         9029    0    0 
+BVGrimley 959066942 10  4 f   -     -     -         9029    0    0 
+BVGrimley 959066965 10  3 f   -     -     -         9029    0    0 
+BVGrimley 959067030 10  2 Bk  f     -     -         9029   20    0 
+BVGrimley 959067093 10  1 Bf  -     -     -         9009   10    0 
+BVGrimley 959067124 10 10 f   -     -     -         8999    0    0 
+BVGrimley 959067201 10  9 f   -     -     -         8999    0    0 
+BVGrimley 959067236 10  8 f   -     -     -         8999    0    0 
+BVGrimley 959067285 10  7 f   -     -     -         8999    0    0 
+BVGrimley 959067336 10  6 f   -     -     -         8999    0    0 
+BVGrimley 959067353 10  5 c   f     -     -         8999   20    0 
+BVGrimley 959067395 10  4 f   -     -     -         8979    0    0 
+BVGrimley 959067517 10  3 f   -     -     -         8979    0    0 
+BVGrimley 959067573 10  2 Bk  kc    kc    kc        8979  120    0 7d 8c
+BVGrimley 959067614 10  1 Bc  k     kf    -         8859   20    0 
+BVGrimley 959067661 10 10 r   b     -     -         8839   60  120 
+BVGrimley 959067682 10  9 rc  k     kc    k         8899  120  380 3c 3h
+BVGrimley 959067724 10  8 f   -     -     -         9159    0    0 
+BVGrimley 959067789 10  7 f   -     -     -         9159    0    0 
+BVGrimley 959067827 10  6 cr  kc    kc    kf        9159  160    0 
+BVGrimley 959067937 10  5 f   -     -     -         8999    0    0 
+BVGrimley 959067978 10  4 c   b     b     k         8999   80  220 Tc Kc
+BVGrimley 959068034 10  3 f   -     -     -         9139    0    0 
+BVGrimley 959068073 10  2 Bc  k     b     k         9139   80    0 Jd 8h
+BVGrimley 959068133 10  1 Bf  -     -     -         9059   10    0 
+BVGrimley 959068165 10 10 c   f     -     -         9049   40    0 
+BVGrimley 959068230 10  9 cc  f     -     -         9009   40    0 
+BVGrimley 959068289 10  8 f   -     -     -         8969    0    0 
+BVGrimley 959068416 10  7 r   rc    k     k         8969  100  290 As Ad
+BVGrimley 959068458 10  6 cc  k     c     f         9159   80    0 
+BVGrimley 959068526 10  5 f   -     -     -         9079    0    0 
+BVGrimley 959068595 10  4 c   kf    -     -         9079   20    0 
+BVGrimley 959068638 10  3 c   kc    kf    -         9059   40    0 
+BVGrimley 959068698 10  2 Bk  k     kf    -         9019   20    0 
+BVGrimley 959068733 10  1 Bf  -     -     -         8999   10    0 
+BVGrimley 959068797 10 10 r   c     r     b         8989  180  390 Tc Ks
+BVGrimley 959068841 10  9 f   -     -     -         9199    0    0 
+BVGrimley 959068860 10  8 c   r     b     k         9199  100  330 Ah 5h
+BVGrimley 959068923 10  7 f   -     -     -         9429    0    0 
+BVGrimley 959068962 10  6 cc  cc    kc    kr        9429  200    0 Qs 8s
+BVGrimley 959069042 10  5 r   b     -     -         9229   60  160 
+BVGrimley 959069079 10  4 f   -     -     -         9329    0    0 
+BVGrimley 959069139 10  3 f   -     -     -         9329    0    0 
+BVGrimley 959069241 10  2 Bk  kf    -     -         9329   20    0 
+BVGrimley 959069274 10  1 Bf  -     -     -         9309   10    0 
+BVGrimley 959069316 10 10 f   -     -     -         9299    0    0 
+BVGrimley 959069384 10  9 f   -     -     -         9299    0    0 
+BVGrimley 959069442 10  8 f   -     -     -         9299    0    0 
+BVGrimley 959069495 10  7 r   b     b     -         9299  100  190 
+BVGrimley 959069573 10  6 f   -     -     -         9389    0    0 
+BVGrimley 959069629 10  5 f   -     -     -         9389    0    0 
+BVGrimley 959069656 10  4 f   -     -     -         9389    0    0 
+BVGrimley 959069717 10  3 f   -     -     -         9389    0    0 
+BVGrimley 959069780 10  2 Bk  k     f     -         9389   20    0 
+BVGrimley 959069835 10  1 Bf  -     -     -         9369   10    0 
+BVGrimley 959069896 10 10 c   k     f     -         9359   40    0 
+BVGrimley 959069952 10  9 r   b     b     b         9319  140  310 
+BVGrimley 959069994 10  8 f   -     -     -         9489    0    0 
+BVGrimley 959070057 10  7 f   -     -     -         9489    0    0 
+BVGrimley 959070117  9  5 f   -     -     -         9489    0    0 
+BVGrimley 959070174 10  4 f   -     -     -         9489    0    0 
+BVGrimley 959070297 10  3 f   -     -     -         9489    0    0 
+BVGrimley 959070384 10  2 Bk  kf    -     -         9489   20    0 
+BVGrimley 959070426 10  1 Bf  -     -     -         9469   10    0 
+BVGrimley 959070467 10 10 c   c     c     f         9459  100    0 
+BVGrimley 959070518 10  9 cc  f     -     -         9359   40    0 
+BVGrimley 959070578  9  7 f   -     -     -         9319    0    0 
+BVGrimley 959070618  9  6 f   -     -     -         9319    0    0 
+BVGrimley 959070634  9  5 f   -     -     -         9319    0    0 
+BVGrimley 959070694  9  4 f   -     -     -         9319    0    0 
+BVGrimley 959070732  9  3 c   c     c     f         9319   80    0 
+BVGrimley 959070785  9  2 Bk  k     k     f         9239   20    0 
+BVGrimley 959070824  9  1 Bf  -     -     -         9219   10    0 
+BVGrimley 959070835  9  9 cc  cc    c     f         9209  200    0 
+BVGrimley 959070881  9  8 f   -     -     -         9009    0    0 
+BVGrimley 959070924  9  7 f   -     -     -         9009    0    0 
+BVGrimley 959070973  9  6 c   kcc   kf    -         9009  100    0 
+BVGrimley 959071019  9  5 f   -     -     -         8909    0    0 
+BVGrimley 959071074  8  4 c   k     k     kc        8909   60    0 9h Ad
+BVGrimley 959071106  8  3 c   kc    kc    k         8849   80    0 Jc Tc
+BVGrimley 959071136  8  2 Bk  kf    -     -         8769   20    0 
+BVGrimley 959071180  9  1 Bc  kf    -     -         8749   20    0 
+BVGrimley 959071229  9  9 r   b     f     -         8729   60    0 
+BVGrimley 959071283  9  8 f   -     -     -         8669    0    0 
+BVGrimley 959071313  9  7 f   -     -     -         8669    0    0 
+BVGrimley 959071364  9  6 f   -     -     -         8669    0    0 
+BVGrimley 959071387  9  5 cc  kc    kc    kf        8669  100    0 
+BVGrimley 959071414  9  4 c   b     -     -         8569   40   80 
+BVGrimley 959071429  9  3 f   -     -     -         8609    0    0 
+BVGrimley 959071452 10  2 Bk  kf    -     -         8609   20    0 
+BVGrimley 959071520 10  1 Br  b     b     kc        8589  140    0 Ad Qc
+BVGrimley 959071560 10 10 c   b     k     k         8449   40  100 4c Ad
+BVGrimley 959071602  9  8 f   -     -     -         8509    0    0 
+BVGrimley 959071648  9  7 r   b     b     b         8509  140  300 
+BVGrimley 959071690  9  6 f   -     -     -         8669    0    0 
+BVGrimley 959071737  9  5 c   kf    -     -         8669   20    0 
+BVGrimley 959071773  9  4 f   -     -     -         8649    0    0 
+BVGrimley 959071819  9  3 c   krc   kc    b         8649  160    0 6d 4d
+BVGrimley 959071887 10  2 Br  kc    k     f         8489  100    0 
+BVGrimley 959071955 10  1 Bf  -     -     -         8389   10    0 
+BVGrimley 959072012 10 10 r   b     b     k         8379  120    0 4s 9h
+BVGrimley 959072066 10  9 c   b     c     f         8259   80    0 
+BVGrimley 959072132  9  7 r   cc    kc    kf        8179  160    0 
+BVGrimley 959072186  9  6 cc  c     r     b         8019  180  440 Td 8d
+BVGrimley 959072241  9  5 f   -     -     -         8279    0    0 
+BVGrimley 959072255  9  4 f   -     -     -         8279    0    0 
+BVGrimley 959072285  9  3 cc  f     -     -         8279   40    0 
+BVGrimley 959072305  9  2 Br  b     -     -         8239   60  110 
+BVGrimley 959072328  9  1 Bf  -     -     -         8289   10    0 
+BVGrimley 959072357  9  9 c   k     f     -         8279   20    0 
+BVGrimley 959072402  9  8 r   b     bf    -         8259  100    0 
+BVGrimley 959072452  8  6 c   k     k     b         8159   80  190 
+BVGrimley 959072501  8  5 r   b     b     b         8269  140  370 Ks Ah
+BVGrimley 959072529  8  4 f   -     -     -         8499    0    0 
+BVGrimley 959072570  8  3 r   k     kf    -         8499   40    0 
+BVGrimley 959072609  8  2 Bc  kf    -     -         8459   40    0 
+BVGrimley 959072652  8  1 Bc  b     -     -         8419   40   80 
+BVGrimley 959072676  8  8 f   -     -     -         8459    0    0 
+BVGrimley 959072704  8  7 f   -     -     -         8459    0    0 
+BVGrimley 959072740  8  6 cc  c     rc    c         8459  220  540 9s 5s
+BVGrimley 959072765  8  5 f   -     -     -         8779    0    0 
+BVGrimley 959072791  8  4 f   -     -     -         8779    0    0 
+BVGrimley 959072815  8  3 c   k     br    k         8779  140  310 5h Qh
+BVGrimley 959072859  8  2 Bk  kf    -     -         8949   20    0 
+BVGrimley 959072903  7  1 BQ  -     -     -         8929   10    0 
+BVGrimley 959249704  2  2 B   -     -     -         8919   20   30 
+BVGrimley 959249751  2  1 Bf  -     -     -         8929   10    0 
+BVGrimley 959249760  2  2 Bk  b     -     -         8919   40   60 
+BVGrimley 959249796  2  1 Bc  kf    -     -         8939   20    0 
+BVGrimley 959249804  2  2 Bk  b     f     -         8919   40    0 
+BVGrimley 959249819  2  1 Br  -     -     -         8879   40   60 
+BVGrimley 959249824  2  2 Bk  k     r     c         8899  140  280 Jd Jh
+BVGrimley 959249840  2  1 Bc  k     k     k         9039   20   40 3c 8c
+BVGrimley 959249858  2  2 Bk  c     f     -         9059   40    0 
+BVGrimley 959249876  2  1 Bc  kc    b     b         9019  120    0 9h 4h
+BVGrimley 959249894  2  2 Br  b     k     f         8899   60    0 
+BVGrimley 959249918  2  1 Bc  k     k     b         8839   60   80 
+BVGrimley 959249936  2  2 Bk  b     -     -         8859   40   60 
+BVGrimley 959249945  2  1 Bc  k     k     b         8879   60   80 
+BVGrimley 959249956  2  2 Bk  k     k     b         8899   60   80 
+BVGrimley 959249973  2  1 Bc  k     b     -         8919   60   80 
+BVGrimley 959249982  2  2 B   -     -     -         8939   20   30 
+BVGrimley 959249983  2  1 Bc  k     k     k         8949   20    0 4d 3h
+BVGrimley 959249993  2  2 Bk  f     -     -         8929   20    0 
+BVGrimley 959250007  2  1 Br  -     -     -         8909   40   60 
+BVGrimley 959250014  2  2 Bk  k     b     f         8929   60    0 
+BVGrimley 959250032  2  1 Bc  k     k     b         8869   60  120 Jh Ts
+BVGrimley 959250046  2  2 Bk  k     k     k         8929   20   40 Qs 3d
+BVGrimley 959250066  2  1 Bc  b     b     k         8949   80    0 Jd 2d
+BVGrimley 959250085  2  2 Bk  k     k     f         8869   20    0 
+BVGrimley 959250100  2  1 Bf  -     -     -         8849   10    0 
+BVGrimley 959250103  2  2 Bk  k     c     r         8839  140  280 6h 4s
+BVGrimley 959250118  2  1 Bf  -     -     -         8979   10    0 
+BVGrimley 959250125  2  2 B   -     -     -         8969   20   30 
+BVGrimley 959250128  2  1 Bc  b     -     -         8979   40   60 
+BVGrimley 959250135  2  2 Bk  b     -     -         8999   40   60 
+BVGrimley 959250144  2  1 Bf  -     -     -         9019   10    0 
+BVGrimley 959250148  2  2 Bf  -     -     -         9009   20    0 
+BVGrimley 959250155  2  1 Bc  b     k     kf        8989   40    0 
+BVGrimley 959250179  2  2 Bk  k     k     c         8949   60   60 Qd 8h
+BVGrimley 959250203  2  1 Bc  b     -     -         8949   40   60 
+BVGrimley 959250221  2  2 Bk  b     b     c         8969  120    0 9c 4c
+BVGrimley 959250259  2  1 Bc  kf    -     -         8849   20    0 
+BVGrimley 959250273  2  2 Br  b     b     b         8829  140    0 Kh 9s
+BVGrimley 959250293  2  1 Bc  kf    -     -         8689   20    0 
+BVGrimley 959250306  2  2 B   -     -     -         8669   20   30 
+BVGrimley 959250310  2  1 Bc  kf    -     -         8679   20    0 
+BVGrimley 959250317  2  2 Bk  k     k     f         8659   20    0 
+BVGrimley 959250328  2  1 Bc  kc    kf    -         8639   40    0 
+BVGrimley 959250342  2  2 Br  -     -     -         8599   40   60 
+BVGrimley 959250349  2  1 Br  b     b     b         8619  140    0 Kd 3d
+BVGrimley 959250361  2  2 Bk  b     k     b         8479   80    0 6c 9d
+BVGrimley 959250385  2  1 Bf  -     -     -         8399   10    0 
+BVGrimley 959250391  2  2 Bk  b     b     -         8389   80  120 
+BVGrimley 959250400  2  1 Bf  -     -     -         8429   10    0 
+BVGrimley 959250403  2  2 Bk  k     b     -         8419   60   80 
+BVGrimley 959250418  2  1 Bc  k     k     b         8439   60   80 
+BVGrimley 959250433  2  2 B   -     -     -         8459   20   30 
+BVGrimley 959250435  2  1 Bc  b     -     -         8469   40   60 
+BVGrimley 959250440  2  2 Br  b     -     -         8489   60  100 
+BVGrimley 959250450  2  1 Br  -     -     -         8529   40   60 
+BVGrimley 959250453  2  2 Bk  k     k     k         8549   20    0 Qh 4d
+BVGrimley 959250471  2  1 Br  k     b     bc        8529  160    0 Ad 7d
+BVGrimley 959250491  2  2 Bk  k     k     k         8369   20    0 9c 8s
+BVGrimley 959250512  2  1 Bc  k     k     k         8349   20   40 2c Ah
+BVGrimley 959250528  2  2 B   -     -     -         8369   20   30 
+BVGrimley 959250533  2  1 Bf  -     -     -         8379   10    0 
+BVGrimley 959250536  2  2 B   -     -     -         8369   20   30 
+BVGrimley 959250538  2  1 Bc  k     k     k         8379   20   40 Qd 2h
+BVGrimley 959250547  2  2 Bk  b     b     b         8399  120  240 Tc Jd
+BVGrimley 959250574  2  1 Br  b     k     k         8519   60  120 Kc Kh
+BVGrimley 959250590  2  2 B   -     -     -         8579   20   30 
+BVGrimley 959250596  2  1 Bc  b     b     -         8589   80  120 
+BVGrimley 959250606  2  2 B   -     -     -         8629   20   30 
+BVGrimley 959250608  2  1 Bf  -     -     -         8639   10    0 
+BVGrimley 959250611  2  2 Bk  f     -     -         8629   20    0 
+BVGrimley 959250620  2  1 Bc  b     b     -         8609   80  120 
+BVGrimley 959250630  2  2 Br  b     -     -         8649   60  100 
+BVGrimley 959250639  2  1 Bf  -     -     -         8689   10    0 
+BVGrimley 959250642  2  2 B   -     -     -         8679   20   30 
+BVGrimley 959250643  2  1 Bf  -     -     -         8689   10    0 
+BVGrimley 959250645  2  2 B   -     -     -         8679   20   30 
+BVGrimley 959250647  2  1 Bf  -     -     -         8689   10    0 
+BVGrimley 959250649  2  2 Br  b     r     b         8679  180  360 Jh Jd
+BVGrimley 959250679  2  1 Bf  -     -     -         8859   10    0 
+BVGrimley 959250684  2  2 B   -     -     -         8849   20   30 
+BVGrimley 959250687  2  1 Br  b     -     -         8859   60  100 
+BVGrimley 959250694  2  2 Bk  c     r     k         8899  120    0 Tc 8s
+BVGrimley 959250716  2  1 Bc  kc    kc    b         8779  120    0 Ac 5d
+BVGrimley 959250737  2  2 Bk  k     k     k         8659   20    0 Qh 9d
+BVGrimley 959250752  2  1 Br  b     -     -         8639   60  100 
+BVGrimley 959250763  2  2 Bk  b     -     -         8679   40   60 
+BVGrimley 959250770  2  1 Br  b     bc    kc        8699  180    0 Ah Ts
+BVGrimley 959250783  2  2 B   -     -     -         8519   20   30 
+BVGrimley 959250788  2  1 Bc  b     -     -         8529   40   60 
+BVGrimley 959250795  2  2 B   -     -     -         8549   20   30 
+BVGrimley 959250797  2  1 Bc  kf    -     -         8559   20    0 
+BVGrimley 959250804  2  2 Bk  b     -     -         8539   40   60 
+BVGrimley 959250811  2  1 Bc  b     b     k         8559   80    0 Ad 5s
+BVGrimley 959250826  2  2 B   -     -     -         8479   20   30 
+BVGrimley 959250831  2  1 Br  b     kf    -         8489   60    0 
+BVGrimley 959250843  2  2 Bk  k     f     -         8429   20    0 
+BVGrimley 959250850  2  1 Bc  k     kf    -         8409   20    0 
+BVGrimley 959250860  2  2 B   -     -     -         8389   20   30 
+BVGrimley 959250865  2  1 Bf  -     -     -         8399   10    0 
+BVGrimley 959250877  2  2 B   -     -     -         8389   20   30 
+BVGrimley 959250884  2  1 Bf  -     -     -         8399   10    0 
+BVGrimley 959250892  2  2 Bk  b     -     -         8389   40   60 
+BVGrimley 959250901  2  1 Br  k     k     k         8409   40   80 6h Ad
+BVGrimley 959250912  2  2 B   -     -     -         8449   20   30 
+BVGrimley 959250917  2  1 Br  -     -     -         8459   40   60 
+BVGrimley 959250919  2  2 B   -     -     -         8479   20   30 
+BVGrimley 959250921  2  1 Br  -     -     -         8489   40   60 
+BVGrimley 959250926  2  2 B   -     -     -         8509   20   30 
+BVGrimley 959250928  2  1 Bf  -     -     -         8519   10    0 
+BVGrimley 959250929  2  2 B   -     -     -         8509   20   30 
+BVGrimley 959250930  2  1 Bc  k     k     k         8519   20   40 Kc 8s
+BVGrimley 959250941  2  2 Bk  f     -     -         8539   20    0 
+BVGrimley 959250951  2  1 Bc  k     k     k         8519   20    0 6s 5d
+BVGrimley 959250963  2  2 Bk  b     -     -         8499   40   60 
+BVGrimley 959250974  2  1 Bc  kf    -     -         8519   20    0 
+BVGrimley 959250982  2  2 Bk  k     k     b         8499   60   80 
+BVGrimley 959251002  2  1 Bf  -     -     -         8519   10    0 
+BVGrimley 959251005  2  2 Bk  k     k     b         8509   60    0 3d Qh
+BVGrimley 959251021  2  1 Bf  -     -     -         8449   10    0 
+BVGrimley 959251027  2  2 Bk  r     c     b         8439  140  240 
+BVGrimley 959251050  2  1 Bc  kf    -     -         8539   20    0 
+BVGrimley 959251061  2  2 Br  -     -     -         8519   40   60 
+BVGrimley 959251066  2  1 Bf  -     -     -         8539   10    0 
+BVGrimley 959251068  2  2 B   -     -     -         8529   20   30 
+BVGrimley 959251071  2  1 Br  b     -     -         8539   60  100 
+BVGrimley 959251078  2  2 B   -     -     -         8579   20   30 
+BVGrimley 959251080  2  1 Bc  k     k     k         8589   20   40 7c 6h
+BVGrimley 959251090  2  2 B   -     -     -         8609   20   30 
+BVGrimley 959251095  2  1 Bc  k     b     k         8619   60  120 Qh 5h
+BVGrimley 959251109  2  2 Br  f     -     -         8679   40    0 
+BVGrimley 959251121  2  1 Bf  -     -     -         8639   10    0 
+BVGrimley 959251123  2  2 Bk  c     k     b         8629   80  160 3s 9c
+BVGrimley 959251136  2  1 Bf  -     -     -         8709   10    0 
+BVGrimley 959251141  2  2 Bk  b     -     -         8699   40   60 
+BVGrimley 959251154  2  1 Bc  k     b     k         8719   60    0 8s Qh
+BVGrimley 959251165  2  2 B   -     -     -         8659   20   30 
+BVGrimley 959251169  2  1 Bf  -     -     -         8669   10    0 
+BVGrimley 959251172  2  2 Bk  k     k     k         8659   20    0 3c 2d
+BVGrimley 959251186  2  1 Bf  -     -     -         8639   10    0 
+BVGrimley 959251190  2  2 Bk  k     b     b         8629  100  200 Ac Tc
+BVGrimley 959251209  2  1 Bf  -     -     -         8729   10    0 
+BVGrimley 959251216  2  2 B   -     -     -         8719   20   30 
+BVGrimley 959251220  2  1 Bc  k     k     k         8729   20   40 Td Jc
+BVGrimley 959251234  2  2 B   -     -     -         8749   20   30 
+BVGrimley 959251238  2  1 Bc  k     k     k         8759   20    0 Ts Jh
+BVGrimley 959251251  2  2 Br  b     c     f         8739  100    0 
+BVGrimley 959251296  2  1 Bc  b     -     -         8639   40   60 
+BVGrimley 959251314  2  2 Bk  b     k     f         8659   40    0 
+BVGrimley 959251328  2  1 Bc  k     b     -         8619   60   80 
+BVGrimley 959251338  2  2 Bk  b     -     -         8639   40   60 
+BVGrimley 959251345  2  1 Bf  -     -     -         8659   10    0 
+BVGrimley 959251348  2  2 Bk  b     -     -         8649   40   60 
+BVGrimley 959251355  2  1 Bf  -     -     -         8669   10    0 
+BVGrimley 959251357  2  2 Bk  c     c     k         8659   80  160 7d Qh
+BVGrimley 959251374  2  1 Bc  b     b     -         8739   80  120 
+BVGrimley 959251389  2  2 B   -     -     -         8779   20   30 
+BVGrimley 959251391  2  1 Bf  -     -     -         8789   10    0 
+BVGrimley 959251392  2  2 Bk  k     f     -         8779   20    0 
+BVGrimley 959251400  2  1 Bc  kf    -     -         8759   20    0 
+BVGrimley 959251409  2  2 Bk  f     -     -         8739   20    0 
+BVGrimley 959251415  2  1 Bf  -     -     -         8719   10    0 
+BVGrimley 959251417  2  2 Br  -     -     -         8709   40   60 
+BVGrimley 959251421  2  1 Br  b     b     k         8729  100  200 As Td
+BVGrimley 959251435  2  2 Bk  k     k     b         8829   60    0 Qd 9s
+BVGrimley 959251463  2  1 Bc  k     k     k         8769   20    0 3s 4s
+BVGrimley 959251480  2  2 B   -     -     -         8749   20   30 
+BVGrimley 959251485  2  1 Bf  -     -     -         8759   10    0 
+BVGrimley 959251488  2  2 Bk  c     b     b         8749  120  200 
+BVGrimley 959251506  2  1 Bf  -     -     -         8829   10    0 
+BVGrimley 959251509  2  2 Bk  b     -     -         8819   40   60 
+BVGrimley 959251516  2  1 Bc  k     k     k         8839   20   40 Qh 8c
+BVGrimley 959251528  2  2 B   -     -     -         8859   20   30 
+BVGrimley 959251532  2  1 Bc  kc    bc    k         8869  120  240 Td Js
+BVGrimley 959251551  2  2 Br  b     -     -         8989   60  100 
+BVGrimley 959251565  2  1 Bf  -     -     -         9029   10    0 
+BVGrimley 959251568  2  2 Br  b     b     -         9019  100  160 
+BVGrimley 959251580  2  1 Bf  -     -     -         9079   10    0 
+BVGrimley 959251583  2  2 B   -     -     -         9069   20   30 
+BVGrimley 959251585  2  1 Br  b     bc    kc        9079  180    0 Ac Qd
+BVGrimley 959251608  2  2 Br  b     bf    -         8899  100    0 
+BVGrimley 959251629  2  1 Bc  b     b     kc        8799  120    0 7s Ts
+BVGrimley 959251645  2  2 B   -     -     -         8679   20   30 
+BVGrimley 959251651  2  1 Bc  kf    -     -         8689   20    0 
+BVGrimley 959251659  2  2 Bk  k     b     -         8669   60   80 
+BVGrimley 959251670  2  1 Br  b     k     kc        8689  100    0 Ad 5c
+BVGrimley 959251686  2  2 Bk  k     b     -         8589   60   80 
+BVGrimley 959251703  2  1 Bf  -     -     -         8609   10    0 
+BVGrimley 959251706  2  2 Br  b     k     c         8599  100    0 Jc Tc
+BVGrimley 959251719  2  1 Bc  k     kf    -         8499   20    0 
+BVGrimley 959251737  2  2 Bk  k     k     k         8479   20    0 8h 4h
+BVGrimley 959251748  2  1 Bc  k     k     k         8459   20    0 Js 2s
+BVGrimley 959251759  2  2 Bk  k     c     f         8439   60    0 
+BVGrimley 959251790  3  1 Bf  -     -     -         8379   10    0 
+BVGrimley 959251828  3  3 f   -     -     -         8369    0    0 
+BVGrimley 959251847  3  2 B   -     -     -         8369   20   30 
+BVGrimley 959251852  3  1 Bc  kf    -     -         8379   20    0 
+BVGrimley 959251871  3  3 r   -     -     -         8359   40   70 
+BVGrimley 959251876  3  2 B   -     -     -         8389   20   30 
+BVGrimley 959251881  3  1 Bf  -     -     -         8399   10    0 
+BVGrimley 959251895  4  4 rc  f     -     -         8389   60    0 
+BVGrimley 959251912  4  3 c   b     k     f         8329   40    0 
+BVGrimley 959251943  4  2 Br  b     k     k         8289   60    0 Kh 9s
+BVGrimley 959251967  4  1 Bc  kc    kf    -         8229   40    0 
+BVGrimley 959251990  4  4 f   -     -     -         8189    0    0 
+BVGrimley 959251995  4  3 c   k     k     b         8189   60  100 
+BVGrimley 959252022  5  2 Bf  -     -     -         8229   20    0 
+BVGrimley 959252028  5  1 Bc  b     -     -         8209   40  100 
+BVGrimley 959252047  5  5 f   -     -     -         8269    0    0 
+BVGrimley 959252071  4  4 f   -     -     -         8269    0    0 
+BVGrimley 959252074  4  3 r   c     c     c         8269  140  380 Td Ks
+BVGrimley 959252095  4  2 Bc  bc    kc    kc        8509  160    0 9h Jd
+BVGrimley 959252119  4  1 Bc  k     kc    kf        8349   60    0 
+BVGrimley 959252149  4  4 f   -     -     -         8289    0    0 
+BVGrimley 959252161  4  3 cc  c     c     r         8289  180  500 Td Qs
+BVGrimley 959252195  5  2 Bc  cc    kc    kf        8609  120    0 
+BVGrimley 959252231  5  1 Bc  kf    -     -         8489   40    0 
+BVGrimley 959252253  4  4 r   c     k     k         8449   60  130 As Jc
+BVGrimley 959252289  4  3 f   -     -     -         8519    0    0 
+BVGrimley 959252324  5  3 f   -     -     -         8519    0    0 
+BVGrimley 959252345  4  2 Bk  b     -     -         8519   40   70 
+BVGrimley 959252361  4  1 Bf  -     -     -         8549   10    0 
+BVGrimley 959252378  4  4 r   b     -     -         8539   60  110 
+BVGrimley 959252389  4  3 cc  c     c     k         8589  100  300 7s Qs
+BVGrimley 959252410  4  2 Bc  b     b     k         8789  100  240 Jh Ts
+BVGrimley 959252442  4  1 Bc  kc    kc    kc        8929  140  300 Jd 9c
+BVGrimley 959252464  5  5 r   b     -     -         9089   60  130 
+BVGrimley 959252482  5  4 r   k     f     -         9159   40    0 
+BVGrimley 959252504  5  3 f   -     -     -         9119    0    0 
+BVGrimley 959252525  5  2 Bc  kf    -     -         9119   40    0 
+BVGrimley 959252559  5  1 Bc  kf    -     -         9079   20    0 
+BVGrimley 959252602  5  5 r   f     -     -         9059   40    0 
+BVGrimley 959252628  5  4 f   -     -     -         9019    0    0 
+BVGrimley 959252635  5  3 f   -     -     -         9019    0    0 
+BVGrimley 959252662  5  2 Bk  kr    b     b         9019  140    0 Kh 5c
+BVGrimley 959252689  5  1 Bc  kf    -     -         8879   20    0 
+BVGrimley 959252715  4  4 r   -     -     -         8859   40   60 
+BVGrimley 959252722  4  4 c   f     -     -         8879   20    0 
+BVGrimley 959252736  4  3 cc  c     c     k         8859  100  240 Ks 2s
+BVGrimley 959252756  4  2 Bk  kf    -     -         8999   20    0 
+BVGrimley 959252771  4  1 Bc  kf    -     -         8979   20    0 
+BVGrimley 959252800  4  4 f   -     -     -         8959    0    0 
+BVGrimley 959252823  4  3 f   -     -     -         8959    0    0 
+BVGrimley 959252835  4  2 Bc  c     c     b         8959  140    0 Tc 4c
+BVGrimley 959252860  4  1 Br  b     -     -         8819   60  120 
+BVGrimley 959252873  4  4 f   -     -     -         8879    0    0 
+BVGrimley 959252882  4  3 cc  c     rc    c         8879  220  520 2d 4d
+BVGrimley 959252904  4  2 Bf  -     -     -         9179   20    0 
+BVGrimley 959252939  4  1 Bc  kc    kc    k         9159  100    0 Ad 3h
+BVGrimley 959252969  4  4 f   -     -     -         9059    0    0 
+BVGrimley 959252986  4  3 r   b     -     -         9059   60  150 
+BVGrimley 959252996  4  2 Bk  b     -     -         9149   40   80 
+BVGrimley 959253006  5  1 Br  -     -     -         9189   40   60 
+BVGrimley 959253024  5  5 f   -     -     -         9209    0    0 
+BVGrimley 959253040  5  4 f   -     -     -         9209    0    0 
+BVGrimley 959253063  5  3 r   k     f     -         9209   40    0 
+BVGrimley 959253078  5  2 Bk  kc    k     r         9169  140  170 Jh Qh
+BVGrimley 959253109  5  1 Bf  -     -     -         9199   10    0 
+BVGrimley 959253143  5  5 r   b     -     -         9189   60  190 
+BVGrimley 959253165  5  4 cc  c     rrrc  b         9319  380  860 7s 8h
+BVGrimley 959253224  5  3 f   -     -     -         9799    0    0 
+BVGrimley 959253252  5  2 Bf  -     -     -         9799   20    0 
+BVGrimley 959253271  5  1 Bc  kc    kc    kc        9779  140    0 7d 7h
+BVGrimley 959253289  5  5 r   b     k     k         9639   60    0 9h Kh
+BVGrimley 959253317  5  4 r   b     -     -         9579   60  130 
+BVGrimley 959253337  5  3 cc  kc    kc    kc        9649  140    0 2h Kh
+BVGrimley 959253356  5  2 Bk  k     k     k         9509   20    0 Qh 9h
+BVGrimley 959253379  5  1 Bc  kf    -     -         9489   20    0 
+BVGrimley 959253415  6  6 r   c     f     -         9469   60    0 
+BVGrimley 959253447  6  5 c   f     -     -         9409   20    0 
+BVGrimley 959253474  6  4 cc  k     f     -         9389   40    0 
+BVGrimley 959253498  6  3 f   -     -     -         9349    0    0 
+BVGrimley 959253534  6  2 Bk  bf    -     -         9349   40    0 
+BVGrimley 959253556  6  1 Bf  -     -     -         9309   10    0 
+BVGrimley 959253570  6  6 r   k     f     -         9299   40    0 
+BVGrimley 959253588  6  5 f   -     -     -         9259    0    0 
+BVGrimley 959253619  5  3 r   kc    kf    -         9259   60    0 
+BVGrimley 959253669  5  2 Bk  kf    -     -         9199   20    0 
+BVGrimley 959253703  6  1 Bc  k     b     b         9179  100  220 
+BVGrimley 959253730  6  6 rc  rc    c     c         9299  220    0 8s 8d
+BVGrimley 959253751  5  5 f   -     -     -         9079    0    0 
+BVGrimley 959253781  5  4 f   -     -     -         9079    0    0 
+BVGrimley 959253796  5  3 fQ  -     -     -         9079    0    0 
+BVGrimley 959419082  7  6 f   -     -     -        12420    0    0 
+BVGrimley 959419146  8  5 r   -     -     -        12420   40   70 
+BVGrimley 959419160  8  4 f   -     -     -        12450    0    0 
+BVGrimley 959419236  9  3 r   b     b     b        12450  140  420 Qh Ah
+BVGrimley 959419317  9  2 Bk  kf    -     -        12730   20    0 
+BVGrimley 959419365  9  1 Bf  -     -     -        12710   10    0 
+BVGrimley 959419433  9  9 f   -     -     -        12700    0    0 
+BVGrimley 959419495  9  8 r   bc    c     k        12700  120  320 Kh Ad
+BVGrimley 959419560  9  7 c   b     b     b        12900  120  240 
+BVGrimley 959419627 10  7 f   -     -     -        13020    0    0 
+BVGrimley 959419675 10  6 f   -     -     -        13020    0    0 
+BVGrimley 959419748 10  5 f   -     -     -        13020    0    0 
+BVGrimley 959419796  9  4 f   -     -     -        13020    0    0 
+BVGrimley 959419819  9  3 r   k     f     -        13020   40    0 
+BVGrimley 959419847  9  2 Bc  k     k     kf       12980   40    0 
+BVGrimley 959419924  9  1 Bf  -     -     -        12940   10    0 
+BVGrimley 959419966  8  8 rr  k     f     -        12930   80    0 
+BVGrimley 959420015  8  7 f   -     -     -        12850    0    0 
+BVGrimley 959420068  8  6 cc  k     f     -        12850   40    0 
+BVGrimley 959420130  9  5 f   -     -     -        12810    0    0 
+BVGrimley 959420173  9  4 f   -     -     -        12810    0    0 
+BVGrimley 959420258  9  3 f   -     -     -        12810    0    0 
+BVGrimley 959420309  9  2 Bk  kf    -     -        12810   20    0 
+BVGrimley 959420380  9  1 Bf  -     -     -        12790   10    0 
+BVGrimley 959420447  9  9 r   c     c     c        12780  140  390 8d 9d
+BVGrimley 959420518  9  8 f   -     -     -        13030    0    0 
+BVGrimley 959420556  9  7 rc  cc    kf    -        13030  100    0 
+BVGrimley 959420638  9  6 f   -     -     -        12930    0    0 
+BVGrimley 959420686  9  5 c   k     f     -        12930   20    0 
+BVGrimley 959420728  9  4 f   -     -     -        12910    0    0 
+BVGrimley 959420779  9  3 rr  bc    k     kc       12910  160    0 Ah Qd
+BVGrimley 959420843  9  2 Bc  kc    kf    -        12750   80    0 
+BVGrimley 959420923  9  1 Bf  -     -     -        12670   10    0 
+BVGrimley 959420965  9  9 f   -     -     -        12660    0    0 
+BVGrimley 959421004  9  8 fQ  -     -     -        12660    0    0 
+BVGrimley 959421862  6  6 r   r     k     k        12660  100    0 6h 6s
+BVGrimley 959421899  6  5 f   -     -     -        12560    0    0 
+BVGrimley 959421935  6  4 c   c     kc    br       12560  220  610 Td Kd
+BVGrimley 959421992  6  3 c   f     -     -        12950   20    0 
+BVGrimley 959422040  6  2 Bk  k     k     k        12930   20   70 4c Qh
+BVGrimley 959422072  5  1 Br  -     -     -        12980   40   60 
+BVGrimley 959422086  5  5 f   -     -     -        13000    0    0 
+BVGrimley 959422120  4  3 f   -     -     -        13000    0    0 
+BVGrimley 959422144  4  2 Bk  b     k     k        13000   40    0 7s 4s
+BVGrimley 959422165  4  1 Bc  k     k     k        12960   20    0 Th 3c
+BVGrimley 959422198  4  4 rc  k     k     k        12940   60   70 Ad 2d
+BVGrimley 959422222  4  3 f   -     -     -        12950    0    0 
+BVGrimley 959422243  4  2 Bc  k     k     b        12950   80    0 8s 6s
+BVGrimley 959422261  4  1 Bf  -     -     -        12870   10    0 
+BVGrimley 959422271  4  4 c   k     k     b        12860   60  110 
+BVGrimley 959422301  4  3 c   bc    k     b        12910  100  190 
+BVGrimley 959422331  4  2 Bk  b     -     -        13000   40   70 
+BVGrimley 959422342  4  1 Bf  -     -     -        13030   10    0 
+BVGrimley 959422346  4  4 cc  k     f     -        13020   40    0 
+BVGrimley 959422368  5  4 f   -     -     -        12980    0    0 
+BVGrimley 959422383  5  3 f   -     -     -        12980    0    0 
+BVGrimley 959422414  5  2 Bk  kf    -     -        12980   20    0 
+BVGrimley 959422435  5  1 Bc  k     k     k        12960   20    0 6h 3h
+BVGrimley 959422448  5  5 r   b     f     -        12940   60    0 
+BVGrimley 959422470  5  4 c   c     f     -        12880   40    0 
+BVGrimley 959422489  5  3 f   -     -     -        12840    0    0 
+BVGrimley 959422522  5  2 Bk  kf    -     -        12840   20    0 
+BVGrimley 959422572  5  1 Bcc kc    kc    kf       12820  100    0 
+BVGrimley 959422604  5  5 f   -     -     -        12720    0    0 
+BVGrimley 959422619  5  4 f   -     -     -        12720    0    0 
+BVGrimley 959422652  5  3 f   -     -     -        12720    0    0 
+BVGrimley 959422679  5  2 B   -     -     -        12720   20   30 
+BVGrimley 959422685  5  1 Bf  -     -     -        12730   10    0 
+BVGrimley 959422697  5  5 rc  c     c     f        12720  120    0 
+BVGrimley 959422724  5  4 f   -     -     -        12600    0    0 
+BVGrimley 959422743  5  3 f   -     -     -        12600    0    0 
+BVGrimley 959422789  5  2 Bk  f     -     -        12600   20    0 
+BVGrimley 959422801  5  1 Bf  -     -     -        12580   10    0 
+BVGrimley 959422825  5  5 c   f     -     -        12570   20    0 
+BVGrimley 959422844  5  4 f   -     -     -        12550    0    0 
+BVGrimley 959422862  5  3 c   k     f     -        12550   20    0 
+BVGrimley 959422888  5  2 Bk  b     b     bc       12530  160  340 8s 9s
+BVGrimley 959422923  5  1 Bc  b     kc    kf       12710   80    0 
+BVGrimley 959422955  5  5 f   -     -     -        12630    0    0 
+BVGrimley 959422975  5  4 r   b     b     b        12630  140  350 As Ah
+BVGrimley 959423011  5  3 c   f     -     -        12840   20    0 
+BVGrimley 959423044  5  2 Bk  k     b     k        12820   60    0 Kd 8c
+BVGrimley 959423068  5  1 Bf  -     -     -        12760   10    0 
+BVGrimley 959423074  5  5 c   k     k     r        12750  120  300 5c 4c
+BVGrimley 959423123  5  4 f   -     -     -        12930    0    0 
+BVGrimley 959423158  5  3 f   -     -     -        12930    0    0 
+BVGrimley 959423184  5  2 B   -     -     -        12930   20   30 
+BVGrimley 959423190  5  1 Bf  -     -     -        12940   10    0 
+BVGrimley 959423222  4  4 f   -     -     -        12930    0    0 
+BVGrimley 959423226  4  3 f   -     -     -        12930    0    0 
+BVGrimley 959423236  4  2 Bk  cc    kc    c        12930  180  460 6s 6c
+BVGrimley 959423286  4  1 Bf  -     -     -        13210   10    0 
+BVGrimley 959423300  4  4 c   f     -     -        13200   20    0 
+BVGrimley 959423320  4  3 r   b     k     k        13180   60    0 As Ts
+BVGrimley 959423345  4  2 Bk  b     -     -        13120   40   70 
+BVGrimley 959423360  3  1 Bc  kf    -     -        13150   20    0 
+BVGrimley 959423384  3  3 r   b     f     -        13130   60    0 
+BVGrimley 959423414  3  2 Bk  k     k     k        13070   20   25 5d 4c
+BVGrimley 959423426  3  1 Bc  k     k     k        13075   20    0 7c 8h
+BVGrimley 959423447  3  3 c   c     k     f        13055   40    0 
+BVGrimley 959423488  3  2 Bc  kf    -     -        13015   40    0 
+BVGrimley 959423498  3  1 Bc  kf    -     -        12975   20    0 
+BVGrimley 959423515  4  4 f   -     -     -        12955    0    0 
+BVGrimley 959423537  4  3 f   -     -     -        12955    0    0 
+BVGrimley 959423548  4  2 Bf  -     -     -        12955   20    0 
+BVGrimley 959423563  4  1 Bc  kf    -     -        12935   20    0 
+BVGrimley 959423575  4  4 f   -     -     -        12915    0    0 
+BVGrimley 959423593  4  3 f   -     -     -        12915    0    0 
+BVGrimley 959423625  4  2 Bf  -     -     -        12915   20    0 
+BVGrimley 959423635  4  1 Br  -     -     -        12895   40   60 
+BVGrimley 959423642  4  4 f   -     -     -        12915    0    0 
+BVGrimley 959423669  5  4 f   -     -     -        12915    0    0 
+BVGrimley 959423680  5  3 f   -     -     -        12915    0    0 
+BVGrimley 959423718  5  2 Bc  k     k     k        12915   40    0 8c 9h
+BVGrimley 959423740  5  1 Bf  -     -     -        12875   10    0 
+BVGrimley 959423770  5  5 f   -     -     -        12865    0    0 
+BVGrimley 959423801  5  4 f   -     -     -        12865    0    0 
+BVGrimley 959423823  5  3 f   -     -     -        12865    0    0 
+BVGrimley 959423858  5  2 Bc  kc    kf    -        12865   60    0 
+BVGrimley 959423892  5  1 Bf  -     -     -        12805   10    0 
+BVGrimley 959423898  5  5 r   b     -     -        12795   60  110 
+BVGrimley 959423915  5  4 r   bc    c     c        12845  180    0 8s 8d
+BVGrimley 959423949  5  3 fQ  -     -     -        12665    0    0 
+BVGrimley 959503764  7  4 f   -     -     -        12665    0    0 
+BVGrimley 959503775  7  3 f   -     -     -        12665    0    0 
+BVGrimley 959503790  7  2 Bk  k     f     -        12665   20    0 
+BVGrimley 959503807  7  1 Bf  -     -     -        12645   10    0 
+BVGrimley 959503819  7  7 c   k     f     -        12635   20    0 
+BVGrimley 959503846  7  6 c   f     -     -        12615   40    0 
+BVGrimley 959503904  6  5 f   -     -     -        12575    0    0 
+BVGrimley 959503913  6  4 f   -     -     -        12575    0    0 
+BVGrimley 959503939  6  3 f   -     -     -        12575    0    0 
+BVGrimley 959503974  6  2 Bk  kf    -     -        12575   20    0 
+BVGrimley 959503999  7  1 Bf  -     -     -        12555   10    0 
+BVGrimley 959504017  7  7 f   -     -     -        12545    0    0 
+BVGrimley 959504036  7  6 f   -     -     -        12545    0    0 
+BVGrimley 959504071  7  5 f   -     -     -        12545    0    0 
+BVGrimley 959504108  7  4 f   -     -     -        12545    0    0 
+BVGrimley 959504126  7  3 f   -     -     -        12545    0    0 
+BVGrimley 959504145  7  2 Bk  kf    -     -        12545   20    0 
+BVGrimley 959504171  7  1 Bf  -     -     -        12525   10    0 
+BVGrimley 959504186  7  7 c   b     b     -        12515   80  170 
+BVGrimley 959504224  7  6 f   -     -     -        12605    0    0 
+BVGrimley 959504243  7  5 f   -     -     -        12605    0    0 
+BVGrimley 959504267  7  4 f   -     -     -        12605    0    0 
+BVGrimley 959504275  7  3 f   -     -     -        12605    0    0 
+BVGrimley 959504302  7  2 Bk  k     b     b        12605  100  340 Ac 6c
+BVGrimley 959504346  8  1 Br  b     b     b        12845  140  300 Kd Tc
+BVGrimley 959504370  8  8 r   -     -     -        13005   40   70 
+BVGrimley 959504382  8  7 c   b     b     k        13035   80    0 4c 6c
+BVGrimley 959504410  9  7 f   -     -     -        12955    0    0 
+BVGrimley 959504460  9  6 f   -     -     -        12955    0    0 
+BVGrimley 959504516  9  5 f   -     -     -        12955    0    0 
+BVGrimley 959504564  9  4 r   b     b     b        12955  140  500 5d Ad
+BVGrimley 959504609 10  3 f   -     -     -        13315    0    0 
+BVGrimley 959504683 10  2 Bc  k     k     k        13315   40    0 As 9s
+BVGrimley 959504737 10  1 Bc  k     k     kf       13275   20    0 
+BVGrimley 959504802 10 10 f   -     -     -        13255    0    0 
+BVGrimley 959504851 10  9 f   -     -     -        13255    0    0 
+BVGrimley 959504888 10  8 f   -     -     -        13255    0    0 
+BVGrimley 959504947 10  7 f   -     -     -        13255    0    0 
+BVGrimley 959504993 10  6 c   k     b     -        13255   60  140 
+BVGrimley 959505029 10  5 f   -     -     -        13335    0    0 
+BVGrimley 959505077 10  4 f   -     -     -        13335    0    0 
+BVGrimley 959505148 10  3 f   -     -     -        13335    0    0 
+BVGrimley 959505187 10  2 Bf  -     -     -        13335   20    0 
+BVGrimley 959505214 10  1 Bf  -     -     -        13315   10    0 
+BVGrimley 959505258 10 10 f   -     -     -        13305    0    0 
+BVGrimley 959505292 10  9 rr  b     b     b        13305  180  640 Ad Kd
+BVGrimley 959505339 10  8 f   -     -     -        13765    0    0 
+BVGrimley 959505386 10  8 c   f     -     -        13765   20    0 
+BVGrimley 959505437 10  6 f   -     -     -        13745    0    0 
+BVGrimley 959505484 10  5 f   -     -     -        13745    0    0 
+BVGrimley 959505531 10  4 f   -     -     -        13745    0    0 
+BVGrimley 959505595 10  3 f   -     -     -        13745    0    0 
+BVGrimley 959505656 10  2 Bc  b     bf    -        13745  100    0 
+BVGrimley 959505686 10  1 Bc  b     k     kc       13645   80  240 8s Ah
+BVGrimley 959505715  9  9 f   -     -     -        13805    0    0 
+BVGrimley 959505742  9  8 r   b     b     -        13805  100  210 
+BVGrimley 959505760  9  7 c   c     f     -        13915   40    0 
+BVGrimley 959505798  9  6 f   -     -     -        13875    0    0 
+BVGrimley 959505830  9  5 c   f     -     -        13875   20    0 
+BVGrimley 959505857  9  4 f   -     -     -        13855    0    0 
+BVGrimley 959505874  9  3 f   -     -     -        13855    0    0 
+BVGrimley 959505910  9  2 Bf  -     -     -        13855   20    0 
+BVGrimley 959505932  9  1 Bf  -     -     -        13835   10    0 
+BVGrimley 959505950  9  9 f   -     -     -        13825    0    0 
+BVGrimley 959505969  9  8 c   f     -     -        13825   20    0 
+BVGrimley 959505983 10  8 r   f     -     -        13805   40    0 
+BVGrimley 959506042 10  7 f   -     -     -        13765    0    0 
+BVGrimley 959506087 10  6 f   -     -     -        13765    0    0 
+BVGrimley 959506104 10  5 f   -     -     -        13765    0    0 
+BVGrimley 959506161 10  4 f   -     -     -        13765    0    0 
+BVGrimley 959506207 10  3 f   -     -     -        13765    0    0 
+BVGrimley 959506237 10  2 Bk  k     k     k        13765   20    0 Jh 9c
+BVGrimley 959506282 10  1 Br  -     -     -        13745   40   60 
+BVGrimley 959506304 10 10 f   -     -     -        13765    0    0 
+BVGrimley 959506333 10  9 f   -     -     -        13765    0    0 
+BVGrimley 959506376  9  7 r   b     b     bf       13765  140    0 
+BVGrimley 959506409 10  6 f   -     -     -        13625    0    0 
+BVGrimley 959506439 10  5 cc  f     -     -        13625   40    0 
+BVGrimley 959506493 10  4 f   -     -     -        13585    0    0 
+BVGrimley 959506533 10  3 c   kf    -     -        13585   20    0 
+BVGrimley 959506577 10  2 Bk  f     -     -        13565   20    0 
+BVGrimley 959506595 10  1 Bf  -     -     -        13545   10    0 
+BVGrimley 959506620 10 10 c   f     -     -        13535   20    0 
+BVGrimley 959506669 10  9 f   -     -     -        13515    0    0 
+BVGrimley 959506693 10  8 f   -     -     -        13515    0    0 
+BVGrimley 959506735 10  7 f   -     -     -        13515    0    0 
+BVGrimley 959506773 10  6 r   f     -     -        13515   40    0 
+BVGrimley 959506800  9  5 f   -     -     -        13475    0    0 
+BVGrimley 959506831  9  4 f   -     -     -        13475    0    0 
+BVGrimley 959506877 10  3 fQ  -     -     -        13475    0    0 
+BVGrimley 959559904 10  7 f   -     -     -        13475    0    0 
+BVGrimley 959559984 10  6 r   rc    c     c        13475  220    0 As Ah
+BVGrimley 959560099 10  5 f   -     -     -        13255    0    0 
+BVGrimley 959560152 10  4 r   b     b     b        13255  140  350 8s 8c
+BVGrimley 959560204 10  3 f   -     -     -        13465    0    0 
+BVGrimley 959560227 10  2 Bc  k     b     b        13465  120  250 
+BVGrimley 959560262 10  1 Bf  -     -     -        13595   10    0 
+BVGrimley 959560299 10 10 f   -     -     -        13585    0    0 
+BVGrimley 959560361 10  9 c   f     -     -        13585   40    0 
+BVGrimley 959560418 10  8 f   -     -     -        13545    0    0 
+BVGrimley 959560453 10  7 r   b     b     k        13545  100  290 9s 8d
+BVGrimley 959560486 10  6 f   -     -     -        13735    0    0 
+BVGrimley 959560545 10  5 f   -     -     -        13735    0    0 
+BVGrimley 959560588 10  4 c   b     -     -        13735   40  110 
+BVGrimley 959560642 10  3 f   -     -     -        13805    0    0 
+BVGrimley 959560662 10  2 Bk  k     kf    -        13805   20    0 
+BVGrimley 959560698 10  1 Bf  -     -     -        13785   10    0 
+BVGrimley 959560735 10 10 rc  k     b     bf       13775  160    0 
+BVGrimley 959560797 10  9 rc  c     f     -        13615  100    0 
+BVGrimley 959560840 10  8 rc  f     -     -        13515   60    0 
+BVGrimley 959560878 10  7 r   c     k     c        13455  100    0 Kc Ks
+BVGrimley 959560923 10  6 crc kf    -     -        13355   80    0 
+BVGrimley 959560999 10  5 f   -     -     -        13275    0    0 
+BVGrimley 959561036 10  4 f   -     -     -        13275    0    0 
+BVGrimley 959561087 10  3 c   f     -     -        13275   20    0 
+BVGrimley 959561132 10  2 Bk  kf    -     -        13255   20    0 
+BVGrimley 959561204 10  1 Bc  kf    -     -        13235   20    0 
+BVGrimley 959561263 10 10 f   -     -     -        13215    0    0 
+BVGrimley 959561290 10  9 c   c     r     b        13215  160    0 As 8d
+BVGrimley 959561343 10  8 f   -     -     -        13055    0    0 
+BVGrimley 959561402 10  7 cc  kf    -     -        13055   40    0 
+BVGrimley 959561454 10  6 f   -     -     -        13015    0    0 
+BVGrimley 959561508 10  5 c   r     b     b        13015  140  350 
+BVGrimley 959561558 10  4 f   -     -     -        13225    0    0 
+BVGrimley 959561587 10  3 f   -     -     -        13225    0    0 
+BVGrimley 959561645 10  2 Bk  kc    k     k        13225   40    0 Jd 7s
+BVGrimley 959561679 10  1 Bf  -     -     -        13185   10    0 
+BVGrimley 959561714 10 10 r   bc    c     f        13175  120    0 
+BVGrimley 959561769 10  9 f   -     -     -        13055    0    0 
+BVGrimley 959561811 10  8 c   k     bc    f        13055  100    0 
+BVGrimley 959561878 10  7 cc  c     c     k        12955  100    0 9s 6s
+BVGrimley 959561921 10  6 f   -     -     -        12855    0    0 
+BVGrimley 959561984 10  5 c   r     b     -        12855  100  280 
+BVGrimley 959562043 10  4 f   -     -     -        13035    0    0 
+BVGrimley 959562082 10  3 f   -     -     -        13035    0    0 
+BVGrimley 959562138 10  2 Bc  kc    k     b        13035  120  450 7d 4c
+BVGrimley 959562216 10  1 Bf  -     -     -        13365   10    0 
+BVGrimley 959562250 10 10 r   c     c     c        13355  140    0 Jh Kd
+BVGrimley 959562292 10  9 f   -     -     -        13215    0    0 
+BVGrimley 959562340 10  8 c   k     k     c        13215   60  160 7d 9s
+BVGrimley 959562383 10  7 c   f     -     -        13315   20    0 
+BVGrimley 959562421 10  6 r   r     k     f        13295   80    0 
+BVGrimley 959562473 10  5 f   -     -     -        13215    0    0 
+BVGrimley 959562529 10  4 f   -     -     -        13215    0    0 
+BVGrimley 959562590 10  3 f   -     -     -        13215    0    0 
+BVGrimley 959562632 10  2 Bcr kcc   k     f        13215  140    0 
+BVGrimley 959562709 10  1 Br  -     -     -        13075   40   60 
+BVGrimley 959562724 10 10 f   -     -     -        13095    0    0 
+BVGrimley 959562773 10  9 r   b     b     -        13095  100  230 
+BVGrimley 959562804 10  8 f   -     -     -        13225    0    0 
+BVGrimley 959562856 10  7 f   -     -     -        13225    0    0 
+BVGrimley 959562889 10  6 f   -     -     -        13225    0    0 
+BVGrimley 959562933 10  5 rc  k     k     k        13225   60  210 Ad Jc
+BVGrimley 959563037 10  4 f   -     -     -        13375    0    0 
+BVGrimley 959563077 10  3 f   -     -     -        13375    0    0 
+BVGrimley 959563142 10  2 Bk  kf    -     -        13375   20    0 
+BVGrimley 959563192 10  1 Bf  -     -     -        13355   10    0 
+BVGrimley 959563224 10 10 c   rc    c     c        13345  160  410 Jh Ts
+BVGrimley 959563272 10  9 f   -     -     -        13595    0    0 
+BVGrimley 959563300 10  8 rc  cc    kc    kf       13595  160    0 
+BVGrimley 959563351 10  7 cc  c     c     b        13435  140    0 Ts 4s
+BVGrimley 959563414 10  6 f   -     -     -        13295    0    0 
+BVGrimley 959563441 10  5 f   -     -     -        13295    0    0 
+BVGrimley 959563474 10  4 fQ  -     -     -        13295    0    0 

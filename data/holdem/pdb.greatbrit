@@ -1,0 +1,167 @@
+greatbrit 958701713  9  2 Bc  kf    -     -         1000   20    0 
+greatbrit 958701757  9  1 Bc  k     k     k          980   20    0 5s Kc
+greatbrit 958701800  9  9 c   br    b     b          960   80  270 8s 8h
+greatbrit 958701911 10  9 r   b     c     f         1150   50    0 
+greatbrit 958701953  8  6 c   f     -     -         1100   10    0 
+greatbrit 958701974  8  5 cc  kc    kf    -         1090   30    0 
+greatbrit 958702033  8  4 r   k     b     b         1060   60  135 
+greatbrit 958702076  8  3 f   -     -     -         1135    0    0 
+greatbrit 958702160  7  2 Br  b     b     bc        1135   90    0 Ah Kh
+greatbrit 958702215  7  1 Bf  -     -     -         1045    5    0 
+greatbrit 958702253  6  6 f   -     -     -         1040    0    0 
+greatbrit 958702378  8  7 f   -     -     -         1040    0    0 
+greatbrit 958702518  8  5 c   k     br    b         1040   90  185 
+greatbrit 958702589  9  4 f   -     -     -         1135    0    0 
+greatbrit 958702649  8  3 fQ  -     -     -         1135    0    0 
+greatbrit 959159606  8  8 c   f     -     -         2027   10    0 
+greatbrit 959159652  8  7 c   b     b     -         2017   50  105 
+greatbrit 959159690  7  6 f   -     -     -         2072    0    0 
+greatbrit 959159719  7  5 f   -     -     -         2072    0    0 
+greatbrit 959159749  8  4 cc  kf    -     -         2072   20    0 
+greatbrit 959159779  8  3 f   -     -     -         2052    0    0 
+greatbrit 959159846  9  2 Bk  kc    kc    kf        2052   40    0 
+greatbrit 959159904  9  1 Bc  kc    kc    kf        2012   50    0 
+greatbrit 959159973  9  9 r   k     f     -         1962   20    0 
+greatbrit 959160026  9  9 c   c     b     b         1942   70  210 Qs 9d
+greatbrit 959160085  8  7 f   -     -     -         2082    0    0 
+greatbrit 959160130  8  6 f   -     -     -         2082    0    0 
+greatbrit 959160173  8  5 f   -     -     -         2082    0    0 
+greatbrit 959160206  8  4 f   -     -     -         2082    0    0 
+greatbrit 959160260  8  3 cc  ccc   k     c         2082   80  220 Th Jh
+greatbrit 959160314  9  2 Bk  kc    c     c         2222   60    0 Kc 9h
+greatbrit 959160368  9  1 Bf  -     -     -         2162    5    0 
+greatbrit 959160441  8  8 c   f     -     -         2157   10    0 
+greatbrit 959160478  8  7 c   kf    -     -         2147   10    0 
+greatbrit 959160564  7  5 c   k     k     k         2137   20    0 8s Ks
+greatbrit 959160599  7  5 rc  kc    k     k         2117   40   78 Ks Ad
+greatbrit 959160639  7  4 c   b     k     b         2155   40    0 Kd Tc
+greatbrit 959160697  7  3 c   kc    kf    -         2115   20    0 
+greatbrit 959160739  7  2 Bk  f     -     -         2095   10    0 
+greatbrit 959160800  7  1 Bf  -     -     -         2085    5    0 
+greatbrit 959160825  7  7 f   -     -     -         2080    0    0 
+greatbrit 959160850  7  6 f   -     -     -         2080    0    0 
+greatbrit 959160886  6  4 c   k     k     k         2080   10    0 7s 9c
+greatbrit 959160925  6  3 c   k     k     b         2070   30   75 8c 7s
+greatbrit 959160959  6  2 Bc  k     k     k         2115   20    0 5c 2c
+greatbrit 959160999  7  1 Bf  -     -     -         2095    5    0 
+greatbrit 959161017  7  7 f   -     -     -         2090    0    0 
+greatbrit 959161029  7  6 f   -     -     -         2090    0    0 
+greatbrit 959161041  7  5 r   b     -     -         2090   30   65 
+greatbrit 959161049  7  4 f   -     -     -         2125    0    0 
+greatbrit 959161067  7  3 f   -     -     -         2125    0    0 
+greatbrit 959161087  7  2 Bf  -     -     -         2125   10    0 
+greatbrit 959161114  7  1 Bc  kf    -     -         2115   20    0 
+greatbrit 959161139  6  6 f   -     -     -         2095    0    0 
+greatbrit 959161156  7  5 f   -     -     -         2095    0    0 
+greatbrit 959161194  7  4 f   -     -     -         2095    0    0 
+greatbrit 959161211  7  3 cc  kc    kf    -         2095   40    0 
+greatbrit 959161260  7  2 Bf  -     -     -         2055   10    0 
+greatbrit 959161287  6  1 Bf  -     -     -         2045    5    0 
+greatbrit 959161293  6  6 cc  c     c     c         2040   70  145 9c Jc
+greatbrit 959161311  6  5 c   f     -     -         2115   10    0 
+greatbrit 959161348  6  4 f   -     -     -         2105    0    0 
+greatbrit 959161360  6  3 cc  f     -     -         2105   20    0 
+greatbrit 959161385  6  2 Bk  bf    -     -         2085   20    0 
+greatbrit 959161399  7  1 Bf  -     -     -         2065    5    0 
+greatbrit 959161427  7  7 c   b     br    b         2060  100    0 Jh Th
+greatbrit 959161463  7  6 f   -     -     -         1960    0    0 
+greatbrit 959161488  7  5 r   b     -     -         1960   30   55 
+greatbrit 959161513  7  4 f   -     -     -         1985    0    0 
+greatbrit 959161518  7  3 f   -     -     -         1985    0    0 
+greatbrit 959161537  7  2 Bk  bc    k     b         1985   50  100 
+greatbrit 959161570  7  1 Bc  k     b     b         2035   50    0 8h Ks
+greatbrit 959161593  7  7 f   -     -     -         1985    0    0 
+greatbrit 959161622  7  6 f   -     -     -         1985    0    0 
+greatbrit 959161644  7  5 f   -     -     -         1985    0    0 
+greatbrit 959161675  7  4 f   -     -     -         1985    0    0 
+greatbrit 959161709  8  3 f   -     -     -         1985    0    0 
+greatbrit 959161751  9  2 Bc  bc    c     b         1985   90  320 Js Ks
+greatbrit 959161799  8  1 Bf  -     -     -         2215    5    0 
+greatbrit 959161852  8  8 c   c     c     f         2210   60    0 
+greatbrit 959161882  8  7 f   -     -     -         2150    0    0 
+greatbrit 959161901  8  6 cc  kc    k     bc        2150   70    0 Ts 8s
+greatbrit 959161947  8  5 f   -     -     -         2080    0    0 
+greatbrit 959161964  8  4 f   -     -     -         2080    0    0 
+greatbrit 959161988  8  3 f   -     -     -         2080    0    0 
+greatbrit 959162030  7  1 Bc  kc    kf    -         2080   30    0 
+greatbrit 959162065  7  1 Bf  -     -     -         2050    5    0 
+greatbrit 959162107  8  8 f   -     -     -         2045    0    0 
+greatbrit 959162138  8  7 f   -     -     -         2045    0    0 
+greatbrit 959162157  8  6 c   c     f     -         2045   20    0 
+greatbrit 959162217  8  5 c   k     br    b         2025   90  270 Ks Td
+greatbrit 959162286  8  4 c   c     k     k         2205   20    0 Qs 3s
+greatbrit 959162323  8  3 cc  f     -     -         2185   20    0 
+greatbrit 959162397  8  2 Bc  kcc   kc    kf        2165   80    0 
+greatbrit 959162472  9  1 Bc  k     kf    -         2085   10    0 
+greatbrit 959162549  9  9 f   -     -     -         2075    0    0 
+greatbrit 959162567  9  8 c   f     -     -         2075   20    0 
+greatbrit 959162607 10  8 cc  kf    -     -         2055   20    0 
+greatbrit 959162643 10  7 r   c     f     -         2035   30    0 
+greatbrit 959162726 10  6 f   -     -     -         2005    0    0 
+greatbrit 959162792 10  5 f   -     -     -         2005    0    0 
+greatbrit 959162836  9  3 f   -     -     -         2005    0    0 
+greatbrit 959162878 10  3 f   -     -     -         2005    0    0 
+greatbrit 959162950  8  1 Bk  kc    kc    kr        2005   80  230 Tc 4s
+greatbrit 959163002  8  1 Bf  -     -     -         2155    5    0 
+greatbrit 959163046  8  8 f   -     -     -         2150    0    0 
+greatbrit 959163100  7  6 c   f     -     -         2150   20    0 
+greatbrit 959163112  7  5 f   -     -     -         2130    0    0 
+greatbrit 959163142  8  5 c   f     -     -         2130   10    0 
+greatbrit 959163167  8  4 cc  kf    -     -         2120   20    0 
+greatbrit 959163224  8  3 f   -     -     -         2100    0    0 
+greatbrit 959163262  9  2 Bk  kc    kr    b         2100   80  310 8c 8s
+greatbrit 959163341  7  1 Bc  k     b     kc        2330   50    0 Js Ts
+greatbrit 959163386  6  6 f   -     -     -         2280    0    0 
+greatbrit 959163421  6  6 f   -     -     -         2280    0    0 
+greatbrit 959163445  6  5 f   -     -     -         2280    0    0 
+greatbrit 959163480  6  4 c   bc    kc    kc        2280   70    0 Jc 8c
+greatbrit 959163519  6  3 cc  krr   b     k         2210  100  290 Ad 7d
+greatbrit 959163552  6  2 Bc  k     b     -         2400   40  105 
+greatbrit 959163584  6  1 Bf  -     -     -         2465    5    0 
+greatbrit 959163595  6  6 c   b     b     -         2460   40   80 
+greatbrit 959163618  6  5 f   -     -     -         2500    0    0 
+greatbrit 959163657  6  4 cc  kc    kc    bcc       2500  150    0 Qc Tc
+greatbrit 959163698  6  3 cc  kf    -     -         2350   20    0 
+greatbrit 959163736  6  2 Bf  -     -     -         2330   10    0 
+greatbrit 959163758  6  1 Bcc kc    kf    -         2320   30    0 
+greatbrit 959163802  6  6 f   -     -     -         2290    0    0 
+greatbrit 959163844  6  5 cc  kf    -     -         2290   20    0 
+greatbrit 959163875  6  4 f   -     -     -         2270    0    0 
+greatbrit 959163888  6  3 f   -     -     -         2270    0    0 
+greatbrit 959163924  6  2 Bc  kf    -     -         2270   20    0 
+greatbrit 959163946  6  1 Bcc kc    kc    kf        2250   50    0 
+greatbrit 959163997  6  6 c   f     -     -         2200   10    0 
+greatbrit 959164046  5  5 f   -     -     -         2190    0    0 
+greatbrit 959164075  4  3 fQ  -     -     -         2190    0    0 
+greatbrit 959671430 10  2 Bc  kc    kf    -         1000   30    0 
+greatbrit 959671456  9  1 Bc  k     kf    -          970   10    0 
+greatbrit 959671514  9  9 f   -     -     -          960    0    0 
+greatbrit 959671543  9  8 f   -     -     -          960    0    0 
+greatbrit 959671571  9  7 f   -     -     -          960    0    0 
+greatbrit 959671615 10  7 f   -     -     -          960    0    0 
+greatbrit 959671704  9  5 r   b     b     b          960   70  165 As Ts
+greatbrit 959671755  8  4 c   kc    k     k         1055   20    0 Tc Js
+greatbrit 959671798  8  3 c   f     -     -         1035   10    0 
+greatbrit 959671842  8  2 Bk  b     bf    -         1025   40    0 
+greatbrit 959671864  9  1 Bf  -     -     -          985    5    0 
+greatbrit 959671890  9  9 c   c     r     b          980   80  180 Jd 8c
+greatbrit 959671944  8  7 c   f     -     -         1080   10    0 
+greatbrit 959671987  8  7 c   k     f     -         1070   10    0 
+greatbrit 959672022  8  6 f   -     -     -         1060    0    0 
+greatbrit 959672068  9  5 f   -     -     -         1060    0    0 
+greatbrit 959672145 10  6 f   -     -     -         1060    0    0 
+greatbrit 959672211  9  4 f   -     -     -         1060    0    0 
+greatbrit 959672266  9  3 c   kf    -     -         1060   10    0 
+greatbrit 959672301  8  2 Brr kf    -     -         1050   40    0 
+greatbrit 959672397  8  1 Bf  -     -     -         1010    5    0 
+greatbrit 959672436  7  7 rr  bc    c     c         1005  100    0 6h 6s
+greatbrit 959672487  7  6 c   b     b     b          905   60  130 
+greatbrit 959672554  8  5 f   -     -     -          975    0    0 
+greatbrit 959672610  8  4 c   b     b     k          975   40    0 9h Jh
+greatbrit 959672661  8  3 f   -     -     -          935    0    0 
+greatbrit 959672707  8  2 Bk  b     b     kf         935   40    0 
+greatbrit 959672774  8  1 Bc  k     bc    kf         895   50    0 
+greatbrit 959672834  9  9 KQ  -     -     -          845    0    0 
+greatbrit 959826665  9  2 Bk  cf    -     -          805   20    0 
+greatbrit 959826711  8  1 Bc  kf    -     -          785   10    0 
+greatbrit 959826781  8  8 c   k     f     Q          775   10    0 

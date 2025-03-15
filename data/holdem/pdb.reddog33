@@ -1,0 +1,442 @@
+reddog33  957338394  9  8 cc  kf    -     -         1100   20    0 
+reddog33  957338420  9  6 c   kf    -     -         1080   10    0 
+reddog33  957338454  9  5 f   -     -     -         1070    0    0 
+reddog33  957338499  9  4 c   b     b     -         1070   40   90 
+reddog33  957338529  9  3 f   -     -     -         1120    0    0 
+reddog33  957338556  9  2 Bf  -     -     -         1120   10    0 
+reddog33  957338580  9  1 Bc  kf    -     -         1110   10    0 
+reddog33  957338637  9  9 f   -     -     -         1100    0    0 
+reddog33  957338676  9  8 f   -     -     -         1100    0    0 
+reddog33  957338711  9  7 cc  k     kf    -         1100   20    0 
+reddog33  957338796  9  6 cc  cc    k     br        1080  100  285 8h Qh
+reddog33  957338881  9  5 cc  kc    br    b         1265  120  355 Ad 4h
+reddog33  957338929 10  5 cc  kf    -     -         1500   20    0 
+reddog33  957338975 10  4 f   -     -     -         1480    0    0 
+reddog33  957339051 10  3 f   -     -     -         1480    0    0 
+reddog33  957339080 10  2 Bc  kc    kc    kc        1480   70  145 3s 7s
+reddog33  957339126 10  1 Bf  -     -     -         1555    5    0 
+reddog33  957339152 10 10 f   -     -     -         1550    0    0 
+reddog33  957339200 10  9 c   f     -     -         1550   10    0 
+reddog33  957339236 10  8 c   k     f     -         1540   20    0 
+reddog33  957339301 10  7 c   rc    c     k         1520   70    0 Jh Kh
+reddog33  957339467  9  5 f   -     -     -         1450    0    0 
+reddog33  957339566 10  5 c   kc    kc    kf        1450   40    0 
+reddog33  957339602  9  3 c   kc    kc    k         1410   40    0 7h 7d
+reddog33  957339650  9  3 f   -     -     -         1370    0    0 
+reddog33  957339693  9  2 Br  b     b     b         1370   70    0 Ah Ac
+reddog33  957339738  9  1 Bf  -     -     -         1300    5    0 
+reddog33  957339770  9  9 c   c     k     c         1295   50  230 Qs 9d
+reddog33  957339869 10  9 c   cc    f     -         1475   50    0 
+reddog33  957340029  9  8 c   f     -     -         1425   10    0 
+reddog33  957340166  9  7 c   f     -     -         1415   10    0 
+reddog33  957340223  9  6 f   -     -     -         1405    0    0 
+reddog33  957340258  9  4 f   -     -     -         1405    0    0 
+reddog33  957340293  9  4 c   kf    -     -         1405   10    0 
+reddog33  957340400  9  3 cc  kf    -     -         1395   20    0 
+reddog33  957340483  7  2 Bk  kc    kc    kf        1375   40    0 
+reddog33  957340518  8  1 Bf  -     -     -         1335    5    0 
+reddog33  957340611  8  8 cc  c     c     c         1330   70    0 8h Js
+reddog33  957340650  8  7 f   -     -     -         1260    0    0 
+reddog33  957340673  8  6 f   -     -     -         1260    0    0 
+reddog33  957340692  8  5 cc  c     cc    rr        1260  150  375 
+reddog33  957340795  9  4 c   kc    k     k         1485   20   80 Td Ks
+reddog33  957340853  9  3 cc  kf    -     -         1545   30    0 
+reddog33  957340951  9  2 Bf  -     -     -         1515   10    0 
+reddog33  957340994  8  1 Bc  kc    k     kf        1505   30    0 
+reddog33  957341027  8  8 c   k     k     k         1475   10    0 Th 9h
+reddog33  957341108  8  7 f   -     -     -         1465    0    0 
+reddog33  957341256  8  6 f   -     -     -         1465    0    0 
+reddog33  957341300  8  5 f   -     -     -         1465    0    0 
+reddog33  957341330  8  4 f   -     -     -         1465    0    0 
+reddog33  957341428  8  3 f   -     -     -         1465    0    0 
+reddog33  957341477  8  2 Bc  k     kc    k         1465   40  135 6d 4s
+reddog33  957341558  9  1 Bf  -     -     -         1560    5    0 
+reddog33  957341622  8  8 c   c     c     f         1555   40    0 
+reddog33  957341664  9  7 f   -     -     -         1515    0    0 
+reddog33  957341751 10  7 f   -     -     -         1515    0    0 
+reddog33  957341829 10  6 f   -     -     -         1515    0    0 
+reddog33  957341858 10  5 c   k     k     kf        1515   10    0 
+reddog33  957341927 10  4 f   -     -     -         1505    0    0 
+reddog33  957341962 10  3 f   -     -     -         1505    0    0 
+reddog33  957342035 10  2 Bk  kc    kc    k         1505   40    0 8s Ts
+reddog33  957342083 10  1 Br  bc    kc    bc        1465  100    0 Kc Kd
+reddog33  957342138 10 10 c   k     k     k         1365   10   60 9d 9c
+reddog33  957342200 10  9 c   b     -     -         1415   20   50 
+reddog33  957342234  9  7 r   krr   b     b         1445  100  330 2s 2h
+reddog33  957342311  9  6 c   f     -     -         1675   10    0 
+reddog33  957342424  7  4 cc  kf    -     -         1665   20    0 
+reddog33  957342482  7  3 f   -     -     -         1645    0    0 
+reddog33  957342524  8  2 Bc  kf    -     -         1645   20    0 
+reddog33  957342607  8  1 Bc  kc    kf    -         1625   30    0 
+reddog33  957342642 10 10 c   c     f     -         1595   30    0 
+reddog33  957342795 10  9 c   f     -     -         1565   10    0 
+reddog33  957342891 10  8 c   kr    kr    b         1555   90  350 Tc Jd
+reddog33  957343012 10  7 f   -     -     -         1815    0    0 
+reddog33  957343115 10  6 f   -     -     -         1815    0    0 
+reddog33  957343174 10  5 cc  f     -     -         1815   20    0 
+reddog33  957343249 10  4 cc  kf    -     -         1795   20    0 
+reddog33  957343315 10  3 cc  kf    -     -         1775   20    0 
+reddog33  957343383 10  2 Bf  -     -     -         1755   10    0 
+reddog33  957343398 10  1 Bf  -     -     -         1745    5    0 
+reddog33  957343461 10 10 c   c     f     -         1740   20    0 
+reddog33  957343490 10  9 f   -     -     -         1720    0    0 
+reddog33  957343537 10  8 c   c     k     k         1720   20    0 Tc 8s
+reddog33  957343574 10  7 c   kf    -     -         1700   20    0 
+reddog33  957343683 10  6 c   c     k     f         1680   30    0 
+reddog33  957343719 10  5 c   KQ    -     -         1650   10    0 
+reddog33  957370262  8  7 c   kf    -     -         1640   10    0 
+reddog33  957370311  8  5 r   b     b     b         1630   70  240 Qs Qh
+reddog33  957370372  7  3 c   k     k     kf        1800   10    0 
+reddog33  957370412  6  2 Bc  bc    kc    kc        1790   80  185 Js Tc
+reddog33  957370442  6  1 Bf  -     -     -         1895    5    0 
+reddog33  957370453  5  5 c   k     k     k         1890   10   15 Qc Jh
+reddog33  957370490  5  5 c   k     k     k         1895   10    0 5d 4d
+reddog33  957370516  6  5 f   -     -     -         1885    0    0 
+reddog33  957370550  6  4 f   -     -     -         1885    0    0 
+reddog33  957370580  6  3 f   -     -     -         1885    0    0 
+reddog33  957370608  6  2 Bk  b     kr    -         1885   60  125 
+reddog33  957370637  6  1 Bc  brc   b     br        1950  130  175 Ah Jh
+reddog33  957370695  6  6 c   f     -     -         1995   10    0 
+reddog33  957370748  7  5 f   -     -     -         1985    0    0 
+reddog33  957370775  7  4 c   k     f     -         1985   10    0 
+reddog33  957370798  7  3 f   -     -     -         1975    0    0 
+reddog33  957370828  7  2 Bk  c     k     kf        1975   20    0 
+reddog33  957370864  7  1 Bf  -     -     -         1955    5    0 
+reddog33  957370891  7  7 f   -     -     -         1950    0    0 
+reddog33  957370929  7  6 c   c     c     c         1950   70    0 3d Ad
+reddog33  957370949  8  6 cc  k     k     f         1880   20    0 
+reddog33  957370988  9  6 f   -     -     -         1860    0    0 
+reddog33  957371023  8  4 f   -     -     -         1860    0    0 
+reddog33  957371048  8  3 c   kf    -     -         1860   10    0 
+reddog33  957371077  8  2 Bk  k     kf    -         1850   10    0 
+reddog33  957371117  8  1 Bc  kf    -     -         1840   10    0 
+reddog33  957371162  8  8 c   f     -     -         1830   10    0 
+reddog33  957371192  7  6 c   k     k     k         1820   10    0 9h Js
+reddog33  957371228  6  6 c   c     c     f         1810   40    0 
+reddog33  957371256  6  5 f   -     -     -         1770    0    0 
+reddog33  957371280  6  4 f   -     -     -         1770    0    0 
+reddog33  957371304  6  3 f   -     -     -         1770    0    0 
+reddog33  957371332  6  2 B   -     -     -         1770   10   15 
+reddog33  957371337  6  1 Bc  k     kf    -         1775   10    0 
+reddog33  957371364  7  6 fQ  -     -     -         1765    0    0 
+reddog33  957504597  7  6 r   b     -     -         1310   30   65 
+reddog33  957504615  7  4 f   -     -     -         1345    0    0 
+reddog33  957504668  8  4 rc  bc    kc    kc        1345  100    0 Kc Ad
+reddog33  957504719  7  2 Bc  bc    b     b         1245   80  225 9d 5d
+reddog33  957504770  7  1 Bc  kcc   kc    kf        1390   80    0 
+reddog33  957504827  8  8 f   -     -     -         1310    0    0 
+reddog33  957504845  7  6 f   -     -     -         1310    0    0 
+reddog33  957504862  7  5 f   -     -     -         1310    0    0 
+reddog33  957504878  7  4 f   -     -     -         1310    0    0 
+reddog33  957504903  7  3 c   k     c     r         1310   70  190 7c Ad
+reddog33  957504947  7  2 Bc  kc    b     k         1430   60    0 9d 7d
+reddog33  957504995  7  1 Bcc bcc   kcc   kf        1370  160    0 
+reddog33  957505057  7  7 f   -     -     -         1210    0    0 
+reddog33  957505094  7  6 r   b     b     b         1210   70    0 Jc Qc
+reddog33  957505145  7  5 f   -     -     -         1140    0    0 
+reddog33  957505165  7  4 c   b     b     -         1140   40   75 
+reddog33  957505223  7  3 c   k     k     k         1175   10    0 Qd Ks
+reddog33  957505249  7  2 Bk  k     k     k         1165   10   25 4c 7c
+reddog33  957505276  6  1 Bc  b     b     b         1180   60  120 
+reddog33  957505298  6  6 f   -     -     -         1240    0    0 
+reddog33  957505315  6  5 f   -     -     -         1240    0    0 
+reddog33  957505328  6  4 cc  c     r     b         1240   90  230 8h 6h
+reddog33  957505355  9  3 f   -     -     -         1380    0    0 
+reddog33  957505432 10  2 Bc  br    b     b         1380  100  290 6s 8s
+reddog33  957505518 10  1 Bc  kf    -     -         1570   30    0 
+reddog33  957505609  9  9 f   -     -     -         1540    0    0 
+reddog33  957505656  9  8 r   r     b     b         1540   80  225 
+reddog33  957505714  8  6 c   k     k     k         1685   10    0 3s Ac
+reddog33  957505796  8  5 f   -     -     -         1675    0    0 
+reddog33  957505845  9  4 cc  b     b     r         1675   90    0 6d 7s
+reddog33  957505932  9  3 c   kf    -     -         1585   10    0 
+reddog33  957505979 10  2 Bk  f     -     -         1575   10    0 
+reddog33  957506008 10  1 Bf  -     -     -         1565    5    0 
+reddog33  957506096 10 10 f   -     -     -         1560    0    0 
+reddog33  957506138 10  9 f   -     -     -         1560    0    0 
+reddog33  957506215 10  8 c   c     f     -         1560   30    0 
+reddog33  957506263 10  7 f   -     -     -         1530    0    0 
+reddog33  957506330 10  6 f   -     -     -         1530    0    0 
+reddog33  957506389 10  5 cc  k     kf    -         1530   20    0 
+reddog33  957506472 10  4 r   k     kc    brc       1510  120  360 Jc Qh
+reddog33  957506569 10  3 r   k     kc    bf        1750   60    0 
+reddog33  957506663 10  2 Bk  kf    -     -         1690   10    0 
+reddog33  957506752 10  1 Bc  kc    kf    -         1680   20    0 
+reddog33  957506791 10 10 c   k     f     -         1660   10    0 
+reddog33  957506883 10  9 f   -     -     -         1650    0    0 
+reddog33  957506907 10  8 c   kc    kf    -         1650   20    0 
+reddog33  957506946 10  7 rc  cc    c     c         1630  110    0 Th Ah
+reddog33  957507026 10  6 c   c     k     k         1520   30    0 Ac 2s
+reddog33  957507113 10  5 rr  bc    kc    kc        1490  100    0 Ts Th
+reddog33  957507185 10  4 f   -     -     -         1390    0    0 
+reddog33  957507259 10  3 f   -     -     -         1390    0    0 
+reddog33  957507315 10  2 Bc  kc    kc    kf        1390   50    0 
+reddog33  957507379 10  1 Bf  -     -     -         1340    5    0 
+reddog33  957507488 10 10 c   f     -     -         1335   20    0 
+reddog33  957507515 10  9 c   r     r     k         1315   80  190 Qc Jd
+reddog33  957507547 10  8 f   -     -     -         1425    0    0 
+reddog33  957507611 10  7 c   f     -     -         1425   10    0 
+reddog33  957507695 10  6 r   b     b     b         1415   70  175 Jc 8c
+reddog33  957507751 10  5 rr  bc    c     r         1520  120  345 Ts Th
+reddog33  957507824 10  4 f   -     -     -         1745    0    0 
+reddog33  957507870 10  3 c   f     -     -         1745   10    0 
+reddog33  957507906 10  2 Bk  k     kf    -         1735   10    0 
+reddog33  957507941 10  1 Bc  kf    -     -         1725   20    0 
+reddog33  957507978 10 10 r   b     b     -         1705   50  115 
+reddog33  957508007 10  9 c   r     b     r         1770   90  240 7c 6h
+reddog33  957508065 10  8 r   k     f     -         1920   20    0 
+reddog33  957508123 10  7 rKQ -     -     -         1900   20    0 
+reddog33  957508401 10  3 r   b     -     -         1880   30   75 
+reddog33  957508430 10  2 Bc  kf    -     -         1925   20    0 
+reddog33  957508481 10  1 Bc  kr    b     bc        1905  100    0 4h 3c
+reddog33  957508609 10 10 f   -     -     -         1805    0    0 
+reddog33  957508662 10  9 c   b     b     b         1805   70  255 
+reddog33  957508768 10  8 c   b     b     b         1990   60    0 8s Ad
+reddog33  957508818 10  7 f   -     -     -         1930    0    0 
+reddog33  957508859 10  6 c   k     k     f         1930   10    0 
+reddog33  957508908 10  5 cr  br    b     b         1920  110  265 Jd 9h
+reddog33  957508966 10  4 cc  f     -     -         2075   30    0 
+reddog33  957509001 10  3 f   -     -     -         2045    0    0 
+reddog33  957509052 10  2 Bk  kf    -     -         2045   10    0 
+reddog33  957509109 10  1 Br  b     b     -         2035   60  140 
+reddog33  957509131 10 10 c   k     f     -         2115   10    0 
+reddog33  957509257 10  9 c   c     c     f         2105   50    0 
+reddog33  957509306 10  8 c   r     br    r         2055  130    0 7c 8c
+reddog33  957509353 10  7 c   k     k     k         1925   10    0 Td 9c
+reddog33  957509410 10  6 f   -     -     -         1915    0    0 
+reddog33  957509447 10  5 f   -     -     -         1915    0    0 
+reddog33  957509477 10  4 f   -     -     -         1915    0    0 
+reddog33  957509529 10  3 f   -     -     -         1915    0    0 
+reddog33  957509561 10  2 Bc  kr    b     b         1915   80  185 5d Tc
+reddog33  957509606 10  1 Bc  kf    -     -         2020   10    0 
+reddog33  957509719 10 10 f   -     -     -         2010    0    0 
+reddog33  957509782 10  9 c   c     c     f         2010   40    0 
+reddog33  957509850 10  8 c   c     kc    kf        1970   50    0 
+reddog33  957509907 10  7 r   rc    c     c         1920   90    0 Ks Ac
+reddog33  957509945 10  6 r   kc    kc    kc        1830   70    0 Qh Qs
+reddog33  957509996 10  5 f   -     -     -         1760    0    0 
+reddog33  957510035 10  4 cc  cc    f     -         1760   50    0 
+reddog33  957510074 10  3 rc  br    br    bc        1710  170    0 Kh Kd
+reddog33  957510147  9  2 Bc  b     -     -         1540   30   75 
+reddog33  957510163 10  1 Bc  kc    k     kf        1585   40    0 
+reddog33  957510218 10 10 f   -     -     -         1545    0    0 
+reddog33  957510257 10  9 c   r     brc   k         1545  130  560 5c Tc
+reddog33  957510307 10  8 f   -     -     -         1975    0    0 
+reddog33  957510331 10  7 f   -     -     -         1975    0    0 
+reddog33  957510384 10  6 cc  kf    -     -         1975   40    0 
+reddog33  957510444 10  5 c   kc    kf    -         1935   20    0 
+reddog33  957510499 10  4 f   -     -     -         1915    0    0 
+reddog33  957510536 10  3 cc  k     k     k         1915   20    0 Kd 6d
+reddog33  957510572 10  2 Bk  br    b     b         1895   90  280 Kc Jh
+reddog33  957510641 10  1 Bc  kc    kcc   kf        2085   80    0 
+reddog33  957510713 10 10 rc  c     c     f         2005   70    0 
+reddog33  957510749 10  9 c   f     -     -         1935   10    0 
+reddog33  957510777 10  8 ccc kc    kc    kf        1925   70    0 
+reddog33  957510821 10  7 c   br    r     b         1855  100    0 7h Ad
+reddog33  957510866 10  6 c   kc    kf    -         1755   20    0 
+reddog33  957510925 10  5 f   -     -     -         1735    0    0 
+reddog33  957510950 10  4 cc  kf    -     -         1735   20    0 
+reddog33  957510993 10  3 ccc kf    -     -         1715   40    0 
+reddog33  957511051 10  2 Brc kc    k     kf        1675   50    0 
+reddog33  957511130 10  1 Bcc kc    k     k         1625   50    0 Td Qc
+reddog33  957511185 10 10 c   f     -     -         1575   10    0 
+reddog33  957511224 10  9 f   -     -     -         1565    0    0 
+reddog33  957511285 10  8 c   b     -     -         1565   20   35 
+reddog33  957511322 10  7 rr  r     r     c         1580  120    0 Td Kc
+reddog33  957511406 10  6 cQ  -     -     -         1460   10    0 
+reddog33  957514377  7  7 c   r     c     c         1450   90    0 Qh Jd
+reddog33  957514439  7  6 c   k     k     k         1360   10    0 Th Jc
+reddog33  957514500  7  5 c   c     c     rc        1350  120    0 Th Td
+reddog33  957514569  7  4 f   Q     -     -         1230    0    0 
+reddog33  957514916  9  6 f   -     -     -         1230    0    0 
+reddog33  957514997  9  5 cr  kf    -     -         1230   40    0 
+reddog33  957515040  9  4 f   -     -     -         1190    0    0 
+reddog33  957515072  9  3 c   kc    k     b         1190   40   75 
+reddog33  957515109 10  2 Bf  -     -     -         1225   10    0 
+reddog33  957515140 10  1 Bc  kf    -     -         1215   10    0 
+reddog33  957515167 10 10 c   k     k     k         1205   10    0 7h 7s
+reddog33  957515193 10  9 f   -     -     -         1195    0    0 
+reddog33  957515228 10  8 cr  rc    rr    b         1195  180    0 2c Kc
+reddog33  957515381 10  7 c   b     -     -         1015   20   65 
+reddog33  957515415  9  5 c   kc    kc    kc        1060   80    0 8c 9s
+reddog33  957515510  7  3 c   k     kf    -          980   10    0 
+reddog33  957515552  7  2 f   -     -     -          970    0    0 
+reddog33  957515584  7  2 Br  b     b     -          970   50  115 
+reddog33  957515621  8  1 Bc  kc    k     k         1035   20    0 2h 5c
+reddog33  957515654  8  8 c   k     f     -         1015   10    0 
+reddog33  957515707  8  7 r   rc    c     k         1005   70    0 Kh As
+reddog33  957515757  8  6 f   -     -     -          935    0    0 
+reddog33  957515831  8  5 cc  c     c     k          935   50  185 5h As
+reddog33  957515942  9  4 f   -     -     -         1070    0    0 
+reddog33  957516056  9  3 cc  kc    bc    kf        1070   70    0 
+reddog33  957516160  9  2 Bk  k     f     -         1000   10    0 
+reddog33  957516271  9  1 Bf  -     -     -          990    5    0 
+reddog33  957516392  9  9 c   c     KQ    -          985   20    0 
+reddog33  957516664  8  7 f   -     -     -          965    0    0 
+reddog33  957516715  8  7 cc  k     f     -          965   20    0 
+reddog33  957516801  8  6 f   -     -     -          945    0    0 
+reddog33  957516829  8  5 c   k     kf    -          945   10    0 
+reddog33  957516872  8  4 f   -     -     -          935    0    0 
+reddog33  957516887  8  3 c   k     b     b          935   50    0 2c Ah
+reddog33  957516968  8  2 Bk  r     b     b          885   70    0 Jc 6c
+reddog33  957517019  8  1 Bf  -     -     -          815    5    0 
+reddog33  957517082  8  8 f   -     -     -          810    0    0 
+reddog33  957517122  8  7 r   b     b     b          810   70  130 
+reddog33  957517203  7  5 f   -     -     -          870    0    0 
+reddog33  957517232  7  5 f   -     -     -          870    0    0 
+reddog33  957517266  7  4 f   -     -     -          870    0    0 
+reddog33  957517314  7  3 c   c     f     -          870   20    0 
+reddog33  957517344  7  2 Bk  kf    -     -          850   10    0 
+reddog33  957517384  7  1 Bf  -     -     -          840    5    0 
+reddog33  957517410  7  7 c   k     k     k          835   10   25 9s Qd
+reddog33  957517437  8  6 f   -     -     -          850    0    0 
+reddog33  957517471  8  5 c   r     b     b          850   70  155 7d Ac
+reddog33  957517512  7  4 r   kc    kc    k          935   50    0 7c Ad
+reddog33  957517560  7  3 f   -     -     -          885    0    0 
+reddog33  957517588  7  2 Bk  kf    -     -          885   10    0 
+reddog33  957517629  7  1 Bc  kf    -     -          875   10    0 
+reddog33  957517684  7  7 f   -     -     -          865    0    0 
+reddog33  957517712  7  6 f   -     -     -          865    0    0 
+reddog33  957517736  8  5 c   k     b     b          865   50  105 Th 8c
+reddog33  957517767  9  4 r   b     brc   kc         920  130    0 Th Tc
+reddog33  957517826 10  3 f   -     -     -          790    0    0 
+reddog33  957517875 10  2 Bk  k     k     b          790   30   55 
+reddog33  957517896 10  1 Bf  -     -     -          815    5    0 
+reddog33  957517944 10 10 c   c     c     f          810   40    0 
+reddog33  957518057  9  9 c   k     k     r          770   50    0 8c 7s
+reddog33  957518117  9  8 f   -     -     -          720    0    0 
+reddog33  957518178 10  7 rc  c     c     rr         720  170  220 As Kh
+reddog33  957518252 10  6 f   -     -     -          770    0    0 
+reddog33  957518313 10  5 f   -     -     -          770    0    0 
+reddog33  957518420 10  4 c   c     k     kf         770   20    0 
+reddog33  957518473 10  3 c   kc    kf    -          750   20    0 
+reddog33  957518519 10  2 Bk  b     b     b          730   60  210 
+reddog33  957518577  9  1 Bc  k     kf    -          880   10    0 
+reddog33  957518606  9  9 c   k     k     f          870   10    0 
+reddog33  957518658  9  8 c   f     -     -          860   10    0 
+reddog33  957518684  9  7 c   rr    rr    b          850  150    0 8d Kc
+reddog33  957518752  9  6 r   k     k     kf         700   20    0 
+reddog33  957518786  9  5 f   -     -     -          680    0    0 
+reddog33  957518830  9  4 r   c     k     kc         680   50    0 Jc Js
+reddog33  957518909  9  3 f   -     -     -          630    0    0 
+reddog33  957518952  9  2 Bk  kf    -     -          630   10    0 
+reddog33  957518984  9  1 Br  bc    kc    kf         620   70    0 
+reddog33  957519066  9  9 f   -     -     -          550    0    0 
+reddog33  957519109  9  8 f   -     -     -          550    0    0 
+reddog33  957519207  9  7 c   f     -     -          550   10    0 
+reddog33  957519260  9  6 r   k     kf    -          540   20    0 
+reddog33  957519318  9  5 c   c     k     kf         520   20    0 
+reddog33  957519374  9  4 f   -     -     -          500    0    0 
+reddog33  957519431  9  3 cr  b     bf    -          500   60    0 
+reddog33  957519507  9  2 Bk  b     b     b          440   60    0 5h 9d
+reddog33  957519557  9  1 Bf  -     -     -          380    5    0 
+reddog33  957519616  9  9 r   b     b     b          375   70  200 4c 5d
+reddog33  957519681  9  8 r   b     b     b          505   70  125 
+reddog33  957519721  9  7 r   b     r     rf         560  120    0 
+reddog33  957519766  9  6 f   -     -     -          440    0    0 
+reddog33  957519796 10  6 r   b     r     b          440   90    0 Kc 8s
+reddog33  957519884 10  5 c   k     b     -          350   30   60 
+reddog33  957519931 10  4 c   c     k     f          380   20    0 
+reddog33  957519982 10  3 cc  kf    -     -          360   20    0 
+reddog33  957520036  9  2 Bk  c     kc    brc        340  120    0 4s Jd
+reddog33  957520108  9  1 Bf  Q     -     -          220    5    0 
+reddog33  957592662 10  4 c   k     k     f          215   20    0 
+reddog33  957592701 10  3 f   -     -     -          195    0    0 
+reddog33  957592730 10  2 Bc  kf    -     -          195   20    0 
+reddog33  957592787  9  1 Bf  -     -     -          175    5    0 
+reddog33  957592820 10 10 c   f     -     -          170   20    0 
+reddog33  957592893 10  9 cc  f     -     -          150   40    0 
+reddog33  957592965 10  8 c   c     f     -          110   30    0 
+reddog33  957593030 10  7 f   -     -     -           80    0    0 
+reddog33  957593138  9  6 cc  ccA   -     -           80   80    0 9d Js
+reddog33  957593274  9  4 ccc kf    -     -         1000   40    0 
+reddog33  957593419  9  3 f   -     -     -          960    0    0 
+reddog33  957593494  9  2 Bc  ccc   kf    -          960   60    0 
+reddog33  957593640  9  1 Bf  -     -     -          900    5    0 
+reddog33  957593706  8  8 c   c     f     -          895   30    0 
+reddog33  957593751  9  8 f   -     -     -          865    0    0 
+reddog33  957593806 10  8 c   c     cc    f          865  110    0 
+reddog33  957593903 10  7 cc  rc    rc    c          755  170  973 9h Jd
+reddog33  957594017  9  5 cc  f     -     -         1558   40    0 
+reddog33  957594108  9  4 f   -     -     -         1518    0    0 
+reddog33  957594213  8  4 ccc br    bc    bc        1518  160  730 Kh Qd
+reddog33  957594320  8  3 cc  kc    kc    brc       2088  113  311 Kc 9c
+reddog33  957594378  6  1 Bf  -     -     -         2286   10    0 
+reddog33  957594425  6  1 Br  b     b     brc       2276  130    0 Ad Jd
+reddog33  957594492  6  6 cc  k     c     f         2146   40    0 
+reddog33  957594534  6  5 f   -     -     -         2106    0    0 
+reddog33  957594567  6  4 f   -     -     -         2106    0    0 
+reddog33  957594600  6  3 f   -     -     -         2106    0    0 
+reddog33  957594632  6  2 Bf  -     -     -         2106   10    0 
+reddog33  957594660  6  1 Bf  -     -     -         2096    5    0 
+reddog33  957594710  6  6 cc  cc    k     f         2091   60    0 
+reddog33  957594776  6  5 r   k     k     b         2031   40  100 
+reddog33  957594815  6  4 f   -     -     -         2091    0    0 
+reddog33  957594853  6  3 c   brc   krr   brc       2091  210  290 Jd 8h
+reddog33  957594926  6  2 Bc  kf    -     -         2171   20    0 
+reddog33  957594955  6  1 Bc  kf    -     -         2151   20    0 
+reddog33  957594991  6  6 f   -     -     -         2131    0    0 
+reddog33  957595031  6  5 f   -     -     -         2131    0    0 
+reddog33  957595072  6  4 c   k     k     k         2131   10    0 7c Qc
+reddog33  957595108  6  3 f   -     -     -         2121    0    0 
+reddog33  957595142  6  2 Bk  kc    kc    r         2121  100  300 5c Jh
+reddog33  957595182  6  1 Bc  k     kc    b         2321   50  100 Ad 8h
+reddog33  957595226  6  6 c   k     c     c         2371   50   85 3d Kd
+reddog33  957595267  6  5 c   c     k     k         2406   20    0 8d Th
+reddog33  957595300  6  4 c   f     -     -         2386   10    0 
+reddog33  957595350  6  3 f   -     -     -         2376    0    0 
+reddog33  957595399  6  2 Bk  b     b     b         2376   60  170 Jc Qc
+reddog33  957595446  5  1 Bc  kf    -     -         2486   20    0 
+reddog33  957595501  5  5 rr  b     r     b         2466  110  255 
+reddog33  957595562  6  5 cc  k     k     k         2611   20    0 Kh 7c
+reddog33  957595613  6  4 f   -     -     -         2591    0    0 
+reddog33  957595648  6  3 r   b     b     b         2591   70  155 Qc Qs
+reddog33  957595677  6  2 Bc  k     kc    b         2676   60  145 3h Kh
+reddog33  957595718  6  1 Bcc kf    -     -         2761   20    0 
+reddog33  957595779  7  6 f   -     -     -         2741    0    0 
+reddog33  957595809  9  7 c   rr    r     b         2741  120  395 
+reddog33  957595858  9  6 f   -     -     -         3016    0    0 
+reddog33  957595955  8  4 cc  f     -     -         3016   20    0 
+reddog33  957596030  8  4 f   -     -     -         2996    0    0 
+reddog33  957596090 10  3 cc  k     kc    b         2996   60  215 4h 5c
+reddog33  957596155  9  2 Bc  k     kc    b         3151   60  165 8h Td
+reddog33  957596199 10  1 Bf  -     -     -         3256    5    0 
+reddog33  957596258  9  9 f   -     -     -         3251    0    0 
+reddog33  957596348  9  8 rr  b     b     -         3251   70  213 Ad As
+reddog33  957596392  8  7 c   k     kf    -         3394   20    0 
+reddog33  957596460  9  6 c   kf    -     -         3374   10    0 
+reddog33  957596508  9  5 cr  br    b     b         3364  100  240 
+reddog33  957596577  9  4 rc  br    br    rc        3504  240    0 As Js
+reddog33  957596669  7  3 c   kc    k     kc        3264   40  130 2d Ah
+reddog33  957596734  8  2 Bc  kf    -     -         3354   20    0 
+reddog33  957596817  8  1 Bc  kf    -     -         3334   10    0 
+reddog33  957596890  8  8 c   k     c     b         3324   50  130 Qd 2d
+reddog33  957596936  8  8 f   -     -     -         3404    0    0 
+reddog33  957596986  9  7 f   -     -     -         3404    0    0 
+reddog33  957597031  9  6 cc  c     k     k         3404   30    0 9s 2s
+reddog33  957597058  9  5 cc  f     -     -         3374   20    0 
+reddog33  957597116  9  4 f   -     -     -         3354    0    0 
+reddog33  957597154  9  3 cc  kf    -     -         3354   30    0 
+reddog33  957597233 10  2 Bk  kr    b     b         3324   70  145 
+reddog33  957597295  9  1 Bc  kf    -     -         3399   20    0 
+reddog33  957597356  9  9 c   k     c     brc       3379  110  275 Ah 7h
+reddog33  957597398  9  8 c   f     -     -         3544   10    0 
+reddog33  957597447  9  7 f   -     -     -         3534    0    0 
+reddog33  957597500  9  6 c   f     -     -         3534   10    0 
+reddog33  957597554  8  5 f   -     -     -         3524    0    0 
+reddog33  957597583  8  4 f   -     -     -         3524    0    0 
+reddog33  957597654  8  3 r   c     c     c         3524   70    0 Ks As
+reddog33  957597679  8  2 Bk  c     f     -         3454   20    0 
+reddog33  957597726  8  1 Bf  -     -     -         3434    5    0 
+reddog33  957597768  8  8 c   k     r     c         3429   90  117 7c 8s
+reddog33  957597825  9  7 c   k     f     -         3456   10    0 
+reddog33  957597885  9  6 c   kr    b     kc        3446   70  255 Ks Kc
+reddog33  957597944  9  6 f   -     -     -         3631    0    0 
+reddog33  957598007  9  5 cc  f     -     -         3631   20    0 
+reddog33  957598077  9  4 c   b     b     b         3611   60  210 Kc Kd
+reddog33  957598142  8  3 fQ  -     -     -         3761    0    0 
+reddog33  958975691 10  4 c   kf    -     -         1000   10    0 
+reddog33  958975720 10  3 cc  f     -     -          990   20    0 
+reddog33  958975762 10  2 Br  b     b     bc         970  100    0 Js Ks
+reddog33  958975829 10  1 Bcc kc    kr    k          870   80    0 5h Ac
+reddog33  958975927 10 10 fQ  -     -     -          790    0    0 

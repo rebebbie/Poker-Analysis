@@ -1,0 +1,339 @@
+topquark  957289412  4  4 r   b     k     b         2640  100    0 Kc Ah
+topquark  957289435  2  1 B   -     -     -         2540   20   20 
+topquark  957370059  5  4 c   c     k     b         2280   80  160 
+topquark  957370094  5  3 f   -     -     -         2360    0    0 
+topquark  957370104  6  2 Bk  kf    -     -         2360   20    0 
+topquark  957370153  6  1 Bc  b     b     br        2340  200  420 Kh 4c
+topquark  957370179  6  6 c   f     -     -         2560   20    0 
+topquark  957370215  6  5 f   -     -     -         2540    0    0 
+topquark  957370230  6  4 c   b     kf    Q         2540   40    0 
+topquark  957576067  7  2 Bk  b     k     k         2320   40  100 8d Kh
+topquark  957576122  6  1 Br  bc    k     kc        2380  120  260 Kd Ad
+topquark  957576164  6  6 f   -     -     -         2520    0    0 
+topquark  957576201  6  5 f   -     -     -         2520    0    0 
+topquark  957576221  6  4 c   b     f     -         2520   40    0 
+topquark  957576261  6  3 f   -     -     -         2480    0    0 
+topquark  957576292  6  2 Bc  k     kc    kc        2480  120  250 Ad 3s
+topquark  957576324  6  1 Bc  kf    -     -         2610   20    0 
+topquark  957576357  6  6 r   rc    b     c         2590  180  360 Ks Qs
+topquark  957576443  5  4 c   f     -     -         2770   20    0 
+topquark  957576497  5  3 cc  kc    kf    -         2750   60    0 
+topquark  957576523  5  2 Bf  -     -     -         2690   20    0 
+topquark  957576533  5  1 Bc  bc    kc    bc        2670  200    0 Kc Ts
+topquark  957576561  6  6 c   k     k     f         2470   20    0 
+topquark  957576607  6  5 f   -     -     -         2450    0    0 
+topquark  957576823  6  5 c   k     b     b         2450  100    0 6h 2h
+topquark  957576874  6  4 c   c     f     -         2350   40    0 
+topquark  957576913  6  3 cc  kf    -     -         2310   40    0 
+topquark  957576940  6  2 Bk  b     -     -         2270   40   60 
+topquark  957576961  7  1 Bc  kf    -     -         2290   20    0 
+topquark  957576991  7  7 cc  f     -     -         2270   60    0 
+topquark  957577024  7  6 c   r     c     c         2210  140  320 Ks Jc
+topquark  957577069  7  5 c   f     -     -         2390   40    0 
+topquark  957577102  8  4 r   b     k     kf        2350   60    0 
+topquark  957577142  9  3 f   -     -     -         2290    0    0 
+topquark  957577195  9  2 Bk  k     k     kf        2290   20    0 
+topquark  957577239 10  1 Bc  k     k     b         2270   60    0 Kh 9s
+topquark  957577278 10 10 f   -     -     -         2210    0    0 
+topquark  957577316 10  9 c   c     c     k         2210  100    0 Ts 9d
+topquark  957577358 10  8 c   c     c     c         2110  140    0 As 3s
+topquark  957577400 10  7 c   f     -     -         1970   20    0 
+topquark  957577446 10  6 c   f     -     -         1950   20    0 
+topquark  957577501 10  5 f   -     -     -         1930    0    0 
+topquark  957577566 10  4 f   -     -     -         1930    0    0 
+topquark  957577637 10  3 c   kf    -     -         1930   20    0 
+topquark  957577693 10  2 Bk  kc    k     kf        1910   40    0 
+topquark  957577770 10  1 Bc  kf    -     -         1870   40    0 
+topquark  957577820 10 10 c   k     k     f         1830   20    0 
+topquark  957577869  9  8 c   f     -     -         1810   20    0 
+topquark  957577940  9  7 c   bc    kc    k         1790  100    0 Tc Ks
+topquark  957577994 10  7 cc  f     -     -         1690   40    0 
+topquark  957578036 10  7 c   f     -     -         1650   20    0 
+topquark  957578080 10  5 c   kc    f     -         1630   40    0 
+topquark  957578160 10  4 c   kc    k     kf        1590   60    0 
+topquark  957578201 10  3 cc  f     Q     -         1530   40    0 
+topquark  957672154 10  6 f   -     -     -         2548    0    0 
+topquark  957672186 10  5 f   -     -     -         2548    0    0 
+topquark  957672275 10  4 r   c     k     c         2548  100  320 9s 9c
+topquark  957672320 10  3 f   -     -     -         2768    0    0 
+topquark  957672345 10  2 Br  bc    kc    k         2768  120  250 Tc Qc
+topquark  957672377 10  1 Bc  kc    kc    kf        2898   80    0 
+topquark  957672419 10 10 c   c     f     -         2818   40    0 
+topquark  957672442 10  9 r   c     c     r         2778  180  360 
+topquark  957672479 10  8 f   -     -     -         2958    0    0 
+topquark  957672545 10  7 f   -     -     -         2958    0    0 
+topquark  957672593 10  6 c   rc    c     c         2958  160    0 6c 6s
+topquark  957672638 10  5 f   -     -     -         2798    0    0 
+topquark  957672681 10  4 c   kc    f     -         2798   40    0 
+topquark  957672733 10  3 f   -     -     -         2758    0    0 
+topquark  957672773 10  2 Bk  kf    -     -         2758   20    0 
+topquark  957672799 10  1 Bc  kf    -     -         2738   20    0 
+topquark  957672856 10 10 r   b     b     bc        2718  180    0 Qs Ad
+topquark  957672916 10  9 f   -     -     -         2538    0    0 
+topquark  957672959 10  8 f   -     -     -         2538    0    0 
+topquark  957673004 10  7 f   -     -     -         2538    0    0 
+topquark  957673053 10  6 r   b     k     k         2538   60  150 8c 8d
+topquark  957673101 10  5 r   b     k     kf        2628   60    0 
+topquark  957673151 10  4 f   -     -     -         2568    0    0 
+topquark  957673201 10  3 cc  kcc   bc    kc        2568  220    0 Qh 9d
+topquark  957673250 10  2 Bk  kf    -     -         2348   20    0 
+topquark  957673314 10  1 Bf  -     -     -         2328   10    0 
+topquark  957673400 10 10 f   -     -     -         2318    0    0 
+topquark  957673474 10  9 f   -     -     -         2318    0    0 
+topquark  957673505 10  8 f   -     -     -         2318    0    0 
+topquark  957673587 10  8 c   f     -     -         2318   40    0 
+topquark  957673619 10  6 c   k     f     -         2278   20    0 
+topquark  957673651 10  5 f   -     -     -         2258    0    0 
+topquark  957673688 10  4 c   b     bc    c         2258  160    0 Kh 5h
+topquark  957673740 10  3 c   c     b     b         2098  120  420 8s 8d
+topquark  957673791 10  2 Bk  kf    -     -         2398   20    0 
+topquark  957673832 10  1 Bf  -     -     -         2378   10    0 
+topquark  957673861  9  9 c   c     f     -         2368   40    0 
+topquark  957673906  9  8 r   r     b     c         2328  160    0 Jc Js
+topquark  957673951  9  7 f   -     -     -         2168    0    0 
+topquark  957673980  9  6 c   bc    k     k         2168   60    0 Ac 5d
+topquark  957674026  8  4 c   f     -     -         2108   20    0 
+topquark  957674047  8  3 cc  kc    kf    -         2088   60    0 
+topquark  957674091  9  3 c   k     f     -         2028   20    0 
+topquark  957674118 10  2 Bk  b     -     -         2008   40   60 
+topquark  957674155 10  1 Br  b     kf    -         2028   60    0 
+topquark  957674223 10 10 cc  c     c     k         1968  140    0 Qs Ad
+topquark  957674269 10  9 r   b     k     b         1828  100  210 Ah 9d
+topquark  957674308 10  8 f   -     -     -         1938    0    0 
+topquark  957674322 10  7 f   -     -     -         1938    0    0 
+topquark  957674374 10  6 f   -     -     -         1938    0    0 
+topquark  957674427 10  5 f   -     -     -         1938    0    0 
+topquark  957674481 10  4 c   f     -     -         1938   20    0 
+topquark  957674572 10  3 cc  kc    kf    -         1918   60    0 
+topquark  957674612 10  2 Bc  kf    -     -         1858   40    0 
+topquark  957674699  9  1 Bf  -     -     -         1818   10    0 
+topquark  957674740 10 10 f   -     -     -         1808    0    0 
+topquark  957674773 10  9 c   c     f     -         1808   60    0 
+topquark  957674839  9  7 f   -     -     -         1748    0    0 
+topquark  957674852  9  6 f   -     -     -         1748    0    0 
+topquark  957674891  9  5 c   kf    -     -         1748   40    0 
+topquark  957674982  9  4 c   k     b     k         1708   60  150 Kh 8c
+topquark  957675041  9  3 c   f     -     -         1798   20    0 
+topquark  957675065  8  2 Bk  b     -     -         1778   40   80 
+topquark  957675112  9  1 Bc  b     kf    -         1818   40    0 
+topquark  957675173  9  9 c   bf    -     -         1778   40    0 
+topquark  957675241  9  8 c   k     f     -         1738   20    0 
+topquark  957675273  9  7 r   b     -     -         1718   60  170 
+topquark  957675300  9  6 f   -     -     -         1828    0    0 
+topquark  957675321  8  4 c   c     c     f         1828  100    0 
+topquark  957675348  8  3 c   k     f     -         1728   20    0 
+topquark  957675391  8  2 Bf  Q     -     -         1708   20    0 
+topquark  957677031 10  5 f   -     -     -         2178    0    0 
+topquark  957677088 10  4 r   r     c     b         2228  220  660 Js Jc
+topquark  957677181 10  3 c   f     -     -         2658   20    0 
+topquark  957677237 10  2 Bk  kf    -     -         2638   20    0 
+topquark  957677300 10  1 Bc  b     b     -         2618   80  140 
+topquark  957677336 10 10 r   c     k     f         2678   60    0 
+topquark  957677416 10  9 f   -     -     -         2618    0    0 
+topquark  957677479 10  8 f   -     -     -         2618    0    0 
+topquark  957677538 10  7 f   -     -     -         2618    0    0 
+topquark  957677610 10  6 c   f     -     -         2688   40    0 
+topquark  957677631 10  5 c   f     -     -         2648   20    0 
+topquark  957677664 10  4 f   -     -     -         2628    0    0 
+topquark  957677739 10  3 f   -     -     -         2628    0    0 
+topquark  957677772 10  2 Bc  k     f     -         2628   40    0 
+topquark  957677833 10  1 Bf  -     -     -         2578   10    0 
+topquark  957677908 10 10 f   -     -     -         2528    0    0 
+topquark  957677946 10  9 f   -     -     -         2528    0    0 
+topquark  957677987 10  8 c   f     -     -         2478   20    0 
+topquark  957678011 10  7 cc  f     -     -         2458   40    0 
+topquark  957678059 10  6 f   -     -     -         2418    0    0 
+topquark  957678108 10  5 cc  b     k     f         2418   60    0 
+topquark  957678179 10  4 r   c     r     b         2338  180  560 Tc Th
+topquark  957678281 10  3 cc  kf    -     -         2718   60    0 
+topquark  957678331 10  2 Br  b     b     b         2658  140  280 
+topquark  957678409 10  1 Bcc kc    k     b         2798  100  160 
+topquark  957678446  9  9 r   bc    k     f         2858   80    0 
+topquark  957678509  8  7 f   -     -     -         2778    0    0 
+topquark  957678528  8  7 f   -     -     -         2778    0    0 
+topquark  957678571  8  6 f   -     -     -         2778    0    0 
+topquark  957678635  8  5 f   -     -     -         2778    0    0 
+topquark  957678673  8  4 f   -     -     -         2778    0    0 
+topquark  957678757  9  3 f   -     -     -         2778    0    0 
+topquark  957678783  9  2 Bk  kc    kf    -         2778   40    0 
+topquark  957678832 10  1 Bc  kf    -     -         2738   20    0 
+topquark  957678874  9  9 f   -     -     -         2718    0    0 
+topquark  957678908  9  8 cc  kc    k     b         2718  100  210 
+topquark  957678952  9  7 cc  c     c     c         2828  160  560 Ah 8h
+topquark  957679019  9  6 c   kf    -     -         3228   20    0 
+topquark  957679053  9  5 Q   -     -     -         3208    0    0 
+topquark  957922590  9  5 f   -     -     -        10049    0    0 
+topquark  957922606 10  4 f   -     -     -        10049    0    0 
+topquark  957922658 10  3 cc  kc    kc    cc       10049  180    0 2c Kc
+topquark  957922756 10  2 Bk  k     Q     -         9869   20    0 
+topquark  958671003  3  3 f   -     -     -         2130    0    0 
+topquark  958671012  3  2 Bk  c     f     -         2130   40    0 
+topquark  958671024  3  1 Bcr b     -     -         2090   80  140 
+topquark  958671038  3  3 c   k     k     k         2150   20   50 6c Kh
+topquark  958671054  3  2 Bc  k     b     -         2180   80  130 
+topquark  958671073  4  1 Bc  kc    kc    krr       2230  260  580 7h 8h
+topquark  958671108  4  4 f   -     -     -         2550    0    0 
+topquark  958671119  4  3 c   k     k     f         2550   20    0 
+topquark  958671149  3  2 Bk  bc    kc    kc        2530  140  290 5c 9s
+topquark  958671179  3  1 Bc  k     k     k         2680   20   20 2s Kh
+topquark  958671196  3  3 f   -     -     -         2680    0    0 
+topquark  958671203  3  2 Bc  c     f     -         2680   60    0 
+topquark  958671224  3  1 Bc  kc    kf    -         2620   40    0 
+topquark  958671239  3  3 f   -     -     -         2580    0    0 
+topquark  958671258  3  2 Bc  kf    -     -         2580   40    0 
+topquark  958671274  3  1 Bf  -     -     -         2540   10    0 
+topquark  958671283  3  3 f   -     -     -         2530    0    0 
+topquark  958671301  3  2 Br  b     b     b         2530  140  300 As Ad
+topquark  958671320  3  1 Bc  kc    kf    -         2690   40    0 
+topquark  958671339  3  3 cc  c     r     b         2650  180  380 4d 5d
+topquark  958671358  3  2 Br  b     b     k         2850  100    0 Ks Qc
+topquark  958671379  3  1 Bf  -     -     -         2750   10    0 
+topquark  958671393  3  3 f   -     -     -         2740    0    0 
+topquark  958671398  3  2 Bk  bc    kc    k         2740  100    0 Th Jh
+topquark  958671419  3  1 Bc  kc    k     bc        2640  140  300 9s Td
+topquark  958671439  3  3 c   f     -     -         2800   20    0 
+topquark  958671458  3  2 B   -     -     -         2780   20   30 
+topquark  958671461  3  1 Brc br    b     b         2790  200  420 
+topquark  958671490  4  4 f   -     -     -         3010    0    0 
+topquark  958671496  4  3 c   b     -     -         3010   40   70 
+topquark  958671504  4  2 Bk  k     r     r         3040  180  560 9c 6c
+topquark  958671539  4  1 Bc  kf    -     -         3420   20    0 
+topquark  958671561  4  4 r   b     k     k         3400   60    0 Kh As
+topquark  958671581  4  3 f   -     -     -         3340    0    0 
+topquark  958671590  4  2 Bk  k     f     -         3340   20    0 
+topquark  958671611  4  1 Bf  -     -     -         3320   10    0 
+topquark  958671623  4  4 f   -     -     -         3310    0    0 
+topquark  958671627  4  3 f   -     -     -         3310    0    0 
+topquark  958671637  4  2 Bk  c     c     k         3310   80  240 As 8c
+topquark  958671656  4  1 Bf  -     -     -         3470   10    0 
+topquark  958671671  4  4 r   b     bc    c         3460  180  390 Kh Ah
+topquark  958671691  4  3 c   b     bc    c         3670  160    0 8h Ac
+topquark  958671711  4  2 Bk  c     f     -         3510   40    0 
+topquark  958671724  4  1 Bcc kf    -     -         3470   40    0 
+topquark  958671740  4  4 f   -     -     -         3430    0    0 
+topquark  958671744  4  3 f   -     -     -         3430    0    0 
+topquark  958671748  4  2 Bk  f     -     -         3430   20    0 
+topquark  958671767  4  1 Bcc kc    kc    b         3410  140  280 9c 8d
+topquark  958671788  4  4 c   c     f     -         3550   60    0 
+topquark  958671810  4  3 c   k     k     f         3490   20    0 
+topquark  958671833  4  2 Bk  bc    f     -         3470   60    0 
+topquark  958671849  4  1 Bcc kc    k     k         3410   60  140 Ts 2h
+topquark  958671868  4  4 f   -     -     -         3490    0    0 
+topquark  958671876  4  3 c   f     -     -         3490   20    0 
+topquark  958671894  4  2 Bk  f     -     -         3470   20    0 
+topquark  958671906  4  1 Bf  -     -     -         3450   10    0 
+topquark  958671910  4  4 f   -     -     -         3440    0    0 
+topquark  958671922  4  3 r   -     -     -         3440   40   70 
+topquark  958671928  4  2 Bf  -     -     -         3470   20    0 
+topquark  958671935  4  1 Bc  kc    k     b         3450   80  160 6h Ah
+topquark  958671956  4  4 c   k     k     k         3530   20   60 2h 2s
+topquark  958671977  4  3 c   f     -     -         3570   20    0 
+topquark  958671998  4  2 Bk  kf    -     -         3550   20    0 
+topquark  958672018  4  1 Bc  k     k     b         3530   60  120 5h Qh
+topquark  958672037  4  4 c   f     -     -         3590   20    0 
+topquark  958672050  4  3 f   -     -     -         3570    0    0 
+topquark  958672061  4  2 Bk  kc    f     -         3570   40    0 
+topquark  958672085  4  1 Bc  b     bc    kf        3530  120    0 
+topquark  958672111  4  4 c   c     c     f         3410   80    0 
+topquark  958672130  4  3 f   -     -     -         3330    0    0 
+topquark  958672145  4  2 Bk  kf    -     -         3330   20    0 
+topquark  958672167  4  1 Bf  -     -     -         3310   10    0 
+topquark  958672173  4  4 c   f     -     -         3300   20    0 
+topquark  958672183  4  3 f   -     -     -         3280    0    0 
+topquark  958672187  4  2 Bk  f     -     -         3280   20    0 
+topquark  958672204  4  1 Br  b     -     -         3260   60  100 
+topquark  958672221  4  4 c   b     k     k         3300   40    0 Td 9d
+topquark  958672239  4  3 f   -     -     -         3260    0    0 
+topquark  958672258  4  2 Bk  k     k     k         3260   20   20 2c 3h
+topquark  958672280  4  1 Bf  -     -     -         3260   10    0 
+topquark  958672304  4  4 f   -     -     -         3250    0    0 
+topquark  958672313  4  3 c   b     -     -         3250   40   70 
+topquark  958672327  4  2 Bk  k     kf    -         3280   20    0 
+topquark  958672362  4  1 Br  b     k     k         3260   60    0 Ks Ah
+topquark  958672390  3  3 c   k     b     -         3200   60   90 
+topquark  958672407  3  2 Br  bc    kc    k         3230  120    0 Jd Kd
+topquark  958672425  3  1 Bc  kc    kf    -         3110   40    0 
+topquark  958672446  3  3 c   f     -     -         3070   20    0 
+topquark  958672459  3  2 Bk  k     k     kf        3050   20    0 
+topquark  958672479  3  1 Bc  kf    -     -         3030   40    0 
+topquark  958672495  3  3 c   f     -     -         2990   20    0 
+topquark  958672504  3  2 Bk  kf    -     -         2970   20    0 
+topquark  958672513  3  1 Bc  k     kf    -         2950   20    0 
+topquark  958672534  3  3 f   -     -     -         2930    0    0 
+topquark  958672537  3  2 Bk  k     k     k         2930   20    0 3s 4h
+topquark  958672558  3  1 Bc  bc    kc    k         2910  100    0 9h Qd
+topquark  958672584  3  3 f   -     -     -         2810    0    0 
+topquark  958672604  3  2 B   -     -     -         2810   20   30 
+topquark  958672609  3  1 Bf  -     -     -         2820   10    0 
+topquark  958672614  3  3 c   b     -     -         2810   40   70 
+topquark  958672624  3  2 Bk  f     -     -         2840   20    0 
+topquark  958672633  3  1 Bf  -     -     -         2820   10    0 
+topquark  958672642  2  2 c   b     -     -         2810   40   60 
+topquark  958672654  2  2 B   -     -     -         2830   20   30 
+topquark  958672657  2  1 Bc  b     k     k         2840   40   80 3d 4h
+topquark  958672671  2  2 B   -     -     -         2880   20   30 
+topquark  958672676  2  1 Br  -     -     -         2890   40   60 
+topquark  958672682  2  2 B   -     -     -         2910   20   30 
+topquark  958672685  2  1 Br  b     -     -         2920   60  100 
+topquark  958672693  2  2 B   -     -     -         2960   20   30 
+topquark  959026676 10  1 Bc  bc    kc    b        28906  160  600 5d 5s
+topquark  959026735 10 10 c   c     b     -        29331  100  400 
+topquark  959026781 10  9 c   f     -     -        29631   20    0 
+topquark  959026832  9  7 f   -     -     -        29611    0    0 
+topquark  959026896 10  7 f   -     -     -        29611    0    0 
+topquark  959026940  9  6 c   r     br    bc       29611  260  650 8d 8s
+topquark  959027004  9  5 f   -     -     -        30001    0    0 
+topquark  959027044  9  4 f   -     -     -        30001    0    0 
+topquark  959027084  9  3 f   -     -     -        30001    0    0 
+topquark  959027141  9  2 Bk  f     -     -        30001   20    0 
+topquark  959027187 10  1 Bf  -     -     -        29981   10    0 
+topquark  959027231  9  9 f   -     -     -        29971    0    0 
+topquark  959027249  9  8 cc  k     c     f        29971   80    0 
+topquark  959027307  9  7 f   -     -     -        29891    0    0 
+topquark  959027353  9  6 c   kf    -     -        29891   20    0 
+topquark  959027399  9  5 cc  c     c     f        29871  140    0 
+topquark  959027473 10  5 f   -     -     -        29731    0    0 
+topquark  959027539 10  4 f   -     -     -        29731    0    0 
+topquark  959027583 10  3 cc  kc    bc    kc       29731  200  650 2c Ac
+topquark  959027630 10  2 Bk  kf    -     -        30181   20    0 
+topquark  959027677 10  1 Bc  kf    -     -        30161   40    0 
+topquark  959027714 10 10 f   -     -     -        30121    0    0 
+topquark  959027763 10  9 c   k     k     f        30121   20    0 
+topquark  959027805 10  8 cc  fQ    -     -        30101   40    0 
+topquark  959467070  8  3 f   -     -     -       133424    0    0 
+topquark  959467119  8  2 Bc  kc    k     kf      133424   60    0 
+topquark  959467150  8  1 Bf  -     -     -       133364   10    0 
+topquark  959467164  8  8 f   -     -     -       133354    0    0 
+topquark  959467213  8  7 f   -     -     -       133354    0    0 
+topquark  959467239  8  6 f   -     -     -       133354    0    0 
+topquark  959467309  9  6 cc  c     c     cfQ     133354  180    0 
+topquark  959468390  9  3 ccc cc    k     k       133174  120    0 8s 5d
+topquark  959468446  9  2 Bc  kf    -     -       133054   40    0 
+topquark  959468473  8  1 Bf  -     -     -       133014   10    0 
+topquark  959468508  8  8 f   -     -     -       133004    0    0 
+topquark  959468535  9  8 cc  c     f     -       133004   60    0 
+topquark  959468573 10  7 c   b     b     b       132944  120  320 Th Jd
+topquark  959468604 10  6 f   -     -     -       133144    0    0 
+topquark  959468655 10  5 c   bc    kc    kc      133144  140    0 Ah 9c
+topquark  959468692 10  4 c   kc    bc    b       133004  160  620 Qs Jc
+topquark  959468753 10  3 rc  brrc  bc    kc      133464  320  750 Ah Ad
+topquark  959468807 10  2 Bc  k     b     b       133894  120  290 5c Jc
+topquark  959468843 10  1 Bc  kc    kc    k       134064  100    0 6s Js
+topquark  959468892 10 10 f   -     -     -       133964    0    0 
+topquark  959468906 10  3 Q   -     -     -       133964    0    0 
+topquark  959470001 10  8 c   k     k     f       133964   20    0 
+topquark  959470042 10  7 f   -     -     -       133944    0    0 
+topquark  959470081 10  6 f   -     -     -       133944    0    0 
+topquark  959470114 10  5 cc  f     -     -       133944   40    0 
+topquark  959470147 10  4 f   -     -     -       133904    0    0 
+topquark  959470190 10  3 c   cc    k     f       133904   60    0 
+topquark  959470222 10  2 Bf  -     -     -       133844   20    0 
+topquark  959470281 10  1 Bc  kf    -     -       133824   20    0 
+topquark  959470308 10 10 f   -     -     -       133804    0    0 
+topquark  959470336 10  9 c   bc    r     c       133804  180    0 9s 8d
+topquark  959470376 10  8 f   -     -     -       133624    0    0 
+topquark  959470474 10  7 cc  cf    -     -       133624   60    0 
+topquark  959470564 10  6 c   c     f     -       133564   60    0 
+topquark  959470628 10  5 f   -     -     -       133504    0    0 
+topquark  959470655 10  4 f   -     -     -       133504    0    0 
+topquark  959470718 10  3 fQ  -     -     -       133504    0    0 

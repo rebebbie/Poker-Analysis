@@ -1,0 +1,122 @@
+DaVoice   957744010  4  4 r   rr    b     b         1110  100  220 Th Kh
+DaVoice   957744051  5  3 r   brc   k     k         1230   60    0 Ah Qh
+DaVoice   957744099  5  2 Bk  kc    kf    -         1170   30    0 
+DaVoice   957744136  5  1 Bc  kf    -     -         1140   10    0 
+DaVoice   957744165  5  5 r   c     f     -         1130   30    0 
+DaVoice   957744190  5  4 cc  c     r     r         1100  120  285 7s Ah
+DaVoice   957744212  5  3 c   kf    -     -         1265   10    0 
+DaVoice   957744249  5  2 Brc br    -     -         1255   70  175 
+DaVoice   957744273  5  1 Bc  k     kc    brc       1360  110    0 Qs Td
+DaVoice   957744311  6  6 f   -     -     -         1250    0    0 
+DaVoice   957744356  6  5 c   b     c     r         1250   80  210 
+DaVoice   957744412  6  4 f   -     -     -         1380    0    0 
+DaVoice   957744456  7  3 cc  kcc   b     k         1380   70    0 7d 6s
+DaVoice   957744524 10  2 Bc  kcc   kf    -         1310   60    0 
+DaVoice   957744628 10  1 Bc  kf    -     -         1250   20    0 
+DaVoice   957744686 10 10 c   k     f     -         1230   10    0 
+DaVoice   957744773 10  9 c   r     b     k         1220   60  155 Qd Tc
+DaVoice   957744824 10  8 rc  rc    c     f         1315   80    0 
+DaVoice   957744891 10  7 r   rr    b     b         1235  100  405 As Td
+DaVoice   957744998 10  6 r   bc    c     f         1540   60    0 
+DaVoice   957745115 10  6 f   -     -     -         1480    0    0 
+DaVoice   957745172  9  4 f   -     -     -         1480    0    0 
+DaVoice   957745258  9  3 f   -     -     -         1480    0    0 
+DaVoice   957745340  8  2 Bf  -     -     -         1480   10    0 
+DaVoice   957745402  8  1 Bc  kc    kQ    -         1470   20    0 
+DaVoice   957894573  4  2 Bk  k     b     b         1450   50  110 
+DaVoice   957894613  4  1 Bc  kc    kf    -         1510   30    0 
+DaVoice   957894647  4  4 f   -     -     -         1480    0    0 
+DaVoice   957894675  4  3 cc  r     b     k         1480   60  130 5c Jc
+DaVoice   957894706  6  2 Bk  kf    -     -         1550   10    0 
+DaVoice   957894733  6  1 Bc  kf    -     -         1540   10    0 
+DaVoice   957894781  6  6 r   b     b     b         1530   70  155 
+DaVoice   957894809  6  5 r   c     f     -         1615   30    0 
+DaVoice   957894859  6  4 f   -     -     -         1585    0    0 
+DaVoice   957894869  6  3 f   -     -     -         1585    0    0 
+DaVoice   957894897  6  2 Bk  k     kf    -         1585   10    0 
+DaVoice   957894922  6  1 Bc  kf    -     -         1575   20    0 
+DaVoice   957894949  7  7 f   -     -     -         1555    0    0 
+DaVoice   957894983  7  6 c   c     f     -         1555   30    0 
+DaVoice   957895011  8  6 rr  br    kc    f         1525  110    0 
+DaVoice   957895073  8  5 f   -     -     -         1415    0    0 
+DaVoice   957895113  8  4 cc  kc    c     kc        1415   90    0 Kc 9s
+DaVoice   957895190  8  3 f   -     -     -         1325    0    0 
+DaVoice   957895254  8  2 Br  bc    kc    kf        1325   60    0 
+DaVoice   957895302  6  1 Bcc kf    -     -         1265   20    0 
+DaVoice   957895336  6  6 r   b     b     b         1245   80    0 Ah 8h
+DaVoice   957895373  5  4 c   k     f     -         1165   10    0 
+DaVoice   957895411  5  3 f   -     -     -         1155    0    0 
+DaVoice   957895443  5  2 Brc krc   kc    kf        1155  120    0 
+DaVoice   957895495  6  1 Bf  -     -     -         1035    5    0 
+DaVoice   957895550  5  5 r   k     k     k         1030   20    0 2s Ks
+DaVoice   957895578  6  5 c   c     r     k         1010   60    0 5d Kd
+DaVoice   957895671  4  3 c   k     k     k          950   10    0 Js 8h
+DaVoice   957895714  3  2 Br  k     b     k          940   40    0 Ad Tc
+DaVoice   957895742  3  1 Bc  k     b     -          900   30   50 
+DaVoice   957895783  3  3 c   c     f     -          920   20    0 
+DaVoice   957895820  3  2 Bk  c     f     -          900   20    0 
+DaVoice   957895834  4  1 Bc  k     b     b          880   60  170 7c 4c
+DaVoice   957895869  3  3 f   -     -     -          990    0    0 
+DaVoice   957895893  3  3 r   b     -     -          990   30   60 
+DaVoice   957895903  3  2 Bk  kf    -     -         1020   10    0 
+DaVoice   957895915  4  1 Br  kc    kc    b         1010   70    0 As 9s
+DaVoice   957895953  4  4 cc  k     c     r          940   80  250 3d Ah
+DaVoice   957896017  4  3 cc  f     -     -         1110   20    0 
+DaVoice   957896057  4  2 Bk  k     k     f         1090   10    0 
+DaVoice   957896079  4  1 Bcc br    krc   k         1080  110    0 Th Ks
+DaVoice   957896133  4  4 c   b     k     b          970   40   90 
+DaVoice   957896161  4  3 c   k     c     k         1020   30   75 6d Ad
+DaVoice   957896183  7  2 Br  kf    -     -         1065   20    0 
+DaVoice   957896247  7  1 Bc  b     b     b         1045   70    0 9d Qc
+DaVoice   957896289  7  7 f   -     -     -          975    0    0 
+DaVoice   957896330  6  5 r   k     k     b          975   40    0 Ks 9s
+DaVoice   957896367  7  5 rc  c     c     c          935   80  165 9s As
+DaVoice   957896395  6  4 f   -     -     -         1020    0    0 
+DaVoice   957896433  6  3 r   k     kc    b         1020   60    0 Td Ah
+DaVoice   957896485  6  2 Bk  kc    kc    b          960   60  135 Tc Kh
+DaVoice   957896535  6  1 Bf  -     -     -         1035    5    0 
+DaVoice   957896565  6  6 f   -     -     -         1030    0    0 
+DaVoice   957896621  7  5 c   c     c     f         1030   40    0 
+DaVoice   957896683  7  4 c   r     b     b          990   70    0 As 6d
+DaVoice   957896723  6  3 c   c     r     b          920   80    0 8c As
+DaVoice   957896782  7  2 Bk  k     k     b          840   30   50 
+DaVoice   957896825  7  1 Br  k     b     k          860   40  100 Td 8d
+DaVoice   957896865  7  7 r   rc    brf   -          920  120    0 
+DaVoice   957896910  7  6 f   -     -     -          800    0    0 
+DaVoice   957896945  7  5 f   -     -     -          800    0    0 
+DaVoice   957896965  6  3 f   -     -     -          800    0    0 
+DaVoice   957897003  6  3 c   k     k     r          800   50    0 5d 4c
+DaVoice   957897042  6  2 B   -     -     -          750   10   15 
+DaVoice   957897049  6  1 Bc  k     kf    -          755   10    0 
+DaVoice   957897082  6  6 f   -     -     -          745    0    0 
+DaVoice   957897101  6  5 f   -     -     -          745    0    0 
+DaVoice   957897126  6  4 c   c     k     f          745   20    0 
+DaVoice   957897149  6  3 r   k     b     b          725   60  155 Kh Ac
+DaVoice   957897185  6  2 Bk  k     k     k          820   10    0 7s 5h
+DaVoice   957897219  6  1 Br  b     b     bc         810   90    0 As Jc
+DaVoice   957897260  6  6 c   fQ    -     -          720   20    0 
+DaVoice   958360660  5  4 f   -     -     -          700    0    0 
+DaVoice   958360686  4  3 f   -     -     -          700    0    0 
+DaVoice   958360724  6  2 Bc  KQ    -     -          700   20    0 
+DaVoice   958360834  5  5 f   -     -     -          680    0    0 
+DaVoice   958360847  5  4 r   k     c     c          680   60    0 8c Ah
+DaVoice   958360898  5  3 c   k     b     -          620   30   55 
+DaVoice   958360963  8  2 Bf  -     -     -          645   10    0 
+DaVoice   958361007  8  1 Br  bc    kc    k          635   60    0 Kh 8h
+DaVoice   958361116  9  9 c   k     k     k          575   10   35 Jd 8h
+DaVoice   958361183 10  9 c   ccc   c     f          600   80    0 
+DaVoice   958361243 10  8 f   -     -     -          520    0    0 
+DaVoice   958361360 10  7 f   -     -     -          520    0    0 
+DaVoice   958361437 10  6 f   -     -     -          520    0    0 
+DaVoice   958361509 10  5 f   -     -     -          520    0    0 
+DaVoice   958361571 10  4 f   -     -     -          520    0    0 
+DaVoice   958361662 10  3 rr  bc    kc    kc         520  100    0 Jh As
+DaVoice   958361774 10  2 Bk  b     b     kc         420   60    0 Jd 7h
+DaVoice   958361844 10  1 Bc  b     br    b          360  100  260 Qd Jc
+DaVoice   958361950  8  8 f   -     -     -          520    0    0 
+DaVoice   958362014  7  6 f   -     Q     -          520    0    0 
+DaVoice   958408786  5  5 c   k     k     k          520   10    0 6s 3s
+DaVoice   958408824  4  3 rc  br    b     k          510   80    0 Kh Qd
+DaVoice   958408865  4  2 Bf  -     -     -          430   10    0 
+DaVoice   958408888  4  1 Bc  kc    kf    -          420   20    0 
+DaVoice   958408929  5  4 Q   -     -     -          400    0    0 

@@ -1,0 +1,604 @@
+ezRooler  957834905  9  4 r   b     bc    kr         990  110  400 Jd Js
+ezRooler  957834960 10  4 f   -     -     -         1280    0    0 
+ezRooler  957835045 10  3 f   -     -     -         1280    0    0 
+ezRooler  957835116 10  2 Bk  kf    -     -         1280   10    0 
+ezRooler  957835192 10  1 Bf  -     -     -         1270    5    0 
+ezRooler  957835257 10 10 r   cc    br    bc        1265  140  375 Jc Ah
+ezRooler  957835356 10  9 f   -     -     -         1500    0    0 
+ezRooler  957835421 10  8 f   -     Q     -         1500    0    0 
+ezRooler  957912419  9  5 f   -     -     -         1500    0    0 
+ezRooler  957912467 10  4 f   -     -     -         1500    0    0 
+ezRooler  957912506 10  3 f   -     -     -         1500    0    0 
+ezRooler  957912547 10  2 Bk  kc    k     k         1500   20   85 Kc 8h
+ezRooler  957912601 10  1 Bf  -     -     -         1565    5    0 
+ezRooler  957912681 10 10 f   -     -     -         1560    0    0 
+ezRooler  957912712 10  9 f   -     -     -         1560    0    0 
+ezRooler  957912789 10  8 r   r     b     k         1560   60  135 Qc As
+ezRooler  957912835 10  7 f   -     -     -         1635    0    0 
+ezRooler  957912867 10  6 f   -     -     -         1635    0    0 
+ezRooler  957912893  9  4 cc  cc    cc    kc        1635  100    0 Js Qd
+ezRooler  957912946  9  3 r   b     -     -         1535   30   75 
+ezRooler  957912972  8  2 Bk  b     b     -         1580   40   90 
+ezRooler  957913017  8  1 Bf  -     -     -         1630    5    0 
+ezRooler  957913101  8  8 f   -     -     -         1625    0    0 
+ezRooler  957913174  8  7 c   c     c     k         1625   40  140 Ah 7c
+ezRooler  957913229  8  6 f   -     -     -         1725    0    0 
+ezRooler  957913267  8  5 cc  b     b     r         1725   90  355 As 6s
+ezRooler  957913361  7  2 Bf  -     -     -         1990   10    0 
+ezRooler  957913412  7  1 Bc  kf    -     -         1980   10    0 
+ezRooler  957913465  7  7 f   -     -     -         1970    0    0 
+ezRooler  957913511  7  6 f   -     -     -         1970    0    0 
+ezRooler  957913575  7  5 c   b     b     -         1970   40   80 
+ezRooler  957913600  6  3 f   -     -     -         2010    0    0 
+ezRooler  957913624  6  2 Bk  k     b     b         2010   50   85 
+ezRooler  957913647  7  1 Bf  -     -     -         2045    5    0 
+ezRooler  957913671  7  7 f   -     -     -         2040    0    0 
+ezRooler  957913705  8  7 r   c     f     -         2040   30    0 
+ezRooler  957913799  9  7 cc  f     -     -         2010   20    0 
+ezRooler  957913858  8  6 c   c     kf    -         1930   20    0 
+ezRooler  957913914  8  5 c   kc    kf    -         1910   20    0 
+ezRooler  957913955  8  4 cc  c     krr   b         1890  130  500 Kc Ts
+ezRooler  957914034  8  3 c   kf    -     -         2160   10    0 
+ezRooler  957914063  7  2 B   -     -     -         2130   10   15 
+ezRooler  957914075  7  1 Bc  kf    -     -         2135   10    0 
+ezRooler  957914141  8  8 r   b     b     k         2085   50  220 Jd Jh
+ezRooler  957914232  8  7 c   k     k     f         2495   10    0 
+ezRooler  957914284  9  7 f   -     -     -         2475    0    0 
+ezRooler  957914346  8  5 f   -     -     -         2475    0    0 
+ezRooler  957914383  8  4 c   b     r     r         2475  100  220 
+ezRooler  957914440  7  3 f   -     -     -         2575    0    0 
+ezRooler  957914491  8  2 Bf  -     -     -         2475   10    0 
+ezRooler  957914510  8  1 Bc  kf    -     -         2285   10    0 
+ezRooler  957914560  8  8 f   -     -     -         2405    0    0 
+ezRooler  957914611  8  7 f   -     -     -         2420    0    0 
+ezRooler  957914652  8  6 r   b     -     -         2420   30   65 
+ezRooler  957914685  9  6 f   -     -     -         2485    0    0 
+ezRooler  957914720 10  5 f   -     -     -         2485    0    0 
+ezRooler  957914772 10  4 f   -     -     -         2605    0    0 
+ezRooler  957914818 10  3 f   -     -     -         2865    0    0 
+ezRooler  957914892 10  2 Bf  -     -     -         2825   10    0 
+ezRooler  957914955 10  1 Bf  -     -     -         2865    5    0 
+ezRooler  957915001 10 10 f   -     -     -         2840    0    0 
+ezRooler  957915061 10  9 f   -     -     -         2920    0    0 
+ezRooler  957915118 10  8 r   b     c     c         2920   70  225 9c 9s
+ezRooler  957915206 10  7 c   f     -     -         3035   20    0 
+ezRooler  957915267 10  6 f   -     -     -         3015    0    0 
+ezRooler  957915297 10  5 f   -     -     -         3015    0    0 
+ezRooler  957915339 10  4 f   -     -     -         2795    0    0 
+ezRooler  957915449 10  3 f   -     -     -         2655    0    0 
+ezRooler  957915513 10  2 Bc  kf    -     -         2645   20    0 
+ezRooler  957915567 10  1 Bc  kc    k     k         2505   30    0 As Jc
+ezRooler  957915668 10 10 c   b     b     f         2515   40    0 
+ezRooler  957915764 10  9 c   f     -     -         2495   10    0 
+ezRooler  957915854 10  8 f   -     -     -         2485    0    0 
+ezRooler  957915894 10  7 f   -     -     -         2485    0    0 
+ezRooler  957915928 10  6 c   c     r     b         2485   90    0 Qs Kh
+ezRooler  957915989 10  5 c   f     -     -         2395   10    0 
+ezRooler  957916047 10  4 c   b     b     k         2275   40    0 Qs Kc
+ezRooler  957916129 10  3 c   k     f     -         2345   10    0 
+ezRooler  957916198 10  2 Bc  k     k     kf        2555   20    0 
+ezRooler  957916267 10  1 Bc  kc    kc    b         2375   60  150 Jd Qd
+ezRooler  957916324 10 10 c   c     c     f         2465   50    0 
+ezRooler  957916380 10  9 f   -     -     -         2415    0    0 
+ezRooler  957916425 10  8 f   -     -     -         2255    0    0 
+ezRooler  957916467 10  7 c   kc    k     kf        2235   20    0 
+ezRooler  957916566 10  6 c   k     k     f         2205   20    0 
+ezRooler  957916608 10  5 cc  cc    k     bc        2165   80  325 9c 9d
+ezRooler  957916697 10  4 f   -     -     -         2280    0    0 
+ezRooler  957916743 10  3 f   -     -     -         2260    0    0 
+ezRooler  957916799 10  2 Bk  k     b     -         2240   30   85 
+ezRooler  957916851 10  1 Bc  kc    kc    kc        2275   60    0 5s 6h
+ezRooler  957916915 10 10 f   -     -     -         2095    0    0 
+ezRooler  957917001  9  8 f   -     -     -         2095    0    0 
+ezRooler  957917045 10  8 f   -     -     -         2095    0    0 
+ezRooler  957917090 10  7 c   cc    c     k         2095   70    0 Kc Jh
+ezRooler  957917150 10  6 f   -     -     -         2025    0    0 
+ezRooler  957917230 10  5 r   k     k     kf        2025   20    0 
+ezRooler  957917276  9  4 f   -     -     -         2005    0    0 
+ezRooler  957917312  9  3 f   -     -     -         1965    0    0 
+ezRooler  957917360  9  2 Bk  k     b     -         1955   30   65 
+ezRooler  957917421  8  1 Bc  kc    kf    -         1990   30    0 
+ezRooler  957917467  8  6 Q   -     -     -         1960    0    0 
+ezRooler  957942246  4  2 Br  b     -     -         1960   40   70 
+ezRooler  957942266  4  1 Bc  kc    kc    kf        1990   50    0 
+ezRooler  957942285  4  4 f   -     -     -         1940    0    0 
+ezRooler  957942297  4  3 r   b     -     -         1940   30   70 
+ezRooler  957942314  4  2 Bc  kc    rc    k         1980  100    0 4c 6c
+ezRooler  957942345  4  1 Bc  br    bf    -         1880   60    0 
+ezRooler  957942379  4  4 f   -     -     -         1820    0    0 
+ezRooler  957942391  4  3 c   r     b     k         1820   50    0 9h 8s
+ezRooler  957942416  4  2 Br  r     rc    c         1770  130  260 9s Qh
+ezRooler  957942443  4  1 Bc  kf    -     -         1900   10    0 
+ezRooler  957942474  5  5 c   k     f     -         1890   10    0 
+ezRooler  957942509  4  3 cc  k     k     f         1880   20    0 
+ezRooler  957942536  5  2 Bf  -     -     -         1860   10    0 
+ezRooler  957942602  5  1 Bc  b     b     b         1850   70   80 5s 4s
+ezRooler  957942632  5  5 f   -     -     -         1860    0    0 
+ezRooler  957942658  5  4 r   r     bc    c         1860  100  215 Qd As
+ezRooler  957942686  5  3 f   -     -     -         1975    0    0 
+ezRooler  957942724  5  2 Bc  cc    k     k         1975   40  160 7d Js
+ezRooler  957942757  5  1 Bc  kc    kr    b         2095   90  155 Kc Qs
+ezRooler  957942826  5  5 f   -     -     -         2160    0    0 
+ezRooler  957942864  6  4 f   -     -     -         2160    0    0 
+ezRooler  957942909  6  3 f   -     -     -         2160    0    0 
+ezRooler  957942950  6  2 Bk  k     b     b         2160   50  120 
+ezRooler  957942986  6  1 Bf  -     -     -         2230    5    0 
+ezRooler  957943010  7  7 r   rc    c     rr        2225  150  290 
+ezRooler  957943061  8  6 f   -     -     -         2365    0    0 
+ezRooler  957943088  7  4 f   -     -     -         2365    0    0 
+ezRooler  957943160  6  3 f   -     -     -         2365    0    0 
+ezRooler  957943205  6  2 Bk  kc    kc    kf        2365   40    0 
+ezRooler  957943265  4  1 Bf  -     -     -         2325    5    0 
+ezRooler  957943282  4  4 r   br    k     k         2320   50  125 Qc Qd
+ezRooler  957943321  4  3 r   bc    br    b         2395  120  255 7h 8h
+ezRooler  957943345  4  2 Bc  kc    kf    -         2530   30    0 
+ezRooler  957943371  4  1 Bf  -     -     -         2500    5    0 
+ezRooler  957943409  3  3 f   -     -     -         2495    0    0 
+ezRooler  957943422  3  2 Bc  k     br    b         2495  100    0 Qs Ac
+ezRooler  957943440  3  1 Bc  kf    -     -         2395   20    0 
+ezRooler  957943461  4  4 c   k     c     b         2375   50    0 5h 3h
+ezRooler  957943497  4  3 f   -     -     -         2325    0    0 
+ezRooler  957943520  4  2 Bk  b     kf    -         2325   20    0 
+ezRooler  957943557  4  1 Br  b     -     -         2305   30   60 
+ezRooler  957943572  4  4 r   c     c     f         2335   70    0 
+ezRooler  957943607  4  3 c   b     c     r         2265   80  165 Tc 8s
+ezRooler  957943635  4  2 Bk  b     br    -         2350   80  170 
+ezRooler  957943676  4  1 BfQ -     -     -         2440    5    0 
+ezRooler  957995391  5  3 f   -     -     -         1815    0    0 
+ezRooler  957995465  5  2 Bk  b     b     b         1815   60  110 
+ezRooler  957995504  5  1 Bc  k     b     bc        1865   70   75 Ah 8c
+ezRooler  957995533  5  5 f   -     -     -         1870    0    0 
+ezRooler  957995561  5  4 r   b     rr    b         1870  130  270 4s Ad
+ezRooler  957995605  4  2 Bk  f     -     -         2010   10    0 
+ezRooler  957995626  4  1 Br  -     -     -         2000   20   30 
+ezRooler  957995637  4  4 c   r     k     rr        2010  120  285 Ts Th
+ezRooler  957995688  4  3 c   kf    -     -         2175   10    0 
+ezRooler  957995713  4  2 Bc  c     b     b         2165   70  160 Td Qh
+ezRooler  957995756  4  1 Br  -     -     -         2255   20   30 
+ezRooler  957995768  4  4 r   -     -     -         2265   20   35 
+ezRooler  957995778  4  3 c   bc    b     b         2280   70  220 7d As
+ezRooler  957995824  4  2 Bc  b     bf    -         2430   50    0 
+ezRooler  957995850  4  1 Bc  kc    kc    kf        2380   50    0 
+ezRooler  957995890  4  4 r   b     -     -         2330   30   60 
+ezRooler  957995904  4  3 c   b     b     b         2360   60  130 9c Qh
+ezRooler  957995949  4  2 Bf  -     -     -         2430   10    0 
+ezRooler  957995987  4  1 Br  b     b     -         2420   50   80 
+ezRooler  957996010  4  4 f   -     -     -         2450    0    0 
+ezRooler  957996032  4  3 r   b     b     -         2450   50  100 
+ezRooler  957996075  4  2 Bk  f     -     -         2500   10    0 
+ezRooler  957996098  3  1 Bc  br    -     -         2490   50  100 
+ezRooler  957996120  3  3 cc  c     b     -         2540   50   90 
+ezRooler  957996140  3  2 Bk  c     b     b         2580   60  100 
+ezRooler  957996177  3  1 Bc  kf    -     -         2620   10    0 
+ezRooler  957996189  3  3 Q   -     -     -         2610    0    0 
+ezRooler  958115043  8  6 c   k     f     -         2160   10    0 
+ezRooler  958115074  7  4 f   -     -     -         2150    0    0 
+ezRooler  958115108  7  3 f   -     -     -         2150    0    0 
+ezRooler  958115128  7  2 Bk  b     b     b         2150   60  105 
+ezRooler  958115150  7  1 Bf  -     -     -         2195    5    0 
+ezRooler  958115177  7  7 r   -     -     -         2190   20   45 
+ezRooler  958115192  8  6 cc  k     kf    -         2215   20    0 
+ezRooler  958115233  8  5 f   -     -     -         2195    0    0 
+ezRooler  958115253  8  4 f   -     -     -         2195    0    0 
+ezRooler  958115280  8  3 f   -     -     -         2195    0    0 
+ezRooler  958115302  8  2 Bk  b     b     k         2195   40   85 2h 2d
+ezRooler  958115320  9  1 Bc  kf    -     -         2240   10    0 
+ezRooler  958115355  9  9 f   -     -     -         2230    0    0 
+ezRooler  958115430  9  8 f   -     -     -         2230    0    0 
+ezRooler  958115495 10  8 f   -     -     -         2230    0    0 
+ezRooler  958115561 10  7 f   -     -     -         2230    0    0 
+ezRooler  958115625 10  6 f   -     -     -         2230    0    0 
+ezRooler  958115666 10  5 f   -     -     -         2230    0    0 
+ezRooler  958115705 10  4 f   -     -     -         2230    0    0 
+ezRooler  958115795 10  3 f   -     -     -         2230    0    0 
+ezRooler  958115866 10  2 Bk  kc    k     k         2230   20    0 Jd 5d
+ezRooler  958115954 10  1 Bcc kf    -     -         2210   20    0 
+ezRooler  958116002 10 10 f   -     -     -         2190    0    0 
+ezRooler  958116079 10  9 f   -     -     -         2190    0    0 
+ezRooler  958116148 10  8 c   r     b     c         2190   80    0 Qs As
+ezRooler  958116203 10  7 c   b     b     b         2110   60  170 8h 6h
+ezRooler  958116252 10  6 f   -     -     -         2220    0    0 
+ezRooler  958116296 10  5 f   -     -     -         2220    0    0 
+ezRooler  958116331 10  4 f   -     -     -         2220    0    0 
+ezRooler  958116367 10  3 f   -     -     -         2220    0    0 
+ezRooler  958116417 10  2 Bc  kc    c     f         2220   50    0 
+ezRooler  958116461 10  1 Bc  k     k     kf        2170   10    0 
+ezRooler  958116503 10 10 f   -     -     -         2160    0    0 
+ezRooler  958116558 10  9 rc  rc    rr    k         2160  160    0 Kd Ah
+ezRooler  958116633 10  8 f   -     -     -         2000    0    0 
+ezRooler  958116694 10  7 f   -     -     -         2000    0    0 
+ezRooler  958116730 10  6 rr  b     brc   c         2000  150    0 Kc Ac
+ezRooler  958116795 10  5 r   b     b     kc        1850   70    0 Qc Qs
+ezRooler  958116836 10  4 f   -     -     -         1780    0    0 
+ezRooler  958116866 10  3 c   br    bc    b         1780  130  470 9d Td
+ezRooler  958116916 10  2 Bk  r     kc    kf        2120   50    0 
+ezRooler  958116956 10  1 Bc  k     b     b         2070   50  160 8h 5d
+ezRooler  958117025 10 10 f   -     -     -         2180    0    0 
+ezRooler  958117063 10  9 f   -     -     -         2180    0    0 
+ezRooler  958117130 10  8 f   -     -     -         2180    0    0 
+ezRooler  958117173 10  7 f   -     -     -         2180    0    0 
+ezRooler  958117242 10  6 f   -     -     -         2180    0    0 
+ezRooler  958117346 10  5 c   c     r     k         2180   70  270 Ks Qh
+ezRooler  958117398 10  4 f   -     -     -         2380    0    0 
+ezRooler  958117475 10  3 f   -     -     -         2380    0    0 
+ezRooler  958117528 10  2 Bf  -     -     -         2380   10    0 
+ezRooler  958117567 10  1 Bcc kcc   krc   b         2370  180  655 As 8s
+ezRooler  958117645 10 10 c   f     -     -         2845   20    0 
+ezRooler  958117697 10  9 f   -     -     -         2825    0    0 
+ezRooler  958117746 10  3 Q   -     -     -         2825    0    0 
+ezRooler  958123457  8  3 cc  kf    -     -         2970   20    0 
+ezRooler  958123499  8  2 Bk  k     k     kf        2950   10    0 
+ezRooler  958123549  9  1 Bf  -     -     -         2940    5    0 
+ezRooler  958123577  9  9 c   f     -     -         2935   10    0 
+ezRooler  958123643  9  8 ccc f     -     -         2925   40    0 
+ezRooler  958123746  9  7 rc  bc    k     k         2885   60    0 9h 9d
+ezRooler  958123827  9  6 ccc bc    kc    kf        2825   80    0 
+ezRooler  958123940  8  4 r   -     -     -         2745   20   35 
+ezRooler  958123956  8  3 f   -     -     -         2760    0    0 
+ezRooler  958124046  8  2 Bk  b     b     -         2760   40   65 
+ezRooler  958124084  7  1 Bf  -     -     -         2785    5    0 
+ezRooler  958124137  7  7 f   -     -     -         2780    0    0 
+ezRooler  958124173  7  6 rc  b     cc    f         2780  130    0 
+ezRooler  958124300  8  6 cc  f     -     -         2650   20    0 
+ezRooler  958124407  7  4 f   -     -     -         2630    0    0 
+ezRooler  958124471  8  3 c   kc    kc    k         2630   40    0 Jc Td
+ezRooler  958124522  7  2 Bk  k     b     b         2590   50  125 Qh Ac
+ezRooler  958124557  7  1 Bc  kc    kc    kf        2665   50    0 
+ezRooler  958124598  7  7 c   b     b     -         2615   40   75 
+ezRooler  958124622  7  6 c   r     c     c         2650   80    0 Ac Tc
+ezRooler  958124646  7  5 f   -     -     -         2570    0    0 
+ezRooler  958124688  7  4 c   kf    -     -         2570   10    0 
+ezRooler  958124755  7  3 f   -     -     -         2560    0    0 
+ezRooler  958124795  7  2 Bk  bc    kc    kf        2560   50    0 
+ezRooler  958124831  7  1 Bc  b     -     -         2510   20   30 
+ezRooler  958124857  7  7 f   -     -     -         2520    0    0 
+ezRooler  958124893  7  6 c   k     b     -         2520   30   50 
+ezRooler  958124929  7  5 cc  f     -     -         2540   20    0 
+ezRooler  958124951  7  4 r   r     b     -         2520   60  120 
+ezRooler  958124976  7  3 c   k     k     f         2580   10    0 
+ezRooler  958125021  7  2 Br  b     b     b         2570   70  165 Js As
+ezRooler  958125069  6  1 Bf  -     -     -         2665    5    0 
+ezRooler  958125108  5  5 r   -     -     -         2660   20   35 
+ezRooler  958125122  5  4 c   r     r     b         2675   90  185 7s 5s
+ezRooler  958125142  5  3 f   -     -     -         2770    0    0 
+ezRooler  958125169  5  2 Bk  k     kf    -         2770   10    0 
+ezRooler  958125199  5  1 Bf  -     -     -         2760    5    0 
+ezRooler  958125207  5  5 f   -     -     -         2755    0    0 
+ezRooler  958125240  7  5 f   -     -     -         2755    0    0 
+ezRooler  958125280  7  4 c   b     b     -         2755   40   70 
+ezRooler  958125310  7  3 f   -     -     -         2785    0    0 
+ezRooler  958125331  7  2 Bc  kf    -     -         2785   20    0 
+ezRooler  958125421  7  1 Bf  -     -     -         2765    5    0 
+ezRooler  958125474  8  8 f   -     -     -         2760    0    0 
+ezRooler  958125548  8  7 cc  rc    f     -         2760   60    0 
+ezRooler  958125628  8  6 f   -     -     -         2700    0    0 
+ezRooler  958125664  7  4 f   -     -     -         2700    0    0 
+ezRooler  958125696  7  4 c   b     -     -         2700   20   50 
+ezRooler  958125724  6  2 Bc  kf    -     -         2730   20    0 
+ezRooler  958125765  6  1 Bc  kc    kf    -         2710   20    0 
+ezRooler  958125806  6  6 c   b     -     -         2690   20   45 
+ezRooler  958125827  6  5 f   -     -     -         2715    0    0 
+ezRooler  958125865  6  4 f   -     -     -         2715    0    0 
+ezRooler  958125875  6  3 f   -     -     -         2715    0    0 
+ezRooler  958125884  6  2 B   -     -     -         2715   10   15 
+ezRooler  958125900  6  1 Bc  b     -     -         2720   20   40 
+ezRooler  958125916  6  6 f   -     -     -         2740    0    0 
+ezRooler  958125945  6  5 f   -     -     -         2740    0    0 
+ezRooler  958125989  6  4 f   -     -     -         2740    0    0 
+ezRooler  958126042  6  4 f   -     -     -         2740    0    0 
+ezRooler  958126057  5  2 Bc  k     k     k         2740   20    0 8c Tc
+ezRooler  958126092  5  1 Bc  b     -     -         2720   20   40 
+ezRooler  958126110  5  5 f   -     -     -         2740    0    0 
+ezRooler  958126139  5  4 rcc b     b     b         2740   90    0 9s Jd
+ezRooler  958126203  6  4 f   -     -     -         2650    0    0 
+ezRooler  958126220  6  3 f   -     -     -         2650    0    0 
+ezRooler  958126243  6  2 Bc  kc    kc    b         2650   70  165 2h Kc
+ezRooler  958126276  6  1 Bc  kf    -     -         2745   20    0 
+ezRooler  958126299  6  6 c   f     -     -         2725   10    0 
+ezRooler  958126331  5  4 c   b     b     b         2715   60  105 
+ezRooler  958126357  6  3 f   -     -     -         2760    0    0 
+ezRooler  958126384  6  2 Bk  kf    -     -         2760   10    0 
+ezRooler  958126442  7  1 Bf  -     -     -         2750    5    0 
+ezRooler  958126479  6  6 c   f     -     -         2745   10    0 
+ezRooler  958126524  6  5 f   -     -     -         2735    0    0 
+ezRooler  958126551  7  4 f   -     -     -         2735    0    0 
+ezRooler  958126620  7  3 f   -     -     -         2735    0    0 
+ezRooler  958126670  7  2 Bf  -     -     -         2735   10    0 
+ezRooler  958126699  7  1 Bf  -     -     -         2725    5    0 
+ezRooler  958126754  7  7 c   c     c     c         2720   60    0 Ts Js
+ezRooler  958126793  7  6 c   c     r     b         2660   80  170 
+ezRooler  958126840  6  4 f   -     -     -         2750    0    0 
+ezRooler  958126874  6  3 r   b     b     -         2750   50   95 
+ezRooler  958126897  6  2 Bk  br    b     b         2795   80    0 5s 4c
+ezRooler  958126925  6  1 Bc  kf    -     -         2715   20    0 
+ezRooler  958126966  6  6 f   -     -     -         2695    0    0 
+ezRooler  958127019  6  5 c   c     c     f         2695   40    0 
+ezRooler  958127081  7  5 f   -     -     -         2655    0    0 
+ezRooler  958127140  7  4 cc  f     -     -         2655   20    0 
+ezRooler  958127187  7  3 c   k     b     b         2635   50  140 
+ezRooler  958127250  7  2 Bk  kc    kf    -         2725   20    0 
+ezRooler  958127302  8  1 Bc  brc   br    kf        2705  110    0 
+ezRooler  958127370  9  9 c   f     -     -         2595   10    0 
+ezRooler  958127449  8  8 c   cc    f     -         2585   30    0 
+ezRooler  958127511  8  7 f   -     -     -         2555    0    0 
+ezRooler  958127544  8  6 r   bf    -     -         2555   40    0 
+ezRooler  958127603  8  5 f   -     -     -         2515    0    0 
+ezRooler  958127669  8  4 f   -     -     -         2515    0    0 
+ezRooler  958127724  8  3 c   b     b     -         2515   40  105 
+ezRooler  958127770  8  2 Bk  k     k     kf        2580   10    0 
+ezRooler  958127819  8  1 Bc  kf    -     -         2570   10    0 
+ezRooler  958127863  8  8 f   -     -     Q         2560    0    0 
+ezRooler  958336630  3  2 Br  b     bc    c         3660  100    0 Jh Kd
+ezRooler  958336658  3  1 Bc  b     b     -         3560   40   70 
+ezRooler  958336709  3  3 r   b     -     -         3590   30   60 
+ezRooler  958336723  4  2 Bc  f     -     -         3620   20    0 
+ezRooler  958336750  4  1 Bcc k     kf    -         3600   20    0 
+ezRooler  958336780  4  4 r   b     -     -         3580   30   55 
+ezRooler  958336794  4  3 r   br    b     b         3605   90    0 Kh Kc
+ezRooler  958336830  3  2 Bc  b     b     -         3515   50   85 
+ezRooler  958336852  3  1 Bcc b     -     -         3550   30   50 
+ezRooler  958336868  3  3 f   -     -     -         3570    0    0 
+ezRooler  958336877  3  3 r   r     f     -         3570   40    0 
+ezRooler  958336897  3  2 Bc  c     b     -         3530   50   80 
+ezRooler  958336914  3  1 Bc  b     -     -         3560   20   30 
+ezRooler  958336922  3  3 r   c     c     f         3570   50    0 
+ezRooler  958336951  3  2 Bk  f     -     -         3520   10    0 
+ezRooler  958336966  4  1 Bc  kf    -     -         3510   10    0 
+ezRooler  958336992  4  4 c   f     -     -         3500   10    0 
+ezRooler  958337010  4  3 f   -     -     -         3490    0    0 
+ezRooler  958337023  4  2 Bk  k     rf    -         3490   50    0 
+ezRooler  958337048  4  1 Bc  br    b     -         3440   70  130 
+ezRooler  958337067  3  3 f   -     -     -         3500    0    0 
+ezRooler  958337072  3  3 r   -     -     -         3500   20   35 
+ezRooler  958337082  3  2 Bc  c     r     b         3515   90  200 4s Ks
+ezRooler  958337112  3  1 Br  -     -     -         3625   20   30 
+ezRooler  958337124  3  3 r   f     -     -         3635   20    0 
+ezRooler  958337135  3  2 Bk  f     -     -         3615   10    0 
+ezRooler  958337147  3  1 Bf  -     -     -         3605    5    0 
+ezRooler  958337167  3  3 cc  c     c     c         3600   70    0 8h 5s
+ezRooler  958337193  3  2 Bk  b     -     -         3530   20   30 
+ezRooler  958337206  3  1 Bc  b     bf    -         3540   40    0 
+ezRooler  958337228  3  3 r   r     c     f         3500   60    0 
+ezRooler  958337247  3  2 Bk  k     k     b         3440   30   45 
+ezRooler  958337267  3  1 Bc  kf    -     -         3455   20    0 
+ezRooler  958337277  3  3 f   -     -     -         3435    0    0 
+ezRooler  958337279  3  2 Br  bc    c     c         3435   90  180 Ah Jh
+ezRooler  958337303  3  1 Br  br    b     k         3525   70    0 Js As
+ezRooler  958337326  3  3 f   -     -     -         3455    0    0 
+ezRooler  958337331  3  2 B   -     -     -         3455   10   15 
+ezRooler  958337335  3  1 Bc  kf    -     -         3460   10    0 
+ezRooler  958337357  3  3 r   r     b     -         3450   60  110 
+ezRooler  958337376  3  2 Bf  -     -     -         3500   10    0 
+ezRooler  958337383  3  1 Bc  b     -     -         3490   30   60 
+ezRooler  958337393  3  3 r   bf    -     -         3520   30    0 
+ezRooler  958337412  3  2 Bc  k     c     c         3490   60  120 Jh 4c
+ezRooler  958337443  3  1 Bf  -     -     -         3550    5    0 
+ezRooler  958337450  3  3 f   -     -     -         3545    0    0 
+ezRooler  958337462  3  2 B   -     -     -         3545   10   15 
+ezRooler  958337469  3  1 Bf  -     -     -         3550    5    0 
+ezRooler  958337472  3  3 r   -     -     -         3545   20   35 
+ezRooler  958337477  3  2 Bf  -     -     -         3560   10    0 
+ezRooler  958337484  3  1 Bc  kc    k     bf        3550   50    0 
+ezRooler  958337508  4  3 r   f     -     -         3500   20    0 
+ezRooler  958337539  4  2 Bc  kc    br    b         3480  110  225 Ad Jd
+ezRooler  958337570  4  1 Bc  kc    k     kf        3595   20    0 
+ezRooler  958337597  4  4 c   k     c     c         3575   60   67 Ad 3s
+ezRooler  958337616  3  2 f   -     -     -         3582    0    0 
+ezRooler  958337637  3  2 Bc  k     r     -         3582   60  100 
+ezRooler  958337656  3  1 Bf  -     -     -         3622    5    0 
+ezRooler  958337662  3  3 f   -     -     -         3617    0    0 
+ezRooler  958337665  3  2 Bf  -     -     -         3617   10    0 
+ezRooler  958337671  3  1 Bc  k     kc    kc        3607   60    0 As 8h
+ezRooler  958337694  3  3 r   -     -     -         3547   20   35 
+ezRooler  958337702  3  2 Bc  br    -     -         3562   50  110 
+ezRooler  958337718  3  1 Bc  kf    -     -         3622   10    0 
+ezRooler  958337737  3  3 c   b     b     b         3612   60  105 
+ezRooler  958337756  3  2 Bc  b     br    b         3657  110    0 9c Ts
+ezRooler  958337774  3  1 Br  b     -     -         3547   30   50 
+ezRooler  958337786  3  3 rc  b     b     b         3567   80  145 
+ezRooler  958337810  3  2 Bc  kc    kc    kc        3632   70    0 9s Jh
+ezRooler  958337830  3  1 Br  b     -     -         3562   40   80 
+ezRooler  958337844  3  3 r   -     -     -         3602   20   35 
+ezRooler  958337847  3  2 Bc  k     c     k         3617   40    0 5h 7h
+ezRooler  958337869  4  1 Bc  kc    k     kc        3577   50    0 6c 5c
+ezRooler  958337901  5  5 r   b     b     b         3527   70    0 3c 3d
+ezRooler  958337919  5  4 f   -     -     -         3457    0    0 
+ezRooler  958337934  5  3 cc  b     -     -         3457   30   65 
+ezRooler  958337961  6  2 Bc  kc    kc    f         3492   70    0 
+ezRooler  958338010  5  1 Bc  k     k     bc        3422   60   65 Jh 9h
+ezRooler  958338032  4  4 f   -     -     -         3427    0    0 
+ezRooler  958338043  4  3 r   -     -     -         3427   20   35 
+ezRooler  958338048  4  2 Bc  c     c     b         3442   70    0 6c 8h
+ezRooler  958338074  4  1 Br  b     b     b         3372   80  200 Ad Kh
+ezRooler  958338100  4  4 r   -     -     -         3492   20   35 
+ezRooler  958338109  4  3 c   c     c     c         3507   60    0 Js 2s
+ezRooler  958338125  4  2 Bk  kf    -     -         3447   10    0 
+ezRooler  958338160  4  1 Bf  -     -     -         3437    5    0 
+ezRooler  958338174  4  4 c   c     c     f         3432   40    0 
+ezRooler  958338209  4  3 r   kf    -     -         3392   20    0 
+ezRooler  958338246  4  2 Bk  kc    kc    k         3372   40    0 5s Td
+ezRooler  958338282  4  1 Bf  -     -     -         3332    5    0 
+ezRooler  958338306  5  5 f   -     -     -         3327    0    0 
+ezRooler  958338323  5  4 f   -     -     -         3327    0    0 
+ezRooler  958338368  5  3 cc  k     k     k         3327   20    0 Js 8s
+ezRooler  958338429  7  2 Bf  -     -     -         3307   10    0 
+ezRooler  958338507  7  1 Bc  kf    -     -         3297   10    0 
+ezRooler  958338556  7  7 f   -     -     -         3287    0    0 
+ezRooler  958338612  6  5 c   cc    kc    brf       3287  120    0 
+ezRooler  958338683  6  4 rc  rr    b     b         3167  110    0 3s Ad
+ezRooler  958338772  7  3 r   b     b     k         3057   50  175 Kh Th
+ezRooler  958338812  7  2 Bk  c     r     r         3182  100  280 6s 6d
+ezRooler  958338877  5  1 Bc  kf    -     -         3362   10    0 
+ezRooler  958338899  4  4 cc  k     f     -         3352   20    0 
+ezRooler  958338935  3  2 B   -     -     -         3332   10   15 
+ezRooler  958612800  9  8 Q   -     -     -         1864    0    0 
+ezRooler  958613255  8  7 f   -     -     -         1864    0    0 
+ezRooler  958613314  8  6 f   -     -     -         1864    0    0 
+ezRooler  958613370  9  5 f   -     -     -         1864    0    0 
+ezRooler  958613432  9  4 f   -     -     -         1864    0    0 
+ezRooler  958613511  9  3 fQ  -     -     -         1864    0    0 
+ezRooler  958685400 10  8 c   k     k     f         1864   10    0 
+ezRooler  958685463 10  7 c   bc    kc    kc        1854   80  295 Jh Jd
+ezRooler  958685519 10  6 cc  k     f     -         2069   30    0 
+ezRooler  958685604 10  5 f   -     -     -         2039    0    0 
+ezRooler  958685696 10  4 f   -     -     -         2039    0    0 
+ezRooler  958685764 10  3 f   -     -     -         2039    0    0 
+ezRooler  958685803 10  2 Bf  -     -     -         2039   10    0 
+ezRooler  958685846 10  1 Bf  -     -     -         2029    5    0 
+ezRooler  958685862 10 10 c   f     -     -         2024   10    0 
+ezRooler  958685919 10  9 f   -     -     -         2014    0    0 
+ezRooler  958685959  9  7 Q   -     -     -         2014    0    0 
+ezRooler  958769278  4  2 Bc  kc    kc    b         2064   70  145 
+ezRooler  958769320  5  1 Bf  -     -     -         2139    5    0 
+ezRooler  958769368  5  5 r   c     b     k         2134   50    0 Ks Qd
+ezRooler  958769454  5  4 c   k     b     b         2084   50   95 
+ezRooler  958769485  4  3 rc  bc    kc    k         2129   70  200 Ad 3s
+ezRooler  958769549  6  2 Bc  kf    -     -         2259   20    0 
+ezRooler  958769576  6  1 Bf  -     -     -         2239    5    0 
+ezRooler  958769633  8  8 cc  rc    r     c         2234  140    0 Ac Kh
+ezRooler  958769748  9  9 f   -     -     -         2094    0    0 
+ezRooler  958769793  6  5 r   b     b     -         2094   50  120 
+ezRooler  958769816  8  5 f   -     -     -         2164    0    0 
+ezRooler  958769870  7  3 f   -     -     -         2164    0    0 
+ezRooler  958769925  7  3 f   -     -     -         2164    0    0 
+ezRooler  958769977  7  2 BQ  -     -     -         2164   10    0 
+ezRooler  958770158  7  5 f   -     -     -         2154    0    0 
+ezRooler  958770197  7  4 f   -     -     -         2154    0    0 
+ezRooler  958770252  7  3 f   -     -     -         2154    0    0 
+ezRooler  958770309  8  2 Bc  c     k     b         2154   50  160 
+ezRooler  958770387  7  1 Bc  kf    -     -         2264   20    0 
+ezRooler  958770437  7  7 c   f     -     -         2244   20    0 
+ezRooler  958770475  7  6 r   b     b     -         2224   50  130 
+ezRooler  958770533  5  4 f   -     -     -         2304    0    0 
+ezRooler  958770549  6  3 cc  f     -     -         2304   20    0 
+ezRooler  958770604  9  2 Bk  kf    -     -         2284   10    0 
+ezRooler  958770648 10  1 Bf  -     -     -         2274    5    0 
+ezRooler  958770713  8  8 f   -     -     -         2269    0    0 
+ezRooler  958770743  9  8 f   -     -     -         2269    0    0 
+ezRooler  958770775  7  5 f   -     -     -         2269    0    0 
+ezRooler  958770835  8  4 r   b     k     b         2269   50  125 
+ezRooler  958770886  7  3 f   -     -     -         2344    0    0 
+ezRooler  958770942  9  2 Bk  kc    kf    -         2344   20    0 
+ezRooler  958770992  9  1 Bf  -     -     -         2324    5    0 
+ezRooler  958771031  9  9 f   -     -     -         2319    0    0 
+ezRooler  958771060  9  8 c   f     -     -         2319   10    0 
+ezRooler  958771118  9  7 f   -     -     -         2309    0    0 
+ezRooler  958771160 10  7 f   -     -     Q         2309    0    0 
+ezRooler  958954540 10  7 c   f     -     -         2159   10    0 
+ezRooler  958954595 10  6 c   kc    kc    b         2149   60  220 9s Kh
+ezRooler  958954665 10  5 cc  b     b     b         2269   70  215 Tc 8c
+ezRooler  958954715 10  4 c   b     r     c         2534   80  102 Jc Ac
+ezRooler  958954756 10  3 c   c     c     c         2556   60  180 Ah Tc
+ezRooler  958954795 10  2 Bk  k     k     f         2666   10    0 
+ezRooler  958954875 10  1 Bc  k     b     b         2656   50  100 
+ezRooler  958954944 10 10 f   -     -     -         2706    0    0 
+ezRooler  958954963 10  9 c   c     f     -         2706   30    0 
+ezRooler  958955052 10  8 f   -     -     Q         2656    0    0 
+ezRooler  958984502 10  4 Q   -     -     -         3079    0    0 
+ezRooler  959371134  5  3 f   -     -     -         4554    0    0 
+ezRooler  959371162  5  2 Bc  b     b     b         4554   70    0 Kd As
+ezRooler  959371194  5  1 Bc  b     b     -         4484   50   90 
+ezRooler  959371217  5  5 c   k     f     -         4524   10    0 
+ezRooler  959371240  6  4 f   -     -     -         4514    0    0 
+ezRooler  959371257  6  3 f   -     -     -         4514    0    0 
+ezRooler  959371292  6  2 Bc  b     b     -         4514   50   85 
+ezRooler  959371321  6  1 Bf  -     -     -         4549    5    0 
+ezRooler  959371358  6  6 c   rc    c     c         4544   90    0 4c Ad
+ezRooler  959371398  6  5 f   -     -     -         4454    0    0 
+ezRooler  959371429  6  4 c   c     c     c         4454   70    0 Ac Th
+ezRooler  959371459  6  3 f   -     -     -         4384    0    0 
+ezRooler  959371491  6  2 Bc  kf    -     -         4384   20    0 
+ezRooler  959371523  6  1 Bc  kc    kc    kf        4364   60    0 
+ezRooler  959371566  6  6 c   c     bc    f         4304   60    0 
+ezRooler  959371616  6  5 cc  c     c     f         4244   70    0 
+ezRooler  959371647  6  4 f   -     -     -         4174    0    0 
+ezRooler  959371675  6  3 cc  kc    kf    -         4174   30    0 
+ezRooler  959371713  6  2 Bk  b     -     -         4144   20   35 
+ezRooler  959371746  6  1 Bc  bc    kc    kc        4159   80  230 9d Jh
+ezRooler  959371775  6  6 f   -     -     -         4309    0    0 
+ezRooler  959371802  6  5 rc  c     f     -         4309   50    0 
+ezRooler  959371823  6  4 f   -     -     -         4259    0    0 
+ezRooler  959371839  6  3 rc  br    b     b         4259  110  285 
+ezRooler  959371870  7  3 f   -     -     -         4434    0    0 
+ezRooler  959371898  8  3 f   -     -     -         4434    0    0 
+ezRooler  959371907  8  2 B   -     -     -         4434   10   15 
+ezRooler  959371922  9  1 Bf  -     -     -         4439    5    0 
+ezRooler  959371944  9  9 f   -     -     -         4434    0    0 
+ezRooler  959371959  9  8 cc  c     k     f         4434   40    0 
+ezRooler  959372001 10  8 f   -     -     -         4394    0    0 
+ezRooler  959372039 10  7 f   -     -     -         4394    0    0 
+ezRooler  959372069 10  6 f   -     -     -         4394    0    0 
+ezRooler  959372115 10  5 f   -     -     -         4394    0    0 
+ezRooler  959372149 10  4 cc  kc    kc    kc        4394   70    0 7d Jd
+ezRooler  959372183 10  3 cc  kc    kr    b         4324   90  215 
+ezRooler  959372215  9  2 Bf  -     -     -         4449   10    0 
+ezRooler  959372239  9  1 Bf  -     -     -         4439    5    0 
+ezRooler  959372270  9  9 f   -     -     -         4434    0    0 
+ezRooler  959372319  9  8 f   -     -     -         4434    0    0 
+ezRooler  959372358  9  7 f   -     -     -         4434    0    0 
+ezRooler  959372393  9  6 f   -     -     -         4434    0    0 
+ezRooler  959372448  9  5 f   -     -     -         4434    0    0 
+ezRooler  959372490 10  4 f   -     -     -         4434    0    0 
+ezRooler  959372509 10  3 cc  kf    -     -         4434   20    0 
+ezRooler  959372556 10  2 Bk  k     b     -         4414   30   50 
+ezRooler  959372582  9  1 Bf  -     -     -         4434    5    0 
+ezRooler  959372616  8  8 f   -     -     -         4429    0    0 
+ezRooler  959372643  8  7 rc  c     c     c         4429   80    0 Ac Qs
+ezRooler  959372675 10  7 rc  bc    kc    kf        4349   70    0 
+ezRooler  959372730 10  6 KQ  -     -     -         4279    0    0 
+ezRooler  959676047  8  8 f   -     -     -         6487    0    0 
+ezRooler  959676080  8  7 cc  f     -     -         6487   20    0 
+ezRooler  959676106  7  5 f   -     -     -         6467    0    0 
+ezRooler  959676154  8  5 c   k     b     -         6467   30   65 
+ezRooler  959676202  8  4 f   -     -     -         6502    0    0 
+ezRooler  959676286  8  3 f   -     -     -         6502    0    0 
+ezRooler  959676331  9  2 Bc  kf    -     -         6502   20    0 
+ezRooler  959676374  9  1 Bc  kc    kf    -         6482   30    0 
+ezRooler  959676458  9  9 cc  c     f     -         6452   50    0 
+ezRooler  959676497 10  8 f   -     -     -         6402    0    0 
+ezRooler  959676544  9  6 c   r     b     k         6402   50    0 Jh 8c
+ezRooler  959676586  9  5 f   -     -     -         6352    0    0 
+ezRooler  959676648  9  4 c   f     -     -         6352   10    0 
+ezRooler  959676712  9  3 c   b     b     b         6342   60  130 Kd Ts
+ezRooler  959676786 10  2 Bk  kf    -     -         6412   10    0 
+ezRooler  959676845 10  1 Bf  -     -     -         6402    5    0 
+ezRooler  959676891 10 10 f   -     -     -         6397    0    0 
+ezRooler  959676947  9  8 c   c     k     b         6397   50    0 4s 6s
+ezRooler  959677002 10  8 f   -     -     -         6347    0    0 
+ezRooler  959677055 10  7 cc  kf    -     -         6347   20    0 
+ezRooler  959677128 10  6 f   -     -     -         6327    0    0 
+ezRooler  959677164 10  5 f   -     -     -         6327    0    0 
+ezRooler  959677212 10  4 cc  kc    kc    kf        6327   50    0 
+ezRooler  959677281 10  3 c   c     kf    -         6277   20    0 
+ezRooler  959677322 10  2 Bf  -     -     -         6257   10    0 
+ezRooler  959677375 10  1 Bc  k     k     k         6247   10    0 Qd 9c
+ezRooler  959677418 10 10 f   -     -     -         6237    0    0 
+ezRooler  959677511 10  9 f   -     -     -         6237    0    0 
+ezRooler  959677568 10  8 c   f     -     -         6237   10    0 
+ezRooler  959677600 10  7 f   -     -     -         6227    0    0 
+ezRooler  959677654 10  7 c   f     -     -         6227   10    0 
+ezRooler  959677707 10  5 cc  kf    -     -         6217   20    0 
+ezRooler  959677745 10  4 cc  c     r     b         6197  100  200 Tc Kc
+ezRooler  959677819 10  3 f   -     -     -         6297    0    0 
+ezRooler  959677972  9  2 Bf  -     -     -         6297   10    0 
+ezRooler  959678051  9  1 Bcc kcc   kf    -         6287   70    0 
+ezRooler  959678119  9  9 f   -     -     -         6217    0    0 
+ezRooler  959678196  9  8 f   -     -     -         6217    0    0 
+ezRooler  959678258 10  8 f   -     -     -         6217    0    0 
+ezRooler  959678339 10  7 cc  c     ccc   f         6217  110    0 
+ezRooler  959678423 10  6 f   -     -     -         6107    0    0 
+ezRooler  959678441 10  5 cc  k     k     bc        6107   60    0 Kh Ts
+ezRooler  959678515 10  4 ccc rc    br    b         6047  150  440 
+ezRooler  959678635 10  3 f   -     -     -         6337    0    0 
+ezRooler  959678678 10  2 Bk  kf    -     -         6337   10    0 
+ezRooler  959678751 10  1 Bc  kc    kc    kf        6327   50    0 
+ezRooler  959678810 10 10 f   -     -     -         6277    0    0 
+ezRooler  959678919 10  9 r   b     b     f         6277   70    0 
+ezRooler  959678992 10  8 c   c     r     c         6207   90    0 8s Jh
+ezRooler  959679077 10  7 f   -     -     -         6117    0    0 
+ezRooler  959679128 10  6 f   -     -     -         6117    0    0 
+ezRooler  959679206 10  5 f   -     -     -         6117    0    0 
+ezRooler  959679262 10  4 f   -     -     -         6117    0    0 
+ezRooler  959679384 10  3 f   -     -     -         6117    0    0 
+ezRooler  959679444 10  2 Bc  kf    -     -         6117   30    0 
+ezRooler  959679552 10  1 Bf  -     Q     -         6087    5    0 

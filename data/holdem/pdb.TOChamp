@@ -1,0 +1,81 @@
+TOChamp   959809296  9  8 f   -     -     -         1020    0    0 
+TOChamp   959809340  8  6 f   -     -     -         1120    0    0 
+TOChamp   959809421  8  5 f   -     -     -         1100    0    0 
+TOChamp   959809466  8  4 c   b     k     b         1100   40   85 9c Jc
+TOChamp   959809500  8  3 f   -     -     -         1135    0    0 
+TOChamp   959809529  8  2 Br  b     kf    -         1130   30    0 
+TOChamp   959809572  8  1 Bc  b     b     -         1210   40   80 
+TOChamp   959809645  8  8 f   -     -     -         1275    0    0 
+TOChamp   959809682  8  7 f   -     -     -         1325    0    0 
+TOChamp   959809707  8  6 r   b     b     b         1325   70  225 Qd Qh
+TOChamp   959809762  6  4 f   -     -     -         1450    0    0 
+TOChamp   959809800  7  3 f   -     -     -         1610    0    0 
+TOChamp   959809852  8  3 f   -     -     -         1610    0    0 
+TOChamp   959809896  8  2 Bk  f     -     -         1610   10    0 
+TOChamp   959809982  8  1 Bf  -     -     -         1550    5    0 
+TOChamp   959810016  7  7 f   -     -     -         1545    0    0 
+TOChamp   959810053  9  7 f   -     -     -         1545    0    0 
+TOChamp   959810096  9  7 f   -     -     -         1545    0    0 
+TOChamp   959810140 10  6 c   b     ccc   kf        1455  100    0 
+TOChamp   959810193 10  5 r   k     f     -         1350   20    0 
+TOChamp   959810279 10  4 f   -     -     -         1330    0    0 
+TOChamp   959810373 10  3 r   c     kf    -         1330   30    0 
+TOChamp   959810437 10  2 Bf  -     -     -         1300   10    0 
+TOChamp   959810508 10  1 Bf  -     -     -         1290    5    0 
+TOChamp   959810543 10 10 f   -     -     -         1285    0    0 
+TOChamp   959810617 10 10 f   -     -     -         1285    0    0 
+TOChamp   959810724  8  8 c   f     -     -         1255   10    0 
+TOChamp   959810814 10  7 f   -     -     -         1240    0    0 
+TOChamp   959810860 10  6 f   -     -     -         1200    0    0 
+TOChamp   959810955 10  5 f   -     -     -         1200    0    0 
+TOChamp   959810980 10  4 f   -     -     -         1200    0    0 
+TOChamp   959811042 10  3 f   -     -     -         1200    0    0 
+TOChamp   959811125 10  2 Bf  -     -     -         1200   10    0 
+TOChamp   959811224 10  1 Bf  -     -     -         1180    5    0 
+TOChamp   959811277 10 10 f   -     -     -         1170    0    0 
+TOChamp   959811361 10  9 f   -     -     -         1170    0    0 
+TOChamp   959811449 10  8 f   -     -     -         1170    0    0 
+TOChamp   959811506 10  7 f   -     -     -         1235    0    0 
+TOChamp   959811553 10  6 f   -     -     -         1215    0    0 
+TOChamp   959811615 10  5 f   -     -     -         1245    0    0 
+TOChamp   959811691 10  4 f   -     -     -         1205    0    0 
+TOChamp   959811759 10  3 f   -     -     -         1200    0    0 
+TOChamp   959811806 10  2 Bk  kf    -     -         1200   10    0 
+TOChamp   959811881 10  1 Brc b     b     bc        1150  100    0 8s Ts
+TOChamp   959811971  9  9 f   -     -     -         1010    0    0 
+TOChamp   959812029 10  9 f   -     -     -         1010    0    0 
+TOChamp   959812142 10  8 f   -     -     -         1120    0    0 
+TOChamp   959812267 10  7 f   -     -     -         1185    0    0 
+TOChamp   959812365 10  6 f   -     -     -         1185    0    0 
+TOChamp   959812468  9  4 f   -     -     -         1185    0    0 
+TOChamp   959812516 10  3 f   -     -     -         1185    0    0 
+TOChamp   959812594 10  2 Bk  k     f     -         1185   10    0 
+TOChamp   959812633 10  1 Br  bf    -     -         1175   40    0 
+TOChamp   959812691  9  9 f   -     -     -         1135    0    0 
+TOChamp   959812735 10  9 f   -     -     -         1135    0    0 
+TOChamp   959812832 10  8 r   rr    brc   bc        1120  180    0 2d 2s
+TOChamp   959812968  8  5 f   -     -     -          845    0    0 
+TOChamp   959813040  8  4 f   -     -     -          845    0    0 
+TOChamp   959813084  8  3 rc  rc    cf    -          845   90    0 
+TOChamp   959813178  8  2 Bk  kf    -     -          690   10    0 
+TOChamp   959813261  8  1 Bc  kf    -     -          575   20    0 
+TOChamp   959813298  7  7 f   -     -     -          595    0    0 
+TOChamp   959813367  7  6 f   -     -     -          445    0    0 
+TOChamp   959813410  7  5 rc  rr    rr    rc         315  220    0 Jd Td
+TOChamp   959813471  7  3 Q   -     -     -          220    0    0 
+TOChamp   959813617  8  6 r   b     f     -         1225   30    0 
+TOChamp   959813681  7  4 f   -     -     -         1105    0    0 
+TOChamp   959813764  8  4 f   -     -     -          910    0    0 
+TOChamp   959813828  8  3 r   b     k     k          932   30   50 5c Ac
+TOChamp   959813887  9  2 Br  b     b     b         1082   70  290 Ah Ac
+TOChamp   959813960  9  1 Bc  kf    -     -         1327   30    0 
+TOChamp   959814010  9  9 f   -     -     -         1272    0    0 
+TOChamp   959814056  9  8 f   -     -     -         1262    0    0 
+TOChamp   959814118  9  7 f   -     -     -         1262    0    0 
+TOChamp   959814216 10  7 f   -     -     -         1417    0    0 
+TOChamp   959814288  9  5 f   -     -     -         1327    0    0 
+TOChamp   959814374  8  4 f   -     -     -         1302    0    0 
+TOChamp   959814429  8  3 cc  kc    kc    bc        1507   90    0 3h Ah
+TOChamp   959814508  8  2 Bk  f     -     -         1387   10    0 
+TOChamp   959814562  6  1 Bf  -     -     -         1437    5    0 
+TOChamp   959814640  5  5 KQ  -     -     -         1272    0    0 

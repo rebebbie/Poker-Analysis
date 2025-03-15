@@ -1,0 +1,109 @@
+ZenMaster 958858842  3  2 Bf  -     -     -        14854   50    0 
+ZenMaster 958858856  3  1 Bf  -     -     -        14804   25    0 
+ZenMaster 958858865  3  3 f   -     -     -        14779    0    0 
+ZenMaster 958858872  3  2 Bk  f     -     -        14779   50    0 
+ZenMaster 958858894  3  1 Bc  b     b     b        14729  300  650 Ac 3d
+ZenMaster 958858919  3  3 f   -     -     -        15079    0    0 
+ZenMaster 958858942  3  2 Bf  -     -     -        15079   50    0 
+ZenMaster 958858948  3  1 Br  b     -     -        15029  150  250 
+ZenMaster 958858958  3  3 f   -     -     -        15129    0    0 
+ZenMaster 958858969  3  2 Bf  -     -     -        15129   50    0 
+ZenMaster 958858975  3  1 Br  -     -     -        15079  100  150 
+ZenMaster 958858980  3  3 rr  b     bc    c        15129  550 1150 Th Ad
+ZenMaster 958859024  3  2 Bc  k     b     -        15729  200  325 
+ZenMaster 958859054  3  1 Bf  -     -     -        15854   25    0 
+ZenMaster 958859060  3  3 r   b     b     b        15829  350  625 
+ZenMaster 958859075  3  2 Bc  c     k     f        16104  150    0 
+ZenMaster 958859110  3  1 Bf  -     -     -        15954   25    0 
+ZenMaster 958859114  3  3 f   -     -     -        15929    0    0 
+ZenMaster 958859128  3  2 B   -     -     -        15929   50   75 
+ZenMaster 958859134  3  1 Bf  -     -     -        15954   25    0 
+ZenMaster 958859140  3  3 f   -     -     -        15929    0    0 
+ZenMaster 958859147  3  2 Bk  c     b     -        15929  200  300 
+ZenMaster 958859160  3  1 Bf  -     -     -        16029   25    0 
+ZenMaster 958859168  3  3 r   bc    r     r        16004  600 1225 3d 3s
+ZenMaster 958859198  3  2 B   -     -     -        16629   50   75 
+ZenMaster 958859206  3  1 Br  b     b     b        16654  400  750 
+ZenMaster 958859233  4  3 f   -     -     -        17004    0    0 
+ZenMaster 958859244  4  2 Bk  b     kc    kc       17004  300    0 6h Js
+ZenMaster 958859282  4  1 Br  b     -     -        16704  150  250 
+ZenMaster 958859294  4  4 r   b     -     -        16804  200  550 
+ZenMaster 958859319  4  3 f   -     -     -        17154    0    0 
+ZenMaster 958859331  4  2 Bc  kf    -     -        17154  100    0 
+ZenMaster 958859345  4  1 Brc bc    kf    -        17054  300    0 
+ZenMaster 958859436  4  4 f   -     -     -        16754    0    0 
+ZenMaster 958859461  4  3 f   -     -     -        16754    0    0 
+ZenMaster 958859467  4  2 Bk  k     k     k        16754   50  150 6c 9c
+ZenMaster 958859490  4  1 Bf  -     -     -        16854   25    0 
+ZenMaster 958859499  4  4 r   b     b     b        16829  400  875 Qh Ah
+ZenMaster 958859513  4  3 f   -     -     -        17304    0    0 
+ZenMaster 958859532  4  2 Bk  f     -     -        17304   50    0 
+ZenMaster 958859544  4  1 Bf  -     -     -        17254   25    0 
+ZenMaster 958859549  4  4 f   -     -     -        17229    0    0 
+ZenMaster 958859559  4  3 r   b     -     -        17229  150  275 
+ZenMaster 958859571  4  2 Bf  -     -     -        17354   50    0 
+ZenMaster 958859590  4  1 Bf  -     -     -        17304   25    0 
+ZenMaster 958859596  4  4 f   -     -     -        17279    0    0 
+ZenMaster 958859599  4  3 f   -     -     -        17279    0    0 
+ZenMaster 958859620  4  2 Bc  f     -     -        17279  100    0 
+ZenMaster 958859633  4  1 Bf  -     -     -        17179   25    0 
+ZenMaster 958859661  5  5 r   c     f     -        17154  150    0 
+ZenMaster 958859682  5  4 f   -     -     -        17004    0    0 
+ZenMaster 958859706  5  3 f   -     -     -        17004    0    0 
+ZenMaster 958859724  5  2 Bc  kf    -     -        17004  100    0 
+ZenMaster 958859754  5  1 Bf  -     -     -        16904   25    0 
+ZenMaster 958859780  5  5 f   -     -     -        16879    0    0 
+ZenMaster 958859796  5  4 rc  k     c     f        16879  250    0 
+ZenMaster 958859826  5  3 r   b     b     -        16629  250  425 
+ZenMaster 958859838  5  2 Bf  -     -     -        16804   50    0 
+ZenMaster 958859883  5  1 Bf  -     -     -        16754   25    0 
+ZenMaster 958859900  5  5 r   b     b     -        16729  250  425 
+ZenMaster 958859918  5  4 f   -     -     -        16904    0    0 
+ZenMaster 958859932  5  3 f   -     -     -        16904    0    0 
+ZenMaster 958859952  5  2 Bf  -     -     -        16904   50    0 
+ZenMaster 958859973  5  1 Bf  -     -     -        16854   25    0 
+ZenMaster 958859980  5  5 r   brc   c     k        16829  400    0 7s 8s
+ZenMaster 958860029  5  4 f   -     -     -        16429    0    0 
+ZenMaster 958860057  5  3 f   -     -     -        16429    0    0 
+ZenMaster 958860074  5  2 Bc  f     -     -        16429  100    0 
+ZenMaster 958860083  5  1 Bf  -     -     -        16329   25    0 
+ZenMaster 958860094  5  5 r   k     r     b        16304  450  487 6h Ac
+ZenMaster 958860120  5  4 f   -     -     -        16341    0    0 
+ZenMaster 958860132  5  3 f   -     -     -        16341    0    0 
+ZenMaster 958860163  5  2 Bf  -     -     -        16341   50    0 
+ZenMaster 958860179  5  1 Bf  -     -     -        16291   25    0 
+ZenMaster 958860186  5  5 r   -     -     -        16266  100  175 
+ZenMaster 958860195  5  4 f   -     -     -        16341    0    0 
+ZenMaster 958860209  5  3 f   -     -     -        16341    0    0 
+ZenMaster 958860219  4  2 Bf  -     -     -        16341   50    0 
+ZenMaster 958860239  4  1 Bc  k     b     kf       16291  150    0 
+ZenMaster 958860263  4  4 f   -     -     -        16141    0    0 
+ZenMaster 958860304  4  3 f   -     -     -        16141    0    0 
+ZenMaster 958860317  4  2 Bf  -     -     -        16141   50    0 
+ZenMaster 958860328  4  1 Bf  -     -     -        16091   25    0 
+ZenMaster 958860336  4  4 r   -     -     -        16066  100  175 
+ZenMaster 958860344  4  3 f   -     -     -        16141    0    0 
+ZenMaster 958860364  4  2 Bc  c     b     -        16141  250  400 
+ZenMaster 958860384  4  1 Bc  kf    -     -        16291  100    0 
+ZenMaster 958860404  4  4 f   -     -     -        16191    0    0 
+ZenMaster 958860409  4  3 f   -     -     -        16191    0    0 
+ZenMaster 958860423  4  2 Bc  f     -     -        16191  100    0 
+ZenMaster 958860446  4  1 Bf  -     -     -        16091   25    0 
+ZenMaster 958860455  4  4 f   -     -     -        16066    0    0 
+ZenMaster 958860468  4  3 f   -     -     -        16066    0    0 
+ZenMaster 958860497  4  2 Bk  b     k     c        16066  200  400 4s Jd
+ZenMaster 958860535  4  1 Bf  -     -     -        16266   25    0 
+ZenMaster 958860546  4  4 r   f     -     -        16241  100    0 
+ZenMaster 958860559  4  3 f   -     -     -        16141    0    0 
+ZenMaster 958860564  4  2 Bf  -     -     -        16141   50    0 
+ZenMaster 958860587  4  1 Bcc b     k     kf       16091  150    0 
+ZenMaster 958860618  4  4 f   -     -     -        15941    0    0 
+ZenMaster 958860621  4  3 f   -     -     -        15941    0    0 
+ZenMaster 958860638  4  2 Bf  -     -     -        15941   50    0 
+ZenMaster 958860644  4  1 Brr b     b     -        15891  350  600 
+ZenMaster 958860662  5  5 r   b     b     -        16141  300  575 
+ZenMaster 958860682  5  4 r   r     b     b        16416  400  875 Ad Js
+ZenMaster 958860701  5  3 f   -     -     -        16891    0    0 
+ZenMaster 958860711  5  2 B   -     -     -        16891   50   75 
+ZenMaster 958860716  5  1 Bf  -     -     -        16916   25    0 
+ZenMaster 958860728  5  3 Q   -     -     -        16891    0    0 

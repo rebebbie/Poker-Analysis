@@ -1,0 +1,892 @@
+Carenbon  957231896  5  3 f   -     -     -         4471    0    0 
+Carenbon  957231918  5  2 Bk  kc    k     k         4471   40    0 Ad Ks
+Carenbon  957231951  4  1 Bf  -     -     -         4431   10    0 
+Carenbon  957231970  5  4 f   -     -     -         4421    0    0 
+Carenbon  957232000  5  3 f   -     -     -         4421    0    0 
+Carenbon  957232013  5  2 Bk  kf    -     -         4421   20    0 
+Carenbon  957232045  5  1 Bc  kf    -     -         4401   40    0 
+Carenbon  957232075  5  5 c   k     f     -         4361   20    0 
+Carenbon  957232105  7  4 c   kc    kc    b         4341  120  330 Tc Ad
+Carenbon  957232163  7  3 f   -     -     -         4551    0    0 
+Carenbon  957232214  8  2 Bk  f     -     -         4551   20    0 
+Carenbon  957232273  8  1 Br  b     -     -         4531   60  100 
+Carenbon  957232327 10 10 c   c     k     k         4571   40    0 9s Js
+Carenbon  957232395 10  9 f   -     -     -         4531    0    0 
+Carenbon  957232473  9  7 c   f     -     -         4531   20    0 
+Carenbon  957232518  9  8 f   -     -     -         4511    0    0 
+Carenbon  957232553  8  6 f   -     -     -         4511    0    0 
+Carenbon  957232593  8  5 cc  k     f     -         4511   40    0 
+Carenbon  957232638  8  4 c   b     -     -         4471   40  100 
+Carenbon  957232666  8  3 f   -     -     -         4531    0    0 
+Carenbon  957232707  8  2 Bk  k     c     f         4531   60    0 
+Carenbon  957232743  8  1 Bf  -     -     -         4471   10    0 
+Carenbon  957232785  8  8 f   -     -     -         4461    0    0 
+Carenbon  957232822  8  7 c   r     b     -         4461  100  200 
+Carenbon  957232870  8  6 c   r     b     b         4561  140  500 Jd Ah
+Carenbon  957232924  6  4 f   -     -     -         4921    0    0 
+Carenbon  957232941  6  4 f   -     -     -         4921    0    0 
+Carenbon  957232962  6  3 cc  kc    kc    b         4921  140  430 7s 7h
+Carenbon  957233035  6  2 Bk  k     k     b         5211   60   90 
+Carenbon  957233073  6  1 Bc  kf    -     -         5241   40    0 
+Carenbon  957233111  6  6 f   -     -     -         5201    0    0 
+Carenbon  957233147  5  4 f   -     -     -         5201    0    0 
+Carenbon  957233183  5  3 f   -     -     -         5201    0    0 
+Carenbon  957233199  5  2 Bf  -     -     -         5201   20    0 
+Carenbon  957233206  5  1 Bc  k     k     k         5181   20    0 8c 4c
+Carenbon  957233237  5  5 f   -     -     -         5161    0    0 
+Carenbon  957233270  5  4 f   -     -     -         5161    0    0 
+Carenbon  957233284  5  3 f   -     -     -         5161    0    0 
+Carenbon  957233290  5  2 Bc  kf    -     -         5161   40    0 
+Carenbon  957233317  5  1 Br  kc    kc    kc        5121  160  540 Ad Ah
+Carenbon  957233381  5  5 f   -     -     -         5501    0    0 
+Carenbon  957233409  5  4 f   -     -     -         5501    0    0 
+Carenbon  957233435  5  3 c   k     k     k         5501   20   50 Qs 6s
+Carenbon  957233469  5  2 Bf  -     -     -         5531   20    0 
+Carenbon  957233482  5  1 Bc  kf    -     -         5511   20    0 
+Carenbon  957233522  5  5 f   -     -     -         5491    0    0 
+Carenbon  957233553  5  4 c   k     f     -         5491   20    0 
+Carenbon  957233615  5  3 r   b     -     -         5471   60  110 
+Carenbon  957233646  5  2 Bk  k     k     f         5521   20    0 
+Carenbon  957233681  5  1 Bf  -     -     -         5501   10    0 
+Carenbon  957233718  5  5 c   c     c     c         5491  140    0 Jc Ah
+Carenbon  957233741  5  4 f   -     -     -         5351    0    0 
+Carenbon  957233774  6  4 c   k     c     k         5351   60  140 Ts Jc
+Carenbon  957233870  7  4 cc  b     -     -         5431   60  210 
+Carenbon  957233904  7  3 c   k     k     k         5581   20   70 5h Ad
+Carenbon  957233936  7  2 Bk  b     -     -         5631   40   70 
+Carenbon  957233955  7  1 Bc  kf    -     -         5661   20    0 
+Carenbon  957233998  8  8 c   f     -     -         5641   20    0 
+Carenbon  957234049  8  7 c   f     -     -         5621   20    0 
+Carenbon  957234109  9  6 f   -     -     -         5601    0    0 
+Carenbon  957234173  8  5 f   -     -     -         5601    0    0 
+Carenbon  957234216  8  4 f   -     -     -         5601    0    0 
+Carenbon  957234253  8  3 f   -     -     -         5601    0    0 
+Carenbon  957234286  8  2 Bk  f     -     -         5601   20    0 
+Carenbon  957234324  9  1 BQ  -     -     -         5581   10    0 
+Carenbon  957235339  8  4 f   -     -     -         5571    0    0 
+Carenbon  957235364  8  3 c   kf    -     -         5571   20    0 
+Carenbon  957235394  8  2 Bc  kf    -     -         5551   60    0 
+Carenbon  957235437  9  1 Bf  -     -     -         5481   10    0 
+Carenbon  957235518  9  9 f   -     -     -         5471    0    0 
+Carenbon  957235561  8  7 f   -     -     -         5471    0    0 
+Carenbon  957235570  8  6 c   c     f     -         5471   40    0 
+Carenbon  957235617  9  5 f   -     -     -         5431    0    0 
+Carenbon  957235646  9  4 f   -     -     -         5431    0    0 
+Carenbon  957235680  9  3 f   -     -     -         5431    0    0 
+Carenbon  957235710  9  2 Bk  k     k     kf        5431   20    0 
+Carenbon  957235735  9  1 Bc  kf    -     -         5411   20    0 
+Carenbon  957235754  8  8 c   f     -     -         5391   40    0 
+Carenbon  957235768  8  7 c   b     b     b         5351  140  310 
+Carenbon  957235801  8  6 f   -     -     -         5521    0    0 
+Carenbon  957235821  8  5 f   -     -     -         5521    0    0 
+Carenbon  957235865  8  4 f   -     -     -         5521    0    0 
+Carenbon  957235904  8  3 f   -     -     -         5521    0    0 
+Carenbon  957235921  8  2 Bk  k     k     k         5521   20    0 3d 6c
+Carenbon  957235947  7  1 Bf  -     -     -         5501   10    0 
+Carenbon  957235956  7  7 f   -     -     -         5491    0    0 
+Carenbon  957235983  7  6 f   -     -     -         5491    0    0 
+Carenbon  957236009  7  5 f   -     -     -         5491    0    0 
+Carenbon  957236035  8  5 cc  k     k     k         5491   40    0 Ks Ah
+Carenbon  957236124  7  4 f   -     -     -         5451    0    0 
+Carenbon  957236140  7  3 f   -     -     -         5451    0    0 
+Carenbon  957236190  7  2 Bc  kf    -     -         5451   40    0 
+Carenbon  957236249  7  1 Bc  bc    b     b         5411  140  320 7s 9s
+Carenbon  957236285  6  6 f   -     -     -         5591    0    0 
+Carenbon  957236303  6  5 f   -     -     -         5591    0    0 
+Carenbon  957236314  6  4 f   -     -     -         5591    0    0 
+Carenbon  957236340  6  3 c   c     c     c         5591  120  260 Ah Ts
+Carenbon  957236366  6  2 Bf  -     -     -         5731   20    0 
+Carenbon  957236384  6  1 Bc  kf    -     -         5711   40    0 
+Carenbon  957236412  6  6 c   c     c     k         5671  100  350 Ac Kd
+Carenbon  957236441  6  5 f   -     -     -         5921    0    0 
+Carenbon  957236456  6  4 c   b     -     -         5921   40   80 
+Carenbon  957236481  6  3 f   -     -     -         5961    0    0 
+Carenbon  957236485  6  2 Bf  -     -     -         5961   20    0 
+Carenbon  957236506  6  1 Bc  kf    -     -         5941   40    0 
+Carenbon  957236554  6  6 c   r     c     c         5901  140  310 5s 5h
+Carenbon  957236601  6  5 c   k     f     -         6071   20    0 
+Carenbon  957236627  6  4 f   -     -     -         6051    0    0 
+Carenbon  957236654  6  3 f   -     -     -         6051    0    0 
+Carenbon  957236688  6  2 Bk  k     k     k         6051   20   50 4d 3s
+Carenbon  957236738  6  1 Bf  -     -     -         6081   10    0 
+Carenbon  957236767  6  6 c   k     f     -         6071   20    0 
+Carenbon  957236796  6  5 c   rc    c     k         6051  140  330 Qc 3c
+Carenbon  957236844  6  4 f   -     -     -         6241    0    0 
+Carenbon  957236856  5  2 Bk  f     -     -         6241   20    0 
+Carenbon  957236872  5  1 Bf  -     -     -         6221   10    0 
+Carenbon  957236884  5  5 c   f     -     -         6211   20    0 
+Carenbon  957236900  5  4 f   -     -     -         6191    0    0 
+Carenbon  957236932  5  3 c   f     -     -         6191   20    0 
+Carenbon  957236970  5  2 Bf  -     -     -         6171   20    0 
+Carenbon  957236990  5  1 Bc  k     b     b         6151  120  220 
+Carenbon  957237018  5  5 f   -     -     -         6251    0    0 
+Carenbon  957237021  5  4 f   -     -     -         6251    0    0 
+Carenbon  957237037  5  3 f   -     -     -         6251    0    0 
+Carenbon  957237043  5  2 Bk  kf    -     -         6251   20    0 
+Carenbon  957237054  5  1 Bc  b     -     -         6231   40   80 
+Carenbon  957237063  5  5 f   -     -     -         6271    0    0 
+Carenbon  957237094  5  4 f   -     -     -         6271    0    0 
+Carenbon  957237125  6  3 f   -     -     -         6271    0    0 
+Carenbon  957237155  6  2 B   -     -     -         6271   20   30 
+Carenbon  957237171  7  1 Bf  -     -     -         6281   10    0 
+Carenbon  957237212  7  7 f   -     -     -         6271    0    0 
+Carenbon  957237402  5  4 c   k     b     -         6271   60  100 
+Carenbon  957237435  5  4 cc  f     -     -         6311   40    0 
+Carenbon  957237457  5  3 cc  kf    -     -         6271   40    0 
+Carenbon  957237479  5  2 B   -     -     -         6231   20   30 
+Carenbon  957237490  5  1 Bc  b     -     -         6241   40   80 
+Carenbon  957237500  5  5 rc  c     c     b         6281  180  460 Qd Qc
+Carenbon  957237526  5  4 f   -     -     -         6561    0    0 
+Carenbon  957237534  5  3 f   -     -     -         6561    0    0 
+Carenbon  957237542  5  2 Bk  b     k     k         6561   40   90 Kc 6h
+Carenbon  957237576  5  1 Bc  k     kf    -         6611   20    0 
+Carenbon  957237598  6  6 c   f     -     -         6591   20    0 
+Carenbon  957237621  6  5 f   -     -     -         6571    0    0 
+Carenbon  957237647  7  5 f   -     -     -         6571    0    0 
+Carenbon  957237677  7  4 f   -     -     -         6571    0    0 
+Carenbon  957237700  7  4 f   -     -     -         6571    0    0 
+Carenbon  957237740  8  3 f   -     -     -         6571    0    0 
+Carenbon  957237754  8  2 Bf  -     -     -         6571   20    0 
+Carenbon  957237789  7  1 Bc  k     kf    -         6551   40    0 
+Carenbon  957237821  7  7 f   -     -     -         6511    0    0 
+Carenbon  957237864  7  6 c   b     k     k         6511   60  170 Ts Td
+Carenbon  957237889  7  5 f   -     -     -         6621    0    0 
+Carenbon  957237903  7  4 f   -     -     -         6621    0    0 
+Carenbon  957237927  7  3 f   -     -     -         6621    0    0 
+Carenbon  957237959  7  2 Bc  kf    -     -         6621   40    0 
+Carenbon  957237992  7  1 Bf  -     -     -         6581   10    0 
+Carenbon  957238019  7  7 c   c     c     c         6571  120  280 8h 8c
+Carenbon  957238065  7  6 f   Q     -     -         6731    0    0 
+Carenbon  957580298 10  9 f   -     -     -         6731    0    0 
+Carenbon  957580362 10  8 f   -     -     -         6731    0    0 
+Carenbon  957580389 10  7 cc  kf    -     -         6731   40    0 
+Carenbon  957580440  9  5 cc  c     c     f         6691  120    0 
+Carenbon  957580485 10  5 f   -     -     -         6571    0    0 
+Carenbon  957580547 10  4 f   -     -     -         6571    0    0 
+Carenbon  957580611  9  2 Bf  -     -     -         6571   20    0 
+Carenbon  957580649  9  1 Bf  -     -     -         6551   10    0 
+Carenbon  957580669  9  9 c   b     k     b         6541  100  155 8d 8s
+Carenbon  957580721  9  8 c   k     f     -         6596   40    0 
+Carenbon  957580784 10  8 f   -     -     -         6556    0    0 
+Carenbon  957580807 10  7 f   -     -     -         6556    0    0 
+Carenbon  957580898 10  6 f   -     -     -         6556    0    0 
+Carenbon  957580952 10  6 f   -     -     -         6556    0    0 
+Carenbon  957581002  9  4 f   Q     -     -         6556    0    0 
+Carenbon  957822373  8  5 f   -     -     -         6606    0    0 
+Carenbon  957822411  8  4 f   -     -     -         6606    0    0 
+Carenbon  957822449  8  3 f   -     -     -         6606    0    0 
+Carenbon  957822494  8  2 Bf  -     -     -         6606   20    0 
+Carenbon  957822529  7  1 Bf  -     -     -         6586   10    0 
+Carenbon  957822586  6  6 r   b     -     -         6576   60  120 
+Carenbon  957822605  6  6 f   -     -     -         6636    0    0 
+Carenbon  957822624  6  5 f   -     -     -         6636    0    0 
+Carenbon  957822660  6  4 c   f     -     -         6636   20    0 
+Carenbon  957822676  6  3 cc  bc    c     c         6616  160    0 Kc As
+Carenbon  957822720  6  2 Bk  kc    kc    kc        6456  120    0 7d 5s
+Carenbon  957822751  6  1 Bc  kf    -     -         6336   40    0 
+Carenbon  957822778  6  6 f   -     -     -         6296    0    0 
+Carenbon  957822785  6  5 f   -     -     -         6296    0    0 
+Carenbon  957822806  6  4 c   c     c     b         6296  120  240 
+Carenbon  957822851  8  3 cc  kf    -     -         6416   40    0 
+Carenbon  957822925  7  1 Bk  b     -     -         6376   40   80 
+Carenbon  957822945  7  1 Bf  -     -     -         6416   10    0 
+Carenbon  957822980  8  8 c   f     -     -         6406   20    0 
+Carenbon  957823011  7  6 f   -     -     -         6386    0    0 
+Carenbon  957823048  7  5 fQ  -     -     -         6386    0    0 
+Carenbon  958089935  9  9 f   -     -     -         3496    0    0 
+Carenbon  958089951  9  8 c   c     c     k         3496  120    0 2c Jc
+Carenbon  958090039  9  7 f   -     -     -         3376    0    0 
+Carenbon  958090103  9  6 fQ  -     -     -         3376    0    0 
+Carenbon  958141498  3  3 c   k     k     f         3291   20    0 
+Carenbon  958141548  3  2 Bk  k     f     -         3271   20    0 
+Carenbon  958141585  3  1 Bc  kf    -     -         3251   20    0 
+Carenbon  958141599  3  3 f   -     -     -         3231    0    0 
+Carenbon  958141604  4  2 Bk  kf    Q     -         3231   20    0 
+Carenbon  958141982  4  2 Bf  -     -     -         3211   20    0 
+Carenbon  958142007  4  1 Bf  -     -     -         3191   10    0 
+Carenbon  958142036  4  4 c   c     f     -         3181   40    0 
+Carenbon  958142068  4  3 c   k     f     -         3141   20    0 
+Carenbon  958142099  4  2 Bk  kf    -     -         3121   20    0 
+Carenbon  958142136  4  1 Bc  kQ    -     -         3101   20    0 
+Carenbon  958166558  5  5 f   -     -     -         3081    0    0 
+Carenbon  958166570  5  4 f   -     -     -         3081    0    0 
+Carenbon  958166591  6  3 f   -     -     -         3081    0    0 
+Carenbon  958166654  5  2 Bk  kc    kc    b         3081  120  210 
+Carenbon  958166685  5  1 Bf  -     -     -         3171   10    0 
+Carenbon  958166695  5  5 f   -     -     -         3161    0    0 
+Carenbon  958166726  5  4 cc  kf    -     -         3161   40    0 
+Carenbon  958166773  5  3 f   -     -     -         3121    0    0 
+Carenbon  958166782  5  2 Bf  -     -     -         3121   20    0 
+Carenbon  958166792  5  1 Bf  -     -     -         3101   10    0 
+Carenbon  958166830  5  5 c   b     c     c         3091  120  280 5s As
+Carenbon  958166865  5  4 f   -     -     -         3251    0    0 
+Carenbon  958166893  6  4 f   -     -     -         3251    0    0 
+Carenbon  958166920  6  3 f   -     -     -         3251    0    0 
+Carenbon  958166954  7  2 Bk  k     f     -         3251   20    0 
+Carenbon  958166996  9  1 Bc  kf    -     -         3231   20    0 
+Carenbon  958167057  9  9 f   -     -     -         3211    0    0 
+Carenbon  958167077  9  8 f   -     -     -         3211    0    0 
+Carenbon  958167122  9  7 f   -     -     -         3211    0    0 
+Carenbon  958167150  9  6 r   c     ccc   c         3211  300    0 Ad Ah
+Carenbon  958167206  8  5 c   cc    kc    f         2911  140    0 
+Carenbon  958167275  8  4 f   -     -     -         2771    0    0 
+Carenbon  958167295  8  3 f   -     -     -         2771    0    0 
+Carenbon  958167339  8  2 B   -     -     -         2771   20   30 
+Carenbon  958167360  8  1 Bf  -     -     -         2781   10    0 
+Carenbon  958167379  8  8 c   b     k     k         2771   40  100 Ah Th
+Carenbon  958167426  7  6 f   -     -     -         2831    0    0 
+Carenbon  958167485  7  5 c   k     k     k         2831   20    0 2s 2c
+Carenbon  958167537  7  4 f   -     -     -         2811    0    0 
+Carenbon  958167566  7  3 f   -     -     -         2811    0    0 
+Carenbon  958167592  7  2 Bk  kf    -     -         2811   20    0 
+Carenbon  958167631  7  1 Bf  -     -     -         2791   10    0 
+Carenbon  958167662  7  7 cc  f     -     -         2781   40    0 
+Carenbon  958167699  7  6 f   -     -     -         2741    0    0 
+Carenbon  958167720  8  6 f   -     -     -         2741    0    0 
+Carenbon  958167746  8  5 c   k     k     kf        2741   20    0 
+Carenbon  958167789  8  4 f   -     -     -         2721    0    0 
+Carenbon  958167799  8  3 f   -     -     -         2721    0    0 
+Carenbon  958167827  8  2 Bk  kc    kf    -         2721   60    0 
+Carenbon  958167873  8  1 Bc  kf    -     -         2661   40    0 
+Carenbon  958167893  8  8 c   r     b     b         2621  140  320 2s 2h
+Carenbon  958167937  9  8 f   -     -     -         2801    0    0 
+Carenbon  958167951  9  7 f   -     -     -         2801    0    0 
+Carenbon  958167995  9  6 f   -     -     -         2801    0    0 
+Carenbon  958168036  9  5 f   -     -     -         2801    0    0 
+Carenbon  958168063  9  4 f   -     -     -         2801    0    0 
+Carenbon  958168117 10  3 f   -     -     -         2801    0    0 
+Carenbon  958168144 10  2 Bk  f     -     -         2801   20    0 
+Carenbon  958168186 10  1 Bf  -     -     -         2781   10    0 
+Carenbon  958168210  9  9 f   -     -     -         2771    0    0 
+Carenbon  958168277  8  7 f   -     -     -         2771    0    0 
+Carenbon  958168300  9  7 f   -     -     -         2771    0    0 
+Carenbon  958168324  9  6 f   -     -     -         2771    0    0 
+Carenbon  958168356  9  5 f   -     -     -         2771    0    0 
+Carenbon  958168379  8  3 f   -     -     -         2771    0    0 
+Carenbon  958168407  8  2 Bc  kf    -     -         2771   40    0 
+Carenbon  958168457  8  1 Bf  -     -     -         2731   10    0 
+Carenbon  958168495  8  8 f   -     -     -         2721    0    0 
+Carenbon  958168524  8  7 f   -     -     -         2721    0    0 
+Carenbon  958168539  8  7 c   f     -     -         2721   20    0 
+Carenbon  958168581  8  6 f   -     -     -         2701    0    0 
+Carenbon  958168601  8  5 f   -     -     -         2701    0    0 
+Carenbon  958168638  8  4 f   -     -     -         2701    0    0 
+Carenbon  958168677  8  4 f   -     -     -         2701    0    0 
+Carenbon  958168703  6  1 Bk  kf    -     -         2701   20    0 
+Carenbon  958168744  6  1 Bc  bc    kc    kc        2681  160  400 Kd 5d
+Carenbon  958168786  6  6 f   -     -     -         2921    0    0 
+Carenbon  958168803  5  4 rr  bc    kc    kc        2921  200  430 Ad Ac
+Carenbon  958168827  5  3 c   bc    kc    k         3151  100  240 Ts Ac
+Carenbon  958168868  5  2 Bf  -     -     -         3291   20    0 
+Carenbon  958168895  5  1 Bcc kf    -     -         3271   60    0 
+Carenbon  958168932  5  5 f   -     -     -         3211    0    0 
+Carenbon  958168952  5  4 f   -     -     -         3211    0    0 
+Carenbon  958168983  5  3 c   f     -     -         3211   20    0 
+Carenbon  958169012  5  2 Bk  k     kf    -         3191   20    0 
+Carenbon  958169053  5  1 Bf  -     -     -         3171   10    0 
+Carenbon  958169078  5  5 f   -     -     -         3161    0    0 
+Carenbon  958169120  5  4 c   k     k     k         3161   20   60 Qs Ad
+Carenbon  958169146  5  3 f   Q     -     -         3201    0    0 
+Carenbon  958183251  9  6 f   -     -     -         3191    0    0 
+Carenbon  958183310 10  6 f   -     -     -         3191    0    0 
+Carenbon  958183388 10  5 c   bc    kc    bc        3191  180    0 Ad 8h
+Carenbon  958183521 10  4 f   -     -     -         3011    0    0 
+Carenbon  958183588 10  3 f   -     -     -         3011    0    0 
+Carenbon  958183654 10  2 Bk  k     f     -         3011   20    0 
+Carenbon  958183698 10  1 Bf  -     -     -         2991   10    0 
+Carenbon  958183748 10 10 c   k     k     k         2981   60    0 As 6c
+Carenbon  958183791 10  9 f   -     -     -         2921    0    0 
+Carenbon  958183830 10  8 f   -     -     -         2921    0    0 
+Carenbon  958183865 10  7 f   -     -     -         2921    0    0 
+Carenbon  958183903 10  6 c   k     f     -         2921   20    0 
+Carenbon  958183967 10  5 f   -     -     -         2901    0    0 
+Carenbon  958184018 10  4 f   -     -     -         2901    0    0 
+Carenbon  958184056 10  3 f   -     -     -         2901    0    0 
+Carenbon  958184102 10  2 Bc  kf    -     -         2901   40    0 
+Carenbon  958184147 10  1 Bc  k     b     bc        2861  140    0 Kc As
+Carenbon  958184220 10 10 c   k     f     -         2721   20    0 
+Carenbon  958184268 10  9 f   -     -     -         2701    0    0 
+Carenbon  958184309 10  8 f   -     -     -         2701    0    0 
+Carenbon  958184345 10  7 f   -     -     -         2701    0    0 
+Carenbon  958184405 10  6 c   kf    -     -         2701   20    0 
+Carenbon  958184482 10  5 f   -     -     -         2681    0    0 
+Carenbon  958184498 10  4 f   Q     -     -         2681    0    0 
+Carenbon  958218396  2  2 Bk  k     k     k         2681   20   40 9h 4c
+Carenbon  958218411  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958218414  2  2 Bk  b     b     -         2691   80  120 
+Carenbon  958218436  2  1 Bc  kf    -     -         2731   20    0 
+Carenbon  958218473  2  2 Bk  k     k     k         2711   20   40 5d As
+Carenbon  958218499  2  1 Bc  b     -     -         2731   40   60 
+Carenbon  958218518  2  2 Bk  k     f     -         2751   20    0 
+Carenbon  958218535  2  1 Bcc b     -     -         2731   60  100 
+Carenbon  958218556  2  2 Bk  k     k     k         2771   20    0 8h 3d
+Carenbon  958218569  3  1 Bc  k     kc    k         2751   60    0 Qd 6d
+Carenbon  958218595  3  3 f   -     -     -         2691    0    0 
+Carenbon  958218604  3  2 B   -     -     -         2691   20   30 
+Carenbon  958218610  3  1 Bf  -     -     -         2701   10    0 
+Carenbon  958218627  3  3 c   f     -     -         2691   20    0 
+Carenbon  958218649  3  2 Bk  k     k     k         2671   20   40 Js Qc
+Carenbon  958218681  3  1 Bf  -     -     -         2691   10    0 
+Carenbon  958218697  3  3 f   -     -     -         2681    0    0 
+Carenbon  958218733  3  2 Bk  b     -     -         2681   40   80 
+Carenbon  958218746  3  1 Bf  -     -     -         2721   10    0 
+Carenbon  958218749  3  3 f   -     -     -         2711    0    0 
+Carenbon  958218761  3  2 Bk  k     kf    -         2711   20    0 
+Carenbon  958218776  3  1 Bf  -     -     -         2691   10    0 
+Carenbon  958218783  3  3 c   k     k     b         2681   60  100 
+Carenbon  958218857  3  2 Bk  k     k     c         2721   60    0 Qs 8s
+Carenbon  958218876  3  1 Bc  k     kf    -         2661   20    0 
+Carenbon  958218903  3  3 f   -     -     -         2641    0    0 
+Carenbon  958218918  3  2 Bk  kf    -     -         2641   20    0 
+Carenbon  958218936  3  1 Bf  -     -     -         2621   10    0 
+Carenbon  958218952  3  3 f   -     -     -         2611    0    0 
+Carenbon  958218968  3  2 Bk  f     -     -         2611   20    0 
+Carenbon  958218977  3  1 Bf  -     -     -         2591   10    0 
+Carenbon  958219000  3  3 r   k     c     c         2581  120  280 Js Jc
+Carenbon  958219059  3  2 Bk  f     -     -         2741   20    0 
+Carenbon  958219081  3  1 Bf  -     -     -         2721   10    0 
+Carenbon  958219096  3  3 f   -     -     -         2711    0    0 
+Carenbon  958219122  3  2 Bk  k     k     f         2711   20    0 
+Carenbon  958219148  3  1 Bc  b     b     k         2691   80  200 6c Qc
+Carenbon  958219201  3  3 c   f     -     -         2811   20    0 
+Carenbon  958219221  3  2 Bk  f     -     -         2791   20    0 
+Carenbon  958219242  3  1 Bf  -     -     -         2771   10    0 
+Carenbon  958219262  3  3 r   -     -     -         2761   40   70 
+Carenbon  958219273  3  2 Bk  c     f     -         2791   40    0 
+Carenbon  958219287  2  1 Bc  b     -     -         2751   40   60 
+Carenbon  958219296  2  2 B   -     -     -         2771   20   30 
+Carenbon  958219298  2  1 Bf  -     -     -         2781   10    0 
+Carenbon  958219301  2  2 B   -     -     -         2771   20   30 
+Carenbon  958219303  2  1 Bf  -     -     -         2781   10    0 
+Carenbon  958219306  2  2 Bk  b     b     -         2771   80  120 
+Carenbon  958219328  2  1 Bf  -     -     -         2811   10    0 
+Carenbon  958219330  2  2 Bk  f     -     -         2801   20    0 
+Carenbon  958219338  2  1 Bf  -     -     -         2781   10    0 
+Carenbon  958219342  2  2 Bk  b     k     k         2771   40   80 2s 9h
+Carenbon  958219377  2  1 Bf  -     -     -         2811   10    0 
+Carenbon  958219380  2  2 B   -     -     -         2801   20   30 
+Carenbon  958219383  2  1 Bf  -     -     -         2811   10    0 
+Carenbon  958219386  2  2 B   -     -     -         2801   20   30 
+Carenbon  958219388  2  1 Bf  -     -     -         2811   10    0 
+Carenbon  958219392  2  2 Bk  b     k     c         2801   80    0 Qs 7c
+Carenbon  958219408  2  1 Bc  kf    -     -         2721   20    0 
+Carenbon  958219422  2  2 B   -     -     -         2701   20   30 
+Carenbon  958219425  2  1 Bf  -     -     -         2711   10    0 
+Carenbon  958219427  2  2 B   -     -     -         2701   20   30 
+Carenbon  958219429  2  1 Bf  -     -     -         2711   10    0 
+Carenbon  958219431  2  2 Bk  f     -     -         2701   20    0 
+Carenbon  958219439  2  1 Bc  b     -     -         2681   40   60 
+Carenbon  958219449  2  2 B   -     -     -         2701   20   30 
+Carenbon  958219452  2  1 Bc  k     k     k         2711   20   40 8s Ac
+Carenbon  958219471  2  2 Bk  c     c     k         2731   80    0 Jh Kc
+Carenbon  958219504  2  1 Bf  -     -     -         2651   10    0 
+Carenbon  958219513  2  2 Bk  c     k     c         2641   80  160 7h Kc
+Carenbon  958219539  2  1 Bf  -     -     -         2721   10    0 
+Carenbon  958219542  2  2 B   -     -     -         2711   20   30 
+Carenbon  958219547  2  1 Br  -     -     -         2721   40   60 
+Carenbon  958219558  2  2 Bk  b     -     -         2741   40   60 
+Carenbon  958219577  2  1 Bf  -     -     -         2761   10    0 
+Carenbon  958219587  2  2 Bk  k     k     k         2751   20    0 Jd 4c
+Carenbon  958219617  2  1 Bf  -     -     -         2731   10    0 
+Carenbon  958219620  2  2 Bk  b     -     -         2721   40   60 
+Carenbon  958219639  2  1 Bf  -     -     -         2741   10    0 
+Carenbon  958219654  2  2 Bk  b     b     b         2731  120  240 7s 3s
+Carenbon  958219684  2  1 Bf  -     -     -         2851   10    0 
+Carenbon  958219692  2  2 Bk  k     k     f         2841   20    0 
+Carenbon  958219720  2  1 Bc  k     k     k         2821   20   40 Th Ah
+Carenbon  958219749  2  2 Bk  c     k     k         2841   40   80 6s 4c
+Carenbon  958219785  2  1 Bf  -     -     -         2881   10    0 
+Carenbon  958219787  2  2 Bk  f     -     -         2871   20    0 
+Carenbon  958219797  2  1 Bc  kf    -     -         2851   20    0 
+Carenbon  958219808  2  2 B   -     -     -         2831   20   30 
+Carenbon  958219812  2  1 Bc  b     b     kc        2841  120    0 4d Jd
+Carenbon  958219828  2  2 Bk  k     k     k         2721   20   40 6c Ad
+Carenbon  958219869  2  1 Bf  -     -     -         2741   10    0 
+Carenbon  958219872  2  2 Bk  c     f     -         2731   40    0 
+Carenbon  958219886  2  1 Bc  k     k     k         2691   20   40 Kd 6d
+Carenbon  958219905  2  2 B   -     -     -         2711   20   30 
+Carenbon  958219909  2  1 Bf  -     -     -         2721   10    0 
+Carenbon  958219911  2  2 B   -     -     -         2711   20   30 
+Carenbon  958219913  2  1 Bf  -     -     -         2721   10    0 
+Carenbon  958219916  2  2 Bk  f     -     -         2711   20    0 
+Carenbon  958219924  2  1 Bf  -     -     -         2691   10    0 
+Carenbon  958219926  2  2 B   -     -     -         2681   20   30 
+Carenbon  958219929  2  1 Bc  k     k     k         2691   20   40 9s Ks
+Carenbon  958219940  2  2 Bk  f     -     -         2711   20    0 
+Carenbon  958219958  2  1 Bf  -     -     -         2691   10    0 
+Carenbon  958219962  2  2 Bk  b     -     -         2681   40   60 
+Carenbon  958219970  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958219974  2  2 B   -     -     -         2691   20   30 
+Carenbon  958219977  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958219979  2  2 B   -     -     -         2691   20   30 
+Carenbon  958219982  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958219984  2  2 B   -     -     -         2691   20   30 
+Carenbon  958219987  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958219989  2  2 B   -     -     -         2691   20   30 
+Carenbon  958219992  2  1 Bf  -     -     -         2701   10    0 
+Carenbon  958219994  2  2 Bk  b     b     -         2691   80  120 
+Carenbon  958220012  2  1 Bf  -     -     -         2731   10    0 
+Carenbon  958220018  2  2 B   -     -     -         2721   20   30 
+Carenbon  958220021  2  1 Bc  k     k     k         2731   20   40 Qh Ks
+Carenbon  958220049  2  2 B   -     -     -         2751   20   30 
+Carenbon  958220055  2  1 Bc  b     -     -         2761   40   60 
+Carenbon  958220075  2  2 B   -     -     -         2781   20   30 
+Carenbon  958220077  2  1 Bc  b     b     bc        2791  160  320 As Jc
+Carenbon  958220091  2  2 Bk  k     k     b         2951   60    0 4h Ac
+Carenbon  958220127  2  1 Bf  -     -     -         2891   10    0 
+Carenbon  958220144  2  2 B   -     -     -         2881   20   30 
+Carenbon  958220148  2  1 Bc  kf    -     -         2891   20    0 
+Carenbon  958220158  2  2 B   -     -     -         2871   20   30 
+Carenbon  958220162  2  1 Bf  -     -     -         2881   10    0 
+Carenbon  958220163  2  2 Bk  c     b     b         2871  120  240 Td Ks
+Carenbon  958220182  2  1 Bf  -     -     -         2991   10    0 
+Carenbon  958220185  2  2 B   -     -     -         2981   20   30 
+Carenbon  958220189  2  1 Br  -     -     -         2991   40   60 
+Carenbon  958220191  2  2 Bk  f     -     -         3011   20    0 
+Carenbon  958220199  2  1 Bf  -     -     -         2991   10    0 
+Carenbon  958220201  2  2 Bk  f     -     -         2981   20    0 
+Carenbon  958220208  2  1 Bc  k     k     k         2961   20   40 Qs Kh
+Carenbon  958220220  2  2 B   -     -     -         2981   20   30 
+Carenbon  958220225  2  1 Bc  k     b     -         2991   60   80 
+Carenbon  958220237  2  2 Bk  k     k     k         3011   20    0 9h Ts
+Carenbon  958220255  2  1 Bc  kc    kc    b         2991  120  240 Ad Tc
+Carenbon  958220282  2  2 Bk  c     c     c         3111  120  240 9s 5s
+Carenbon  958220302  2  1 Bf  -     -     -         3231   10    0 
+Carenbon  958220305  2  2 Bk  f     -     -         3221   20    0 
+Carenbon  958220314  2  1 Bf  -     -     -         3201   10    0 
+Carenbon  958220317  2  2 B   -     -     -         3191   20   30 
+Carenbon  958220319  2  1 Bc  k     k     k         3201   20   40 Kd Qs
+Carenbon  958220336  2  2 Bk  k     k     k         3221   20    0 5s 7s
+Carenbon  958220361  2  1 Bf  -     -     -         3201   10    0 
+Carenbon  958220364  2  2 Bk  c     c     k         3191   80   80 7d Ah
+Carenbon  958220390  2  1 Bf  -     -     -         3191   10    0 
+Carenbon  958220393  2  2 B   -     -     -         3181   20   30 
+Carenbon  958220396  2  1 Bf  -     -     -         3191   10    0 
+Carenbon  958220398  2  2 B   -     -     -         3181   20   30 
+Carenbon  958220401  2  1 Bc  kf    -     -         3191   20    0 
+Carenbon  958220419  2  2 Br  b     b     b         3171  140    0 Kc Ks
+Carenbon  958220447  2  1 Bf  -     -     -         3031   10    0 
+Carenbon  958220467  2  2 Bk  f     -     -         3021   20    0 
+Carenbon  958220487  2  1 Bcc kf    -     -         3001   40    0 
+Carenbon  958220500  2  2 Bk  k     k     k         2961   20   20 Qs Tc
+Carenbon  958220518  2  1 Bf  -     -     -         2961   10    0 
+Carenbon  958220523  2  2 Bk  f     -     -         2951   20    0 
+Carenbon  958220537  2  1 Bf  -     -     -         2931   10    0 
+Carenbon  958220539  2  2 B   -     -     -         2921   20   30 
+Carenbon  958220820  3  2 Bk  k     b     -         2931   60  100 
+Carenbon  958220906  4  1 Bf  -     -     -         2971   10    0 
+Carenbon  958220937  5  5 c   c     c     k         2961   80    0 4h Kh
+Carenbon  958220962  5  4 f   -     -     -         2881    0    0 
+Carenbon  958220982  5  3 c   k     k     k         2881   20   60 Jc Ac
+Carenbon  958221004  5  2 Bk  f     -     -         2921   20    0 
+Carenbon  958221034  5  1 Bf  -     -     -         2901   10    0 
+Carenbon  958221051  5  5 f   -     -     -         2891    0    0 
+Carenbon  958221074  5  4 f   -     -     -         2891    0    0 
+Carenbon  958221094  5  3 f   -     -     -         2891    0    0 
+Carenbon  958221105  5  2 Bk  k     k     k         2891   20    0 7c 2c
+Carenbon  958221125  5  1 Bc  kf    -     -         2871   20    0 
+Carenbon  958221150  5  5 Q   -     -     -         2851    0    0 
+Carenbon  958222941  6  3 f   -     -     -         2851    0    0 
+Carenbon  958222962  6  2 Bk  k     kf    -         2851   20    0 
+Carenbon  958222989  6  1 Bf  -     -     -         2831   10    0 
+Carenbon  958223014  6  6 f   -     -     -         2821    0    0 
+Carenbon  958223038  6  5 f   -     -     -         2821    0    0 
+Carenbon  958223072  6  4 c   k     k     f         2821   20    0 
+Carenbon  958223110  6  3 r   b     -     -         2801   60  110 
+Carenbon  958223127  6  2 Bk  kf    -     -         2851   20    0 
+Carenbon  958223155  6  1 Bc  kf    -     -         2831   20    0 
+Carenbon  958223174  6  6 f   -     -     -         2811    0    0 
+Carenbon  958223190  6  5 f   -     -     -         2811    0    0 
+Carenbon  958223210  6  4 f   -     -     -         2811    0    0 
+Carenbon  958223240  6  3 f   -     -     -         2811    0    0 
+Carenbon  958223266  6  2 Bf  -     -     -         2811   20    0 
+Carenbon  958223305  6  1 Bf  -     -     -         2791   10    0 
+Carenbon  958223330  6  6 f   -     -     -         2781    0    0 
+Carenbon  958223350  6  5 f   -     -     -         2781    0    0 
+Carenbon  958223375  6  4 f   -     -     -         2781    0    0 
+Carenbon  958223403  6  3 f   -     -     -         2781    0    0 
+Carenbon  958223433  5  2 Bk  f     -     -         2781   20    0 
+Carenbon  958223449  5  1 Bf  -     -     -         2761   10    0 
+Carenbon  958223472  4  4 c   f     -     -         2751   20    0 
+Carenbon  958223493  5  4 f   -     -     -         2731    0    0 
+Carenbon  958223502  5  3 f   -     -     -         2731    0    0 
+Carenbon  958223510  5  2 Bk  k     b     kc        2731  100  210 7c Qd
+Carenbon  958223542  5  1 Bf  -     -     -         2841   10    0 
+Carenbon  958223570  5  5 f   -     -     -         2831    0    0 
+Carenbon  958223597  5  4 f   -     -     -         2831    0    0 
+Carenbon  958223608  5  3 f   -     -     -         2831    0    0 
+Carenbon  958223641  5  2 B   -     -     -         2831   20   30 
+Carenbon  958223647  5  1 Bf  Q     -     -         2841   10    0 
+Carenbon  958246744 10  3 f   -     -     -         2826    0    0 
+Carenbon  958246796 10  2 Bk  kf    -     -         2826   20    0 
+Carenbon  958246824 10  1 Bc  k     k     kf        2806   20    0 
+Carenbon  958246856 10 10 f   -     -     -         2786    0    0 
+Carenbon  958246878 10  9 f   -     -     -         2786    0    0 
+Carenbon  958246935 10  8 f   -     -     -         2786    0    0 
+Carenbon  958246962 10  7 c   b     -     -         2786   40   70 
+Carenbon  958247004 10  6 ccc bc    k     kc        2816  160  430 Ah 7d
+Carenbon  958247073 10  5 f   -     -     -         3086    0    0 
+Carenbon  958247108 10  4 r   kc    bcc   k         3086  220  360 Th Tc
+Carenbon  958247168 10  3 c   kf    -     -         3226   20    0 
+Carenbon  958247222 10  2 Bk  k     kf    -         3206   20    0 
+Carenbon  958247252 10  1 Bf  -     -     -         3186   10    0 
+Carenbon  958247289 10 10 c   f     -     -         3176   20    0 
+Carenbon  958247341 10  9 f   -     -     -         3156    0    0 
+Carenbon  958247413 10  8 f   -     -     -         3156    0    0 
+Carenbon  958247463  9  7 f   -     -     -         3156    0    0 
+Carenbon  958247483  9  6 cc  f     -     -         3156   40    0 
+Carenbon  958247536 10  5 f   -     -     -         3116    0    0 
+Carenbon  958247585 10  4 f   -     -     -         3116    0    0 
+Carenbon  958247634 10  3 f   -     -     -         3116    0    0 
+Carenbon  958247682 10  2 Bk  k     kc    kf        3116   60    0 
+Carenbon  958247733 10  1 Bf  -     -     -         3056   10    0 
+Carenbon  958247811 10 10 f   -     -     -         3046    0    0 
+Carenbon  958247853 10  9 f   -     -     -         3046    0    0 
+Carenbon  958247935 10  8 c   k     kf    -         3046   20    0 
+Carenbon  958248012 10  7 f   -     -     -         3026    0    0 
+Carenbon  958248072 10  6 f   -     -     -         3026    0    0 
+Carenbon  958248152  9  5 cc  kc    k     f         3026   60    0 
+Carenbon  958248238  7  2 Bf  -     -     -         2966   20    0 
+Carenbon  958248256  7  1 Bf  -     -     -         2946   10    0 
+Carenbon  958248308  7  7 f   -     -     -         2936    0    0 
+Carenbon  958248347  7  6 f   -     -     -         2936    0    0 
+Carenbon  958248382  7  5 cc  f     -     -         2936   40    0 
+Carenbon  958248431  7  4 f   -     -     -         2896    0    0 
+Carenbon  958248442  7  3 f   -     -     -         2896    0    0 
+Carenbon  958248477  7  2 Bf  -     -     -         2896   20    0 
+Carenbon  958248504  7  1 Bc  kc    k     kf        2876   60    0 
+Carenbon  958248589  6  6 f   -     -     -         2816    0    0 
+Carenbon  958248627  7  6 f   -     -     -         2816    0    0 
+Carenbon  958248659  7  5 c   f     -     -         2816   20    0 
+Carenbon  958248680  7  4 f   -     -     -         2796    0    0 
+Carenbon  958248737  7  3 f   -     -     -         2796    0    0 
+Carenbon  958248765  7  2 Bk  k     k     f         2796   20    0 
+Carenbon  958248810  7  1 Bf  -     -     -         2776   10    0 
+Carenbon  958248848  7  7 f   -     -     -         2766    0    0 
+Carenbon  958248914  7  6 f   -     -     -         2766    0    0 
+Carenbon  958248974  7  5 f   -     -     -         2766    0    0 
+Carenbon  958249025  7  4 f   -     -     -         2766    0    0 
+Carenbon  958249050  7  3 f   -     -     -         2766    0    0 
+Carenbon  958249088  7  2 Bk  k     k     k         2766   20    0 Jh 4h
+Carenbon  958249160  7  1 Bc  k     k     k         2746   20    0 Ac Jh
+Carenbon  958249206  7  7 c   k     k     k         2726   20   70 4d 4s
+Carenbon  958249295  7  6 f   -     -     -         2776    0    0 
+Carenbon  958249340  7  5 f   -     -     -         2776    0    0 
+Carenbon  958249386  7  4 f   -     -     -         2776    0    0 
+Carenbon  958249400  6  2 f   -     Q     -         2776    0    0 
+Carenbon  958351954 10 10 f   -     -     -         2776    0    0 
+Carenbon  958352024 10  9 f   -     -     -         2776    0    0 
+Carenbon  958352061 10  8 f   -     -     -         2776    0    0 
+Carenbon  958352128 10  7 f   -     -     -         2776    0    0 
+Carenbon  958352163 10  6 f   -     -     -         2776    0    0 
+Carenbon  958352208 10  5 f   -     -     -         2776    0    0 
+Carenbon  958352264 10  4 f   -     -     -         2776    0    0 
+Carenbon  958352320 10  3 cc  kf    -     -         2776   40    0 
+Carenbon  958352373 10  2 Bk  kf    -     -         2736   20    0 
+Carenbon  958352409 10  1 Bc  kf    -     -         2716   40    0 
+Carenbon  958352435 10 10 f   -     -     Q         2676    0    0 
+Carenbon  958662587  4  4 f   -     -     -         2676    0    0 
+Carenbon  958662606  4  3 c   b     -     -         2676   40   70 
+Carenbon  958662633  4  2 Bk  c     c     c         2706  120  240 3s 4d
+Carenbon  958662648  4  1 Bf  -     -     -         2826   10    0 
+Carenbon  958662669  4  4 f   -     -     -         2816    0    0 
+Carenbon  958662677  4  3 c   k     k     k         2816   20   50 Qc Ac
+Carenbon  958662691  4  2 Bf  -     -     -         2846   20    0 
+Carenbon  958662717  4  1 Bc  k     b     -         2826   60  100 
+Carenbon  958662749  4  4 f   -     -     -         2866    0    0 
+Carenbon  958662763  4  3 f   -     -     -         2866    0    0 
+Carenbon  958662773  5  2 Bf  -     -     -         2866   20    0 
+Carenbon  958662806  5  1 Bc  kc    kc    kc        2846  120    0 4h Qh
+Carenbon  958662838  5  5 f   -     -     -         2726    0    0 
+Carenbon  958662859  5  4 c   f     -     -         2726   40    0 
+Carenbon  958662914  5  3 f   -     -     -         2686    0    0 
+Carenbon  958662932  5  2 Br  c     k     k         2686  100  320 Ad As
+Carenbon  958662966  5  1 Bcc k     k     k         2906   40   80 Ks 2s
+Carenbon  958663001  5  5 f   -     -     -         2946    0    0 
+Carenbon  958663009  5  4 f   -     -     -         2946    0    0 
+Carenbon  958663032  5  3 f   -     -     -         2946    0    0 
+Carenbon  958663047  5  2 B   -     -     -         2946   20   30 
+Carenbon  958663054  5  1 Bf  -     -     -         2956   10    0 
+Carenbon  958663082  6  6 f   -     -     -         2946    0    0 
+Carenbon  958663129  6  5 c   f     -     -         2946   40    0 
+Carenbon  958663178  7  4 f   -     -     -         2906    0    0 
+Carenbon  958663206  7  3 f   -     -     -         2906    0    0 
+Carenbon  958663267  7  2 Bk  k     k     k         2906   20    0 4s 8c
+Carenbon  958663291  5  1 Bc  k     k     kf        2886   20    0 
+Carenbon  958663318  5  5 f   -     -     -         2866    0    0 
+Carenbon  958663334  5  4 f   -     -     -         2866    0    0 
+Carenbon  958663355  5  3 f   -     -     -         2866    0    0 
+Carenbon  958663386  6  3 cc  kf    -     -         2866   40    0 
+Carenbon  958663426  6  2 Bc  k     b     -         2826   80  130 
+Carenbon  958663482  5  1 Bc  b     kc    k         2876   80    0 7s Ks
+Carenbon  958663510  5  5 f   -     -     -         2796    0    0 
+Carenbon  958663542  5  4 f   -     -     -         2796    0    0 
+Carenbon  958663566  5  3 f   -     -     -         2796    0    0 
+Carenbon  958663586  5  2 Bk  k     k     k         2796   20    0 7s 5d
+Carenbon  958663602  5  1 Bf  -     -     -         2776   10    0 
+Carenbon  958663613  5  5 cc  c     c     k         2766  100    0 As 4s
+Carenbon  958663654  5  4 cc  kc    kc    kf        2666  100    0 
+Carenbon  958663704  5  3 c   k     k     k         2566   20    0 Kd Jh
+Carenbon  958663766  5  2 Bk  k     b     k         2546   60  130 7c 9s
+Carenbon  958663791  6  1 Bf  -     -     -         2616   10    0 
+Carenbon  958663823  6  6 f   -     -     -         2606    0    0 
+Carenbon  958663844  6  5 f   -     -     -         2606    0    0 
+Carenbon  958663853  5  4 c   f     -     -         2606   40    0 
+Carenbon  958663871  5  3 c   kf    -     -         2566   20    0 
+Carenbon  958663931  5  2 Bc  kf    -     -         2546   40    0 
+Carenbon  958663965  5  1 Bf  -     -     -         2506   10    0 
+Carenbon  958663989  5  5 c   f     -     -         2496   20    0 
+Carenbon  958664010  5  4 f   -     -     -         2476    0    0 
+Carenbon  958664021  5  3 c   k     b     -         2476   60  120 
+Carenbon  958664075  5  2 Bf  -     -     -         2536   20    0 
+Carenbon  958664081  5  1 Bc  k     k     kf        2516   20    0 
+Carenbon  958664119  5  5 f   -     -     -         2496    0    0 
+Carenbon  958664131  5  4 f   -     -     -         2496    0    0 
+Carenbon  958664135  5  3 f   -     -     -         2496    0    0 
+Carenbon  958664201  5  2 Bk  f     -     -         2496   20    0 
+Carenbon  958664233  4  1 Bc  kf    -     -         2476   20    0 
+Carenbon  958664246  4  4 r   c     c     k         2456  100  210 Kd Kh
+Carenbon  958664269  4  3 f   -     -     -         2566    0    0 
+Carenbon  958664276  4  2 B   -     -     -         2566   20   30 
+Carenbon  958664281  4  1 Bf  -     -     -         2576   10    0 
+Carenbon  958664293  4  4 f   -     -     -         2566    0    0 
+Carenbon  958664312  4  3 f   -     -     -         2566    0    0 
+Carenbon  958664323  4  2 B   -     -     -         2566   20   30 
+Carenbon  958664328  4  1 Bc  b     b     k         2576   80  160 Ac 9s
+Carenbon  958664360  4  4 f   -     -     -         2656    0    0 
+Carenbon  958664376  4  3 c   k     k     k         2656   20   50 Tc 8c
+Carenbon  958664414  4  2 Bk  b     -     -         2686   40   60 
+Carenbon  958664435  4  1 Br  -     -     -         2706   40   60 
+Carenbon  958664446  4  4 c   b     -     -         2726   40   70 
+Carenbon  958664460  4  3 f   -     -     -         2756    0    0 
+Carenbon  958664480  4  2 B   -     -     -         2756   20   30 
+Carenbon  958664485  4  1 Bf  -     -     -         2766   10    0 
+Carenbon  958664506  4  4 f   -     -     -         2756    0    0 
+Carenbon  958664518  4  3 f   -     -     -         2756    0    0 
+Carenbon  958664522  4  2 Bc  kf    -     -         2756   40    0 
+Carenbon  958664574  4  1 Bf  -     -     -         2716   10    0 
+Carenbon  958664601  4  4 KQ  -     -     -         2706    0    0 
+Carenbon  958664685  4  3 f   -     -     -         2706    0    0 
+Carenbon  958664703  4  2 Bk  c     f     -         2706   40    0 
+Carenbon  958664730  4  1 Bf  -     -     -         2666   10    0 
+Carenbon  958664771  4  4 c   c     k     k         2656   40  100 6c Qc
+Carenbon  958664811  5  4 f   -     -     -         2716    0    0 
+Carenbon  958664863  5  3 f   -     -     -         2716    0    0 
+Carenbon  958664892  5  2 Bf  -     -     -         2716   20    0 
+Carenbon  958664929  5  1 Bf  -     -     -         2696   10    0 
+Carenbon  958664956  5  5 f   -     -     -         2686    0    0 
+Carenbon  958664980  5  4 c   f     -     -         2686   20    0 
+Carenbon  958665010  5  3 f   -     -     -         2666    0    0 
+Carenbon  958665045  5  2 Bk  k     bc    kc        2666  140  340 9c Kd
+Carenbon  958665111  4  1 Bf  -     -     -         2866   10    0 
+Carenbon  958665128  4  4 f   -     -     -         2856    0    0 
+Carenbon  958665138  4  3 f   -     -     -         2856    0    0 
+Carenbon  958665144  4  2 Bk  f     -     -         2856   20    0 
+Carenbon  958665166  5  1 Bf  -     -     -         2836   10    0 
+Carenbon  958665187  5  5 f   -     -     -         2826    0    0 
+Carenbon  958665236  5  4 f   -     -     -         2826    0    0 
+Carenbon  958665274  5  3 f   -     -     -         2826    0    0 
+Carenbon  958665299  5  2 Bf  -     -     -         2826   20    0 
+Carenbon  958665327  5  1 Bcf -     -     -         2806   20    0 
+Carenbon  958665353  5  5 c   k     k     f         2786   20    0 
+Carenbon  958665416  5  4 f   -     -     -         2766    0    0 
+Carenbon  958665434  5  3 f   -     -     -         2766    0    0 
+Carenbon  958665459  5  2 Bf  -     -     -         2766   20    0 
+Carenbon  958665497  5  1 Bf  -     -     -         2746   10    0 
+Carenbon  958665533  5  5 f   -     -     -         2736    0    0 
+Carenbon  958665547  5  4 f   -     -     -         2736    0    0 
+Carenbon  958665595  5  3 f   -     -     -         2736    0    0 
+Carenbon  958665628  5  2 Bk  k     b     -         2736   60   80 
+Carenbon  958665649  5  1 Bc  k     k     k         2756   20    0 6d Td
+Carenbon  958665689  5  5 cc  c     f     -         2736   60    0 
+Carenbon  958665723  5  4 f   -     -     -         2676    0    0 
+Carenbon  958665763  5  3 f   -     -     -         2676    0    0 
+Carenbon  958665772  5  2 Bk  kf    -     -         2676   20    0 
+Carenbon  958665810  6  1 Bf  -     -     -         2666   10    0 
+Carenbon  958665840  6  6 c   k     f     -         2656   20    0 
+Carenbon  958665901  6  5 f   -     -     -         2636    0    0 
+Carenbon  958665917  6  4 c   k     b     -         2636   60  100 
+Carenbon  958665986  7  3 f   -     -     -         2676    0    0 
+Carenbon  958666018  7  2 Bf  -     -     -         2676   20    0 
+Carenbon  958666050  7  1 Bf  -     -     -         2656   10    0 
+Carenbon  958666093  6  6 f   -     -     -         2646    0    0 
+Carenbon  958666149  7  6 f   -     -     -         2646    0    0 
+Carenbon  958666170  6  4 f   -     -     -         2646    0    0 
+Carenbon  958666224  6  3 f   -     -     -         2646    0    0 
+Carenbon  958666254  6  2 BQ  -     -     -         2646   20    0 
+Carenbon  958695660 10  2 Bf  -     -     -         2621   20    0 
+Carenbon  958695707 10  1 Bf  -     -     -         2601   10    0 
+Carenbon  958695720 10 10 f   -     -     -         2591    0    0 
+Carenbon  958695747 10  9 f   -     -     -         2591    0    0 
+Carenbon  958695799 10  8 f   -     -     -         2591    0    0 
+Carenbon  958695868 10  7 f   -     -     -         2591    0    0 
+Carenbon  958695921 10  6 f   -     -     -         2591    0    0 
+Carenbon  958695972 10  5 f   -     -     -         2591    0    0 
+Carenbon  958695997 10  4 f   -     -     -         2591    0    0 
+Carenbon  958696083 10  3 c   kf    -     -         2591   20    0 
+Carenbon  958696145 10  2 Bf  -     -     -         2571   20    0 
+Carenbon  958696171 10  1 Bf  Q     -     -         2551   10    0 
+Carenbon  958696895 10  9 f   -     -     -         2541    0    0 
+Carenbon  958696948 10  8 f   -     -     -         2541    0    0 
+Carenbon  958696986 10  7 f   -     -     -         2541    0    0 
+Carenbon  958697055  8  6 c   k     f     -         2541   20    0 
+Carenbon  958697113  8  5 cc  c     k     c         2521  100    0 8c 8s
+Carenbon  958697183  8  4 f   -     -     -         2421    0    0 
+Carenbon  958697235  8  3 f   -     -     -         2421    0    0 
+Carenbon  958697277  8  2 Bf  -     -     -         2421   20    0 
+Carenbon  958697308  8  1 Bf  -     -     -         2401   10    0 
+Carenbon  958697332  9  9 f   -     -     -         2391    0    0 
+Carenbon  958697381  9  8 c   c     c     f         2391  120    0 
+Carenbon  958697446  8  7 f   -     -     -         2271    0    0 
+Carenbon  958697557  8  6 f   -     -     -         2271    0    0 
+Carenbon  958697619  8  5 f   -     -     -         2271    0    0 
+Carenbon  958697659 10  4 f   -     -     -         2271    0    0 
+Carenbon  958697744 10  3 f   -     -     -         2271    0    0 
+Carenbon  958697806 10  2 Bc  kc    kc    k         2271  100    0 Ad Tc
+Carenbon  958697860 10  1 Bf  -     -     -         2171   10    0 
+Carenbon  958697892 10 10 c   k     k     f         2161   40    0 
+Carenbon  958697949 10  9 f   -     -     -         2121    0    0 
+Carenbon  958697993 10  8 f   -     -     -         2121    0    0 
+Carenbon  958698041 10  7 f   -     -     -         2121    0    0 
+Carenbon  958698141 10  6 f   -     -     -         2121    0    0 
+Carenbon  958698216 10  5 f   -     -     -         2121    0    0 
+Carenbon  958698282  9  4 c   b     b     k         2121   80    0 Jh Th
+Carenbon  958698354  9  3 fQ  -     -     -         2041    0    0 
+Carenbon  958843955  8  5 f   -     -     -         2041    0    0 
+Carenbon  958844027  9  4 f   -     -     -         2041    0    0 
+Carenbon  958844083  9  3 f   -     -     -         2041    0    0 
+Carenbon  958844109  9  2 Bk  b     k     b         2041   80  180 
+Carenbon  958844162  9  1 Bf  -     -     -         2141   10    0 
+Carenbon  958844227  9  9 f   -     -     -         2131    0    0 
+Carenbon  958844284  9  8 f   -     -     -         2131    0    0 
+Carenbon  958844342  9  7 f   -     -     -         2131    0    0 
+Carenbon  958844389  9  6 f   -     -     -         2131    0    0 
+Carenbon  958844438  9  5 f   -     -     -         2131    0    0 
+Carenbon  958844490  9  4 f   -     -     -         2131    0    0 
+Carenbon  958844589 10  3 f   -     -     -         2131    0    0 
+Carenbon  958844642 10  2 Bk  kf    -     -         2131   20    0 
+Carenbon  958844673 10  1 Bc  b     b     -         2111   80  120 
+Carenbon  958844727 10 10 f   -     -     -         2151    0    0 
+Carenbon  958844830 10  9 c   cc    k     c         2151  100    0 Jc Jd
+Carenbon  958844903 10  8 c   c     c     c         2051  120  340 Ac 5c
+Carenbon  958844968 10  7 cc  cc    kc    k         2271  160    0 6s 6c
+Carenbon  958845050 10  6 f   -     -     -         2111    0    0 
+Carenbon  958845132 10  5 f   -     -     -         2111    0    0 
+Carenbon  958845279 10  4 f   -     -     -         2111    0    0 
+Carenbon  958845329 10  3 f   -     -     -         2111    0    0 
+Carenbon  958845425 10  2 Bk  kf    -     -         2111   20    0 
+Carenbon  958845486 10  1 Bf  -     -     -         2091   10    0 
+Carenbon  958845585 10 10 f   -     -     -         2081    0    0 
+Carenbon  958845627  9  9 Q   -     -     -         2081    0    0 
+Carenbon  958931502  4  2 Bf  -     -     -         2041   20    0 
+Carenbon  958931542  4  1 Bc  k     k     k         2021   20    0 Jd 2d
+Carenbon  958931589  4  4 c   c     c     c         2001  120    0 9c 9d
+Carenbon  958931616  4  3 f   -     -     -         1881    0    0 
+Carenbon  958931628  4  2 Bc  kf    -     -         1881   40    0 
+Carenbon  958931689  4  1 Bf  -     -     -         1841   10    0 
+Carenbon  958931715  4  4 f   -     -     -         1831    0    0 
+Carenbon  958931733  4  3 f   -     -     -         1831    0    0 
+Carenbon  958931766  4  2 Bk  f     -     -         1831   20    0 
+Carenbon  958931795  4  1 Bf  -     -     -         1811   10    0 
+Carenbon  958931839  4  4 c   k     b     b         1801  100  190 
+Carenbon  958931880  4  3 f   -     -     -         1891    0    0 
+Carenbon  958931918  4  2 Bk  kf    -     -         1891   20    0 
+Carenbon  958931966  4  1 Bf  -     -     -         1871   10    0 
+Carenbon  958932005  4  4 f   -     -     -         1861    0    0 
+Carenbon  958932011  4  3 f   -     -     -         1861    0    0 
+Carenbon  958932043  4  2 Bk  k     k     b         1861   60  160 4h 2h
+Carenbon  958932075  4  1 Bf  -     -     -         1961   10    0 
+Carenbon  958932094  4  4 f   -     -     -         1951    0    0 
+Carenbon  958932120  6  3 f   -     -     -         1951    0    0 
+Carenbon  958932150  6  2 Bf  -     -     -         1951   20    0 
+Carenbon  958932195  6  1 Bf  -     -     -         1931   10    0 
+Carenbon  958932222  6  6 c   k     k     k         1921   20   50 8h Kh
+Carenbon  958932254  5  4 f   -     -     -         1951    0    0 
+Carenbon  958932278  5  3 fQ  -     -     -         1951    0    0 
+Carenbon  958940073  5  3 f   -     Q     -         2171    0    0 
+Carenbon  958940366  8  5 f   -     -     -         2171    0    0 
+Carenbon  958940404  8  4 f   -     -     -         2171    0    0 
+Carenbon  958940462  8  3 cc  kf    -     -         2171   40    0 
+Carenbon  958940489  9  3 f   -     -     -         2131    0    0 
+Carenbon  958940521  9  2 Bf  -     -     -         2131   20    0 
+Carenbon  958940535  9  1 Bf  -     -     -         2111   10    0 
+Carenbon  958940571  9  9 f   -     -     -         2101    0    0 
+Carenbon  958940600  9  8 f   -     -     -         2101    0    0 
+Carenbon  958940641  8  6 f   -     -     -         2101    0    0 
+Carenbon  958940675  8  5 f   -     -     -         2101    0    0 
+Carenbon  958940736  8  4 f   -     -     -         2101    0    0 
+Carenbon  958940769  9  4 f   -     -     -         2101    0    0 
+Carenbon  958940822  8  2 Bf  -     -     -         2101   20    0 
+Carenbon  958940852  8  1 Bf  -     -     -         2081   10    0 
+Carenbon  958940908  8  8 f   -     -     -         2071    0    0 
+Carenbon  958940969  7  7 c   b     c     k         2071   80  230 Th Ah
+Carenbon  958941057  5  4 c   f     -     -         2221   40    0 
+Carenbon  958941123  6  4 c   f     -     -         2181   20    0 
+Carenbon  958941183  6  3 f   -     -     -         2161    0    0 
+Carenbon  958941205  6  2 Bk  k     kf    -         2161   20    0 
+Carenbon  958941262  6  1 Bc  k     k     kQ        2141   20    0 
+Carenbon  959378470  6  4 f   -     -     -         2511    0    0 
+Carenbon  959378501  8  5 f   -     -     -         2511    0    0 
+Carenbon  959378543  8  4 f   -     -     -         2511    0    0 
+Carenbon  959378592  9  4 c   kf    -     -         2511   20    0 
+Carenbon  959378650 10  4 f   -     -     -         2491    0    0 
+Carenbon  959378708 10  3 cc  fQ    -     -         2491   40    0 
+Carenbon  959382044 10  4 f   -     -     -         2451    0    0 
+Carenbon  959382066 10  5 f   -     -     -         2451    0    0 
+Carenbon  959382123  7  2 Bk  kf    -     -         2441   20    0 
+Carenbon  959382181  7  1 Bc  kc    kc    kf        2421   80    0 
+Carenbon  959382232  7  7 f   -     -     -         2341    0    0 
+Carenbon  959382309  6  6 f   -     -     -         2341    0    0 
+Carenbon  959382341  6  5 cc  kf    -     -         2341   40    0 
+Carenbon  959382357  6  4 f   -     -     -         2301    0    0 
+Carenbon  959382365  6  3 c   f     -     -         2301   20    0 
+Carenbon  959382397  7  2 Bk  kf    -     -         2281   20    0 
+Carenbon  959382422  7  1 Bc  kc    k     kQ        2261   40    0 
+Carenbon  959387029  5  2 B   -     -     -         2221   20   30 
+Carenbon  959387039  5  1 Bf  -     -     -         2231   10    0 
+Carenbon  959387073  5  5 f   -     -     -         2221    0    0 
+Carenbon  959387085  5  4 f   -     -     -         2221    0    0 
+Carenbon  959387103  5  3 f   -     -     -         2221    0    0 
+Carenbon  959387132  5  2 BKQ -     -     -         2221   20    0 
+Carenbon  959387244  6  4 f   -     -     -         2201    0    0 
+Carenbon  959387254  7  3 f   -     -     -         2201    0    0 
+Carenbon  959387295  7  2 Bk  k     k     k         2201   20    0 7c 7d
+Carenbon  959387398  7  1 Bf  -     -     -         2181   10    0 
+Carenbon  959387419  7  7 f   -     -     -         2171    0    0 
+Carenbon  959387432  7  6 c   k     k     f         2171   20    0 
+Carenbon  959387464  7  5 f   -     -     -         2151    0    0 
+Carenbon  959387489  7  4 f   -     -     -         2151    0    0 
+Carenbon  959387535  7  3 f   -     -     -         2161    0    0 
+Carenbon  959387587  7  2 Bk  k     k     k         2161   20   70 Kh 3h
+Carenbon  959387625  7  1 Bc  k     b     b         2211  100  120 Ac Tc
+Carenbon  959387655  6  6 c   b     -     -         2231   40   60 
+Carenbon  959387672  6  6 f   -     -     -         2251    0    0 
+Carenbon  959387679  6  5 c   b     -     -         2251   40   90 
+Carenbon  959387695  6  4 f   -     -     -         2301    0    0 
+Carenbon  959387712  7  3 f   -     -     -         2301    0    0 
+Carenbon  959387733  7  2 B   -     -     -         2301   20   30 
+Carenbon  959387739  7  1 Bc  b     -     -         2311   40   80 
+Carenbon  959387751  8  8 f   -     -     -         2351    0    0 
+Carenbon  959387773  8  7 c   b     f     -         2351   40    0 
+Carenbon  959387801  8  6 f   -     -     -         2311    0    0 
+Carenbon  959387827  8  5 f   -     -     -         2311    0    0 
+Carenbon  959387851  7  3 cc  b     kc    kc        2311  140  460 Ks Ac
+Carenbon  959387885  7  3 f   -     -     -         2631    0    0 
+Carenbon  959387900  7  2 Bk  kf    -     -         2631   20    0 
+Carenbon  959387922  7  1 Bf  -     -     -         2611   10    0 
+Carenbon  959387940  7  7 f   -     -     -         2601    0    0 
+Carenbon  959387957  7  6 f   -     -     -         2601    0    0 
+Carenbon  959387975  7  5 f   -     -     -         2601    0    0 
+Carenbon  959387996  7  4 f   -     -     -         2601    0    0 
+Carenbon  959388040  7  3 cc  kc    kc    kf        2601  100    0 
+Carenbon  959388075  7  2 Bk  f     -     -         2511   20    0 
+Carenbon  959388090  7  1 Bf  -     -     -         2491   10    0 
+Carenbon  959388105  7  7 f   -     -     -         2481    0    0 
+Carenbon  959388124  7  6 f   -     -     -         2481    0    0 
+Carenbon  959388132  7  5 f   -     -     -         2481    0    0 
+Carenbon  959388155  7  4 c   kf    -     -         2481   20    0 
+Carenbon  959388187  6  3 f   -     -     -         2461    0    0 
+Carenbon  959388220  6  2 Bk  k     k     k         2461   20    0 8h 9h
+Carenbon  959388243  7  1 Bf  -     -     -         2441   10    0 
+Carenbon  959388262  7  7 c   k     bc    c         2431  140  320 4h 4c
+Carenbon  959388294  7  3 Q   -     -     -         2611    0    0 

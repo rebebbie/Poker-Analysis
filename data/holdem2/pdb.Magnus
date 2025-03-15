@@ -1,0 +1,716 @@
+Magnus    959239378  6  4 c   k     b     b         2870  100  220 
+Magnus    959239429  6  3 f   -     -     -         2985    0    0 
+Magnus    959239450  6  2 Bk  b     b     -         2985   80  140 
+Magnus    959239473  6  1 Bf  -     -     -         3045   10    0 
+Magnus    959239495  6  6 f   -     -     -         3035    0    0 
+Magnus    959239511  6  5 f   -     -     -         3035    0    0 
+Magnus    959239540  6  4 c   k     b     -         3035   60  100 
+Magnus    959239558  6  3 f   -     -     -         3075    0    0 
+Magnus    959239579  7  2 Bk  kf    -     -         3075   20    0 
+Magnus    959239598  7  1 Bf  -     -     -         3055   10    0 
+Magnus    959239640  7  7 c   c     f     -         3045   40    0 
+Magnus    959239700  7  6 f   -     -     -         3005    0    0 
+Magnus    959239727  7  5 c   b     c     r         3005  180  600 
+Magnus    959239763  6  3 c   rc    bc    bc        3425  240    0 Kc Kd
+Magnus    959239816  6  2 Bf  -     -     -         3185   20    0 
+Magnus    959239870  6  1 Bf  -     -     -         3165   10    0 
+Magnus    959239894  6  6 c   b     b     b         3155  120  260 
+Magnus    959239930  5  4 c   b     b     b         3295  120  220 
+Magnus    959239953  5  4 f   -     -     -         3395    0    0 
+Magnus    959239970  5  3 c   rc    c     c         3395  160  350 Jh Kc
+Magnus    959240008  5  2 Bk  k     kf    -         3585   20    0 
+Magnus    959240038  5  1 Bf  -     -     -         3565   10    0 
+Magnus    959240077  6  6 c   rc    c     c         3555  180    0 Jd 9s
+Magnus    959240110  6  5 f   -     -     -         3375    0    0 
+Magnus    959240138  6  4 cc  f     -     -         3375   40    0 
+Magnus    959240193  6  3 c   b     -     -         3335   40   70 
+Magnus    959240208  6  2 Bf  -     -     -         3365   20    0 
+Magnus    959240248  7  1 Bf  -     -     -         3345   10    0 
+Magnus    959240260  7  7 c   c     f     -         3335   60    0 
+Magnus    959240315  7  6 f   -     -     -         3275    0    0 
+Magnus    959240322  7  5 f   -     -     -         3275    0    0 
+Magnus    959240342  7  4 f   -     -     -         3275    0    0 
+Magnus    959240364  7  3 c   f     -     -         3275   20    0 
+Magnus    959240407  7  2 Bf  -     -     -         3255   20    0 
+Magnus    959240464  7  1 Br  b     brc   br        3235  340 1000 As Ad
+Magnus    959240524  7  7 f   -     -     -         3895    0    0 
+Magnus    959240581  7  6 f   -     -     -         3895    0    0 
+Magnus    959240588  7  5 f   -     -     -         3895    0    0 
+Magnus    959240636  7  4 c   c     c     b         3895  120  250 4s 3d
+Magnus    959240671  7  3 f   -     -     -         4025    0    0 
+Magnus    959240681  7  2 Bk  k     kf    -         4025   20    0 
+Magnus    959240722  7  1 Bf  -     -     -         4005   10    0 
+Magnus    959240752  7  7 c   b     bf    -         3995   80    0 
+Magnus    959240786  7  6 f   -     -     -         3915    0    0 
+Magnus    959240831  7  3 Q   -     -     -         3915    0    0 
+Magnus    959240975  7  2 Bk  kc    b     b         3915  120    0 8h Td
+Magnus    959241003  7  1 Bf  -     -     -         3795   10    0 
+Magnus    959241026  7  7 c   b     b     -         3785   80  160 
+Magnus    959241062  7  6 f   -     -     -         3865    0    0 
+Magnus    959241099  7  5 c   f     -     -         3865   20    0 
+Magnus    959241131  7  4 c   f     -     -         3845   20    0 
+Magnus    959241164  7  3 f   -     -     -         3825    0    0 
+Magnus    959241190  7  2 Bk  kc    kf    -         3825   40    0 
+Magnus    959241221  7  1 Bc  b     b     b         3785  120    0 7s Jh
+Magnus    959241267  7  7 cc  c     c     f         3665  140    0 
+Magnus    959241335  7  6 f   -     -     -         3525    0    0 
+Magnus    959241391  7  5 f   -     -     -         3525    0    0 
+Magnus    959241424  7  4 f   -     -     -         3525    0    0 
+Magnus    959241477  7  3 cc  b     bf    -         3525  100    0 
+Magnus    959241515  8  2 Bk  b     b     br        3425  200  410 8c 8h
+Magnus    959241544  8  1 Bc  kc    kf    -         3635   40    0 
+Magnus    959241576  8  8 c   b     br    b         3595  200  460 Ad 2c
+Magnus    959241630  7  6 c   k     f     -         3855   20    0 
+Magnus    959241690  7  5 f   -     -     -         3835    0    0 
+Magnus    959241704  7  4 f   -     -     -         3835    0    0 
+Magnus    959241743  7  3 c   k     k     b         3835   60  120 
+Magnus    959241789  6  2 Bf  -     -     -         3895   20    0 
+Magnus    959241821  6  1 Bf  -     -     -         3875   10    0 
+Magnus    959241854  6  6 c   b     b     f         3865   80    0 
+Magnus    959241888  6  5 cc  c     c     k         3785  120    0 9c 9h
+Magnus    959241919  5  3 c   b     bc    b         3665  160  340 Th 7d
+Magnus    959241958  5  2 Bk  k     k     bc        3845  100  110 Ah 4s
+Magnus    959241986  5  1 Bc  kc    bc    k         3855  120    0 Qh Kd
+Magnus    959242013  5  5 f   -     Q     -         3735    0    0 
+Magnus    959308220 10 10 f   -     -     -         3760    0    0 
+Magnus    959308269 10  9 f   -     -     -         3760    0    0 
+Magnus    959308299 10  8 f   -     -     -         3760    0    0 
+Magnus    959308363  9  7 f   -     -     -         3760    0    0 
+Magnus    959308386  9  6 c   b     f     -         3760   40    0 
+Magnus    959308410  9  5 cc  cf    -     -         3720   60    0 
+Magnus    959308450  9  4 f   -     -     -         3660    0    0 
+Magnus    959308464  8  2 Bf  -     -     -         3660   20    0 
+Magnus    959308492  8  1 Bc  b     b     b         3640  120  200 
+Magnus    959308518  8  8 f   -     -     -         3720    0    0 
+Magnus    959308528  8  7 c   c     c     rf        3720  160    0 
+Magnus    959308576  8  6 f   -     -     -         3560    0    0 
+Magnus    959308621  8  5 c   c     b     b         3560  120  300 
+Magnus    959308656  8  5 c   k     c     c         3740  100  230 Ad 7h
+Magnus    959308709  8  4 c   k     bf    -         3870   60    0 
+Magnus    959308761  7  2 Bk  kf    -     -         3810   20    0 
+Magnus    959308786  8  1 Bc  kc    kc    kf        3790  100    0 
+Magnus    959308835 10  9 f   -     -     -         3690    0    0 
+Magnus    959308877 10  8 f   -     -     -         3690    0    0 
+Magnus    959308907  9  6 c   k     k     cc        3690  100    0 8c 9d
+Magnus    959308950  9  6 c   kc    kc    kf        3590  100    0 
+Magnus    959308997  9  5 f   -     -     -         3490    0    0 
+Magnus    959309006  9  4 f   -     -     -         3490    0    0 
+Magnus    959309029  9  3 c   kQ    -     -         3490   20    0 
+Magnus    959323062  9  6 f   -     -     -         3350    0    0 
+Magnus    959323101  9  5 f   -     -     -         3350    0    0 
+Magnus    959323145 10  4 c   k     c     f         3350   60    0 
+Magnus    959323211 10  3 c   b     -     -         3290   40   70 
+Magnus    959323246 10  2 Bk  b     -     -         3320   40  160 
+Magnus    959323307 10  1 Bcc b     bc    bc        3440  220    0 6h 7c
+Magnus    959323386 10 10 c   r     b     b         3220  160  330 
+Magnus    959323430 10  9 cc  c     c     f         3390  180    0 
+Magnus    959323521 10  8 c   rc    bc    kc        3210  200    0 Js Kh
+Magnus    959323591 10  7 f   -     -     -         3010    0    0 
+Magnus    959323627 10  6 cc  f     -     -         3010   40    0 
+Magnus    959323720 10  5 f   -     -     -         2970    0    0 
+Magnus    959323746 10  4 cc  ccc   c     rrc       2970  360    0 Qd Jh
+Magnus    959323830 10  3 c   b     b     kf        2610   80    0 
+Magnus    959323876 10  2 Bf  -     -     -         2530   20    0 
+Magnus    959323950 10  1 Bc  kf    -     -         2510   20    0 
+Magnus    959323993 10 10 f   -     -     -         2490    0    0 
+Magnus    959324030 10  9 f   -     -     -         2490    0    0 
+Magnus    959324088 10  8 f   -     -     -         2490    0    0 
+Magnus    959324130 10  7 f   -     -     -         2490    0    0 
+Magnus    959324158 10  6 f   -     -     -         2490    0    0 
+Magnus    959324210 10  5 f   -     -     -         2490    0    0 
+Magnus    959324270 10  4 cc  c     cc    bc        2490  240    0 Th Ah
+Magnus    959324376 10  3 f   -     -     -         2250    0    0 
+Magnus    959324428 10  2 Bk  k     kc    kf        2250   60    0 
+Magnus    959324490 10  1 Bf  -     -     -         2190   10    0 
+Magnus    959324549 10 10 f   -     -     -         2180    0    0 
+Magnus    959324639 10  9 c   f     -     -         2180   20    0 
+Magnus    959324717  9  7 c   b     b     b         2160  120    0 9d Td
+Magnus    959324767  9  6 c   b     kr    b         2040  160  480 Ac 9s
+Magnus    959324865  9  5 cc  c     c     f         2360  100    0 
+Magnus    959324916  9  4 f   -     -     -         2260    0    0 
+Magnus    959324985  9  3 c   kc    k     k         2260   40    0 3c 2h
+Magnus    959325028  9  2 Bk  kf    -     -         2220   20    0 
+Magnus    959325063  9  1 Bf  -     -     -         2200   10    0 
+Magnus    959325105 10 10 c   c     c     f         2190  100    0 
+Magnus    959325184 10  9 f   -     -     -         2090    0    0 
+Magnus    959325220 10  8 cc  bc    bc    b         2090  200    0 9d Qd
+Magnus    959325283 10  7 c   kf    -     -         1890   20    0 
+Magnus    959325311 10  6 c   kf    -     -         1870   20    0 
+Magnus    959325345 10  5 ccc b     f     -         1850  100    0 
+Magnus    959325415 10  4 f   -     -     -         1750    0    0 
+Magnus    959325451 10  3 f   -     -     -         1750    0    0 
+Magnus    959325507 10  2 Bf  -     -     -         1750   20    0 
+Magnus    959325556 10  1 Bc  b     b     b         1730  140  280 
+Magnus    959325592 10 10 c   f     -     -         1870   20    0 
+Magnus    959325613 10  9 f   -     -     -         1850    0    0 
+Magnus    959325662  9  7 ccc bc    r     b         1850  240  780 Kh 9c
+Magnus    959325732  9  6 f   -     -     -         2390    0    0 
+Magnus    959325745  9  5 cc  bc    kc    bc        2390  200    0 Ad 9h
+Magnus    959325808  9  4 f   -     -     -         2190    0    0 
+Magnus    959325847  9  3 c   k     b     -         2190   60  130 
+Magnus    959325882  8  2 Bf  -     -     -         2260   20    0 
+Magnus    959325906  8  1 Bf  -     -     -         2240   10    0 
+Magnus    959325938  8  8 c   k     c     f         2230   60    0 
+Magnus    959325968  8  7 cc  b     b     b         2170  140    0 5h As
+Magnus    959326001  8  6 c   c     c     f         2030  120    0 
+Magnus    959326037  8  5 f   -     -     -         1910    0    0 
+Magnus    959326065  8  4 f   -     -     -         1910    0    0 
+Magnus    959326099  8  3 cc  kc    kc    kf        1910  120    0 
+Magnus    959326131  8  2 Bf  -     -     -         1790   20    0 
+Magnus    959326163  8  1 Bc  kc    kc    b         1770  180  480 
+Magnus    959326197  8  8 f   -     -     -         2070    0    0 
+Magnus    959326245  7  6 cc  c     c     k         2070  100    0 9c Td
+Magnus    959326284  7  5 cc  c     c     c         1970  140  250 Ad 7d
+Magnus    959326328  7  4 f   -     -     -         2080    0    0 
+Magnus    959326349  5  2 Bf  -     -     -         2080   20    0 
+Magnus    959326407  5  1 Bf  -     -     -         2060   10    0 
+Magnus    959326429  5  5 c   f     -     -         2050   20    0 
+Magnus    959326452  5  4 f   -     -     -         2030    0    0 
+Magnus    959326475  4  3 cc  c     f     -         2030   60    0 
+Magnus    959326506  3  1 Bc  b     brf   -         1970  180    0 
+Magnus    959326522  3  1 Bf  -     -     -         1790   10    0 
+Magnus    959326527  3  3 cc  c     r     b         1780  180  370 5d 4s
+Magnus    959326540  3  2 Bc  rc    rc    c         1970  260  520 Jh 9s
+Magnus    959326561  3  1 Bc  bc    k     k         2230   80    0 2h 3s
+Magnus    959326583  4  4 c   f     -     -         2150   20    0 
+Magnus    959326594  4  3 ccc f     -     -         2130   80    0 
+Magnus    959326622  4  2 Bk  k     f     -         2050   20    0 
+Magnus    959326655  5  1 Bc  kc    kc    kf        2030  100    0 
+Magnus    959326683  5  5 c   k     f     -         1930   20    0 
+Magnus    959326700  5  4 c   f     -     -         1910   20    0 
+Magnus    959326728  5  3 c   c     c     f         1890   80    0 
+Magnus    959326757  5  2 Bk  b     b     f         1810   80    0 
+Magnus    959326797  5  1 Bc  kc    kf    -         1730   40    0 
+Magnus    959326816  5  5 cc  c     f     -         1690   60    0 
+Magnus    959326847  5  4 f   -     -     -         1630    0    0 
+Magnus    959326862  5  3 f   -     -     -         1630    0    0 
+Magnus    959326875  5  2 Bc  kc    kc    bc        1630  180  370 8s Ts
+Magnus    959326890  5  1 Bc  kf    -     -         1820   20    0 
+Magnus    959326916  5  5 f   -     -     -         1800    0    0 
+Magnus    959326936  6  5 c   f     -     -         1800   20    0 
+Magnus    959326948  6  4 f   -     -     -         1780    0    0 
+Magnus    959326973  6  3 f   -     -     -         1780    0    0 
+Magnus    959327009  6  2 Bc  k     k     kf        1780   40    0 
+Magnus    959327027  6  1 Bf  -     -     -         1740   10    0 
+Magnus    959327049  6  6 cc  c     c     r         1730  280  770 As 7c
+Magnus    959327080  6  5 cc  f     -     -         2220   40    0 
+Magnus    959327106  6  4 c   rc    c     c         2180  180    0 Ah 4s
+Magnus    959327135  6  3 cc  bc    bc    kc        2000  200    0 Qh Tc
+Magnus    959327167  6  2 Bk  f     -     -         1800   20    0 
+Magnus    959327189  6  1 Bf  -     -     -         1780   10    0 
+Magnus    959327208  6  6 f   -     -     -         1770    0    0 
+Magnus    959327233  6  5 f   -     -     -         1770    0    0 
+Magnus    959327254  6  4 f   -     -     -         1770    0    0 
+Magnus    959327268  6  3 f   -     -     -         1770    0    0 
+Magnus    959327305  6  2 Bc  kf    -     -         1770   40    0 
+Magnus    959327343  6  1 Bc  kc    kc    bc        1730  160  380 9h Qd
+Magnus    959327379  6  6 f   -     -     -         1950    0    0 
+Magnus    959327413  6  5 c   c     c     c         1950  120    0 Kc Ts
+Magnus    959327439  7  5 f   -     -     -         1830    0    0 
+Magnus    959327498  7  4 f   -     -     -         1830    0    0 
+Magnus    959327557  7  3 cc  kf    -     -         1830   40    0 
+Magnus    959327578  7  2 Bf  -     -     -         1790   20    0 
+Magnus    959327614  7  1 Bc  kc    kc    kf        1770  140    0 
+Magnus    959327656  7  7 c   f     -     -         1630   20    0 
+Magnus    959327674  7  6 c   f     -     -         1610   20    0 
+Magnus    959327708  7  5 c   f     -     -         1590   20    0 
+Magnus    959327753  7  4 f   -     -     -         1570    0    0 
+Magnus    959327794  7  3 cc  cc    c     f         1570  140    0 
+Magnus    959327840  7  2 Bk  k     k     kc        1430   60    0 Ks Ac
+Magnus    959327880  6  1 Bc  kc    k     kf        1370   60    0 
+Magnus    959327908  6  6 c   f     -     -         1310   40    0 
+Magnus    959327932  6  5 c   f     -     -         1270   40    0 
+Magnus    959327944  6  4 r   b     -     -         1230   60  160 
+Magnus    959327961  6  3 f   -     -     -         1330    0    0 
+Magnus    959327992  6  2 Bk  k     kf    -         1330   20    0 
+Magnus    959328015  6  1 Bc  k     kf    -         1310   20    0 
+Magnus    959328036  6  6 c   b     b     -         1290   80  160 
+Magnus    959328070  6  5 f   -     -     -         1370    0    0 
+Magnus    959328095  6  4 f   -     -     -         1370    0    0 
+Magnus    959328128  7  3 c   k     f     -         1370   20    0 
+Magnus    959328170  7  2 Bc  r     b     b         1350  160  440 Ad 5s
+Magnus    959328212  6  1 Bc  b     bc    br        1630  240  520 Qc Js
+Magnus    959328247  7  7 c   c     rc    b         1910  200  275 5d 5h
+Magnus    959328294  6  6 c   f     -     -         1985   20    0 
+Magnus    959328337  5  4 f   -     -     -         1965    0    0 
+Magnus    959328360  5  3 c   f     -     -         1965   20    0 
+Magnus    959328378  5  2 Bk  k     bc    br        1945  220  225 Ac 2h
+Magnus    959328404  5  1 Bcc k     b     b         1950  120  320 9s 8h
+Magnus    959328449  5  5 c   c     k     c         2150  100  280 5c 5d
+Magnus    959328502  5  4 f   -     -     -         2330    0    0 
+Magnus    959328525  5  3 c   k     kc    k         2330   60  260 8h Qd
+Magnus    959328582  5  2 Bk  k     c     k         2530   60    0 Jc 7s
+Magnus    959328614  5  1 Bc  k     b     b         2470  100  200 
+Magnus    959328644  5  5 c   k     k     b         2570   60  100 
+Magnus    959328670  5  4 cc  kc    k     f         2610   60    0 
+Magnus    959328707  5  3 f   -     -     -         2550    0    0 
+Magnus    959328725  5  2 Br  bc    c     r         2550  200  360 
+Magnus    959328748  5  1 Bf  -     -     -         2710   10    0 
+Magnus    959328764  5  5 c   k     f     -         2700   20    0 
+Magnus    959328784  5  4 f   -     -     -         2680    0    0 
+Magnus    959328812  5  3 f   -     -     -         2680    0    0 
+Magnus    959328851  5  2 Bc  r     c     r         2680  200  360 
+Magnus    959328876  5  1 Bc  k     b     kf        2840   80    0 
+Magnus    959328918  5  5 f   -     -     -         2760    0    0 
+Magnus    959328931  5  4 c   rc    c     c         2760  200    0 Ks Tc
+Magnus    959328965  5  3 f   -     -     -         2560    0    0 
+Magnus    959328997  5  2 Bc  kf    -     -         2560   40    0 
+Magnus    959329026  5  1 Bc  kc    bf    -         2520  100    0 
+Magnus    959329046  5  5 f   -     -     -         2420    0    0 
+Magnus    959329071  5  4 c   r     b     b         2420  160  440 Kd Td
+Magnus    959329098  5  3 f   -     -     -         2700    0    0 
+Magnus    959329137  5  2 Bc  c     f     -         2700   80    0 
+Magnus    959329168  6  1 Bc  b     b     b         2620  160  420 
+Magnus    959329216  6  6 c   f     -     -         2880   40    0 
+Magnus    959329246  6  5 c   cc    f     -         2840  100    0 
+Magnus    959329295  6  4 c   c     c     cf        2740  140    0 
+Magnus    959329355  6  4 cc  cc    k     kf        2600   80    0 
+Magnus    959329404  5  2 BQ  -     -     -         2520   20    0 
+Magnus    959402457  9  8 f   -     -     -         2763    0    0 
+Magnus    959402506  9  7 f   -     -     -         2763    0    0 
+Magnus    959402576  9  6 r   k     f     -         2763   40    0 
+Magnus    959402617  9  5 c   k     kf    -         2723   20    0 
+Magnus    959402651  8  3 f   -     -     -         2703    0    0 
+Magnus    959402691  8  2 Bk  f     -     -         2703   20    0 
+Magnus    959402763  8  1 Bf  -     -     -         2683   10    0 
+Magnus    959402807  8  8 c   f     -     -         2673   20    0 
+Magnus    959402842  8  7 c   r     -     -         2653   60  140 
+Magnus    959402869  8  7 r   b     b     -         2733  100  270 
+Magnus    959402916  7  5 f   -     -     -         2903    0    0 
+Magnus    959402965  6  4 c   k     k     kf        2903   20    0 
+Magnus    959402990  5  2 f   -     -     -         2883    0    0 
+Magnus    959403021  5  2 Bk  k     c     c         2883  100  200 Qs Jd
+Magnus    959403045  6  1 Bc  b     bc    kc        2983  180  400 Js Jh
+Magnus    959403076  6  6 f   -     -     -         3203    0    0 
+Magnus    959403096  6  5 f   -     -     -         3203    0    0 
+Magnus    959403194  6  4 c   c     f     -         3203   40    0 
+Magnus    959403252  6  3 c   b     -     -         3163   40   70 
+Magnus    959403270  6  2 Bf  -     -     -         3193   20    0 
+Magnus    959403300  6  1 Bc  kc    kf    -         3173   40    0 
+Magnus    959403348  6  6 c   b     -     -         3133   40  100 
+Magnus    959403379  6  5 f   -     -     -         3193    0    0 
+Magnus    959403418  8  4 c   kf    -     -         3193   20    0 
+Magnus    959403490  9  4 f   -     -     -         3173    0    0 
+Magnus    959403528  9  3 c   k     k     k         3173   20    0 3h 4s
+Magnus    959403602 10  2 Bk  kc    kc    k         3153  100    0 8h 9d
+Magnus    959403654 10  1 Bc  kf    -     -         3053   40    0 
+Magnus    959403698 10 10 f   -     -     -         3013    0    0 
+Magnus    959403737 10  9 f   -     -     -         3013    0    0 
+Magnus    959403775 10  8 c   f     -     -         3013   20    0 
+Magnus    959403866 10  7 c   c     kf    -         2993   40    0 
+Magnus    959403958  9  6 f   -     -     -         2953    0    0 
+Magnus    959404001  8  4 f   -     -     -         2953    0    0 
+Magnus    959404047  8  3 r   bc    kf    -         2953   80    0 
+Magnus    959404100  8  2 Bc  b     b     b         2873  140    0 Jh Qc
+Magnus    959404162  8  1 Bc  b     b     b         2733  120  400 Ac 3c
+Magnus    959404224  8  8 f   -     -     -         3013    0    0 
+Magnus    959404279  7  7 r   c     c     r         3013  180  470 Th Td
+Magnus    959404333  7  6 f   -     -     -         3303    0    0 
+Magnus    959404426  6  4 c   c     k     r         3303  120    0 Ts Jc
+Magnus    959404478  6  3 c   f     -     -         3183   20    0 
+Magnus    959404597  6  2 Bc  kc    b     -         3163  100  170 
+Magnus    959404634  7  1 Bf  -     -     -         3233   10    0 
+Magnus    959404664  8  8 c   b     b     r         3223  160    0 5h 2h
+Magnus    959404709  8  7 c   b     -     -         3063   40   90 
+Magnus    959404742  8  6 c   c     c     c         3113  120    0 Ah Kh
+Magnus    959404787 10  7 f   -     -     -         2993    0    0 
+Magnus    959404816 10  6 cc  b     k     b         2993  100    0 8s Td
+Magnus    959404881  9  4 f   -     -     -         2893    0    0 
+Magnus    959404930  9  4 f   -     -     -         2893    0    0 
+Magnus    959405032  7  3 c   kf    -     -         2893   20    0 
+Magnus    959405109  8  2 Bf  -     -     -         2873   20    0 
+Magnus    959405149  8  1 Bf  -     -     -         2853   10    0 
+Magnus    959405193  8  8 c   k     f     -         2843   20    0 
+Magnus    959405250  8  7 c   c     c     c         2823  120  145 Th Jh
+Magnus    959405287  8  6 r   bc    c     c         2848  160    0 Tc Th
+Magnus    959405320  7  5 f   -     -     -         2688    0    0 
+Magnus    959405355  7  4 c   k     k     f         2688   20    0 
+Magnus    959405397  7  2 Bk  kf    -     -         2668   20    0 
+Magnus    959405440  7  1 Bcc kc    kf    -         2648   60    0 
+Magnus    959405477  7  7 c   k     f     -         2588   20    0 
+Magnus    959405516  7  6 c   k     f     -         2568   20    0 
+Magnus    959405564  6  4 c   f     -     -         2548   20    0 
+Magnus    959405591  6  3 f   -     -     -         2528    0    0 
+Magnus    959405612  6  2 Bk  kf    -     -         2528   20    0 
+Magnus    959405651  6  1 Bc  bc    brc   br        2508  380  840 Qh Kd
+Magnus    959405686  6  6 c   b     -     -         2968   40   80 
+Magnus    959405710  6  5 c   k     k     f         3008   20    0 
+Magnus    959405730  6  4 f   -     -     -         2988    0    0 
+Magnus    959405753  6  3 c   r     kc    kc        2988  140    0 Jd Qc
+Magnus    959405788  6  2 Br  k     br    b         2848  220  500 Ts Th
+Magnus    959405822  6  1 Bc  k     k     kc        3128   60    0 4d 4s
+Magnus    959405856  6  6 c   b     -     -         3068   40   70 
+Magnus    959405877  6  5 f   -     -     -         3098    0    0 
+Magnus    959405894  6  4 f   -     -     -         3098    0    0 
+Magnus    959405911  6  3 f   -     -     -         3098    0    0 
+Magnus    959405923  6  2 Bk  kc    k     kf        3098   40    0 
+Magnus    959405940  6  1 Bf  -     -     -         3058   10    0 
+Magnus    959405947  6  6 f   -     -     -         3048    0    0 
+Magnus    959405967  6  5 c   b     -     -         3048   40   70 
+Magnus    959405986  7  5 r   b     b     -         3078  100  190 
+Magnus    959406012  7  4 cc  kf    -     -         3168   40    0 
+Magnus    959406036  7  3 f   -     -     -         3128    0    0 
+Magnus    959406080  7  2 Bk  kf    -     -         3128   20    0 
+Magnus    959406116  7  1 Bf  -     -     -         3108   10    0 
+Magnus    959406132  7  7 f   -     -     -         3098    0    0 
+Magnus    959406191  7  6 r   b     b     b         3098  140    0 4d Qd
+Magnus    959406234  7  5 rc  rc    c     c         2958  200  410 Kh Kc
+Magnus    959406262  7  4 f   -     -     -         3168    0    0 
+Magnus    959406285  7  3 c   b     -     -         3168   40   80 
+Magnus    959406310  7  2 Bk  f     -     -         3208   20    0 
+Magnus    959406328  6  1 Bc  k     k     b         3188   60  100 
+Magnus    959406361  6  6 f   -     -     -         3228    0    0 
+Magnus    959406385  6  5 c   c     r     c         3228  160    0 7h 8h
+Magnus    959406439  7  4 f   -     -     -         3068    0    0 
+Magnus    959406490  7  3 r   r     b     b         3068  160  620 As Ad
+Magnus    959406540  8  2 Bk  k     kf    -         3528   20    0 
+Magnus    959406595  8  1 Bc  k     k     b         3508   60  120 
+Magnus    959406635  8  8 f   -     -     -         3568    0    0 
+Magnus    959406685  8  7 f   -     -     -         3568    0    0 
+Magnus    959406749  7  6 c   f     -     -         3568   20    0 
+Magnus    959406790  7  5 cc  k     f     -         3548   40    0 
+Magnus    959406830  7  4 f   -     -     -         3508    0    0 
+Magnus    959406878  8  3 c   b     -     -         3508   40   90 
+Magnus    959406904  8  2 Bf  -     -     -         3558   20    0 
+Magnus    959406931  8  1 Br  b     b     b         3538  140    0 8s 8d
+Magnus    959406966  8  8 c   b     -     -         3398   40  110 
+Magnus    959406991  8  7 c   k     k     bf        3468   60    0 
+Magnus    959407046  8  6 f   -     -     -         3408    0    0 
+Magnus    959407073  8  5 f   -     -     -         3408    0    0 
+Magnus    959407100  9  5 cc  kf    -     -         3408   40    0 
+Magnus    959407168 10  5 cc  f     -     -         3368   40    0 
+Magnus    959407209 10  4 f   -     -     -         3328    0    0 
+Magnus    959407249  9  3 cc  b     b     b         3328  140  170 7d As
+Magnus    959407296 10  2 Bc  kf    -     -         3358   40    0 
+Magnus    959407326 10  1 Bf  -     -     -         3318   10    0 
+Magnus    959407349  9  4 Q   -     -     -         3308    0    0 
+Magnus    959418757  6  4 f   -     -     -         3513    0    0 
+Magnus    959418773  6  3 f   -     -     -         3513    0    0 
+Magnus    959418804  6  2 Bk  k     kc    kc        3513  100    0 8s 7h
+Magnus    959418846  6  1 Bf  -     -     -         3413   10    0 
+Magnus    959418895  6  6 f   -     -     -         3403    0    0 
+Magnus    959418977  6  5 f   -     -     -         3403    0    0 
+Magnus    959419041  6  4 c   k     kc    kf        3403   60    0 
+Magnus    959419082  7  3 c   bc    c     f         3343  100    0 
+Magnus    959419146  8  2 Bf  -     -     -         3243   20    0 
+Magnus    959419160  8  1 Bc  kc    b     k         3223   80    0 4s 3s
+Magnus    959419236  9  9 f   -     -     -         3143    0    0 
+Magnus    959419317  9  8 c   kc    kc    bc        3143  160  350 6s 9s
+Magnus    959419365  9  7 c   kf    -     -         3333   20    0 
+Magnus    959419433  9  6 f   -     -     -         3313    0    0 
+Magnus    959419495  9  5 f   -     -     -         3313    0    0 
+Magnus    959419560  9  4 f   -     -     -         3313    0    0 
+Magnus    959419627 10  4 c   k     rc    c         3313  180  400 5h 5s
+Magnus    959419675 10  3 f   -     -     -         3533    0    0 
+Magnus    959419748 10  2 Bk  kc    kf    -         3533   40    0 
+Magnus    959419796  9  1 Bc  kf    -     -         3493   20    0 
+Magnus    959419819  9  9 f   -     -     -         3473    0    0 
+Magnus    959419847  9  8 c   k     k     f         3473   40    0 
+Magnus    959419924  9  7 f   -     -     -         3433    0    0 
+Magnus    959419966  8  5 f   -     -     -         3433    0    0 
+Magnus    959420015  8  4 c   b     b     b         3433  120  220 
+Magnus    959420068  8  3 f   -     -     -         3533    0    0 
+Magnus    959420130  9  2 Bk  kf    -     -         3533   20    0 
+Magnus    959420173  9  1 Brc bc    kc    kc        3513  200  640 Ks Kh
+Magnus    959420258  9  9 f   -     -     -         3953    0    0 
+Magnus    959420309  9  8 c   r     bc    c         3953  180    0 As 4h
+Magnus    959420380  9  7 f   -     -     -         3773    0    0 
+Magnus    959420447  9  6 cc  b     b     b         3773  140    0 As Qc
+Magnus    959420518  9  5 f   -     -     -         3633    0    0 
+Magnus    959420556  9  4 f   -     -     -         3633    0    0 
+Magnus    959420638  9  3 c   c     c     f         3633   80    0 
+Magnus    959420686  9  2 Bk  k     b     -         3553   60  150 
+Magnus    959420728  9  1 Bf  -     -     -         3643   10    0 
+Magnus    959420779  9  9 cc  f     -     -         3633   80    0 
+Magnus    959420843  9  8 r   bc    bc    k         3553  160  300 Qc Qh
+Magnus    959420923  9  7 f   -     -     -         3693    0    0 
+Magnus    959420965  9  6 f   -     -     -         3693    0    0 
+Magnus    959421004  9  5 c   kc    kc    k         3693   80    0 Kc Jc
+Magnus    959421071  8  4 f   -     -     -         3613    0    0 
+Magnus    959421120  7  3 c   kc    k     k         3613   40    0 7h 8c
+Magnus    959421174  7  2 Bf  -     -     -         3573   20    0 
+Magnus    959421241  7  1 Bf  -     -     -         3553   10    0 
+Magnus    959421287  7  7 c   k     k     k         3543   20   70 Tc As
+Magnus    959421329  7  6 c   f     -     -         3593   20    0 
+Magnus    959421374  7  5 c   b     bc    kc        3573  160    0 5s Ah
+Magnus    959421409  7  4 c   k     k     kf        3413   20    0 
+Magnus    959421454  7  3 f   -     -     -         3393    0    0 
+Magnus    959421492  6  2 Bk  c     k     f         3393   40    0 
+Magnus    959421516  5  1 Bc  k     k     b         3353   60  100 
+Magnus    959421560  5  5 c   k     b     -         3393   60   90 
+Magnus    959421575  5  4 f   -     -     -         3423    0    0 
+Magnus    959421600  5  3 c   kf    -     -         3423   20    0 
+Magnus    959421636  5  2 B   -     -     -         3403   20   30 
+Magnus    959421644  4  1 Bf  -     -     -         3413   10    0 
+Magnus    959421668  4  4 c   c     c     c         3403  120  125 Kc Ad
+Magnus    959421691  4  3 c   k     k     b         3408   60   90 
+Magnus    959421718  4  2 Bk  k     f     -         3438   20    0 
+Magnus    959421737  4  1 Bf  -     -     -         3418   10    0 
+Magnus    959421764  4  4 c   k     k     c         3408   60   65 8s 9h
+Magnus    959421782  4  3 f   -     -     -         3413    0    0 
+Magnus    959421800  4  2 Bf  -     -     -         3413   20    0 
+Magnus    959421812  4  1 Bc  b     b     b         3393  120  220 
+Magnus    959421835  4  4 c   c     k     c         3493   80    0 7c 7s
+Magnus    959421862  6  3 rc  bc    k     k         3413  100  330 Qc Qh
+Magnus    959421899  6  2 Bk  k     k     kf        3643   20    0 
+Magnus    959421935  6  1 Bf  -     -     -         3623   10    0 
+Magnus    959421992  6  6 c   c     c     f         3613   80    0 
+Magnus    959422040  6  4 Q   -     -     -         3533    0    0 
+Magnus    959488247 10  2 Bk  b     k     f         3818   40    0 
+Magnus    959488295 10  1 Bc  kcc   kc    kc        3778  180    0 Td Tc
+Magnus    959488366  9  9 c   f     -     -         3598   20    0 
+Magnus    959488466  8  7 c   kf    -     -         3578   20    0 
+Magnus    959488528  9  7 f   -     -     -         3558    0    0 
+Magnus    959488588  9  6 cc  k     kf    -         3558   40    0 
+Magnus    959488649  9  5 f   -     -     -         3518    0    0 
+Magnus    959488664  9  4 f   -     -     -         3518    0    0 
+Magnus    959488698  9  3 r   -     -     -         3518   40   70 
+Magnus    959488710  9  2 Bc  kf    -     -         3548   40    0 
+Magnus    959488742  9  1 Bc  kc    kc    kf        3508   80    0 
+Magnus    959488790  9  9 f   -     -     -         3428    0    0 
+Magnus    959488831  9  8 f   -     -     -         3428    0    0 
+Magnus    959488866 10  8 f   -     -     -         3428    0    0 
+Magnus    959488917 10  7 f   -     -     -         3428    0    0 
+Magnus    959488947 10  6 c   f     -     -         3428   20    0 
+Magnus    959488991 10  5 cc  kc    k     kf        3408   60    0 
+Magnus    959489036 10  4 f   -     -     -         3348    0    0 
+Magnus    959489085 10  3 c   kf    -     -         3348   20    0 
+Magnus    959489134 10  2 Bk  kf    -     -         3328   20    0 
+Magnus    959489201 10  1 Bc  kf    -     -         3308   40    0 
+Magnus    959489257 10 10 c   c     bc    k         3268  120  230 6c Ac
+Magnus    959489324 10  9 c   f     -     -         3378   20    0 
+Magnus    959489387 10  8 f   -     -     -         3358    0    0 
+Magnus    959489427 10  7 c   b     b     -         3358   80  180 
+Magnus    959489475 10  6 f   -     -     -         3458    0    0 
+Magnus    959489529 10  5 c   c     c     c         3458  120    0 9c Js
+Magnus    959489573 10  4 f   -     -     -         3338    0    0 
+Magnus    959489611 10  3 f   -     -     -         3338    0    0 
+Magnus    959489632 10  2 Bk  br    b     b         3338  160  380 7c Th
+Magnus    959489670 10  1 Bf  -     -     -         3558   10    0 
+Magnus    959489694 10 10 c   c     k     f         3548   80    0 
+Magnus    959489737 10  9 c   c     c     f         3468  100    0 
+Magnus    959489775 10  8 f   -     -     -         3368    0    0 
+Magnus    959489830 10  7 f   -     -     -         3368    0    0 
+Magnus    959489879 10  6 c   cc    kc    kr        3368  180  540 5d Ad
+Magnus    959489980 10  5 f   -     -     -         3728    0    0 
+Magnus    959490023  9  3 f   -     -     -         3728    0    0 
+Magnus    959490070  8  2 Bk  kc    b     b         3728  120  350 7h Ts
+Magnus    959490131  8  1 Bc  k     k     kf        3958   20    0 
+Magnus    959490188  8  7 f   -     -     -         3938    0    0 
+Magnus    959490227  9  6 cc  kf    -     -         3938   60    0 
+Magnus    959490298  9  4 Q   -     -     -         3878    0    0 
+Magnus    959490463  9  2 Bk  kc    k     kf        3878   40    0 
+Magnus    959490524  9  1 Bf  -     -     -         3838   10    0 
+Magnus    959490572  9  9 c   c     b     b         3828  140  520 Jd Kd
+Magnus    959490654  9  8 cc  k     c     f         4208   80    0 
+Magnus    959490687  8  6 r   b     b     b         4128  140    0 Kh Kc
+Magnus    959490740  9  5 c   f     -     -         3988   20    0 
+Magnus    959490788  9  4 c   k     kf    -         3968   20    0 
+Magnus    959490820  9  3 f   -     -     -         3948    0    0 
+Magnus    959490848  9  2 Bf  -     -     -         3948   20    0 
+Magnus    959490884 10  1 Bc  kf    -     -         3928   60    0 
+Magnus    959490956 10 10 c   f     -     -         3868   40    0 
+Magnus    959491017 10  9 f   -     -     -         3828    0    0 
+Magnus    959491084  9  7 f   -     -     -         3828    0    0 
+Magnus    959491175  8  6 f   -     -     -         3828    0    0 
+Magnus    959491206  7  5 cc  kf    -     -         3828   40    0 
+Magnus    959491277  8  5 r   b     b     b         3788  140  330 Kh Kd
+Magnus    959491321  7  3 f   -     -     -         3978    0    0 
+Magnus    959491346  7  1 Bf  -     -     -         3978   20    0 
+Magnus    959491401  7  1 Bf  -     -     -         3958   10    0 
+Magnus    959491434  7  7 c   f     -     -         3948   20    0 
+Magnus    959491498  7  6 f   -     -     -         3928    0    0 
+Magnus    959491556  7  5 cc  cc    f     -         3928  100    0 
+Magnus    959491673  7  4 c   c     c     c         3828  140  370 Ad 2d
+Magnus    959491710  7  3 c   kc    kc    k         4058  100    0 7h Jh
+Magnus    959491773  7  2 Bk  kc    k     k         3958   40   90 7s Td
+Magnus    959491805  7  1 Bf  -     -     -         4008   10    0 
+Magnus    959491837  8  8 c   f     -     -         3998   40    0 
+Magnus    959491870  8  7 f   -     -     -         3958    0    0 
+Magnus    959491910  8  6 f   -     -     -         3958    0    0 
+Magnus    959491946  8  5 f   -     -     -         3958    0    0 
+Magnus    959491989 10  4 c   k     k     b         3958   60  130 
+Magnus    959492054 10  3 cc  f     -     -         4028   40    0 
+Magnus    959492118 10  2 Bc  b     bf    -         3988  100    0 
+Magnus    959492178 10  1 Bf  -     -     -         3888   10    0 
+Magnus    959492242 10 10 c   f     -     -         3878   40    0 
+Magnus    959492306 10  9 f   -     -     -         3838    0    0 
+Magnus    959492373 10  8 c   k     kf    -         3838   20    0 
+Magnus    959492453 10  7 f   -     -     -         3818    0    0 
+Magnus    959492522 10  6 cc  cc    b     b         3818  200    0 8s Jd
+Magnus    959492581 10  5 c   c     k     f         3618   80    0 
+Magnus    959492640 10  4 f   -     -     -         3538    0    0 
+Magnus    959492652 10  3 f   -     -     -         3538    0    0 
+Magnus    959492686 10  2 Brc bc    kc    kc        3538  200  610 Qd Qc
+Magnus    959492730 10  1 Bf  -     -     -         3948   10    0 
+Magnus    959492781  9  9 c   b     b     -         3938   80  180 
+Magnus    959492831  7  6 c   f     -     -         4038   20    0 
+Magnus    959492849  7  6 c   c     b     -         4018   80  140 
+Magnus    959492876  7  5 f   -     -     -         4078    0    0 
+Magnus    959492886  7  4 c   f     -     -         4078   20    0 
+Magnus    959492913  7  3 f   -     -     -         4058    0    0 
+Magnus    959492936  8  2 Bk  bc    kc    k         4058  100    0 6c As
+Magnus    959492982  8  1 Bc  bc    kc    kf        3958  100    0 
+Magnus    959493011  8  8 c   b     bc    f         3858  120    0 
+Magnus    959493050  8  7 c   c     r     b         3738  160  400 8d Jd
+Magnus    959493170  6  5 cc  f     -     -         3978   40    0 
+Magnus    959493208  7  4 cc  c     kc    kf        3938  100    0 
+Magnus    959493285  7  3 cc  bc    kc    kc        3838  160  390 2h Ah
+Magnus    959493313  7  2 Bk  b     b     -         4068   80  170 
+Magnus    959493348  7  1 BQ  -     -     -         4158   10    0 
+Magnus    959493434  6  5 c   c     k     k         4148   40    0 8c 8d
+Magnus    959493463  6  4 cc  f     -     -         4108   40    0 
+Magnus    959493531  6  3 f   -     -     -         4068    0    0 
+Magnus    959493548  6  2 Bk  k     k     br        4068  140    0 3d 8c
+Magnus    959493614  7  1 Bf  -     -     -         3928   10    0 
+Magnus    959493665  7  7 f   -     -     -         3918    0    0 
+Magnus    959493681  7  6 c   c     c     f         3918   80    0 
+Magnus    959493722  7  6 cc  b     bc    rf        3838  220    0 
+Magnus    959493767  6  4 f   -     -     -         3618    0    0 
+Magnus    959493792  5  2 Bk  k     k     b         3618   60   80 
+Magnus    959493837  4  1 Bf  -     -     -         3638   10    0 
+Magnus    959493860  4  4 cc  c     c     rc        3628  220  490 Ad 4h
+Magnus    959493892  4  3 f   -     -     -         3898    0    0 
+Magnus    959493918  4  2 Bf  -     -     -         3898   20    0 
+Magnus    959493942  3  1 Bf  -     -     -         3878   10    0 
+Magnus    959493947  3  3 f   -     -     -         3868    0    0 
+Magnus    959493955  3  2 Bf  -     -     -         3868   20    0 
+Magnus    959493966  3  1 Bc  kc    k     b         3848   80  160 Ac 8d
+Magnus    959493983  3  3 c   k     f     -         3928   20    0 
+Magnus    959494009  3  2 Bc  kf    -     -         3908   40    0 
+Magnus    959494021  3  1 Bc  k     k     kf        3868   20    0 
+Magnus    959494042  4  4 c   c     rf    -         3848  120    0 
+Magnus    959494067  4  3 rc  bc    kc    kc        3728  180    0 Td Tc
+Magnus    959494084  4  2 Bf  -     -     -         3548   20    0 
+Magnus    959494111  4  1 Bc  kc    k     k         3528   40  100 Kh Ac
+Magnus    959494131  4  4 c   c     f     -         3588   40    0 
+Magnus    959494161  4  3 cc  cc    kc    f         3548  120    0 
+Magnus    959494188  4  2 Bk  c     c     f         3428   80    0 
+Magnus    959494213  4  1 Bc  k     k     b         3348   60  120 
+Magnus    959494238  4  4 c   b     -     -         3408   40   70 
+Magnus    959494254  4  3 f   -     -     -         3438    0    0 
+Magnus    959494265  4  2 Bc  kf    -     -         3438   40    0 
+Magnus    959494287  4  1 Bf  -     -     -         3398   10    0 
+Magnus    959494318  4  4 f   -     -     -         3388    0    0 
+Magnus    959494325  4  3 c   c     f     -         3388   40    0 
+Magnus    959494351  4  2 Bc  rf    -     -         3348   80    0 
+Magnus    959494367  4  1 Bc  b     -     -         3268   40   80 
+Magnus    959494378  4  4 f   -     -     -         3308    0    0 
+Magnus    959494398  4  3 cc  c     c     f         3308  100    0 
+Magnus    959494421  4  2 Bf  -     -     -         3208   20    0 
+Magnus    959494431  4  1 Bcc kf    -     -         3188   40    0 
+Magnus    959494464  4  4 c   k     c     f         3148   80    0 
+Magnus    959494494  4  3 f   -     -     -         3068    0    0 
+Magnus    959494503  4  2 Bk  b     k     c         3068   80  160 3c 8s
+Magnus    959494534  5  1 Bc  k     k     b         3148   60   80 
+Magnus    959494559  5  5 c   b     f     -         3168   40    0 
+Magnus    959494579  5  4 c   kc    kr    b         3128  160    0 Ah 5d
+Magnus    959494603  6  3 f   -     -     -         2968    0    0 
+Magnus    959494632  6  2 Bk  f     -     -         2968   20    0 
+Magnus    959494665  6  1 Bf  -     -     -         2948   10    0 
+Magnus    959494679  6  6 cc  c     k     f         2938  100    0 
+Magnus    959494739  5  5 f   -     -     -         2838    0    0 
+Magnus    959494768  5  4 c   b     -     -         2838   40  100 
+Magnus    959494798  5  3 f   -     -     -         2898    0    0 
+Magnus    959494813  5  2 Bc  kc    b     b         2898  140  290 5c 5h
+Magnus    959494841  5  1 Bf  -     -     -         3048   10    0 
+Magnus    959494859  5  5 c   b     b     b         3038  140  320 
+Magnus    959494887  5  4 rc  c     c     r         3218  200  650 Tc Td
+Magnus    959494922  6  3 c   c     c     rc        3668  200  410 Qh 9s
+Magnus    959494952  6  2 Bf  -     -     -         3878   20    0 
+Magnus    959495001  6  1 Bf  -     -     -         3858   10    0 
+Magnus    959495033  5  5 c   k     k     k         3848   20    0 9h Kd
+Magnus    959495055  5  4 f   -     -     -         3828    0    0 
+Magnus    959495078  6  4 cc  c     cc    r         3828  220    0 6d 6c
+Magnus    959495136  6  3 c   b     b     bf        3608  120    0 
+Magnus    959495203  6  2 Bf  -     -     -         3488   20    0 
+Magnus    959495221  6  1 Bc  b     bc    kf        3468  120    0 
+Magnus    959495264  6  6 cc  c     c     rf        3348  180    0 
+Magnus    959495321  6  5 f   -     -     -         3168    0    0 
+Magnus    959495377  6  4 f   -     -     -         3168    0    0 
+Magnus    959495403  5  2 Bk  k     b     -         3168   60   90 
+Magnus    959495425  5  1 Bc  k     kc    b         3198  100    0 Tc Ah
+Magnus    959495456  5  5 f   -     -     -         3098    0    0 
+Magnus    959495497  5  4 c   b     b     b         3098  120  280 9c Th
+Magnus    959495528  5  3 f   -     -     -         3258    0    0 
+Magnus    959495553  5  2 Bk  c     c     rf        3258  160    0 
+Magnus    959495573  5  1 Bf  -     -     -         3098   10    0 
+Magnus    959495606  5  5 f   -     -     -         3088    0    0 
+Magnus    959495657  5  4 cc  f     -     -         3088   40    0 
+Magnus    959495687  5  3 c   f     -     -         3048   20    0 
+Magnus    959495706  5  2 Bf  -     -     -         3028   20    0 
+Magnus    959495717  5  1 Bc  kr    b     b         3008  140    0 Jh 7c
+Magnus    959495749  5  5 c   f     -     -         2868   20    0 
+Magnus    959495790  5  4 cc  c     c     r         2848  180    0 5h As
+Magnus    959495808  5  3 f   -     -     -         2668    0    0 
+Magnus    959495843  5  2 Bk  k     k     b         2668   60   90 
+Magnus    959495870  5  1 Bf  -     -     -         2698   10    0 
+Magnus    959495912  5  5 c   f     -     -         2688   40    0 
+Magnus    959495933  5  4 f   -     -     -         2648    0    0 
+Magnus    959495961  5  3 f   -     -     -         2648    0    0 
+Magnus    959496000  5  2 Bk  k     f     -         2648   20    0 
+Magnus    959496015  3  1 Bf  -     -     -         2628   10    0 
+Magnus    959496019  3  3 c   k     k     b         2618   60  100 
+Magnus    959496041  3  2 Bc  c     b     b         2658  140  280 Qc 8c
+Magnus    959496057  4  1 Bf  -     -     -         2798   10    0 
+Magnus    959496074  4  4 f   -     -     -         2788    0    0 
+Magnus    959496099  5  3 cc  c     k     r         2788  140  520 9h 8h
+Magnus    959496150  5  2 Bk  k     c     k         3168   60    0 Qs Ts
+Magnus    959496183  5  1 Bf  -     -     -         3108   10    0 
+Magnus    959496224  5  5 f   -     -     -         3098    0    0 
+Magnus    959496230  5  4 c   c     r     b         3098  160  370 
+Magnus    959496257  5  3 f   -     -     -         3308    0    0 
+Magnus    959496281  5  2 Bf  -     -     -         3308   20    0 
+Magnus    959496295  5  1 Bc  kc    k     k         3288   60    0 4d 5c
+Magnus    959496332  5  5 f   -     -     -         3228    0    0 
+Magnus    959496357  5  4 cc  c     c     f         3228  120    0 
+Magnus    959496405  5  3 c   kr    bf    -         3108  100    0 
+Magnus    959496438  5  2 Bk  f     -     -         3008   20    0 
+Magnus    959496475  5  1 Bc  k     k     b         2988   60   80 
+Magnus    959496496  5  5 c   c     f     -         3008   40    0 
+Magnus    959496516  5  4 f   -     -     -         2968    0    0 
+Magnus    959496554  5  3 c   b     r     rf        2968  200    0 
+Magnus    959496592  5  2 Bc  kc    kc    k         2768  100    0 7d 8d
+Magnus    959496641  5  1 Bf  -     -     -         2668   10    0 
+Magnus    959496692  6  6 f   -     -     -         2658    0    0 
+Magnus    959496766  6  5 f   -     -     -         2658    0    0 
+Magnus    959496775  6  4 f   -     -     -         2658    0    0 
+Magnus    959496826  5  3 c   f     -     -         2658   20    0 
+Magnus    959496842  5  2 Bk  k     b     -         2638   60  100 
+Magnus    959496867  5  1 Bf  -     -     -         2678   10    0 
+Magnus    959496889  5  5 c   r     r     c         2668  200    0 As 4h
+Magnus    959496910  5  4 c   k     b     bf        2468  100    0 
+Magnus    959496934  5  3 f   -     -     -         2368    0    0 
+Magnus    959496946  5  2 Bk  b     bc    k         2368  120  260 Ac 8h
+Magnus    959496980  5  1 Bf  -     -     -         2508   10    0 
+Magnus    959496991  5  5 cc  r     c     c         2498  160  330 Qc Ad
+Magnus    959497018  5  4 f   -     -     -         2668    0    0 
+Magnus    959497030  5  3 f   -     -     -         2668    0    0 
+Magnus    959497043  5  2 Bk  f     -     -         2668   20    0 
+Magnus    959497071  5  1 Bc  kc    kf    -         2648   40    0 
+Magnus    959497109  5  5 f   -     -     -         2608    0    0 
+Magnus    959497126  6  4 f   -     -     -         2608    0    0 
+Magnus    959497154  6  3 c   f     -     -         2608   20    0 
+Magnus    959497181  6  2 Bk  k     k     kf        2588   20    0 
+Magnus    959497224  6  1 Bf  -     -     -         2568   10    0 
+Magnus    959497248  6  6 f   -     -     -         2558    0    0 
+Magnus    959497275  6  5 f   -     -     -         2558    0    0 
+Magnus    959497287  6  4 cc  kc    k     k         2558   60  150 3h Ad
+Magnus    959497325  6  3 c   kf    -     -         2648   20    0 
+Magnus    959497352  6  2 Bc  kc    b     b         2628  160    0 9h Js
+Magnus    959497385  6  1 Bf  -     -     -         2468   10    0 
+Magnus    959497402  6  6 c   b     -     -         2458   40   70 
+Magnus    959497420  6  5 c   cc    b     kr        2488  200  630 7d 8s
+Magnus    959497479  6  4 f   -     -     -         2918    0    0 
+Magnus    959497506  6  3 f   -     -     -         2918    0    0 
+Magnus    959497561  7  2 Bc  k     kc    b         2918  120  165 Kc As
+Magnus    959497600  7  1 Bc  k     k     k         2963   20    0 3c Ad
+Magnus    959497631  7  7 c   b     -     -         2943   40   80 
+Magnus    959497676  7  6 c   r     k     r         2983  160  460 9h Ac
+Magnus    959497713  7  5 f   -     -     -         3283    0    0 
+Magnus    959497741  7  4 f   -     -     -         3283    0    0 
+Magnus    959497779  7  3 c   c     b     f         3283   80    0 
+Magnus    959497829  7  2 Bf  -     -     -         3203   20    0 
+Magnus    959497850  7  1 Bc  k     -     -         3183   20   60 
+Magnus    959497938  7  7 f   -     -     -         3223    0    0 
+Magnus    959497948  7  5 Q   -     -     -         3223    0    0 

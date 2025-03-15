@@ -1,0 +1,167 @@
+shreddi   957690892 10  8 f   -     -     -         1000    0    0 
+shreddi   957690946 10  7 f   -     -     -         1000    0    0 
+shreddi   957690979 10  6 cc  kf    -     -         1000   20    0 
+shreddi   957691040 10  5 c   k     c     c          980   50    0 4s 2s
+shreddi   957691095 10  4 f   -     -     -          930    0    0 
+shreddi   957691137 10  3 c   k     kf    -          930   10    0 
+shreddi   957691200  9  2 Bc  c     f     -          920   30    0 
+shreddi   957691252  9  1 Bc  k     k     k          890   10    0 8s 6s
+shreddi   957691291  9  9 c   c     cf    -          880   40    0 
+shreddi   957691350  9  8 c   k     f     -          840   10    0 
+shreddi   957691419  9  7 cc  kc    k     k          830   30  135 8s Ad
+shreddi   957691474  9  6 f   -     -     -          935    0    0 
+shreddi   957691515  8  5 f   -     -     -          935    0    0 
+shreddi   957691550  8  4 c   k     k     kf         935   20    0 
+shreddi   957691606  8  3 c   kc    br    b          915  100  245 Qs 3s
+shreddi   957691671  8  2 Bk  f     -     -         1060   10    0 
+shreddi   957691706  7  1 Bc  kc    k     kf        1050   30    0 
+shreddi   957691751  7  7 f   -     -     -         1020    0    0 
+shreddi   957691793  7  6 f   -     -     -         1020    0    0 
+shreddi   957691855  7  5 c   k     k     k         1020   10    0 Ad Td
+shreddi   957691925  7  4 f   -     -     -         1010    0    0 
+shreddi   957691965  7  3 c   c     f     -         1010   20    0 
+shreddi   957691988  7  2 Bk  kc    kf    -          990   20    0 
+shreddi   957692017  7  1 Bc  kf    Q     -          970   10    0 
+shreddi   957693053  6  6 c   k     k     k          960   10    0 Qd Kc
+shreddi   957693084  6  5 f   -     -     -          950    0    0 
+shreddi   957693103  6  4 c   b     b     b          950   60  140 Kh Ad
+shreddi   957693145  6  3 f   -     -     -         1030    0    0 
+shreddi   957693188  6  2 Bk  kc    kc    kc        1030   60    0 3s Ad
+shreddi   957693229  7  1 Bcc k     kc    b          970   60  220 Td Ad
+shreddi   957693280  7  7 f   -     -     -         1130    0    0 
+shreddi   957693330  7  6 c   kc    kf    -         1130   20    0 
+shreddi   957693382  7  5 f   -     -     -         1110    0    0 
+shreddi   957693419  7  4 f   -     -     -         1110    0    0 
+shreddi   957693460  7  3 f   -     -     -         1110    0    0 
+shreddi   957693509  7  2 Bk  k     kf    -         1110   10    0 
+shreddi   957693553  7  1 Bc  kc    kc    kc        1100   60    0 4s 4h
+shreddi   957693598  7  7 c   c     k     c         1040   40   52 2s Ts
+shreddi   957693637  7  6 f   -     -     -         1052    0    0 
+shreddi   957693675  7  5 c   c     r     b         1052   80  230 Ah Qh
+shreddi   957693718  7  4 f   -     -     -         1202    0    0 
+shreddi   957693749  6  3 c   b     -     -         1202   20   60 
+shreddi   957693782  6  2 Bk  kf    -     -         1242   10    0 
+shreddi   957693841  6  1 Bc  kc    bc    kc        1232   80    0 9s 7h
+shreddi   957693889  6  6 c   k     k     r         1152   50  130 Js Kc
+shreddi   957693939  7  6 f   -     -     -         1232    0    0 
+shreddi   957693967  7  5 f   -     -     -         1232    0    0 
+shreddi   957693999  7  4 f   -     -     -         1232    0    0 
+shreddi   957694030  7  3 f   -     -     -         1232    0    0 
+shreddi   957694076  7  2 Bk  kf    -     -         1232   10    0 
+shreddi   957694119  7  1 Bc  kf    -     -         1222   10    0 
+shreddi   957694159  7  7 f   -     -     -         1212    0    0 
+shreddi   957694195  7  6 c   c     c     c         1212   80    0 Td Ts
+shreddi   957694240  7  5 cc  k     c     b         1132   60    0 Ah 5h
+shreddi   957694311  8  5 f   -     -     -         1072    0    0 
+shreddi   957694352  8  4 f   -     -     -         1072    0    0 
+shreddi   957694404  8  3 f   -     -     -         1072    0    0 
+shreddi   957694462  8  2 Bk  kc    bc    b         1072   80  175 
+shreddi   957694515  8  1 Bc  kf    -     -         1167   20    0 
+shreddi   957694571  8  8 f   -     -     -         1147    0    0 
+shreddi   957694612  8  7 f   -     -     -         1147    0    0 
+shreddi   957694659  8  6 f   -     -     -         1147    0    0 
+shreddi   957694697  8  5 f   -     -     -         1147    0    0 
+shreddi   957694733  8  4 f   -     -     Q         1147    0    0 
+shreddi   957695099  7  4 c   cc    k     k         1147   40    0 Ad 9c
+shreddi   957695147  7  3 f   -     -     -         1107    0    0 
+shreddi   957695169  7  2 Bk  kf    -     -         1107   10    0 
+shreddi   957695228  7  1 Bc  kf    -     -         1097   10    0 
+shreddi   957695271  7  7 f   -     -     -         1087    0    0 
+shreddi   957695306  7  6 c   c     cc    cc        1087  160    0 Jd Qc
+shreddi   957695359  7  5 f   -     -     -          927    0    0 
+shreddi   957695385  7  4 f   -     -     -          927    0    0 
+shreddi   957695438  7  3 f   -     -     -          927    0    0 
+shreddi   957695480  7  2 Bk  k     b     -          927   30   70 
+shreddi   957695532  7  1 Bc  k     k     k          967   10    0 Tc 9d
+shreddi   957695563  7  7 f   -     -     -          957    0    0 
+shreddi   957695572  7  6 c   c     c     k          957   40    0 4c As
+shreddi   957695608  7  5 c   k     f     -          917   10    0 
+shreddi   957695651  7  4 c   kc    b     b          907   70  300 Ac 5c
+shreddi   957695718  7  3 f   -     -     -         1137    0    0 
+shreddi   957695746  7  2 Bf  -     -     -         1137   10    0 
+shreddi   957695785  7  1 Bc  kc    kc    k         1127   50    0 8d Jd
+shreddi   957695845  7  7 f   -     -     -         1077    0    0 
+shreddi   957695871  7  6 cc  k     f     -         1077   40    0 
+shreddi   957695926  7  5 f   -     -     -         1037    0    0 
+shreddi   957695947  7  4 f   -     -     -         1037    0    0 
+shreddi   957695986  8  3 f   -     -     -         1037    0    0 
+shreddi   957696019  9  2 Bk  kc    kf    -         1037   20    0 
+shreddi   957696069  9  1 Bc  k     bc    b         1017   80    0 Qc Jc
+shreddi   957696122  9  9 f   -     -     -          937    0    0 
+shreddi   957696151  9  8 f   -     -     -          937    0    0 
+shreddi   957696193  9  7 f   -     -     -          937    0    0 
+shreddi   957696226  9  6 f   -     -     -          937    0    0 
+shreddi   957696280  9  5 f   -     -     -          937    0    0 
+shreddi   957696325  9  4 f   -     -     -          937    0    0 
+shreddi   957696369  9  3 c   k     kc    kf         937   30    0 
+shreddi   957696416  9  2 Bf  -     -     -          907   10    0 
+shreddi   957696452  9  1 Bc  kc    kc    k          897   50  190 Jd 3d
+shreddi   957696486  9  9 f   -     -     -         1037    0    0 
+shreddi   957696518  9  8 f   -     -     -         1037    0    0 
+shreddi   957696566  9  7 f   -     -     -         1037    0    0 
+shreddi   957696605  9  6 c   k     k     rr        1037   90    0 2d 9d
+shreddi   957696668 10  6 f   -     -     -          947    0    0 
+shreddi   957696710 10  5 c   b     b     r          947   80  180 
+shreddi   957696748 10  4 cc  kc    kf    -         1047   30    0 
+shreddi   957696795 10  3 c   kc    kf    -         1017   20    0 
+shreddi   957696845 10  2 Bc  cc    f     -          997   40    0 
+shreddi   957696901 10  1 Bf  -     -     -          957    5    0 
+shreddi   957696934 10 10 f   Q     -     -          952    0    0 
+shreddi   957697835 10  5 KQ  -     -     -          952    0    0 
+shreddi   957697945 10  3 cc  k     kf    -          952   20    0 
+shreddi   957697984 10  2 Bc  kc    k     k          932   30    0 6s Ac
+shreddi   957698050 10  1 Bf  -     -     -          902    5    0 
+shreddi   957698116 10 10 f   -     -     -          897    0    0 
+shreddi   957698171 10  9 f   -     -     -          897    0    0 
+shreddi   957698213 10  8 f   -     -     -          897    0    0 
+shreddi   957698246  9  6 c   f     -     -          897   20    0 
+shreddi   957698292  9  5 c   c     c     c          877   70  295 9c 9h
+shreddi   957698321  9  4 ccc c     c     r         1102  110  510 Jd 2d
+shreddi   957698379  9  3 f   -     -     -         1502    0    0 
+shreddi   957698418  9  2 Bf  -     -     -         1502   10    0 
+shreddi   957698467  9  1 Bc  kc    kf    -         1492   30    0 
+shreddi   957698524  9  9 f   -     -     -         1462    0    0 
+shreddi   957698570  9  8 f   -     -     -         1462    0    0 
+shreddi   957698631  9  7 f   -     -     -         1462    0    0 
+shreddi   957698677  9  6 f   -     -     -         1462    0    0 
+shreddi   957698721  9  5 f   -     -     -         1462    0    0 
+shreddi   957698760  9  4 cc  kf    -     -         1462   20    0 
+shreddi   957698858  9  3 f   -     -     -         1442    0    0 
+shreddi   957698895  9  2 Bf  Q     -     -         1442   10    0 
+shreddi   957699084  7  5 f   -     -     -         1432    0    0 
+shreddi   957699142  7  4 c   c     cc    k         1432   70  235 5d Kd
+shreddi   957699176  7  3 f   -     -     -         1597    0    0 
+shreddi   957699202  7  2 Bf  -     -     -         1597   10    0 
+shreddi   957699236  7  1 Bf  -     -     -         1587    5    0 
+shreddi   957699265  6  6 c   f     -     -         1582   20    0 
+shreddi   957699291  6  5 f   -     -     -         1562    0    0 
+shreddi   957699325  6  4 f   -     -     -         1562    0    0 
+shreddi   957699352  6  3 f   -     -     -         1562    0    0 
+shreddi   957699376  6  2 Bc  f     -     -         1562   20    0 
+shreddi   957699402  6  1 Bc  kcc   kf    -         1542   60    0 
+shreddi   957699453  6  6 f   -     -     -         1482    0    0 
+shreddi   957699467  6  5 f   -     -     -         1482    0    0 
+shreddi   957699497  6  4 c   cr    c     c         1482  100    0 Js Ac
+shreddi   957699536  7  3 cc  cf    -     -         1382   30    0 
+shreddi   957699570  7  2 Bf  -     -     -         1352   10    0 
+shreddi   957699600  7  1 Bf  -     -     -         1342    5    0 
+shreddi   957699631  7  7 f   -     -     -         1337    0    0 
+shreddi   957699660  7  6 f   -     -     -         1337    0    0 
+shreddi   957699684  7  5 f   -     -     -         1337    0    0 
+shreddi   957699703  7  4 c   c     c     f         1337   50    0 
+shreddi   957699730  7  3 ccc kc    krr   brc       1287  210  258 Jh Kh
+shreddi   957699792  7  2 Bf  -     -     -         1335   10    0 
+shreddi   957699831  7  1 Bf  -     -     -         1325    5    0 
+shreddi   957699857  7  7 f   -     -     -         1320    0    0 
+shreddi   957699885  7  6 c   b     b     b         1320   60  180 5c 2c
+shreddi   957699934  8  6 cc  k     b     kc        1440   70    0 2d 6d
+shreddi   957699999  8  5 f   -     -     -         1370    0    0 
+shreddi   957700043  8  4 f   -     -     -         1370    0    0 
+shreddi   957700093  8  3 c   kc    kf    -         1370   20    0 
+shreddi   957700151  8  2 Bf  -     -     -         1350   10    0 
+shreddi   957700204  7  1 Bc  kc    kc    kc        1340   60    0 Jc 7d
+shreddi   957700245  7  7 c   c     c     c         1280   70    0 2h Jh
+shreddi   957700276  7  6 c   k     k     f         1210   10    0 
+shreddi   957700310  7  5 f   -     -     -         1200    0    0 
+shreddi   957700362  8  4 f   -     -     -         1200    0    0 
+shreddi   957700398  8  3 fQ  -     -     -         1200    0    0 

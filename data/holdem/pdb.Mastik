@@ -1,0 +1,82 @@
+Mastik    957810231  2  2 Bc  c     k     c         1000   50   50 3d Kd
+Mastik    957810245  2  1 Bcc b     bc    k         1000   70    0 Jh Td
+Mastik    957810262  2  2 B   -     -     -          930   10   15 
+Mastik    957810267  2  1 Bc  b     -     -          935   20   30 
+Mastik    957810272  2  2 Bc  f     -     -          945   20    0 
+Mastik    957810276  2  1 Br  b     b     b          925   70    0 6s Js
+Mastik    957810290  2  2 Bc  k     k     k          855   20    0 7h 4h
+Mastik    957810300  2  1 Bc  kc    kc    k          835   40    0 Qh 9c
+Mastik    957810316  2  2 B   -     -     -          795   10   15 
+Mastik    957810317  2  1 Bc  b     -     -          800   20   30 
+Mastik    957810325  2  2 B   -     -     -          810   10   15 
+Mastik    957810326  2  1 Bf  -     -     -          815    5    0 
+Mastik    957810328  2  2 B   -     -     -          810   10   15 
+Mastik    957810329  2  1 Bc  k     k     k          815   10   10 8h Ks
+Mastik    957810339  2  2 B   -     -     -          815   10   15 
+Mastik    957810343  2  1 Br  b     -     -          820   30   50 
+Mastik    957810348  2  2 Bf  -     -     -          840   10    0 
+Mastik    957810353  2  1 Bc  k     k     kc         830   30   30 8d Qd
+Mastik    957810366  2  2 Bc  r     b     -          830   60  100 
+Mastik    957810378  2  1 Br  b     -     -          870   30   50 
+Mastik    957810384  2  2 B   -     -     -          890   10   15 
+Mastik    957810385  2  1 Br  b     -     -          895   30   50 
+Mastik    957810390  2  2 Bc  f     -     -          915   20    0 
+Mastik    957810397  2  1 Bf  -     -     -          895    5    0 
+Mastik    957810400  2  2 Br  b     -     -          890   30   50 
+Mastik    957810408  2  1 Br  -     -     -          910   20   30 
+Mastik    957810412  2  2 B   -     -     -          920   10   15 
+Mastik    957810416  2  1 Bc  kc    kf    -          925   20    0 
+Mastik    957810426  2  2 Br  b     b     -          905   60  100 
+Mastik    957810440  2  1 Bc  bc    kf    -          945   30    0 
+Mastik    957810452  2  2 B   -     -     -          915   10   15 
+Mastik    957810453  2  1 Br  -     -     -          920   20   30 
+Mastik    957810456  2  2 Bf  -     -     -          930   10    0 
+Mastik    957810458  2  1 Bf  -     -     -          920    5    0 
+Mastik    957810461  2  2 Bc  c     k     k          915   30   30 As 4c
+Mastik    957810472  2  1 Bf  -     -     -          915    5    0 
+Mastik    957810476  2  2 Br  bc    c     c          910   90    0 9h 9s
+Mastik    957810489  2  1 Bcc b     -     -          820   30   50 
+Mastik    957810501  2  2 B   -     -     -          840   10   15 
+Mastik    957810502  2  1 Br  b     -     -          845   30   50 
+Mastik    957810507  2  2 B   -     -     -          865   10   15 
+Mastik    957810508  2  1 Bcc b     b     -          870   50   80 
+Mastik    957810518  2  2 B   -     -     -          900   10   15 
+Mastik    957810519  2  1 Br  -     -     -          905   20   30 
+Mastik    957810523  2  2 B   -     -     -          915   10   15 
+Mastik    957810526  3  1 Bf  -     -     -          920    5    0 
+Mastik    957810531  3  3 r   b     b     -          915   50   85 
+Mastik    957810542  3  2 B   -     -     -          950   10   15 
+Mastik    957810549  3  1 Bf  -     -     -          955    5    0 
+Mastik    957810552  3  3 c   r     bc    c          950   90    0 Kd 8d
+Mastik    957810566  3  2 Br  br    c     c          860  100    0 Kc Jc
+Mastik    957810585  3  1 Bc  k     kf    -          760   10    0 
+Mastik    957810600  3  3 c   k     f     -          750   10    0 
+Mastik    957810609  3  2 B   -     -     -          740   10   15 
+Mastik    957810611  3  1 Bf  -     -     -          745    5    0 
+Mastik    957810616  3  3 c   c     k     f          740   20    0 
+Mastik    957810626  3  2 B   -     -     -          720   10   15 
+Mastik    957810628  3  1 Bf  -     -     -          725    5    0 
+Mastik    957810630  3  3 r   b     -     -          720   30   55 
+Mastik    957810636  3  2 Bc  c     c     f          745   50    0 
+Mastik    957810647  3  1 Bc  kf    -     -          695   10    0 
+Mastik    957810655  3  3 f   Q     -     -          685    0    0 
+Mastik    957811194  7  3 r   c     c     f          685   50    0 
+Mastik    957811222  7  2 Bk  b     b     b          635   60  135 7d 9s
+Mastik    957811244  7  1 Bc  kf    -     -          710   10    0 
+Mastik    957811264  7  7 f   -     -     -          700    0    0 
+Mastik    957811270  8  6 c   c     k     k          700   20    0 Td Js
+Mastik    957811305  9  5 f   -     -     -          680    0    0 
+Mastik    957811340  9  4 c   bc    c     c          680   70  180 3h Jh
+Mastik    957811373  9  3 rc  bc    kc    kc         790  110    0 Ad Ts
+Mastik    957811444  7  1 Bc  b     b     -          680   50  120 
+Mastik    957811478  8  1 Bc  bc    kc    k          750   50    0 As 8h
+Mastik    957811515  8  8 f   -     -     -          700    0    0 
+Mastik    957811557  8  7 c   f     -     -          700   20    0 
+Mastik    957811591  8  6 r   rc    c     c          680   90    0 8c 8h
+Mastik    957811619  8  5 f   -     -     -          590    0    0 
+Mastik    957811643  8  4 cc  kc    kc    kf         590   50    0 
+Mastik    957811691  8  3 f   -     -     -          540    0    0 
+Mastik    957811714  8  2 Bc  k     k     kf         540   20    0 
+Mastik    957811740  8  1 Bf  -     -     -          520    5    0 
+Mastik    957811772  8  8 f   -     -     -          515    0    0 
+Mastik    957811815  8  7 f   Q     -     -          515    0    0 

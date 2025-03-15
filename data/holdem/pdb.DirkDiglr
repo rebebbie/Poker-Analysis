@@ -1,0 +1,62 @@
+DirkDiglr 958269049 10 10 f   -     -     -        15966    0    0 
+DirkDiglr 958269086 10  9 f   -     -     -        15966    0    0 
+DirkDiglr 958269141 10  8 f   -     -     -        15966    0    0 
+DirkDiglr 958269232  9  7 f   -     -     -        15966    0    0 
+DirkDiglr 958269287 10  6 f   -     -     -        15966    0    0 
+DirkDiglr 958269359 10  5 f   -     -     -        15966    0    0 
+DirkDiglr 958269428 10  4 f   -     -     -        15966    0    0 
+DirkDiglr 958269470 10  3 f   -     -     -        15966    0    0 
+DirkDiglr 958269549 10  2 Bk  kf    -     -        15966   10    0 
+DirkDiglr 958269621 10  1 Bf  -     -     -        15956    5    0 
+DirkDiglr 958269715 10 10 f   -     -     -        15951    0    0 
+DirkDiglr 958269742 10  9 f   -     -     -        15951    0    0 
+DirkDiglr 958269757 10  8 f   -     -     -        15951    0    0 
+DirkDiglr 958269804 10  7 rc  b     b     bc       15951  100    0 Ts Td
+DirkDiglr 958269854 10  6 f   -     -     -        15851    0    0 
+DirkDiglr 958269884 10  5 f   -     -     -        15851    0    0 
+DirkDiglr 958269951 10  4 f   -     -     -        15851    0    0 
+DirkDiglr 958269998 10  3 f   -     -     -        15851    0    0 
+DirkDiglr 958270054 10  2 Bk  kf    -     -        15851   10    0 
+DirkDiglr 958270102 10  1 Bc  k     kf    -        15841   10    0 
+DirkDiglr 958270196 10 10 c   k     f     -        15831   20    0 
+DirkDiglr 958270284 10  9 r   f     -     -        15811   20    0 
+DirkDiglr 958270329 10  8 c   kf    -     -        15791   20    0 
+DirkDiglr 958270391 10  7 c   k     k     kf       15771   10    0 
+DirkDiglr 958270466 10  6 r   b     b     b        15761   70  190 Qd Qs
+DirkDiglr 958270557  9  4 f   -     -     -        15881    0    0 
+DirkDiglr 958270618 10  4 rc  kc    b     bc       15881  100    0 Qs Qd
+DirkDiglr 958270748 10  3 r   f     -     -        15781   20    0 
+DirkDiglr 958270820 10  2 Bf  -     -     -        15761   10    0 
+DirkDiglr 958270924 10  1 Bc  kc    kr    kc       15751  100    0 7s Qc
+DirkDiglr 958271021 10 10 r   b     b     -        15651   60  175 
+DirkDiglr 958271096  8  7 c   f     -     -        15766   10    0 
+DirkDiglr 958271185  8  6 f   -     -     -        15756    0    0 
+DirkDiglr 958271240  8  5 f   -     -     -        15756    0    0 
+DirkDiglr 958271325  7  4 f   -     -     -        15756    0    0 
+DirkDiglr 958271398  6  3 f   -     -     -        15756    0    0 
+DirkDiglr 958271466  7  2 Bk  k     b     b        15756   50  135 Kc 9c
+DirkDiglr 958271514  7  1 Bf  -     -     -        15841    5    0 
+DirkDiglr 958271575  7  7 f   -     -     -        15836    0    0 
+DirkDiglr 958271628  6  5 f   -     -     -        15836    0    0 
+DirkDiglr 958271657  6  4 f   -     -     -        15836    0    0 
+DirkDiglr 958271703  6  3 f   -     -     -        15836    0    0 
+DirkDiglr 958271713  6  2 Bk  k     b     -        15836   30   55 
+DirkDiglr 958271735  6  1 Bc  kr    b     -        15861   70  170 
+DirkDiglr 958271762  6  6 f   -     -     -        15961    0    0 
+DirkDiglr 958271797  6  5 c   k     b     k        15961   30    0 Jc Ks
+DirkDiglr 958271851  6  4 f   -     -     -        15931    0    0 
+DirkDiglr 958271903  6  3 rc  bc    kc    krc      15931  130    0 Ad Kd
+DirkDiglr 958271944  6  2 Bk  f     -     -        15801   10    0 
+DirkDiglr 958271991  6  1 Bc  b     -     -        15791   20   30 
+DirkDiglr 958272008  6  6 r   k     k     c        15801   40    0 7c 7d
+DirkDiglr 958272036  6  5 f   -     -     -        15761    0    0 
+DirkDiglr 958272047  5  4 f   -     -     -        15761    0    0 
+DirkDiglr 958272094  6  3 f   -     -     -        15761    0    0 
+DirkDiglr 958272130  6  2 Bk  kf    -     -        15761   10    0 
+DirkDiglr 958272158  6  1 Bc  k     k     k        15751   10    0 Qd 3s
+DirkDiglr 958272189  6  6 c   f     -     -        15741   10    0 
+DirkDiglr 958272240  5  5 f   -     -     -        15731    0    0 
+DirkDiglr 958272267  4  3 r   -     -     -        15731   20   35 
+DirkDiglr 958272274  4  2 Bk  kr    b     b        15746   70    0 5s 4s
+DirkDiglr 958272293  3  1 Bc  k     k     k        15676   10    0 5d 3s
+DirkDiglr 958272313  2  2 B   -     -     -        15666   10   15 

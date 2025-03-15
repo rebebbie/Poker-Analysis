@@ -1,0 +1,566 @@
+snoball   957764590  6  3 rc  kf    -     -         1824   30    0 
+snoball   957764660  6  2 Br  b     b     b         1794   70  125 
+snoball   957764693  6  1 Bc  kf    -     -         1849   20    0 
+snoball   957764724  5  5 c   b     k     b         1829   40   80 
+snoball   957764794  5  4 c   k     k     b         1869   30   70 Jd 4h
+snoball   957764817  5  3 r   b     b     b         1909   70  150 
+snoball   957764860  5  2 Bk  b     -     -         1989   20   30 
+snoball   957764877  5  1 Bc  bc    kcc   kc        1999  120    0 Ah Qc
+snoball   957764906  5  5 c   f     -     -         1879   10    0 
+snoball   957764924  5  4 f   -     -     -         1869    0    0 
+snoball   957764950  5  4 c   k     k     k         1869   10    0 4h 9d
+snoball   957764976  4  2 Bc  kf    -     -         1859   20    0 
+snoball   957765005  4  1 Bc  kf    -     -         1839   10    0 
+snoball   957765033  4  4 c   c     f     -         1829   30    0 
+snoball   957765068  4  3 f   -     -     -         1799    0    0 
+snoball   957765103  4  2 Bk  k     kf    -         1799   10    0 
+snoball   957765130  4  1 Bf  -     -     -         1789    5    0 
+snoball   957765151  3  3 r   -     -     -         1784   20   35 
+snoball   957765155  3  2 Bc  c     r     -         1799   70  120 
+snoball   957765179  3  1 Bc  b     b     b         1849   60  120 7d 3h
+snoball   957765192  3  3 r   c     f     -         1909   30    0 
+snoball   957765215  3  2 Bk  kf    -     -         1879   10    0 
+snoball   957765252  3  1 Bc  kf    -     -         1869   10    0 
+snoball   957765265  3  3 r   b     c     b         1859   70    0 6c Td
+snoball   957765290  3  2 Br  r     b     b         1789   80  180 Qs Qc
+snoball   957765313  3  1 Bc  kf    -     -         1889   10    0 
+snoball   957765334  3  3 c   k     b     k         1879   30    0 3d 5d
+snoball   957765360  3  2 Br  b     b     b         1849   70  145 Ad Jd
+snoball   957765373  3  1 Br  b     b     b         1924   70    0 As 4h
+snoball   957765391  3  3 r   b     b     b         1854   70  160 Jd As
+snoball   957765416  3  2 Bk  kf    -     -         1944   10    0 
+snoball   957765464  3  1 Bc  b     -     -         1934   20   30 
+snoball   957765474  3  3 r   k     f     -         1944   20    0 
+snoball   957765490  3  2 B   -     -     -         1924   10   15 
+snoball   957765499  4  1 Bc  kcc   kcc   kf        1929  140    0 
+snoball   957765535  4  4 c   rc    c     c         1789   80  170 2d 9d
+snoball   957765567  4  3 f   -     -     -         1879    0    0 
+snoball   957765581  4  2 Br  b     k     f         1879   30    0 
+snoball   957765602  4  1 Br  b     k     brc       1849  110  115 9h Jh
+snoball   957765630  4  4 f   -     -     -         1854    0    0 
+snoball   957765664  5  4 r   f     -     -         1854   20    0 
+snoball   957765698  6  4 c   k     b     b         1834   50    0 5c 5h
+snoball   957765767  5  2 f   -     -     -         1784    0    0 
+snoball   957765788  5  2 Br  b     b     b         1784   70  215 9d As
+snoball   957765813  5  1 Bc  k     b     bc        1929   70    0 Qc 6h
+snoball   957765853  5  5 f   -     -     -         1859    0    0 
+snoball   957765871  5  5 r   k     f     -         1859   20    0 
+snoball   957765907  7  4 r   b     bf    -         1839   50    0 
+snoball   957765952  7  3 f   -     -     -         1789    0    0 
+snoball   957765988  7  2 Br  b     k     f         1789   30    0 
+snoball   957766040  8  1 Br  kf    -     -         1759   20    0 
+snoball   957766097  8  8 f   -     -     -         1739    0    0 
+snoball   957766153  8  7 f   -     -     -         1739    0    0 
+snoball   957766197  8  6 cc  kc    kf    -         1739   30    0 
+snoball   957766271  8  5 c   f     -     -         1709   10    0 
+snoball   957766341  8  4 r   k     b     k         1699   40  130 Js 7h
+snoball   957766387  8  3 rr  kf    -     -         1789   40    0 
+snoball   957766480  7  2 Brc brc   kc    kf        1749  100    0 
+snoball   957766557  8  1 BQ  -     -     -         1649    5    0 
+snoball   957909988  7  4 cc  c     c     c         1154   70    0 Qs 6h
+snoball   957910026  6  3 cc  f     -     -         1084   20    0 
+snoball   957910072  7  2 Br  bc    kr    b         1064  130  445 5h 4h
+snoball   957910133  7  1 Bc  br    br    b         1379  140    0 3s Jh
+snoball   957910233  6  6 f   -     -     -         1239    0    0 
+snoball   957910242  6  5 r   k     f     -         1239   20    0 
+snoball   957910272  6  4 rr  f     -     -         1219   40    0 
+snoball   957910310  6  3 r   kQ    -     -         1179   20    0 
+snoball   957925042  2  1 Br  -     -     -         1159   20   30 
+snoball   957925057  2  2 Bc  c     c     f         1169   50    0 
+snoball   957925071  2  1 Bc  b     -     -         1119   20   30 
+snoball   957925080  2  2 Br  b     -     -         1129   30   50 
+snoball   957925090  2  1 Br  b     -     -         1149   30   50 
+snoball   957925098  2  2 Brc c     f     -         1169   40    0 
+snoball   957925112  2  1 Bc  bc    kc    brc       1129  130    0 9d 7d
+snoball   957925135  2  2 Br  b     brc   c          999  130    0 5s 7s
+snoball   957925170  2  1 Br  b     b     -          869   50   80 
+snoball   957925187  2  2 Br  rc    r     -          899   90  160 
+snoball   957925206  2  1 Br  bc    kc    bf         969   80    0 
+snoball   957925225  2  2 Br  b     -     -          889   30   50 
+snoball   957925234  2  1 Bc  k     b     -          909   30   40 
+snoball   957925242  2  2 Br  -     -     -          919   20   30 
+snoball   957925246  2  1 Br  -     -     -          929   20   30 
+snoball   957925250  2  2 Brc f     -     -          939   30    0 
+snoball   957925259  2  1 Br  -     -     -          909   20   30 
+snoball   957925264  2  2 B   -     -     -          919   10   15 
+snoball   957925267  2  1 Br  -     -     -          924   20   30 
+snoball   957925271  2  2 Br  r     -     -          934   50   90 
+snoball   957925286  2  1 Br  b     -     -          974   30   50 
+snoball   957925292  2  2 B   -     -     -          994   10   15 
+snoball   957925295  2  1 Brc kc    kc    k          999   60    0 5d 2h
+snoball   957925308  3  3 r   b     b     b          939   70  160 Qc Qs
+snoball   957925333  3  2 Br  f     -     -         1029   20    0 
+snoball   957925353  3  1 Br  b     bc    kc        1009  100    0 Ad Kd
+snoball   957925377  3  3 r   b     b     b          909   70    0 2s 4h
+snoball   957925400  3  2 Bk  k     c     c          839   50  100 5c Qd
+snoball   957925419  3  1 Br  b     b     bf         889   70    0 
+snoball   957925440  3  3 r   b     b     b          819   70  125 
+snoball   957925457  3  2 Br  f     -     -          874   20    0 
+snoball   957925472  3  1 Bf  -     -     -          854    5    0 
+snoball   957925495  3  3 r   b     c     c          849   70    0 8h 8c
+snoball   957925523  3  2 B   -     -     -          779   10   15 
+snoball   957925532  3  1 Br  -     -     -          784   20   30 
+snoball   957925537  3  3 r   k     b     -          794   40   70 
+snoball   957925551  3  2 Brr r     c     rc         824  140    0 8h 8d
+snoball   957925582  4  1 Bcr k     k     k          684   30    0 Th 5c
+snoball   957925641  4  4 rr  c     f     -          654   50    0 
+snoball   957925673  4  3 f   -     -     -          604    0    0 
+snoball   957925703  4  2 Br  b     bc    kc         604   90  205 Qh Qs
+snoball   957925729  2  1 Br  b     -     -          719   30   50 
+snoball   957925737  2  2 Br  b     -     -          739   30   50 
+snoball   957925744  2  1 Br  bf    -     -          759   30    0 
+snoball   957925752  2  2 Br  f     -     -          729   30    0 
+snoball   957925761  2  1 Bc  k     k     k          699   10   20 4c Jh
+snoball   957925772  2  2 B   -     -     -          709   10   15 
+snoball   957925777  2  1 Br  b     -     -          714   30   50 
+snoball   957925783  2  2 Br  b     -     -          734   30   50 
+snoball   957925790  2  1 Br  b     -     -          754   30   50 
+snoball   957925797  2  2 B   -     -     -          774   10   15 
+snoball   957925799  2  1 Br  -     -     -          779   20   30 
+snoball   957925802  2  2 Br  f     -     -          789   20    0 
+snoball   957925811  2  1 Br  b     b     -          769   50   80 
+snoball   957925821  2  2 Brr rc    c     c          799  110  220 Jc Ts
+snoball   957925840  2  1 Br  bc    kc    kc         909   80  160 Td 4d
+snoball   957925858  2  2 Br  rr    f     -          989   70    0 
+snoball   957925881  2  1 Bc  kc    kc    kc         919   60  120 7s 2c
+snoball   957925895  2  2 B   -     -     -          979   10   15 
+snoball   957925901  2  1 Br  -     -     -          984   20   30 
+snoball   957925904  2  2 Brc c     c     f          994   70    0 
+snoball   957925918  2  1 Bc  kf    -     -          924   10    0 
+snoball   957925926  2  2 Bc  f     -     -          914   20    0 
+snoball   957925932  2  1 Br  k     k     kf         894   20    0 
+snoball   957925944  2  2 Bf  -     -     -          874   10    0 
+snoball   957925947  2  1 Bf  -     -     -          864    5    0 
+snoball   957925950  2  2 Br  b     -     -          859   30   50 
+snoball   957925960  2  1 Br  brc   kc    kc         879  100    0 As 4s
+snoball   957925978  2  2 B   -     -     -          779   10   15 
+snoball   957925983  2  1 Br  -     -     -          784   20   30 
+snoball   957925985  2  2 Br  b     -     -          794   30   50 
+snoball   957925993  2  1 Br  -     -     -          814   20   30 
+snoball   957925997  2  2 Br  k     b     -          824   40   60 
+snoball   957926014  3  1 Bc  b     kc    k          844   40    0 2s 3d
+snoball   957926043  3  3 r   rc    f     -          804   50    0 
+snoball   957926064  3  2 Brr f     -     -          754   40    0 
+snoball   957926109  3  1 Brr kf    -     -          714   40    0 
+snoball   957926131  3  3 f   -     -     -          674    0    0 
+snoball   957926145  3  2 Bk  c     f     -          674   20    0 
+snoball   957926177  3  1 Br  b     b     -          654   50   80 
+snoball   957926193  3  3 r   k     k     k          684   20    0 Ts 6s
+snoball   957926212  3  2 Br  b     -     -          664   30   50 
+snoball   957926225  3  1 Br  bf    -     -          684   40    0 
+snoball   957926250  3  3 r   rc    f     -          644   50    0 
+snoball   957926272  3  2 Br  rr    rr    r          594  180  380 Ad Jc
+snoball   957926308  3  1 Br  kf    -     -          794   20    0 
+snoball   957926327  3  3 r   k     f     -          774   20    0 
+snoball   957926343  3  2 Bk  kf    -     -          754   10    0 
+snoball   957926372  3  1 Brr kf    -     -          744   40    0 
+snoball   957926409  3  3 rr  rc    c     c          704  110  240 7d 6s
+snoball   957926440  2  2 Brc rr    r     -          834  111   20 4c 9d
+snoball   957926462  2  1 Brr brc   brc   kc         743  180  360 8h Ad
+snoball   957926496  2  2 B   -     -     -          923   10    8 4h 2s
+snoball   957926497  2  1 B   -     -     -          921    5    9 2d 2h
+snoball   957926524  2  1 Bc  b     bc    bc         925  100    0 4h 6c
+snoball   957926547  2  2 Br  b     -     -          825   30   50 
+snoball   957926561  2  1 Br  b     k     k          845   30   60 Ad 9c
+snoball   957926577  2  2 B   -     -     -          875   10   15 
+snoball   957926582  2  1 Bc  kf    -     -          880   10    0 
+snoball   957926594  2  2 Bk  f     -     -          870   10    0 
+snoball   957926601  2  1 Br  b     -     -          860   30   50 
+snoball   957926609  2  2 B   -     -     -          880   10   15 
+snoball   957926611  2  1 Br  -     -     -          885   20   30 
+snoball   957926615  2  2 Bk  k     b     -          895   30   40 
+snoball   957926626  2  1 Br  brc   kc    kf         905   80    0 
+snoball   957926647  2  2 Bf  -     -     -          825   10    0 
+snoball   957926651  2  1 Bf  -     -     -          815    5    0 
+snoball   957926653  2  2 Bk  bc    c     f          810   50    0 
+snoball   957926668  2  1 Br  -     -     -          760   20   30 
+snoball   957926671  2  2 Br  b     -     -          770   30   50 
+snoball   957926683  2  1 Br  -     -     -          790   20   30 
+snoball   957926686  2  2 Br  f     -     -          800   30    0 
+snoball   957926695  2  1 Brc kc    kc    kf         770   60    0 
+snoball   957926714  2  2 Br  b     b     -          710   50   80 
+snoball   957926728  2  1 Br  b     -     -          740   30   50 
+snoball   957926735  2  2 Br  rc    f     -          760   50    0 
+snoball   957926750  2  1 Br  b     -     -          710   30   50 
+snoball   957926757  2  2 B   -     -     -          730   10   15 
+snoball   957926760  2  1 Br  b     -     -          735   30   50 
+snoball   957926765  2  2 Br  b     -     -          755   30   50 
+snoball   957926772  2  1 Brc kf    -     -          775   30    0 
+snoball   957926782  2  2 Br  rr    r     rr         745  180  360 3d 8d
+snoball   957926805  2  1 Br  -     -     -          925   20   30 
+snoball   957926811  2  2 Br  f     -     -          935   30    0 
+snoball   957926823  2  1 Bf  -     -     -          905    5    0 
+snoball   957926826  2  2 Bk  c     c     c          900   60    0 Ts 3s
+snoball   957926838  2  1 Br  -     -     -          840   20   30 
+snoball   957926844  2  2 Brc c     c     f          850   70    0 
+snoball   957926859  2  1 Br  -     -     -          780   20   30 
+snoball   957926865  2  2 B   -     -     -          790   10   15 
+snoball   957926868  2  1 Br  b     -     -          795   30   50 
+snoball   957926875  2  2 Brc brc   rr    b          815  180    0 8s 4d
+snoball   957926904  2  1 Bc  b     b     -          635   40   60 
+snoball   957926923  2  2 Br  b     b     -          655   50   80 
+snoball   957926939  2  1 Brr brc   brc   brc        685  240    0 Js Kc
+snoball   957926970  2  2 Br  b     b     b          445   70  140 4d 7d
+snoball   957926992  2  1 Br  -     -     -          515   20   30 
+snoball   957926998  2  2 Br  b     r     b          525   90  180 Kd As
+snoball   957927015  2  1 Br  -     -     -          615   20   30 
+snoball   957927021  2  2 Br  b     b     -          625   50   80 
+snoball   957927032  2  1 Br  -     -     -          655   20   30 
+snoball   957927035  2  2 Br  rf    -     -          665   40    0 
+snoball   957927046  2  1 Br  -     -     -          625   20   30 
+snoball   957927049  2  2 Brc c     r     b          635  110  220 7s Ah
+snoball   957927067  2  1 Br  b     -     -          745   30   50 
+snoball   957927076  2  2 B   -     -     -          765   10   15 
+snoball   957927079  2  1 Br  -     -     -          770   20   30 
+snoball   957927082  2  2 Brc r     b     b          780  100    0 8s 9c
+snoball   957927100  2  1 Brr brc   brc   b          680  180  360 Qd Ad
+snoball   957927129  3  3 r   b     b     b          860   70  150 
+snoball   957927158  3  2 Br  brc   kc    kc         940  100    0 8c Jh
+snoball   957927188  3  1 Bf  -     -     -          840    5    0 
+snoball   957927201  3  3 r   b     k     k          835   30   90 4d 7c
+snoball   957927222  3  2 Br  bf    -     -          895   30    0 
+snoball   957927241  3  1 Bc  kf    -     -          865   10    0 
+snoball   957927263  3  3 r   b     b     b          855   70    0 Kd 6s
+snoball   957927286  3  2 Br  brc   brc   b          785  160  163 7d Ad
+snoball   957927315  3  1 Br  b     b     b          788   70  150 8h 8s
+snoball   957927334  3  3 rr  rc    bc    f          868  110    0 
+snoball   957927361  3  2 Br  b     k     k          758   30    0 5s 8h
+snoball   957927380  3  1 Br  bc    kc    kc         728   80    0 8d 8h
+snoball   957927401  3  3 r   b     bc    c          648   90    0 Jc Jd
+snoball   957927425  3  2 Br  b     b     b          558   70   70 Ts 6d
+snoball   957927447  4  1 Br  b     bf    -          558   50    0 
+snoball   957927469  4  4 r   b     b     b          508   70  145 6s 2c
+snoball   957927491  4  3 rr  b     b     b          583   90    0 4h Tc
+snoball   957927541  4  2 Br  r     b     Q          493   60    0 
+snoball   958005412  2  2 BQ  -     -     -          778   10    0 
+snoball   958091734  5  3 c   k     k     k          768   10   45 Jd 6c
+snoball   958091773  5  2 Bk  k     c     k          803   30    0 8c 2s
+snoball   958091828  5  1 Bcc kf    -     -          773   40    0 
+snoball   958091901  5  5 r   f     -     -          733   20    0 
+snoball   958091946  5  3 r   b     f     -          713   30    0 
+snoball   958091974  6  2 Bc  bc    kc    kc         683   80  165 3c 6h
+snoball   958092007  5  1 Bc  b     b     -          768   40   80 
+snoball   958092034  5  5 r   k     f     -          808   30    0 
+snoball   958092071  5  4 r   f     -     -          778   20    0 
+snoball   958092115  5  3 c   bc    kc    kf         758   50    0 
+snoball   958092153  4  2 Bk  k     b     -          708   30   45 
+snoball   958092173  4  1 Bcc kc    kc    kf         723   50    0 
+snoball   958092203  4  4 c   c     f     -          673   30    0 
+snoball   958092226  5  4 rc  c     c     c          643   90    0 9c Jd
+snoball   958092267  5  3 r   bc    k     f          553   40    0 
+snoball   958092298  6  2 Bf  -     -     -          513   10    0 
+snoball   958092346  6  1 Br  br    brc   brc        503  230    0 5h 3c
+snoball   958092423  6  6 rr  rr    brc   rr         273  240  765 3h 7c
+snoball   958092515  6  5 r   c     c     c          798  100    0 4h 9c
+snoball   958092558  6  4 r   f     -     -          698   20    0 
+snoball   958092618  5  2 Br  b     -     -          678   30   55 
+snoball   958092637  5  1 Brc kf    -     -          703   40    0 
+snoball   958092664  5  5 r   r     b     b          663   80    0 4h 7d
+snoball   958092726  5  5 r   b     b     b          583   70  125 
+snoball   958092765  5  3 rr  f     -     -          638   40    0 
+snoball   958092816  6  2 Brc b     b     bf         598   90    0 
+snoball   958092852  7  1 Br  b     b     -          508   50  150 
+snoball   958092898  7  7 r   f     -     -          608   20    0 
+snoball   958092917  7  6 rr  rr    rr    rr         588  240    0 Qs Tc
+snoball   958093012  7  5 r   rc    cr    br         348  230    0 4c Ac
+snoball   958093167  8  4 rc  rc    cA    -          118  118    0 2s 3c
+snoball   958104703 10  6 r   kf    -     -         1000   20    0 
+snoball   958104770 10  5 r   kf    -     -          980   20    0 
+snoball   958104857  9  3 r   kf    -     -          960   20    0 
+snoball   958104916 10  2 Br  br    f     -          940   50    0 
+snoball   958104975 10  1 Br  brc   brc   b          890  160  480 5c 8c
+snoball   958105021 10 10 f   -     -     -         1210    0    0 
+snoball   958105067 10  9 f   -     -     -         1210    0    0 
+snoball   958105126 10  8 r   r     b     b         1210   80  245 4h 7d
+snoball   958105178 10  7 rc  c     f     -         1375   50    0 
+snoball   958105257 10  6 r   k     f     -         1325   20    0 
+snoball   958105297  9  4 r   f     -     -         1305   20    0 
+snoball   958105354  8  3 rr  brc   bc    kcc       1285  180    0 Js Jd
+snoball   958105425  7  2 Brr bcc   kf    -         1105   80    0 
+snoball   958105527  8  1 Bf  -     -     -         1025    5    0 
+snoball   958105562  8  8 r   c     k     k         1020   30    0 5h 9d
+snoball   958105619 10  9 f   -     -     -          990    0    0 
+snoball   958105717 10  8 rc  c     f     -          990   50    0 
+snoball   958105803 10  7 r   r     r     b          940  100  345 6s 7h
+snoball   958105867 10  3 Q   -     -     -         1185    0    0 
+snoball   958275586  3  3 rc  f     -     -          685   30    0 
+snoball   958275612  3  2 B   -     -     -          655   10   15 
+snoball   958275615  3  1 Bc  k     k     k          660   20    0 3d 9c
+snoball   958275643  3  3 f   -     -     -          640    0    0 
+snoball   958275658  3  2 Br  b     b     k          640   50    0 9s Ah
+snoball   958275676  3  1 Bf  -     -     -          590    5    0 
+snoball   958275692  3  3 r   b     b     b          585   70  140 
+snoball   958275716  3  2 Br  b     kc    kc         655   80    0 7h 8s
+snoball   958275732  3  1 Brc kf    -     -          575   40    0 
+snoball   958275763  3  3 rr  k     k     k          535   40    0 5d 3s
+snoball   958275826  3  2 Bf  -     -     -          495   10    0 
+snoball   958275854  3  1 Bf  -     -     -          485    5    0 
+snoball   958275861  3  3 f   -     -     -          480    0    0 
+snoball   958275870  3  2 Br  b     b     k          480   60  125 7d Ac
+snoball   958275897  3  1 Br  b     b     k          545   50    0 Kd 7d
+snoball   958275919  3  3 f   -     -     -          495    0    0 
+snoball   958275928  3  2 Bf  -     -     -          495   10    0 
+snoball   958275946  3  1 Bc  br    b     b          485   90  200 7d 7c
+snoball   958275970  3  3 r   c     k     f          595   30    0 
+snoball   958275993  3  2 B   -     -     -          565   10   15 
+snoball   958275996  2  1 Br  -     -     -          570   20   30 
+snoball   958275999  2  2 Br  b     -     -          580   40   70 
+snoball   958276005  2  1 Br  -     -     -          610   20   30 
+snoball   958276009  2  2 Bf  -     -     -          620   10    0 
+snoball   958276013  2  1 Bc  b     b     b          610   60    0 Ts 3d
+snoball   958276024  2  2 B   -     -     -          550   10   15 
+snoball   958276030  2  1 Br  b     -     -          555   30   50 
+snoball   958276034  2  2 B   -     -     -          575   10   15 
+snoball   958276035  2  1 Br  -     -     -          580   20   30 
+snoball   958276039  2  2 B   -     -     -          590   10   15 
+snoball   958276041  2  1 Br  -     -     -          595   20   30 
+snoball   958276045  2  2 B   -     -     -          605   10   15 
+snoball   958276050  2  1 Br  b     b     b          610   70  140 5h Qs
+snoball   958276060  2  2 Bc  f     -     -          680   20    0 
+snoball   958276070  2  1 Bf  -     -     -          660    5    0 
+snoball   958276075  2  2 Bf  -     -     -          655   10    0 
+snoball   958276079  2  1 Bcc k     k     k          645   20   40 As 8s
+snoball   958276094  2  2 Bc  r     b     b          665   80  160 7h 8d
+snoball   958276117  2  1 Bc  kf    -     -          745   10    0 
+snoball   958276138  2  2 Bf  -     -     -          735   10    0 
+snoball   958276140  2  1 Bcc k     k     kf         725   20    0 
+snoball   958276156  2  2 Bc  k     r     b          705   80  140 
+snoball   958276175  2  1 Br  b     b     b          765   70    0 8c 4h
+snoball   958276185  2  2 Bf  -     -     -          695   10    0 
+snoball   958276191  2  1 Bf  -     -     -          685    5    0 
+snoball   958276195  2  2 Bc  b     b     -          680   50   80 
+snoball   958276207  2  1 Br  b     -     -          710   30   50 
+snoball   958276212  2  2 Br  b     k     b          730   60  120 9s 8h
+snoball   958276226  2  1 Br  b     b     bf         790   70    0 
+snoball   958276248  2  2 B   -     -     -          720   10   15 
+snoball   958276250  2  1 Bc  k     k     k          725   10   20 6c 3c
+snoball   958276273  2  2 Br  b     -     -          735   40   70 
+snoball   958276284  2  1 Br  b     b     b          765   70  120 
+snoball   958276296  2  2 B   -     -     -          815   10   15 
+snoball   958276298  2  1 Br  -     -     -          820   20   30 
+snoball   958276301  2  2 Br  b     k     f          830   40    0 
+snoball   958276311  2  1 Bf  -     -     -          790    5    0 
+snoball   958276314  2  2 Bf  -     -     -          785   10    0 
+snoball   958276316  2  1 Bf  -     -     -          775    5    0 
+snoball   958276319  2  2 Bk  b     -     -          770   20   30 
+snoball   958276326  2  1 Br  -     -     -          780   20   30 
+snoball   958276330  2  2 Br  b     k     k          790   40    0 2c 4h
+snoball   958276353  2  1 Bf  -     -     -          750    5    0 
+snoball   958276361  2  2 B   -     -     -          745   10   15 
+snoball   958276363  2  1 Brr b     b     b          750   90  180 Qh Jd
+snoball   958276376  2  2 B   -     -     -          840   10   15 
+snoball   958276380  2  1 Br  b     -     -          845   30   50 
+snoball   958276384  2  2 Bc  b     bc    c          865   90    0 Kd 4s
+snoball   958276398  2  1 Bcc k     kf    -          775   20    0 
+snoball   958276410  2  2 Br  b     -     -          755   30   50 
+snoball   958276417  2  1 Br  br    b     b          775   90  180 Ac 7h
+snoball   958276429  2  2 B   -     -     -          865   10   15 
+snoball   958276433  2  1 Br  b     b     -          870   50   80 
+snoball   958276450  2  2 Bc  c     f     -          900   30    0 
+snoball   958276460  2  1 Bf  -     -     -          870    5    0 
+snoball   958276462  2  2 Brc c     c     k          865   70    0 4h Kh
+snoball   958276478  2  1 Br  bf    -     -          795   30    0 
+snoball   958276490  2  2 Br  k     k     f          765   30    0 
+snoball   958276501  2  1 Bf  -     -     -          735    5    0 
+snoball   958276504  2  2 B   -     -     -          730   10   15 
+snoball   958276506  2  1 Bcf -     -     -          735   10    0 
+snoball   958276509  2  2 B   -     -     -          725   10   15 
+snoball   958276512  2  1 Br  b     k     k          730   30   60 8h 7h
+snoball   958276523  2  2 B   -     -     -          760   10   15 
+snoball   958276527  2  1 Bcc kc    br    -          765   90  160 
+snoball   958276546  2  2 Br  b     b     bc         835   90    0 2h 3s
+snoball   958276563  2  1 Br  b     bc    kf         745   70    0 
+snoball   958276580  2  2 B   -     -     -          675   10   15 
+snoball   958276582  2  1 Br  -     -     -          680   20   30 
+snoball   958276587  2  2 B   -     -     -          690   10   15 
+snoball   958276589  2  1 Br  -     -     -          695   20   30 
+snoball   958276592  2  2 Br  rr    b     b          705  110    0 Kd As
+snoball   958276609  2  1 Br  b     -     -          595   30   50 
+snoball   958276618  2  2 Br  b     k     k          615   40    0 2s 6d
+snoball   958276630  2  1 Br  b     b     -          575   50   80 
+snoball   958276641  2  2 B   -     -     -          605   10   15 
+snoball   958276642  2  1 Br  b     b     b          610   70  120 
+snoball   958276652  2  2 Br  bc    c     c          660   90    0 Qs 7h
+snoball   958276665  2  1 Br  b     bf    -          570   50    0 
+snoball   958276677  2  2 B   -     -     -          520   10   15 
+snoball   958276678  2  1 Br  -     -     -          525   20   30 
+snoball   958276681  2  2 B   -     -     -          535   10   15 
+snoball   958276684  2  1 Br  b     b     b          540   70  140 Ah Jh
+snoball   958276694  2  2 Br  b     b     b          610   80  140 
+snoball   958276712  2  1 Br  -     -     -          670   20   30 
+snoball   958276715  2  2 B   -     -     -          680   10   15 
+snoball   958276719  2  1 Br  b     b     -          685   50   80 
+snoball   958276728  2  2 Br  b     -     -          715   30   50 
+snoball   958276737  2  1 Br  b     k     k          735   30    0 5s 8h
+snoball   958276751  2  2 B   -     -     -          705   10   15 
+snoball   958276755  2  1 Br  b     brc   brc        710  190    0 4c 3s
+snoball   958276777  2  2 Br  b     b     b          520   80    0 5c 7c
+snoball   958276791  2  1 Br  b     -     -          440   30   50 
+snoball   958276798  2  2 Br  b     b     b          460   80    0 Td 5s
+snoball   958276811  2  1 Br  -     -     -          380   20   30 
+snoball   958276817  2  2 Br  b     b     b          390   80  160 7s Th
+snoball   958276835  2  1 Br  -     -     -          470   20   30 
+snoball   958276840  2  2 Br  b     -     -          480   30   50 
+snoball   958276847  2  1 Br  -     -     -          500   20   30 
+snoball   958276851  2  2 Br  c     c     f          510   60    0 
+snoball   958276868  2  1 Bf  -     -     -          450    5    0 
+snoball   958276871  2  2 B   -     -     -          445   10   15 
+snoball   958276872  2  1 Br  b     bc    kf         450   70    0 
+snoball   958276888  2  2 Br  b     b     b          380   80  160 As 8d
+snoball   958276899  2  1 Brr b     br    b          460  130    0 7c Kd
+snoball   958276915  2  2 Br  b     b     b          330   80    0 8c Kc
+snoball   958276930  2  1 Br  b     b     -          250   50   80 
+snoball   958276940  2  2 Br  b     b     brc        280  140    0 4h 6s
+snoball   958276960  2  1 Br  bc    kf    -          140   40    0 
+snoball   958276973  2  2 Br  b     b     b          100   80    0 Jd 5c
+snoball   958276984  2  1 BrA -     -     -           20   20   30 
+snoball   958276989  2  2 BrA -     -     -           30   30    0 2h 9s
+snoball   958541194  5  5 f   -     -     -         1000    0    0 
+snoball   958541217  5  4 f   -     -     -         1000    0    0 
+snoball   958541249  5  3 f   -     -     -         1000    0    0 
+snoball   958541277  5  2 Bk  b     b     -         1000   40  100 
+snoball   958541320  5  1 Bc  kf    -     -         1060   20    0 
+snoball   958541356  5  5 r   f     -     -         1040   20    0 
+snoball   958541374  5  4 f   -     -     -         1020    0    0 
+snoball   958541407  5  3 c   b     c     rr        1020  120  190 Th Ac
+snoball   958541463  5  2 Bk  kf    -     -         1090   10    0 
+snoball   958541495  4  1 Bcc kf    -     -         1080   30    0 
+snoball   958541518  4  4 rc  k     b     r         1050  100    0 5c Tc
+snoball   958541554  4  3 r   b     k     k          950   30    0 Tc As
+snoball   958541576  4  2 Bc  k     kf    -          920   20    0 
+snoball   958541599  4  1 Br  bc    b     b          900   80    0 Qd Js
+snoball   958541636  6  4 rr  b     k     f          820   50    0 
+snoball   958541668  6  3 r   -     -     -          770   20   35 
+snoball   958541679  6  2 Br  b     -     -          785   40  105 
+snoball   958541701  5  1 Br  bc    bc    b          850  110    0 3s 3d
+snoball   958541734  6  6 rr  b     rr    rr         740  210  475 Kd Ad
+snoball   958541802  6  5 c   b     -     -         1005   20   35 
+snoball   958541819  6  4 r   c     k     f         1020   40    0 
+snoball   958541885  6  3 f   -     -     -          980    0    0 
+snoball   958541922  6  2 Br  bc    kf    -          980   40    0 
+snoball   958541950  7  1 Bc  kf    -     -          940   10    0 
+snoball   958541991  7  7 r   ccc   c     c          930  140    0 9d As
+snoball   958542039  6  5 fQ  -     -     -          790    0    0 
+snoball   958584499 10  5 KQ  -     -     -          790    0    0 
+snoball   958584591 10  3 f   -     -     -          790    0    0 
+snoball   958584625 10  2 Bc  kc    kc    kf         790   80    0 
+snoball   958584687 10  1 Bc  kf    -     -          710   10    0 
+snoball   958584726 10 10 r   k     c     f          700   50    0 
+snoball   958584777 10  9 rc  f     -     -          650   40    0 
+snoball   958584831 10  8 r   r     b     c          610  100    0 4h 5s
+snoball   958584937 10  7 rr  r     r     r          510  140    0 4d 8s
+snoball   958585039 10  6 rc  brc   krr   b          370  180    0 8c Kd
+snoball   958585158 10  5 rr  rr    b     b          190  120    0 Kh 5d
+snoball   958585247 10  4 rr  b     cA    -           70   70    0 Ad Jh
+snoball   958615473 10  6 c   k     f     -         1000   10    0 
+snoball   958615523  9  5 f   -     -     -          990    0    0 
+snoball   958615585  8  4 c   kf    -     -          990   10    0 
+snoball   958615673  7  3 c   rr    b     b          980   90  230 3s 2s
+snoball   958615720  7  2 Bk  kf    -     -         1120   10    0 
+snoball   958615757  9  1 Bc  kf    -     -         1110   20    0 
+snoball   958615829  9  9 f   -     -     -         1090    0    0 
+snoball   958615862  8  7 c   k     b     -         1090   30   65 
+snoball   958615915  9  8 c   b     -     -         1125   40  135 
+snoball   958615951  9  6 c   rc    c     f         1220   70    0 
+snoball   958616031  9  5 f   -     -     -         1150    0    0 
+snoball   958616090  8  3 f   -     -     -         1150    0    0 
+snoball   958616134  8  2 Bf  -     -     -         1150   10    0 
+snoball   958616148  8  1 Bf  -     -     -         1140    5    0 
+snoball   958616169  8  8 cc  c     cc    c         1135  160    0 Ad 2c
+snoball   958616240  7  6 f   -     -     -          975    0    0 
+snoball   958616268  7  6 r   bc    c     r          975  100  195 
+snoball   958616315  7  5 rc  r     r     k         1070  100    0 As 5s
+snoball   958616355  7  4 f   -     -     -          970    0    0 
+snoball   958616378  7  3 cc  kc    kc    kc         970   70    0 6d 5h
+snoball   958616424  7  2 Bc  br    b     b          900   90    0 3h 5h
+snoball   958616469  7  1 Brc kf    -     -          810   40    0 
+snoball   958616493  7  7 r   c     f     -          770   50    0 
+snoball   958616553  7  6 f   Q     -     -          720    0    0 
+snoball   959144793  8  5 f   -     -     -         1212    0    0 
+snoball   959144878  9  4 f   -     -     -         1212    0    0 
+snoball   959144923  9  3 c   kc    k     kf        1212   20    0 
+snoball   959145033 10  2 Bk  r     b     r         1192   90  310 7s 8s
+snoball   959145093 10  1 Bc  b     b     b         1412   70  265 6h 4d
+snoball   959145189 10 10 c   b     b     b         1607   60    0 5s 3c
+snoball   959145280 10  9 c   f     -     -         1547   20    0 
+snoball   959145364 10  8 r   b     f     -         1527   30    0 
+snoball   959145402 10  7 cc  kf    -     -         1497   20    0 
+snoball   959145470 10  6 f   -     -     -         1477    0    0 
+snoball   959145546 10  5 cc  kc    kr    -         1477   70  165 
+snoball   959145620 10  4 f   -     -     -         1572    0    0 
+snoball   959145675 10  3 cc  br    br    b         1572  130  385 5d Ad
+snoball   959145744 10  2 Bk  k     k     kf        1827   10    0 
+snoball   959145823 10  1 Bc  b     -     -         1817   20   30 
+snoball   959145888 10 10 r   f     -     -         1827   20    0 
+snoball   959145936 10  9 c   r     r     k         1807   90  395 Ts Ks
+snoball   959146017 10  4 Q   -     -     -         2112    0    0 
+snoball   959315857  8  4 r   b     kf    -         1050   30    0 
+snoball   959315885  9  3 c   f     -     -         1010   10    0 
+snoball   959315920  9  2 Bk  kf    -     -         1000   10    0 
+snoball   959315960  9  1 Bf  -     -     -          990    5    0 
+snoball   959315983  9  9 c   f     -     -          985   10    0 
+snoball   959316043 10  9 r   r     b     kf         975   60    0 
+snoball   959316117 10  8 f   -     -     -          915    0    0 
+snoball   959316180 10  7 r   rc    c     f          915  100    0 
+snoball   959316280 10  6 f   -     -     -          815    0    0 
+snoball   959316324 10  5 crc kcc   kc    kf         815  100    0 
+snoball   959316420 10  4 rr  k     k     k          715   40    0 2s Qs
+snoball   959316486  9  3 Q   -     -     -          675    0    0 
+snoball   959434440  2  2 B   -     -     -         1000   10   15 
+snoball   959435487  3  1 B   -     -     -         1005    5   15 
+snoball   959435492  2  2 r   -     -     -         1015   20   30 
+snoball   959435506  2  2 B   -     -     -         1025   10   15 
+snoball   959435507  2  1 Br  b     -     -         1030   30   50 
+snoball   959435516  2  2 Bk  f     -     -         1050   10    0 
+snoball   959435523  2  1 Br  -     -     -         1040   20   30 
+snoball   959435534  2  2 Br  b     b     b         1050   70    0 6d Kc
+snoball   959435554  2  1 Bc  b     -     -          980   20   30 
+snoball   959435577  2  2 B   -     -     -          990   10   15 
+snoball   959435578  2  1 Br  -     -     -          995   20   40 
+snoball   959483791  6  4 c   b     -     -          985   20   55 
+snoball   959483837  6  3 cc  f     -     -         1020   20    0 
+snoball   959483854  7  2 Bk  k     k     b         1000   30   80 Th 9h
+snoball   959483891  7  1 Bc  k     k     k         1050   10    0 9d Qs
+snoball   959483961  7  7 f   -     -     -         1040    0    0 
+snoball   959484020  8  6 r   k     b     b         1040   60  160 
+snoball   959484090  7  3 cc  kf    -     -         1140   20    0 
+snoball   959484154  7  4 f   -     -     -         1120    0    0 
+snoball   959484199  6  2 Bk  kf    -     -         1120   10    0 
+snoball   959484279  8  1 Bc  kf    -     -         1110   10    0 
+snoball   959484348  8  8 c   k     f     -         1100   10    0 
+snoball   959484393  8  7 f   -     -     -         1090    0    0 
+snoball   959484445  8  6 c   k     k     k         1090   10    0 5h 7s
+snoball   959484482  9  5 f   -     -     -         1080    0    0 
+snoball   959484563 10  4 f   -     -     -         1080    0    0 
+snoball   959484596 10  3 f   -     -     -         1080    0    0 
+snoball   959484666 10  2 Bf  -     -     -         1080   10    0 
+snoball   959484775 10  1 Bf  -     -     -         1070    5    0 
+snoball   959484822 10 10 f   -     -     -         1065    0    0 
+snoball   959484879  9  8 c   c     c     c         1065   70  260 8c 9d
+snoball   959484946 10  8 c   c     f     -         1255   20    0 
+snoball   959485004 10  7 r   k     f     -         1235   20    0 
+snoball   959485058 10  6 f   -     -     -         1215    0    0 
+snoball   959485122 10  5 c   kf    -     -         1215   10    0 
+snoball   959485204 10  4 c   kc    kf    -         1205   20    0 
+snoball   959485301 10  3 f   -     -     -         1185    0    0 
+snoball   959485352 10  2 Bk  k     k     kf        1185   10    0 
+snoball   959485412 10  1 Bc  kc    kcf   -         1175   40    0 
+snoball   959485458  9  9 c   k     c     f         1135   30    0 
+snoball   959485516  9  8 cc  b     b     bc        1105   90    0 Qh Qd
+snoball   959485564  9  7 f   -     -     -         1015    0    0 
+snoball   959485610  9  6 c   f     -     -         1015   10    0 
+snoball   959485653 10  6 c   br    b     b         1005   80  200 
+snoball   959485739 10  5 cc  f     -     -         1125   20    0 
+snoball   959485766 10  4 c   kf    -     -         1105   10    0 
+snoball   959485811 10  3 f   -     -     -         1095    0    0 
+snoball   959485852 10  2 Bc  br    brc   b         1095  150  525 7c 4s
+snoball   959485928 10  1 Bc  kc    kf    -         1470   20    0 
+snoball   959485970  9  9 f   -     -     -         1450    0    0 
+snoball   959486005  9  8 f   -     -     -         1450    0    0 
+snoball   959486048  9  7 f   -     -     -         1450    0    0 
+snoball   959486061 10  7 r   b     b     k         1450   50    0 Kh Jh
+snoball   959486109 10  6 cc  kf    -     -         1400   30    0 
+snoball   959486169 10  6 c   k     f     -         1370   10    0 
+snoball   959486216 10  4 c   k     k     kf        1360   10    0 
+snoball   959486312 10  3 r   b     b     kc        1350   70    0 Qs Jc
+snoball   959486394 10  2 Bc  Q     -     -         1280   20    0 

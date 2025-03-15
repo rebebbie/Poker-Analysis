@@ -1,0 +1,949 @@
+FlopTitty 957748843  9  7 cc  b     f     -         1065   30    0 
+FlopTitty 957748950  7  4 c   b     b     br        1015  100  185 
+FlopTitty 957749005  6  3 c   b     b     b         1020   60  120 
+FlopTitty 957749041  6  2 Br  bc    b     b         1080   80  285 Ah Ac
+FlopTitty 957749102  7  1 Bc  kc    kc    kf        1285   60    0 
+FlopTitty 957749149  9  9 c   c     r     b         1215   80  280 
+FlopTitty 957749234  9  8 f   -     -     -         1395    0    0 
+FlopTitty 957749298  9  7 f   -     -     -         1665    0    0 
+FlopTitty 957749378  9  6 f   -     -     -         1725    0    0 
+FlopTitty 957749450  9  5 c   k     kf    -         1705   10    0 
+FlopTitty 957749550  7  3 f   -     -     -         1695    0    0 
+FlopTitty 957749596  8  2 Bk  k     b     b         1695   50  160 Kd 6d
+FlopTitty 957749629  9  1 Bc  kc    kcc   kc        1765   90    0 8h Jh
+FlopTitty 957749711 10 10 c   f     -     -         1655   10    0 
+FlopTitty 957749750 10  9 c   f     -     -         1645   10    0 
+FlopTitty 957749812  9  7 f   -     -     -         1635    0    0 
+FlopTitty 957749891  8  5 c   k     b     b         1535   50  110 
+FlopTitty 957749958  9  5 cc  c     b     c         1595   70    0 7s 8s
+FlopTitty 957750026  9  4 r   b     b     b         1515   70  250 Qc Qs
+FlopTitty 957750059  9  3 f   -     -     -         1665    0    0 
+FlopTitty 957750097  9  2 Bc  kf    -     -         1655   20    0 
+FlopTitty 957750129  9  1 Bf  -     -     -         1635    5    0 
+FlopTitty 957750155  9  9 f   -     -     -         1620    0    0 
+FlopTitty 957750196  9  8 f   -     -     -         1620    0    0 
+FlopTitty 957750258  9  7 f   -     -     -         1620    0    0 
+FlopTitty 957750322  9  6 f   -     -     -         1620    0    0 
+FlopTitty 957750366  9  5 c   bc    b     k         1620   50  170 Tc As
+FlopTitty 957750439  9  4 f   -     -     -         1740    0    0 
+FlopTitty 957750494 10  4 f   -     -     -         1740    0    0 
+FlopTitty 957750516 10  4 f   -     -     -         1740    0    0 
+FlopTitty 957750567 10  2 Bk  f     -     -         1730   10    0 
+FlopTitty 957750649 10  1 Bc  b     -     -         1710   20   40 
+FlopTitty 957750688 10 10 c   c     c     r         1730   80  300 9h 7c
+FlopTitty 957750781 10  9 f   -     -     -         1920    0    0 
+FlopTitty 957750847  9  7 f   -     -     -         2255    0    0 
+FlopTitty 957750884 10  7 c   c     c     k         2255   50    0 3s 3h
+FlopTitty 957750921 10  6 f   -     -     -         2195    0    0 
+FlopTitty 957750976 10  5 f   -     -     -         2195    0    0 
+FlopTitty 957751008 10  4 f   -     -     -         2385    0    0 
+FlopTitty 957751036 10  3 f   -     -     -         2385    0    0 
+FlopTitty 957751095 10  2 Bc  kf    -     -         2345   20    0 
+FlopTitty 957751156 10  1 Bc  kc    kf    -         2315   30    0 
+FlopTitty 957751220 10 10 c   c     c     f         2245   40    0 
+FlopTitty 957751277 10  9 f   -     -     -         2145    0    0 
+FlopTitty 957751315 10  8 f   -     -     -         1965    0    0 
+FlopTitty 957751367 10  7 f   -     -     -         1965    0    0 
+FlopTitty 957751428 10  6 c   kf    -     -         1965   10    0 
+FlopTitty 957751505  9  4 cc  kf    -     -         1895   20    0 
+FlopTitty 957751580  9  3 ccc kcc   kc    kc        1875  110    0 Jd Jh
+FlopTitty 957751673  9  2 Bc  bc    bc    b         1765  100  285 8d Tc
+FlopTitty 957751735  9  1 Bc  kc    kc    kc        1950   70    0 4s 5s
+FlopTitty 957751771  9  9 c   b     b     k         1880   40    0 6s Ad
+FlopTitty 957751855  9  8 c   f     -     -         1820   10    0 
+FlopTitty 957751920  9  7 f   -     -     -         1800    0    0 
+FlopTitty 957751982 10  7 f   -     -     -         1800    0    0 
+FlopTitty 957752053 10  6 f   -     -     -         1800    0    0 
+FlopTitty 957752080 10  5 cc  cc    kc    kc        1800   80    0 Ad 7d
+FlopTitty 957752139 10  4 f   -     -     -         1700    0    0 
+FlopTitty 957752216  9  2 Bc  kf    -     -         1700   20    0 
+FlopTitty 957752286  8  1 Bc  bc    kc    kc        1660  100    0 6c 8s
+FlopTitty 957752357  7  7 r   r     b     b         1560   80  290 Ad As
+FlopTitty 957752433  7  6 f   -     -     -         1770    0    0 
+FlopTitty 957752478  7  5 cc  k     k     k         1660   20   55 4d 8s
+FlopTitty 957752509  7  4 c   f     -     -         1695   10    0 
+FlopTitty 957752557  7  3 f   -     -     -         1685    0    0 
+FlopTitty 957752599  7  2 Bc  kf    -     -         1685   20    0 
+FlopTitty 957752623  7  1 Bc  k     kf    -         1665   10    0 
+FlopTitty 957752655  7  7 c   b     b     b         1655   60  120 
+FlopTitty 957752687  7  6 f   -     -     -         1715    0    0 
+FlopTitty 957752710  6  5 c   k     k     f         1715   10    0 
+FlopTitty 957752787  6  4 f   -     -     -         2285    0    0 
+FlopTitty 957752818  6  3 f   -     -     -         2285    0    0 
+FlopTitty 957752867  7  2 Bk  b     k     b         2285   40  170 6c Kc
+FlopTitty 957752936  7  1 Bf  -     -     -         2415    5    0 
+FlopTitty 957752987  7  7 c   b     f     -         2390   20    0 
+FlopTitty 957753039  7  6 c   f     -     -         2370   10    0 
+FlopTitty 957753069  8  5 f   -     -     -         2340    0    0 
+FlopTitty 957753083  9  4 c   b     bc    rr        2340  140  162 6h 8h
+FlopTitty 957753149  9  3 f   -     -     -         2162    0    0 
+FlopTitty 957753209 10  3 f   -     -     -         2162    0    0 
+FlopTitty 957753254 10  2 Bf  -     -     -         2142   10    0 
+FlopTitty 957753313 10  1 Bf  -     -     -         2132    5    0 
+FlopTitty 957753368 10 10 f   -     -     -         2127    0    0 
+FlopTitty 957753415 10  9 f   -     -     -         2317    0    0 
+FlopTitty 957753497 10  8 c   k     kf    -         2237   10    0 
+FlopTitty 957753561 10  7 f   -     -     -         2217    0    0 
+FlopTitty 957753637 10  6 f   -     -     -         2357    0    0 
+FlopTitty 957753697 10  5 f   -     -     -         2497    0    0 
+FlopTitty 957753755 10  4 f   -     -     -         2497    0    0 
+FlopTitty 957753827 10  3 c   k     k     f         2337   10    0 
+FlopTitty 957753879 10  2 Bk  kf    -     -         2397   10    0 
+FlopTitty 957753950 10  1 Bf  -     -     -         2387    5    0 
+FlopTitty 957753982 10 10 c   k     f     -         2702   10    0 
+FlopTitty 957754062 10  9 c   c     f     -         2552   20    0 
+FlopTitty 957754099 10  8 f   -     -     -         2532    0    0 
+FlopTitty 957754149 10  7 f   -     -     -         2532    0    0 
+FlopTitty 957754213  9  5 f   -     -     -         2442    0    0 
+FlopTitty 957754234  9  6 cc  c     k     f         2442   30    0 
+FlopTitty 957754315  9  4 f   -     -     -         2372    0    0 
+FlopTitty 957754372 10  3 f   -     -     -         2372    0    0 
+FlopTitty 957754413 10  2 Bk  kc    kc    k         2372   40    0 Tc Td
+FlopTitty 957754467 10  1 Bf  -     -     -         2332    5    0 
+FlopTitty 957754508 10 10 f   -     -     -         2327    0    0 
+FlopTitty 957754539 10  9 f   -     -     -         2307    0    0 
+FlopTitty 957754565 10  8 f   -     -     -         2567    0    0 
+FlopTitty 957754619 10  7 f   -     -     -         2947    0    0 
+FlopTitty 957754676 10  6 f   -     -     -         2947    0    0 
+FlopTitty 957754756 10  5 c   kf    -     -         2947   10    0 
+FlopTitty 957754814 10  4 f   -     -     -         2937    0    0 
+FlopTitty 957754857 10  3 f   -     -     -         2937    0    0 
+FlopTitty 957754922 10  2 Bk  c     c     f         2937   40    0 
+FlopTitty 957754965 10  1 Bc  b     k     k         2897   20    0 4h 6d
+FlopTitty 957755034 10 10 c   k     f     -         2947   20    0 
+FlopTitty 957755095 10  9 f   -     -     -         2917    0    0 
+FlopTitty 957755153 10  8 f   -     -     -         2877    0    0 
+FlopTitty 957755206 10  7 c   k     kf    -         2877   20    0 
+FlopTitty 957755253 10  6 c   kc    kf    -         2857   20    0 
+FlopTitty 957755318 10  5 f   -     -     -         2797    0    0 
+FlopTitty 957755368 10  6 c   b     b     b         2927   60  120 
+FlopTitty 957755409 10  3 f   -     -     -         2987    0    0 
+FlopTitty 957755451 10  2 Bk  k     k     b         2967   30    0 5s 4s
+FlopTitty 957755517 10  1 Bf  -     -     -         2927    5    0 
+FlopTitty 957755597 10 10 cc  k     f     -         2942   20    0 
+FlopTitty 957755689 10  3 Q   -     -     -         3252    0    0 
+FlopTitty 957796090  7  6 f   -     -     -         3252    0    0 
+FlopTitty 957796125  8  6 f   -     -     -         3252    0    0 
+FlopTitty 957796147  9  6 f   -     -     -         3252    0    0 
+FlopTitty 957796170  9  5 f   -     -     -         3252    0    0 
+FlopTitty 957796233  9  4 f   -     -     -         3252    0    0 
+FlopTitty 957796263  9  3 cc  kc    kf    -         3252   30    0 
+FlopTitty 957796315  9  2 Bf  -     -     -         3222   10    0 
+FlopTitty 957796352  9  1 Bc  kf    -     -         3212   10    0 
+FlopTitty 957796394  9  3 Q   -     -     -         3202    0    0 
+FlopTitty 957912375  7  2 Bk  k     k     k         2927   10   40 6c Qc
+FlopTitty 957912419  9  1 Bc  kf    -     -         2937   10    0 
+FlopTitty 957912467 10 10 f   -     -     -         2767    0    0 
+FlopTitty 957912506 10  9 f   -     -     -         2767    0    0 
+FlopTitty 957912547 10  8 c   f     -     -         2607   10    0 
+FlopTitty 957912601 10  7 f   -     -     -         2597    0    0 
+FlopTitty 957912681 10  6 f   -     -     -         2597    0    0 
+FlopTitty 957912712 10  5 f   -     -     -         2647    0    0 
+FlopTitty 957912789 10  4 f   -     -     -         2627    0    0 
+FlopTitty 957912835 10  3 c   b     b     kc        2447   60    0 6c 6d
+FlopTitty 957912867 10  2 Bf  -     -     -         2387   10    0 
+FlopTitty 957912893  9  1 Bc  bc    bc    kc        2377  100    0 Kh Kc
+FlopTitty 957912946  9  9 c   f     -     -         2277   20    0 
+FlopTitty 957912972  8  7 f   -     -     -         2237    0    0 
+FlopTitty 957913017  8  6 f   -     -     -         2237    0    0 
+FlopTitty 957913101  8  5 f   -     -     -         2087    0    0 
+FlopTitty 957913174  8  4 f   -     -     -         2287    0    0 
+FlopTitty 957913229  8  3 cc  kf    -     -         2287   20    0 
+FlopTitty 957913267  8  2 Bc  kc    kc    bc        2247   90    0 Qs 7s
+FlopTitty 957913361  7  1 Bc  kf    -     -         2137   20    0 
+FlopTitty 957913412  7  7 f   -     -     -         2077    0    0 
+FlopTitty 957913465  7  6 f   -     -     -         2077    0    0 
+FlopTitty 957913511  7  5 f   -     -     -         2077    0    0 
+FlopTitty 957913575  7  4 fQ  -     -     -         2157    0    0 
+FlopTitty 957958298  3  3 c   c     f     -         2147   20    0 
+FlopTitty 957958312  3  2 Bk  kf    -     -         2127   10    0 
+FlopTitty 957958336  3  1 Bc  kc    krr   b         2107  120  250 Qd Kh
+FlopTitty 957958372  3  3 f   -     -     -         2227    0    0 
+FlopTitty 957958380  3  2 Bf  -     -     -         2227   10    0 
+FlopTitty 957958398  3  1 Bc  k     k     b         2217   30   40 
+FlopTitty 957958420  3  3 c   bc    c     r         2207   90  185 As Kd
+FlopTitty 957958446  3  2 Bk  k     b     -         2292   30   40 
+FlopTitty 957958467  2  1 Bc  b     kf    -         2302   20    0 
+FlopTitty 957958482  2  2 Bk  b     b     -         2282   40   60 
+FlopTitty 957958491  2  1 Bf  -     -     -         2302    5    0 
+FlopTitty 957958494  2  2 B   -     -     -         2297   10   15 
+FlopTitty 957958496  2  1 Bc  k     k     k         2302   10    0 5h 3d
+FlopTitty 957958505  2  2 Bk  k     b     -         2292   30   40 
+FlopTitty 957958517  2  1 Bc  kf    -     -         2302   10    0 
+FlopTitty 957958525  2  2 B   -     -     -         2282   10   15 
+FlopTitty 957958527  2  1 Bc  k     kf    -         2287   10    0 
+FlopTitty 957958538  2  2 B   -     -     -         2277   10   15 
+FlopTitty 957958540  2  1 Bf  -     -     -         2282    5    0 
+FlopTitty 957958543  2  2 B   -     -     -         2277   10   15 
+FlopTitty 957958562  2  1 Bc  k     b     b         2282   50  100 As Qc
+FlopTitty 957958578  2  2 Bk  k     k     k         2332   10   20 2s Kd
+FlopTitty 957958593  2  1 Bc  kf    -     -         2342   10    0 
+FlopTitty 957958604  2  2 Bk  k     k     f         2332   10    0 
+FlopTitty 957958614  2  1 Bc  k     k     k         2322   10   20 Qd 7c
+FlopTitty 957958624  2  2 B   -     -     -         2332   10   15 
+FlopTitty 957958628  2  1 Bc  b     b     -         2337   40   60 
+FlopTitty 957958638  2  2 Bk  b     b     f         2357   40    0 
+FlopTitty 957958652  2  1 Bc  k     k     k         2317   10    0 6s Td
+FlopTitty 957958662  2  2 Bk  b     -     -         2307   20   30 
+FlopTitty 957958671  2  1 Bc  b     kf    -         2317   20    0 
+FlopTitty 957958682  2  2 Bk  k     b     b         2297   50  100 Qd 9s
+FlopTitty 957958694  2  1 Bc  b     -     -         2347   20   30 
+FlopTitty 957958703  2  2 Bk  c     f     -         2357   20    0 
+FlopTitty 957958714  2  1 Bc  b     -     -         2337   20   30 
+FlopTitty 957958719  2  2 Bk  k     b     b         2347   50  100 4s Kh
+FlopTitty 957958730  2  1 Bf  -     -     -         2397    5    0 
+FlopTitty 957958736  2  2 B   -     -     -         2392   10   15 
+FlopTitty 957958739  2  1 Bc  k     bc    kc        2397   70    0 Ad 2d
+FlopTitty 957958752  2  2 B   -     -     -         2327   10   15 
+FlopTitty 957958757  2  1 Bc  b     -     -         2332   20   30 
+FlopTitty 957958764  2  2 Bk  k     k     k         2342   10    0 8h 3s
+FlopTitty 957958771  2  1 Bc  b     b     k         2332   40    0 Jh Tc
+FlopTitty 957958785  2  2 B   -     -     -         2292   10   15 
+FlopTitty 957958789  2  1 Bc  k     k     k         2297   10   20 Jd Ks
+FlopTitty 957958801  2  2 B   -     -     -         2307   10   15 
+FlopTitty 957958806  2  1 Bc  k     k     k         2312   10   20 7d Qd
+FlopTitty 957958813  2  2 Bk  k     k     k         2322   10    0 Kd 4h
+FlopTitty 957958826  2  1 Bf  -     -     -         2312    5    0 
+FlopTitty 957958833  2  2 B   -     -     -         2307   10   15 
+FlopTitty 957958835  2  1 Bc  b     b     b         2312   60  120 5d 6c
+FlopTitty 957958853  2  2 B   -     -     -         2372   10   15 
+FlopTitty 957958857  2  1 Bf  -     -     -         2377    5    0 
+FlopTitty 957958858  2  2 B   -     -     -         2372   10   15 
+FlopTitty 957958860  2  1 Bc  k     k     b         2377   30   30 6s Ac
+FlopTitty 957958873  2  2 B   -     -     -         2377   10   15 
+FlopTitty 957958878  2  1 Bcc kf    -     -         2382   20    0 
+FlopTitty 957958887  2  2 Bk  k     k     c         2362   30    0 8s Kh
+FlopTitty 957958896  2  1 Bf  -     -     -         2332    5    0 
+FlopTitty 957958901  2  2 Bk  bc    c     f         2327   50    0 
+FlopTitty 957958916  2  1 Bf  -     -     -         2277    5    0 
+FlopTitty 957958918  2  2 B   -     -     -         2272   10   15 
+FlopTitty 957958920  2  1 Bc  k     k     b         2277   30   60 6s Qc
+FlopTitty 957958933  2  2 Bk  k     k     k         2307   10    0 Tc 5d
+FlopTitty 957958944  2  1 Bc  k     kc    k         2297   30   60 8c 6d
+FlopTitty 957958964  2  2 B   -     -     -         2327   10   15 
+FlopTitty 957958968  2  1 Bf  -     -     -         2332    5    0 
+FlopTitty 957958972  2  2 Bk  k     k     k         2327   10   20 8s 5h
+FlopTitty 957958986  2  1 Bc  k     k     k         2337   10    0 2c Kh
+FlopTitty 957959005  2  2 Bk  k     k     c         2327   30    0 Td Js
+FlopTitty 957959017  2  1 Bc  b     -     -         2297   20   30 
+FlopTitty 957959025  2  2 B   -     -     -         2307   10   15 
+FlopTitty 957959027  2  1 Bc  k     k     b         2312   30   60 Ah 9c
+FlopTitty 957959041  2  2 Bk  k     b     b         2342   50  100 Ac Th
+FlopTitty 957959059  2  1 Bf  -     -     -         2392    5    0 
+FlopTitty 957959065  2  2 B   -     -     -         2387   10   15 
+FlopTitty 957959068  2  1 Bc  k     k     k         2392   10    0 7c 6d
+FlopTitty 957959079  2  2 Bk  k     k     f         2382   10    0 
+FlopTitty 957959095  2  1 Bc  b     -     -         2372   20   30 
+FlopTitty 957959102  2  2 Bk  k     k     k         2382   10    0 7s 7h
+FlopTitty 957959111  2  1 Bf  -     -     -         2372    5    0 
+FlopTitty 957959116  2  2 B   -     -     -         2367   10   15 
+FlopTitty 957959119  2  1 Bc  k     b     -         2372   30   40 
+FlopTitty 957959131  2  2 B   -     -     -         2382   10   15 
+FlopTitty 957959133  2  1 Bf  -     -     -         2387    5    0 
+FlopTitty 957959137  2  2 Bk  k     k     f         2382   10    0 
+FlopTitty 957959146  2  1 Bc  k     k     b         2372   30    0 Ad 9c
+FlopTitty 957959157  2  2 Bk  k     k     f         2342   10    0 
+FlopTitty 957959174  2  1 Bc  k     k     k         2332   10   20 As 8h
+FlopTitty 957959184  2  2 Bk  k     k     k         2342   10    0 5d 4s
+FlopTitty 957959194  2  1 Bc  kf    -     -         2332   10    0 
+FlopTitty 957959204  2  2 B   -     -     -         2322   10   15 
+FlopTitty 957959206  2  1 Bc  k     b     -         2327   30   40 
+FlopTitty 957959216  2  2 B   -     -     -         2337   10   15 
+FlopTitty 957959218  2  1 Bc  b     -     -         2342   20   30 
+FlopTitty 957959225  2  2 B   -     -     -         2352   10   15 
+FlopTitty 957959227  2  1 Bf  -     -     -         2357    5    0 
+FlopTitty 957959228  2  2 B   -     -     -         2352   10   15 
+FlopTitty 957959230  2  1 Bc  k     k     k         2357   10    0 Qc 8s
+FlopTitty 957959240  2  2 B   -     -     -         2347   10   15 
+FlopTitty 957959244  2  1 Bc  k     bf    -         2352   30    0 
+FlopTitty 957959254  2  2 B   -     -     -         2322   10   15 
+FlopTitty 957959257  2  1 Bc  b     bc    k         2327   60    0 Js 6s
+FlopTitty 957959270  2  2 B   -     -     -         2267   10   15 
+FlopTitty 957959275  2  1 Bc  b     -     -         2272   20   30 
+FlopTitty 957959282  2  2 B   -     -     -         2282   10   15 
+FlopTitty 957959283  2  1 Bc  k     b     b         2287   50    0 Ac Qs
+FlopTitty 957959296  2  2 Bk  k     b     k         2237   30   60 6d 9h
+FlopTitty 957959312  2  1 Bc  b     -     -         2267   20   30 
+FlopTitty 957959321  2  2 B   -     -     -         2277   10   15 
+FlopTitty 957959323  2  1 Bf  -     -     -         2282    5    0 
+FlopTitty 957959324  2  2 Br  b     -     -         2277   30   50 
+FlopTitty 957959330  2  1 Bc  b     -     -         2297   20   30 
+FlopTitty 957959335  2  2 Bk  b     b     r         2307   80    0 Ts 5d
+FlopTitty 957959349  2  1 Bc  k     b     kc        2227   50    0 8h 4h
+FlopTitty 957959365  2  2 Bk  k     k     f         2177   10    0 
+FlopTitty 957959376  2  1 Bf  -     -     -         2167    5    0 
+FlopTitty 957959378  2  2 Bk  b     b     c         2162   60    0 Qd 2c
+FlopTitty 957959395  2  1 Bc  b     k     k         2102   20   40 Ac Ks
+FlopTitty 957959408  2  2 Bk  k     k     k         2122   10   20 Kc 3c
+FlopTitty 957959420  2  1 Bf  -     -     -         2132    5    0 
+FlopTitty 957959425  2  2 Bk  k     k     k         2127   10   20 5c Js
+FlopTitty 957959438  2  1 Bf  -     -     -         2137    5    0 
+FlopTitty 957959443  2  2 B   -     -     -         2132   10   15 
+FlopTitty 957959445  2  1 Bf  -     -     -         2137    5    0 
+FlopTitty 957959446  2  2 B   -     -     -         2132   10   15 
+FlopTitty 957959449  2  1 Bf  -     -     -         2137    5    0 
+FlopTitty 957959452  2  2 Bk  k     -     -         2132   10   20 
+FlopTitty 958102304  3  2 Bf  -     -     -         2242   10    0 
+FlopTitty 958102326  2  1 Bf  -     -     -         2232    5    0 
+FlopTitty 958102330  2  2 B   -     -     -         2227   10   15 
+FlopTitty 958102331  2  1 Bf  -     -     -         2232    5    0 
+FlopTitty 958102335  2  2 Bf  -     -     -         2227   10    0 
+FlopTitty 958102341  2  1 Bf  -     -     -         2217    5    0 
+FlopTitty 958102342  2  2 Bk  b     -     -         2212   20   30 
+FlopTitty 958102353  2  1 Bf  -     -     -         2222    5    0 
+FlopTitty 958102357  2  2 B   -     -     -         2217   10   15 
+FlopTitty 958102359  2  1 Bc  b     -     -         2222   20   30 
+FlopTitty 958102366  2  2 Br  b     b     -         2232   50   80 
+FlopTitty 958102379  2  1 Bc  b     -     -         2262   20   30 
+FlopTitty 958102386  2  2 B   -     -     -         2272   10   15 
+FlopTitty 958102389  2  1 Bcc k     b     b         2277   60  100 
+FlopTitty 958102405  2  2 B   -     -     -         2317   10   15 
+FlopTitty 958102408  2  1 Bc  kf    -     -         2322   10    0 
+FlopTitty 958102418  2  2 Bk  b     -     -         2312   20   30 
+FlopTitty 958102440  2  1 Bc  k     k     k         2322   10    0 As 2h
+FlopTitty 958102452  2  2 Bk  c     c     b         2312   60  120 6s Qs
+FlopTitty 958102472  2  1 Bf  -     -     -         2372    5    0 
+FlopTitty 958102478  2  2 Bf  -     -     -         2367   10    0 
+FlopTitty 958102978  4  2 Bk  b     b     k         2457   40    0 4s Th
+FlopTitty 958103006  4  1 Bc  b     b     b         2417   70  150 Kc 9c
+FlopTitty 958103028  4  4 f   -     -     -         2497    0    0 
+FlopTitty 958103056  4  3 cc  c     b     c         2497   70    0 Ah 5s
+FlopTitty 958103097  5  2 Bk  k     f     -         2427   10    0 
+FlopTitty 958103119  5  1 Bc  k     k     k         2417   10    0 7d 6s
+FlopTitty 958103142  5  5 c   k     k     f         2407   10    0 
+FlopTitty 958103165  5  4 f   -     -     -         2377    0    0 
+FlopTitty 958103170  5  3 f   -     -     -         2377    0    0 
+FlopTitty 958103195  6  2 Bc  c     c     k         2377   50    0 7d Kc
+FlopTitty 958103222  7  1 Bc  kc    b     b         2327   80  200 
+FlopTitty 958103254  7  7 cc  f     -     -         2447   20    0 
+FlopTitty 958103303  7  6 c   k     ccc   kf        2417   90    0 
+FlopTitty 958103398  7  5 c   k     b     k         2327   30    0 Tc 5c
+FlopTitty 958103451  5  2 Bk  kf    -     -         2507   10    0 
+FlopTitty 958103482  5  1 Bf  -     -     -         2497    5    0 
+FlopTitty 958103511  5  5 f   -     -     -         2382    0    0 
+FlopTitty 958103538  6  5 cc  b     bc    c         2382   90  320 9h Kh
+FlopTitty 958103609  4  3 c   c     c     f         2612   40    0 
+FlopTitty 958103635  5  3 f   -     -     -         2572    0    0 
+FlopTitty 958103658  5  2 Bf  -     -     -         2572   10    0 
+FlopTitty 958103677  5  1 Bc  kc    kc    krc       2562  110    0 9h 9c
+FlopTitty 958103716  7  7 f   -     -     -         2452    0    0 
+FlopTitty 958103753  8  7 f   -     -     -         2452    0    0 
+FlopTitty 958103786  9  7 rc  c     c     c         2442   80    0 Ah Kh
+FlopTitty 958103870 10  7 f   -     -     -         2362    0    0 
+FlopTitty 958103936 10  6 f   -     -     -         2582    0    0 
+FlopTitty 958103984 10  5 f   -     -     -         2582    0    0 
+FlopTitty 958104063 10  4 f   -     -     -         2572    0    0 
+FlopTitty 958104129 10  3 f   -     -     -         2557    0    0 
+FlopTitty 958104190 10  2 Bcc kc    kc    b         2557   80  360 Ad Kh
+FlopTitty 958104284 10  1 Bc  k     b     -         2837   30   70 
+FlopTitty 958104332 10 10 c   c     c     f         2877   60    0 
+FlopTitty 958104374 10  9 c   ccc   f     -         2797   60    0 
+FlopTitty 958104454 10  8 ccc c     cc    f         2737  140    0 
+FlopTitty 958104609  9  7 f   -     -     -         2587    0    0 
+FlopTitty 958104662  8  6 f   -     -     -         2582    0    0 
+FlopTitty 958104703 10  5 f   -     -     -         2535    0    0 
+FlopTitty 958104770 10  4 cc  kc    cc    f         2535   90    0 
+FlopTitty 958104857  9  2 Bf  -     -     -         2385   10    0 
+FlopTitty 958104916 10  1 Bcc krc   b     kc        2375   90    0 9d Qd
+FlopTitty 958104975 10 10 f   -     -     -         2275    0    0 
+FlopTitty 958105021 10  9 c   f     -     -         2275   10    0 
+FlopTitty 958105067 10  8 f   -     -     -         2265    0    0 
+FlopTitty 958105126 10  7 f   -     -     -         2235    0    0 
+FlopTitty 958105178 10  6 cc  c     c     r         2235  110  325 
+FlopTitty 958105257 10  5 cc  k     f     -         2450   20    0 
+FlopTitty 958105297  9  3 cc  b     b     b         2430   70  120 9d 7d
+FlopTitty 958105354  8  2 Bcc kf    -     -         2480   40    0 
+FlopTitty 958105425  7  1 Bccc kf    -     -         2450   40    0 
+FlopTitty 958105527  8  8 f   -     -     -         2760    0    0 
+FlopTitty 958105562  8  7 cc  c     k     k         2820   30    0 8d 9s
+FlopTitty 958105619 10  8 c   c     k     f         2710   20    0 
+FlopTitty 958105717 10  7 f   -     -     -         2780    0    0 
+FlopTitty 958105803 10  6 f   -     -     -         2780    0    0 
+FlopTitty 958105867 10  6 cf  -     -     -         2680   10    0 
+FlopTitty 958105952 10  4 f   -     -     -         2670    0    0 
+FlopTitty 958106009 10  3 KQ  -     -     -         2670    0    0 
+FlopTitty 958137955  8  4 f   -     -     -         4033    0    0 
+FlopTitty 958137976  8  3 c   kc    kf    -         4033   20    0 
+FlopTitty 958138004  8  2 Bf  -     -     -         4013   10    0 
+FlopTitty 958138031  8  1 Bf  -     -     -         4003    5    0 
+FlopTitty 958138064  8  8 f   -     -     -         3998    0    0 
+FlopTitty 958138097  8  7 f   -     -     -         3998    0    0 
+FlopTitty 958138121  7  6 c   c     c     c         3998   60    0 Qc 8h
+FlopTitty 958138157  7  5 f   -     -     -         3938    0    0 
+FlopTitty 958138221  7  4 f   -     -     -         3938    0    0 
+FlopTitty 958138244  7  3 f   -     -     -         3938    0    0 
+FlopTitty 958138268  6  2 Bk  k     k     k         3938   10    0 6h 9c
+FlopTitty 958138302  6  1 Bc  kf    -     -         3928   10    0 
+FlopTitty 958138329  6  6 c   b     -     -         3918   20   45 
+FlopTitty 958138347  6  5 f   -     -     -         3943    0    0 
+FlopTitty 958138367  6  4 f   -     -     -         3943    0    0 
+FlopTitty 958138390  6  3 f   -     -     -         3943    0    0 
+FlopTitty 958138425  6  2 Bk  kf    -     -         3943   10    0 
+FlopTitty 958138461  6  1 Bf  -     -     -         3933    5    0 
+FlopTitty 958138481  6  6 c   f     -     -         3928   10    0 
+FlopTitty 958138513  6  5 c   b     f     -         3918   20    0 
+FlopTitty 958138551  7  4 f   -     -     -         3898    0    0 
+FlopTitty 958138587  8  3 f   -     -     -         3898    0    0 
+FlopTitty 958138614  8  2 Bk  b     c     f         3898   40    0 
+FlopTitty 958138647  9  1 Bf  -     -     -         3858    5    0 
+FlopTitty 958138671  9  9 f   -     -     -         3853    0    0 
+FlopTitty 958138728  9  8 c   c     kf    -         3853   20    0 
+FlopTitty 958138780  8  6 f   -     -     -         3833    0    0 
+FlopTitty 958138832  8  5 f   -     -     -         3833    0    0 
+FlopTitty 958138872  8  4 f   -     -     -         3833    0    0 
+FlopTitty 958138914  7  3 cc  c     k     r         3833   70  265 Ah 6h
+FlopTitty 958138971  7  2 Bk  k     f     -         4028   10    0 
+FlopTitty 958139070  7  1 Bc  b     b     -         4018   40   70 
+FlopTitty 958139091  7  7 cc  c     k     f         4048   30    0 
+FlopTitty 958139149  6  5 c   k     b     b         4018   50  105 Kd Tc
+FlopTitty 958139174  6  4 f   -     -     -         4073    0    0 
+FlopTitty 958139207  6  3 cc  kQ    -     -         4073   20    0 
+FlopTitty 958178453  9  6 f   -     -     -         1823    0    0 
+FlopTitty 958178510  9  5 f   -     -     -         1803    0    0 
+FlopTitty 958178559  8  4 f   -     -     -         1783    0    0 
+FlopTitty 958178605  8  3 c   k     k     k         1873   10   22 Js 5s
+FlopTitty 958178679  7  2 Bk  k     k     k         1885   10    0 Js 6d
+FlopTitty 958178751  7  1 Bf  -     -     -         1845    5    0 
+FlopTitty 958178770  7  7 f   -     -     -         1840    0    0 
+FlopTitty 958178814  7  6 c   f     -     -         1830   10    0 
+FlopTitty 958178868  7  6 c   f     -     -         1820   10    0 
+FlopTitty 958178924  7  4 c   k     k     k         1810   10    0 2d Ad
+FlopTitty 958178963  8  3 f   -     -     -         1800    0    0 
+FlopTitty 958179068  9  2 Bk  k     kf    -         1800   10    0 
+FlopTitty 958179131  9  1 Bc  k     k     k         1790   10    0 Jh 2s
+FlopTitty 958179168  9  9 f   -     -     -         1780    0    0 
+FlopTitty 958179265  9  9 c   b     b     c         1780   60    0 9d Qc
+FlopTitty 958179378  8  7 f   -     -     -         1720    0    0 
+FlopTitty 958179421  8  6 c   f     -     -         1720   10    0 
+FlopTitty 958179447  8  5 c   k     k     k         1710   10   35 Qh 8h
+FlopTitty 958179518  8  4 c   k     k     k         1735   10    0 Qd 8s
+FlopTitty 958179577  8  3 c   c     c     k         1725   50    0 9h 6h
+FlopTitty 958179634  8  2 Bk  k     k     b         1675   30   75 
+FlopTitty 958179693  8  1 Bc  kf    -     -         1720   10    0 
+FlopTitty 958179750  7  7 f   -     -     -         1710    0    0 
+FlopTitty 958179812  7  6 cc  k     b     b         1710   60  140 
+FlopTitty 958179904  6  5 c   f     -     -         1790   10    0 
+FlopTitty 958179937  6  4 c   b     b     -         1780   40   70 
+FlopTitty 958179991  6  3 c   kf    -     -         1810   10    0 
+FlopTitty 958180083  8  3 f   -     -     -         1800    0    0 
+FlopTitty 958180148  9  3 cc  k     k     b         1800   40    0 Ks 2s
+FlopTitty 958180193  8  2 Bc  kc    kc    kf        1760   50    0 
+FlopTitty 958180243  8  1 Bf  -     -     -         1710    5    0 
+FlopTitty 958180340  9  9 f   -     -     -         1705    0    0 
+FlopTitty 958180404  9  8 c   f     -     -         1705   10    0 
+FlopTitty 958180449 10  7 c   c     c     c         1695   70  225 Jh Ac
+FlopTitty 958180531 10  6 c   f     -     -         1850   10    0 
+FlopTitty 958180589 10  5 c   b     b     k         1840   40  130 Th 9h
+FlopTitty 958180643 10  4 f   -     -     -         1930    0    0 
+FlopTitty 958180722 10  3 r   cc    f     -         1930   40    0 
+FlopTitty 958180788 10  2 Bk  b     kc    bc        1890   80  235 Qd Td
+FlopTitty 958180857  9  1 BQ  -     -     -         2045    5    0 
+FlopTitty 958185911 10  2 Bk  f     -     -         1900   10    0 
+FlopTitty 958185948 10  1 Bf  -     -     -         1890    5    0 
+FlopTitty 958185982 10 10 c   b     b     b         1885   60  170 
+FlopTitty 958186056 10  9 f   -     -     -         2015    0    0 
+FlopTitty 958186100 10  8 f   -     -     -         2005    0    0 
+FlopTitty 958186142 10  7 f   -     -     -         2005    0    0 
+FlopTitty 958186178 10  6 cc  kf    -     -         2005   20    0 
+FlopTitty 958186250 10  5 f   -     -     -         1985    0    0 
+FlopTitty 958186276 10  4 cc  kf    -     -         1985   20    0 
+FlopTitty 958186336 10  4 c   k     k     b         1965   30   60 
+FlopTitty 958186396 10  2 Brc bc    kc    kf        1995   70    0 
+FlopTitty 958186480 10  1 Bc  k     bc    kc        1925   70    0 Kc Jh
+FlopTitty 958186526 10 10 f   -     -     -         1855    0    0 
+FlopTitty 958186577 10  9 f   -     -     -         1855    0    0 
+FlopTitty 958186611 10  8 f   -     -     -         1855    0    0 
+FlopTitty 958186674 10  7 f   -     -     -         1855    0    0 
+FlopTitty 958186731 10  6 c   f     -     -         1935   10    0 
+FlopTitty 958186781 10  5 f   -     -     -         2015    0    0 
+FlopTitty 958186876  9  4 f   -     -     -         2015    0    0 
+FlopTitty 958186907  9  4 c   b     k     f         2100   20    0 
+FlopTitty 958186952  8  2 Bk  c     c     c         2075   60    0 4h Jh
+FlopTitty 958186988  8  1 Bc  kf    -     -         2015   10    0 
+FlopTitty 958187022  9  9 c   b     b     -         2005   40   80 
+FlopTitty 958187062  8  7 c   f     -     -         2045   10    0 
+FlopTitty 958187116  8  6 f   -     -     -         2035    0    0 
+FlopTitty 958187188  8  5 f   -     -     -         2050    0    0 
+FlopTitty 958187211  9  4 f   -     -     -         2050    0    0 
+FlopTitty 958187260  9  2 Bc  kf    -     -         2005   20    0 
+FlopTitty 958187298  9  1 Bc  kf    -     -         1985   20    0 
+FlopTitty 958187361  8  8 c   c     c     c         1945   60  260 Ks 5s
+FlopTitty 958187443  8  7 cc  k     kc    b         2255   60  135 8s 7h
+FlopTitty 958187504  8  6 f   -     -     -         2325    0    0 
+FlopTitty 958187525  7  4 cc  kc    kcc   kc        2325  100    0 Kh Tc
+FlopTitty 958187590  7  4 c   b     -     -         2215   20   50 
+FlopTitty 958187612  7  3 f   -     -     -         2245    0    0 
+FlopTitty 958187651  7  2 Bc  cc    f     -         2405   40    0 
+FlopTitty 958187706  6  1 Bc  bc    bcc   k         2355  130    0 Qd Kc
+FlopTitty 958187761  6  6 c   c     c     r         2185   80  240 7s 8c
+FlopTitty 958187829  6  5 f   -     -     -         2345    0    0 
+FlopTitty 958187858  6  4 c   k     f     -         2345   10    0 
+FlopTitty 958187893  5  3 c   k     c     f         2325   30    0 
+FlopTitty 958187927  6  2 Bk  kf    -     -         2295   10    0 
+FlopTitty 958187968  6  1 Bc  k     kf    -         2280   10    0 
+FlopTitty 958188007  6  6 f   -     -     -         2270    0    0 
+FlopTitty 958188035  6  5 f   -     -     -         2270    0    0 
+FlopTitty 958188045  6  4 f   -     -     -         2270    0    0 
+FlopTitty 958188065  6  3 f   -     -     -         2270    0    0 
+FlopTitty 958188083  5  2 Bf  -     -     -         2270   10    0 
+FlopTitty 958188106  5  1 Bf  -     -     -         2260    5    0 
+FlopTitty 958188113  5  5 f   -     -     -         2255    0    0 
+FlopTitty 958188124  5  4 f   -     -     -         2255    0    0 
+FlopTitty 958188141  5  3 f   -     -     -         2255    0    0 
+FlopTitty 958188159  5  2 Bf  -     -     -         2255   10    0 
+FlopTitty 958188180  5  1 Bc  k     b     -         2235   30   60 
+FlopTitty 958188220  5  5 r   r     f     -         2260   40    0 
+FlopTitty 958188261  5  4 c   k     f     -         2220   10    0 
+FlopTitty 958188291  6  3 f   -     -     -         2210    0    0 
+FlopTitty 958188324  8  2 Bk  kf    -     -         2210   10    0 
+FlopTitty 958188381  8  1 Bf  -     -     -         2200    5    0 
+FlopTitty 958188437  8  8 c   f     -     -         2165   10    0 
+FlopTitty 958188493  9  8 f   -     -     -         2155    0    0 
+FlopTitty 958188539  8  6 f   -     -     -         2155    0    0 
+FlopTitty 958188569  9  6 c   c     b     -         2155   40   95 
+FlopTitty 958188617  9  5 f   -     -     -         2210    0    0 
+FlopTitty 958188654  9  4 f   -     -     -         2210    0    0 
+FlopTitty 958188686  9  3 c   b     bc    f         2210   60    0 
+FlopTitty 958188723  9  2 Bk  kf    -     -         2120   10    0 
+FlopTitty 958188748 10  1 Bf  -     -     -         2110    5    0 
+FlopTitty 958188792 10 10 f   -     -     -         2105    0    0 
+FlopTitty 958188829 10  9 c   kc    kc    f         2105   40    0 
+FlopTitty 958188882 10  8 c   k     c     k         2065   30    0 Jh Ac
+FlopTitty 958188922 10  7 cc  c     c     rr        2035  130  370 Ks Qd
+FlopTitty 958189009 10  6 f   -     -     -         2225    0    0 
+FlopTitty 958189082 10  5 f   -     -     -         2195    0    0 
+FlopTitty 958189139 10  4 f   -     -     -         2195    0    0 
+FlopTitty 958189190 10  3 f   -     -     -         2195    0    0 
+FlopTitty 958189233 10  2 Bk  kc    kc    kf        2195   60    0 
+FlopTitty 958189293 10  1 Bcc kf    -     -         2130   20    0 
+FlopTitty 958189340 10 10 f   -     -     -         2110    0    0 
+FlopTitty 958189375 10  9 c   c     c     r         2110   80  270 Jd Ts
+FlopTitty 958189445 10  8 f   -     -     -         2300    0    0 
+FlopTitty 958189476  9  3 Q   -     -     -         2300    0    0 
+FlopTitty 958358215 10  7 f   -     -     -         3462    0    0 
+FlopTitty 958358260 10  6 f   -     -     -         3412    0    0 
+FlopTitty 958358354 10  5 f   -     -     -         3392    0    0 
+FlopTitty 958358414 10  4 c   k     bf    -         3657   30    0 
+FlopTitty 958358460 10  3 ccc f     -     -         3627   40    0 
+FlopTitty 958358569 10  2 Bk  k     kf    -         3467   10    0 
+FlopTitty 958358634 10  1 Bf  -     -     -         3687    5    0 
+FlopTitty 958358690 10 10 c   c     rr    k         3662  110  270 Kd Qh
+FlopTitty 958358747 10  9 c   f     -     -         3812   10    0 
+FlopTitty 958358821 10  8 c   kc    k     b         3762   40  160 Qh Ks
+FlopTitty 958358928 10  7 f   -     -     -         3802    0    0 
+FlopTitty 958358974 10  6 f   -     -     -         3782    0    0 
+FlopTitty 958359001 10  5 f   -     -     -         3762    0    0 
+FlopTitty 958359063 10  4 f   -     -     -         3762    0    0 
+FlopTitty 958359105 10  3 f   -     -     -         4002    0    0 
+FlopTitty 958359164 10  2 Bc  bc    kc    br        4212  120  425 Td 9s
+FlopTitty 958359243 10  1 Bf  -     -     -         4417    5    0 
+FlopTitty 958359293 10 10 f   -     -     -         4392    0    0 
+FlopTitty 958359326 10  9 f   -     -     -         4372    0    0 
+FlopTitty 958359362 10  8 c   c     c     f         4372   40    0 
+FlopTitty 958359453 10  7 c   c     c     c         4552   80  340 9c 9d
+FlopTitty 958359502 10  6 c   c     f     -         4812   20    0 
+FlopTitty 958359555 10  5 c   k     k     k         4792   10    0 Qc Td
+FlopTitty 958359637 10  4 c   f     -     -         4722   10    0 
+FlopTitty 958359693 10  3 c   f     -     -         4592   10    0 
+FlopTitty 958359761 10  2 Bk  b     b     k         4502   40  100 Ks 8d
+FlopTitty 958359864  7  1 Bc  b     b     b         4732   70  220 Kh Ah
+FlopTitty 958359937  6  6 f   -     -     -         4602    0    0 
+FlopTitty 958359963  6  5 c   k     f     -         4602   10    0 
+FlopTitty 958360017  6  4 f   -     -     -         4562    0    0 
+FlopTitty 958360055  7  3 f   -     -     -         4562    0    0 
+FlopTitty 958360096  7  2 Br  b     b     -         4562   50  170 
+FlopTitty 958360156  4  1 BfQ -     -     -         4662    5    0 
+FlopTitty 958409748  7  2 Bc  kc    kf    -         5022   30    0 
+FlopTitty 958409806  7  1 Bc  kc    k     kc        4992   50    0 As 8s
+FlopTitty 958409885  9  9 f   -     -     -         4942    0    0 
+FlopTitty 958409907  9  8 f   -     -     -         4942    0    0 
+FlopTitty 958409980  9  7 f   -     -     -         4942    0    0 
+FlopTitty 958410034  9  6 c   f     -     -         4942   10    0 
+FlopTitty 958410088  9  5 c   b     k     k         4932   20    0 4d 4c
+FlopTitty 958410121  9  4 f   -     -     -         4912    0    0 
+FlopTitty 958410171  9  3 f   -     -     -         4912    0    0 
+FlopTitty 958410231  9  2 Bk  k     k     k         4912   10   45 2h Ts
+FlopTitty 958410279 10  1 Bc  bc    k     b         4947   50    0 9s Jh
+FlopTitty 958410363 10 10 c   c     k     f         4897   30    0 
+FlopTitty 958410440 10  9 c   b     -     -         4867   20   50 
+FlopTitty 958410474 10  8 f   -     -     -         4897    0    0 
+FlopTitty 958410521 10  7 ccc kc    kr    b         4897  110  505 9d 8s
+FlopTitty 958410590 10  6 f   -     -     -         5292    0    0 
+FlopTitty 958410653 10  5 f   -     -     -         5292    0    0 
+FlopTitty 958410712 10  4 f   -     -     -         5292    0    0 
+FlopTitty 958410798 10  3 f   -     -     -         5292    0    0 
+FlopTitty 958410845 10  2 Bk  k     k     f         5292   10    0 
+FlopTitty 958410918 10  1 Bf  -     -     -         5282    5    0 
+FlopTitty 958410972 10 10 f   -     -     -         5277    0    0 
+FlopTitty 958411019 10  9 f   -     -     -         5277    0    0 
+FlopTitty 958411062 10  8 c   rc    c     c         5277  110    0 Ks Kh
+FlopTitty 958411147 10  7 f   -     -     -         5167    0    0 
+FlopTitty 958411201 10  6 cc  kc    k     c         5167   50    0 Jh Js
+FlopTitty 958411263 10  5 f   -     -     -         5117    0    0 
+FlopTitty 958411323 10  4 f   -     -     -         5117    0    0 
+FlopTitty 958411381 10  3 f   -     -     -         5117    0    0 
+FlopTitty 958411421 10  2 Bk  kf    -     -         5117   10    0 
+FlopTitty 958411475 10  1 Bf  -     -     -         5107    5    0 
+FlopTitty 958411532 10 10 c   c     f     -         5102   30    0 
+FlopTitty 958411560 10  9 c   fQ    -     -         5072   10    0 
+FlopTitty 958429294  9  1 Bc  kf    -     -         5087   10    0 
+FlopTitty 958429338  6  6 f   -     -     -         5077    0    0 
+FlopTitty 958429370  6  5 c   f     -     -         5077   10    0 
+FlopTitty 958429404  6  4 f   -     -     -         5067    0    0 
+FlopTitty 958429435  6  3 c   k     f     -         5067   10    0 
+FlopTitty 958429468  6  2 Bk  kc    kc    bc        5057   80    0 Td 2s
+FlopTitty 958429553  9  1 Bf  -     -     -         4977    5    0 
+FlopTitty 958429622  9  9 c   c     f     -         5107   30    0 
+FlopTitty 958429678 10  9 f   -     -     -         5067    0    0 
+FlopTitty 958429737 10  8 f   -     -     -         5277    0    0 
+FlopTitty 958429796 10  7 f   -     -     -         5247    0    0 
+FlopTitty 958429863  8  5 f   -     -     -         5237    0    0 
+FlopTitty 958429914  8  4 cc  kc    kc    kf        5237   50    0 
+FlopTitty 958429996  8  3 f   -     -     -         5207    0    0 
+FlopTitty 958430049  8  2 Bk  k     k     bc        5207   50    0 9h 5h
+FlopTitty 958430119  7  1 Bc  k     k     k         5227   10    0 Qh Kc
+FlopTitty 958430192  6  6 f   -     -     -         5197    0    0 
+FlopTitty 958430229  8  5 cc  b     bc    kc        5197   90    0 Kh Th
+FlopTitty 958430346  9  4 cc  cf    -     -         5092   30    0 
+FlopTitty 958430464 10  3 f   -     -     -         5271    0    0 
+FlopTitty 958430527 10  2 Bk  kf    -     -         5366   10    0 
+FlopTitty 958430582 10  1 Bf  -     -     -         5356    5    0 
+FlopTitty 958430605 10 10 f   -     -     -         5351    0    0 
+FlopTitty 958430664 10  9 c   f     Q     -         5351   10    0 
+FlopTitty 958430911  7  3 cc  c     c     c         5211   80    0 5c As
+FlopTitty 958430944  7  2 Br  bcc   b     b         5131  120  325 Ah As
+FlopTitty 958430986  7  1 Bc  kc    k     k         5336   20    0 9s 5c
+FlopTitty 958431049  7  7 c   k     k     f         5316   10    0 
+FlopTitty 958431088  8  6 f   -     -     -         5306    0    0 
+FlopTitty 958431141  7  5 c   b     -     -         5296   20   40 
+FlopTitty 958431167  7  4 cc  kf    -     -         5316   20    0 
+FlopTitty 958431241  8  3 f   -     -     -         5281    0    0 
+FlopTitty 958431329  9  2 Bc  kf    -     -         5351   20    0 
+FlopTitty 958431386 10  1 Bf  -     -     -         5441    5    0 
+FlopTitty 958431417 10 10 cf  -     -     -         5436   10    0 
+FlopTitty 958431459 10  9 c   c     c     k         5466   40    0 8h 9c
+FlopTitty 958431527  9  7 r   kf    -     -         5426   20    0 
+FlopTitty 958431578  8  6 c   k     k     k         5386   10    0 5c Kc
+FlopTitty 958431638  9  6 f   -     -     -         5276    0    0 
+FlopTitty 958431707  9  5 f   -     -     -         5276    0    0 
+FlopTitty 958431760 10  4 f   -     -     -         5276    0    0 
+FlopTitty 958431799  9  2 Bk  cf    -     -         5346   20    0 
+FlopTitty 958431887  9  1 Bc  kf    -     -         5246   10    0 
+FlopTitty 958431921  8  8 cc  f     -     -         5236   20    0 
+FlopTitty 958431965  8  7 f   -     -     -         5216    0    0 
+FlopTitty 958431994  8  6 c   k     k     c         5216   30    0 Ad Qc
+FlopTitty 958432048  8  5 f   -     -     -         5186    0    0 
+FlopTitty 958432122  9  5 cc  kc    k     kf        5046   30    0 
+FlopTitty 958432205 10  4 f   -     -     -         5023    0    0 
+FlopTitty 958432259 10  3 cc  kcc   kc    krc       4963  180    0 As Js
+FlopTitty 958432349 10  2 Bk  kf    Q     -         4623   10    0 
+FlopTitty 958450320  8  6 f   -     -     -         4258    0    0 
+FlopTitty 958450357  8  5 f   -     -     -         4228    0    0 
+FlopTitty 958450415  7  4 c   k     k     f         4228   10    0 
+FlopTitty 958450494  6  2 c   f     -     -         4198   10    0 
+FlopTitty 958450562  6  2 Bk  Q     -     -         4188   10    0 
+FlopTitty 958569392  2  2 B   -     -     -         4980   10   15 
+FlopTitty 958569417  3  1 Bc  kf    -     -         4985   10    0 
+FlopTitty 958569433  3  3 cc  c     c     k         4975   50    0 9c 8h
+FlopTitty 958569447  3  2 Bk  f     -     -         4925   10    0 
+FlopTitty 958569466  3  1 Bcc kf    -     -         4915   20    0 
+FlopTitty 958569496  3  3 c   f     -     -         4895   10    0 
+FlopTitty 958569519  3  2 Bk  c     b     b         4885   60  120 5s 6c
+FlopTitty 958569535  3  1 Bc  kc    k     kf        4945   20    0 
+FlopTitty 958569564  3  3 c   f     -     -         4925   10    0 
+FlopTitty 958569574  3  2 Bk  b     b     k         4915   40   85 3s Jh
+FlopTitty 958569597  3  1 Bf  -     -     -         4960    5    0 
+FlopTitty 958569611  3  3 c   k     k     b         4935   30   50 
+FlopTitty 958569637  3  2 Bk  c     c     c         4955   60  120 Kh 9c
+FlopTitty 958569656  3  1 Bf  -     -     -         5075    5    0 
+FlopTitty 958569663  3  3 cc  b     bc    f         5070   70    0 
+FlopTitty 958569690  3  2 B   -     -     -         5000   10   15 
+FlopTitty 958569694  3  1 Bc  kc    b     b         5005   70    0 Ad Td
+FlopTitty 958569728  3  3 c   f     -     -         4940   10    0 
+FlopTitty 958569743  3  2 Bk  b     b     b         4930   60  110 
+FlopTitty 958569769  3  1 Bf  -     -     -         4980    5    0 
+FlopTitty 958569774  3  3 c   b     b     b         4975   60  130 Ah 6s
+FlopTitty 958569793  3  2 Bk  k     bc    b         5045   70  130 
+FlopTitty 958569824  3  1 Bf  -     -     -         5105    5    0 
+FlopTitty 958569843  3  3 c   bc    c     c         5100   70    0 9d 8c
+FlopTitty 958569864  3  2 Bc  k     b     -         5030   40   65 
+FlopTitty 958569883  3  1 Bf  -     -     -         5055    5    0 
+FlopTitty 958569896  3  3 f   -     -     -         5050    0    0 
+FlopTitty 958569908  3  2 Bc  k     k     kf        5050   20    0 
+FlopTitty 958569938  3  1 Bc  kc    k     kf        5030   30    0 
+FlopTitty 958569963  3  3 f   -     -     -         5000    0    0 
+FlopTitty 958569973  3  2 Bk  b     b     b         5000   60  110 
+FlopTitty 958569994  3  1 Bf  -     -     -         5050    5    0 
+FlopTitty 958569998  3  3 f   -     -     -         5045    0    0 
+FlopTitty 958570011  3  2 Bk  k     kc    b         5045   50    0 7h Ts
+FlopTitty 958570036  4  1 Bf  -     -     -         4995    5    0 
+FlopTitty 958570042  4  4 f   -     -     -         4990    0    0 
+FlopTitty 958570064  4  3 c   c     c     cc        4990  100    0 9h Qd
+FlopTitty 958570101  4  2 Bk  c     c     r         4875   80  160 7s Jh
+FlopTitty 958570129  4  1 Bc  b     b     -         4955   40   60 
+FlopTitty 958570150  4  4 c   b     b     b         4975   60    0 Js Qs
+FlopTitty 958570181  4  3 cc  fQ    -     -         5035   20    0 
+FlopTitty 958605036  7  6 f   -     -     -         4935    0    0 
+FlopTitty 958605063  7  5 f   -     -     -         4935    0    0 
+FlopTitty 958605085  7  4 f   -     -     -         4935    0    0 
+FlopTitty 958605118  8  4 cc  bc    kc    k         5015   60    0 5h 7h
+FlopTitty 958605174  7  2 Bk  f     -     -         4905   10    0 
+FlopTitty 958605210  7  1 Bf  -     -     -         4875    5    0 
+FlopTitty 958605243  8  8 f   -     -     -         4770    0    0 
+FlopTitty 958605280 10  7 f   -     -     -         4770    0    0 
+FlopTitty 958605325 10  7 cc  rc    cc    c         4770  160  630 Js Kd
+FlopTitty 958605413  9  5 f   -     -     -         5240    0    0 
+FlopTitty 958605524  9  4 f   -     -     -         5210    0    0 
+FlopTitty 958605598  9  4 f   -     -     -         5210    0    0 
+FlopTitty 958605635  8  2 Bk  k     f     -         5210   10    0 
+FlopTitty 958605667  8  1 Br  k     k     kf        5270   20    0 
+FlopTitty 958605707  8  8 f   -     -     -         5250    0    0 
+FlopTitty 958605764  7  6 f   -     -     -         5210    0    0 
+FlopTitty 958605817  7  5 c   c     c     k         5190   50    0 Jc As
+FlopTitty 958605848  7  4 f   -     -     -         5140    0    0 
+FlopTitty 958605871  7  4 cc  f     -     -         5140   20    0 
+FlopTitty 958605904  6  2 Bk  b     b     bc        5120   80    0 Jh Kh
+FlopTitty 958605940  6  1 Bc  kQ    -     -         5040   10    0 
+FlopTitty 958688006  8  7 c   k     b     k         4315   30  130 9c 5c
+FlopTitty 958688074  8  6 c   c     k     k         4415   20    0 Kd 2d
+FlopTitty 958688122  8  5 f   -     -     -         4395    0    0 
+FlopTitty 958688164  7  4 f   -     -     -         4395    0    0 
+FlopTitty 958688211  7  3 c   c     c     brc       4395  120  240 Qh Ah
+FlopTitty 958688316  9  2 Bf  -     -     -         4515   10    0 
+FlopTitty 958688450  9  1 Bf  -     -     -         4475    5    0 
+FlopTitty 958688520 10 10 f   -     -     -         4470    0    0 
+FlopTitty 958688647 10  9 c   k     f     -         4770   10    0 
+FlopTitty 958688712 10  8 f   -     -     -         4760    0    0 
+FlopTitty 958688871 10  7 f   -     -     -         4540    0    0 
+FlopTitty 958688943 10  6 c   c     kf    -         4460   20    0 
+FlopTitty 958689079 10  5 f   -     -     -         4430    0    0 
+FlopTitty 958689230 10  4 f   Q     -     -         4410    0    0 
+FlopTitty 958699107  8  4 c   kf    -     -         3980   10    0 
+FlopTitty 958699155  8  3 c   kf    -     -         3970   10    0 
+FlopTitty 958699220  7  2 Bc  kc    k     b         3960   50  150 
+FlopTitty 958699256  7  1 Bc  k     b     -         4060   30   50 
+FlopTitty 958699292  7  7 f   -     -     -         4080    0    0 
+FlopTitty 958699326  7  6 c   k     f     -         4080   10    0 
+FlopTitty 958699357  7  5 c   b     b     b         4070   60  180 Ah 8d
+FlopTitty 958699427  7  4 c   f     -     -         4235   10    0 
+FlopTitty 958699483  6  3 r   b     b     -         4225   50  100 
+FlopTitty 958699517  6  2 Bk  kf    -     -         4275   10    0 
+FlopTitty 958699552  7  1 Bc  kf    -     -         4265   20    0 
+FlopTitty 958699584  7  7 f   -     -     -         4225    0    0 
+FlopTitty 958699620  7  6 f   -     -     -         4225    0    0 
+FlopTitty 958699679  7  5 c   k     k     b         4215   30   50 
+FlopTitty 958699727  7  4 f   -     -     -         4235    0    0 
+FlopTitty 958699743  7  3 f   -     -     -         4235    0    0 
+FlopTitty 958699787  7  2 Bf  -     -     -         4467   10    0 
+FlopTitty 958699813  9  1 Bc  kf    -     -         4457   10    0 
+FlopTitty 958699853  7  7 f   -     -     -         4447    0    0 
+FlopTitty 958699948  6  6 c   f     -     -         4437   20    0 
+FlopTitty 958699990  7  6 c   b     b     -         4407   40   75 
+FlopTitty 958700028  7  5 c   c     f     -         4382   20    0 
+FlopTitty 958700091  8  4 cc  kc    kf    -         4397   30    0 
+FlopTitty 958700176  8  3 f   -     -     -         4557    0    0 
+FlopTitty 958700229  8  2 Bk  cc    kf    -         4547   30    0 
+FlopTitty 958700282  9  1 Bf  -     -     -         4497    5    0 
+FlopTitty 958700350 10 10 cc  k     f     -         4462   30    0 
+FlopTitty 958700427  9  8 cc  f     -     -         4432   20    0 
+FlopTitty 958700479  9  7 c   cf    -     -         4402   20    0 
+FlopTitty 958700536 10  6 f   -     -     -         4372    0    0 
+FlopTitty 958700570 10  5 c   k     b     bc        4372   70    0 Qd Jc
+FlopTitty 958700638  9  4 ccc k     r     b         4302   90  255 6c Ad
+FlopTitty 958700690  9  3 f   -     -     -         4377    0    0 
+FlopTitty 958700784  9  2 Bk  kf    -     -         4337   10    0 
+FlopTitty 958700837 10  1 Bf  Q     -     -         4327    5    0 
+FlopTitty 958705352  8  6 f   -     -     -         4312    0    0 
+FlopTitty 958705392  9  5 f   -     -     -         4312    0    0 
+FlopTitty 958705414  9  4 cc  kcc   bc    k         4312  120    0 8s As
+FlopTitty 958705510  9  4 f   -     -     -         4192    0    0 
+FlopTitty 958705593  8  2 Bc  kc    k     r         4192   70  170 Ad 6c
+FlopTitty 958705653  8  1 Bc  k     kf    -         4242   10    0 
+FlopTitty 958705728  8  8 c   c     cc    cc        4232  180  560 Ks 3s
+FlopTitty 958705794  8  7 f   -     -     -         4522    0    0 
+FlopTitty 958705848  9  7 cc  b     c     f         4517   50    0 
+FlopTitty 958705933  7  5 f   -     -     -         4467    0    0 
+FlopTitty 958706027  7  3 f   -     Q     -         4457    0    0 
+FlopTitty 958760397  3  3 cc  k     k     b         3937   40   70 
+FlopTitty 958760427  2  1 Bc  kf    -     -         3967   20    0 
+FlopTitty 958760440  2  1 Bc  b     -     -         3947   20   30 
+FlopTitty 958760452  2  2 B   -     -     -         3957   10   15 
+FlopTitty 958760453  2  1 Bc  kc    k     b         3962   40   60 
+FlopTitty 958760498  3  3 c   b     k     k         3982   20    0 5c Ks
+FlopTitty 958760521  3  2 B   -     -     -         3962   10   15 
+FlopTitty 958760528  3  1 Bf  -     -     -         3967    5    0 
+FlopTitty 958760539  3  3 c   f     -     -         3962   10    0 
+FlopTitty 958760554  3  2 Bc  kc    kc    k         3952   50    0 4c Js
+FlopTitty 958760588  3  1 Bc  b     -     -         3902   20   30 
+FlopTitty 958760659  3  3 f   -     -     -         3912    0    0 
+FlopTitty 958760668  3  2 Bk  k     k     f         3912   10    0 
+FlopTitty 958760688  3  1 Bc  kc    k     k         3902   20   40 Kh 7d
+FlopTitty 958760727  3  3 c   Q     -     -         3922   10    0 
+FlopTitty 958760867  5  4 f   -     -     -         3912    0    0 
+FlopTitty 958760886  5  3 KQ  -     -     -         3912    0    0 
+FlopTitty 958761099  4  4 f   -     -     -         3912    0    0 
+FlopTitty 958761123  4  3 c   b     b     k         3912   40   95 8c 7s
+FlopTitty 958761147  4  2 Bk  kf    -     -         3967   10    0 
+FlopTitty 958761173  4  1 Bf  -     -     -         3957    5    0 
+FlopTitty 958761208  4  4 c   bc    c     f         3952   60    0 
+FlopTitty 958761229  4  3 f   -     -     -         3892    0    0 
+FlopTitty 958761247  4  2 Bk  b     -     -         3892   20   30 
+FlopTitty 958761265  4  1 Bc  kc    bf    -         3902   40    0 
+FlopTitty 958761281  4  4 c   f     -     -         3862   10    0 
+FlopTitty 958761293  4  3 c   bc    kc    kc        3852   70   78 Kh 2h
+FlopTitty 958761319  5  2 Bk  k     k     b         3860   30   45 
+FlopTitty 958761358  5  1 Bc  kc    kc    kf        3875   50    0 
+FlopTitty 958761414  5  5 c   b     b     b         3825   60    0 2c Kd
+FlopTitty 958761456  5  4 cc  kf    -     -         3765   20    0 
+FlopTitty 958761526  5  3 f   -     -     -         3695    0    0 
+FlopTitty 958761547  6  2 Bk  b     -     -         3695   20   35 
+FlopTitty 958761574  5  1 Bc  k     Q     -         3640   10    0 
+FlopTitty 959042423 10  9 f   -     -     -         4207    0    0 
+FlopTitty 959042488 10  7 f   -     -     -         4187    0    0 
+FlopTitty 959042519 10  6 c   f     -     -         4187   10    0 
+FlopTitty 959042589 10  5 f   -     -     -         4177    0    0 
+FlopTitty 959042641 10  4 f   -     -     -         4177    0    0 
+FlopTitty 959042705 10  4 f   -     -     -         4177    0    0 
+FlopTitty 959042781 10  2 Bc  kc    kf    -         4137   30    0 
+FlopTitty 959042923 10  1 Bc  kc    kf    -         4077   50    0 
+FlopTitty 959043002 10 10 f   -     -     -         4027    0    0 
+FlopTitty 959043036 10  9 cc  f     -     -         4027   40    0 
+FlopTitty 959043095 10  8 f   -     -     -         3987    0    0 
+FlopTitty 959043121 10  7 f   -     -     -         3987    0    0 
+FlopTitty 959043211 10  6 cc  cc    kc    kf        3987   60    0 
+FlopTitty 959043305 10  5 f   -     -     -         3927    0    0 
+FlopTitty 959043375 10  4 cc  f     -     -         3927   20    0 
+FlopTitty 959043497 10  3 cc  kf    -     -         3887   20    0 
+FlopTitty 959043548 10  2 Bc  kf    -     -         3867   20    0 
+FlopTitty 959043589 10  1 Bf  -     -     -         3847    5    0 
+FlopTitty 959043651 10 10 f   -     -     -         3832    0    0 
+FlopTitty 959043763 10  9 cc  k     b     b         3792   60  230 5c Kc
+FlopTitty 959043899 10  8 c   b     c     c         3912   70    0 Kh Ac
+FlopTitty 959043989 10  7 f   -     -     -         3772    0    0 
+FlopTitty 959044079 10  6 cc  f     -     -         3742   30    0 
+FlopTitty 959044130 10  5 cc  c     c     k         3712   50  210 Kd 8h
+FlopTitty 959044233 10  4 cc  b     b     -         3852   50  145 
+FlopTitty 959044285 10  3 f   -     -     Q         3947    0    0 
+FlopTitty 959191383  6  4 cc  c     f     -         3345   30    0 
+FlopTitty 959191410  6  3 c   c     c     c         3265   60    0 Kc Ts
+FlopTitty 959191439  6  2 Bf  -     -     -         3205   10    0 
+FlopTitty 959191488  6  1 Bc  k     b     b         3195   50  130 8d 8h
+FlopTitty 959191518  6  6 c   c     c     c         3265   60    0 Jc Qd
+FlopTitty 959191586  6  5 cc  kc    kc    kf        3185   50    0 
+FlopTitty 959191623  6  4 f   -     -     -         3120    0    0 
+FlopTitty 959191653  7  3 f   -     -     -         3120    0    0 
+FlopTitty 959191730  7  2 Bk  k     k     b         3110   30   70 7s Jh
+FlopTitty 959191781  7  1 Bf  -     -     -         3130    5    0 
+FlopTitty 959191894  6  6 f   -     -     -         3025    0    0 
+FlopTitty 959191951  6  5 f   -     -     -         3080    0    0 
+FlopTitty 959191980  7  5 f   -     -     -         3080    0    0 
+FlopTitty 959192031  6  4 f   -     -     -         3150    0    0 
+FlopTitty 959192075  5  2 Bk  kf    -     -         3185   10    0 
+FlopTitty 959192127  5  1 Bf  -     -     -         3175    5    0 
+FlopTitty 959192134  6  6 c   c     c     k         3295   50    0 Qh Th
+FlopTitty 959192163  6  5 cc  kf    -     -         3245   20    0 
+FlopTitty 959192247  7  4 f   -     -     -         3225    0    0 
+FlopTitty 959192281  7  3 cc  kc    kf    -         3225   30    0 
+FlopTitty 959192331  7  2 BQ  -     -     -         3305   10    0 
+FlopTitty 959207786  6  2 Bk  kf    -     -         3285   10    0 
+FlopTitty 959207834  7  1 Bc  kf    -     -         3275   20    0 
+FlopTitty 959207871  7  7 f   -     -     -         3245    0    0 
+FlopTitty 959207914  7  6 c   cc    f     -         3225   40    0 
+FlopTitty 959207973  8  6 c   cc    c     k         3165   60    0 7h 5d
+FlopTitty 959208040  9  6 c   k     Q     -         3015   10    0 
+FlopTitty 959208350  7  4 cc  kf    -     -         2995   20    0 
+FlopTitty 959208372  8  3 c   b     -     -         2975   20   45 
+FlopTitty 959208398  9  2 Bf  -     -     -         3000   10    0 
+FlopTitty 959208449  7  1 Bc  b     b     kf        2990   40    0 
+FlopTitty 959208492  6  6 f   -     -     -         2890    0    0 
+FlopTitty 959208501  6  6 c   f     -     -         2890   10    0 
+FlopTitty 959208517  6  5 f   -     -     -         2860    0    0 
+FlopTitty 959208563  6  4 c   c     c     k         2860   40   95 Kh 7h
+FlopTitty 959208594  6  3 f   -     -     -         2900    0    0 
+FlopTitty 959208639  6  2 Bk  k     b     b         2900   50  110 
+FlopTitty 959208681  6  1 Bf  -     -     -         2950    5    0 
+FlopTitty 959208716  6  6 cc  c     bc    c         2945   90    0 Js 9d
+FlopTitty 959208748  6  5 c   b     b     cc        2855   80    0 Th 9s
+FlopTitty 959208810  6  4 c   k     f     -         2765   10    0 
+FlopTitty 959208857  6  3 c   Q     -     -         2755   10    0 
+FlopTitty 959259069  4  1 BQ  -     -     -         2715    5    0 
+FlopTitty 959307421 10 10 f   -     -     -         2710    0    0 
+FlopTitty 959307523 10  9 f   -     -     -         2710    0    0 
+FlopTitty 959307577 10  8 c   r     b     -         2710   50  100 
+FlopTitty 959307630 10  7 f   -     -     -         2750    0    0 
+FlopTitty 959307686 10  6 c   kc    kc    kf        2750   40    0 
+FlopTitty 959307812 10  5 cc  kf    -     -         2840   20    0 
+FlopTitty 959307910 10  5 c   k     kf    -         2820   10    0 
+FlopTitty 959308021  8  2 cc  b     b     -         2770   50  110 
+FlopTitty 959308073  9  2 Bk  kf    -     -         2830   10    0 
+FlopTitty 959308162  7  1 BQ  -     -     -         2700    5    0 
+FlopTitty 959308594  9  7 c   Q     -     -         2240   10    0 
+FlopTitty 959338480  9  8 f   -     -     -         2170    0    0 
+FlopTitty 959338550 10  7 c   b     b     b         2150   60  180 Ad Kh
+FlopTitty 959338638 10  6 f   -     -     -         2245    0    0 
+FlopTitty 959338710 10  5 f   -     -     -         2230    0    0 
+FlopTitty 959338734 10  4 f   -     -     -         2230    0    0 
+FlopTitty 959338791 10  3 rc  k     bc    kc        2200   90    0 Qd Ac
+FlopTitty 959338856 10  2 Bf  -     -     -         2095   10    0 
+FlopTitty 959338910 10  1 Bc  kfQ   -     -         2050   10    0 
+FlopTitty 959694264  6  4 f   -     -     -         2040    0    0 
+FlopTitty 959694349  6  3 c   c     c     c         2040   60    0 2c 4h
+FlopTitty 959694426  6  2 Bc  kc    k     Q         1980   40    0 
+FlopTitty 959739931 10  5 f   -     -     -         1940    0    0 
+FlopTitty 959740009 10  4 c   kc    c     f         1940   40    0 
+FlopTitty 959740093 10  3 f   -     -     -         2080    0    0 
+FlopTitty 959740178 10  2 Bf  -     -     -         2080   10    0 
+FlopTitty 959740242 10  1 Bf  -     -     -         2160    5    0 
+FlopTitty 959740329 10 10 c   f     -     -         2125   10    0 
+FlopTitty 959740387 10  9 c   f     -     -         2035   10    0 
+FlopTitty 959740468 10  8 f   -     -     -         2025    0    0 
+FlopTitty 959740618 10  7 f   -     -     -         1685    0    0 
+FlopTitty 959740677 10  6 c   b     b     b         1665   60  150 Ad Qc
+FlopTitty 959740751 10  5 c   b     b     b         1755   60  175 8s 6c
+FlopTitty 959740803 10  4 cc  kf    -     -         1630   20    0 
+FlopTitty 959740863 10  3 c   k     kf    -         1490   10    0 
+FlopTitty 959740946 10  2 Bk  kc    kc    kc        1420   60    0 7c Kd
+FlopTitty 959740994 10  1 Bc  bc    kc    k         1500   50    0 Jc Ts
+FlopTitty 959741059 10 10 c   c     c     f         1430   50    0 
+FlopTitty 959741148 10  9 c   c     c     k         1360   40    0 8h 4h
+FlopTitty 959741268 10  8 c   c     b     b         1680   60  140 
+FlopTitty 959741301 10  7 f   -     -     -         1720    0    0 
+FlopTitty 959741348 10  6 c   b     cc    r         1720  100  440 Th Ks
+FlopTitty 959741411 10  5 c   f     -     -         2020   20    0 
+FlopTitty 959741482 10  4 f   -     -     -         2000    0    0 
+FlopTitty 959741530 10  3 cc  kf    -     -         1860   20    0 
+FlopTitty 959741589 10  2 Bk  b     kc    kf        1700   40    0 
+FlopTitty 959741656 10  1 Bc  k     kf    -         1620   10    0 
+FlopTitty 959741731 10 10 c   f     -     -         1720   10    0 
+FlopTitty 959741802 10  9 c   b     b     b         1760   70  235 Ks Kd
+FlopTitty 959741874 10  8 r   b     bc    rr        1905  150  470 Qc Qs
+FlopTitty 959741964 10  7 f   -     -     -         2225    0    0 
+FlopTitty 959742026 10  6 f   -     -     -         2185    0    0 
+FlopTitty 959742102 10  5 f   -     -     -         2185    0    0 
+FlopTitty 959742183 10  4 f   -     -     -         2235    0    0 
+FlopTitty 959742210 10  3 cc  kc    kf    -         2235   30    0 
+FlopTitty 959742262 10  2 Bcc f     -     -         2205   40    0 
+FlopTitty 959742325 10  1 Bc  k     k     kf        2165   10    0 
+FlopTitty 959742412 10 10 f   -     -     -         2135    0    0 
+FlopTitty 959742443  9  8 cc  bc    k     kc        2255   60    0 8h Ks
+FlopTitty 959742497 10  8 cc  k     b     k         2195   40  225 9s Qh
+FlopTitty 959742603 10  7 f   -     -     -         2300    0    0 
+FlopTitty 959742641  9  5 c   r     b     b         2300   70  170 
+FlopTitty 959742692  9  4 f   -     -     -         2400    0    0 
+FlopTitty 959742732  9  3 f   -     -     -         2380    0    0 
+FlopTitty 959742762  9  2 Bk  b     b     k         2460   40    0 Ad 6s
+FlopTitty 959742811 10  1 Bc  kc    kf    -         2420   30    0 
+FlopTitty 959742900 10 10 f   -     -     -         2370    0    0 
+FlopTitty 959742946 10  9 f   -     -     -         2370    0    0 
+FlopTitty 959742997 10  8 f   -     -     -         2370    0    0 
+FlopTitty 959743085 10  7 f   -     -     -         2370    0    0 
+FlopTitty 959743178 10  6 c   k     kf    -         2370   10    0 
+FlopTitty 959743276 10  5 f   -     -     -         2780    0    0 
+FlopTitty 959743337  9  3 f   -     -     -         2780    0    0 
+FlopTitty 959743426  9  2 Bf  -     -     -         2620   10    0 
+FlopTitty 959743488  9  1 Bc  kf    -     -         2830   10    0 
+FlopTitty 959743523  9  9 c   c     f     -         2820   40    0 
+FlopTitty 959743630  9  8 f   -     -     -         2640    0    0 
+FlopTitty 959743692  9  7 f   -     -     -         2640    0    0 
+FlopTitty 959743740  8  5 f   -     -     -         2640    0    0 
+FlopTitty 959743782  8  4 KQ  -     -     -         2620    0    0 

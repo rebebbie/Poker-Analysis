@@ -1,0 +1,73 @@
+TarBitch  959497938  7  5 r   -     -     -         2125   40   60 
+TarBitch  959497948  7  6 f   -     -     -         2145    0    0 
+TarBitch  959497964  6  4 r   b     b     b         2145  140    0 Ah 5s
+TarBitch  959497986  6  3 f   -     -     -         2005    0    0 
+TarBitch  959498005  6  2 Br  b     bf    -         2005  100    0 
+TarBitch  959498031  6  1 Brc brc   bc    kc        1905  280    0 Ad Ah
+TarBitch  959498063  5  5 c   f     -     -         1625   40    0 
+TarBitch  959498100  6  4 f   -     -     -         1585    0    0 
+TarBitch  959498106  6  3 f   -     -     -         1585    0    0 
+TarBitch  959498115  6  2 Bk  k     b     -         1585   60   90 
+TarBitch  959498133  6  1 Bf  -     -     -         1615   10    0 
+TarBitch  959498162  6  6 f   -     -     -         1605    0    0 
+TarBitch  959498247  5  5 c   b     -     -         1605   40  110 
+TarBitch  959498266  5  4 c   k     b     -         1675   60   90 
+TarBitch  959498285  5  3 f   -     -     -         1705    0    0 
+TarBitch  959498309  6  2 B   -     -     -         1705   20   30 
+TarBitch  959498319  6  1 Bc  k     kf    -         1715   20    0 
+TarBitch  959498362  6  6 f   -     -     -         1695    0    0 
+TarBitch  959498408  6  5 f   -     -     -         1695    0    0 
+TarBitch  959498436  6  4 f   -     -     -         1695    0    0 
+TarBitch  959498456  6  3 f   -     -     -         1695    0    0 
+TarBitch  959498479  6  2 Bc  rc    c     b         1695  180  500 8h Ts
+TarBitch  959498530  7  1 Br  bc    kc    k         2015  120    0 Kh Ah
+TarBitch  959498573  7  7 f   -     -     -         1895    0    0 
+TarBitch  959498602  7  6 r   b     b     c         1895  140    0 Kc Tc
+TarBitch  959498636  7  5 r   -     -     -         1755   40   70 
+TarBitch  959498648  7  4 c   b     -     -         1785   40   70 
+TarBitch  959498661  7  3 c   k     f     -         1815   20    0 
+TarBitch  959498689  7  2 Br  b     -     -         1795   60  180 
+TarBitch  959498720  7  1 Bc  b     bc    kf        1915  120    0 
+TarBitch  959498746  7  7 c   f     -     -         1795   20    0 
+TarBitch  959498774  7  6 f   -     -     -         1775    0    0 
+TarBitch  959498782  7  5 c   f     -     -         1775   40    0 
+TarBitch  959498795  6  4 r   b     b     -         1735  100  190 
+TarBitch  959498810  6  3 c   f     -     -         1825   20    0 
+TarBitch  959498836  6  2 Bk  b     b     -         1805   80  150 
+TarBitch  959498856  6  1 Bc  kf    -     -         1875   20    0 
+TarBitch  959498880  6  6 c   rr    b     k         1855  140    0 6s 4h
+TarBitch  959498920  6  5 r   b     b     b         1715  140  340 Kd 5d
+TarBitch  959498953  6  4 f   -     -     -         1915    0    0 
+TarBitch  959498986  6  3 r   b     r     k         1915  140  410 Ts Ad
+TarBitch  959499015  6  2 Bk  kf    -     -         2185   20    0 
+TarBitch  959499062  6  1 Bf  -     -     -         2165   10    0 
+TarBitch  959499067  6  6 rc  c     r     k         2155  160    0 4h Kh
+TarBitch  959499100  6  5 c   b     b     -         1995   80  130 
+TarBitch  959499116  6  4 c   k     k     k         2045   20    0 6s 4h
+TarBitch  959499144  5  2 Bk  k     b     b         2025  100    0 7d 8h
+TarBitch  959499164  5  1 Br  b     b     b         1925  140  340 Ac 9c
+TarBitch  959499189  5  5 f   -     -     -         2125    0    0 
+TarBitch  959499203  5  4 f   -     -     -         2125    0    0 
+TarBitch  959499229  6  3 cc  kc    krr   b         2125  260  550 3d 9c
+TarBitch  959499256  5  2 Bc  kf    -     -         2415   40    0 
+TarBitch  959499279  5  1 Bc  k     kf    -         2375   20    0 
+TarBitch  959499318  5  5 c   f     -     -         2355   20    0 
+TarBitch  959499335  5  4 f   -     -     -         2335    0    0 
+TarBitch  959499348  5  3 r   k     k     kf        2335   40    0 
+TarBitch  959499368  5  2 Bc  k     k     kf        2295   40    0 
+TarBitch  959499392  6  1 Br  br    bc    kc        2255  220  540 As Qc
+TarBitch  959499425  6  6 r   b     b     k         2575  100    0 Td 7d
+TarBitch  959499448  6  5 r   c     c     k         2475  100    0 Qc Ad
+TarBitch  959499478  7  5 c   f     -     -         2375   20    0 
+TarBitch  959499522  7  4 cc  c     c     f         2355  100    0 
+TarBitch  959499550  7  3 cc  f     -     -         2255   40    0 
+TarBitch  959499591  7  2 Bc  kc    k     k         2215   60    0 9s Tc
+TarBitch  959499615  7  1 Bc  k     kc    k         2155  120    0 6c Tc
+TarBitch  959499657  7  7 c   b     f     -         2035   40    0 
+TarBitch  959499698  6  5 r   b     -     -         1995   60  150 
+TarBitch  959499731  5  3 c   kf    -     -         2085   20    0 
+TarBitch  959499759  5  2 Bc  k     b     b         2065  120  210 
+TarBitch  959499773  5  1 Bc  bc    kc    kf        2155  100    0 
+TarBitch  959499803  5  5 f   -     -     -         2055    0    0 
+TarBitch  959499828  6  5 c   k     k     f         2055   20    0 
+TarBitch  959499848  6  4 fQ  -     -     -         2035    0    0 

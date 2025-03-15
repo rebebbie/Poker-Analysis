@@ -1,0 +1,2286 @@
+TANKER    957852786 10  2 Bk  kc    k     k         3379   40   90 Td 5h
+TANKER    957852816 10  1 Br  b     bc    kc        3419  180    0 Kh Kc
+TANKER    957852862 10 10 f   -     -     -         3239    0    0 
+TANKER    957852914 10  9 c   kc    kc    k         3234   80   95 6h Qh
+TANKER    957853000  9  7 c   kc    kf    -         3209   60    0 
+TANKER    957853074  9  7 c   kf    -     -         3109   20    0 
+TANKER    957853133  9  6 cc  kc    k     k         3089   80    0 8d Jh
+TANKER    957853185  8  5 cc  rc    cc    f         3074  280    0 
+TANKER    957853257 10  4 c   kf    -     -         2764   20    0 
+TANKER    957853304 10  3 cc  kc    k     b         2744  100  250 Tc Ks
+TANKER    957853361  9  2 Bc  kf    -     -         2894   40    0 
+TANKER    957853434  9  1 Bf  -     -     -         2854   10    0 
+TANKER    957853527  9  9 f   -     -     -         2844    0    0 
+TANKER    957853549  8  7 c   k     b     -         2844   60   90 
+TANKER    957853571  8  6 c   k     f     -         2874   20    0 
+TANKER    957853605  8  5 c   c     c     k         2854   80  210 7c 7s
+TANKER    957853638  7  4 cc  kc    kc    b         2984  140  470 6s Js
+TANKER    957853679  6  2 cc  kc    kr    b         3314  180  340 
+TANKER    957853706  6  2 Bf  -     -     -         3474   20    0 
+TANKER    957853724  5  1 Bf  -     -     -         3454   10    0 
+TANKER    957853732  5  5 c   f     -     -         3444   40    0 
+TANKER    957853761  5  4 c   f     -     -         3404   20    0 
+TANKER    957853789  5  3 cc  kc    kc    k         3384  100    0 Ad 4s
+TANKER    957853812  5  2 Bf  -     -     -         3284   20    0 
+TANKER    957853820  5  1 Bc  kf    -     -         3264   40    0 
+TANKER    957853847  5  5 c   b     bc    c         3224  160    0 9c Ks
+TANKER    957853871  4  3 c   f     -     -         3064   20    0 
+TANKER    957853889  3  2 Bk  k     k     k         3044   20    0 2s 3s
+TANKER    957853904  3  1 Bc  k     b     -         3024   60   80 
+TANKER    957853922  2  2 Bc  Q     -     -         3044   40    0 
+TANKER    957927478  2  2 Bk  k     f     -         3004   20    0 
+TANKER    957927493  2  1 Bf  -     -     -         2984   10    0 
+TANKER    957927495  2  2 Bk  b     -     -         2974   40   60 
+TANKER    957927503  2  1 Bf  -     -     -         2994   10    0 
+TANKER    957927505  2  2 Bk  k     b     k         2984   60  120 9c 9h
+TANKER    957927518  2  1 Bc  k     k     kf        3044   20    0 
+TANKER    957927534  2  2 Bk  k     b     -         3024   60   80 
+TANKER    957927551  2  1 Bc  kc    k     k         3044   40    0 Kc 5s
+TANKER    957927565  2  2 Bk  k     k     r         3004  100  200 4h 6c
+TANKER    957927594  2  1 Bc  k     b     -         3104   60   80 
+TANKER    957927605  2  2 Bc  k     k     k         3124   40    0 Ac 8s
+TANKER    957927624  3  1 Bf  -     -     -         3084   10    0 
+TANKER    957927631  3  3 c   b     bc    c         3074  160    0 Td 8h
+TANKER    957927656  3  2 Bk  k     kf    -         2914   20    0 
+TANKER    957927676  3  1 Bf  -     -     -         2894   10    0 
+TANKER    957927703  3  3 c   f     -     -         2884   20    0 
+TANKER    957927730  3  2 Bk  k     b     -         2864   60   90 
+TANKER    957927753  3  1 Bf  -     -     -         2894   10    0 
+TANKER    957927763  3  3 f   -     -     -         2884    0    0 
+TANKER    957927778  3  2 Bk  c     c     b         2884  120  280 9h 9c
+TANKER    957927817  3  1 Bc  k     k     b         3044   60  100 
+TANKER    957927841  3  3 cc  c     r     b         3084  180  380 5d 4h
+TANKER    957927876  3  2 Bc  c     c     k         3284  100    0 Qc Jc
+TANKER    957927899  3  1 Bf  -     -     -         3184   10    0 
+TANKER    957927905  3  3 c   f     -     -         3174   20    0 
+TANKER    957927922  3  2 Bk  k     b     -         3154   60   80 
+TANKER    957927935  3  1 Bf  -     -     -         3174   10    0 
+TANKER    957927938  3  3 c   k     k     b         3164   60  100 
+TANKER    957927970  4  2 Bk  b     k     c         3204   80    0 Ts Js
+TANKER    957927982  4  1 Bc  kc    kf    -         3124   40    0 
+TANKER    957928006  4  4 c   k     b     -         3084   60  100 
+TANKER    957928031  4  3 f   -     -     -         3124    0    0 
+TANKER    957928036  4  2 Bk  k     k     kf        3124   20    0 
+TANKER    957928069  4  1 Bc  k     b     -         3104   60   80 
+TANKER    957928092  4  4 c   c     c     f         3124   80    0 
+TANKER    957928118  4  3 f   -     -     -         3044    0    0 
+TANKER    957928132  4  2 Bk  kf    -     -         3044   20    0 
+TANKER    957928150  4  1 Bc  kf    -     -         3024   40    0 
+TANKER    957928165  4  4 f   -     -     -         2984    0    0 
+TANKER    957928182  4  3 c   f     -     -         2984   20    0 
+TANKER    957928200  4  2 Br  b     k     br        2964  180  460 Ks Kc
+TANKER    957928228  4  1 Bc  k     k     kf        3244   20    0 
+TANKER    957928267  4  4 f   -     -     -         3224    0    0 
+TANKER    957928287  4  3 c   k     b     b         3224  100  180 
+TANKER    957928310  4  2 Bk  kc    kc    kf        3304   80    0 
+TANKER    957928344  4  1 Bc  b     b     -         3224   80  140 
+TANKER    957928370  4  4 c   b     b     b         3284  120  240 
+TANKER    957928395  5  4 f   -     -     -         3404    0    0 
+TANKER    957928400  5  3 cc  f     -     -         3404   40    0 
+TANKER    957928438  5  2 Bf  -     -     -         3364   20    0 
+TANKER    957928458  5  1 Bf  -     -     -         3344   10    0 
+TANKER    957928476  5  5 f   -     -     -         3334    0    0 
+TANKER    957928510  5  4 cc  b     -     -         3334   60  110 
+TANKER    957928531  5  3 c   kc    kf    -         3384   40    0 
+TANKER    957928563  5  2 Bk  kc    k     kc        3344   80    0 5d 5h
+TANKER    957928598  5  1 Bf  -     -     -         3264   10    0 
+TANKER    957928620  5  5 c   c     c     k         3254  100  300 Th Ks
+TANKER    957928644  5  4 f   -     -     -         3454    0    0 
+TANKER    957928699  5  3 f   -     -     -         3454    0    0 
+TANKER    957928729  5  2 Bk  b     b     b         3454  120  280 Qc Js
+TANKER    957928757  5  1 Bcc kf    -     -         3614   40    0 
+TANKER    957928790  5  5 cc  f     -     -         3574   40    0 
+TANKER    957928851  5  4 f   -     -     -         3534    0    0 
+TANKER    957928884  5  3 c   k     kc    kf        3534   60    0 
+TANKER    957928922  4  2 Bf  -     -     -         3474   20    0 
+TANKER    957928937  4  1 Bcc bc    kc    k         3454  120    0 9c 9h
+TANKER    957928989  4  4 f   -     -     -         3334    0    0 
+TANKER    957929021  4  3 cc  kc    kc    kc        3334  140  350 5h Th
+TANKER    957929060  5  2 Bk  kc    kf    -         3544   40    0 
+TANKER    957929100  5  1 Bcc kc    kc    kc        3504  140  230 Qs Ad
+TANKER    957929153  5  5 f   -     -     -         3594    0    0 
+TANKER    957929188  5  4 f   -     -     -         3594    0    0 
+TANKER    957929235  5  3 cc  kf    -     -         3594   40    0 
+TANKER    957929300  6  2 Bk  k     kf    -         3554   20    0 
+TANKER    957929371  6  1 Bc  kc    kf    -         3534   40    0 
+TANKER    957929417  6  6 f   -     -     -         3494    0    0 
+TANKER    957929433  6  5 f   -     -     -         3494    0    0 
+TANKER    957929473  6  4 f   -     -     -         3494    0    0 
+TANKER    957929536  6  3 f   -     -     -         3494    0    0 
+TANKER    957929561  6  2 Bf  -     -     -         3494   20    0 
+TANKER    957929595  7  1 Bf  -     -     -         3474   10    0 
+TANKER    957929640  6  6 f   -     -     -         3464    0    0 
+TANKER    957929691  7  6 f   -     -     -         3464    0    0 
+TANKER    957929728  7  5 f   -     -     -         3464    0    0 
+TANKER    957929755  7  4 cc  kf    -     -         3464   40    0 
+TANKER    957929794  7  3 f   -     -     -         3424    0    0 
+TANKER    957929874  7  2 Br  bc    b     b         3424  160  360 Ac Ah
+TANKER    957929913  7  1 Bf  -     -     -         3624   10    0 
+TANKER    957929939  7  7 f   -     -     -         3614    0    0 
+TANKER    957929970  7  6 f   -     -     -         3614    0    0 
+TANKER    957930016  7  5 f   -     -     -         3614    0    0 
+TANKER    957930090  7  4 f   -     -     -         3614    0    0 
+TANKER    957930135  7  3 c   kf    -     -         3614   20    0 
+TANKER    957930220  7  2 Bk  kf    -     -         3594   20    0 
+TANKER    957930263  7  1 Bf  -     -     -         3574   10    0 
+TANKER    957930271  7  7 f   -     -     -         3564    0    0 
+TANKER    957930320  7  6 c   k     r     -         3564  100  190 
+TANKER    957930367  7  5 f   -     -     -         3654    0    0 
+TANKER    957930440  7  4 f   -     -     -         3654    0    0 
+TANKER    957930489  7  3 f   -     -     -         3654    0    0 
+TANKER    957930508  7  2 Bk  k     k     c         3654   60    0 9c Kh
+TANKER    957930554  7  1 Bf  -     -     -         3594   10    0 
+TANKER    957930564  7  7 r   b     -     -         3584   60  130 
+TANKER    957930585  7  6 f   -     -     -         3654    0    0 
+TANKER    957930633  7  5 f   -     -     -         3654    0    0 
+TANKER    957930667  7  4 f   -     -     -         3654    0    0 
+TANKER    957930712  8  4 cc  k     f     -         3654   40    0 
+TANKER    957930750  9  4 f   -     -     -         3614    0    0 
+TANKER    957930771  9  3 f   -     -     -         3614    0    0 
+TANKER    957930825 10  2 Bc  kc    kf    -         3614   60    0 
+TANKER    957930864 10  1 Bf  -     -     -         3554   10    0 
+TANKER    957930903 10 10 f   -     -     -         3544    0    0 
+TANKER    957930945 10  9 rc  c     r     b         3544  220  650 Ad Kh
+TANKER    957931004 10  8 c   f     -     -         3974   20    0 
+TANKER    957931045 10  7 cc  b     c     c         3954  140    0 Qs 9s
+TANKER    957931088 10  6 f   -     -     -         3814    0    0 
+TANKER    957931146 10  5 f   -     -     -         3814    0    0 
+TANKER    957931194 10  4 cc  f     -     -         3814   40    0 
+TANKER    957931235 10  3 f   -     -     -         3774    0    0 
+TANKER    957931272 10  2 Bk  bc    kc    kc        3774  140    0 8h 5h
+TANKER    957931317 10  1 Bf  -     -     -         3634   10    0 
+TANKER    957931358 10 10 f   -     -     -         3624    0    0 
+TANKER    957931404 10 10 f   -     -     -         3624    0    0 
+TANKER    957931448 10  8 f   -     -     -         3624    0    0 
+TANKER    957931485  9  7 c   c     c     f         3624  100    0 
+TANKER    957931545 10  6 f   -     -     -         3524    0    0 
+TANKER    957931580 10  5 f   -     -     -         3524    0    0 
+TANKER    957931618 10  4 cc  kc    k     kc        3524  100    0 Td Ah
+TANKER    957931690 10  3 cc  br    b     b         3424  220    0 8c 9h
+TANKER    957931735 10  2 Bc  kf    -     -         3204   40    0 
+TANKER    957931761 10  1 Bf  -     -     -         3164   10    0 
+TANKER    957931816 10 10 f   -     -     -         3154    0    0 
+TANKER    957931837 10  9 cc  f     -     -         3154   40    0 
+TANKER    957931904 10  8 f   -     -     -         3114    0    0 
+TANKER    957931942 10  7 c   c     f     -         3114   60    0 
+TANKER    957931974 10  6 c   f     -     -         3054   40    0 
+TANKER    957932049 10  5 f   -     -     -         3014    0    0 
+TANKER    957932106 10  4 f   -     -     -         3014    0    0 
+TANKER    957932123 10  3 c   kf    -     -         3014   20    0 
+TANKER    957932174 10  2 Bk  kf    -     -         2994   20    0 
+TANKER    957932228 10  1 Bf  -     -     -         2974   10    0 
+TANKER    957932295 10 10 f   -     -     -         2964    0    0 
+TANKER    957932325 10  9 c   k     f     -         2964   20    0 
+TANKER    957932386 10  8 c   f     -     -         2944   20    0 
+TANKER    957932434 10  7 cc  kc    kcc   k         2924  180    0 5s As
+TANKER    957932467 10  6 c   cc    c     f         2744  140    0 
+TANKER    957932513 10  5 c   cc    kc    kf        2604  160    0 
+TANKER    957932564 10  4 c   rr    k     c         2444  140  220 As 6s
+TANKER    957932627 10  3 f   -     -     -         2524    0    0 
+TANKER    957932670 10  2 Bk  kf    -     -         2524   20    0 
+TANKER    957932714 10  1 Bc  kc    k     k         2504   40    0 3h 4d
+TANKER    957932764 10 10 f   -     -     -         2464    0    0 
+TANKER    957932811 10  9 r   c     c     c         2464  140    0 Ah Jh
+TANKER    957932876 10  8 f   -     -     -         2324    0    0 
+TANKER    957932908 10  7 c   f     -     -         2324   20    0 
+TANKER    957932924 10  6 c   kc    kf    -         2304   40    0 
+TANKER    957932966 10  5 c   c     kc    kf        2264   80    0 
+TANKER    957933021 10  4 c   bc    c     f         2184  120    0 
+TANKER    957933060 10  3 c   kf    -     -         2064   20    0 
+TANKER    957933122 10  2 Bf  -     -     -         2044   20    0 
+TANKER    957933154 10  1 Bf  -     -     -         2024   10    0 
+TANKER    957933173 10 10 cc  c     c     f         2014  100    0 
+TANKER    957933229 10  9 c   rc    b     b         1914  200  800 Qh Ad
+TANKER    957933279 10  8 c   f     -     -         2514   20    0 
+TANKER    957933321 10  7 f   -     -     -         2494    0    0 
+TANKER    957933395 10  6 c   f     -     -         2494   20    0 
+TANKER    957933466 10  5 cc  c     cc    c         2474  200    0 6s Qs
+TANKER    957933513 10  4 f   -     -     -         2274    0    0 
+TANKER    957933550 10  3 c   kf    -     -         2274   20    0 
+TANKER    957933599 10  2 Bcc kcc   kc    kf        2254  180    0 
+TANKER    957933662 10  1 Bcc kf    -     -         2074   80    0 
+TANKER    957933715 10 10 c   c     c     c         1994  120    0 As 3c
+TANKER    957933749 10  9 c   f     -     -         1874   20    0 
+TANKER    957933786 10  8 f   -     -     -         1854    0    0 
+TANKER    957933834 10  7 f   -     -     -         1854    0    0 
+TANKER    957933877 10  6 c   cr    b     b         1854  160  410 Tc Kh
+TANKER    957933914 10  5 f   -     -     -         2104    0    0 
+TANKER    957933961 10  4 f   -     -     -         2104    0    0 
+TANKER    957934007 10  3 cc  kc    kf    -         2104   60    0 
+TANKER    957934052 10  2 Bc  bc    kccc  k         2044  240    0 7h 9h
+TANKER    957934117 10  1 Bcc br    b     b         1804  200  600 5s 4d
+TANKER    957934155 10 10 f   -     -     -         2204    0    0 
+TANKER    957934205 10  9 c   c     k     k         2204   40    0 Td Jh
+TANKER    957934259 10  8 c   cc    kf    -         2164   60    0 
+TANKER    957934301 10  7 f   -     -     -         2104    0    0 
+TANKER    957934350 10  6 f   -     -     -         2104    0    0 
+TANKER    957934389 10  5 c   f     -     -         2104   40    0 
+TANKER    957934427 10  4 f   -     -     -         2064    0    0 
+TANKER    957934469 10  3 f   -     -     -         2064    0    0 
+TANKER    957934496 10  2 Bc  kc    kc    kc        2064  140    0 Ac Js
+TANKER    957934551 10  1 Bc  k     kf    -         1924   20    0 
+TANKER    957934599 10 10 rr  bc    rc    c         1904  300    0 Td Ad
+TANKER    957934633 10  9 f   -     -     -         1604    0    0 
+TANKER    957934701 10  8 c   rc    c     c         1604  160    0 8s Ad
+TANKER    957934755 10  7 c   c     f     -         1444   40    0 
+TANKER    957934809 10  6 c   cc    c     c         1404  180    0 Tc Js
+TANKER    957934848 10  5 c   c     f     -         1224   60    0 
+TANKER    957934894 10  4 cc  f     -     -         1164   60    0 
+TANKER    957934940 10  3 r   b     b     b         1104  140    0 9c Ts
+TANKER    957934976 10  2 Bc  b     b     -          964  100  170 
+TANKER    957935003 10  1 Bc  kc    kf    -         1034   40    0 
+TANKER    957935086 10 10 c   r     r     b          994  200  720 7s Ac
+TANKER    957935151 10  9 c   f     -     -         1514   40    0 
+TANKER    957935209 10  8 r   c     c     c         1474  140    0 Qs Qd
+TANKER    957935256 10  8 f   -     -     -         1334    0    0 
+TANKER    957935294 10  6 r   br    b     b         1334  180  420 9d 9c
+TANKER    957935383 10  5 c   cf    -     -         1574   40    0 
+TANKER    957935437 10  4 f   -     -     -         1534    0    0 
+TANKER    957935489 10  3 cc  c     c     c         1534  140  300 Ad 8s
+TANKER    957935518 10  2 Bf  -     -     -         1694   20    0 
+TANKER    957935554 10  1 Bc  kf    -     -         1674   40    0 
+TANKER    957935665 10 10 c   b     b     k         1634   80    0 6s 5c
+TANKER    957935719 10  9 f   -     -     -         1554    0    0 
+TANKER    957935781 10  8 f   -     -     -         1554    0    0 
+TANKER    957935828 10  7 f   -     -     -         1554    0    0 
+TANKER    957935873 10  6 cc  kf    -     -         1554   40    0 
+TANKER    957935897 10  5 f   -     -     -         1514    0    0 
+TANKER    957935943 10  4 f   -     -     -         1514    0    0 
+TANKER    957935983 10  3 r   b     b     b         1514  140  290 As Js
+TANKER    957936008 10  2 Bk  kf    -     -         1664   20    0 
+TANKER    957936048 10  1 Bf  -     -     -         1644   10    0 
+TANKER    957936085 10 10 c   k     c     c         1634  120    0 Ac 5s
+TANKER    957936135 10  9 c   f     -     -         1514   20    0 
+TANKER    957936159 10  8 r   cc    cc    c         1494  340    0 Jd Jh
+TANKER    957936220 10  7 f   -     -     -         1154    0    0 
+TANKER    957936279 10  6 f   -     -     -         1154    0    0 
+TANKER    957936312 10  5 f   -     -     -         1154    0    0 
+TANKER    957936353 10  4 f   -     -     -         1154    0    0 
+TANKER    957936397 10  3 cc  kf    -     -         1154   40    0 
+TANKER    957936417 10  2 Bk  k     k     k         1114   20    0 Qc 2s
+TANKER    957936452 10  1 Bf  -     -     -         1094   10    0 
+TANKER    957936478 10 10 r   k     b     c         1084  120  165 Qd 3d
+TANKER    957936515 10  9 f   -     -     -         1129    0    0 
+TANKER    957936543 10  8 f   -     -     -         1129    0    0 
+TANKER    957936566 10  7 f   -     -     -         1129    0    0 
+TANKER    957936587 10  6 c   c     c     k         1129  100    0 Td Qh
+TANKER    957936620 10  5 f   -     -     -         1029    0    0 
+TANKER    957936658 10  4 f   -     -     -         1029    0    0 
+TANKER    957936695 10  3 f   -     -     -         1029    0    0 
+TANKER    957936737 10  2 Bc  kf    -     -         1029   40    0 
+TANKER    957936759 10  1 Bf  -     -     -          989   10    0 
+TANKER    957936801 10 10 c   c     bc    c          979  160    0 9h Td
+TANKER    957936849 10  9 f   -     -     -          819    0    0 
+TANKER    957936888 10  8 f   -     -     -          819    0    0 
+TANKER    957936934 10  7 r   b     b     b          819  140  370 Tc Kh
+TANKER    957936965 10  6 cc  f     -     -         1049   40    0 
+TANKER    957937022 10  5 c   c     f     -         1009   40    0 
+TANKER    957937056 10  4 f   -     -     -          969    0    0 
+TANKER    957937137 10  3 cc  kc    f     -          969   60    0 
+TANKER    957937184 10  2 Br  bc    kf    -          909  100    0 
+TANKER    957937227 10  1 Br  kcc   kc    kc         809  260    0 Ah 9s
+TANKER    957937300 10 10 r   b     b     -          549  100  250 
+TANKER    957937345 10  9 c   r     b     k          699  100    0 9d 3d
+TANKER    957937378 10  8 f   -     -     -          599    0    0 
+TANKER    957937434 10  7 f   -     -     -          599    0    0 
+TANKER    957937447 10  6 f   -     -     -          599    0    0 
+TANKER    957937467 10  5 c   k     k     f          599   20    0 
+TANKER    957937509 10  4 f   -     -     -          579    0    0 
+TANKER    957937560 10  3 c   c     c     k          579   80    0 7s 4s
+TANKER    957937591 10  2 Bc  kf    -     -          499   60    0 
+TANKER    957937647 10  1 Br  b     b     b          439  140  360 
+TANKER    957937686 10 10 c   f     -     -          659   40    0 
+TANKER    957937715 10  9 c   k     c     b          619  100  280 7c 4c
+TANKER    957937783 10  8 f   -     -     -          799    0    0 
+TANKER    957937831 10  7 f   -     -     -          799    0    0 
+TANKER    957937853 10  6 f   -     -     -          799    0    0 
+TANKER    957937873 10  5 rc  rr    b     b          799  240  750 Jd Ad
+TANKER    957937920 10  4 f   -     -     -         1309    0    0 
+TANKER    957937961 10  3 cc  kc    kc    f         1309  140    0 
+TANKER    957938024 10  2 Br  brc   bc    k         1169  200  650 As Qh
+TANKER    957938078 10  1 Bc  kc    kf    -         1619   60    0 
+TANKER    957938128 10 10 f   -     -     -         1559    0    0 
+TANKER    957938196 10  9 f   -     -     -         1559    0    0 
+TANKER    957938266 10  8 r   c     f     -         1559  100    0 
+TANKER    957938305 10  7 f   -     -     -         1459    0    0 
+TANKER    957938391 10  6 rr  k     b     b         1459  160  350 Kh Ah
+TANKER    957938417 10  5 cc  kc    kc    k         1649  120  400 6h Ah
+TANKER    957938480 10  4 rr  kc    kc    kf        1929  180    0 
+TANKER    957938529 10  3 f   -     -     -         1749    0    0 
+TANKER    957938570 10  2 Bk  kf    -     -         1749   20    0 
+TANKER    957938595 10  1 Bf  -     -     -         1729   10    0 
+TANKER    957938650 10 10 c   c     r     k         1719  120  400 8c Kd
+TANKER    957938688 10  9 cc  c     c     c         1999  140    0 5d Ad
+TANKER    957938726 10  8 f   -     -     -         1859    0    0 
+TANKER    957938835 10  7 r   k     k     b         1859   80  150 
+TANKER    957938875 10  6 c   c     k     kf        1929   40    0 
+TANKER    957938952 10  5 f   -     -     -         1889    0    0 
+TANKER    957938999 10  4 cc  kf    -     -         1889   40    0 
+TANKER    957939033 10  3 cf  -     -     -         1849   20    0 
+TANKER    957939090 10  2 Bf  -     -     -         1829   20    0 
+TANKER    957939129 10  1 Bf  -     -     -         1809   10    0 
+TANKER    957939168 10 10 c   c     f     -         1799   40    0 
+TANKER    957939206 10  9 ccc cc    c     k         1759  208 1112 8d 4d
+TANKER    957939291  8  6 f   -     -     -         2663    0    0 
+TANKER    957939338  8  5 f   -     -     -         2663    0    0 
+TANKER    957939364  7  4 f   -     -     -         2663    0    0 
+TANKER    957939395  8  4 cc  kf    -     -         2663   60    0 
+TANKER    957939445  7  3 c   kf    -     -         2603   20    0 
+TANKER    957939489  8  2 Br  k     b     b         2583  120  145 Qh Kh
+TANKER    957939523  9  1 Bc  kf    -     -         2608   40    0 
+TANKER    957939577  9  9 c   f     -     -         2568   20    0 
+TANKER    957939621  9  8 f   -     -     -         2548    0    0 
+TANKER    957939663  9  7 f   -     -     -         2548    0    0 
+TANKER    957939719 10  7 c   kc    f     -         2548   60    0 
+TANKER    957939775 10  6 f   -     -     -         2488    0    0 
+TANKER    957939818 10  5 c   k     b     k         2488   60  180 As 3c
+TANKER    957939868 10  4 cr  br    b     kc        2608  220  870 Kh Kd
+TANKER    957939930 10  3 c   kf    -     -         3258   20    0 
+TANKER    957939964 10  2 BQ  -     -     -         3238   20    0 
+TANKER    958012184 10  8 c   f     -     -         3218   40    0 
+TANKER    958012245 10  7 c   kc    kf    -         3178   40    0 
+TANKER    958012290 10  6 c   f     -     -         3138   20    0 
+TANKER    958012348 10  5 f   -     -     -         3118    0    0 
+TANKER    958012398 10  4 f   -     -     -         3118    0    0 
+TANKER    958012452 10  3 f   -     -     -         3118    0    0 
+TANKER    958012494 10  2 Bk  k     kf    -         3118   20    0 
+TANKER    958012541 10  1 Bc  kf    -     -         3098   20    0 
+TANKER    958012606 10 10 f   -     -     -         3078    0    0 
+TANKER    958012647 10  9 c   b     k     f         3078   40    0 
+TANKER    958012691 10  8 f   -     -     -         3038    0    0 
+TANKER    958012737 10  7 c   c     c     k         3038   80  220 Ac Qc
+TANKER    958012789 10  6 c   f     -     -         3178   20    0 
+TANKER    958012831 10  5 cc  f     -     -         3158   40    0 
+TANKER    958012891 10  4 f   -     -     -         3118    0    0 
+TANKER    958012913 10  3 c   kf    -     -         3118   20    0 
+TANKER    958012972 10  2 Br  b     b     b         3098  140  250 
+TANKER    958013049 10  1 Bc  kf    -     -         3208   40    0 
+TANKER    958013120 10 10 f   -     -     -         3168    0    0 
+TANKER    958013235 10  9 c   k     f     -         3168   20    0 
+TANKER    958013302  9  8 f   -     -     -         3148    0    0 
+TANKER    958013327 10  7 f   -     -     -         3148    0    0 
+TANKER    958013384 10  6 c   c     c     kc        3148  120    0 4d Ad
+TANKER    958013429 10  5 f   -     -     -         3028    0    0 
+TANKER    958013518  9  4 f   -     -     -         3028    0    0 
+TANKER    958013556  9  3 c   kc    krr   b         3028  240  510 Jd 9h
+TANKER    958013601  9  2 Bc  kf    -     -         3298   40    0 
+TANKER    958013653  9  1 Bf  -     -     -         3258   10    0 
+TANKER    958013689  9  9 c   f     -     -         3248   40    0 
+TANKER    958013739  9  8 f   -     -     -         3208    0    0 
+TANKER    958013772  8  7 cc  kf    -     -         3208   60    0 
+TANKER    958013821  8  6 f   -     -     -         3148    0    0 
+TANKER    958013859  8  5 c   k     k     k         3148   20   80 6s Ac
+TANKER    958013897  8  4 f   -     -     -         3208    0    0 
+TANKER    958013938  7  3 c   f     -     -         3208   20    0 
+TANKER    958013962  8  2 Bk  kc    kf    -         3188   40    0 
+TANKER    958014010  8  1 Bf  -     -     -         3148   10    0 
+TANKER    958014089  7  7 f   -     -     -         3138    0    0 
+TANKER    958014115  7  6 cc  bc    k     kf        3138   80    0 
+TANKER    958014152  7  5 f   -     -     -         3058    0    0 
+TANKER    958014236  6  3 r   kr    kc    kc        3058  160  370 Qc Qs
+TANKER    958014277  6  2 Bk  k     k     k         3268   20   50 4h Ad
+TANKER    958014306  6  1 Bc  kc    kf    -         3298   40    0 
+TANKER    958014344  6  6 f   -     -     -         3258    0    0 
+TANKER    958014394  6  5 c   b     bc    c         3258  160    0 2h 8h
+TANKER    958014433  6  4 cc  f     -     -         3098   40    0 
+TANKER    958014451  6  3 f   -     -     -         3058    0    0 
+TANKER    958014476  6  2 Bf  -     -     -         3058   20    0 
+TANKER    958014483  6  1 Bc  kf    -     -         3038   40    0 
+TANKER    958014562  7  7 cc  f     -     -         2998   40    0 
+TANKER    958014616  7  6 f   -     -     -         2958    0    0 
+TANKER    958014642  7  5 c   f     -     -         2958   20    0 
+TANKER    958014684  7  4 r   bc    kc    k         2938  120    0 Ks Qd
+TANKER    958014731  7  3 cc  kc    kc    kf        2818  100    0 
+TANKER    958014766  7  2 Bc  c     k     k         2718   60  160 Th Ks
+TANKER    958014794  8  1 Bf  -     -     -         2818   10    0 
+TANKER    958014887  9  9 f   -     -     -         2808    0    0 
+TANKER    958014964  9  8 f   -     -     -         2808    0    0 
+TANKER    958015028  9  7 cc  krr   bc    k         2808  200  430 Ad 7s
+TANKER    958015082  9  6 c   kf    -     -         3038   20    0 
+TANKER    958015150  9  5 rc  kc    k     k         3018   80  250 Ad Td
+TANKER    958015194  8  3 f   -     -     -         3188    0    0 
+TANKER    958015305  8  2 Bk  kc    k     kc        3243   80    0 Jh Qs
+TANKER    958015372  8  1 Bcc kf    -     -         3098   40    0 
+TANKER    958015435  9  9 c   f     -     -         3293   20    0 
+TANKER    958015487 10  9 c   c     k     f         3273   40    0 
+TANKER    958015578 10  8 f   -     -     -         3223    0    0 
+TANKER    958015618 10  7 cc  bc    k     k         3223   80  310 7c As
+TANKER    958015688 10  6 c   f     -     -         3438   20    0 
+TANKER    958015761  9  5 f   -     -     -         3418    0    0 
+TANKER    958015822  9  4 cc  kf    -     -         3418   40    0 
+TANKER    958015937  9  3 cc  c     c     c         3378  140    0 8c Jd
+TANKER    958015978  9  2 Bk  f     -     -         3238   20    0 
+TANKER    958016019  8  1 Bc  k     kf    -         3218   20    0 
+TANKER    958016055  9  9 c   f     -     -         3198   20    0 
+TANKER    958016075  9  8 c   f     -     -         3178   20    0 
+TANKER    958016129  9  7 f   -     -     -         3158    0    0 
+TANKER    958016180  9  6 f   -     -     -         3148    0    0 
+TANKER    958016218  9  5 f   -     -     -         3148    0    0 
+TANKER    958016252  9  4 f   -     -     -         3143    0    0 
+TANKER    958016276  9  3 f   -     -     -         3143    0    0 
+TANKER    958016313  9  2 Bc  kf    -     -         3143   40    0 
+TANKER    958016354  9  1 Bcc kc    kc    k         3103  160    0 Th 9s
+TANKER    958016421 10  9 c   f     -     -         2943   40    0 
+TANKER    958016455 10  8 f   -     -     -         2858    0    0 
+TANKER    958016498  9  7 f   -     -     -         2858    0    0 
+TANKER    958016569  9  6 c   f     -     -         2253   20    0 
+TANKER    958016607  9  5 cr  kc    k     k         2233   80    0 Ah Ks
+TANKER    958016658  9  4 c   f     -     -         2153   20    0 
+TANKER    958016708  9  3 cc  b     b     kc        2123  140    0 8h Ac
+TANKER    958016762  9  2 Bk  kc    krc   b         2303  240  740 4s Qs
+TANKER    958016835  9  1 Bf  -     -     -         2803   10    0 
+TANKER    958016925  9  8 c   c     c     f         2853  100    0 
+TANKER    958016971  9  7 cc  k     kc    f         2753   80    0 
+TANKER    958017037  9  6 c   kf    -     -         2673   20    0 
+TANKER    958017093  9  5 c   kf    -     -         3518   20    0 
+TANKER    958017138  9  4 f   -     -     -         3498    0    0 
+TANKER    958017226  9  3 cc  f     -     -         3498   40    0 
+TANKER    958017290  9  2 Bk  kf    -     -         3538   20    0 
+TANKER    958017351 10  1 Bc  kf    -     -         3578   40    0 
+TANKER    958017416 10 10 f   -     -     -         3533    0    0 
+TANKER    958017463 10  9 f   -     -     -         3323    0    0 
+TANKER    958017506 10  8 c   kf    -     -         3323   20    0 
+TANKER    958017549 10  7 c   kcc   k     k         3303   80    0 Ts 9h
+TANKER    958017596 10  6 c   f     -     -         2808   20    0 
+TANKER    958017615 10  5 f   -     -     -         2788    0    0 
+TANKER    958017680 10  4 r   k     b     -         2938   80  140 
+TANKER    958017728 10  3 f   -     -     -         2998    0    0 
+TANKER    958017777 10  2 Bk  kf    -     -         2638   20    0 
+TANKER    958017824 10  1 Bc  kc    kf    -         2618   40    0 
+TANKER    958017876 10 10 c   k     k     f         3223   20    0 
+TANKER    958017924 10  9 f   -     -     -         3203    0    0 
+TANKER    958017981 10  9 c   c     f     -         3203   40    0 
+TANKER    958018060 10  7 f   -     -     -         3163    0    0 
+TANKER    958018086 10  6 c   kc    kf    -         3163   40    0 
+TANKER    958018136 10  5 r   k     k     k         3113   40  100 Ad Ks
+TANKER    958018178 10  4 cr  k     k     b         2643  100    0 Ts Ad
+TANKER    958018273 10  3 c   kc    kf    -         2518   40    0 
+TANKER    958018334 10  2 Br  kc    kc    k         2443  100  280 Qh Ks
+TANKER    958018404 10  1 Bf  -     -     -         2513   10    0 
+TANKER    958018493 10 10 f   -     -     -         2143    0    0 
+TANKER    958018535 10  9 c   c     k     b         2143  100  270 
+TANKER    958018570 10  8 c   r     b     k         2203  100  300 4d 3c
+TANKER    958018617 10  7 f   -     -     -         3273    0    0 
+TANKER    958018682 10  6 r   k     bc    b         3268  160  310 
+TANKER    958018723 10  5 f   -     -     -         3418    0    0 
+TANKER    958018757 10  4 cc  kc    kf    -         3368   60    0 
+TANKER    958018812 10  3 f   -     -     -         3293    0    0 
+TANKER    958018862 10  2 Bk  kf    -     -         3038   20    0 
+TANKER    958018894 10  1 Bc  kf    -     -         3008   20    0 
+TANKER    958018956 10 10 f   -     -     -         3048    0    0 
+TANKER    958019024 10  9 f   -     -     -         3078    0    0 
+TANKER    958019099 10  8 f   -     -     -         3218    0    0 
+TANKER    958019163  9  6 f   -     -     -         3213    0    0 
+TANKER    958019191  9  5 cc  kc    kr    kc        3213  180    0 8d Qd
+TANKER    958019230  9  4 f   -     -     -         3073    0    0 
+TANKER    958019272  9  3 f   -     -     -         3063    0    0 
+TANKER    958019315  9  2 Bc  kc    kc    kf        3053  100    0 
+TANKER    958019357  9  1 Bc  kf    -     -         2908   20    0 
+TANKER    958019391  9  9 c   k     f     -         2888   20    0 
+TANKER    958019439  9  8 c   b     b     -         2873   80  130 
+TANKER    958019469  9  7 c   k     k     k         2973   20    0 4c 3h
+TANKER    958019506  9  6 cc  k     kf    -         3013   40    0 
+TANKER    958019547  9  5 c   b     -     -         2963   40   70 
+TANKER    958019569  9  4 f   -     -     -         2983    0    0 
+TANKER    958019638  9  3 cc  kf    -     -         2998   40    0 
+TANKER    958019678  9  2 Bk  f     -     -         2918   20    0 
+TANKER    958019733  9  1 Bc  kc    b     k         2898  100  340 Jh 8s
+TANKER    958019794  8  8 c   f     -     -         3128   40    0 
+TANKER    958019823  8  7 f   -     -     -         2738    0    0 
+TANKER    958019831  8  6 r   k     k     k         2738   40    0 9h Kh
+TANKER    958019860  8  5 f   -     -     -         2733    0    0 
+TANKER    958019894  8  4 r   k     k     b         2733   80  130 
+TANKER    958019935  9  3 r   k     k     c         2798   80    0 Ks 5s
+TANKER    958019979 10  2 Bk  f     -     -         2568   20    0 
+TANKER    958020021 10  1 Br  b     -     -         2548   60  120 
+TANKER    958020052 10 10 rA  -     -     -           40   40   90 Ks As
+TANKER    958020058 10  9 rr  cA    -     -           90   90    0 2s Ks
+TANKER    958198425 10  7 f   -     -     -         3800    0    0 
+TANKER    958198461 10  6 f   -     -     -         3800    0    0 
+TANKER    958198497 10  5 cc  c     c     c         3800  160    0 3s Ah
+TANKER    958198587  9  4 c   k     c     f         3640   60    0 
+TANKER    958198620  9  3 c   k     r     b         3580  140  410 Qc Jc
+TANKER    958198657  9  2 Bf  -     -     -         3850   20    0 
+TANKER    958198719  9  1 Bf  -     -     -         3830   10    0 
+TANKER    958198765  9  9 c   c     c     f         3820  100    0 
+TANKER    958198829  9  8 f   -     -     -         3720    0    0 
+TANKER    958198925 10  7 f   -     -     -         3720    0    0 
+TANKER    958198979 10  6 c   f     -     -         3720   20    0 
+TANKER    958199032 10  5 f   -     -     -         3700    0    0 
+TANKER    958199050 10  4 c   c     c     kf        3700   80    0 
+TANKER    958199139 10  3 f   -     -     -         3620    0    0 
+TANKER    958199163 10  2 Bf  -     -     -         3620   20    0 
+TANKER    958199241  9  1 Bf  -     -     -         3600   10    0 
+TANKER    958199266  9  9 c   k     k     k         3590   20    0 Kd 8d
+TANKER    958199318  9  8 f   -     -     -         3570    0    0 
+TANKER    958199347  9  7 f   -     -     -         3570    0    0 
+TANKER    958199396 10  7 f   -     -     -         3570    0    0 
+TANKER    958199433 10  7 f   -     -     -         3570    0    0 
+TANKER    958199490 10  5 c   b     b     -         3570   80  130 
+TANKER    958199523 10  4 f   -     -     -         3620    0    0 
+TANKER    958199566 10  3 f   -     -     -         3620    0    0 
+TANKER    958199579 10  2 Bc  kcc   kc    k         3620  160    0 8c Qd
+TANKER    958199658 10  1 Bf  -     -     -         3460   10    0 
+TANKER    958199696 10 10 c   f     -     -         3450   20    0 
+TANKER    958199737 10  9 f   -     -     -         3430    0    0 
+TANKER    958199772 10  8 c   f     -     -         3430   20    0 
+TANKER    958199861 10  7 f   -     -     -         3410    0    0 
+TANKER    958199905 10  6 f   -     -     -         3410    0    0 
+TANKER    958199957 10  5 cc  kc    cc    kr        3410  220  730 3h 4h
+TANKER    958200048 10  4 f   -     -     -         3920    0    0 
+TANKER    958200088 10  3 f   -     -     -         3920    0    0 
+TANKER    958200158 10  2 Bf  -     -     -         3920   20    0 
+TANKER    958200196 10  1 Bc  k     kf    -         3900   40    0 
+TANKER    958200249 10 10 c   b     b     k         3860   80    0 Jh Qh
+TANKER    958200340 10  9 f   -     -     -         3780    0    0 
+TANKER    958200381  9  7 f   -     -     -         3780    0    0 
+TANKER    958200457 10  7 c   k     f     -         3780   40    0 
+TANKER    958200520 10  6 c   c     c     f         3740   80    0 
+TANKER    958200566  8  3 f   -     -     -         3660    0    0 
+TANKER    958200579  8  3 f   -     -     -         3660    0    0 
+TANKER    958200613  8  2 Bk  kc    kc    kf        3660  100    0 
+TANKER    958200663  8  1 Bf  -     -     -         3560   10    0 
+TANKER    958200701  8  8 cc  f     -     -         3550   40    0 
+TANKER    958200743  8  7 c   rc    c     c         3510  180  390 As 9d
+TANKER    958200772  8  6 c   f     -     -         3720   40    0 
+TANKER    958200811  8  5 c   k     b     k         3680   60  140 3s Ks
+TANKER    958200858  8  4 f   -     -     -         3760    0    0 
+TANKER    958200893  8  3 c   kf    -     -         3760   20    0 
+TANKER    958200963  8  2 Bc  c     k     k         3740   60  120 4d As
+TANKER    958200995  7  1 Bc  bc    kc    kf        3800  160    0 
+TANKER    958201069  7  7 f   -     -     -         3640    0    0 
+TANKER    958201084  7  6 rc  c     c     r         3640  220  470 Ah Qc
+TANKER    958201124  7  5 f   -     -     -         3890    0    0 
+TANKER    958201162  7  4 cc  kf    -     -         3890   40    0 
+TANKER    958201181  7  3 f   -     -     -         3850    0    0 
+TANKER    958201225  7  2 Brc k     b     b         3850  160  550 Ts Th
+TANKER    958201272  8  1 Bc  kc    kc    kf        4240  100    0 
+TANKER    958201312  8  8 c   k     c     f         4140   60    0 
+TANKER    958201354  8  7 f   -     -     -         4080    0    0 
+TANKER    958201431  8  6 cc  kc    k     k         4080   60    0 3h 6h
+TANKER    958201489  8  5 f   -     -     -         4020    0    0 
+TANKER    958201509  8  4 cc  k     kf    -         4020   40    0 
+TANKER    958201541  8  3 f   -     -     -         3980    0    0 
+TANKER    958201578  8  2 Bc  kc    kc    kc        3980  140    0 Jh Tc
+TANKER    958201658  8  1 Bc  k     b     -         3840   80  160 
+TANKER    958201695  8  8 c   c     c     c         3920  120    0 8c 8d
+TANKER    958201748  8  7 cc  c     cc    c         3800  200    0 As 8c
+TANKER    958201836  8  6 f   -     -     -         3600    0    0 
+TANKER    958201918  9  6 f   -     -     -         3600    0    0 
+TANKER    958202003  9  5 c   kf    -     -         3600   20    0 
+TANKER    958202058 10  5 f   -     -     -         3580    0    0 
+TANKER    958202121 10  4 cc  k     kc    k         3580  100  370 As 7d
+TANKER    958202179 10  3 cc  kcc   f     -         3850  120    0 
+TANKER    958202243 10  2 Bk  kf    -     -         3730   20    0 
+TANKER    958202289 10  1 Bc  kc    kf    -         3710   40    0 
+TANKER    958202339 10 10 f   -     -     -         3670    0    0 
+TANKER    958202391 10  9 f   -     -     -         3670    0    0 
+TANKER    958202434 10  8 c   c     c     k         3670  100  330 9h 7h
+TANKER    958202467 10  7 cc  kc    kf    -         3900   60    0 
+TANKER    958202541 10  6 f   -     -     -         3840    0    0 
+TANKER    958202568 10  5 f   -     -     -         3840    0    0 
+TANKER    958202622 10  4 f   -     -     -         3840    0    0 
+TANKER    958202680 10  3 ccc kc    kf    -         3840  100    0 
+TANKER    958202736 10  2 Bf  -     -     -         3740   20    0 
+TANKER    958202770 10  1 Bc  b     b     -         3720   80  160 
+TANKER    958202817 10 10 c   k     k     c         3800   60    0 8h 7d
+TANKER    958202887 10  9 f   -     -     -         3740    0    0 
+TANKER    958202978 10  8 f   -     -     -         3740    0    0 
+TANKER    958203033 10  7 f   -     -     -         3740    0    0 
+TANKER    958203093 10  6 c   kf    -     -         3740   20    0 
+TANKER    958203191 10  5 c   k     k     k         3720   20    0 Ks 7s
+TANKER    958203239 10  4 f   -     -     -         3700    0    0 
+TANKER    958203312 10  3 cc  kc    kf    -         3700   60    0 
+TANKER    958203384 10  2 Bk  k     bc    c         3640  140    0 8s Td
+TANKER    958203437  9  1 Br  kc    kc    k         3500  100    0 Td Th
+TANKER    958203490  9  9 c   k     f     -         3400   20    0 
+TANKER    958203554  9  8 c   f     -     -         3380   20    0 
+TANKER    958203593  9  7 f   -     -     -         3360    0    0 
+TANKER    958203626  9  6 r   bc    kc    kc        3360  160    0 As Jh
+TANKER    958203680  9  5 f   -     -     -         3200    0    0 
+TANKER    958203739  9  4 c   f     -     -         3200   40    0 
+TANKER    958203756 10  3 f   -     -     -         3160    0    0 
+TANKER    958203822 10  2 Bk  k     r     kf        3160  100    0 
+TANKER    958203902  9  1 Bcc kc    kc    kc        3060  140    0 6d 7d
+TANKER    958203994  9  9 c   c     b     b         2920  160  550 Jc 8c
+TANKER    958204062  9  8 r   r     b     bc        3310  200    0 Ad Ah
+TANKER    958204135  9  7 r   b     b     b         3110  140  480 
+TANKER    958204218  9  6 c   f     -     -         3450   20    0 
+TANKER    958204287  9  5 r   k     r     k         3430  120    0 Qh Ac
+TANKER    958204333  9  3 r   k     b     b         3310  120  300 
+TANKER    958204366  9  3 r   b     b     kc        3490  140    0 Kh Ks
+TANKER    958204403  9  2 Bk  kf    -     -         3350   20    0 
+TANKER    958204431  9  1 Bf  -     -     -         3330   10    0 
+TANKER    958204488 10 10 f   -     -     -         3320    0    0 
+TANKER    958204536 10  9 f   -     -     -         3320    0    0 
+TANKER    958204601  9  7 cc  c     c     f         3320  120    0 
+TANKER    958204659 10  7 r   b     k     c         3200  100    0 Ad Th
+TANKER    958204722 10  6 cc  f     -     -         3100   40    0 
+TANKER    958204787  9  5 c   kc    bc    kc        3060  160    0 Ts Qh
+TANKER    958204831  8  3 rr  kc    kr    k         2900  180    0 Qd Qh
+TANKER    958204894 10  2 Bk  k     k     k         2720   20    0 7c 9h
+TANKER    958204943 10  1 Bf  -     -     -         2700   10    0 
+TANKER    958204989 10 10 f   -     -     -         2690    0    0 
+TANKER    958205041 10  9 c   k     k     k         2690   20    0 6s 9s
+TANKER    958205074 10  8 r   b     b     b         2670  140  320 
+TANKER    958205130 10  7 f   -     -     -         2850    0    0 
+TANKER    958205158 10  7 c   k     b     -         2850   60  120 
+TANKER    958205198 10  5 f   -     -     -         2910    0    0 
+TANKER    958205230 10  4 cc  kc    k     b         2910  100  250 
+TANKER    958205268 10  3 f   -     -     -         3060    0    0 
+TANKER    958205301 10  2 B   -     -     -         3060   20   30 
+TANKER    958205310 10  1 Bc  k     k     k         3070   20   80 7d Ah
+TANKER    958205346 10 10 f   -     -     -         3130    0    0 
+TANKER    958205368 10  9 f   -     -     -         3130    0    0 
+TANKER    958205401 10  8 c   kc    k     kf        3130   60    0 
+TANKER    958205466 10  7 r   k     kc    kc        3070  120    0 Kh Ac
+TANKER    958205508 10  6 rc  b     b     b         2950  160  470 9c Ah
+TANKER    958205576 10  5 f   -     -     -         3260    0    0 
+TANKER    958205644 10  4 f   -     -     -         3260    0    0 
+TANKER    958205711 10  3 f   -     -     -         3260    0    0 
+TANKER    958205758 10  2 Bk  kf    -     -         3260   20    0 
+TANKER    958205778 10  1 Bf  -     -     -         3240   10    0 
+TANKER    958205845 10 10 f   -     -     -         3230    0    0 
+TANKER    958205863 10  9 c   f     -     -         3230   20    0 
+TANKER    958205911 10  8 f   -     -     -         3210    0    0 
+TANKER    958205977 10  7 c   b     b     k         3210   80    0 5d 5s
+TANKER    958206015 10  6 f   -     -     -         3130    0    0 
+TANKER    958206043 10  5 f   -     -     -         3130    0    0 
+TANKER    958206086 10  4 c   k     k     kf        3130   20    0 
+TANKER    958206128 10  3 f   -     -     -         3110    0    0 
+TANKER    958206165 10  2 Br  kc    b     b         3110  160  440 Qh Jh
+TANKER    958206217 10  1 Bc  kc    kc    kc        3390  140  400 Ah Jh
+TANKER    958206278  9  9 c   f     -     -         3650   20    0 
+TANKER    958206333  9  8 c   b     b     k         3630   80  230 Jc Tc
+TANKER    958206368  9  7 f   -     -     -         3780    0    0 
+TANKER    958206398  9  6 c   kc    c     c         3780  140    0 Ac 4d
+TANKER    958206462  9  5 c   k     f     -         3640   20    0 
+TANKER    958206512  9  4 c   k     k     r         3620  100  260 As 3h
+TANKER    958206562  9  3 c   kc    kf    -         3780   40    0 
+TANKER    958206614  8  2 B   -     -     -         3740   20   30 
+TANKER    958206628  7  1 Br  b     k     k         3750   60  220 Tc Td
+TANKER    958206690  7  7 c   k     b     brr       3910  260  500 
+TANKER    958206730  7  6 f   -     -     -         4150    0    0 
+TANKER    958206755  7  5 c   c     c     c         4150  120    0 5d Ad
+TANKER    958206831  6  4 r   b     -     -         4030   60  110 
+TANKER    958206851  7  3 c   b     r     c         4080  160    0 Ah As
+TANKER    958206903  7  2 Bc  k     k     k         3920   60    0 3d 4s
+TANKER    958206960  7  1 Bf  -     -     -         3860   10    0 
+TANKER    958206989  7  7 f   -     -     -         3850    0    0 
+TANKER    958207017  7  6 f   -     -     -         3850    0    0 
+TANKER    958207078  7  5 f   -     -     -         3850    0    0 
+TANKER    958207130  7  4 c   b     -     -         3850   40   90 
+TANKER    958207157  7  3 f   -     -     -         3900    0    0 
+TANKER    958207174  7  2 B   -     -     -         3900   20   30 
+TANKER    958207221  5  1 Bc  kf    -     -         3910   20    0 
+TANKER    958207263  5  5 f   -     -     -         3890    0    0 
+TANKER    958207303  5  4 f   -     -     -         3890    0    0 
+TANKER    958207337  5  3 f   -     -     -         3890    0    0 
+TANKER    958207382  5  2 Bk  kc    kc    kc        3890  120    0 3c Kc
+TANKER    958207407  5  1 Bc  k     k     kf        3770   20    0 
+TANKER    958207435  5  5 c   cc    r     k         3750  140    0 8c Ah
+TANKER    958207473  5  4 f   -     -     -         3610    0    0 
+TANKER    958207497  5  3 f   -     -     -         3610    0    0 
+TANKER    958207528  5  2 Br  k     b     b         3610  140  450 6h Kh
+TANKER    958207579  6  1 Bcc kf    -     -         3920   40    0 
+TANKER    958207611  6  6 f   -     -     -         3880    0    0 
+TANKER    958207662  5  4 f   -     -     -         3880    0    0 
+TANKER    958207694  5  3 c   c     c     f         3880   80    0 
+TANKER    958207728  5  2 Bf  -     -     -         3800   20    0 
+TANKER    958207738  5  1 Bc  kf    -     -         3780   20    0 
+TANKER    958207772  6  6 r   b     -     -         3760   60  160 
+TANKER    958207811  6  5 f   -     -     -         3860    0    0 
+TANKER    958207904  6  4 c   c     r     c         3860  160  330 9c 7s
+TANKER    958207942  6  3 cc  kc    kc    kr        4030  180    0 7h Js
+TANKER    958208002  6  2 Bf  -     -     -         3850   20    0 
+TANKER    958208030  4  1 Bc  kf    -     -         3830   40    0 
+TANKER    958208072  4  4 c   k     k     k         3790   20    0 5d 6c
+TANKER    958208090  3  3 f   -     -     -         3770    0    0 
+TANKER    958208106  3  2 Br  kc    kr    bc        3770  240    0 Kh Ac
+TANKER    958208127  3  1 Bf  -     -     -         3530   10    0 
+TANKER    958208134  3  3 r   b     -     -         3520   60  120 
+TANKER    958208143  3  2 Br  f     -     -         3580   40    0 
+TANKER    958208156  3  1 Bc  b     -     -         3540   40   60 
+TANKER    958208167  3  3 f   -     -     -         3560    0    0 
+TANKER    958208184  3  2 Br  b     b     b         3560  160  330 9s As
+TANKER    958208200  3  1 Bc  k     k     kf        3730   40    0 
+TANKER    958208225  3  3 c   k     c     rr        3690  220  230 7s 6h
+TANKER    958208242  3  2 Bk  c     c     c         3700  120    0 9c 4c
+TANKER    958208260  3  1 Bf  -     -     -         3580   10    0 
+TANKER    958208275  3  3 f   -     -     -         3570    0    0 
+TANKER    958208288  3  2 Bc  kc    k     kf        3570   60    0 
+TANKER    958208313  4  1 Bc  b     k     k         3510   40   40 Th 5d
+TANKER    958208335  4  4 r   bc    c     f         3510  120    0 
+TANKER    958208363  4  3 r   b     bc    c         3390  180  430 Qs Qc
+TANKER    958208386  4  2 Bf  -     -     -         3640   20    0 
+TANKER    958208421  4  1 Bc  kc    k     b         3620  100  220 
+TANKER    958208448  4  4 f   -     -     -         3740    0    0 
+TANKER    958208463  3  2 Bk  f     -     -         3740   20    0 
+TANKER    958208471  3  1 Bcc kc    kc    kr        3720  200  480 
+TANKER    958208496  3  3 f   Q     -     -         4000    0    0 
+TANKER    958266974  3  3 f   -     -     -         3764    0    0 
+TANKER    958266988  3  2 Bk  f     -     -         3764   20    0 
+TANKER    958267008  3  1 Bf  -     -     -         3744   10    0 
+TANKER    958267022  3  3 f   -     -     -         3734    0    0 
+TANKER    958267046  3  2 Br  b     -     -         3734   60  100 
+TANKER    958267078  3  1 Bc  kf    -     -         3774   20    0 
+TANKER    958267092  3  3 cc  c     c     c         3954  140  340 Th Ks
+TANKER    958267123  3  2 Bk  f     -     -         4154   20    0 
+TANKER    958267141  4  1 Bf  -     -     -         4124   10    0 
+TANKER    958267171  4  4 c   k     c     f         4114   60    0 
+TANKER    958267197  5  4 f   -     -     -         4034    0    0 
+TANKER    958267231  5  3 f   -     -     -         4034    0    0 
+TANKER    958267258  5  2 Bf  -     -     -         4024   20    0 
+TANKER    958267278  4  1 Bc  kc    kf    -         4004   40    0 
+TANKER    958267317  4  4 c   f     -     -         3964   40    0 
+TANKER    958267340  4  3 c   k     k     c         3924   60    0 Ts 9h
+TANKER    958267373  4  2 Bk  k     k     k         3864   20    0 Qc 6h
+TANKER    958267401  4  1 Bc  k     kf    -         3804   20    0 
+TANKER    958267427  4  4 f   -     -     -         3784    0    0 
+TANKER    958267442  4  3 c   k     bc    c         3784  140  300 9c Qd
+TANKER    958267471  4  2 Bk  kf    -     -         3944   20    0 
+TANKER    958267496  4  1 Bf  -     -     -         3924   10    0 
+TANKER    958267500  4  4 c   k     f     -         3914   20    0 
+TANKER    958267525  4  3 c   k     f     -         3874   20    0 
+TANKER    958267559  4  2 B   -     -     -         3854   20   30 
+TANKER    958267568  4  1 Bf  -     -     -         3864   10    0 
+TANKER    958267608  4  4 f   -     -     -         3854    0    0 
+TANKER    958267618  4  3 f   -     -     -         3854    0    0 
+TANKER    958267633  4  2 Bk  k     k     k         3854   20    0 6c Qs
+TANKER    958267693  4  1 Br  k     kc    kc        4054  180    0 Qs Ah
+TANKER    958267737  4  4 c   b     k     k         3874   40    0 6s 7d
+TANKER    958267784  4  3 cc  f     -     -         3974   40    0 
+TANKER    958267815  4  2 Bk  k     b     k         3864   60  120 6d Th
+TANKER    958267828  4  1 Bf  -     -     -         3924   10    0 
+TANKER    958267869  4  4 f   -     -     -         3914    0    0 
+TANKER    958267888  4  3 f   -     -     -         4109    0    0 
+TANKER    958267905  4  2 B   -     -     -         4109   20   30 
+TANKER    958267908  4  1 Bc  kc    kc    br        4119  200  380 
+TANKER    958267931  4  4 f   -     -     -         4299    0    0 
+TANKER    958267944  4  3 c   k     bc    k         4299  100  230 Kd Qc
+TANKER    958267970  4  2 Bk  f     -     -         4429   20    0 
+TANKER    958267995  4  1 Bf  -     -     -         4409   10    0 
+TANKER    958268011  4  4 f   -     -     -         4379    0    0 
+TANKER    958268031  4  3 cc  c     r     b         4379  180  400 5h Qh
+TANKER    958268065  4  2 Bk  kf    -     -         4579   20    0 
+TANKER    958268077  4  1 Bc  k     k     k         4559   20   60 6s 5c
+TANKER    958268115  4  4 f   -     -     -         4559    0    0 
+TANKER    958268133  4  3 f   -     -     -         4559    0    0 
+TANKER    958268159  4  2 Bc  k     k     k         4559   40    0 As Jc
+TANKER    958268180  4  1 Bf  -     -     -         4519   10    0 
+TANKER    958268195  4  4 r   b     -     -         4509   60  150 
+TANKER    958268213  4  3 cc  kc    kf    -         4599   60    0 
+TANKER    958268273  4  2 Br  b     -     -         4539   60  140 
+TANKER    958268300  4  1 Bf  -     -     -         4704   10    0 
+TANKER    958268317  4  4 c   c     f     -         4694   40    0 
+TANKER    958268338  4  3 cc  c     c     cc        4654  180  520 8h As
+TANKER    958268367  4  2 Bc  kf    -     -         4994   40    0 
+TANKER    958268384  4  1 Bf  -     -     -         4954   10    0 
+TANKER    958268416  4  4 f   -     -     -         4939    0    0 
+TANKER    958268439  4  3 f   -     -     -         4939    0    0 
+TANKER    958268462  4  2 Bc  k     k     kf        4939   40    0 
+TANKER    958268500  4  1 Bc  kf    -     -         4899   20    0 
+TANKER    958268515  4  4 f   -     -     -         4879    0    0 
+TANKER    958268553  4  3 rr  c     k     f         4829  100    0 
+TANKER    958268587  4  2 Br  k     k     b         4729   80  130 
+TANKER    958268618  4  1 Bc  k     k     k         4779   20    0 8d 6h
+TANKER    958268645  4  4 r   -     -     -         4759   40   70 
+TANKER    958268656  4  3 c   kf    -     -         4789   20    0 
+TANKER    958268679  4  2 Bk  kf    -     -         4769   20    0 
+TANKER    958268703  4  1 Bf  -     -     -         4749   10    0 
+TANKER    958268732  4  4 c   b     -     -         4739   40  100 
+TANKER    958268766  4  3 f   -     -     -         4779    0    0 
+TANKER    958268783  4  2 Bk  kf    -     -         4779   20    0 
+TANKER    958268813  3  1 Bf  -     -     -         4759   10    0 
+TANKER    958268823  3  3 c   k     b     k         4749   60    0 Qc Tc
+TANKER    958268847  3  2 Bk  f     -     -         4864   20    0 
+TANKER    958268867  2  1 BQ  -     -     -         4844   10    0 
+TANKER    958325903  5  4 cc  bc    k     k         6059   92    0 5h Kh
+TANKER    958325938  5  3 f   -     -     -         5967    0    0 
+TANKER    958325954  5  2 Bc  kf    -     -         5967   40    0 
+TANKER    958325988  5  1 Bf  -     -     -         5927   10    0 
+TANKER    958326005  5  5 c   f     -     -         5917   20    0 
+TANKER    958326021  5  4 r   c     c     f         5897  100    0 
+TANKER    958326040  5  3 f   -     -     -         5797    0    0 
+TANKER    958326054  5  2 B   -     -     -         5797   20   30 
+TANKER    958326059  5  1 Bf  -     -     -         5807   10    0 
+TANKER    958326099  5  5 c   b     -     -         5797   40   80 
+TANKER    958326119  5  4 f   -     -     -         5837    0    0 
+TANKER    958326150  5  3 cc  c     c     f         5837  120    0 
+TANKER    958326178  5  2 Bf  -     -     -         5717   20    0 
+TANKER    958326186  4  1 Bf  -     -     -         5697   10    0 
+TANKER    958326208  5  4 c   k     c     k         5687   60  180 9d Qh
+TANKER    958326232  5  3 cc  kc    kr    k         5807  140  310 8c 8d
+TANKER    958326266  5  2 Bf  -     -     -         5977   20    0 
+TANKER    958326274  5  1 Bcc kc    kf    -         5957  100    0 
+TANKER    958326303  4  4 c   f     -     -         5857   20    0 
+TANKER    958326333  4  3 f   -     -     -         5837    0    0 
+TANKER    958326340  4  2 BQ  -     -     -         5837   20    0 
+TANKER    958354350  9  1 Bc  kc    kc    k         5917   80    0 Ts 7s
+TANKER    958354409 10 10 cc  cc    b     r         5837  240  870 
+TANKER    958354962  7  7 KQ  -     -     -         6467    0    0 
+TANKER    958355031  5  2 Bk  kf    -     -         6467   20    0 
+TANKER    958355047  5  1 Bf  -     -     -         6447   10    0 
+TANKER    958355049  5  5 f   -     -     -         6437    0    0 
+TANKER    958355096  6  5 f   -     -     -         6437    0    0 
+TANKER    958355121  7  5 f   -     -     -         6437    0    0 
+TANKER    958355151  7  4 c   k     k     k         6437   20    0 4d Td
+TANKER    958355188  7  3 f   -     -     -         6417    0    0 
+TANKER    958355224  7  2 Bk  k     k     k         6417   20    0 8s 2h
+TANKER    958355313  7  1 Bf  -     -     -         6397   10    0 
+TANKER    958355352  9  9 c   f     -     -         6387   20    0 
+TANKER    958355385  9  8 f   -     -     -         6367    0    0 
+TANKER    958355450  9  7 f   -     -     -         6367    0    0 
+TANKER    958355505  8  5 c   c     cc    c         6367  160    0 3s Qs
+TANKER    958355572  8  4 f   -     -     -         6207    0    0 
+TANKER    958355583  8  3 c   k     kf    -         6207   20    0 
+TANKER    958355614  8  2 Bc  kc    kc    kf        6187  100    0 
+TANKER    958355661  8  1 Bf  -     -     -         6087   10    0 
+TANKER    958355681  8  8 c   c     c     f         6077   80    0 
+TANKER    958355716  8  7 f   -     -     -         5997    0    0 
+TANKER    958355768  7  5 c   k     k     f         5997   20    0 
+TANKER    958355801  9  5 f   -     -     -         5977    0    0 
+TANKER    958355850  9  4 c   k     kc    k         5977   60    0 Kd Th
+TANKER    958355894  9  4 c   c     cc    kc        5917  160    0 As 8c
+TANKER    958355949 10  3 f   -     -     -         5757    0    0 
+TANKER    958356035  9  2 Bf  -     -     -         5757   20    0 
+TANKER    958356085  9  1 Bc  kf    -     -         5737   20    0 
+TANKER    958356134  9  9 cc  f     -     -         5717   40    0 
+TANKER    958356224  8  7 c   k     k     k         5677   20   55 7c 5c
+TANKER    958356320  8  6 c   kc    f     -         5712   40    0 
+TANKER    958356375  8  5 c   b     -     -         5672   40   70 
+TANKER    958356392  8  4 cc  kf    -     -         5702   40    0 
+TANKER    958356431  8  3 f   -     -     -         5662    0    0 
+TANKER    958356453  7  2 Bf  -     -     -         5662   20    0 
+TANKER    958356467  7  1 Bc  kf    -     -         5642   20    0 
+TANKER    958356528  7  7 c   c     k     f         5622   60    0 
+TANKER    958356553  7  6 c   b     b     -         5562   80  220 
+TANKER    958356598  7  5 c   f     -     -         5702   40    0 
+TANKER    958356629  6  4 c   kf    -     -         5662   20    0 
+TANKER    958356682  7  3 cc  kc    kc    kf        5622  140    0 
+TANKER    958356730  7  2 Bf  -     -     -         5482   20    0 
+TANKER    958356777  8  1 Bf  -     -     -         5432   10    0 
+TANKER    958356821  8  8 f   -     -     -         4412    0    0 
+TANKER    958356867  8  7 c   k     k     k         4442   20    0 8s Jh
+TANKER    958356897  8  6 r   k     k     c         4422   80  300 Ah Kc
+TANKER    958356955  8  5 f   -     -     -         4637    0    0 
+TANKER    958357009  8  4 c   kf    -     -         4617   20    0 
+TANKER    958357089  8  3 f   -     -     -         4787    0    0 
+TANKER    958357108  8  2 Br  b     b     -         4777  100  240 
+TANKER    958357143 10  1 Bf  -     -     -         4917   10    0 
+TANKER    958357176 10 10 r   br    b     b         4907  180  490 Js Jd
+TANKER    958357229 10  9 c   c     f     -         5192   60    0 
+TANKER    958357275 10  8 c   f     -     -         5132   20    0 
+TANKER    958357322 10  7 c   c     f     -         4952   40    0 
+TANKER    958357375 10  6 f   -     -     -         4887    0    0 
+TANKER    958357418  8  4 rc  kc    kc    k         4887  120    0 Qd Ks
+TANKER    958357455  8  3 rc  c     c     b         4767  160  480 Qd Kh
+TANKER    958357499  8  2 Bk  k     k     k         5087   20    0 Jh 3h
+TANKER    958357544  9  1 Br  kc    kc    k         5067  100    0 Qh Ah
+TANKER    958357585  9  9 r   k     c     c         4967  120    0 9c Ac
+TANKER    958357623  9  8 c   f     -     -         4847   40    0 
+TANKER    958357647  9  7 c   k     c     f         4807   60    0 
+TANKER    958357691  9  6 c   kc    kf    -         4747   40    0 
+TANKER    958357733  9  5 c   k     b     b         4707  120  310 
+TANKER    958357766  9  4 r   b     k     kf        4897   60    0 
+TANKER    958357816  9  3 c   kf    -     -         4837   20    0 
+TANKER    958357859  9  2 BQ  -     -     -         4817   20    0 
+TANKER    958366804 10  3 f   -     -     -         4712    0    0 
+TANKER    958366864 10  2 Br  kc    kc    kc        4692  140    0 Jc Jh
+TANKER    958366931 10  1 Bf  -     -     -         4552   10    0 
+TANKER    958366961 10 10 c   k     k     k         4542   20   90 8d Ad
+TANKER    958367015 10  9 c   c     f     -         4612   60    0 
+TANKER    958367087 10  8 c   rc    brc   c         4552  280  340 Qd Ks
+TANKER    958367159 10  7 f   -     -     -         4612    0    0 
+TANKER    958367186 10  6 c   c     c     f         4612   80    0 
+TANKER    958367234 10  5 f   -     -     -         4532    0    0 
+TANKER    958367285 10  4 f   -     -     -         4532    0    0 
+TANKER    958367350 10  3 f   -     -     -         4532    0    0 
+TANKER    958367403 10  2 Bk  kr    b     b         4532  140  440 Kd Qh
+TANKER    958367493 10  1 Bc  kc    k     k         4832   40    0 9h 8h
+TANKER    958367545 10 10 c   f     -     -         4792   40    0 
+TANKER    958367581 10  9 f   -     -     -         4752    0    0 
+TANKER    958367632 10  8 f   -     -     -         4752    0    0 
+TANKER    958367658 10  7 c   kc    k     b         4752   80  190 Ts 9h
+TANKER    958367699 10  6 f   -     -     -         4862    0    0 
+TANKER    958367742 10  5 cc  kr    b     b         4862  160  430 8d 8c
+TANKER    958367805 10  4 f   -     -     -         5132    0    0 
+TANKER    958367848 10  3 f   -     -     -         5132    0    0 
+TANKER    958367891 10  2 Bk  c     c     c         5132  120    0 3s As
+TANKER    958367951 10  1 Bc  k     kcc   kf        5112  100    0 
+TANKER    958368003 10 10 c   c     c     f         5012  120    0 
+TANKER    958368073 10  9 f   -     -     -         4892    0    0 
+TANKER    958368150 10  8 c   k     f     -         4842   20    0 
+TANKER    958368226 10  7 f   -     -     -         4822    0    0 
+TANKER    958368307 10  6 f   -     -     -         4822    0    0 
+TANKER    958368360 10  5 cc  kf    -     -         4822   40    0 
+TANKER    958368420 10  4 c   kf    -     -         4782   20    0 
+TANKER    958368481 10  3 c   c     c     f         4762   80    0 
+TANKER    958368520 10  2 Bk  kc    kc    k         4682   80    0 6c Kc
+TANKER    958368555 10  1 Bf  -     -     -         4602   10    0 
+TANKER    958368585 10 10 f   -     -     -         4592    0    0 
+TANKER    958368631 10  9 r   c     f     -         4592   60    0 
+TANKER    958368719 10  8 f   -     -     -         4532    0    0 
+TANKER    958368748 10  7 f   -     -     -         4532    0    0 
+TANKER    958368787 10  6 c   kf    -     -         4532   20    0 
+TANKER    958368889 10  5 cc  c     f     -         4512   60    0 
+TANKER    958368941 10  4 c   c     c     k         4452   80  300 Kd Ts
+TANKER    958368989 10  3 cc  k     f     -         4672   40    0 
+TANKER    958369041 10  2 Bf  -     -     -         4632   20    0 
+TANKER    958369078 10  1 Bc  kc    kr    b         4612  160    0 Qd Ah
+TANKER    958369142 10 10 f   -     -     -         4452    0    0 
+TANKER    958369204 10  9 f   -     -     -         4452    0    0 
+TANKER    958369264 10  8 f   -     -     -         4452    0    0 
+TANKER    958369313 10  7 c   c     f     -         4452   40    0 
+TANKER    958369372 10  6 c   r     b     k         4412  100  240 Js Ah
+TANKER    958369419 10  5 r   k     c     f         4552   80    0 
+TANKER    958369481 10  4 f   -     -     -         4472    0    0 
+TANKER    958369519 10  3 c   kc    kf    -         4472   40    0 
+TANKER    958369585 10  2 Brc kf    -     -         4432   80    0 
+TANKER    958369701 10  1 Bf  -     -     -         4352   10    0 
+TANKER    958369766 10 10 f   -     -     -         4342    0    0 
+TANKER    958369795 10  9 c   b     b     cc        4342  240    0 4h Ac
+TANKER    958369853 10  8 c   f     -     -         4102   20    0 
+TANKER    958369919 10  7 r   b     b     -         4082  100  220 
+TANKER    958369979 10  6 f   -     -     -         4202    0    0 
+TANKER    958370064 10  5 c   f     -     -         4202   40    0 
+TANKER    958370108 10  4 f   -     -     -         4162    0    0 
+TANKER    958370164 10  3 c   k     k     k         4162   20   60 Jc Qd
+TANKER    958370246 10  2 Bk  kf    -     -         4202   20    0 
+TANKER    958370315 10  1 Bf  -     -     -         4182   10    0 
+TANKER    958370389 10 10 f   -     -     -         4172    0    0 
+TANKER    958370445 10 10 c   c     f     -         4172   60    0 
+TANKER    958370517 10  8 cc  kcc   bc    kc        4112  240    0 5h 5d
+TANKER    958370631 10  7 f   -     -     -         3872    0    0 
+TANKER    958370690 10  6 c   kc    k     kf        3872   60    0 
+TANKER    958370804 10  5 c   kf    -     -         3812   20    0 
+TANKER    958370872 10  4 ccc k     kf    -         3792   60    0 
+TANKER    958371038 10  3 cc  Q     -     -         3732   60    0 
+TANKER    958373637 10  3 f   -     -     -         3672    0    0 
+TANKER    958373685 10  2 Bk  kf    -     -         3672   20    0 
+TANKER    958373734 10  1 Bc  b     b     b         3652  140  260 
+TANKER    958373778 10 10 f   -     -     -         3772    0    0 
+TANKER    958373791 10  9 cc  r     br    k         3772  240 1070 7s 8h
+TANKER    958373861 10  8 f   -     -     -         4602    0    0 
+TANKER    958373928 10  7 cc  k     kf    -         4602   40    0 
+TANKER    958374014 10  6 c   cc    kf    -         4562   60    0 
+TANKER    958374075 10  5 c   f     -     -         4502   20    0 
+TANKER    958374102 10  4 c   b     b     b         4482  120    0 Ac Qs
+TANKER    958374196 10  4 f   -     -     -         4362    0    0 
+TANKER    958374235  9  2 Bk  kc    k     kc        4362   80    0 7s Tc
+TANKER    958374272  9  1 Bc  kc    kc    kf        4282   80    0 
+TANKER    958457071 10  8 r   k     f     -         3917   40    0 
+TANKER    958457136 10  7 f   -     -     -         3857    0    0 
+TANKER    958457186 10  6 c   k     f     -         3857   20    0 
+TANKER    958457251 10  5 c   k     f     -         3837   40    0 
+TANKER    958457321 10  4 f   -     -     -         3812    0    0 
+TANKER    958457364  9  2 c   kf    -     -         3792   20    0 
+TANKER    958457429  9  2 Bk  kf    -     -         3742   20    0 
+TANKER    958457497  9  1 Br  k     b     br        3682  200  460 Jc Ac
+TANKER    958457554 10 10 f   -     -     -         3937    0    0 
+TANKER    958457626 10  9 c   f     -     -         3927   20    0 
+TANKER    958457689  9  8 r   k     c     k         3887   80    0 Kd Kh
+TANKER    958457747  9  7 f   -     -     -         3767    0    0 
+TANKER    958457807  8  5 c   kf    -     -         3717   20    0 
+TANKER    958457889  9  4 c   b     b     kc        3687  120  270 Js 8d
+TANKER    958457998  8  2 Bk  kf    -     -         3817   20    0 
+TANKER    958458061  7  1 Bf  -     -     -         3792   10    0 
+TANKER    958458140  7  7 c   k     k     k         3782   20    0 9d Ts
+TANKER    958458184  7  6 f   -     -     -         3732    0    0 
+TANKER    958458238  7  5 c   k     k     k         3732   40   55 2d Kd
+TANKER    958458272  7  4 r   kf    -     -         3747   40    0 
+TANKER    958458302  7  3 f   -     -     -         3707    0    0 
+TANKER    958458347  7  2 Bk  k     kc    kf        3707   60    0 
+TANKER    958458393  7  1 Bc  b     k     b         3647   80  200 Ks 2s
+TANKER    958458430  7  7 c   k     f     -         3767   20    0 
+TANKER    958458489  7  6 f   Q     -     -         3747    0    0 
+TANKER    958549357  7  2 Bc  kc    kc    k         3747  100  240 7s Js
+TANKER    958549397  6  1 Bc  k     k     k         3887   20    0 4c 3s
+TANKER    958549427  6  6 c   k     k     f         3867   20    0 
+TANKER    958549475  7  6 c   k     k     k         3847   20    0 Qc Th
+TANKER    958549514  7  5 r   k     c     c         3827  120    0 Ts As
+TANKER    958549547  7  4 c   f     -     -         3707   20    0 
+TANKER    958549577  7  3 c   kc    c     k         3687   80    0 Td Kh
+TANKER    958549636  7  2 Bc  kc    k     b         3607  100  270 9s Qc
+TANKER    958549661  7  1 Bf  -     -     -         3777   10    0 
+TANKER    958549688  8  8 c   f     -     -         3767   40    0 
+TANKER    958549730  8  7 c   k     k     k         3727   20   50 Jc Qd
+TANKER    958549754  8  6 f   -     -     -         3757    0    0 
+TANKER    958549810  7  4 f   -     -     -         3757    0    0 
+TANKER    958549836  8  4 f   -     -     -         3757    0    0 
+TANKER    958549870  8  3 c   f     -     -         3757   20    0 
+TANKER    958549911  8  2 Bk  f     -     -         3737   20    0 
+TANKER    958549929  8  1 Bc  b     b     b         3717  140  300 Jc 9s
+TANKER    958549959  8  8 c   c     f     -         3877   60    0 
+TANKER    958550023  8  7 c   c     c     r         3817  160  400 4s 9s
+TANKER    958550097  8  6 c   c     b     k         4057   80    0 Td Th
+TANKER    958550159  7  4 f   -     -     -         3977    0    0 
+TANKER    958550206  8  3 f   -     -     -         3977    0    0 
+TANKER    958550241  9  3 c   k     c     c         3977  100  210 Jc 8d
+TANKER    958550275 10  3 cf  -     -     -         4087   20    0 
+TANKER    958550303 10  2 Bk  k     bc    k         4067  100    0 9d 3c
+TANKER    958550350  9  1 Bc  kf    -     -         3947   40    0 
+TANKER    958550372  8  8 r   b     b     k         3907  100  250 As Ah
+TANKER    958550402  8  7 f   -     -     -         4027    0    0 
+TANKER    958550442  8  6 c   k     f     -         4027   20    0 
+TANKER    958550478  8  5 c   k     k     kc        3927   60    0 Jh Qd
+TANKER    958550541  8  4 f   -     -     -         3827    0    0 
+TANKER    958550567  8  3 c   b     -     -         3817   40  100 
+TANKER    958550598  8  2 Br  b     b     b         3877  140  320 
+TANKER    958550645  8  1 Bf  -     -     -         4052   10    0 
+TANKER    958550682  8  8 rc  c     c     c         4042  160  590 As Qh
+TANKER    958550739  8  7 cc  kf    -     -         4472   40    0 
+TANKER    958550766  8  6 c   c     c     k         4432   80    0 Ah 8d
+TANKER    958550795  8  5 f   -     -     -         4352    0    0 
+TANKER    958550856  8  4 c   k     k     f         4352   20    0 
+TANKER    958550885  8  3 c   k     f     -         4282   20    0 
+TANKER    958550914  8  2 Brc k     k     kf        4262   60    0 
+TANKER    958550975  8  1 Brc kc    kc    kc        4182  180  460 Ac 9c
+TANKER    958551012  8  8 c   c     c     c         4452  120    0 Ad 3s
+TANKER    958551082  8  7 c   c     c     k         4332   80    0 6d Ac
+TANKER    958551122  8  6 c   k     kc    kf        4172   60    0 
+TANKER    958551176  8  5 ccc kf    -     -         4252   80    0 
+TANKER    958551228  8  4 cc  b     k     k         4162   60   85 8s 7c
+TANKER    958551260  7  3 c   k     b     bc        4187  140    0 8s Qd
+TANKER    958551302  7  2 Bk  kf    -     -         4047   20    0 
+TANKER    958551358  7  1 Bc  kc    kc    bc        4027  180  460 4s 3d
+TANKER    958551400  7  7 c   b     -     -         4307   40  100 
+TANKER    958551419  6  5 f   -     -     -         4367    0    0 
+TANKER    958551451  6  4 f   -     -     -         4367    0    0 
+TANKER    958551486  6  3 c   k     k     k         4367   20    0 Td Jc
+TANKER    958551521  7  2 Br  b     -     -         4347   60  150 
+TANKER    958551542  6  1 Bc  k     kf    -         4437   20    0 
+TANKER    958551567  6  6 cc  c     k     k         4417   60    0 8s 9d
+TANKER    958551606  6  5 fQ  -     -     -         4357    0    0 
+TANKER    958551872  6  3 cc  kc    kc    k         4357  100    0 8s 7d
+TANKER    958551907  6  2 Bc  kf    -     -         4257   40    0 
+TANKER    958551918  6  1 Bf  -     -     -         4217   10    0 
+TANKER    958551922  5  5 cc  c     f     -         4207   60    0 
+TANKER    958551963  5  4 c   b     -     -         4147   40  100 
+TANKER    958551989  5  3 f   -     -     -         4207    0    0 
+TANKER    958552001  5  2 Bk  k     b     -         4207   60   80 
+TANKER    958552014  5  1 Bc  kc    kr    b         4227  180  460 
+TANKER    958552043  3  3 f   -     -     -         4507    0    0 
+TANKER    958552047  3  3 f   -     -     -         4507    0    0 
+TANKER    958552054  3  2 B   -     -     -         4507   20   30 
+TANKER    958552057  2  1 Bcc kc    kf    -         4517   60    0 
+TANKER    958552073  2  2 Bk  k     b     -         4457   60   80 
+TANKER    958552083  2  1 Bc  k     kc    k         4477   60  120 Qc 9s
+TANKER    958552099  2  2 B   -     -     -         4537   20   30 
+TANKER    958552104  2  1 Bc  k     k     b         4547   60    0 4h 9d
+TANKER    958552115  2  2 Bk  k     k     k         4487   20   40 2s Js
+TANKER    958552130  3  1 Bc  k     kc    k         4507   60    0 9d Jh
+TANKER    958552154  3  3 f   -     -     -         4447    0    0 
+TANKER    958552159  3  2 B   -     -     -         4447   20   30 
+TANKER    958552163  3  1 Bc  b     -     -         4457   40   60 
+TANKER    958552171  3  3 c   k     k     k         4477   20    0 4h Ad
+TANKER    958552191  3  2 Bk  kf    -     -         4457   20    0 
+TANKER    958552202  3  1 Bc  k     b     -         4437   60   80 
+TANKER    958552214  3  3 r   b     -     -         4457   60  110 
+TANKER    958552225  3  2 B   -     -     -         4507   20   30 
+TANKER    958552229  3  1 Bc  k     k     k         4517   20    0 9h Ac
+TANKER    958552245  3  3 rc  k     k     k         4497   80    0 As Qs
+TANKER    958552277  4  2 Bk  k     k     b         4417   60   80 
+TANKER    958552299  4  1 Bc  kc    kc    kc        4437  140    0 Kh 6h
+TANKER    958552315  4  4 f   -     -     -         4297    0    0 
+TANKER    958552348  4  3 f   -     -     -         4297    0    0 
+TANKER    958552358  4  2 Bk  kf    -     -         4297   20    0 
+TANKER    958552375  4  1 Bf  -     -     -         4277   10    0 
+TANKER    958552394  4  4 rc  c     c     f         4267  120    0 
+TANKER    958552418  4  3 r   b     b     k         4147  100  270 Th Tc
+TANKER    958552447  4  2 Bk  f     -     -         4317   20    0 
+TANKER    958552468  4  1 Bf  -     -     -         4297   10    0 
+TANKER    958552504  4  4 c   b     b     -         4287   80  160 
+TANKER    958552536  4  3 cc  c     f     -         4367   60    0 
+TANKER    958552549  4  2 Bc  k     k     k         4307   40   90 4c 7c
+TANKER    958552564  4  1 Bc  kf    -     -         4357   40    0 
+TANKER    958552581  4  4 cc  f     -     -         4317   40    0 
+TANKER    958552593  3  3 c   k     b     -         4277   60   90 
+TANKER    958552609  3  2 Bc  kc    kc    kf        4307  100    0 
+TANKER    958552635  3  1 Bc  k     b     -         4207   60   80 
+TANKER    958552646  3  3 c   c     f     -         4227   40    0 
+TANKER    958552661  3  2 B   -     -     -         4187   20   30 
+TANKER    958552665  3  1 Br  b     -     -         4197   60  140 
+TANKER    958552676  3  3 c   c     f     -         4277   40    0 
+TANKER    958552691  3  2 Bf  -     -     -         4237   20    0 
+TANKER    958552694  3  1 Bf  -     -     -         4217   10    0 
+TANKER    958552714  3  3 f   -     -     -         4207    0    0 
+TANKER    958552735  3  2 Bk  k     k     k         4207   20   40 Td 2d
+TANKER    958552757  3  1 Bf  -     -     -         4227   10    0 
+TANKER    958552768  3  3 c   k     k     f         4217   20    0 
+TANKER    958552789  3  2 Bc  kc    k     k         4197   60    0 2c Ad
+TANKER    958552803  3  1 Bcc kc    kf    -         4137   60    0 
+TANKER    958552822  3  3 c   f     -     -         4077   20    0 
+TANKER    958552834  3  2 B   -     -     -         4057   20   30 
+TANKER    958552839  3  1 Bc  k     k     kf        4067   20    0 
+TANKER    958552857  3  3 c   k     b     -         4047   60   90 
+TANKER    958552870  3  2 Bk  c     c     c         4077  120  240 Qh 3h
+TANKER    958552891  3  1 Bf  -     -     -         4197   10    0 
+TANKER    958552903  3  3 f   -     -     -         4187    0    0 
+TANKER    958552917  3  2 Bc  c     c     r         4187  180  360 Jd 8s
+TANKER    958552937  3  1 Bf  -     -     -         4367   10    0 
+TANKER    958552960  3  3 c   c     c     f         4357   80    0 
+TANKER    958552980  3  2 Bk  k     k     k         4277   20   40 8s Qh
+TANKER    958552994  3  1 Bcc k     b     b         4297  120  240 Jd 9s
+TANKER    958553011  3  3 c   bc    c     k         4417  100  220 7h 7d
+TANKER    958553036  3  2 B   -     -     -         4537   20   30 
+TANKER    958553043  3  1 Bcc kc    kc    kc        4547  140    0 Js 8s
+TANKER    958553063  3  3 cc  f     -     -         4407   40    0 
+TANKER    958553074  3  2 Bk  f     -     -         4367   20    0 
+TANKER    958553090  3  1 Bc  k     b     -         4347   60   80 
+TANKER    958553102  3  3 c   k     b     -         4367   60   90 
+TANKER    958553116  3  2 Bf  -     -     -         4397   20    0 
+TANKER    958553129  3  1 Bf  -     -     -         4377   10    0 
+TANKER    958553132  3  3 r   b     -     -         4367   60  110 
+TANKER    958553143  3  2 Bc  kc    k     b         4417  100  170 
+TANKER    958553156  3  1 Bc  k     k     k         4487   20   40 9c Qd
+TANKER    958553171  3  3 c   k     r     b         4507  140  260 
+TANKER    958553194  3  2 Bc  kf    -     -         4627   40    0 
+TANKER    958553205  3  1 Bc  kc    k     bc        4587  140    0 Ah Ts
+TANKER    958553229  3  3 c   b     -     -         4447   40   70 
+TANKER    958553244  3  2 Bk  k     f     -         4477   20    0 
+TANKER    958553258  3  1 Bc  kf    -     -         4457   20    0 
+TANKER    958553267  3  3 c   c     f     -         4437   40    0 
+TANKER    958553287  3  2 Bf  -     -     -         4397   20    0 
+TANKER    958553291  3  1 Bc  kc    kc    k         4377   80  180 As 8d
+TANKER    958553310  3  3 c   r     b     -         4477  100  200 
+TANKER    958553364  2  1 B   -     -     -         4577   20   20 
+TANKER    958553370  3  1 Bc  k     kf    -         4577   20    0 
+TANKER    958553390  3  3 c   f     -     -         4557   20    0 
+TANKER    958553402  4  3 c   b     -     -         4537   40   80 
+TANKER    958553414  4  2 Bf  -     -     -         4577   20    0 
+TANKER    958553428  4  1 Bf  -     -     -         4557   10    0 
+TANKER    958553437  4  4 c   f     -     -         4547   20    0 
+TANKER    958553453  4  3 cc  kf    -     -         4527   40    0 
+TANKER    958553465  4  2 B   -     -     -         4487   20   30 
+TANKER    958553468  4  1 Br  k     kc    kc        4497  120  260 Ks Ah
+TANKER    958553485  4  4 f   -     -     -         4637    0    0 
+TANKER    958553495  4  3 cc  k     b     k         4637   80  170 5s 4h
+TANKER    958553512  4  2 Bcc kc    kc    kf        4727  140    0 
+TANKER    958553557  4  1 Bc  kf    -     -         4587   40    0 
+TANKER    958553580  4  4 f   -     -     -         4547    0    0 
+TANKER    958553602  4  3 f   -     -     -         4547    0    0 
+TANKER    958553610  4  2 Bk  kc    k     b         4547   80  130 
+TANKER    958553632  4  1 Bf  -     -     -         4597   10    0 
+TANKER    958553636  4  4 c   k     k     k         4587   20    0 9s Tc
+TANKER    958553660  4  3 f   -     -     -         4567    0    0 
+TANKER    958553672  4  2 Bc  kc    kc    kf        4567  100    0 
+TANKER    958553692  4  1 Bf  -     -     -         4467   10    0 
+TANKER    958553721  4  4 c   b     -     -         4457   40   90 
+TANKER    958553741  4  3 c   f     -     -         4507   20    0 
+TANKER    958553753  4  2 Br  b     -     -         4487   60  100 
+TANKER    958553761  4  1 Bc  bc    k     k         4527   80    0 8h 6h
+TANKER    958553782  4  4 f   -     -     -         4447    0    0 
+TANKER    958553791  4  3 c   k     k     k         4447   20   50 3s 3d
+TANKER    958553806  4  2 Bf  -     -     -         4477   20    0 
+TANKER    958553818  4  1 Bc  k     kc    kc        4457  120    0 7c 5c
+TANKER    958553840  4  4 c   c     b     -         4337   80  140 
+TANKER    958553862  4  3 r   bc    c     f         4397  140    0 
+TANKER    958553888  4  2 Bf  -     Q     -         4257   20    0 
+TANKER    959045655 10  1 Br  kc    kc    kc        2330  140    0 Jh Jd
+TANKER    959045703 10 10 c   k     c     f         2190   60    0 
+TANKER    959045743 10  9 f   -     -     -         2080    0    0 
+TANKER    959045803 10  8 f   -     -     -         2070    0    0 
+TANKER    959045846 10  7 cc  kc    kf    -         2070   60    0 
+TANKER    959045914 10  6 f   -     -     -         2010    0    0 
+TANKER    959045975 10  5 cc  kf    -     -         1960   40    0 
+TANKER    959046057 10  4 c   c     c     c         1870  120  310 Th Ts
+TANKER    959046095 10  3 f   -     -     -         2060    0    0 
+TANKER    959046150 10  2 Bc  kc    kc    k         2130  100    0 8c Qs
+TANKER    959046232 10  1 Bf  -     -     -         1950   10    0 
+TANKER    959046342  9  9 f   -     -     -         2150    0    0 
+TANKER    959046384  9  8 f   -     -     -         2150    0    0 
+TANKER    959046440  9  7 f   -     -     -         2150    0    0 
+TANKER    959046495  9  6 rc  kc    kc    kc        2180  160    0 Ks Ac
+TANKER    959046523  8  4 c   k     c     r         2015  140  340 
+TANKER    959046582  8  3 f   -     -     -         2215    0    0 
+TANKER    959046671  8  3 c   k     k     k         2215   20    0 6c 7s
+TANKER    959046695  8  2 Bk  k     f     -         2195   20    0 
+TANKER    959046723  8  1 Bcc kf    -     -         2175   40    0 
+TANKER    959046779  7  7 cc  k     b     -         2135   80  130 
+TANKER    959046808  8  6 c   b     -     -         2185   40  100 
+TANKER    959046831  8  5 r   b     -     -         2245   60  150 
+TANKER    959046852  8  4 c   f     -     -         2335   20    0 
+TANKER    959046884  8  3 c   b     -     -         2315   40   70 
+TANKER    959046905  8  2 Bf  -     -     -         2345   20    0 
+TANKER    959046936  8  1 Bc  kf    -     -         2325   40    0 
+TANKER    959047002  8  8 c   b     b     b         2285  120  230 
+TANKER    959047053  8  7 c   f     -     -         2395   20    0 
+TANKER    959047072  8  6 cc  bc    c     k         2375  120    0 Ad 4h
+TANKER    959047125  8  5 f   -     -     -         2255    0    0 
+TANKER    959047191  8  4 f   -     -     -         2255    0    0 
+TANKER    959047251  9  4 cc  f     -     -         2255   40    0 
+TANKER    959047298  9  3 cc  b     b     -         2215  100  250 
+TANKER    959047337  9  2 Bk  kf    -     -         2365   20    0 
+TANKER    959047382  9  1 Bcc kf    -     -         2345   40    0 
+TANKER    959047406  9  9 c   f     -     -         2305   40    0 
+TANKER    959047481  9  8 cc  ccc   f     -         2265  160    0 
+TANKER    959047564  9  7 r   rc    b     kc        2105  200    0 Ad As
+TANKER    959047656  9  6 c   f     -     -         1905   20    0 
+TANKER    959047699  9  5 cc  f     -     -         1885   40    0 
+TANKER    959047758  9  4 f   -     -     -         1845    0    0 
+TANKER    959047804  9  3 f   -     -     -         1845    0    0 
+TANKER    959047855  9  2 Bk  k     k     kf        1845   20    0 
+TANKER    959047903  9  1 Bc  k     b     b         1825  100    0 Ks 9c
+TANKER    959047947  9  9 r   b     bc    k         1725  160    0 Kh 6h
+TANKER    959048005  9  8 r   c     f     -         1565   60    0 
+TANKER    959048047  9  7 f   -     -     -         1505    0    0 
+TANKER    959048087 10  7 f   -     -     -         1505    0    0 
+TANKER    959048129 10  6 f   -     -     -         1505    0    0 
+TANKER    959048171 10  5 cc  f     -     -         1505   40    0 
+TANKER    959048223 10  4 c   kf    -     -         1465   20    0 
+TANKER    959048314 10  3 f   -     -     -         1445    0    0 
+TANKER    959048360 10  2 Bc  b     bc    kc        1445  180    0 Th 9c
+TANKER    959048393 10  1 Bcc kf    -     -         1265   80    0 
+TANKER    959048474 10 10 f   -     -     -         1185    0    0 
+TANKER    959048506 10  9 f   -     -     -         1185    0    0 
+TANKER    959048562 10  8 c   c     c     f         1185   80    0 
+TANKER    959048611 10  7 f   -     -     -         1105    0    0 
+TANKER    959048662 10  6 c   kc    k     k         1105   40    0 5c 6s
+TANKER    959048711 10  5 f   -     -     -         1065    0    0 
+TANKER    959048762 10  4 f   -     -     -         1065    0    0 
+TANKER    959048777 10  3 rr  kf    -     -         1065   80    0 
+TANKER    959048860 10  2 Bf  -     -     -          985   20    0 
+TANKER    959048886 10  1 Br  b     b     b          965  140  300 
+TANKER    959048931 10 10 r   c     c     c         1125  140    0 Ah Jh
+TANKER    959048971 10  9 f   -     -     -          985    0    0 
+TANKER    959049011 10  8 c   c     r     b          985  160  420 5d 3d
+TANKER    959049053 10  7 cc  kf    -     -         1245   40    0 
+TANKER    959049156 10  6 f   -     -     -         1205    0    0 
+TANKER    959049226 10  5 rc  kc    kc    k         1205  120  390 Jh Kh
+TANKER    959049276 10  4 cc  bcc   kc    kc        1475  240  880 7h 7c
+TANKER    959056136  9  4 c   k     c     c         2115  120    0 Kc Ts
+TANKER    959056194  9  3 cc  kc    kc    kf        1995  100    0 
+TANKER    959056241  9  2 Bf  -     -     -         1895   20    0 
+TANKER    959056282  9  1 Bf  -     -     -         1875   10    0 
+TANKER    959056321  9  9 f   -     -     -         1865    0    0 
+TANKER    959056350  9  8 c   f     -     -         1865   20    0 
+TANKER    959056393  9  7 f   -     -     -         1845    0    0 
+TANKER    959056422  8  5 c   k     k     k         1845   20    0 9s Tc
+TANKER    959056479  8  4 c   f     -     -         1825   20    0 
+TANKER    959056510  8  3 f   -     -     -         1805    0    0 
+TANKER    959056553 10  3 f   -     -     -         1805    0    0 
+TANKER    959056588 10  2 Bc  k     kf    -         1805   40    0 
+TANKER    959056644 10  1 Bc  kf    -     -         1765   20    0 
+TANKER    959056700 10 10 c   f     -     -         1745   40    0 
+TANKER    959056768 10  9 c   b     brc   c         1705  260    0 5d Kd
+TANKER    959056844 10  8 r   kc    kc    kc        1445  140  310 Ks Jh
+TANKER    959056898 10  7 c   c     c     f         1615  100    0 
+TANKER    959056954 10  6 c   f     -     -         1515   40    0 
+TANKER    959056984 10  5 c   kc    kc    kf        1475   80    0 
+TANKER    959057050 10  4 cc  r     k     c         1395  120    0 7s Qs
+TANKER    959057141 10  3 cc  kc    kc    kf        1275  100    0 
+TANKER    959057209 10  2 Bk  kf    -     -         1175   20    0 
+TANKER    959057247 10  1 Bf  -     -     -         1155   10    0 
+TANKER    959057293 10 10 r   b     b     b         1145  140    0 As 7s
+TANKER    959057333 10  9 c   k     k     k         1005   20  100 8s Tc
+TANKER    959057394 10  8 c   f     -     -         1085   20    0 
+TANKER    959057457 10  7 r   b     bc    c         1065  180    0 Ad Jc
+TANKER    959057531 10  6 c   f     -     -          885   20    0 
+TANKER    959057594 10  5 r   cf    -     -          865   60    0 
+TANKER    959057675 10  4 cc  kf    -     -          805   40    0 
+TANKER    959057710 10  3 r   k     r     -          765  120  290 
+TANKER    959057763 10  2 Bc  kf    -     -          935   40    0 
+TANKER    959057796 10  1 Bf  -     -     -          895   10    0 
+TANKER    959057853 10 10 f   -     -     -          885    0    0 
+TANKER    959057886 10  9 f   -     -     -          885    0    0 
+TANKER    959057937 10  8 f   -     -     -          885    0    0 
+TANKER    959057962 10  7 f   -     -     -          885    0    0 
+TANKER    959058021 10  6 f   -     -     -          885    0    0 
+TANKER    959058118 10  5 f   -     -     -          885    0    0 
+TANKER    959058164 10  4 cc  rc    k     k          885  100    0 Ad 8s
+TANKER    959058214 10  3 rr  kc    kc    kf         785  140    0 
+TANKER    959058274 10  2 Br  kf    -     -          645   60    0 
+TANKER    959058328 10  1 Br  kc    kf    -          585   60    0 
+TANKER    959058381 10 10 c   f     -     -          525   40    0 
+TANKER    959058459 10  9 c   c     c     f          485  140    0 
+TANKER    959058514 10  8 f   -     -     -          345    0    0 
+TANKER    959058552 10  7 c   r     b     b          345  160  205 Qd 9s
+TANKER    959058613 10  6 c   f     -     -          390   20    0 
+TANKER    959058670 10  5 f   -     -     -          370    0    0 
+TANKER    959058696 10  4 f   -     -     -          370    0    0 
+TANKER    959058711 10  3 cc  c     rr    brcA       370  370    0 2h Ac
+TANKER    959292199  8  3 f   -     -     -         2115    0    0 
+TANKER    959292235  7  2 Bcc f     -     -         2115   80    0 
+TANKER    959292288  7  1 Br  -     -     -         2035   40   60 
+TANKER    959292302  7  7 r   c     b     -         2055  100  310 
+TANKER    959292337  7  6 cc  f     -     -         2265   40    0 
+TANKER    959292389  7  5 f   -     -     -         2225    0    0 
+TANKER    959292429  7  4 f   -     -     -         2225    0    0 
+TANKER    959292477  6  2 Bk  c     r     k         2225  120  240 4h Kd
+TANKER    959292509  6  1 Bc  kf    -     -         2345   20    0 
+TANKER    959292545  6  6 c   k     c     b         2325  100  180 
+TANKER    959292592  6  5 cc  f     -     -         2405   40    0 
+TANKER    959292609  6  4 f   -     -     -         2365    0    0 
+TANKER    959292648  6  3 cc  kf    -     -         2365   40    0 
+TANKER    959292681  6  2 Bk  Q     -     -         2325   20    0 
+TANKER    959318935  9  5 cc  k     f     -         2305   40    0 
+TANKER    959318998  9  4 f   -     -     -         2265    0    0 
+TANKER    959319069  9  3 f   -     -     -         2265    0    0 
+TANKER    959319235  8  2 Bk  kc    kc    kf        2265   80    0 
+TANKER    959319280  9  1 Bc  k     b     k         2185   80    0 8c 7h
+TANKER    959319316 10 10 f   -     -     -         2105    0    0 
+TANKER    959319367 10  9 c   k     k     k         2105   20  100 Th 9c
+TANKER    959319434 10  8 f   -     -     -         2185    0    0 
+TANKER    959319501 10  7 f   -     -     -         2185    0    0 
+TANKER    959319543 10  6 cc  f     -     -         2185   40    0 
+TANKER    959319601 10  5 f   -     -     -         2145    0    0 
+TANKER    959319626 10  4 cc  kf    -     -         2145   60    0 
+TANKER    959319704 10  3 cc  kf    -     -         2085   60    0 
+TANKER    959319769 10  2 Brc brc   b     b         2025  240 1020 Qh Ks
+TANKER    959319858 10  1 Bc  kc    k     k         2805   40    0 Ah 3s
+TANKER    959319930 10 10 f   -     -     -         2765    0    0 
+TANKER    959319990 10  9 c   c     c     f         2765   80    0 
+TANKER    959320072 10  8 f   -     -     -         2685    0    0 
+TANKER    959320125 10  7 c   f     -     -         2685   40    0 
+TANKER    959320190 10  6 c   c     c     f         2645   80    0 
+TANKER    959320248 10  5 cc  kf    -     -         2565   40    0 
+TANKER    959320326 10  4 cc  kc    kc    kc        2525  140  330 Js Qh
+TANKER    959320369 10  3 f   -     -     -         2715    0    0 
+TANKER    959320423 10  2 Bf  -     -     -         2715   20    0 
+TANKER    959320499 10  1 Bf  -     -     -         2695   10    0 
+TANKER    959320552 10 10 c   k     f     -         2685   40    0 
+TANKER    959320623 10  9 cc  c     r     b         2645  180  600 9d Kh
+TANKER    959320674  9  7 c   kf    -     -         3065   20    0 
+TANKER    959320737 10  7 cc  bc    kc    kc        3045  160    0 9c Tc
+TANKER    959320795 10  6 r   c     b     k         2885  120    0 Ac Jh
+TANKER    959320863 10  5 f   -     -     -         2765    0    0 
+TANKER    959320922 10  4 cc  kf    -     -         2765   40    0 
+TANKER    959321027 10  3 r   k     b     kf        2725   80    0 
+TANKER    959321076 10  2 Bk  kc    bc    k         2645  120  270 Ad 9s
+TANKER    959321124 10  1 Bc  kc    kc    kf        2795  100    0 
+TANKER    959321181 10 10 r   b     b     b         2695  160  510 Jh Jc
+TANKER    959321237 10  9 rc  brc   rc    rc        3045  460 1540 7d Ad
+TANKER    959321346 10  8 f   -     -     -         4125    0    0 
+TANKER    959321410 10  7 f   -     -     -         4125    0    0 
+TANKER    959321464 10  6 c   f     -     -         4125   40    0 
+TANKER    959321512 10  5 f   -     -     -         4085    0    0 
+TANKER    959321567 10  4 c   bc    kc    kc        4085  140  175 Td Ah
+TANKER    959321641 10  3 f   -     -     -         4120    0    0 
+TANKER    959321714 10  2 Bc  b     kc    kf        4120  100    0 
+TANKER    959321770 10  1 Bcc kcc   kc    kc        4020  280 1220 Ts 3s
+TANKER    959321854 10 10 c   r     b     b         4960  140  360 2c Ad
+TANKER    959321931 10  9 cc  c     r     c         5180  180    0 4c 5c
+TANKER    959322073 10  8 f   -     -     -         5000    0    0 
+TANKER    959322103 10  7 f   -     -     -         5000    0    0 
+TANKER    959322160 10  6 cc  kc    kf    -         5000   60    0 
+TANKER    959322208 10  5 cc  kf    -     -         4940   40    0 
+TANKER    959322231 10  4 c   kf    -     -         4900   20    0 
+TANKER    959322267 10  3 r   bc    kc    kc        4880  160  350 Qh Qc
+TANKER    959322335 10  2 B   -     -     -         5070   20   30 
+TANKER    959322353 10  1 Br  b     -     -         5080   60  200 
+TANKER    959322409 10 10 f   -     -     -         5220    0    0 
+TANKER    959322465 10  9 c   f     -     -         5220   20    0 
+TANKER    959322507 10  8 c   f     -     -         5200   40    0 
+TANKER    959322553 10  7 c   kf    -     -         5160   20    0 
+TANKER    959322602 10  6 c   kc    kf    -         5140   40    0 
+TANKER    959322656 10  5 c   cf    -     -         5100   40    0 
+TANKER    959322715 10  4 cc  kc    k     k         5060   60    0 6c 3c
+TANKER    959322763 10  3 c   f     -     -         5000   20    0 
+TANKER    959322819 10  2 Bk  kf    -     -         4980   20    0 
+TANKER    959322902 10  1 Br  k     k     b         4960   80  180 
+TANKER    959322950 10 10 f   -     -     -         5060    0    0 
+TANKER    959323007 10  9 c   c     c     f         5060  100    0 
+TANKER    959323062  9  7 c   k     b     -         4960   60  100 
+TANKER    959323101  9  6 c   k     b     -         5000   60  120 
+TANKER    959323145 10  6 f   -     -     -         5060    0    0 
+TANKER    959323211 10  5 f   -     -     -         5060    0    0 
+TANKER    959323246 10  4 c   f     -     -         5060   20    0 
+TANKER    959323307 10  3 cc  c     f     -         5040   60    0 
+TANKER    959323386 10  2 Bc  kf    -     -         4980   40    0 
+TANKER    959323430 10  1 Brc kc    kf    -         4940  100    0 
+TANKER    959323521 10 10 c   r     r     b         4840  200  630 9c Td
+TANKER    959323591 10  9 cc  f     -     -         5270   40    0 
+TANKER    959323627 10  8 f   -     -     -         5230    0    0 
+TANKER    959323720 10  7 c   c     f     -         5230   60    0 
+TANKER    959323746 10  6 f   -     -     -         5170    0    0 
+TANKER    959323830 10  5 f   -     -     -         5170    0    0 
+TANKER    959323876 10  4 cc  kc    kc    k         5170  100    0 7s 8s
+TANKER    959323950 10  3 f   -     -     -         5070    0    0 
+TANKER    959323993 10  2 Bk  k     c     c         5070  100    0 Qc 3s
+TANKER    959324030 10  1 Bc  k     k     k         4970   20   40 5s 5d
+TANKER    959324088 10 10 c   f     -     -         4990   40    0 
+TANKER    959324130 10  9 f   -     -     -         4950    0    0 
+TANKER    959324158 10  8 f   -     -     -         4950    0    0 
+TANKER    959324210 10  7 f   -     -     -         4950    0    0 
+TANKER    959324270 10  6 f   -     -     -         4950    0    0 
+TANKER    959324376 10  5 f   -     -     -         4950    0    0 
+TANKER    959324428 10  4 f   -     -     -         4950    0    0 
+TANKER    959324490 10  3 f   -     -     -         4950    0    0 
+TANKER    959324549 10  2 Bk  kf    -     -         4950   20    0 
+TANKER    959324639 10  1 Bc  b     k     b         4930   80  240 2c 7c
+TANKER    959324717  9  9 f   -     -     -         5090    0    0 
+TANKER    959324767  9  8 c   c     bc    c         5090  160    0 Kc 8h
+TANKER    959324865  9  7 f   -     -     -         4930    0    0 
+TANKER    959324916  9  6 f   -     -     -         4930    0    0 
+TANKER    959324985  9  5 f   -     -     -         4930    0    0 
+TANKER    959325028  9  4 c   b     kc    kc        4930  120    0 8s 9d
+TANKER    959325063  9  3 c   b     kr    bc        4810  200  450 Td Ks
+TANKER    959325105 10  2 Bc  kc    kf    -         5050   60    0 
+TANKER    959325184 10  1 Bc  kf    -     -         4960   20    0 
+TANKER    959325220 10 10 r   r     r     c         4980  200  610 Kc Kh
+TANKER    959325283 10  9 f   -     -     -         5390    0    0 
+TANKER    959325311 10  8 f   -     -     -         4970    0    0 
+TANKER    959325345 10  7 f   -     -     -         4970    0    0 
+TANKER    959325415 10  6 f   -     -     -         4975    0    0 
+TANKER    959325451 10  5 c   kf    -     -         5065   20    0 
+TANKER    959325507 10  4 f   -     -     -         5005    0    0 
+TANKER    959408988 10  1 Bf  -     -     -         2130   10    0 
+TANKER    959409029 10 10 c   r     k     b         2120  100  180 
+TANKER    959409071 10  9 f   -     -     -         2180    0    0 
+TANKER    959409120 10  8 c   cc    kf    -         2175   60    0 
+TANKER    959409172 10  7 c   f     -     -         2115   20    0 
+TANKER    959409224 10  6 f   -     -     -         2330    0    0 
+TANKER    959409276 10  5 f   -     -     -         2470    0    0 
+TANKER    959409302 10  4 f   -     -     -         2470    0    0 
+TANKER    959409339 10  4 c   kc    kf    -         2460   40    0 
+TANKER    959409386  9  2 Bc  k     kf    -         2420   40    0 
+TANKER    959409412  9  1 Bc  kf    -     -         2380   20    0 
+TANKER    959409434  9  9 c   k     k     c         2360   60  240 Ac Th
+TANKER    959409480  9  8 c   f     -     -         2540   20    0 
+TANKER    959409532  8  6 c   r     c     c         2520  140    0 6s 5c
+TANKER    959409585  9  5 c   k     k     b         2200   60   90 
+TANKER    959409627 10  4 c   kc    k     k         2140   40    0 4h 9h
+TANKER    959409687 10  3 f   -     -     -         2100    0    0 
+TANKER    959409739 10  2 Bcc bc    kc    kf        2100  160    0 
+TANKER    959409835  9  1 Br  b     b     b         1920  140  440 Kh Ah
+TANKER    959409872  9  9 c   f     -     -         2220   20    0 
+TANKER    959409907  9  8 f   -     -     -         2190    0    0 
+TANKER    959409949  9  7 f   -     -     -         2250    0    0 
+TANKER    959410007  9  6 c   b     k     c         2250   80    0 9d 9s
+TANKER    959410076  9  5 c   f     -     -         2170   20    0 
+TANKER    959410128  9  4 f   -     -     -         2150    0    0 
+TANKER    959410166  9  3 f   -     -     -         2150    0    0 
+TANKER    959410249 10  2 Bc  b     brc   brrrr     2130  580 1390 8s 9c
+TANKER    959410306  9  1 Bc  kc    kc    kf        2925   80    0 
+TANKER    959410365  9  9 c   k     f     -         2845   20    0 
+TANKER    959410398  9  8 f   -     -     -         2825    0    0 
+TANKER    959410442  9  7 c   kc    kf    -         2825   40    0 
+TANKER    959410482  9  6 f   -     -     -         2765    0    0 
+TANKER    959410500  9  5 c   kf    -     -         2765   20    0 
+TANKER    959410550  9  4 f   -     -     -         3005    0    0 
+TANKER    959410581  9  3 rc  c     f     -         3005   80    0 
+TANKER    959410685  7  2 Bk  b     bc    b         2890  160  370 5c 6s
+TANKER    959410719  7  1 Bc  k     kf    -         3060   20    0 
+TANKER    959410755  7  7 c   f     -     -         3040   40    0 
+TANKER    959410770  7  6 f   -     -     -         3000    0    0 
+TANKER    959410812  7  5 f   -     -     -         3070    0    0 
+TANKER    959410856  8  4 f   -     -     -         3000    0    0 
+TANKER    959410907  8  3 f   -     -     -         2990    0    0 
+TANKER    959410962  8  2 Bk  b     b     k         2940   80    0 3s 9c
+TANKER    959411007 10  1 Bf  -     -     -         2890   10    0 
+TANKER    959411063 10 10 f   -     -     -         2740    0    0 
+TANKER    959411118  9  8 cc  c     k     f         2780   60    0 
+TANKER    959411169  9  7 c   k     f     -         2835   20    0 
+TANKER    959411197  9  6 c   k     f     -         2745   20    0 
+TANKER    959411242  9  5 f   -     -     -         2750    0    0 
+TANKER    959411285  8  4 f   -     -     -         2805    0    0 
+TANKER    959411314  7  3 f   -     -     -         2765    0    0 
+TANKER    959411339  7  2 Bk  kf    -     -         2735   20    0 
+TANKER    959411363  7  1 Bc  kf    -     -         2715   40    0 
+TANKER    959411386  8  8 f   -     -     -         2675    0    0 
+TANKER    959411404  8  7 c   f     -     -         2675   20    0 
+TANKER    959411431  8  6 f   -     -     -         2655    0    0 
+TANKER    959411452  8  5 c   f     -     -         2655   20    0 
+TANKER    959411503  8  4 cc  cc    kc    kf        2635  120    0 
+TANKER    959411554  8  3 c   cc    c     kf        2515  120    0 
+TANKER    959411599  8  2 Bc  kf    -     -         2395   40    0 
+TANKER    959411638  7  1 Bc  kc    kc    k         2355  100  320 3h Qh
+TANKER    959411714  7  7 f   -     -     -         2575    0    0 
+TANKER    959411744  7  6 f   -     -     -         2575    0    0 
+TANKER    959411798  6  4 f   -     -     -         2575    0    0 
+TANKER    959411847  6  3 c   c     b     k         2575   80   85 Qh Jh
+TANKER    959411896  6  2 Bk  k     kf    -         2580   20    0 
+TANKER    959411946  6  1 Bc  kf    -     -         2560   20    0 
+TANKER    959411983  6  6 f   -     -     -         2540    0    0 
+TANKER    959412017  7  5 f   -     -     -         2540    0    0 
+TANKER    959412048  6  3 f   -     -     -         2540    0    0 
+TANKER    959412081  6  2 Bk  c     f     -         2540   40    0 
+TANKER    959412110  6  1 Bf  -     -     -         2500   10    0 
+TANKER    959412160  7  7 c   f     -     -         2490   20    0 
+TANKER    959412187  7  6 c   k     f     -         2470   20    0 
+TANKER    959412242  8  6 cc  c     k     c         2450  100    0 Qh Js
+TANKER    959412272  8  5 c   k     k     c         2350   60    0 Th 8c
+TANKER    959412319  8  4 f   -     -     -         2290    0    0 
+TANKER    959412348  8  3 cc  c     k     kc        2290  100    0 9d 8d
+TANKER    959412406  8  2 Bk  kf    -     -         2190   20    0 
+TANKER    959412458  8  1 Bf  -     -     -         2170   10    0 
+TANKER    959412484  8  8 c   k     k     k         2160   20    0 Qc Td
+TANKER    959412545  8  7 c   k     f     -         2140   40    0 
+TANKER    959412599  8  6 c   f     -     -         2100   20    0 
+TANKER    959412659  7  4 c   kc    c     kQ        2080   80    0 
+TANKER    959456717  6  2 B   -     -     -         2000   20   30 
+TANKER    959456724  6  1 Bc  k     b     -         2010   60   80 
+TANKER    959456747  8  6 c   f     -     -         2030   20    0 
+TANKER    959456762  8  5 f   -     -     -         2010    0    0 
+TANKER    959456778  8  4 f   -     -     -         2010    0    0 
+TANKER    959456793  8  3 c   b     b     b         2010  120  290 9s Kh
+TANKER    959456818  8  2 Bk  kf    -     -         2180   20    0 
+TANKER    959456860  8  1 Bf  -     -     -         2160   10    0 
+TANKER    959456883  8  8 f   -     -     -         2150    0    0 
+TANKER    959456903  9  8 c   cc    c     c         2150  160    0 5d 6c
+TANKER    959456942  9  7 f   -     -     -         1990    0    0 
+TANKER    959456961  8  5 c   f     -     -         1990   20    0 
+TANKER    959456985  7  3 f   -     -     -         1970    0    0 
+TANKER    959457007  7  2 Bc  kf    -     -         1970   40    0 
+TANKER    959457057  8  1 Brc b     -     -         1930   80  200 
+TANKER    959457078  8  8 c   c     f     -         2050   40    0 
+TANKER    959457098  9  8 f   -     -     -         2010    0    0 
+TANKER    959457142  9  7 c   kf    -     -         2010   20    0 
+TANKER    959457160  9  6 f   -     -     -         1990    0    0 
+TANKER    959457186  9  5 f   -     -     -         1990    0    0 
+TANKER    959457205  9  4 c   kc    kf    -         1990   40    0 
+TANKER    959457259  8  3 c   b     -     -         1950   40   90 
+TANKER    959457279  8  2 Bk  kf    -     -         2000   20    0 
+TANKER    959457297  7  1 Bf  -     -     -         1980   10    0 
+TANKER    959457317  7  7 f   -     -     -         1970    0    0 
+TANKER    959457321  7  6 f   -     -     -         1970    0    0 
+TANKER    959457365  7  5 c   c     cc    k         1970  120  360 8h Qd
+TANKER    959457401  9  4 f   -     -     -         2210    0    0 
+TANKER    959457440  9  3 f   -     -     -         2210    0    0 
+TANKER    959457485  9  2 Bk  k     k     k         2210   20    0 9c 4h
+TANKER    959457536  9  1 Bf  -     -     -         2190   10    0 
+TANKER    959457593  9  9 c   b     k     k         2170   40   90 9s Qh
+TANKER    959457627 10  9 f   -     -     -         2220    0    0 
+TANKER    959457656 10  8 f   -     -     -         2220    0    0 
+TANKER    959457665 10  7 f   -     -     -         2220    0    0 
+TANKER    959457695  9  5 f   -     -     -         2220    0    0 
+TANKER    959457729  9  4 cc  ccc   cc    r         2220  280  840 Tc 9c
+TANKER    959457781  9  3 c   k     kf    -         2780   20    0 
+TANKER    959457829 10  2 Bf  -     -     -         2700   20    0 
+TANKER    959457849 10  1 Bc  bc    bc    b         2680  200    0 9d 8d
+TANKER    959457934  9  9 c   f     -     -         2370   40    0 
+TANKER    959457984 10  9 c   ccc   k     b         2415  160  700 5d 6d
+TANKER    959458050 10  8 c   kf    -     -         2955   20    0 
+TANKER    959458083 10  7 f   -     -     -         2895    0    0 
+TANKER    959458119 10  6 f   -     -     -         2890    0    0 
+TANKER    959458160 10  5 f   -     -     -         2890    0    0 
+TANKER    959458221 10  4 cc  b     b     b         2870  140  330 
+TANKER    959458271 10  3 f   -     -     -         3040    0    0 
+TANKER    959458335 10  2 Bk  kf    -     -         3010   20    0 
+TANKER    959458434 10  1 Bf  -     -     -         2980   10    0 
+TANKER    959458516  9  9 c   f     -     -         3185   20    0 
+TANKER    959458601  9  9 c   k     cc    f         3172  140    0 
+TANKER    959458693  9  8 c   k     f     -         3017   20    0 
+TANKER    959458744  9  6 f   -     -     -         2987    0    0 
+TANKER    959458779  9  5 c   k     b     -         3012   60   90 
+TANKER    959458814  9  4 c   b     b     b         3067  120  290 
+TANKER    959458883  8  2 Bk  f     -     -         3307   20    0 
+TANKER    959458904  7  1 Bf  -     -     -         3287   10    0 
+TANKER    959458917  6  6 f   -     -     -         3237    0    0 
+TANKER    959458949  6  5 r   cc    kc    f         3237  120    0 
+TANKER    959459001  6  4 c   rc    kc    kf        3212  120    0 
+TANKER    959459055  6  3 c   bc    kc    b         3147  140  320 Kh 8c
+TANKER    959459093  6  2 Bk  f     -     -         3317   20    0 
+TANKER    959459160  6  1 Bc  kc    kf    -         3277   60    0 
+TANKER    959459244  5  5 f   -     -     -         3217    0    0 
+TANKER    959459274  5  4 c   k     k     k         3217   20   50 7h 6s
+TANKER    959459297  6  3 f   -     -     -         3247    0    0 
+TANKER    959459328  6  2 Bk  f     -     -         3247   20    0 
+TANKER    959459364  6  1 Bc  kf    -     -         3227   20    0 
+TANKER    959459381  6  6 f   -     -     -         3207    0    0 
+TANKER    959459411  6  5 f   -     -     -         3207    0    0 
+TANKER    959459422  6  4 f   -     -     -         3207    0    0 
+TANKER    959459428  6  3 cc  kc    kf    -         3207   60    0 
+TANKER    959459466  6  2 Bk  f     -     -         3147   20    0 
+TANKER    959459493  6  1 Bf  -     -     -         3127   10    0 
+TANKER    959459522  6  6 cc  c     f     -         3117   60    0 
+TANKER    959459542  6  5 cc  k     cc    kc        3057  160    0 Kh 7h
+TANKER    959459590  6  4 c   bc    kc    kc        2897  140    0 As 4c
+TANKER    959459619  6  3 c   f     -     -         2757   20    0 
+TANKER    959459639  6  2 Bf  -     -     -         2737   20    0 
+TANKER    959459665  6  1 Bc  kf    -     -         2717   40    0 
+TANKER    959459695  6  6 c   c     f     -         2677   40    0 
+TANKER    959459732  6  5 cc  kc    kr    b         2637  180  410 6s 7h
+TANKER    959459764  6  4 c   f     -     -         2867   40    0 
+TANKER    959459791  6  3 c   kf    -     -         2827   20    0 
+TANKER    959459828  6  2 Bk  kf    -     -         2807   20    0 
+TANKER    959459857  6  1 Bcc kc    krc   kc        2787  220    0 Js Td
+TANKER    959459891  6  6 c   c     c     k         2567   80  260 As 2c
+TANKER    959459928  6  5 f   -     -     -         2747    0    0 
+TANKER    959459964  6  4 cc  kc    kc    kf        2747  100    0 
+TANKER    959459996  6  3 f   -     -     -         2647    0    0 
+TANKER    959460016  6  2 Br  k     kf    -         2647   60    0 
+TANKER    959460053  6  1 Bc  br    b     b         2587  180  460 
+TANKER    959460103  6  6 c   c     f     -         2867   40    0 
+TANKER    959460126  5  5 f   -     -     -         2827    0    0 
+TANKER    959460132  4  3 c   c     f     -         2827   40    0 
+TANKER    959460145  4  2 Bk  b     b     -         2787   80  130 
+TANKER    959460162  4  1 Bf  -     -     -         2837   10    0 
+TANKER    959460168  4  4 c   c     c     f         2827  120    0 
+TANKER    959460202  4  3 c   c     c     f         2707   80    0 
+TANKER    959460226  5  3 c   kc    kc    kf        2627   80    0 
+TANKER    959460269  6  3 cc  k     k     f         2547   40    0 
+TANKER    959460305  6  2 BQ  -     -     -         2507   20    0 
+TANKER    959481106 10 10 c   f     -     -         2489   20    0 
+TANKER    959481151 10  9 f   -     -     -         2799    0    0 
+TANKER    959481200 10  8 f   -     -     -         2789    0    0 
+TANKER    959481255 10  7 c   k     c     c         2729  120    0 8c Js
+TANKER    959481307 10  6 f   -     -     -         2569    0    0 
+TANKER    959481347 10  5 c   c     k     k         2549   40  110 4h Qh
+TANKER    959481379 10  4 f   -     -     -         2589    0    0 
+TANKER    959481422 10  3 f   -     -     -         2539    0    0 
+TANKER    959481466 10  2 Bc  kf    -     -         2449   40    0 
+TANKER    959481530 10  1 Bcc kc    kc    k         2439  140    0 Ac 4h
+TANKER    959481623 10 10 f   -     -     -         2269    0    0 
+TANKER    959481665 10  9 f   -     -     -         2309    0    0 
+TANKER    959481709  9  7 f   -     -     -         2449    0    0 
+TANKER    959481757  9  7 cc  f     -     -         2419   80    0 
+TANKER    959481841  9  6 f   -     -     -         2334    0    0 
+TANKER    959481873 10  5 f   -     -     -         2324    0    0 
+TANKER    959481921 10  4 c   k     f     -         2319   20    0 
+TANKER    959481947 10  3 f   -     -     -         2299    0    0 
+TANKER    959481992 10  2 Bk  f     -     -         2299   20    0 
+TANKER    959482013 10  1 Bf  -     -     -         2279   10    0 
+TANKER    959482047 10 10 f   -     -     -         2269    0    0 
+TANKER    959482092 10  9 f   -     -     -         2269    0    0 
+TANKER    959482139 10  8 c   f     -     -         2269   20    0 
+TANKER    959482214 10  7 c   c     c     k         2249  120    0 6c Jc
+TANKER    959482274 10  7 c   rc    kc    k         2129  140    0 7h Ac
+TANKER    959482337  9  5 f   -     -     -         1989    0    0 
+TANKER    959482380 10  4 ccc kc    kc    kc        1989  200 1130 8s 7d
+TANKER    959482475 10  3 f   -     -     -         2919    0    0 
+TANKER    959482527 10  2 Bc  kc    kf    -         2919   60    0 
+TANKER    959482607  9  1 Bc  kc    kc    k         2859   80    0 Kc Js
+TANKER    959482645  9  9 f   -     -     -         2779    0    0 
+TANKER    959482684  9  8 c   c     c     k         2779   80  280 9d Jc
+TANKER    959482724  9  7 rc  c     rc    c         2979  240  790 8c Ac
+TANKER    959482783 10  6 c   k     f     -         3529   20    0 
+TANKER    959482822 10  5 c   f     -     -         3509   20    0 
+TANKER    959482872 10  4 f   -     -     -         3489    0    0 
+TANKER    959482947 10  3 f   -     -     -         3489    0    0 
+TANKER    959483003 10  2 Bc  bc    kc    kc        3489  160    0 Ks Qs
+TANKER    959483040 10  1 Bc  kc    k     k         3329   40    0 Jh 8c
+TANKER    959483082 10 10 c   c     c     k         3289   80    0 Js Qc
+TANKER    959483124 10  9 f   -     -     -         3209    0    0 
+TANKER    959483161 10  8 f   -     -     -         3209    0    0 
+TANKER    959483206 10  7 c   b     b     k         3209  100    0 Ad Js
+TANKER    959483244 10  6 f   -     -     -         3109    0    0 
+TANKER    959483305 10  5 c   k     k     b         3109   60   90 
+TANKER    959483333 10  4 cc  f     -     -         3139   40    0 
+TANKER    959483357 10  3 cc  rc    c     c         3099  180    0 Js Kh
+TANKER    959483406 10  2 Brc kc    kc    kf        2919  140    0 
+TANKER    959483449 10  1 Bc  k     b     b         2779  120  340 Qd Ks
+TANKER    959483495 10 10 c   f     -     -         2999   40    0 
+TANKER    959483525  9  8 f   -     -     -         2959    0    0 
+TANKER    959483550  9  7 f   -     -     -         2959    0    0 
+TANKER    959483576  9  6 f   -     -     -         2959    0    0 
+TANKER    959483603  9  5 f   -     -     -         2959    0    0 
+TANKER    959483622  9  4 f   -     -     -         2959    0    0 
+TANKER    959483692  9  4 cc  c     f     -         2959   60    0 
+TANKER    959483714  9  3 f   -     -     -         2899    0    0 
+TANKER    959483759  9  2 Bk  kf    -     -         2899   20    0 
+TANKER    959483790  9  1 Bf  -     -     -         2879   10    0 
+TANKER    959483820  9  9 f   -     -     -         2869    0    0 
+TANKER    959483848  9  8 f   -     -     -         2869    0    0 
+TANKER    959483896  9  7 c   c     kf    -         2869   40    0 
+TANKER    959483959  9  6 f   -     -     -         2829    0    0 
+TANKER    959484008  9  5 f   -     -     -         2829    0    0 
+TANKER    959484046 10  4 f   -     -     -         2829    0    0 
+TANKER    959484085 10  3 ccc c     c     f         2829  140    0 
+TANKER    959484149 10  2 Bk  b     bc    r         2689  200  210 Js 7s
+TANKER    959484197  9  1 Bf  -     -     -         2699   10    0 
+TANKER    959484225 10 10 f   -     -     -         2689    0    0 
+TANKER    959484261 10  9 c   r     k     -         2689   60  220 
+TANKER    959484305 10  8 c   k     k     f         2849   20    0 
+TANKER    959484350 10  7 cc  c     r     b         2829  180  410 5h 5d
+TANKER    959484396 10  6 f   -     -     -         3059    0    0 
+TANKER    959484442 10  5 f   -     -     -         3059    0    0 
+TANKER    959484472 10  4 r   kf    -     -         3059   40    0 
+TANKER    959484514 10  3 c   kf    -     -         3019   20    0 
+TANKER    959484542 10  2 Bf  -     -     -         2999   20    0 
+TANKER    959484553 10  1 Bf  -     -     -         2979   10    0 
+TANKER    959484614 10 10 c   c     r     k         2969  160  470 7s 7d
+TANKER    959484662 10  9 c   kf    -     -         3279   20    0 
+TANKER    959484695 10  8 f   -     -     -         3259    0    0 
+TANKER    959484717 10  7 c   c     k     f         3259   60    0 
+TANKER    959484756 10  6 ccc bc    kc    k         3199  160  510 Ac 4c
+TANKER    959484803 10  5 c   k     k     k         3549   20   50 Jc Kh
+TANKER    959484836 10  4 c   k     f     -         3579   20    0 
+TANKER    959484890 10  3 cc  kc    k     k         3559   60    0 Qh 3h
+TANKER    959484940 10  2 Bc  kf    -     -         3499   40    0 
+TANKER    959484989 10  1 Bf  -     -     -         3459   10    0 
+TANKER    959485036 10 10 f   -     -     -         3449    0    0 
+TANKER    959485063 10  9 f   -     -     -         3449    0    0 
+TANKER    959485103 10  8 f   -     -     -         3449    0    0 
+TANKER    959485137 10  7 c   bc    bc    kc        3449  180    0 Jd 5d
+TANKER    959485193 10  6 f   -     -     -         3269    0    0 
+TANKER    959485216 10  5 c   k     f     -         3269   20    0 
+TANKER    959485244 10  4 r   -     -     -         3249   40   70 
+TANKER    959485252 10  3 f   -     -     -         3279    0    0 
+TANKER    959485281 10  2 Bc  kf    -     -         3279   40    0 
+TANKER    959485302 10  1 Bf  -     -     -         3239   10    0 
+TANKER    959485370 10 10 c   c     c     f         3229   80    0 
+TANKER    959485405 10  9 c   k     c     f         3149   60    0 
+TANKER    959485453 10  8 f   -     -     -         3089    0    0 
+TANKER    959485495 10  7 f   -     -     -         3089    0    0 
+TANKER    959485535 10  6 f   -     -     -         3089    0    0 
+TANKER    959485573 10  5 f   -     -     -         3089    0    0 
+TANKER    959485628 10  4 f   -     -     -         3089    0    0 
+TANKER    959485670  9  2 f   -     -     -         3089    0    0 
+TANKER    959485697  8  2 Bc  k     kc    kf        3089   80    0 
+TANKER    959485737  8  1 Br  kc    kc    kc        3009  140    0 Jd Jh
+TANKER    959485778  8  8 rc  c     f     -         2869  100    0 
+TANKER    959485808  8  7 f   -     -     -         2769    0    0 
+TANKER    959485838  8  6 f   -     -     -         2769    0    0 
+TANKER    959485877  8  5 rc  cc    k     kc        2769  140    0 Qs Ac
+TANKER    959485929  8  4 cc  k     b     b         2629  120  350 
+TANKER    959485981  8  3 f   -     -     -         2859    0    0 
+TANKER    959486003  8  2 Bk  k     k     f         2859   20    0 
+TANKER    959486047  8  1 Bc  kf    -     -         2839   20    0 
+TANKER    959486076  8  8 f   -     -     -         2819    0    0 
+TANKER    959486107  9  7 f   -     -     -         2819    0    0 
+TANKER    959486151  8  5 c   f     -     -         2819   40    0 
+TANKER    959486174  8  4 c   kf    -     -         2779   20    0 
+TANKER    959486207  9  3 f   -     -     -         2759    0    0 
+TANKER    959486249  9  2 Bk  r     b     b         2759  140  240 
+TANKER    959486283  9  1 Bc  kf    -     -         2859   20    0 
+TANKER    959486317  9  9 f   -     -     -         2839    0    0 
+TANKER    959486364  9  8 c   c     k     c         2839  100    0 3s 3c
+TANKER    959486429  9  7 c   k     c     c         2739  140    0 As 6c
+TANKER    959486475  9  6 f   -     -     -         2599    0    0 
+TANKER    959486519  9  5 c   k     k     f         2599   20    0 
+TANKER    959486559  9  4 cc  c     k     c         2579  100    0 9d Ts
+TANKER    959486604  9  3 cc  kf    -     -         2479   40    0 
+TANKER    959486652  9  2 Bc  k     b     b         2439  120  330 9h 4h
+TANKER    959486710  9  1 Bc  kf    -     -         2649   40    0 
+TANKER    959486767  9  9 f   -     -     -         2609    0    0 
+TANKER    959486792  9  8 c   f     -     -         2609   40    0 
+TANKER    959486815  9  7 cc  kc    f     -         2569   80    0 
+TANKER    959486864  9  6 f   -     -     -         2489    0    0 
+TANKER    959486897  9  5 f   -     -     -         2489    0    0 
+TANKER    959486939  9  4 f   -     -     -         2489    0    0 
+TANKER    959486994 10  4 cc  kr    b     b         2489  160    0 Ad Jh
+TANKER    959487056 10  3 c   c     f     -         2329   40    0 
+TANKER    959487100 10  2 Bk  kc    k     kc        2289   80    0 2h 4h
+TANKER    959487143 10  1 Bf  -     -     -         2209   10    0 
+TANKER    959487191 10 10 cc  k     c     k         2199  100    0 3c Ah
+TANKER    959487247 10  9 r   br    r     r         2099  300 1010 Tc Th
+TANKER    959487363 10  8 cc  kf    -     -         2809   40    0 
+TANKER    959487420 10  7 f   -     -     -         2769    0    0 
+TANKER    959487462  9  6 cc  rr    rr    r         2769  360  900 3s 3c
+TANKER    959487529 10  5 cc  bc    kc    k         3309  120    0 Td 9h
+TANKER    959487595 10  4 f   -     -     -         3189    0    0 
+TANKER    959487647 10  3 c   kf    -     -         3189   20    0 
+TANKER    959487708 10  2 Bk  k     kf    -         3169   20    0 
+TANKER    959487747 10  1 Bc  kc    kf    -         3149   40    0 
+TANKER    959487808 10 10 r   b     b     b         3109  140  480 Td Th
+TANKER    959487897 10  9 f   -     -     -         3449    0    0 
+TANKER    959487946 10  8 f   -     -     -         3449    0    0 
+TANKER    959487995 10  7 f   -     -     -         3449    0    0 
+TANKER    959488055 10  6 c   k     f     -         3449   40    0 
+TANKER    959488088 10  5 f   -     -     -         3409    0    0 
+TANKER    959488136 10  4 f   -     -     -         3409    0    0 
+TANKER    959488183 10  3 fQ  -     -     -         3409    0    0 
+TANKER    959509542  7  2 Bc  kc    k     b         3409  100  210 Ts 9h
+TANKER    959509571  7  1 Bf  -     -     -         3519   10    0 
+TANKER    959509594  7  7 c   c     b     k         3509   80  290 Qh Tc
+TANKER    959509642  7  6 f   -     -     -         3719    0    0 
+TANKER    959509687  7  5 cc  kc    k     kf        3719   60    0 
+TANKER    959509715  7  4 f   -     -     -         3659    0    0 
+TANKER    959509755  7  3 cc  kc    kf    -         3659   60    0 
+TANKER    959509816  7  2 Bc  kc    kc    k         3599  100  210 5h Kh
+TANKER    959509836  7  1 Bf  -     -     -         3709   10    0 
+TANKER    959509871  6  6 c   f     -     -         3699   40    0 
+TANKER    959509879  6  6 c   c     c     f         3659   80    0 
+TANKER    959509900  6  5 f   -     -     -         3579    0    0 
+TANKER    959509919  6  4 c   c     k     f         3579   60    0 
+TANKER    959509949  6  3 f   -     -     -         3519    0    0 
+TANKER    959509953  6  2 Bk  b     -     -         3519   40   80 
+TANKER    959509967  6  1 Bf  -     -     -         3559   10    0 
+TANKER    959509986  6  6 c   k     f     -         3549   40    0 
+TANKER    959510012  6  5 f   -     -     -         3509    0    0 
+TANKER    959510024  6  4 f   -     -     -         3509    0    0 
+TANKER    959510054  6  3 c   kc    kf    -         3509   40    0 
+TANKER    959510093  6  2 Bk  k     k     f         3469   20    0 
+TANKER    959510130  6  1 Bf  -     -     -         3449   10    0 
+TANKER    959510151  6  6 f   -     -     -         3439    0    0 
+TANKER    959510172  6  5 r   b     r     -         3439  160  330 
+TANKER    959510221  6  4 f   -     -     -         3609    0    0 
+TANKER    959510239  6  3 cc  kc    k     b         3609  100  290 Kh 9h
+TANKER    959510269  6  2 Bk  k     f     -         3799   20    0 
+TANKER    959510291  6  1 Bf  -     -     -         3779   10    0 
+TANKER    959510298  6  6 c   c     c     f         3769  100    0 
+TANKER    959510318  6  5 c   c     c     f         3669   80    0 
+TANKER    959510347  6  4 c   b     b     -         3589   80  170 
+TANKER    959510372  6  3 f   -     -     -         3679    0    0 
+TANKER    959510388  6  2 Bk  kf    -     -         3679   20    0 
+TANKER    959510411  6  1 Bc  kc    kc    kc        3659  120    0 Kh 9h
+TANKER    959510443  6  6 c   c     c     k         3539   80  170 9c Td
+TANKER    959510463  6  5 c   k     k     f         3629   20    0 
+TANKER    959510495  6  4 f   -     -     -         3609    0    0 
+TANKER    959510526  7  3 cc  kc    kc    k         3609  100  230 9s 9h
+TANKER    959510562  8  2 Bk  kc    k     kf        3739   40    0 
+TANKER    959510606  8  1 Bc  b     -     -         3699   40   80 
+TANKER    959510628  9  9 c   f     -     -         3739   40    0 
+TANKER    959510650  9  8 f   -     -     -         3699    0    0 
+TANKER    959510673  8  6 c   c     c     r         3699  180  205 6s 6h
+TANKER    959510716  8  5 f   -     -     -         3724    0    0 
+TANKER    959510751  8  4 c   b     bc    c         3724  160    0 Qh 3h
+TANKER    959510783  8  3 f   -     -     -         3564    0    0 
+TANKER    959510862  7  2 Bk  k     k     k         3564   20    0 7h 3c
+TANKER    959510901  7  1 Bc  kc    kc    kc        3544  140    0 9s Ad
+TANKER    959510930  7  7 f   -     -     -         3404    0    0 
+TANKER    959510962  7  5 c   c     k     f         3404   40    0 
+TANKER    959511010  7  4 cc  c     c     k         3364  100    0 7h 7d
+TANKER    959511052  5  2 B   -     -     -         3264   20   30 
+TANKER    959511059  5  1 Bc  k     kf    -         3274   20    0 
+TANKER    959511085  5  5 c   k     k     k         3254   20    0 9s 7s
+TANKER    959511104  5  4 cc  br    b     bc        3234  220    0 6c 6d
+TANKER    959511139  5  3 f   -     -     -         3014    0    0 
+TANKER    959511149  5  2 Bk  kc    k     k         3014   40  110 Td Qc
+TANKER    959511178  5  1 Bc  b     -     -         3084   40  100 
+TANKER    959511196  5  5 cc  k     k     r         3144  120    0 Tc 3c
+TANKER    959511224  5  4 c   kf    -     -         3024   20    0 
+TANKER    959511251  6  4 f   -     -     -         3004    0    0 
+TANKER    959511278  6  3 f   -     -     -         3004    0    0 
+TANKER    959511291  6  2 Bk  kf    -     -         3004   20    0 
+TANKER    959511324  6  1 Bf  -     -     -         2984   10    0 
+TANKER    959511338  6  6 f   -     -     -         2974    0    0 
+TANKER    959511369  6  5 c   b     b     b         2974  120  230 
+TANKER    959511410  6  4 c   f     -     -         3084   20    0 
+TANKER    959511438  7  4 c   kf    -     -         3064   20    0 
+TANKER    959511487  7  3 c   b     b     b         3044  120  230 
+TANKER    959511511  7  2 Bk  kc    kc    k         3154   80    0 8s Qh
+TANKER    959511537  7  1 Bf  -     -     -         3074   10    0 
+TANKER    959511572  7  7 c   f     -     -         3064   20    0 
+TANKER    959511589  7  6 c   c     k     f         3044   60    0 
+TANKER    959511618  7  5 c   k     b     -         2984   60  120 
+TANKER    959511646  7  4 r   b     kc    k         3044  100    0 As Qh
+TANKER    959511681  7  3 f   -     -     -         2944    0    0 
+TANKER    959511701  7  2 Bf  -     -     -         2944   20    0 
+TANKER    959511743  7  1 Bc  k     kc    k         2924   60    0 Kc Js
+TANKER    959511774  7  7 f   -     -     -         2864    0    0 
+TANKER    959511804  8  7 c   f     -     -         2864   20    0 
+TANKER    959511824  7  5 c   c     r     -         2844  120  260 
+TANKER    959511851  7  4 c   c     c     f         2984   80    0 
+TANKER    959511884  7  3 cc  kc    k     k         2904   60  180 2c 4c
+TANKER    959511912  7  2 Bc  k     kc    kc        3024  120    0 As 2s
+TANKER    959511964  6  1 Bf  -     -     -         2904   10    0 
+TANKER    959511973  6  6 f   -     -     -         2894    0    0 
+TANKER    959511987  6  5 f   -     -     -         2894    0    0 
+TANKER    959512001  6  4 f   -     -     -         2894    0    0 
+TANKER    959512039  6  3 f   -     -     -         2894    0    0 
+TANKER    959512068  6  2 Bc  k     f     -         2894   40    0 
+TANKER    959512092  6  1 Bf  -     -     -         2854   10    0 
+TANKER    959512110  6  6 f   -     -     -         2844    0    0 
+TANKER    959512119  6  5 c   b     b     b         2844  120    0 8h 3h
+TANKER    959512161  6  4 c   k     f     -         2724   20    0 
+TANKER    959512187  6  3 cc  c     c     k         2704  100  300 Th Jc
+TANKER    959512223  6  2 Bc  k     kf    -         2904   60    0 
+TANKER    959512263  6  1 Bc  kf    -     -         2844   20    0 
+TANKER    959512304  6  6 f   -     -     -         2824    0    0 
+TANKER    959512327  5  4 f   -     -     -         2824    0    0 
+TANKER    959512337  5  3 f   -     -     -         2824    0    0 
+TANKER    959512361  5  2 Bf  -     -     -         2824   20    0 
+TANKER    959512369  5  1 Bc  k     k     k         2804   20   20 Jc 9s
+TANKER    959512388  5  5 c   f     -     -         2804   20    0 
+TANKER    959512405  6  5 r   b     b     c         2784  140    0 Ah 3h
+TANKER    959512430  6  4 f   -     -     -         2644    0    0 
+TANKER    959512457  6  3 r   c     f     -         2644   60    0 
+TANKER    959512476  6  2 Bf  -     -     -         2584   20    0 
+TANKER    959512481  6  1 Bf  -     -     -         2564   10    0 
+TANKER    959512487  6  6 c   k     k     k         2554   20   35 Qc 5c
+TANKER    959512509  6  5 c   f     -     -         2569   20    0 
+TANKER    959512535  6  4 crc c     b     c         2549  180    0 Ad Kh
+TANKER    959512571  7  4 f   -     -     -         2369    0    0 
+TANKER    959512593  8  4 f   -     -     -         2369    0    0 
+TANKER    959512623  9  4 c   b     k     c         2369   80    0 6h 6d
+TANKER    959512660  9  3 c   k     f     -         2289   20    0 
+TANKER    959512707  9  2 Br  b     b     b         2269  140  250 
+TANKER    959512738  9  1 Bf  -     -     -         2379   10    0 
+TANKER    959512768  9  9 f   -     -     -         2369    0    0 
+TANKER    959512800  8  7 f   -     -     -         2369    0    0 
+TANKER    959512822  8  6 c   r     b     b         2369  140  310 7d 8s
+TANKER    959512847  8  5 r   k     b     -         2539   80  210 
+TANKER    959512877  8  4 cc  kc    kc    k         2669  100    0 5d 5s
+TANKER    959512913  9  3 c   k     k     b         2569   60   65 7d 6c
+TANKER    959512949  9  2 Bf  -     -     -         2574   20    0 
+TANKER    959512973  9  1 Bc  k     b     b         2554  100  220 
+TANKER    959513014  9  9 c   f     -     -         2674   40    0 
+TANKER    959513059  9  8 c   c     b     b         2634  140  350 Jd 8c
+TANKER    959513096  9  7 c   k     k     k         2844   20   80 Ac 9h
+TANKER    959513122  9  6 f   -     -     -         2904    0    0 
+TANKER    959513143  9  5 f   -     -     -         2904    0    0 
+TANKER    959513177  9  4 f   -     -     -         2904    0    0 
+TANKER    959513224 10  4 c   kc    kc    k         2904   80    0 5c Tc
+TANKER    959513271 10  3 c   k     k     f         2824   20    0 
+TANKER    959513311 10  2 Bcc kc    kf    -         2804  100    0 
+TANKER    959513379 10  1 BQ  -     -     -         2704   10    0 
+TANKER    959558775 10  1 Bf  -     -     -         2954   10    0 
+TANKER    959558826 10 10 c   k     b     -         2944   60  100 
+TANKER    959558849 10  9 c   b     -     -         2984   40  130 
+TANKER    959558902 10  8 c   c     f     -         3074   40    0 
+TANKER    959558974 10  7 f   -     -     -         3034    0    0 
+TANKER    959559014 10  6 f   -     -     -         3259    0    0 
+TANKER    959559030 10  5 f   -     -     -         3259    0    0 
+TANKER    959559053 10  4 c   b     b     -         3259   80  180 
+TANKER    959559121 10  3 cc  kf    -     -         3349   40    0 
+TANKER    959559151 10  2 Bc  kf    -     -         3309   40    0 
+TANKER    959559196 10  1 Bf  -     -     -         3249   10    0 
+TANKER    959559251 10 10 c   f     -     -         3239   20    0 
+TANKER    959559289 10  9 f   -     -     -         3219    0    0 
+TANKER    959559354 10  8 c   c     k     k         3219   60    0 As 6c
+TANKER    959559440 10  7 c   c     c     r         3159  180  480 As 2s
+TANKER    959559514 10  6 cc  k     kf    -         3459   40    0 
+TANKER    959559557 10  5 c   f     -     -         3419   40    0 
+TANKER    959559589 10  4 f   -     -     -         3379    0    0 
+TANKER    959559636 10  3 cc  kc    k     k         3379   60    0 Ts Qc
+TANKER    959559677 10  2 Bf  -     -     -         3319   20    0 
+TANKER    959559724 10  1 Bc  kc    kf    -         3299   40    0 
+TANKER    959559780 10 10 c   k     c     c         3259  120  270 3d 5d
+TANKER    959559811 10  9 f   -     -     -         3409    0    0 
+TANKER    959559904 10  8 cc  kc    kf    -         3409   60    0 
+TANKER    959559984 10  7 c   cc    f     -         3349  140    0 
+TANKER    959560099 10  6 f   -     -     -         3209    0    0 
+TANKER    959560152 10  5 c   c     c     c         3209  140    0 As 8d
+TANKER    959560204 10  4 r   -     -     -         3069   40   70 
+TANKER    959560227 10  3 f   -     -     -         3099    0    0 
+TANKER    959560262 10  2 Bc  kf    -     -         3099   40    0 
+TANKER    959560299 10  1 Bc  bc    kc    kc        3059  200    0 7d Kd
+TANKER    959560361 10 10 c   cc    f     -         2859  120    0 
+TANKER    959560418 10  9 c   r     k     f         2739   80    0 
+TANKER    959560453 10  8 c   f     -     -         2659   40    0 
+TANKER    959560486 10  7 cc  kc    k     k         2619   60  240 5h 5d
+TANKER    959560545 10  6 c   k     k     k         2799   20    0 7s 6h
+TANKER    959560588 10  5 c   f     -     -         2779   20    0 
+TANKER    959560642 10  4 f   -     -     -         2759    0    0 
+TANKER    959560662 10  3 f   -     -     -         2759    0    0 
+TANKER    959560698 10  2 Bc  kf    -     -         2759   40    0 
+TANKER    959560735 10  1 Brc k     kf    -         2719   80    0 
+TANKER    959560797 10 10 f   -     -     -         2639    0    0 
+TANKER    959560840 10  9 cc  c     c     c         2639  160    0 9d Qc
+TANKER    959560878 10  8 f   -     -     -         2479    0    0 
+TANKER    959560923 10  7 f   -     -     -         2479    0    0 
+TANKER    959560999 10  6 f   -     -     -         2479    0    0 
+TANKER    959561036 10  5 c   cc    kf    -         2479   60    0 
+TANKER    959561087 10  4 f   -     -     -         2419    0    0 
+TANKER    959561132 10  3 c   kf    -     -         2419   20    0 
+TANKER    959561204 10  2 Bk  kf    -     -         2399   20    0 
+TANKER    959561263 10  1 Bc  k     k     kc        2379   80    0 7s 7h
+TANKER    959561290 10 10 c   f     -     -         2299   20    0 
+TANKER    959561343 10  9 f   -     -     -         2279    0    0 
+TANKER    959561402 10  8 r   b     -     -         2279   60  170 
+TANKER    959561454 10  7 cc  c     f     -         2389   60    0 
+TANKER    959561508 10  6 f   -     -     -         2329    0    0 
+TANKER    959561558 10  5 c   k     bc    b         2329  140  270 
+TANKER    959561587 10  4 f   -     -     -         2459    0    0 
+TANKER    959561645 10  3 c   b     k     k         2459   40    0 Th As
+TANKER    959561679 10  2 Bf  -     -     -         2419   20    0 
+TANKER    959561714 10  1 Bc  kcc   kc    kc        2399  160  440 Kh 9c
+TANKER    959561769 10 10 f   -     -     -         2679    0    0 
+TANKER    959561811 10  9 c   k     cc    f         2679  100    0 
+TANKER    959561878 10  8 cc  c     c     k         2579  100    0 8h 9c
+TANKER    959561921 10  7 c   b     -     -         2479   40   80 
+TANKER    959561984 10  6 f   -     -     -         2519    0    0 
+TANKER    959562043 10  5 f   -     -     -         2519    0    0 
+TANKER    959562082 10  4 f   -     -     -         2519    0    0 
+TANKER    959562138 10  3 cc  kf    -     -         2519   40    0 
+TANKER    959562216 10  2 Bf  -     -     -         2479   20    0 
+TANKER    959562250 10  1 Bc  kf    -     -         2459   40    0 
+TANKER    959562292 10 10 c   c     r     b         2419  160  310 
+TANKER    959562340 10  9 c   k     k     f         2569   20    0 
+TANKER    959562383 10  8 c   f     -     -         2549   20    0 
+TANKER    959562421 10  7 c   c     k     f         2529   80    0 
+TANKER    959562473 10  6 f   -     -     -         2449    0    0 
+TANKER    959562529 10  5 c   k     k     k         2449   20    0 Kc Td
+TANKER    959562590 10  4 c   kf    -     -         2429   20    0 
+TANKER    959562632 10  3 crc br    k     b         2409  180  610 
+TANKER    959562709 10  2 Bf  -     -     -         2839   20    0 
+TANKER    959562724 10  1 Bf  -     -     -         2819   10    0 
+TANKER    959562773 10 10 c   c     f     -         2809   60    0 
+TANKER    959562804 10  9 c   f     -     -         2749   40    0 
+TANKER    959562856 10  8 f   -     -     -         2709    0    0 
+TANKER    959562889 10  7 rc  kc    kc    kc        2709  160    0 As 3s
+TANKER    959562933 10  6 f   -     -     -         2549    0    0 
+TANKER    959563037 10  5 c   k     c     b         2549  100  240 7d 7c
+TANKER    959563077 10  4 cc  bc    cf    -         2689  120    0 
+TANKER    959563142 10  3 c   kf    -     -         2569   20    0 
+TANKER    959563192 10  2 Bf  -     -     -         2549   20    0 
+TANKER    959563224 10  1 Bf  -     -     -         2529   10    0 
+TANKER    959563272 10 10 f   -     -     -         2519    0    0 
+TANKER    959563300 10  9 r   r     b     b         2519  200  550 
+TANKER    959563351 10  8 cc  c     f     -         2869   60    0 
+TANKER    959563414 10  7 f   -     -     -         2809    0    0 
+TANKER    959563441 10  6 fQ  -     -     -         2809    0    0 
+TANKER    959581801 10  7 cc  kf    -     -         2799   40    0 
+TANKER    959581879 10  6 c   f     -     -         2699   20    0 
+TANKER    959581958 10  5 c   f     -     -         2659   20    0 
+TANKER    959582036 10  4 f   -     -     -         2974    0    0 
+TANKER    959582066 10  3 cc  kc    kf    -         2974   80    0 
+TANKER    959582124 10  2 Bf  -     -     -         2894   20    0 
+TANKER    959582193 10  1 Bf  -     -     -         2874   10    0 
+TANKER    959582247 10 10 c   f     -     -         2854   40    0 
+TANKER    959582288 10  9 f   -     -     -         2814    0    0 
+TANKER    959582351 10  8 r   r     c     k         2814  140    0 Qc Qh
+TANKER    959582429 10  7 cc  kf    -     -         2644   40    0 
+TANKER    959582510 10  6 c   kc    kf    -         2524   40    0 
+TANKER    959582625 10  5 cc  c     c     k         2439  100    0 8c 7c
+TANKER    959582695 10  4 f   -     -     -         2339    0    0 
+TANKER    959582752 10  3 f   -     -     -         2329    0    0 
+TANKER    959582806 10  2 Bk  kf    -     -         2309   20    0 
+TANKER    959582854 10  1 Bc  b     b     b         2259  120  320 8c 8d
+TANKER    959582902 10 10 c   c     r     b         2369  220  770 3d 6d
+TANKER    959582961 10  9 r   b     -     -         2919   60  110 
+TANKER    959583002 10  8 cc  c     kf    -         2959  100    0 
+TANKER    959583066 10  7 f   -     -     -         2849    0    0 
+TANKER    959583126  8  6 cc  f     -     -         2839   40    0 
+TANKER    959583162  8  5 cc  b     kc    bc        2799  180  500 Kd Jh
+TANKER    959583241  8  4 f   -     -     -         3464    0    0 
+TANKER    959583278  8  4 c   kf    -     -         3464   20    0 
+TANKER    959583329  7  2 Bk  k     k     kf        3374   20    0 
+TANKER    959583382  7  1 Bc  kc    kf    -         3264   40    0 
+TANKER    959583443  6  6 c   bc    c     c         3224  160  560 6c 7h
+TANKER    959583506  6  5 f   -     -     -         3584    0    0 
+TANKER    959583524  7  4 f   -     -     -         3584    0    0 
+TANKER    959583583  7  3 c   kc    k     kf        3514   40    0 
+TANKER    959583632  8  2 Bf  -     -     -         3454   20    0 
+TANKER    959583661  8  1 Bc  k     b     bc        3434  160  400 9s Td
+TANKER    959583702  8  8 c   cc    c     r         3674  260 1080 9c 9h
+TANKER    959583783  7  6 c   k     kf    -         4474   20    0 
+TANKER    959583851  7  5 c   c     k     f         4404   60    0 
+TANKER    959583904  7  4 f   -     -     -         4344    0    0 
+TANKER    959583924  7  3 cc  k     b     b         4344  120  270 5d As
+TANKER    959583956  7  2 Bk  k     b     bc        4494  140  340 9h As
+TANKER    959584001  6  1 Bf  -     -     -         4694   10    0 
+TANKER    959584035  7  6 f   -     -     -         4604    0    0 
+TANKER    959584060  7  5 c   k     kf    -         4604   20    0 
+TANKER    959584119  8  4 cc  k     f     -         4584   40    0 
+TANKER    959584166  8  3 f   -     -     -         4544    0    0 
+TANKER    959584207  7  2 Bc  kc    kc    kf        4544  100    0 
+TANKER    959584252  7  1 Bf  -     -     -         4444   10    0 
+TANKER    959584275  6  6 f   -     -     -         4434    0    0 
+TANKER    959584329  7  6 f   -     -     -         4434    0    0 
+TANKER    959584350  7  5 r   k     f     -         4434   40    0 
+TANKER    959584407  7  4 f   -     -     -         4394    0    0 
+TANKER    959584439  7  3 c   bc    kc    kc        4394  140    0 7h 6h
+TANKER    959584481  7  2 Bc  kf    -     -         4254   40    0 
+TANKER    959584506  7  1 Bf  -     -     -         4214   10    0 
+TANKER    959584535  7  7 c   k     c     c         4204  100    0 7h Jh
+TANKER    959584573  8  7 c   c     c     c         4104  180    0 Kd 9h
+TANKER    959584625  7  5 cc  kc    c     f         3924  100    0 
+TANKER    959584699  8  4 cc  kf    -     -         3824   40    0 
+TANKER    959584749  8  3 cc  c     k     k         3784   60  260 6h 7s
+TANKER    959584793  8  2 Bk  kcc   kf    -         3984   80    0 
+TANKER    959584844  8  1 Bf  -     -     -         3904   10    0 
+TANKER    959584885  8  8 c   f     -     -         3894   20    0 
+TANKER    959584938 10  9 f   -     -     -         3874    0    0 
+TANKER    959585003 10  8 c   c     f     -         3874   60    0 
+TANKER    959585059 10  7 f   -     -     -         3814    0    0 
+TANKER    959585097 10  6 f   -     -     -         3814    0    0 
+TANKER    959585135  9  5 crc rc    c     c         3814  220  440 Ac 7c
+TANKER    959585230  8  4 f   -     -     -         4034    0    0 
+TANKER    959585272  9  3 c   kc    k     brrc      4034  300  750 4s 6s
+TANKER    959585320  9  2 Bc  bc    kc    kc        4484  160    0 Tc 9d
+TANKER    959585361  9  1 Bc  kc    kc    k         4324  100  300 7h 8s
+TANKER    959585407  8  8 f   -     -     -         4524    0    0 
+TANKER    959585464  8  7 f   -     -     -         4524    0    0 
+TANKER    959585502  8  6 c   c     c     c         4524  140    0 3s 2s
+TANKER    959585542  9  5 cc  kf    -     -         4384   40    0 
+TANKER    959585570  9  4 c   f     -     -         4344   20    0 
+TANKER    959585607  9  3 cc  kf    -     -         4324   40    0 
+TANKER    959585658  9  2 Bk  kf    -     -         4284   20    0 
+TANKER    959585681 10  1 Bc  kf    -     -         4264   20    0 
+TANKER    959585706 10 10 c   c     c     c         4244  140  470 Jh 9d
+TANKER    959585752 10  9 c   c     c     c         4574  160    0 4c Tc
+TANKER    959585795 10  8 cc  f     -     -         4414   80    0 
+TANKER    959585843 10  7 f   -     -     -         4334    0    0 
+TANKER    959585892 10  6 r   c     c     c         4334  140  440 Qh Ks
+TANKER    959585932 10  5 f   -     -     -         4634    0    0 
+TANKER    959585951 10  4 c   kc    kf    -         4634   40    0 
+TANKER    959586040 10  3 f   -     -     -         4594    0    0 
+TANKER    959586078 10  2 Bf  -     -     -         4594   20    0 
+TANKER    959586124 10  1 Bf  -     -     -         4574   10    0 
+TANKER    959586159 10 10 cc  c     cc    c         4564  300    0 2c Qc
+TANKER    959586243 10  9 f   -     -     -         4264    0    0 
+TANKER    959586295 10  8 c   f     -     -         4264   40    0 
+TANKER    959586359 10  7 f   -     -     -         4224    0    0 
+TANKER    959586381 10  6 f   -     -     -         4224    0    0 
+TANKER    959586426 10  5 f   -     -     -         4224    0    0 
+TANKER    959586468 10  4 f   -     -     -         4224    0    0 
+TANKER    959586497 10  3 c   k     k     kf        4224   20    0 
+TANKER    959586543 10  2 Br  cc    kc    k         4204  120    0 Ah Qh
+TANKER    959586581 10  1 Bf  -     -     -         4084   10    0 
+TANKER    959586623 10 10 f   -     -     -         4074    0    0 
+TANKER    959586665 10  3 Q   -     -     -         4074    0    0 
+TANKER    959813162  4  2 Bc  c     b     b         4064  140  380 3h 3c
+TANKER    959813192  4  1 Bf  -     -     -         4264   10    0 
+TANKER    959813206  4  4 c   c     k     b         4254   80  160 
+TANKER    959813223  4  3 c   kc    k     k         4334   40  120 7s Js
+TANKER    959813249  4  2 Bc  c     f     -         4414   60    0 
+TANKER    959813264  5  1 Bc  kc    k     k         4354   40  100 6c Ac
+TANKER    959813287  5  5 f   -     -     -         4414    0    0 
+TANKER    959813299  5  4 c   f     -     -         4394   20    0 
+TANKER    959813313  5  3 f   -     -     -         4374    0    0 
+TANKER    959813325  5  2 B   -     -     -         4374   20   30 
+TANKER    959813329  5  1 Bcc kc    kc    kf        4384  140    0 
+TANKER    959813369  5  5 f   -     -     -         4244    0    0 
+TANKER    959813397  5  4 cc  k     k     k         4244   40    0 3s 2s
+TANKER    959813429  5  3 c   kf    -     -         4384   20    0 
+TANKER    959813447  5  2 Bk  kf    -     -         4364   20    0 
+TANKER    959813457  5  1 Bf  -     -     -         4344   10    0 
+TANKER    959813461  5  5 c   c     f     -         4334   40    0 
+TANKER    959813483  5  4 c   c     f     -         4294   40    0 
+TANKER    959813501  5  3 c   c     c     rr        4254  240  510 Kc Kd
+TANKER    959813528  5  2 Bk  b     -     -         4519   40   60 
+TANKER    959813544  5  1 Bcc b     -     -         4539   60  100 
+TANKER    959813567  5  5 f   -     -     -         4579    0    0 
+TANKER    959813588  6  5 f   -     -     -         4579    0    0 
+TANKER    959813625  6  4 cc  kc    kr    k         4579  140  155 Ad 2d
+TANKER    959813664  6  3 c   b     -     -         4564   40   80 
+TANKER    959813683  6  2 Bk  kf    -     -         4604   20    0 
+TANKER    959813716  7  1 Bcc kc    k     kf        4899   60    0 
+TANKER    959813771  7  7 f   -     -     -         4839    0    0 
+TANKER    959813780  7  6 c   f     -     -         4839   20    0 
+TANKER    959813798  7  5 cc  f     -     -         4819   40    0 
+TANKER    959813857  7  4 c   k     c     c         4779  100    0 7h 7s
+TANKER    959813914  7  3 c   f     -     -         4639   20    0 
+TANKER    959813937  7  2 Bc  kc    kf    -         4599   60    0 
+TANKER    959813967  7  1 Bf  -     -     -         4539   10    0 
+TANKER    959813995  7  7 c   f     -     -         4529   20    0 
+TANKER    959814014  7  6 c   f     -     -         4469   20    0 
+TANKER    959814043  6  4 c   b     b     -         4449   80  130 
+TANKER    959814061  6  3 c   k     k     b         4499   60  110 
+TANKER    959814089  6  2 Bk  k     kc    kf        4549   60    0 
+TANKER    959814131  5  1 Bc  kc    kc    kc        4479  140    0 9s Jc
+TANKER    959814170  5  5 c   k     f     -         4334   20    0 
+TANKER    959814190  6  5 f   -     -     -         4314    0    0 
+TANKER    959814196  5  4 c   b     b     -         4314   80  150 
+TANKER    959814227  5  3 f   -     -     -         4384    0    0 
+TANKER    959814275  5  2 B   -     -     -         4344   20   30 
+TANKER    959814285  5  1 Bc  kc    b     -         4354   80  160 
+TANKER    959814335  5  5 c   c     k     k         4414   40  120 8d 7d
+TANKER    959814371  6  4 f   -     -     -         4494    0    0 
+TANKER    959814400  6  3 c   kc    bc    kf        4494  140    0 
+TANKER    959814440  6  2 Bk  kf    -     -         4304   20    0 
+TANKER    959814459  6  1 Bc  kf    -     -         4274   20    0 
+TANKER    959814483  6  6 c   c     b     b         4254  140  390 Qs Kh
+TANKER    959814541  7  6 c   k     k     b         4504   60   90 
+TANKER    959814566  7  5 f   -     -     -         4534    0    0 
+TANKER    959814577  7  4 cc  kf    -     -         4534   40    0 
+TANKER    959814605  7  3 c   kc    kf    -         4494   40    0 
+TANKER    959814637  7  2 Bk  kc    kc    kc        4454  120  290 Tc Js
+TANKER    959814669  7  1 Bcc b     -     -         4624   60  100 
+TANKER    959814691  7  7 cc  ccc   c     f         4664  180    0 
+TANKER    959814756  7  6 f   -     -     -         4484    0    0 
+TANKER    959814781  7  5 f   -     -     -         4484    0    0 
+TANKER    959814816  7  4 f   -     -     -         4484    0    0 
+TANKER    959814882  7  3 c   k     k     c         4484   60    0 Jc Kh
+TANKER    959814926  7  2 B   -     -     -         4424   20   30 
+TANKER    959814938  6  1 Bf  -     -     -         4434   10    0 
+TANKER    959814976  6  6 c   k     f     -         4424   20    0 
+TANKER    959814999  6  5 c   b     -     -         4404   40   80 
+TANKER    959815015  6  4 f   -     -     -         4444    0    0 
+TANKER    959815034  7  3 f   -     -     -         4444    0    0 
+TANKER    959815072  7  2 Bk  kcc   kf    -         4444   80    0 
+TANKER    959815126  7  1 Bf  -     -     -         4364   10    0 
+TANKER    959815131  7  7 c   c     f     -         4354   60    0 
+TANKER    959815146  9  8 cc  f     -     -         4294   40    0 
+TANKER    959815178  9  7 c   c     c     c         4254  120    0 8c 8h
+TANKER    959815214  9  6 f   -     -     -         4134    0    0 
+TANKER    959815251  9  5 f   -     -     -         4134    0    0 
+TANKER    959815287  9  4 f   -     -     -         4134    0    0 
+TANKER    959815328 10  3 cc  bc    br    bc        4134  280    0 4s 3c
+TANKER    959815386 10  2 Bcc kf    -     -         3854   80    0 
+TANKER    959815428 10  1 Bf  -     -     -         3774   10    0 
+TANKER    959815451 10 10 c   f     -     -         3764   20    0 
+TANKER    959815471 10  9 f   -     -     -         3744    0    0 
+TANKER    959815498 10  8 f   -     -     -         3744    0    0 
+TANKER    959815521 10  7 c   k     k     k         3744   20    0 6c 7s
+TANKER    959815551 10  6 f   -     -     -         3724    0    0 
+TANKER    959815619 10  5 cc  kc    kc    kc        3724  140  350 2d Kd
+TANKER    959815674 10  4 cc  f     -     -         3934   60    0 
+TANKER    959815728 10  3 cc  kf    -     -         3874   40    0 
+TANKER    959815756 10  2 Bc  kf    -     -         3834   40    0 
+TANKER    959815790 10  1 Bc  kf    -     -         3794   40    0 
+TANKER    959815854 10 10 f   -     -     -         3754    0    0 
+TANKER    959815898 10  9 c   f     -     -         3754   40    0 
+TANKER    959815919 10  8 r   f     -     -         3714   40    0 
+TANKER    959815967 10  7 c   c     cc    kf        3674  180    0 
+TANKER    959816023 10  6 c   c     f     -         3494   40    0 
+TANKER    959816084 10  5 c   k     kf    -         3454   20    0 
+TANKER    959816148 10  4 c   c     c     k         3434   80    0 Ks Jd
+TANKER    959816187 10  3 f   -     -     -         3354    0    0 
+TANKER    959816222 10  2 Bk  bc    kc    kc        3354  140    0 8s Ks
+TANKER    959816262 10  1 Bf  -     -     -         3214   10    0 
+TANKER    959816297 10 10 c   bc    f     -         3204   60    0 
+TANKER    959816391 10  9 f   -     -     -         3144    0    0 
+TANKER    959816439 10  8 c   kf    -     -         3144   20    0 
+TANKER    959816490 10  7 c   k     k     r         3124  100  180 Ks 5s
+TANKER    959816575 10  6 cc  c     b     -         3204  140  520 
+TANKER    959816635 10  5 cc  c     c     r         3584  180  570 Ah 4s
+TANKER    959816686 10  4 cc  f     -     -         3974   40    0 
+TANKER    959816708 10  3 f   -     -     -         3934    0    0 
+TANKER    959816755 10  2 Bk  b     b     b         3934  120    0 5s 5c
+TANKER    959816799 10  1 Bc  kf    -     -         3814   20    0 
+TANKER    959816864 10 10 c   f     -     -         3794   20    0 
+TANKER    959816905 10  9 c   k     k     k         3774   20    0 Jd 9s
+TANKER    959816971 10  8 f   -     -     -         3754    0    0 
+TANKER    959817015 10  7 c   f     -     -         3754   20    0 
+TANKER    959817091 10  6 f   -     -     -         3734    0    0 
+TANKER    959817119 10  5 c   kc    kc    kc        3734  120  300 6s Ah
+TANKER    959817160 10  4 f   -     -     -         3914    0    0 
+TANKER    959817177 10  3 cc  kc    kc    k         3914  100  370 Jc Kd
+TANKER    959817231 10  2 Bf  -     -     -         4184   20    0 
+TANKER    959817259 10  1 Br  b     b     bc        4164  180    0 Kh Ah
+TANKER    959817311 10 10 c   c     k     k         3984   80    0 Kh Ts
+TANKER    959817357 10  9 f   -     -     -         3904    0    0 
+TANKER    959817448 10  8 c   k     k     k         3904   40    0 2c 2d
+TANKER    959817531 10  7 cc  kcc   kc    k         3864  140    0 Qc 8s
+TANKER    959817607 10  6 f   -     -     -         3724    0    0 
+TANKER    959817657 10  5 c   kc    b     b         3724  120  460 Kh Js
+TANKER    959817726 10  4 f   -     -     -         4064    0    0 
+TANKER    959817787 10  3 c   k     kf    -         4064   20    0 
+TANKER    959817886  9  2 Bk  kf    -     -         4044   20    0 
+TANKER    959817924  9  1 Bf  -     -     -         4024   10    0 
+TANKER    959818002  9  9 f   -     -     -         4014    0    0 
+TANKER    959818049 10  9 cc  f     -     -         4014   40    0 
+TANKER    959818110 10  8 f   -     -     -         3974    0    0 
+TANKER    959818210 10  7 cc  kf    -     -         3974   40    0 
+TANKER    959818275 10  6 f   -     -     -         3934    0    0 
+TANKER    959818339 10  5 r   -     -     -         3934   40   70 
+TANKER    959818351 10  4 c   kf    -     -         3964   20    0 
+TANKER    959818423  9  3 f   -     -     -         3944    0    0 
+TANKER    959818457  9  2 Bc  kc    kc    k         3944  120    0 9s Qd
+TANKER    959818542  8  1 Bf  -     -     -         3824   10    0 
+TANKER    959818576  8  8 f   -     -     -         3814    0    0 
+TANKER    959818598  8  7 f   -     -     -         3814    0    0 
+TANKER    959818607  7  5 f   -     -     -         3814    0    0 
+TANKER    959818631  7  4 cc  kcc   kr    b         3814  220  590 
+TANKER    959818677  7  3 f   -     -     -         4184    0    0 
+TANKER    959818697  7  2 Bf  -     -     -         4184   20    0 
+TANKER    959818726  6  1 Bc  k     k     b         4164   80  220 
+TANKER    959818760  7  6 f   -     -     -         4304    0    0 
+TANKER    959818768  7  5 f   -     -     -         4304    0    0 
+TANKER    959818804  8  4 f   -     -     -         4304    0    0 
+TANKER    959818819  8  3 c   b     b     kf        4304   80    0 
+TANKER    959818858  9  2 Bk  b     -     -         4224   40   70 
+TANKER    959818883  8  1 Bf  -     -     -         4254   10    0 
+TANKER    959818900  8  8 f   -     -     -         4244    0    0 
+TANKER    959818948  8  7 f   -     -     -         4244    0    0 
+TANKER    959818983  8  6 c   k     f     -         4244   20    0 
+TANKER    959819022  8  5 r   br    b     b         4224  200  450 
+TANKER    959819082  8  4 cc  k     c     b         4474  120  340 4h 4s
+TANKER    959819143  8  4 cc  k     kc    kf        4694   80    0 
+TANKER    959819181  7  2 Bk  kf    -     -         4614   20    0 
+TANKER    959819239  7  1 Bc  kf    -     -         4594   20    0 
+TANKER    959819266  7  7 f   -     -     -         4574    0    0 
+TANKER    959819284  7  6 c   k     k     k         4574   20   50 Ac 3d
+TANKER    959819311  7  5 f   -     -     -         4604    0    0 
+TANKER    959819331  7  4 f   -     -     -         4604    0    0 
+TANKER    959819348  7  3 c   k     b     b         4604  100  180 
+TANKER    959819385  6  2 Bk  kf    -     -         4684   20    0 
+TANKER    959819418  7  1 Bc  b     -     -         4664   60  180 
+TANKER    959819444  7  7 f   -     -     -         4784    0    0 
+TANKER    959819451  7  6 f   -     -     -         4784    0    0 
+TANKER    959819488  7  5 f   -     -     -         4784    0    0 
+TANKER    959819525  6  4 f   -     -     -         4784    0    0 
+TANKER    959819577  6  3 f   -     -     -         4784    0    0 
+TANKER    959819598  6  2 Bc  k     kf    -         4784   60    0 
+TANKER    959819631  6  1 Bc  k     kf    -         4724   40    0 
+TANKER    959819656  6  6 f   -     -     -         4684    0    0 
+TANKER    959819667  6  5 c   b     -     -         4684   40   80 
+TANKER    959819682  6  4 cc  kf    -     -         4724   40    0 
+TANKER    959819721  6  3 cc  k     b     -         4684   80  180 
+TANKER    959819766  6  2 Bk  k     kf    -         4784   20    0 
+TANKER    959819823  7  1 BQ  -     -     -         4764   10    0 

@@ -1,0 +1,61 @@
+X-RAY     957927129  3  2 Bc  kc    kf    -         2946   30    0 
+X-RAY     957927158  3  1 Bcc kf    -     -         2916   20    0 
+X-RAY     957927188  3  3 c   b     -     -         2896   20   35 
+X-RAY     957927201  3  2 Bc  kc    k     k         2911   30    0 Ts Jh
+X-RAY     957927222  3  1 Bcc kf    -     -         2881   20    0 
+X-RAY     957927241  3  3 c   c     c     c         2861   60  130 Ac 7h
+X-RAY     957927263  3  2 Bc  kc    kc    kc        2931   70  145 Ts Ks
+X-RAY     957927286  3  1 Bf  -     -     -         3006    5    0 
+X-RAY     957927315  3  3 cc  c     c     c         3001   70    0 Jh 9d
+X-RAY     957927334  3  2 Bf  -     -     -         2931   10    0 
+X-RAY     957927361  3  1 Bcc kc    k     k         2921   30   60 Js Ac
+X-RAY     957927380  3  3 cc  r     b     b         2951   80  170 2h 2d
+X-RAY     957927401  3  2 Bc  kc    kr    b         3041   90  185 As Ah
+X-RAY     957927425  3  1 Bcc kc    kc    kc        3136   70   70 Kc 5s
+X-RAY     957927447  4  3 f   -     -     -         3136    0    0 
+X-RAY     957927469  4  2 Bc  kc    kc    kc        3136   70    0 4d Ad
+X-RAY     957927491  4  1 Bcc kc    kc    kc        3066   90  220 3c 2c
+X-RAY     957927541  4  4 cc  c     c     k         3196   60  240 Ac 4d
+X-RAY     957927591  3  2 f   -     -     -         3376    0    0 
+X-RAY     957927604  3  2 Bk  k     k     k         3376   10   10 8h 4s
+X-RAY     957927632  2  1 Bc  kc    kc    kr        3376   80    0 Td 5c
+X-RAY     957927661  2  2 Bk  c     rc    k         3296   80   80 6c 9h
+X-RAY     957927686  2  1 Bc  kc    kc    kc        3296   60  120 3h 8s
+X-RAY     957927708  2  2 Bk  f     -     -         3356   10    0 
+X-RAY     957927721  2  1 Bc  kf    -     -         3346   10    0 
+X-RAY     957927732  2  2 Bk  k     k     k         3336   10   20 2h 6c
+X-RAY     957927744  2  1 Bc  k     kc    kf        3346   30    0 
+X-RAY     957927770  2  2 Bk  k     b     -         3316   30   40 
+X-RAY     957927785  2  1 Bc  k     k     b         3326   30   60 9c Qs
+X-RAY     957927801  2  2 Bc  c     c     k         3356   50    0 4h 5d
+X-RAY     957927819  2  1 Bc  bc    kc    k         3306   50  100 Ah Jh
+X-RAY     957927842  2  2 Bc  b     b     -         3356   50   80 
+X-RAY     957927860  2  1 Bc  k     k     k         3386   10    0 Ks Jc
+X-RAY     957927871  2  2 Bk  c     c     k         3376   40   80 Ks 9h
+X-RAY     957927889  2  1 Bc  kc    kc    kc        3416   60    0 Js As
+X-RAY     957927915  2  2 Bk  k     k     k         3356   10   20 2s 2d
+X-RAY     957927932  2  1 Bf  -     -     -         3366    5    0 
+X-RAY     957927940  2  2 Bk  f     -     -         3361   10    0 
+X-RAY     957927948  2  1 Bc  kc    k     k         3351   20    0 2c Ah
+X-RAY     957927965  2  2 Bk  k     f     -         3331   10    0 
+X-RAY     957927978  2  1 Bc  k     k     k         3321   10   10 Qd 4d
+X-RAY     957927988  2  2 Bk  b     -     -         3321   20   30 
+X-RAY     957927999  2  1 Bc  b     -     -         3331   20   30 
+X-RAY     957928005  2  2 Bk  k     k     f         3341   10    0 
+X-RAY     957928022  2  1 Bc  k     b     -         3331   30   40 
+X-RAY     957928038  2  2 Bk  k     k     c         3341   30   60 6d Td
+X-RAY     957928054  2  1 Bc  k     k     k         3371   10    0 4c 3h
+X-RAY     957928070  2  2 B   -     -     -         3361   10   15 
+X-RAY     957928075  2  1 Bc  k     kc    kc        3366   50  100 2c 4d
+X-RAY     957928098  2  2 Bk  k     k     k         3416   10    0 5d 2c
+X-RAY     957928114  2  1 Bc  kc    kc    kf        3406   40    0 
+X-RAY     957928135  2  2 Bk  c     k     k         3366   20   40 5c 4d
+X-RAY     957928149  2  1 Bc  k     k     k         3386   10    0 5d 8c
+X-RAY     957928162  2  2 Bk  k     f     -         3376   10    0 
+X-RAY     957928175  2  1 Bc  k     k     k         3366   10    0 4c 3d
+X-RAY     957928188  2  2 Bk  r     b     -         3356   50   80 
+X-RAY     957928205  2  1 Bc  b     b     bc        3386   80  160 9s Th
+X-RAY     957928221  2  2 Bk  c     f     -         3466   20    0 
+X-RAY     957928235  3  1 Bc  k     k     k         3446   10   10 Jc Td
+X-RAY     957928260  4  3 c   k     k     k         3446   10    0 8s Jh
+X-RAY     957928288  5  2 Bk  kQ    -     -         3436   10    0 

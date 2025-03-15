@@ -1,0 +1,936 @@
+Unicorn   958079138  9  8 c   c     f     -          837   30    0 
+Unicorn   958079205  7  6 f   -     -     -          807    0    0 
+Unicorn   958079229  7  5 f   -     -     -          807    0    0 
+Unicorn   958079261  7  4 f   -     -     -          807    0    0 
+Unicorn   958079287  7  3 cf  -     -     -          807   10    0 
+Unicorn   958079338  6  2 Br  k     r     b          797   80    0 Ah 7h
+Unicorn   958079373  6  1 Bcc kr    b     b          717   80    0 7c 8s
+Unicorn   958079414  6  6 c   c     c     r          637  120  375 5c Kc
+Unicorn   958079443  6  5 f   -     -     -          892    0    0 
+Unicorn   958079471  6  5 f   -     -     -          892    0    0 
+Unicorn   958079489  5  3 r   k     k     k          892   20    0 Qd 9s
+Unicorn   958079504  5  2 Bf  -     -     -          872   10    0 
+Unicorn   958079518  5  1 Br  b     -     -          862   30   60 
+Unicorn   958079527  5  5 cc  c     r     b          892   90  260 9s Jc
+Unicorn   958079567  5  4 r   bc    f     -         1062   40    0 
+Unicorn   958079598  5  4 cc  c     r     b         1022   90  190 
+Unicorn   958079641  4  2 Bf  -     -     -         1122   10    0 
+Unicorn   958079662  4  1 Bf  -     -     -         1112    5    0 
+Unicorn   958079689  4  4 f   -     -     -         1107    0    0 
+Unicorn   958079700  4  3 r   b     -     -         1107   30   60 
+Unicorn   958079708  4  2 Bc  kc    kc    kc        1137   70    0 7h Kh
+Unicorn   958079735  4  1 Bc  kf    -     -         1067   10    0 
+Unicorn   958079768  5  5 f   -     -     -         1057    0    0 
+Unicorn   958079781  5  4 rc  f     -     -         1057   30    0 
+Unicorn   958079815  4  3 c   f     -     -         1027   10    0 
+Unicorn   958079860  5  2 Bk  k     f     -         1017   10    0 
+Unicorn   958079916  4  1 Bc  k     b     k         1007   30    0 Qs 3d
+Unicorn   958079934  4  4 r   b     k     k          977   30    0 Kc 3s
+Unicorn   958079957  5  4 f   -     -     -          947    0    0 
+Unicorn   958079979  5  3 r   b     -     -          947   30   75 
+Unicorn   958079992  5  2 Br  bf    -     -          992   40    0 
+Unicorn   958080011  5  1 Bf  -     -     -          952    5    0 
+Unicorn   958080035  5  5 c   r     b     b          947   70    0 5s 7s
+Unicorn   958080069  5  4 f   -     -     -          877    0    0 
+Unicorn   958080137  5  3 rr  b     bc    kc         877  110    0 7d 7s
+Unicorn   958080189  5  2 Bk  b     b     k          767   40    0 5h 3h
+Unicorn   958080223  5  1 Bf  -     -     -          727    5    0 
+Unicorn   958080264  4  4 r   b     k     k          722   30    0 Qs 3c
+Unicorn   958080316  4  3 rc  f     -     -          692   30    0 
+Unicorn   958080337  4  2 Br  b     k     k          662   30    0 Ad Ts
+Unicorn   958080366  5  1 Br  b     b     b          632   80  190 Td Tc
+Unicorn   958080397  5  5 c   f     -     -          742   10    0 
+Unicorn   958080434  5  4 f   -     -     -          732    0    0 
+Unicorn   958080466  5  3 f   -     -     -          732    0    0 
+Unicorn   958080477  5  2 B   -     -     -          732   10   15 
+Unicorn   958080483  5  1 BfQ -     -     -          737    5    0 
+Unicorn   958103222  7  4 r   r     c     f         1025   60    0 
+Unicorn   958103254  7  3 f   -     -     -          965    0    0 
+Unicorn   958103303  7  2 Bk  k     brc   kf         965   90    0 
+Unicorn   958103398  7  1 Bf  -     -     -          875    5    0 
+Unicorn   958103451  5  5 c   f     -     -          870   10    0 
+Unicorn   958103482  5  4 rc  kc    kr    b          860  100  215 4d Ah
+Unicorn   958103511  5  3 r   -     -     -          975   20   35 
+Unicorn   958103538  6  2 Bc  kc    kr    b          990   90    0 Ks Jh
+Unicorn   958103609  4  1 Bc  b     b     bc         900   80    0 6d 9h
+Unicorn   958103635  5  5 r   bc    rr    k          820  120    0 Jh Ah
+Unicorn   958103658  5  4 r   k     k     k          700   30    0 4s 9s
+Unicorn   958103677  5  3 r   b     b     br         670  110  390 As Ac
+Unicorn   958103716  7  3 f   -     -     -          950    0    0 
+Unicorn   958103753  8  2 Bc  kc    kf    -          950   30    0 
+Unicorn   958103786  9  1 Br  kc    kf    -          920   40    0 
+Unicorn   958103870 10 10 r   b     b     k          880   50  190 Qc Qd
+Unicorn   958103936 10  9 r   f     -     -         1020   20    0 
+Unicorn   958103984 10  8 c   k     f     -         1000   10    0 
+Unicorn   958104063 10  7 c   r     b     k          990   50    0 2h 4h
+Unicorn   958104129 10  6 f   -     -     -          940    0    0 
+Unicorn   958104190 10  5 rc  b     b     c          940   80    0 As Td
+Unicorn   958104284 10  4 f   -     -     -          860    0    0 
+Unicorn   958104332 10  3 cc  bc    kc    kf         860   60    0 
+Unicorn   958104374 10  2 Bc  kcc   r     b          800  120  350 7c Kc
+Unicorn   958104454 10  1 Brr bc    kr    br        1030  200 1160 Td Ad
+Unicorn   958104609  9  9 c   f     -     -         1990   10    0 
+Unicorn   958104662  8  8 r   b     b     b         1980   70  145 
+Unicorn   958104703 10  8 c   kf    -     -         2055   20    0 
+Unicorn   958104770 10  7 c   kf    -     -         2035   20    0 
+Unicorn   958104857  9  5 f   -     -     -         2015    0    0 
+Unicorn   958104916 10  4 cc  cc    f     -         2015   50    0 
+Unicorn   958104975 10  3 f   -     -     -         1965    0    0 
+Unicorn   958105021 10  2 Bk  f     -     -         1965   10    0 
+Unicorn   958105067 10  1 Bc  b     b     b         1955   60  260 2c Qc
+Unicorn   958105126 10 10 c   f     -     -         2155   20    0 
+Unicorn   958105178 10  9 f   -     -     -         2135    0    0 
+Unicorn   958105257 10  8 f   -     -     -         2135    0    0 
+Unicorn   958105297  9  6 c   c     c     c         2135   70  120 6h 9h
+Unicorn   958105354  8  5 rc  rr    r     rc        2185  180    0 As Ad
+Unicorn   958105425  7  4 f   -     -     -         2005    0    0 
+Unicorn   958105527  8  3 f   -     -     -         2005    0    0 
+Unicorn   958105562  8  2 Bc  b     k     k         2005   30   75 5s Kh
+Unicorn   958105619 10  1 Bc  kf    -     -         2050   10    0 
+Unicorn   958105717 10 10 f   -     -     -         2040    0    0 
+Unicorn   958105803 10  9 c   f     -     -         2040   20    0 
+Unicorn   958105867 10  8 f   -     -     -         2020    0    0 
+Unicorn   958105952 10  7 f   -     -     -         2020    0    0 
+Unicorn   958106009 10  6 c   b     c     f         2020   40    0 
+Unicorn   958106073 10  5 f   -     -     -         1980    0    0 
+Unicorn   958106124 10  4 c   f     -     -         1980   10    0 
+Unicorn   958106159 10  3 f   -     -     -         1970    0    0 
+Unicorn   958106204 10  2 Bc  f     -     -         1970   20    0 
+Unicorn   958106240 10  1 Bc  kf    -     -         1950   20    0 
+Unicorn   958106326 10 10 f   -     -     -         1930    0    0 
+Unicorn   958106399 10  9 f   -     -     -         1930    0    0 
+Unicorn   958106456 10  8 f   -     -     -         1930    0    0 
+Unicorn   958106513 10  7 f   -     -     -         1930    0    0 
+Unicorn   958106567 10  6 cc  kf    -     -         1930   20    0 
+Unicorn   958106616 10  5 f   -     -     -         1910    0    0 
+Unicorn   958106661 10  4 r   cc    kc    kf        1910   60    0 
+Unicorn   958106729  9  3 f   -     -     -         1850    0    0 
+Unicorn   958106787 10  2 Bk  kf    -     -         1850   10    0 
+Unicorn   958106841 10  1 Bc  b     b     kc        1840   60    0 Kd 4d
+Unicorn   958106880  8  8 f   -     -     -         1780    0    0 
+Unicorn   958106926  8  7 r   bc    c     c         1780   77    0 Qh Qd
+Unicorn   958106977  7  5 r   brc   b     kc        1703  100    0 Ah Kh
+Unicorn   958107021  7  5 cc  c     c     c         1603   80  120 Kd Tc
+Unicorn   958107089  7  4 f   -     -     -         1643    0    0 
+Unicorn   958107116  7  3 rc  cc    c     k         1643   70    0 5c As
+Unicorn   958107151  7  2 Bk  f     -     -         1573   10    0 
+Unicorn   958107179  7  1 Bf  -     -     -         1563    5    0 
+Unicorn   958107213  7  7 f   -     -     -         1558    0    0 
+Unicorn   958107245  8  7 r   b     c     f         1558   60    0 
+Unicorn   958107313  9  6 f   -     -     -         1498    0    0 
+Unicorn   958107377  8  5 f   -     -     -         1498    0    0 
+Unicorn   958107408  8  4 r   b     bc    b         1498   90  235 Th Ts
+Unicorn   958107440  8  3 cc  kcc   kf    -         1643   40    0 
+Unicorn   958107503  8  2 Bc  f     -     -         1603   20    0 
+Unicorn   958107541  8  1 Bc  kf    -     -         1583   10    0 
+Unicorn   958107597  9  9 cc  c     c     f         1573   50    0 
+Unicorn   958107629  9  8 r   b     b     k         1523   60  225 Ac Tc
+Unicorn   958107667  8  7 rc  cc    kc    kc        1688  100    0 Jd Td
+Unicorn   958107736  7  5 f   -     -     -         1588    0    0 
+Unicorn   958107770  6  4 c   r     r     f         1588   70    0 
+Unicorn   958107830  6  3 f   -     -     -         1518    0    0 
+Unicorn   958107858  6  2 Bk  k     bc    k         1518   50    0 Jh 9d
+Unicorn   958107886  6  1 Bcc kc    kc    kc        1468   70    0 Ah 5s
+Unicorn   958107933  6  6 r   r     rr    rc        1398  180    0 6c 3c
+Unicorn   958107968  6  5 cc  r     b     c         1218   80    0 2s Js
+Unicorn   958108026  6  4 f   -     -     -         1138    0    0 
+Unicorn   958108060  6  3 r   bc    f     -         1138   40    0 
+Unicorn   958108101  6  2 Br  b     b     b         1098   70    0 9s Ks
+Unicorn   958108156  6  1 Bf  -     -     -         1028    5    0 
+Unicorn   958108185  6  6 f   -     -     -         1023    0    0 
+Unicorn   958108227  7  6 r   b     k     rc        1023   90    0 Ah Jh
+Unicorn   958108260  7  5 f   -     -     -          933    0    0 
+Unicorn   958108299  7  4 f   -     -     -          933    0    0 
+Unicorn   958108357  8  4 rc  c     c     c          933   90  440 Ac 9s
+Unicorn   958108431  7  3 c   k     b     k         1283   30  130 4c 6c
+Unicorn   958108493  8  2 Bk  kf    -     -         1383   10    0 
+Unicorn   958108537  8  1 Bc  bcc   kc    kf        1373   70    0 
+Unicorn   958108588  8  8 c   f     -     -         1303   20    0 
+Unicorn   958108650  6  5 f   -     -     -         1283    0    0 
+Unicorn   958108698  5  3 rc  kf    -     -         1283   40    0 
+Unicorn   958108772  7  4 f   -     -     -         1243    0    0 
+Unicorn   958108827  6  2 Bc  k     k     k         1243   20    0 2h 7c
+Unicorn   958108872  7  1 Bf  -     -     -         1223    5    0 
+Unicorn   958108944  8  8 f   -     -     -         1218    0    0 
+Unicorn   958108966  8  7 r   b     b     b         1218   70  220 
+Unicorn   958109006  7  5 r   rc    rr    c         1368  150  325 8h 8d
+Unicorn   958109035  7  4 cc  rc    rc    bc        1543  180    0 4s 4c
+Unicorn   958109079  7  3 c   b     b     c         1363   60    0 5c 3c
+Unicorn   958109122  8  2 Bf  -     -     -         1303   10    0 
+Unicorn   958109177  8  1 Bc  bf    -     -         1293   20    0 
+Unicorn   958109216  8  8 c   rc    r     r         1273  130  375 3d 3s
+Unicorn   958109262  8  7 f   -     -     -         1518    0    0 
+Unicorn   958109321  8  6 c   f     -     -         1518   20    0 
+Unicorn   958109366  9  5 f   -     -     -         1498    0    0 
+Unicorn   958109417  9  4 c   b     -     -         1498   20   35 
+Unicorn   958109444  9  3 f   -     -     -         1513    0    0 
+Unicorn   958109495  9  2 Br  b     b     b         1513   70    0 Jd Td
+Unicorn   958109534  9  1 Bc  kc    kr    b         1443   80  250 9c 2s
+Unicorn   958109572  9  9 f   -     -     -         1613    0    0 
+Unicorn   958109620  9  8 rc  f     -     -         1613   40    0 
+Unicorn   958109681  8  7 r   r     b     r         1573  100  280 Qc Kc
+Unicorn   958109753  8  7 f   -     -     -         1753    0    0 
+Unicorn   958109781  7  5 f   -     -     -         1753    0    0 
+Unicorn   958109810  7  4 r   b     -     -         1753   30   55 
+Unicorn   958109835  7  3 f   -     -     -         1778    0    0 
+Unicorn   958109872  7  2 Bk  k     k     k         1778   10   25 2h Ad
+Unicorn   958109921  4  1 Br  k     b     -         1793   40   60 
+Unicorn   958109939  4  4 f   -     -     -         1813    0    0 
+Unicorn   958109945  4  3 cc  f     -     -         1813   30    0 
+Unicorn   958109980  4  2 Bk  f     -     -         1783   10    0 
+Unicorn   958110006  5  1 Bc  kf    -     -         1773   20    0 
+Unicorn   958110037  5  5 f   -     -     -         1753    0    0 
+Unicorn   958110086  5  4 f   -     -     -         1753    0    0 
+Unicorn   958110095  6  4 f   -     -     -         1753    0    0 
+Unicorn   958110132  6  3 f   -     -     -         1753    0    0 
+Unicorn   958110171  5  1 Bf  -     -     -         1753   10    0 
+Unicorn   958110191  6  1 Bf  -     -     -         1743    5    0 
+Unicorn   958110218  6  6 r   b     -     -         1738   30   55 
+Unicorn   958110239  6  5 cc  b     b     -         1763   50  120 
+Unicorn   958110292  7  5 f   -     -     -         1833    0    0 
+Unicorn   958110329  7  4 f   -     -     -         1833    0    0 
+Unicorn   958110352  8  3 f   -     -     -         1833    0    0 
+Unicorn   958110415  8  2 Bk  kf    -     -         1833   10    0 
+Unicorn   958110493  7  1 Bf  -     -     -         1823    5    0 
+Unicorn   958110538  8  8 f   -     -     -         1818    0    0 
+Unicorn   958110571  9  8 r   r     b     -         1818   70  210 
+Unicorn   958110605  9  7 r   b     k     k         1958   30  115 9h Ac
+Unicorn   958110652 10  6 r   f     -     -         2043   20    0 
+Unicorn   958110742 10  5 f   -     -     -         2023    0    0 
+Unicorn   958110781  9  3 cc  kf    -     -         2023   20    0 
+Unicorn   958110829  9  2 Bk  k     f     -         2003   10    0 
+Unicorn   958110857  8  1 Bc  kf    -     -         1993   20    0 
+Unicorn   958110881  8  8 f   -     -     -         1973    0    0 
+Unicorn   958110915  8  7 c   f     -     -         1973   10    0 
+Unicorn   958110963  8  6 cc  kc    k     k         1963   40    0 Ts Kd
+Unicorn   958111030  9  5 rr  b     k     c         1923   70    0 Kd Kh
+Unicorn   958111088 10  5 f   -     -     -         1853    0    0 
+Unicorn   958111134 10  5 r   rr    b     b         1853  100  250 Td Ah
+Unicorn   958111219 10  3 f   -     -     -         2003    0    0 
+Unicorn   958111293 10  2 Bk  k     k     bf        2003   30    0 
+Unicorn   958111364  9  1 Bf  -     -     -         1973    5    0 
+Unicorn   958111408 10 10 c   k     f     -         1968   20    0 
+Unicorn   958111457 10  9 f   -     -     -         1948    0    0 
+Unicorn   958111494 10  8 c   b     b     k         1948   40    0 4c 3d
+Unicorn   958111550 10  7 r   rc    c     f         1908  100    0 
+Unicorn   958111604 10  6 c   kKQ   -     -         1808   10    0 
+Unicorn   958164944  5  2 Bk  k     b     -         2133   30   40 
+Unicorn   958164981  5  1 Bf  -     -     -         2143    5    0 
+Unicorn   958165003  5  5 f   -     -     -         2138    0    0 
+Unicorn   958165071  5  4 f   -     -     -         2138    0    0 
+Unicorn   958165099  5  3 r   r     c     c         2138   80  225 Kh Qc
+Unicorn   958165164  5  2 Bf  -     -     -         2283   10    0 
+Unicorn   958165207  5  1 Bc  kf    -     -         2273   10    0 
+Unicorn   958165239  5  5 f   -     -     -         2263    0    0 
+Unicorn   958165308  5  4 c   k     k     k         2263   10    0 Kc Jd
+Unicorn   958165349  5  3 f   -     -     -         2253    0    0 
+Unicorn   958165403  5  2 Bk  bcc   kf    -         2253   50    0 
+Unicorn   958165462  5  1 Bf  -     -     -         2203    5    0 
+Unicorn   958165527  4  4 f   -     -     -         2198    0    0 
+Unicorn   958165572  4  3 f   -     -     -         2198    0    0 
+Unicorn   958165588  4  2 Bc  kf    -     -         2198   20    0 
+Unicorn   958165646  4  1 Bc  kr    -     -         2178   40   90 
+Unicorn   958165683  3  3 c   f     -     -         2228   10    0 
+Unicorn   958165707  3  3 rc  r     c     c         2218   90  185 Js 8h
+Unicorn   958165733  3  2 Bc  b     -     -         2313   30   70 
+Unicorn   958165751  3  1 Bcc bc    krr   brc       2353  200  420 3h Kc
+Unicorn   958165799  2  2 r   Q     -     -         2573   20    0 
+Unicorn   958370067  3  3 r   rc    b     rr         986  150    0 5s Qd
+Unicorn   958370113  3  2 Bc  kf    -     -          836   20    0 
+Unicorn   958370158  3  1 Br  b     b     b          816   70  140 8c Jc
+Unicorn   958370195  3  3 f   -     -     -          886    0    0 
+Unicorn   958370223  3  2 Bk  kf    -     -          886   10    0 
+Unicorn   958370250  3  1 Br  bc    kr    k          876   80    0 Js Ah
+Unicorn   958370279  3  3 rc  b     k     c          796   60    0 7h Kc
+Unicorn   958370327  3  2 Bk  c     c     k          736   40    0 Jd 8c
+Unicorn   958370360  3  1 Bc  kf    -     -          696   10    0 
+Unicorn   958370386  3  3 f   -     -     -          686    0    0 
+Unicorn   958370404  3  2 Br  brc   b     b          686  100    0 As 8d
+Unicorn   958370435  3  1 Bf  -     -     -          586    5    0 
+Unicorn   958370444  3  3 r   f     -     -          581   20    0 
+Unicorn   958370478  3  2 Bk  c     c     f          561   40    0 
+Unicorn   958370507  3  1 Br  bc    kc    k          521   60    0 Kd Jc
+Unicorn   958370539  3  3 c   f     -     -          461   10    0 
+Unicorn   958370575  3  2 Bk  k     k     k          451   10   25 6h Qs
+Unicorn   958370601  3  1 Bc  kf    -     -          466   10    0 
+Unicorn   958370626  3  3 r   b     -     -          456   30   55 
+Unicorn   958370642  3  2 Br  rc    rr    -          481  130  260 
+Unicorn   958370666  3  1 Bc  k     k     k          611   10    0 4s 2h
+Unicorn   958370692  3  3 f   -     -     -          601    0    0 
+Unicorn   958370727  3  2 Bc  k     b     k          601   40    0 6c Td
+Unicorn   958370776  3  1 Br  -     -     -          561   20   30 
+Unicorn   958370788  3  3 f   -     -     -          571    0    0 
+Unicorn   958370806  3  2 Brc rc    r     b          571  130  270 Qs Qd
+Unicorn   958370836  3  1 Bc  kr    b     -          711   50   80 
+Unicorn   958370862  3  3 c   c     f     -          741   20    0 
+Unicorn   958370907  2  1 B   -     -     -          721   10   10 
+Unicorn   958370925  2  1 Bc  k     kf    -          721   10    0 
+Unicorn   958370954  2  2 Bc  f     -     -          711   20    0 
+Unicorn   958370965  2  1 Br  -     -     -          691   20   30 
+Unicorn   958370975  2  2 Bc  r     k     f          701   40    0 
+Unicorn   958370995  2  1 Brc k     b     b          661   70  120 
+Unicorn   958371020  2  2 B   -     -     -          711   10   15 
+Unicorn   958371031  2  1 Bf  -     -     -          716    5    0 
+Unicorn   958371035  2  2 Br  c     r     k          711   70    0 7s As
+Unicorn   958371056  2  1 Bf  -     -     -          641    5    0 
+Unicorn   958371062  2  2 Br  b     -     -          636   30   50 
+Unicorn   958371085  2  1 Br  br    b     b          656   90    0 3s 3h
+Unicorn   958371115  2  2 Br  b     b     bc         566  100  200 7s 9s
+Unicorn   958371137  2  1 Br  -     -     -          666   20   30 
+Unicorn   958371144  2  2 Br  b     k     k          676   40   80 3d 5d
+Unicorn   958371165  2  1 Br  k     k     k          716   20   40 8h Kd
+Unicorn   958371178  2  2 Br  c     f     -          736   30    0 
+Unicorn   958371191  2  1 Bc  k     kc    krc        706   90    0 6s Qh
+Unicorn   958371212  2  2 B   -     -     -          616   10   15 
+Unicorn   958371218  2  1 Br  b     -     -          621   30   50 
+Unicorn   958371226  2  2 Bc  k     b     c          641   60    0 9c 7h
+Unicorn   958371252  2  1 Br  -     -     -          581   20   30 
+Unicorn   958371259  2  2 B   -     -     -          591   10   15 
+Unicorn   958371263  2  1 Br  -     -     -          596   20   30 
+Unicorn   958371268  2  2 Bk  c     r     b          606   80  140 
+Unicorn   958371288  2  1 Br  -     -     -          666   20   30 
+Unicorn   958371294  2  2 B   -     -     -          676   10   15 
+Unicorn   958371298  2  1 Bf  -     -     -          681    5    0 
+Unicorn   958371302  2  2 Bk  k     bc    c          676   70    0 7d Jc
+Unicorn   958371325  2  1 Bf  -     -     -          606    5    0 
+Unicorn   958371331  2  2 Br  b     -     -          601   40   70 
+Unicorn   958371341  2  1 Br  -     -     -          631   20   30 
+Unicorn   958371346  2  2 Bk  c     c     c          641   60    0 8s Kc
+Unicorn   958371369  2  1 Brc k     k     k          581   30   60 Kd Jc
+Unicorn   958371383  2  2 B   -     -     -          611   10   15 
+Unicorn   958371389  2  1 Br  b     -     -          616   30   50 
+Unicorn   958371397  3  3 c   c     rr    b          636  120  260 Jc 9d
+Unicorn   958371437  3  2 Bk  b     -     -          776   20   30 
+Unicorn   958371463  2  1 Br  b     b     kc         786   70  140 Kc 7c
+Unicorn   958371485  2  2 Bc  f     -     -          856   20    0 
+Unicorn   958371497  2  1 Bc  k     k     k          836   10    0 Qc 5s
+Unicorn   958371512  2  2 Bc  f     -     -          826   20    0 
+Unicorn   958371521  2  1 Br  -     -     -          806   20   30 
+Unicorn   958371526  2  2 B   -     -     -          816   10   15 
+Unicorn   958371531  2  1 Bc  kr    b     b          821   70    0 Qh 5h
+Unicorn   958371552  2  2 Br  b     -     -          751   30   50 
+Unicorn   958371567  2  1 Bc  b     -     -          771   20   30 
+Unicorn   958371579  2  2 Bk  k     c     f          781   30    0 
+Unicorn   958371596  2  1 Bf  -     -     -          751    5    0 
+Unicorn   958371598  2  2 Bc  c     r     b          746   90  160 
+Unicorn   958371624  2  1 Br  b     -     -          816   30   50 
+Unicorn   958371643  2  2 Bf  -     -     -          836   10    0 
+Unicorn   958371648  2  1 Br  b     bc    kc         826   90    0 9d 9c
+Unicorn   958371668  2  2 Brc c     rc    c          736  130    0 5s 7c
+Unicorn   958371688  2  1 Br  b     b     b          606   70  140 Kc Kh
+Unicorn   958371703  2  2 Bk  bc    rf    -          676   70    0 
+Unicorn   958371723  2  1 Bf  -     -     -          606    5    0 
+Unicorn   958371726  2  2 Brc r     b     b          601  100  200 Js Jd
+Unicorn   958371753  2  1 Bc  kf    -     -          701   10    0 
+Unicorn   958371765  2  2 Bc  c     c     c          691   70    0 4c 8d
+Unicorn   958371780  2  1 Br  -     -     -          621   20   30 
+Unicorn   958371787  2  2 Bc  f     -     -          631   20    0 
+Unicorn   958371795  2  1 Bf  -     -     -          611    5    0 
+Unicorn   958371800  2  2 Bc  r     r     -          606   80  140 
+Unicorn   958371818  2  1 Bc  k     k     k          666   10    0 3s 2c
+Unicorn   958371835  2  2 Brc k     r     b          656  100  200 Td Jh
+Unicorn   958371856  2  1 Br  b     b     kc         756   70    0 9c 6c
+Unicorn   958371876  2  2 Bc  r     bc    r          686  120    0 2h 7c
+Unicorn   958371901  2  1 Brc kf    -     -          566   30    0 
+Unicorn   958371914  2  2 Br  -     -     -          536   20   30 
+Unicorn   958371924  2  1 Br  b     -     -          546   30   50 
+Unicorn   958371933  2  2 B   -     -     -          566   10   15 
+Unicorn   958371944  2  1 Bf  -     -     -          571    5    0 
+Unicorn   958371948  2  2 Bc  f     -     -          566   20    0 
+Unicorn   958371956  2  1 Br  b     b     b          546   70  120 
+Unicorn   958371973  2  2 B   -     -     -          596   10   15 
+Unicorn   958371977  2  1 Brc b     k     b          601   60  100 
+Unicorn   958371998  2  2 Bc  r     b     b          641   80  140 
+Unicorn   958372019  2  1 Br  b     b     bc         701   90    0 Jc As
+Unicorn   958372039  2  2 Bc  rc    r     k          611   90  180 Ts 5d
+Unicorn   958372063  2  1 Bf  -     -     -          701    5    0 
+Unicorn   958372067  2  2 B   -     -     -          696   10   15 
+Unicorn   958372071  2  1 Brr b     b     b          701   90  180 9c 9h
+Unicorn   958372088  2  2 Bk  b     -     -          791   20   30 
+Unicorn   958372098  2  1 Bc  k     k     k          801   10    0 6h 3h
+Unicorn   958372113  2  2 Bk  k     k     k          791   10    0 3h 9s
+Unicorn   958372131  2  1 Br  -     -     -          781   20   30 
+Unicorn   958372136  2  2 B   -     -     -          791   10   15 
+Unicorn   958372144  2  1 Bf  -     -     -          796    5    0 
+Unicorn   958372147  2  2 Bk  b     b     r          791   80    0 9s 4c
+Unicorn   958372166  2  1 Br  b     b     b          711   70  140 8h 4c
+Unicorn   958372186  2  2 Br  b     b     bc         781   90    0 Jd 2s
+Unicorn   958372211  2  1 Br  -     -     -          691   20   30 
+Unicorn   958372215  2  2 Bf  -     -     -          701   10    0 
+Unicorn   958372221  2  1 Brr b     b     brc        691  150  300 8c 8s
+Unicorn   958372252  2  2 B   -     -     -          841   10   15 
+Unicorn   958372257  2  1 Bc  kc    kc    kf         846   40    0 
+Unicorn   958372273  2  2 Bc  f     -     -          806   20    0 
+Unicorn   958372281  2  1 Br  b     -     -          786   30   50 
+Unicorn   958372290  2  2 B   -     -     -          806   10   15 
+Unicorn   958372294  2  1 Br  bf    -     -          811   30    0 
+Unicorn   958372302  2  2 B   -     -     -          781   10   15 
+Unicorn   958372307  2  1 Br  b     b     b          786   70  140 8d 9d
+Unicorn   958372320  2  2 B   -     -     -          856   10   15 
+Unicorn   958372323  2  1 Br  b     b     brc        861  130  260 2c 2h
+Unicorn   958372339  2  2 B   -     -     -          991   10   15 
+Unicorn   958372366  2  1 Br  -     -     -          996   20   30 
+Unicorn   958372379  2  2 Bf  -     -     -         1006   10    0 
+Unicorn   958372384  2  1 Br  -     -     -          996   20   30 
+Unicorn   958372390  2  2 Bk  f     -     -         1006   10    0 
+Unicorn   958372405  2  1 Brr b     b     k          996   70   70 Ks Kh
+Unicorn   958372431  2  2 B   -     -     -          996   10   15 
+Unicorn   958372436  2  1 Br  b     k     b         1001   50  100 4d 4s
+Unicorn   958372456  2  2 Bc  f     -     -         1051   20    0 
+Unicorn   958372464  2  1 Brc kc    b     kc        1031   80    0 Ac 3s
+Unicorn   958372491  3  2 Bc  r     b     b          951   80  220 9h 5h
+Unicorn   958372524  3  1 Bc  b     b     b         1091   60  130 2c Qc
+Unicorn   958372554  3  3 f   -     -     -         1161    0    0 
+Unicorn   958372579  3  2 Bk  k     b     b         1161   50  110 Jc 7c
+Unicorn   958372604  3  1 Bc  brc   brc   k         1221  130  390 Th 9s
+Unicorn   958372642  3  3 f   -     -     -         1481    0    0 
+Unicorn   958372664  4  3 r   bc    brc   br        1481  180  410 Ah 8d
+Unicorn   958372701  4  2 Bc  c     kr    kc        1711   90    0 Js 5c
+Unicorn   958372740  3  1 Bcc krr   b     kc        1621  100    0 3h 4c
+Unicorn   958372770  3  3 r   -     -     -         1521   20   35 
+Unicorn   958372780  3  2 Bk  b     bc    kf        1536   60    0 
+Unicorn   958372798  3  1 Br  b     -     -         1476   40   80 
+Unicorn   958372815  3  3 f   -     -     -         1516    0    0 
+Unicorn   958372834  3  2 Br  bc    r     -         1516   90  160 
+Unicorn   958372857  3  1 Bc  b     b     kf        1586   40    0 
+Unicorn   958372884  3  3 c   r     k     c         1546   50    0 3d 6d
+Unicorn   958372903  4  2 Bk  c     r     b         1496   80    0 8h Jd
+Unicorn   958372950  4  1 Bc  k     kf    -         1416   10    0 
+Unicorn   958372986  4  4 r   b     bf    -         1406   50    0 
+Unicorn   958373023  4  3 r   b     brc   c         1356  130    0 8h Jc
+Unicorn   958373044  4  2 Bk  k     kf    -         1226   10    0 
+Unicorn   958373067  4  1 Bc  kf    -     -         1216   10    0 
+Unicorn   958373092  4  4 r   b     bc    c         1206  100  270 Kc Jd
+Unicorn   958373131  4  3 r   b     b     k         1376   50    0 Kc Jh
+Unicorn   958373163  4  2 Brr kc    kf    -         1326   50    0 
+Unicorn   958373252  4  1 Bc  b     bf    -         1276   40    0 
+Unicorn   958373293  4  4 r   b     b     bc        1236   90    0 5c 5d
+Unicorn   958373322  4  3 f   -     -     -         1146    0    0 
+Unicorn   958373382  4  2 Bc  f     -     -         1146   20    0 
+Unicorn   958373407  4  1 Bf  -     -     -         1126    5    0 
+Unicorn   958373448  4  4 r   b     c     cf        1121   80    0 
+Unicorn   958373491  4  3 r   b     -     -         1041   30   65 
+Unicorn   958373510  4  2 Br  b     b     -         1076   50   85 
+Unicorn   958373532  4  1 Bf  -     -     -         1111    5    0 
+Unicorn   958373570  4  4 c   c     b     b         1106   60    0 Js 9s
+Unicorn   958373619  4  3 r   -     -     -         1046   20   35 
+Unicorn   958373629  4  2 Bk  kc    krr   b         1061  120  245 7h Qd
+Unicorn   958373661  4  1 Bc  kr    bc    kf        1186   70    0 
+Unicorn   958373703  5  5 f   -     -     -         1116    0    0 
+Unicorn   958373735  5  4 f   -     -     -         1116    0    0 
+Unicorn   958373763  5  3 r   b     b     b         1116   70  145 
+Unicorn   958373798  5  2 Br  b     b     b         1191   70  145 Ad Ts
+Unicorn   958373820  5  1 Bcc kc    kc    kc        1266   80    0 9s 8h
+Unicorn   958373873  6  6 c   c     k     k         1186   30    0 Kc 8s
+Unicorn   958373906  6  5 r   b     b     f         1156   50    0 
+Unicorn   958373955  6  5 f   -     -     -         1106    0    0 
+Unicorn   958374007  6  4 c   b     b     -         1106   40   85 
+Unicorn   958374033  6  3 f   -     -     -         1151    0    0 
+Unicorn   958374090  7  2 Bk  kc    k     kr        1151   60    0 6s Jh
+Unicorn   958374148  6  1 Bc  bc    kr    b         1091  100    0 5c 6d
+Unicorn   958374188  6  6 f   -     -     -          991    0    0 
+Unicorn   958374207  5  4 rr  b     b     c          991   90  260 Qh Kc
+Unicorn   958374275  5  3 r   b     b     b         1161   70  195 As Qh
+Unicorn   958374320  5  2 Bk  k     kf    -         1286   10    0 
+Unicorn   958374347  5  1 Br  b     k     b         1276   50    0 Js Qs
+Unicorn   958374374  5  5 f   -     -     -         1226    0    0 
+Unicorn   958374406  3  2 B   -     -     -         1226   10   15 
+Unicorn   958448865  9  2 Bf  -     -     -         2116   10    0 
+Unicorn   958448925  7  1 Bc  kc    b     b         2106   80    0 7c 5c
+Unicorn   958448978  8  8 c   c     c     f         2026   40    0 
+Unicorn   958449023  9  8 cc  f     -     -         1986   20    0 
+Unicorn   958449102  8  7 cc  f     -     -         1966   20    0 
+Unicorn   958449172  7  5 r   b     -     -         1946   30   85 
+Unicorn   958449204  7  4 cc  kc    kc    kf        2001   50    0 
+Unicorn   958449320  8  3 r   kc    kr    b         1951  100  270 Jh Ks
+Unicorn   958449377  8  2 Bk  k     b     -         2121   30   70 
+Unicorn   958449458  9  1 Bc  kf    -     -         2161   20    0 
+Unicorn   958449517  8  8 f   -     -     -         2141    0    0 
+Unicorn   958449547  8  7 f   -     -     -         2141    0    0 
+Unicorn   958449606  8  6 c   r     rc    rr        2141  190  560 Ah Qc
+Unicorn   958449662  8  5 c   rr    c     c         2511   90    0 Qc Th
+Unicorn   958449711  7  3 c   kf    -     -         2421   10    0 
+Unicorn   958449774  7  2 Bk  bc    bf    -         2411   50    0 
+Unicorn   958449810  7  1 Bc  kf    -     -         2361   10    0 
+Unicorn   958449863  7  7 f   -     -     -         2351    0    0 
+Unicorn   958449917  7  6 c   bf    -     -         2351   20    0 
+Unicorn   958450014  8  6 f   -     -     -         2331    0    0 
+Unicorn   958450079  7  4 f   -     -     -         2331    0    0 
+Unicorn   958450133  6  2 f   -     -     -         2331    0    0 
+Unicorn   958450148  6  2 Bk  f     -     -         2331   10    0 
+Unicorn   958450205  7  1 Bcc kf    -     -         2321   30    0 
+Unicorn   958450320  8  8 f   -     -     -         2291    0    0 
+Unicorn   958450357  8  7 f   -     -     -         2291    0    0 
+Unicorn   958450415  7  6 c   k     k     f         2291   10    0 
+Unicorn   958450494  6  4 c   f     -     -         2281   10    0 
+Unicorn   958450562  6  4 f   -     -     -         2271    0    0 
+Unicorn   958450616  4  1 Bc  b     b     kc        2271   70    0 3c Ks
+Unicorn   958450660  4  1 Bc  b     b     kc        2201   60  130 7h 9c
+Unicorn   958450701  4  4 c   f     -     -         2271   10    0 
+Unicorn   958450762  4  3 r   r     k     c         2261   60    0 Td Tc
+Unicorn   958450808  4  2 Br  bc    bc    k         2201   90    0 Kh Qh
+Unicorn   958450847  4  1 Bcf -     -     -         2111   10    0 
+Unicorn   958450863  4  4 r   b     -     -         2101   30   75 
+Unicorn   958450889  5  3 r   b     b     b         2146   70  155 As Qd
+Unicorn   958450927  5  2 Bk  f     -     -         2231   10    0 
+Unicorn   958450974  6  1 Bc  k     b     -         2221   40   70 
+Unicorn   958451001  6  6 c   f     -     -         2251   10    0 
+Unicorn   958451037  6  5 r   b     b     -         2241   50  100 
+Unicorn   958451075  6  4 c   b     b     k         2291   40  120 Qh Td
+Unicorn   958451142  6  3 rc  kc    krc   k         2371  100  265 Ah 5d
+Unicorn   958451196  6  2 Bc  kf    -     -         2536   20    0 
+Unicorn   958451269  6  1 Bf  -     -     -         2516    5    0 
+Unicorn   958451328  5  5 r   c     c     k         2511   50  150 Kc 6c
+Unicorn   958451390  5  4 f   -     -     -         2611    0    0 
+Unicorn   958451405  6  3 f   -     -     -         2611    0    0 
+Unicorn   958451443  6  2 Bc  kc    bf    -         2611   50    0 
+Unicorn   958451482  6  1 Bc  b     b     b         2561   60  140 Td 3d
+Unicorn   958451507  6  6 f   -     -     -         2641    0    0 
+Unicorn   958451540  6  5 rc  kr    b     kc        2641   90  225 7s Kh
+Unicorn   958451586  5  3 r   b     b     -         2776   50   90 
+Unicorn   958451619  5  2 Bk  kf    -     -         2816   10    0 
+Unicorn   958451662  5  1 Bc  kf    -     -         2806   10    0 
+Unicorn   958451707  5  5 r   -     -     -         2796   20   35 
+Unicorn   958451722  5  4 f   -     -     -         2811    0    0 
+Unicorn   958451738  5  3 r   -     -     -         2811   20   35 
+Unicorn   958451746  5  2 Bk  b     b     k         2826   40    0 6d Kc
+Unicorn   958451776  5  1 Bc  kf    -     -         2786   10    0 
+Unicorn   958451814  5  5 f   -     -     -         2776    0    0 
+Unicorn   958451853  5  4 r   rc    b     k         2776   70   72 9h Kh
+Unicorn   958451891  6  4 f   -     -     -         2778    0    0 
+Unicorn   958451938  6  3 c   r     k     k         2778   30    0 Jc Qh
+Unicorn   958451973  6  3 f   -     -     -         2748    0    0 
+Unicorn   958452011  7  2 Bk  k     bc    kc        2748   70    0 9c Ks
+Unicorn   958452061  7  1 Br  KQ    -     -         2678   20    0 
+Unicorn   958452319  8  3 f   -     -     -         2658    0    0 
+Unicorn   958452412  8  2 B   -     -     -         2658   10   15 
+Unicorn   958452430  7  1 Bf  -     -     -         2663    5    0 
+Unicorn   958452464  6  6 f   -     -     -         2658    0    0 
+Unicorn   958452511  6  6 r   r     b     b         2658   80  190 Kc 4s
+Unicorn   958452550  5  4 r   b     -     -         2768   30   85 
+Unicorn   958452582  5  3 f   -     -     -         2823    0    0 
+Unicorn   958452619  5  2 Bc  kf    -     -         2823   20    0 
+Unicorn   958452647  5  1 Bc  k     kr    b         2803   70  120 
+Unicorn   958452689  5  5 r   c     rr    c         2853  130    0 As 8d
+Unicorn   958452735  4  3 r   r     k     f         2723   40    0 
+Unicorn   958452773  3  2 Bk  bc    bc    c         2683  110    0 3c 4d
+Unicorn   958452811  3  1 Br  b     -     -         2573   30   79 Kc 6c
+Unicorn   958453244  2  2 B   -     -     -         2632   10   15 
+Unicorn   958453248  2  1 B   -     -     -         2527    5   15 
+Unicorn   958706346  6  6 c   k     k     f         1000   10    0 
+Unicorn   958706400  6  5 f   -     -     -          990    0    0 
+Unicorn   958706408  6  4 c   b     c     c          990   60    0 Qs 9h
+Unicorn   958706445  6  3 c   b     b     b          930   60  140 4c Jc
+Unicorn   958706471  6  2 Bc  k     k     b         1010   40  125 Qd Tc
+Unicorn   958706521  6  1 Bc  kc    kc    kf        1095   40    0 
+Unicorn   958706572  5  5 f   -     -     -         1055    0    0 
+Unicorn   958706613  5  4 c   f     -     -         1055   10    0 
+Unicorn   958706641  5  3 f   -     -     -         1045    0    0 
+Unicorn   958706686  5  2 Bk  kf    -     -         1045   10    0 
+Unicorn   958706718  5  1 Bc  k     b     k         1035   30   70 Jh Qc
+Unicorn   958706752  4  4 r   b     bc    c         1075   90    0 Ac 3d
+Unicorn   958706788  4  3 cc  c     f     -          985   30    0 
+Unicorn   958706818  4  2 Bk  b     b     -          955   40   80 
+Unicorn   958706845  4  1 Br  b     b     bc         995   90    0 Ac Td
+Unicorn   958706876  5  4 r   b     -     -          905   30   55 
+Unicorn   958706892  5  3 f   -     -     -          930    0    0 
+Unicorn   958706931  5  2 Bc  kf    -     -          930   20    0 
+Unicorn   958706984  7  1 Bc  k     b     b          910   50  100 
+Unicorn   958707085  8  8 c   f     -     -          960   10    0 
+Unicorn   958707166 10  9 c   b     b     k          950   40   85 Kh 8h
+Unicorn   958707236  9  7 f   -     -     -          995    0    0 
+Unicorn   958707306 10  7 c   c     k     k          995   20    0 Qs 3s
+Unicorn   958707367 10  6 f   -     -     -          975    0    0 
+Unicorn   958707433 10  5 f   -     -     -          975    0    0 
+Unicorn   958707533 10  4 f   -     -     -          975    0    0 
+Unicorn   958707612 10  3 f   -     -     -          975    0    0 
+Unicorn   958707747 10  2 Bk  kf    -     -          975   10    0 
+Unicorn   958707821 10  1 Bc  k     k     k          965   10   10 Th 2h
+Unicorn   958707887 10 10 f   -     -     -          965    0    0 
+Unicorn   958707977 10  9 f   -     -     -          965    0    0 
+Unicorn   958708041 10  8 f   -     -     -          965    0    0 
+Unicorn   958708193 10  7 cc  bc    rc    kf         965  100    0 
+Unicorn   958708288 10  6 cc  f     -     -          865   20    0 
+Unicorn   958708352 10  5 cr  kf    -     -          845   30    0 
+Unicorn   958708483 10  4 f   -     -     -          815    0    0 
+Unicorn   958708579 10  3 f   -     -     -          815    0    0 
+Unicorn   958708690  9  2 Bc  b     b     b          815   70  245 5s Jh
+Unicorn   958708770 10  1 Bc  kf    -     -          990   10    0 
+Unicorn   958708812 10 10 r   c     c     c          980   70    0 Kh Kd
+Unicorn   958708871 10  9 c   r     k     c          910   60  220 Ac 5s
+Unicorn   958708945 10  8 f   -     -     -         1070    0    0 
+Unicorn   958709004 10  7 r   k     r     k         1070   60    0 Ac Tc
+Unicorn   958709100 10  6 r   b     b     -         1010   50  180 
+Unicorn   958709221 10  5 f   -     -     -         1140    0    0 
+Unicorn   958709301  9  3 f   -     -     -         1140    0    0 
+Unicorn   958709372  9  4 c   b     br    b         1140  100  270 8h Kh
+Unicorn   958709442  8  2 B   -     -     -         1310   10   15 
+Unicorn   958709451  8  1 Bc  bcc   kc    kc        1315  130    0 4h 2c
+Unicorn   958709530 10  8 Q   -     -     -         1185    0    0 
+Unicorn   958719704  8  5 c   b     k     kf        1185   20    0 
+Unicorn   958719742  9  4 cc  bc    k     k         1165   40    0 Jd Qs
+Unicorn   958719802  9  3 c   kc    k     kf        1125   20    0 
+Unicorn   958719851  9  2 Bk  kr    b     k         1105   50    0 Js Ad
+Unicorn   958719908  9  1 Bc  b     kf    -         1055   20    0 
+Unicorn   958719967  9  9 c   f     -     -         1035   10    0 
+Unicorn   958720057  9  8 f   -     -     -         1025    0    0 
+Unicorn   958720092  9  7 f   -     -     -         1025    0    0 
+Unicorn   958720137 10  7 f   -     -     -         1025    0    0 
+Unicorn   958720180 10  6 f   -     -     -         1025    0    0 
+Unicorn   958720217  9  5 r   b     b     b         1025   70  195 9c Kd
+Unicorn   958720263  8  4 f   -     -     -         1150    0    0 
+Unicorn   958720321  8  3 f   -     -     -         1150    0    0 
+Unicorn   958720365  8  2 Bk  kc    kc    k         1150   40    0 4c 4d
+Unicorn   958720408  8  1 Brc b     b     kf        1110   70    0 
+Unicorn   958720478  8  8 r   b     b     k         1040   50    0 8d Qh
+Unicorn   958720520  8  7 f   -     -     -          990    0    0 
+Unicorn   958720572  8  6 c   bc    kc    kc         990   70    0 2h 4h
+Unicorn   958720605  8  5 r   kf    -     -          920   20    0 
+Unicorn   958720665  9  4 rr  b     r     k          900   90    0 Qs 7s
+Unicorn   958720728  9  3 c   c     c     b          810   60  190 9h Qh
+Unicorn   958720780  8  1 Bk  k     k     kf         940   10    0 
+Unicorn   958720835  9  1 Bc  kKQ   -     -          930   10    0 
+Unicorn   958720975 10  9 c   k     k     f          920   10    0 
+Unicorn   958721033 10  8 f   -     -     -          910    0    0 
+Unicorn   958721070 10  7 c   b     b     b          910   60  135 
+Unicorn   958721123 10  6 r   br    b     b          985   90  390 As 9s
+Unicorn   958721246 10  5 c   c     f     -         1285   20    0 
+Unicorn   958721308 10  4 f   -     -     -         1265    0    0 
+Unicorn   958721353 10  3 f   -     -     -         1265    0    0 
+Unicorn   958721411 10  2 Bk  k     k     k         1265   10   45 Jd 4d
+Unicorn   958721466  9  1 Bc  kf    -     -         1300   10    0 
+Unicorn   958721540 10 10 r   r     k     k         1290   40  120 Kd Jd
+Unicorn   958721594 10  9 c   r     b     b         1370   70  220 2s 3h
+Unicorn   958721677  9  8 c   k     f     -         1520   10    0 
+Unicorn   958721751 10  7 f   -     -     -         1510    0    0 
+Unicorn   958721802 10  6 r   b     b     b         1510   70  275 Kh Qs
+Unicorn   958721876 10  5 c   kf    -     -         1715   10    0 
+Unicorn   958721953 10  4 c   bc    k     kc        1705   50   67 Ad 8d
+Unicorn   958722046 10  3 f   -     -     -         1722    0    0 
+Unicorn   958722098 10  2 Bc  bc    kr    b         1722  100    0 7s Kd
+Unicorn   958722150 10  1 Bc  kf    -     -         1622   10    0 
+Unicorn   958722212 10 10 r   k     c     f         1612   40    0 
+Unicorn   958722287 10  9 c   b     b     b         1572   60    0 9s Qd
+Unicorn   958722336 10  3 Q   -     -     -         1512    0    0 
+Unicorn   958722595  9  6 r   b     -     -         1512   30  100 
+Unicorn   958722632  8  4 r   bc    c     k         1582   60    0 6d Ac
+Unicorn   958722698  9  3 rc  kcc   kf    -         1522   70    0 
+Unicorn   958722805  9  2 Bk  k     k     bc        1452   50    0 Qs 9c
+Unicorn   958722913  8  1 Bc  kf    -     -         1402   10    0 
+Unicorn   958722970  8  8 rc  c     c     f         1392   70    0 
+Unicorn   958723030  8  7 c   f     -     -         1322   10    0 
+Unicorn   958723133  8  6 f   -     -     -         1312    0    0 
+Unicorn   958723192  8  5 f   -     -     -         1312    0    0 
+Unicorn   958723288  8  4 r   b     b     k         1312   50    0 5h 5d
+Unicorn   958723338  8  3 rc  brc   b     b         1262  110  435 Ks Qs
+Unicorn   958723389  8  2 Bc  kf    -     -         1587   20    0 
+Unicorn   958723436  8  1 Bc  kf    -     -         1567   10    0 
+Unicorn   958723493  8  8 c   r     k     c         1557   50    0 9h 3c
+Unicorn   958723563  9  8 c   r     r     k         1507   70    0 7c 6h
+Unicorn   958723652  7  5 r   k     k     k         1437   30    0 5s Ah
+Unicorn   958723701  7  4 r   br    bc    kf        1407  120    0 
+Unicorn   958723761  9  4 r   r     kc    k         1287   60    0 Qs Qh
+Unicorn   958723821  9  3 c   kQ    -     -         1227   10    0 
+Unicorn   958779648  2  2 Br  b     b     k         1217   50  100 5h 5c
+Unicorn   958779677  4  1 Bc  b     b     bc        1267   80  240 8h Js
+Unicorn   958779724  4  4 cc  f     -     -         1427   30    0 
+Unicorn   958779762  4  3 r   b     b     b         1397   70  195 Th Ts
+Unicorn   958779819  5  2 Bc  kf    -     -         1522   20    0 
+Unicorn   958779863  5  1 Bc  b     b     b         1502   60  150 6d Jd
+Unicorn   958779912  6  6 f   -     -     -         1592    0    0 
+Unicorn   958779966  6  5 f   -     -     -         1592    0    0 
+Unicorn   958780065  8  6 f   -     -     -         1592    0    0 
+Unicorn   958780181 10  7 c   rc    rc    r         1592  150    0 9s Ah
+Unicorn   958780283 10  6 c   cf    -     -         1442   20    0 
+Unicorn   958780391 10  5 r   b     kc    cc        1422   90    0 9c 9h
+Unicorn   958780483 10  4 f   -     -     -         1332    0    0 
+Unicorn   958780577 10  3 cc  f     -     -         1332   20    0 
+Unicorn   958780649 10  2 Bc  kc    k     kc        1312   50    0 Jh 9c
+Unicorn   958780728 10  1 Bc  bc    b     kc        1262   80    0 3h 8h
+Unicorn   958780818 10 10 c   b     f     -         1182   20    0 
+Unicorn   958780896 10  9 f   -     -     -         1162    0    0 
+Unicorn   958780926 10  8 c   f     -     -         1162   20    0 
+Unicorn   958781008 10  7 f   -     -     -         1142    0    0 
+Unicorn   958781067 10  6 f   -     -     -         1142    0    0 
+Unicorn   958781115  9  4 c   KQ    -     -         1142   20    0 
+Unicorn   958781272 10 10 cc  c     r     c         1122  110    0 Qh 3h
+Unicorn   958781344 10  9 cc  rc    cc    f         1012  150    0 
+Unicorn   958781429 10  8 r   rc    cc    cc         862  240    0 As Jh
+Unicorn   958781484 10  3 Q   -     -     -          622    0    0 
+Unicorn   958788092 10  6 c   c     c     c          622   60    0 Ts Qs
+Unicorn   958788159 10  5 c   f     -     -          562   10    0 
+Unicorn   958788208 10  4 f   -     -     -          552    0    0 
+Unicorn   958788283 10  3 cc  b     b     k          552   50    0 4s Ah
+Unicorn   958788335 10  2 Bc  b     b     k          502   50  195 9s Kd
+Unicorn   958788388 10  1 Bcc kc    kc    kf         647   70    0 
+Unicorn   958788448 10 10 f   -     -     -          577    0    0 
+Unicorn   958788578 10  9 f   -     -     -          577    0    0 
+Unicorn   958788636 10  8 cc  f     -     -          577   20    0 
+Unicorn   958788723 10  7 f   -     -     -          557    0    0 
+Unicorn   958788788 10  6 cc  k     bf    -          557   40    0 
+Unicorn   958788841 10  5 f   -     -     -          517    0    0 
+Unicorn   958788917 10  4 f   -     -     -          517    0    0 
+Unicorn   958788982 10  3 f   -     -     -          517    0    0 
+Unicorn   958789078 10  2 Bc  bf    -     -          517   30    0 
+Unicorn   958789156 10  1 Bc  kf    -     -          487   20    0 
+Unicorn   958789209  9  9 c   f     -     -          467   10    0 
+Unicorn   958789259  9  8 c   b     b     b          457   60  165 3c 6c
+Unicorn   958789310  9  7 c   f     -     -          562   10    0 
+Unicorn   958789354  9  6 f   -     -     -          552    0    0 
+Unicorn   958789393  8  4 rc  b     b     b          552   80    0 6c 3c
+Unicorn   958789435  7  3 r   c     r     b          472   90  230 Jh Qh
+Unicorn   958789495  6  2 Bk  k     f     -          612   10    0 
+Unicorn   958789542  6  1 Bf  -     -     -          602    5    0 
+Unicorn   958789584  6  6 f   -     -     -          597    0    0 
+Unicorn   958789600  6  5 r   b     k     b          597   50  125 Qh Qs
+Unicorn   958789635  6  4 f   -     -     -          672    0    0 
+Unicorn   958789667  6  3 r   f     -     -          672   20    0 
+Unicorn   958789696  6  2 Bk  r     r     k          652   70    0 3c 4d
+Unicorn   958789734  6  1 Bf  -     -     -          582    5    0 
+Unicorn   958789771  8  8 f   -     -     -          577    0    0 
+Unicorn   958789811  8  7 c   f     -     -          577   10    0 
+Unicorn   958789852  8  6 f   -     -     -          567    0    0 
+Unicorn   958789885  8  5 r   r     b     k          567   60  225 Qh As
+Unicorn   958789925  9  5 f   -     -     -          732    0    0 
+Unicorn   958789973  9  4 f   -     -     -          732    0    0 
+Unicorn   958790020  9  3 f   -     -     -          732    0    0 
+Unicorn   958790060 10  2 Bc  bc    kr    b          732  100  300 
+Unicorn   958790141 10  1 Bc  kf    -     -          932   10    0 
+Unicorn   958790202 10 10 c   f     -     -          922   10    0 
+Unicorn   958790278  8  7 f   -     -     -          912    0    0 
+Unicorn   958790319  8  6 f   -     -     -          912    0    0 
+Unicorn   958790387  9  6 r   b     b     k          912   50    0 As 5d
+Unicorn   958790454  9  5 f   -     -     -          862    0    0 
+Unicorn   958790522 10  5 f   -     -     -          862    0    0 
+Unicorn   958790581 10  4 f   -     -     -          862    0    0 
+Unicorn   958790677 10  3 c   k     k     k          862   10    0 Tc 9c
+Unicorn   958790730 10  2 Bc  bc    br    -          852  100  185 
+Unicorn   958790787 10  1 Bccc kcc   k     b          937   90  410 4d 5c
+Unicorn   958790909 10 10 f   -     -     -         1257    0    0 
+Unicorn   958791061 10  9 f   -     -     -         1257    0    0 
+Unicorn   958791199 10  8 f   -     -     -         1257    0    0 
+Unicorn   958791352 10  7 f   -     -     -         1257    0    0 
+Unicorn   958791439 10  6 f   -     -     -         1257    0    0 
+Unicorn   958791516 10  6 f   -     -     -         1257    0    0 
+Unicorn   958791596 10  4 c   b     b     k         1257   40   85 Kh 7h
+Unicorn   958791685 10  3 c   k     f     -         1302   10    0 
+Unicorn   958791732 10  2 Bk  kf    -     -         1292   10    0 
+Unicorn   958791792 10  1 Brc k     b     b         1282   80    0 8d 8h
+Unicorn   958791857 10 10 r   rr    b     k         1202   80    0 Jh Jd
+Unicorn   958791965 10  9 c   f     -     -         1122   10    0 
+Unicorn   958792042 10  8 f   -     -     -         1112    0    0 
+Unicorn   958792119 10  7 c   f     -     -         1112   20    0 
+Unicorn   958792188 10  6 f   -     -     -         1092    0    0 
+Unicorn   958792274 10  5 rc  rc    brc   c         1092  160  695 Th Tc
+Unicorn   958792427 10  4 f   -     -     -         1627    0    0 
+Unicorn   958792464 10  3 f   -     -     -         1627    0    0 
+Unicorn   958792589 10  2 Bk  b     -     -         1627   20   40 
+Unicorn   958792621 10  1 Bc  kf    -     -         1647   20    0 
+Unicorn   958792703  9  9 f   -     -     -         1627    0    0 
+Unicorn   958792737  8  7 f   -     -     -         1627    0    0 
+Unicorn   958792788 10  8 f   -     -     -         1627    0    0 
+Unicorn   958792836 10  7 f   -     -     -         1627    0    0 
+Unicorn   958792908 10  6 f   -     -     -         1627    0    0 
+Unicorn   958793020 10  5 f   -     -     -         1627    0    0 
+Unicorn   958793142  9  4 f   -     -     -         1627    0    0 
+Unicorn   958793190 10  3 f   -     -     -         1627    0    0 
+Unicorn   958793283 10  2 Bf  -     -     -         1627   10    0 
+Unicorn   958793360 10  1 Bc  bc    kcc   k         1617  120    0 8h Js
+Unicorn   958793481 10 10 c   rc    c     c         1497  100    0 9d Kc
+Unicorn   958793600  9  7 Q   -     -     -         1397    0    0 
+Unicorn   958795813  9  7 f   -     -     -         1397    0    0 
+Unicorn   958795887 10  6 c   b     b     b         1397   60  150 
+Unicorn   958795951 10  5 f   -     -     -         1487    0    0 
+Unicorn   958796038 10  4 f   -     -     -         1487    0    0 
+Unicorn   958796142 10  3 f   -     -     -         1487    0    0 
+Unicorn   958796223 10  2 Bk  k     kcc   kf        1487   70    0 
+Unicorn   958796350 10  1 Bc  kf    -     -         1417   20    0 
+Unicorn   958796392 10 10 f   -     -     -         1397    0    0 
+Unicorn   958796417 10  9 c   f     -     -         1397   20    0 
+Unicorn   958796508 10  8 f   -     -     -         1377    0    0 
+Unicorn   958796575 10  7 r   r     k     kc        1377   60    0 As Kh
+Unicorn   958796673 10  6 f   -     -     -         1317    0    0 
+Unicorn   958796736  9  4 r   b     b     b         1317   70  160 
+Unicorn   958796778  9  4 f   -     -     -         1407    0    0 
+Unicorn   958796812  9  3 f   -     -     -         1407    0    0 
+Unicorn   958796860  9  2 Br  b     b     b         1407   70  175 Kc Ac
+Unicorn   958796915  9  1 Bc  kf    -     -         1512   10    0 
+Unicorn   958797026  9  9 c   f     -     -         1502   10    0 
+Unicorn   958797108  8  7 f   -     -     -         1492    0    0 
+Unicorn   958797190 10  8 c   c     f     -         1492   20    0 
+Unicorn   958797274  8  5 f   -     -     -         1472    0    0 
+Unicorn   958797327  7  3 cc  b     r     b         1472   90  190 3d 6d
+Unicorn   958797431  7  2 Bc  bc    kc    kc        1572   80    0 7h 5s
+Unicorn   958797487  8  1 Bc  kf    -     -         1492   30    0 
+Unicorn   958797549  9  9 f   -     -     -         1462    0    0 
+Unicorn   958797660 10  9 f   -     -     -         1462    0    0 
+Unicorn   958797780 10  8 f   -     -     -         1462    0    0 
+Unicorn   958797861 10  8 f   -     -     -         1462    0    0 
+Unicorn   958797947  9  5 c   bc    c     brc       1462  130  355 Qs 9h
+Unicorn   958798034  9  4 f   -     -     -         1687    0    0 
+Unicorn   958798098  9  3 f   -     -     -         1687    0    0 
+Unicorn   958798131  9  2 Bc  kc    kcc   kf        1687   90    0 
+Unicorn   958798216  9  1 Bf  -     -     -         1597    5    0 
+Unicorn   958798294  9  9 c   rc    ccc   f         1592  140    0 
+Unicorn   958798377  9  8 rc  rc    r     k         1452  120   28 As Ks
+Unicorn   958798475  9  7 f   -     -     -         1360    0    0 
+Unicorn   958798542  8  6 cKQ -     -     -         1360   10    0 
+Unicorn   958798735  8  6 f   -     -     -         1350    0    0 
+Unicorn   958798805  9  6 f   -     Q     -         1350    0    0 
+Unicorn   958798921  9  4 c   kf    -     -         1450   10    0 
+Unicorn   958798985  9  3 f   -     -     -         1340    0    0 
+Unicorn   958799026  9  2 Bk  kc    kcc   ccc       1340  180    0 Qs 3d
+Unicorn   958799112  9  1 Bf  -     -     -         1160    5    0 
+Unicorn   958799195 10 10 c   c     c     c         1155   80    0 Th Qc
+Unicorn   958799307 10  9 f   -     -     -         1270    0    0 
+Unicorn   958799424  9  7 f   -     -     -         1250    0    0 
+Unicorn   958799493 10  7 c   f     -     -         1250   10    0 
+Unicorn   958799648 10  6 f   -     -     -         1240    0    0 
+Unicorn   958799743 10  5 cc  f     -     -         1240   40    0 
+Unicorn   958799831 10  4 f   -     -     -         1110    0    0 
+Unicorn   958799930 10  3 f   -     -     -         1110    0    0 
+Unicorn   958799970 10  2 Bf  -     -     -         1110   10    0 
+Unicorn   958800054 10  1 Bf  -     -     -         1090    5    0 
+Unicorn   958800119 10 10 f   -     -     -         1075    0    0 
+Unicorn   958800242 10  9 f   -     -     -         1395    0    0 
+Unicorn   958800302 10  8 f   -     -     -         1395    0    0 
+Unicorn   958800425 10  7 f   -     -     -         1375    0    0 
+Unicorn   958800529  9  6 f   -     -     -         1355    0    0 
+Unicorn   958800589 10  5 f   -     -     -         1335    0    0 
+Unicorn   958800662 10  4 cc  f     -     -         1430   20    0 
+Unicorn   958800722  9  3 f   -     -     -         1400    0    0 
+Unicorn   958800876 10  2 Bk  f     -     -         1395   10    0 
+Unicorn   958800964 10  1 Bf  -     -     -         1385    5    0 
+Unicorn   958801042  9  9 f   -     -     -         1380    0    0 
+Unicorn   958801089  9  8 f   -     -     -         1380    0    0 
+Unicorn   958801158  9  7 c   f     -     -         1380   20    0 
+Unicorn   958801234  9  6 rc  b     brc   br        1360  190  695 Qh Qs
+Unicorn   958801333 10  6 cc  cc    f     -         1865   70    0 
+Unicorn   958801408 10  5 f   -     -     -         1795    0    0 
+Unicorn   958801496 10  4 rc  rc    cc    kc        1795  160  845 Qc Qh
+Unicorn   958801587 10  3 f   -     -     -         2480    0    0 
+Unicorn   958801689  9  2 Bf  -     -     -         2480   10    0 
+Unicorn   958801778  8  1 Bf  -     -     -         2470    5    0 
+Unicorn   958801842  8  8 f   -     -     -         2465    0    0 
+Unicorn   958801952  8  7 c   r     c     c         2465   70    0 Th 8c
+Unicorn   958802028 10  7 ccc kc    k     k         2395   50    0 Tc Jd
+Unicorn   958802104  9  6 f   -     -     -         2345    0    0 
+Unicorn   958802167  9  6 f   -     -     -         2345    0    0 
+Unicorn   958802201  8  4 rc  kc    kc    kc        2345   80    0 Qd Jd
+Unicorn   958802275  8  3 f   -     -     -         2265    0    0 
+Unicorn   958802390  7  1 Bf  -     -     -         2265   10    0 
+Unicorn   958802414  8  1 Bf  -     -     -         2255    5    0 
+Unicorn   958802474  8  8 f   -     -     -         2250    0    0 
+Unicorn   958802518  8  7 cc  kf    -     -         2250   20    0 
+Unicorn   958802571  8  6 f   -     -     -         2230    0    0 
+Unicorn   958802635  8  4 rc  brc   brc   kc        2230  180  410 5d 5c
+Unicorn   958802704  9  3 f   -     -     -         2460    0    0 
+Unicorn   958802749 10  2 Bf  -     -     -         2460   10    0 
+Unicorn   958802825  9  1 Br  br    br    kc        2450  170  174 Kd Ah
+Unicorn   958802895  9  9 cc  c     f     -         2454   50    0 
+Unicorn   958802946 10  9 f   -     -     -         2404    0    0 
+Unicorn   958803011 10  8 f   -     -     -         2404    0    0 
+Unicorn   958803063 10  7 f   -     -     -         2404    0    0 
+Unicorn   958803157 10  6 ccc krc   kf    -         2404   80    0 
+Unicorn   958803277  9  4 f   -     -     -         2324    0    0 
+Unicorn   958803350  9  4 cc  kf    -     -         2324   30    0 
+Unicorn   958803428 10  3 f   -     -     -         2294    0    0 
+Unicorn   958803543 10  2 Bf  -     -     -         2294   10    0 
+Unicorn   958803590 10  1 Bc  kcc   kc    kc        2284  150    0 Jd Ts
+Unicorn   958803636  9  9 cc  f     -     -         2134   30    0 
+Unicorn   958803669 10  9 c   c     f     -         2104   30    0 
+Unicorn   958803754 10  8 cc  f     -     -         2074   30    0 
+Unicorn   958803798 10  7 cc  k     f     -         2044   40    0 
+Unicorn   958803869 10  6 f   -     -     -         2004    0    0 
+Unicorn   958803987 10  5 cc  cc    kcc   krr       2004  250    0 9h Td
+Unicorn   958804101 10  5 f   -     -     -         1754    0    0 
+Unicorn   958804181  9  3 f   -     -     -         1754    0    0 
+Unicorn   958804220 10  2 Bcc kcc   kf    -         1754   80    0 
+Unicorn   958804324  9  1 Bc  k     b     kf        1674   30    0 
+Unicorn   958804378  9  9 c   k     rc    b         1644   90    0 2s 2d
+Unicorn   958804420  9  8 r   rr    brc   kf        1554  140    0 
+Unicorn   958804480 10  8 Q   -     -     -         1414    0    0 
+Unicorn   958875390  8  3 cc  k     k     k         2647   20    0 Jc 9s
+Unicorn   958875450  9  2 Bf  -     -     -         2627   10    0 
+Unicorn   958875538  9  1 BKQ -     -     -         2617    5    0 
+Unicorn   958895904 10  7 f   -     -     -         2612    0    0 
+Unicorn   958895947 10  6 f   -     -     -         2612    0    0 
+Unicorn   958896009  9  5 f   -     -     -         2612    0    0 
+Unicorn   958896051  9  4 f   -     -     -         2612    0    0 
+Unicorn   958896069  9  3 r   b     b     -         2612   50   95 
+Unicorn   958896101 10  2 Bc  kcc   kr    b         2657  110  335 Jc 5c
+Unicorn   958896189 10  1 Bf  -     -     -         2882    5    0 
+Unicorn   958896237 10 10 f   -     -     -         2877    0    0 
+Unicorn   958896281 10  9 c   f     -     -         2877   10    0 
+Unicorn   958896330 10  8 f   -     -     -         2867    0    0 
+Unicorn   958896409 10  7 cc  f     -     -         2867   40    0 
+Unicorn   958896496 10  6 f   -     -     -         2827    0    0 
+Unicorn   958896554 10  5 cc  r     cc    f         2827   90    0 
+Unicorn   958896653 10  4 cc  c     c     cf        2737  100    0 
+Unicorn   958896731 10  3 c   cc    cc    f         2637   70    0 
+Unicorn   958896811 10  2 Bc  c     c     cf        2567   70    0 
+Unicorn   958896924 10  1 Bf  -     -     -         2497    5    0 
+Unicorn   958896989  9  9 c   f     -     -         2492   10    0 
+Unicorn   958897017  9  8 f   -     -     -         2482    0    0 
+Unicorn   958897050  9  7 f   -     -     -         2482    0    0 
+Unicorn   958897111  9  6 f   -     -     -         2482    0    0 
+Unicorn   958897178  9  5 f   -     -     -         2482    0    0 
+Unicorn   958897237  9  4 f   -     -     -         2482    0    0 
+Unicorn   958897287 10  4 f   -     -     -         2482    0    0 
+Unicorn   958897370  9  2 Bc  kf    -     -         2482   30    0 
+Unicorn   958897463  9  1 Bf  -     -     -         2452    5    0 
+Unicorn   958897497  9  9 f   -     -     -         2447    0    0 
+Unicorn   958897569  9  8 rc  rr    c     b         2447  120  460 Ks Kc
+Unicorn   958897679  8  7 f   -     -     -         2787    0    0 
+Unicorn   958897729  8  6 f   -     -     -         2787    0    0 
+Unicorn   958897776  8  5 f   -     -     -         2787    0    0 
+Unicorn   958897837  8  4 f   -     -     -         2787    0    0 
+Unicorn   958897894  9  3 f   -     -     -         2787    0    0 
+Unicorn   958897981  8  2 Bc  kf    -     -         2787   20    0 
+Unicorn   958898037  8  1 Bc  br    k     kc        2767   70    0 8d 7d
+Unicorn   958898099  8  7 f   -     -     -         2697    0    0 
+Unicorn   958898142  9  7 cc  bc    c     k         2697   70  290 Th Ac
+Unicorn   958898239  9  6 f   -     -     -         2917    0    0 
+Unicorn   958898285  9  5 r   br    b     b         2917   90    0 Jh Jc
+Unicorn   958898328 10  5 f   -     -     -         2827    0    0 
+Unicorn   958898360  9  4 f   -     -     -         2827    0    0 
+Unicorn   958898433  9  3 f   -     -     -         2827    0    0 
+Unicorn   958898511  8  2 Bk  b     b     -         2827   40   70 
+Unicorn   958898548  9  1 Br  b     b     b         2857   70  150 9c 9d
+Unicorn   958898575  9  9 f   -     -     -         2937    0    0 
+Unicorn   958898608  9  8 f   -     -     -         2937    0    0 
+Unicorn   958898653  9  8 f   -     -     -         2937    0    0 
+Unicorn   958898694  9  7 rc  b     b     b         2937   80  200 4h Ac
+Unicorn   958898740 10  6 f   -     -     -         3057    0    0 
+Unicorn   958898832 10  5 ccc k     bc    kc        3057  100    0 Jc Kh
+Unicorn   958898904  8  3 cc  kc    kf    -         2957   30    0 
+Unicorn   958898971  8  2 Bk  kf    -     -         2927   10    0 
+Unicorn   958899024  8  1 Bc  kf    -     -         2917   10    0 
+Unicorn   958899115  9  9 f   -     -     -         2907    0    0 
+Unicorn   958899165  9  8 f   -     -     -         2907    0    0 
+Unicorn   958899202  9  7 cc  f     -     -         2907   20    0 
+Unicorn   958899236  9  6 f   -     -     -         2887    0    0 
+Unicorn   958899273  9  5 f   -     -     -         2887    0    0 
+Unicorn   958899309  9  4 r   b     bc    kc        2887   90  210 Kd Kh
+Unicorn   958899349  9  3 f   -     -     -         3007    0    0 
+Unicorn   958899428  9  2 Bc  kf    -     -         3007   20    0 
+Unicorn   958899517  8  1 Bf  -     -     -         2987    5    0 
+Unicorn   958899591  8  8 cc  f     -     -         2982   40    0 
+Unicorn   958899667  8  7 f   -     -     -         2942    0    0 
+Unicorn   958899742  8  6 c   c     k     rc        2942  110  385 Ks Ts
+Unicorn   958899804  8  5 r   r     krc   kf        3217  100    0 
+Unicorn   958899850  8  4 rc  f     -     -         3117   30    0 
+Unicorn   958899904  8  3 f   -     -     -         3087    0    0 
+Unicorn   958899988  8  2 Bc  f     -     -         3087   20    0 
+Unicorn   958900060  7  1 Bf  -     -     -         3067    5    0 
+Unicorn   958900100  9  8 f   -     -     -         3062    0    0 
+Unicorn   958900155 10  8 f   -     -     -         3062    0    0 
+Unicorn   958900187 10  7 f   -     -     -         3062    0    0 
+Unicorn   958900274 10  6 c   k     kf    -         3062   10    0 
+Unicorn   958900362  9  5 f   -     -     -         3052    0    0 
+Unicorn   958900416 10  4 f   -     -     -         3052    0    0 
+Unicorn   958900508 10  3 cc  f     -     -         3052   20    0 
+Unicorn   958900556 10  2 Bc  k     bc    kc        3032   80    0 7h 7d
+Unicorn   958900605 10  1 Bc  k     kf    -         2952   10    0 
+Unicorn   958900666 10 10 c   ccc   f     -         2942   60    0 
+Unicorn   958900789 10  9 f   -     Q     -         2882    0    0 

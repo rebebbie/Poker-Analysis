@@ -1,0 +1,212 @@
+scuitre   958976553  7  2 Bc  k     kf    -         9122   40    0 
+scuitre   958976597  6  1 Bf  -     -     -         9082   10    0 
+scuitre   958976644  6  6 f   -     -     -         9072    0    0 
+scuitre   958976663  6  5 f   -     -     -         9072    0    0 
+scuitre   958976722  6  4 f   -     -     -         9072    0    0 
+scuitre   958976752  7  4 f   -     -     -         9072    0    0 
+scuitre   958976864  8  3 f   -     -     -         9072    0    0 
+scuitre   958976913  8  2 Bc  kf    -     -         9072   40    0 
+scuitre   958976969  8  1 Bf  -     -     -         9032   10    0 
+scuitre   958977008  8  8 f   -     -     -         9022    0    0 
+scuitre   958977059  8  7 c   f     -     -         9022   40    0 
+scuitre   958977095  8  6 f   -     -     -         8982    0    0 
+scuitre   958977124  8  5 r   b     -     -         8982   60  130 
+scuitre   958977201  7  3 f   -     -     -         9052    0    0 
+scuitre   958977212  7  2 Br  b     -     -         9052   60  150 
+scuitre   958977258  8  1 Br  b     b     -         9142  100  280 
+scuitre   958977312  8  8 r   c     f     -         9322   60    0 
+scuitre   958977360  8  7 f   -     -     -         9262    0    0 
+scuitre   958977413  8  6 c   kf    -     -         9262   20    0 
+scuitre   958977451  8  5 f   -     -     -         9242    0    0 
+scuitre   958977505  9  5 f   -     -     -         9242    0    0 
+scuitre   958977529  9  4 r   bc    kf    -         9242   80    0 
+scuitre   958977602  9  3 f   -     -     -         9162    0    0 
+scuitre   958977652  9  2 Bf  -     -     -         9162   20    0 
+scuitre   958977663  9  1 Bf  -     -     -         9142   10    0 
+scuitre   958977705  9  9 f   -     -     -         9132    0    0 
+scuitre   958977742  9  8 c   kf    -     -         9132   20    0 
+scuitre   958977806  9  7 f   -     -     -         9112    0    0 
+scuitre   958977836  8  5 r   b     kf    -         9112   80    0 
+scuitre   958977886  7  3 f   -     -     -         9032    0    0 
+scuitre   958977909  7  3 f   -     -     -         9032    0    0 
+scuitre   958977940  7  2 Bk  k     b     b         9032  100  240 3s 9d
+scuitre   958977985  7  1 Bc  kc    kf    -         9172   40    0 
+scuitre   958978044  7  7 f   -     -     -         9132    0    0 
+scuitre   958978080  7  6 c   b     b     -         9132   80  140 
+scuitre   958978122  6  4 r   b     b     b         9192  140  310 
+scuitre   958978160  6  3 f   -     -     -         9362    0    0 
+scuitre   958978187  6  2 Bk  kf    -     -         9362   20    0 
+scuitre   958978222  6  1 Bc  k     kf    -         9342   20    0 
+scuitre   958978264  6  6 rc  r     b     k         9322  140  360 Qs 8s
+scuitre   958978305  6  5 f   -     -     -         9542    0    0 
+scuitre   958978345  6  4 f   -     -     -         9542    0    0 
+scuitre   958978369  6  3 rc  kc    kc    k         9542  120    0 As 9s
+scuitre   958978449  6  2 Bf  -     -     -         9422   20    0 
+scuitre   958978492  6  1 Bc  kc    b     b         9402  140  360 3h Ah
+scuitre   958978534  6  6 r   b     brf   -         9622  180    0 
+scuitre   958978586  6  5 f   -     -     -         9442    0    0 
+scuitre   958978595  6  4 f   -     -     -         9442    0    0 
+scuitre   958978633  6  3 cc  c     b     k         9442  100    0 Ad 2c
+scuitre   958978677  7  2 Bk  c     rc    c         9342  200    0 7c 8c
+scuitre   958978731  7  1 Bc  b     k     b         9142   80  220 Qd Ah
+scuitre   958978770  7  7 f   -     -     -         9282    0    0 
+scuitre   958978810  7  6 f   -     -     -         9282    0    0 
+scuitre   958978835  7  5 c   c     bf    -         9282   80    0 
+scuitre   958978886  7  4 f   -     -     -         9202    0    0 
+scuitre   958978923  7  3 c   kc    kc    kc        9202  120    0 5h Jh
+scuitre   958978994  7  2 Bc  kc    k     b         9082  100  210 Ts 8d
+scuitre   958979028  7  1 Brc k     b     bc        9192  180    0 Qd Ah
+scuitre   958979083  7  7 c   k     f     -         9012   20    0 
+scuitre   958979130  7  6 f   -     -     -         8992    0    0 
+scuitre   958979189  7  6 f   -     -     -         8992    0    0 
+scuitre   958979232  5  3 c   b     -     -         8992   40   80 
+scuitre   958979264  4  3 f   -     -     -         9032    0    0 
+scuitre   958979281  4  2 Br  b     b     -         9032  100  160 
+scuitre   958979300  4  1 Bf  -     -     -         9092   10    0 
+scuitre   958979328  4  4 f   -     -     -         9082    0    0 
+scuitre   958979355  4  3 f   -     -     -         9082    0    0 
+scuitre   958979381  4  2 Bk  b     bc    b         9082  160  490 Ah 3s
+scuitre   958979411  4  1 Bc  kf    -     -         9412   20    0 
+scuitre   958979436  4  4 c   b     b     b         9392  120  270 9s Kh
+scuitre   958979459  4  3 r   k     b     -         9542   80  160 
+scuitre   958979483  4  2 Bf  -     -     -         9622   20    0 
+scuitre   958979492  4  1 Bf  -     -     -         9602   10    0 
+scuitre   958979500  4  4 f   -     -     -         9592    0    0 
+scuitre   958979522  4  3 rc  c     f     -         9592   80    0 
+scuitre   958979556  4  2 Bk  k     k     kf        9512   20    0 
+scuitre   958979584  4  1 Bf  -     -     -         9492   10    0 
+scuitre   958979593  4  4 f   -     -     -         9482    0    0 
+scuitre   958979631  4  3 f   -     -     -         9482    0    0 
+scuitre   958979665  4  2 Bk  b     kf    -         9482   40    0 
+scuitre   958979692  4  1 Bf  -     -     -         9442   10    0 
+scuitre   958979720  4  4 cc  c     k     r         9432  140  300 
+scuitre   958979755  5  3 f   -     -     -         9592    0    0 
+scuitre   958979781  5  2 Bf  -     -     -         9592   20    0 
+scuitre   958979800  5  1 Bc  kf    -     -         9572   40    0 
+scuitre   958979852  5  5 r   b     b     b         9532  140  300 5h 2s
+scuitre   958979877  4  3 f   -     -     -         9692    0    0 
+scuitre   958979890  4  3 f   -     Q     -         9692    0    0 
+scuitre   959055214 10  3 f   -     -     -         9692    0    0 
+scuitre   959055263 10  2 Bk  kf    -     -         9692   20    0 
+scuitre   959055308 10  1 Bc  bc    kc    kc        9672  160    0 Td Ts
+scuitre   959055396 10 10 f   -     -     -         9512    0    0 
+scuitre   959055465 10  9 r   b     b     b         9512  140  350 Qs Kh
+scuitre   959055508 10  8 c   kf    -     -         9722   20    0 
+scuitre   959055583 10  7 f   -     -     -         9702    0    0 
+scuitre   959055660 10  6 r   f     -     -         9702   40    0 
+scuitre   959055710 10  5 cc  kf    -     -         9662   40    0 
+scuitre   959055767 10  4 r   br    b     k         9622  140  450 Ad Kh
+scuitre   959055815 10  3 f   -     -     -         9932    0    0 
+scuitre   959055851 10  2 Bc  kc    kc    kc        9932  140  350 8s As
+scuitre   959055909 10  1 Bf  -     -     -        10142   10    0 
+scuitre   959055940 10 10 f   -     -     -        10132    0    0 
+scuitre   959055975 10 10 f   -     -     -        10132    0    0 
+scuitre   959056028 10  8 c   b     -     -        10132   40  110 
+scuitre   959056070 10  7 f   -     -     -        10202    0    0 
+scuitre   959056136  9  5 f   -     -     -        10202    0    0 
+scuitre   959056194  9  4 cc  kf    -     -        10202   40    0 
+scuitre   959056241  9  3 r   c     c     r        10162  180  420 7s 7h
+scuitre   959056282  9  2 Bk  k     k     b        10402   60   90 
+scuitre   959056321  9  1 Bc  kf    -     -        10432   20    0 
+scuitre   959056350  9  9 f   -     -     -        10412    0    0 
+scuitre   959056393  9  8 f   -     -     -        10412    0    0 
+scuitre   959056422  8  6 f   -     -     -        10412    0    0 
+scuitre   959056479  8  5 f   -     -     -        10412    0    0 
+scuitre   959056510  8  4 f   -     -     -        10412    0    0 
+scuitre   959056553 10  4 f   -     -     -        10412    0    0 
+scuitre   959056588 10  3 f   -     -     -        10412    0    0 
+scuitre   959056644 10  2 Bk  kf    -     -        10412   20    0 
+scuitre   959056700 10  1 Bc  kf    -     -        10392   40    0 
+scuitre   959056768 10 10 f   -     -     -        10352    0    0 
+scuitre   959056844 10  9 c   b     b     b        10352  140    0 Qd Ah
+scuitre   959056898 10  8 c   c     f     -        10212   60    0 
+scuitre   959056954 10  7 f   -     -     -        10152    0    0 
+scuitre   959056984 10  6 f   -     -     -        10152    0    0 
+scuitre   959057050 10  5 r   c     k     c        10152  120    0 Jc Ad
+scuitre   959057141 10  4 f   -     -     -        10032    0    0 
+scuitre   959057209 10  3 f   -     -     -        10032    0    0 
+scuitre   959057247 10  2 Bk  kf    -     -        10032   20    0 
+scuitre   959057293 10  1 Bf  -     -     -        10012   10    0 
+scuitre   959057333 10 10 f   -     -     -        10002    0    0 
+scuitre   959057394 10  9 c   r     b     b        10002  140  310 
+scuitre   959057457 10  8 c   f     -     -        10172   40    0 
+scuitre   959057531 10  7 f   -     -     -        10132    0    0 
+scuitre   959057594 10  6 c   f     -     -        10132   40    0 
+scuitre   959057675 10  5 cc  kf    -     -        10092   40    0 
+scuitre   959057710 10  4 f   -     -     -        10052    0    0 
+scuitre   959057763 10  3 f   -     -     -        10052    0    0 
+scuitre   959057796 10  2 Bk  kf    -     -        10052   20    0 
+scuitre   959057853 10  1 Bc  b     b     -        10032   80  120 
+scuitre   959057886 10 10 f   -     -     -        10072    0    0 
+scuitre   959057937 10  9 f   -     -     -        10072    0    0 
+scuitre   959057962 10  8 f   -     -     -        10072    0    0 
+scuitre   959058021 10  7 f   -     -     -        10072    0    0 
+scuitre   959058118 10  6 c   f     -     -        10072   40    0 
+scuitre   959058164 10  5 f   -     -     -        10032    0    0 
+scuitre   959058214 10  4 rc  b     b     b        10032  180  350 
+scuitre   959058274 10  3 f   -     -     -        10202    0    0 
+scuitre   959058328 10  2 Bc  kc    kc    kr       10202  180    0 Kc 9c
+scuitre   959058381 10  1 Bc  bc    kc    kr       10022  200  520 
+scuitre   959058459 10 10 f   -     -     -        10342    0    0 
+scuitre   959058514 10  9 f   -     -     -        10342    0    0 
+scuitre   959058552 10  8 f   -     -     -        10342    0    0 
+scuitre   959058613 10  7 f   -     -     -        10342    0    0 
+scuitre   959058670 10  6 r   -     -     -        10342   40   70 
+scuitre   959058696 10  5 f   -     -     -        10372    0    0 
+scuitre   959058711 10  4 f   -     -     -        10372    0    0 
+scuitre   959058785 10  3 f   -     -     -        10372    0    0 
+scuitre   959058857 10  2 Bf  -     -     -        10372   20    0 
+scuitre   959058891 10  1 Bc  kf    -     -        10352   20    0 
+scuitre   959058927 10 10 f   -     -     -        10332    0    0 
+scuitre   959058945 10  9 f   -     -     -        10332    0    0 
+scuitre   959058983 10  8 f   -     -     -        10332    0    0 
+scuitre   959059016 10  7 f   -     -     -        10332    0    0 
+scuitre   959059045 10  6 f   -     -     -        10332    0    0 
+scuitre   959059122 10  5 rc  kc    b     b        10332  160  350 5s 5h
+scuitre   959059171 10  4 c   bc    k     b        10522  100  250 
+scuitre   959059229 10  4 f   -     -     -        10672    0    0 
+scuitre   959059248 10  2 Bf  -     -     -        10672   20    0 
+scuitre   959059301 10  1 Bc  kr    bf    -        10652  120    0 
+scuitre   959059363 10 10 f   -     -     -        10532    0    0 
+scuitre   959059417 10  9 f   -     -     -        10532    0    0 
+scuitre   959059474 10  8 f   -     -     -        10532    0    0 
+scuitre   959059530 10  7 f   -     -     -        10532    0    0 
+scuitre   959059570 10  6 cc  k     b     -        10532   80  220 
+scuitre   959059610 10  5 f   -     -     -        10672    0    0 
+scuitre   959059631 10  4 f   -     -     -        10672    0    0 
+scuitre   959059683 10  3 f   -     -     -        10672    0    0 
+scuitre   959059758 10  2 Bf  -     -     -        10672   20    0 
+scuitre   959059820 10  1 Bc  kf    -     -        10652   20    0 
+scuitre   959059884 10 10 f   -     -     -        10632    0    0 
+scuitre   959059931 10  9 rc  b     b     bf       10632  160    0 
+scuitre   959060000 10  8 f   -     -     -        10472    0    0 
+scuitre   959060047 10  7 r   b     f     -        10472   60    0 
+scuitre   959060098 10  6 c   f     -     -        10412   20    0 
+scuitre   959060161 10  5 r   -     -     -        10392   40   70 
+scuitre   959060174 10  4 f   -     -     -        10422    0    0 
+scuitre   959060242 10  3 f   -     -     -        10422    0    0 
+scuitre   959060290 10  2 Bk  f     -     -        10422   20    0 
+scuitre   959060354 10  1 Bf  -     -     -        10402   10    0 
+scuitre   959060385 10 10 f   -     -     -        10392    0    0 
+scuitre   959060522 10  9 f   -     -     -        10392    0    0 
+scuitre   959060537 10  8 f   -     -     -        10392    0    0 
+scuitre   959060582 10  7 f   -     -     -        10392    0    0 
+scuitre   959060622 10  6 f   -     -     -        10392    0    0 
+scuitre   959060678 10  5 f   -     -     -        10392    0    0 
+scuitre   959060698 10  4 f   -     -     -        10392    0    0 
+scuitre   959060720 10  3 f   -     -     -        10392    0    0 
+scuitre   959060740 10  2 Bk  kcc   kf    -        10392   60    0 
+scuitre   959060817 10  1 Bf  -     -     -        10332   10    0 
+scuitre   959060858 10 10 c   f     -     -        10322   20    0 
+scuitre   959060916 10  9 f   -     -     -        10302    0    0 
+scuitre   959060945 10  8 f   -     -     -        10302    0    0 
+scuitre   959060984 10  7 f   -     -     -        10302    0    0 
+scuitre   959061012 10  6 f   -     -     -        10302    0    0 
+scuitre   959061042 10  5 f   -     -     -        10302    0    0 
+scuitre   959061116 10  4 c   r     b     -        10302  100  180 
+scuitre   959061168 10  3 f   -     -     -        10382    0    0 
+scuitre   959061203 10  2 Bk  k     kf    -        10382   20    0 
+scuitre   959061251 10  1 Bc  kc    kf    -        10362   60    0 
+scuitre   959061338 10 10 r   b     b     b        10302  140  300 
+scuitre   959061385 10  9 r   br    b     k        10462  140  290 5s As
+scuitre   959061442 10  8 f   Q     -     -        10612    0    0 

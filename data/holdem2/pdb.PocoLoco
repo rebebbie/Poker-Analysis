@@ -1,0 +1,361 @@
+PocoLoco  958255505  4  4 f   -     -     -         7095    0    0 
+PocoLoco  958255535  4  3 f   -     -     -         7095    0    0 
+PocoLoco  958255547  3  2 B   -     -     -         7095   20   30 
+PocoLoco  958255555  2  1 Brc k     k     k         7105   60  120 2d Ad
+PocoLoco  958255589  2  2 B   -     -     -         7165   20   30 
+PocoLoco  958359744 10  5 f   -     -     -         7183    0    0 
+PocoLoco  958359756 10  4 f   -     -     -         7183    0    0 
+PocoLoco  958359796 10  3 f   -     -     -         7183    0    0 
+PocoLoco  958359832 10  2 Bc  kf    -     -         7183   40    0 
+PocoLoco  958359905 10  1 Bc  kf    -     -         7143   20    0 
+PocoLoco  958359973 10 10 r   k     f     -         7123   40    0 
+PocoLoco  958360009 10  9 r   -     -     -         7083   40   70 
+PocoLoco  958360022  9  7 f   -     -     -         7113    0    0 
+PocoLoco  958360057  9  7 f   -     -     -         7113    0    0 
+PocoLoco  958360097  9  6 r   b     -     -         7113   60  180 
+PocoLoco  958360130  9  5 f   -     -     -         7233    0    0 
+PocoLoco  958360167  9  5 f   -     -     -         7233    0    0 
+PocoLoco  958360214  8  3 f   -     -     -         7233    0    0 
+PocoLoco  958360251  8  2 Bk  k     f     -         7233   20    0 
+PocoLoco  958360277  8  1 Bc  b     brc   bc        7213  280    0 2c Kc
+PocoLoco  958360336  7  7 r   r     b     k         6933  120    0 As Js
+PocoLoco  958360386  7  3 Q   -     -     -         6813    0    0 
+PocoLoco  958454294 10  2 Bc  kf    -     -         6813   40    0 
+PocoLoco  958454336 10  1 Bc  k     b     kc        6773  100    0 Kd Js
+PocoLoco  958454381 10  7 Q   -     -     -         6673    0    0 
+PocoLoco  958540325  9  9 f   -     -     -         6673    0    0 
+PocoLoco  958540401  9  8 c   b     k     f         6673   40    0 
+PocoLoco  958540477  9  7 f   -     -     -         6633    0    0 
+PocoLoco  958540521  9  6 f   -     -     -         6633    0    0 
+PocoLoco  958540607  8  5 f   -     -     -         6633    0    0 
+PocoLoco  958540671  8  4 f   -     -     -         6633    0    0 
+PocoLoco  958540749  8  2 Br  b     kc    kc        6633  160    0 Ah Qd
+PocoLoco  958540830  8  1 BQ  -     -     -         6473   10    0 
+PocoLoco  958620889  9  9 r   k     c     f         6463   80    0 
+PocoLoco  958620938  9  8 c   br    b     bc        6383  220  700 Td Kd
+PocoLoco  958621033  9  7 f   -     -     -         6863    0    0 
+PocoLoco  958621079  9  6 c   f     -     -         6863   20    0 
+PocoLoco  958621114  9  5 f   -     -     -         6843    0    0 
+PocoLoco  958621168  9  4 c   kf    -     -         6843   20    0 
+PocoLoco  958621255  8  3 f   -     -     -         6823    0    0 
+PocoLoco  958621299  9  3 f   -     -     -         6823    0    0 
+PocoLoco  958621349  9  2 Bc  kf    -     -         6823   40    0 
+PocoLoco  958621430  9  1 Bc  k     kf    -         6783   20    0 
+PocoLoco  958621518  8  8 c   b     k     k         6763   40  110 Qh 9d
+PocoLoco  958621558  8  7 f   -     -     -         6833    0    0 
+PocoLoco  958621607 10  8 f   -     -     -         6833    0    0 
+PocoLoco  958621647 10  7 f   -     -     -         6833    0    0 
+PocoLoco  958621730 10  6 f   -     -     -         6833    0    0 
+PocoLoco  958621764  9  4 c   f     -     -         6833   20    0 
+PocoLoco  958621832  7  3 f   -     -     -         6813    0    0 
+PocoLoco  958621865  6  2 Bk  b     b     b         6813  120  260 Kh 9d
+PocoLoco  958621903  6  1 Bc  kf    -     -         6953   20    0 
+PocoLoco  958621948  6  6 c   b     -     -         6933   40   90 
+PocoLoco  958621970  6  5 f   -     -     -         6983    0    0 
+PocoLoco  958621995  6  4 f   -     -     -         6983    0    0 
+PocoLoco  958622035  6  3 c   kc    kc    kc        6983  120    0 Jc 8c
+PocoLoco  958622096  6  2 Bc  kf    -     -         6863   40    0 
+PocoLoco  958622131  6  1 Bcc kf    -     -         6823   40    0 
+PocoLoco  958622182  6  6 c   f     -     -         6783   20    0 
+PocoLoco  958622216  6  5 cc  kf    -     -         6763   40    0 
+PocoLoco  958622260  6  4 f   -     -     -         6723    0    0 
+PocoLoco  958622302  6  3 f   -     -     -         6723    0    0 
+PocoLoco  958622338  6  2 Bk  f     -     -         6723   20    0 
+PocoLoco  958622374  6  1 Bc  k     b     k         6703   60    0 9h 7s
+PocoLoco  958622412  6  6 f   -     -     -         6643    0    0 
+PocoLoco  958622462  6  5 f   -     -     -         6643    0    0 
+PocoLoco  958622492  6  4 cc  k     f     -         6643   60    0 
+PocoLoco  958622547  6  3 f   -     -     -         6583    0    0 
+PocoLoco  958622596  6  2 Bc  k     kfQ   -         6583   40    0 
+PocoLoco  959059248 10  7 f   -     -     -         6543    0    0 
+PocoLoco  959059301 10  6 r   bf    -     -         6543   60    0 
+PocoLoco  959059363 10  5 cc  kf    -     -         6483   40    0 
+PocoLoco  959059417 10  5 f   -     -     -         6443    0    0 
+PocoLoco  959059474 10  3 f   -     -     -         6443    0    0 
+PocoLoco  959059530 10  2 Br  b     bc    kc        6443  180    0 Jh Jc
+PocoLoco  959059570 10  1 Br  k     kf    -         6263   40    0 
+PocoLoco  959059610 10 10 f   -     -     -         6223    0    0 
+PocoLoco  959059631 10  9 f   -     -     -         6223    0    0 
+PocoLoco  959059683 10  8 f   Q     -     -         6223    0    0 
+PocoLoco  959149946  9  5 f   -     -     -         6223    0    0 
+PocoLoco  959150004  9  5 f   -     -     -         6223    0    0 
+PocoLoco  959150047  7  3 cf  -     -     -         6223   20    0 
+PocoLoco  959150089  7  2 Bk  k     f     -         6203   20    0 
+PocoLoco  959150118  6  1 BQ  -     -     -         6183   10    0 
+PocoLoco  959233348  6  6 r   rc    f     -         5703  120    0 
+PocoLoco  959233380  6  5 f   -     -     -         5583    0    0 
+PocoLoco  959233411  6  4 f   -     -     -         5583    0    0 
+PocoLoco  959233439  6  3 r   c     rc    c         5583  220    0 9c Qs
+PocoLoco  959233472  6  2 Bk  kc    kf    -         5363   40    0 
+PocoLoco  959233509  6  1 Brrrc kc    kc    kc        5323  240    0 Kh Ks
+PocoLoco  959233538  6  6 r   c     k     k         5083   60  250 Ah 7h
+PocoLoco  959233573  6  5 f   -     -     -         5273    0    0 
+PocoLoco  959233605  6  4 f   -     -     -         5273    0    0 
+PocoLoco  959233679  5  3 f   -     -     -         5273    0    0 
+PocoLoco  959233710  6  2 Bc  kf    -     -         5273   40    0 
+PocoLoco  959233757  5  1 Bc  bf    -     -         5233   60    0 
+PocoLoco  959233790  5  5 f   -     -     -         5173    0    0 
+PocoLoco  959233835  7  6 c   c     f     -         5173   40    0 
+PocoLoco  959233867  8  6 c   kc    k     b         5133   80    0 Ad 4s
+PocoLoco  959233908  8  5 c   f     -     Q         5053   20    0 
+PocoLoco  959234009  8  2 Bc  r     c     c         5033  160    0 7s Qs
+PocoLoco  959234043  9  1 Bc  kf    -     -         4873   40    0 
+PocoLoco  959234084  9  9 f   -     -     -         4833    0    0 
+PocoLoco  959234130  8  7 f   -     -     -         4833    0    0 
+PocoLoco  959234178  9  6 c   bc    kc    k         4833  100  260 Qs 8s
+PocoLoco  959234237  9  5 f   -     -     -         4993    0    0 
+PocoLoco  959234287  9  4 f   -     -     -         4993    0    0 
+PocoLoco  959234325  9  3 c   k     kf    -         4993   20    0 
+PocoLoco  959234375  9  2 Bf  -     -     -         4973   20    0 
+PocoLoco  959234407  9  1 Bc  bc    kc    kf        4953  120    0 
+PocoLoco  959234467  9  9 f   -     -     -         4833    0    0 
+PocoLoco  959234503  9  8 cc  kc    kc    k         4833  100    0 Ah Js
+PocoLoco  959234565  9  7 c   b     f     -         4733   60    0 
+PocoLoco  959234594  9  6 rc  f     -     -         4673   60    0 
+PocoLoco  959234644 10  6 f   -     -     -         4613    0    0 
+PocoLoco  959234729 10  5 c   kf    -     -         4613   20    0 
+PocoLoco  959234807 10  4 f   -     -     -         4593    0    0 
+PocoLoco  959234895 10  3 c   kf    -     -         4593   20    0 
+PocoLoco  959234970 10  2 Br  k     b     kf        4573   80    0 
+PocoLoco  959235047 10  1 Bc  kf    -     -         4493   20    0 
+PocoLoco  959235106 10 10 r   -     -     -         4473   40   70 
+PocoLoco  959235125 10  9 f   -     -     -         4503    0    0 
+PocoLoco  959235183 10  8 f   -     -     -         4503    0    0 
+PocoLoco  959235229 10  7 f   -     -     -         4503    0    0 
+PocoLoco  959235280 10  6 f   -     -     -         4503    0    0 
+PocoLoco  959235362 10  6 f   -     -     -         4503    0    0 
+PocoLoco  959235501  9  3 f   -     -     -         4503    0    0 
+PocoLoco  959235626  8  1 Bk  k     kf    -         4503   20    0 
+PocoLoco  959235679  8  1 Bf  -     -     -         4483   10    0 
+PocoLoco  959235733  8  8 r   b     k     c         4473  100  270 Qh Qd
+PocoLoco  959235777  7  7 c   b     r     b         4643  180  490 4c Ac
+PocoLoco  959235821  7  6 f   -     -     -         4953    0    0 
+PocoLoco  959235860  7  5 c   b     b     b         4953  140  360 Kc 4c
+PocoLoco  959235908  6  4 c   c     c     f         5173   80    0 
+PocoLoco  959235937  6  3 cc  kf    -     -         5093   40    0 
+PocoLoco  959235994  6  2 Bk  kf    -     -         5053   20    0 
+PocoLoco  959236038  6  1 Bf  -     -     -         5033   10    0 
+PocoLoco  959236082  6  6 cc  cc    cc    f         5023  260    0 
+PocoLoco  959236141  6  5 f   -     -     -         4763    0    0 
+PocoLoco  959236177  6  4 rc  c     f     -         4763  120    0 
+PocoLoco  959236217  6  3 f   -     -     -         4643    0    0 
+PocoLoco  959236272  6  2 Bc  k     b     -         4643   80  170 
+PocoLoco  959236302  6  1 Bc  bc    kc    b         4733  180  520 8s Kh
+PocoLoco  959236362  7  6 c   f     -     -         5073   40    0 
+PocoLoco  959236437  7  5 rc  c     c     c         5033  200    0 Ad Kd
+PocoLoco  959236492  6  3 f   -     -     -         4833    0    0 
+PocoLoco  959236529  7  3 f   -     -     -         4833    0    0 
+PocoLoco  959236564  7  2 Bf  -     -     -         4833   20    0 
+PocoLoco  959236600  7  1 Bf  -     -     -         4813   10    0 
+PocoLoco  959236630  7  7 f   -     -     -         4803    0    0 
+PocoLoco  959236636  7  6 f   -     -     -         4803    0    0 
+PocoLoco  959236697  7  5 f   -     -     -         4803    0    0 
+PocoLoco  959236719  5  2 Br  b     b     b         4803  140  280 7d 7s
+PocoLoco  959236750  5  1 Bc  kf    -     -         4943   40    0 
+PocoLoco  959236776  5  5 f   -     -     -         4903    0    0 
+PocoLoco  959236793  5  4 r   b     b     -         4903  100  190 
+PocoLoco  959236811  5  3 c   k     k     k         4993   20    0 7h Th
+PocoLoco  959236830  5  2 Bk  b     -     -         4973   40   80 
+PocoLoco  959236848  5  1 Bc  kf    -     -         5013   40    0 
+PocoLoco  959236871  5  5 c   f     -     -         4973   40    0 
+PocoLoco  959236896  5  4 f   -     -     -         4933    0    0 
+PocoLoco  959236908  4  3 f   -     -     -         4933    0    0 
+PocoLoco  959236919  4  2 Bc  f     -     -         4933   40    0 
+PocoLoco  959236938  4  1 Br  b     b     b         4893  140  240 
+PocoLoco  959236963  4  4 f   -     -     -         4993    0    0 
+PocoLoco  959236976  4  3 c   b     b     k         4993   80  170 3c Kc
+PocoLoco  959237001  4  2 Bk  c     r     b         5083  160  360 
+PocoLoco  959237042  4  1 Bf  -     -     -         5283   10    0 
+PocoLoco  959237050  4  4 c   c     b     bc        5273  180    0 Qc Ks
+PocoLoco  959237086  4  3 c   k     bc    c         5093  140    0 7h Kh
+PocoLoco  959237116  4  2 Bk  b     kf    -         4953   40    0 
+PocoLoco  959237141  4  1 Bc  kc    kc    kf        4913   80    0 
+PocoLoco  959237172  4  4 c   f     -     -         4833   40    0 
+PocoLoco  959237190  4  3 c   f     -     -         4793   20    0 
+PocoLoco  959237210  4  2 Bk  b     -     -         4773   40   60 
+PocoLoco  959237224  4  1 Br  -     -     -         4793   40   60 
+PocoLoco  959237233  4  4 c   c     c     c         4813  140  380 Kc 9h
+PocoLoco  959237262  4  3 f   -     -     -         5053    0    0 
+PocoLoco  959237284  4  2 Bk  c     f     -         5053   40    0 
+PocoLoco  959237303  4  1 Bc  kc    kc    bc        5013  160  360 7h 2h
+PocoLoco  959237331  4  4 c   b     -     -         5213   40   90 
+PocoLoco  959237352  4  3 c   b     b     b         5263  120  280 9d Qd
+PocoLoco  959237376  4  2 Bk  k     kf    -         5423   20    0 
+PocoLoco  959237399  4  1 Br  k     bc    kf        5403  140    0 
+PocoLoco  959237426  4  4 f   -     -     -         5263    0    0 
+PocoLoco  959237446  4  3 c   k     f     -         5263   20    0 
+PocoLoco  959237464  4  2 B   -     -     -         5243   20   30 
+PocoLoco  959237467  4  1 Bc  b     k     b         5253   80  200 5d Kh
+PocoLoco  959237490  4  4 c   f     -     -         5373   20    0 
+PocoLoco  959237514  4  3 c   k     f     -         5353   20    0 
+PocoLoco  959237528  4  2 Bc  f     -     -         5333   40    0 
+PocoLoco  959237537  4  1 Bc  kc    k     b         5293   80  160 
+PocoLoco  959237565  4  4 c   b     k     k         5373   40  100 Kd Qc
+PocoLoco  959237588  5  3 f   -     -     -         5433    0    0 
+PocoLoco  959237609  5  2 Bk  kf    -     -         5433   20    0 
+PocoLoco  959237648  5  1 Bc  krc   kc    kc        5413  180  520 8d 8h
+PocoLoco  959237694  5  5 f   -     -     -         5753    0    0 
+PocoLoco  959237727  5  4 c   f     -     -         5753   20    0 
+PocoLoco  959237752  5  3 f   -     -     -         5733    0    0 
+PocoLoco  959237773  5  2 Bk  b     kc    kf        5733   80    0 
+PocoLoco  959237817  5  1 Bc  b     b     b         5653  120  200 
+PocoLoco  959237840  5  5 f   -     -     -         5733    0    0 
+PocoLoco  959237861  5  4 f   -     -     -         5733    0    0 
+PocoLoco  959237879  5  3 f   -     -     -         5733    0    0 
+PocoLoco  959237910  5  2 Bk  k     k     k         5733   20    0 Jc 3c
+PocoLoco  959237959  5  1 Bc  kc    kf    -         5713   60    0 
+PocoLoco  959238000  5  5 f   -     -     -         5653    0    0 
+PocoLoco  959238019  5  4 f   -     -     -         5653    0    0 
+PocoLoco  959238039  5  3 f   -     -     -         5653    0    0 
+PocoLoco  959238057  5  2 Bk  kf    -     -         5653   20    0 
+PocoLoco  959238085  6  1 Bc  kf    -     -         5633   20    0 
+PocoLoco  959238122  6  6 r   b     b     c         5613  140    0 Jh Js
+PocoLoco  959238198  5  5 c   c     c     f         5473   80    0 
+PocoLoco  959238241  5  4 f   -     -     -         5393    0    0 
+PocoLoco  959238265  5  3 f   -     -     -         5393    0    0 
+PocoLoco  959238288  5  2 Bf  -     -     -         5393   20    0 
+PocoLoco  959238301  5  1 Bc  b     b     b         5373  120  280 Qh Jd
+PocoLoco  959238327  5  5 f   -     -     -         5533    0    0 
+PocoLoco  959238344  5  4 f   -     -     -         5533    0    0 
+PocoLoco  959238362  5  3 rc  c     c     c         5533  160  330 Ac 2c
+PocoLoco  959238381  5  2 Bk  fQ    -     -         5703   20    0 
+PocoLoco  959414922  8  6 f   -     -     -         5683    0    0 
+PocoLoco  959414953  8  5 f   -     -     -         5683    0    0 
+PocoLoco  959415023  8  4 rr  b     b     k         5683  140    0 Ac Qc
+PocoLoco  959415082  8  4 f   -     -     -         5543    0    0 
+PocoLoco  959415145  8  3 f   -     -     -         5543    0    0 
+PocoLoco  959415200  8  2 Bk  f     -     -         5543   20    0 
+PocoLoco  959415223  8  1 Bc  k     b     -         5523   60  100 
+PocoLoco  959415262  7  7 f   -     -     -         5563    0    0 
+PocoLoco  959415282  7  6 f   -     -     -         5563    0    0 
+PocoLoco  959415314  8  5 f   -     -     -         5563    0    0 
+PocoLoco  959415366  7  3 f   -     -     -         5563    0    0 
+PocoLoco  959415410  7  2 Br  b     b     b         5563  140  380 Kd Kc
+PocoLoco  959415466  7  1 Bc  kc    k     k         5803   40    0 7c Td
+PocoLoco  959415503  8  8 f   -     -     -         5763    0    0 
+PocoLoco  959415570  9  8 f   -     -     -         5763    0    0 
+PocoLoco  959415615  9  7 f   -     -     -         5763    0    0 
+PocoLoco  959415647  9  6 f   -     -     -         5763    0    0 
+PocoLoco  959415702  9  5 f   -     -     -         5763    0    0 
+PocoLoco  959415824  8  4 f   -     -     -         5763    0    0 
+PocoLoco  959415888  9  3 f   -     -     -         5763    0    0 
+PocoLoco  959415932  9  2 Bk  k     b     b         5763  100  240 
+PocoLoco  959415986  9  1 Bf  -     -     -         5903   10    0 
+PocoLoco  959416016  9  9 c   f     -     -         5893   40    0 
+PocoLoco  959416067 10  9 c   f     -     -         5853   40    0 
+PocoLoco  959416113 10  8 f   -     -     -         5813    0    0 
+PocoLoco  959416159 10  7 r   r     k     b         5813  120  330 Tc Th
+PocoLoco  959416211 10  6 c   k     f     -         6023   20    0 
+PocoLoco  959416275 10  5 f   -     -     -         6003    0    0 
+PocoLoco  959416345 10  4 c   f     -     -         6003   20    0 
+PocoLoco  959416394 10  3 f   -     -     -         5983    0    0 
+PocoLoco  959416448 10  2 Bk  kf    -     -         5983   20    0 
+PocoLoco  959416508 10  1 Bf  -     -     -         5963   10    0 
+PocoLoco  959416587 10 10 f   -     -     -         5953    0    0 
+PocoLoco  959416631 10  9 f   -     -     -         5953    0    0 
+PocoLoco  959416678 10  8 f   -     -     -         5953    0    0 
+PocoLoco  959416731 10  7 f   -     -     -         5953    0    0 
+PocoLoco  959416786 10  6 f   -     -     -         5953    0    0 
+PocoLoco  959416872 10  5 cc  k     b     bc        5953  160    0 Tc Jc
+PocoLoco  959416929 10  4 f   -     -     -         5793    0    0 
+PocoLoco  959416992  9  2 Bk  kf    -     -         5793   20    0 
+PocoLoco  959417038  9  1 Bf  Q     -     -         5773   10    0 
+PocoLoco  959452112  5  2 Br  b     -     -         5608   60  110 
+PocoLoco  959452130  5  1 Bf  -     -     -         5658   10    0 
+PocoLoco  959452159  4  4 c   r     b     b         5648  140  290 2c Qc
+PocoLoco  959452198  4  3 rr  bc    c     c         5798  200    0 Ks Kd
+PocoLoco  959452230  4  2 Bc  k     b     b         5598  120  250 Th 8d
+PocoLoco  959452269  4  1 Bc  kf    -     -         5728   20    0 
+PocoLoco  959452290  4  3 Q   -     -     -         5708    0    0 
+PocoLoco  959459160  6  4 f   Q     -     -         5708    0    0 
+PocoLoco  959664466 10 10 f   -     -     -         5708    0    0 
+PocoLoco  959664510  9  8 f   -     -     -         5708    0    0 
+PocoLoco  959664591  9  7 c   k     k     k         5708   20    0 Qh Ts
+PocoLoco  959664645  9  6 f   -     -     -         5688    0    0 
+PocoLoco  959664680  9  5 f   -     -     -         5688    0    0 
+PocoLoco  959664703  9  4 f   -     -     -         5688    0    0 
+PocoLoco  959664737  9  3 f   -     -     -         5688    0    0 
+PocoLoco  959664810 10  2 Bf  -     -     -         5688   20    0 
+PocoLoco  959664889 10  1 Bf  -     -     -         5668   10    0 
+PocoLoco  959664917 10 10 f   Q     -     -         5658    0    0 
+PocoLoco  959665174 10  5 f   -     -     -         5658    0    0 
+PocoLoco  959665235 10  4 f   -     -     -         5658    0    0 
+PocoLoco  959665297  9  2 Bk  kf    -     -         5658   20    0 
+PocoLoco  959665347  9  1 Br  -     -     -         5638   40   60 
+PocoLoco  959665354  9  9 f   -     -     -         5658    0    0 
+PocoLoco  959665398  9  8 f   -     -     -         5658    0    0 
+PocoLoco  959665469  9  7 c   b     f     -         5658   40    0 
+PocoLoco  959665516  9  6 c   b     bc    c         5618  160  340 6h 5s
+PocoLoco  959665570  9  6 fQ  -     -     -         5798    0    0 
+PocoLoco  959665757  7  4 f   -     -     -         5798    0    0 
+PocoLoco  959665800  7  3 f   -     -     -         5798    0    0 
+PocoLoco  959665816  7  2 Bf  -     -     -         5798   20    0 
+PocoLoco  959665856  7  1 Bf  -     -     -         5778   10    0 
+PocoLoco  959665888  7  7 f   -     -     -         5768    0    0 
+PocoLoco  959665931  7  6 r   c     f     -         5768   60    0 
+PocoLoco  959665977  7  5 r   k     b     b         5708  120  250 Ts Ac
+PocoLoco  959666012  7  4 f   -     -     -         5838    0    0 
+PocoLoco  959666057  7  3 f   -     -     -         5838    0    0 
+PocoLoco  959666088  7  2 Bk  kf    -     -         5838   20    0 
+PocoLoco  959666131  7  1 Bc  kf    -     -         5818   40    0 
+PocoLoco  959666192  8  8 f   -     -     -         5778    0    0 
+PocoLoco  959666212  8  7 f   -     -     -         5778    0    0 
+PocoLoco  959666226  7  5 c   b     b     -         5778   80  180 
+PocoLoco  959666279  7  4 f   -     -     -         5878    0    0 
+PocoLoco  959666339  6  3 f   -     -     -         5878    0    0 
+PocoLoco  959666377  7  2 Bk  kf    -     -         5878   20    0 
+PocoLoco  959666405  7  1 Bf  -     -     -         5858   10    0 
+PocoLoco  959666435  7  7 f   -     -     -         5848    0    0 
+PocoLoco  959666458  7  6 f   -     -     -         5848    0    0 
+PocoLoco  959666466  7  5 f   -     -     -         5848    0    0 
+PocoLoco  959666480  7  4 f   -     -     -         5848    0    0 
+PocoLoco  959666513  7  3 f   -     -     -         5848    0    0 
+PocoLoco  959666543  7  2 Bf  -     -     -         5848   20    0 
+PocoLoco  959666581  7  1 Bc  kf    -     -         5828   20    0 
+PocoLoco  959666638  7  7 c   c     f     -         5808   40    0 
+PocoLoco  959666683  7  6 f   -     -     -         5768    0    0 
+PocoLoco  959666724  7  5 c   f     -     -         5768   20    0 
+PocoLoco  959666752  7  4 rr  br    -     -         5748  140  430 
+PocoLoco  959666797  8  3 f   -     -     -         6038    0    0 
+PocoLoco  959666827  7  2 Bk  f     -     -         6038   20    0 
+PocoLoco  959666850  8  1 Bc  kf    -     -         6018   20    0 
+PocoLoco  959666882  8  8 c   f     -     -         5998   20    0 
+PocoLoco  959666929 10  9 c   c     f     -         5978   40    0 
+PocoLoco  959666996 10  8 f   -     -     -         5938    0    0 
+PocoLoco  959667045 10  7 f   -     -     -         5938    0    0 
+PocoLoco  959667090 10  6 f   -     -     -         5938    0    0 
+PocoLoco  959667119 10  5 fQ  -     -     -         5938    0    0 
+PocoLoco  959667451 10  7 f   -     -     -         5938    0    0 
+PocoLoco  959667522  9  5 f   -     -     -         5938    0    0 
+PocoLoco  959667541  9  4 f   -     -     -         5938    0    0 
+PocoLoco  959667582  9  4 f   -     -     -         5938    0    0 
+PocoLoco  959667618  8  2 BQ  -     -     -         5938   20    0 
+PocoLoco  959755292  2  1 Bc  kf    -     -         6293   40    0 
+PocoLoco  959755320  3  1 Bc  b     br    k         6253  160  160 8d Qs
+PocoLoco  959755358  3  3 f   -     -     -         6253    0    0 
+PocoLoco  959755383  3  2 Bc  kf    -     -         6253   40    0 
+PocoLoco  959755397  3  1 Bc  kf    -     -         6213   20    0 
+PocoLoco  959755414  3  3 f   -     -     -         6193    0    0 
+PocoLoco  959755437  3  2 Bf  -     -     -         6193   20    0 
+PocoLoco  959755448  3  1 Br  b     -     -         6173   60  100 
+PocoLoco  959755459  3  3 r   -     -     -         6213   40   70 
+PocoLoco  959755469  3  2 B   -     -     -         6243   20   30 
+PocoLoco  959755473  3  1 Brc kc    k     k         6253  100    0 Jd Kh
+PocoLoco  959755504  3  3 f   -     -     -         6153    0    0 
+PocoLoco  959755519  3  2 Bf  -     -     -         6153   20    0 
+PocoLoco  959755532  3  1 Br  b     -     -         6133   60  140 
+PocoLoco  959755548  3  3 cc  r     k     c         6213  120  280 9s Qd
+PocoLoco  959755576  3  2 Bf  -     -     -         6373   20    0 
+PocoLoco  959755591  3  1 Bc  kc    kc    kr        6353  180  380 9d Tc
+PocoLoco  959755624  3  3 f   -     -     -         6553    0    0 
+PocoLoco  959755657  3  2 Bk  f     -     -         6553   20    0 
+PocoLoco  959755681  3  1 Bc  kf    -     -         6533   40    0 
+PocoLoco  959755717  3  3 f   -     -     -         6493    0    0 
+PocoLoco  959755746  3  2 Bf  -     -     -         6493   20    0 
+PocoLoco  959755776  3  1 Bf  -     -     -         6473   10    0 
+PocoLoco  959755788  3  3 f   -     -     -         6463    0    0 
+PocoLoco  959755802  3  2 Br  c     c     c         6463  140    0 8d 8c
+PocoLoco  959755828  3  1 Bcf -     -     -         6323   20    0 
+PocoLoco  959755866  3  3 f   -     -     -         6303    0    0 
+PocoLoco  959755879  3  2 Br  c     f     -         6303   60    0 
+PocoLoco  959755897  3  1 Bc  k     k     kc        6243   60    0 7s 9d

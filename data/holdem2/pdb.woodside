@@ -1,0 +1,955 @@
+woodside  957234109  9  9 f   -     -     -         3082    0    0 
+woodside  957234173  8  7 f   -     -     -         3082    0    0 
+woodside  957234216  8  6 c   k     k     f         3082   20    0 
+woodside  957234253  8  5 c   k     b     b         3062  100  190 
+woodside  957234286  8  4 f   -     -     -         3152    0    0 
+woodside  957234324  9  4 c   b     -     -         3152   40   70 
+woodside  957234375  8  3 f   -     -     -         3182    0    0 
+woodside  957234413  8  2 Bf  -     -     -         3182   20    0 
+woodside  957234471  8  1 Bf  -     -     -         3162   10    0 
+woodside  957234496  8  8 f   -     -     -         3152    0    0 
+woodside  957234509  8  7 c   b     -     -         3152   40   70 
+woodside  957234539  7  5 f   -     -     -         3182    0    0 
+woodside  957234560  7  4 rr  br    k     c         3182  180  235 Qs As
+woodside  957234600  7  3 f   -     -     -         3237    0    0 
+woodside  957234631  7  2 Bk  kf    -     -         3237   20    0 
+woodside  957234662  8  1 Bf  -     -     -         3217   10    0 
+woodside  957234691  7  7 f   -     -     -         3207    0    0 
+woodside  957234717  7  6 c   f     -     -         3207   20    0 
+woodside  957234760  7  5 f   -     -     -         3187    0    0 
+woodside  957234791  6  3 c   c     kc    kc        3187  120    0 9c Ah
+woodside  957234830  7  3 c   f     -     -         3067   20    0 
+woodside  957234848  7  2 Bk  kf    -     -         3047   20    0 
+woodside  957234872  7  1 Bc  kc    kc    b         3027  120  220 
+woodside  957234922  7  7 f   -     -     -         3127    0    0 
+woodside  957234964  7  6 f   -     -     -         3127    0    0 
+woodside  957234969  7  5 c   k     b     -         3127   60   90 
+woodside  957234989  7  4 f   -     -     -         3157    0    0 
+woodside  957235006  6  3 f   -     -     -         3157    0    0 
+woodside  957235010  6  2 Bk  r     b     b         3157  140  320 
+woodside  957235037  6  1 Bf  -     -     -         3337   10    0 
+woodside  957235048  6  6 c   c     f     -         3327   60    0 
+woodside  957235080  6  5 f   -     -     -         3267    0    0 
+woodside  957235100  6  4 r   b     -     -         3267   60  110 
+woodside  957235113  6  3 r   b     b     b         3317  140  350 Kc Kd
+woodside  957235139  6  2 Bk  k     kf    -         3527   20    0 
+woodside  957235177  7  1 Bc  k     kr    bc        3507  180    0 4c Ad
+woodside  957235213  8  8 c   b     b     b         3327  120  260 Ad 7s
+woodside  957235247  8  7 c   r     r     rc        3467  280    0 Ks Kh
+woodside  957235302  8  6 c   r     bc    c         3187  200    0 Ah Tc
+woodside  957235339  8  5 f   -     -     -         2987    0    0 
+woodside  957235364  8  4 f   -     -     -         2987    0    0 
+woodside  957235394  8  3 f   -     -     -         2987    0    0 
+woodside  957235437  9  2 Bf  -     -     -         2987   20    0 
+woodside  957235518  9  1 Bc  kc    k     b         2967   80  200 
+woodside  957235561  8  8 f   -     -     -         3087    0    0 
+woodside  957235570  8  7 c   f     -     -         3087   20    0 
+woodside  957235617  9  6 f   -     -     -         3067    0    0 
+woodside  957235646  9  5 f   -     -     -         3067    0    0 
+woodside  957235680  9  4 c   c     f     -         3067   40    0 
+woodside  957235710  9  3 f   -     -     -         3027    0    0 
+woodside  957235735  9  2 Bk  kf    -     -         3027   20    0 
+woodside  957235754  8  1 Bf  -     -     -         3007   10    0 
+woodside  957235768  8  8 f   -     -     -         2997    0    0 
+woodside  957235801  8  7 f   -     -     -         2997    0    0 
+woodside  957235821  8  6 f   -     -     -         2997    0    0 
+woodside  957235865  8  5 r   c     c     b         2997  140  250 
+woodside  957235904  8  4 f   -     -     -         3107    0    0 
+woodside  957235921  8  3 f   -     -     -         3107    0    0 
+woodside  957235947  7  2 B   -     -     -         3107   20   30 
+woodside  957235956  7  1 Bf  -     -     -         3117   10    0 
+woodside  957235983  7  7 f   -     -     -         3107    0    0 
+woodside  957236009  7  6 cc  c     c     c         3107  140  300 Td Th
+woodside  957236035  8  6 f   -     -     -         3267    0    0 
+woodside  957236124  7  5 f   -     -     -         3267    0    0 
+woodside  957236140  7  4 f   -     -     -         3267    0    0 
+woodside  957236190  7  3 r   kc    c     c         3267  140  420 Jh Qs
+woodside  957236249  7  2 Bk  f     -     -         3547   20    0 
+woodside  957236285  6  1 Br  b     b     -         3527  100  180 
+woodside  957236303  6  6 f   -     -     -         3607    0    0 
+woodside  957236314  6  5 r   b     b     b         3607  140  310 Ac Kh
+woodside  957236340  6  4 f   -     -     -         3777    0    0 
+woodside  957236366  6  3 r   bf    -     -         3777   60    0 
+woodside  957236384  6  2 Bc  kc    kc    b         3717  140    0 Kd Qd
+woodside  957236412  6  1 Bf  -     -     -         3577   10    0 
+woodside  957236441  6  6 r   -     -     -         3567   40   70 
+woodside  957236456  6  5 f   -     -     -         3597    0    0 
+woodside  957236481  6  4 f   -     -     -         3597    0    0 
+woodside  957236485  6  3 f   -     -     -         3597    0    0 
+woodside  957236506  6  2 Bc  kc    k     bc        3597  140    0 Kh Kd
+woodside  957236554  6  1 Bf  -     -     -         3457   10    0 
+woodside  957236601  6  6 f   -     -     -         3447    0    0 
+woodside  957236627  6  5 cc  kc    k     kf        3447   60    0 
+woodside  957236654  6  4 f   -     -     -         3387    0    0 
+woodside  957236688  6  3 f   -     -     -         3387    0    0 
+woodside  957236738  6  2 Bk  k     b     -         3387   60   90 
+woodside  957236767  6  1 Bc  k     bf    -         3417   60    0 
+woodside  957236796  6  6 f   -     -     -         3357    0    0 
+woodside  957236844  6  5 f   -     -     -         3357    0    0 
+woodside  957236856  5  3 f   -     -     -         3357    0    0 
+woodside  957236872  5  2 B   -     -     -         3357   20   30 
+woodside  957236884  5  1 Bc  b     -     -         3367   40   80 
+woodside  957236900  5  5 f   -     -     -         3407    0    0 
+woodside  957236932  5  4 f   -     -     -         3407    0    0 
+woodside  957236970  5  3 f   -     -     -         3407    0    0 
+woodside  957236990  5  2 Bf  -     -     -         3407   20    0 
+woodside  957237018  5  1 Bf  -     -     -         3387   10    0 
+woodside  957237021  5  5 r   b     -     -         3377   60  110 
+woodside  957237037  5  4 f   -     -     -         3427    0    0 
+woodside  957237043  5  3 c   kf    -     -         3427   20    0 
+woodside  957237054  5  2 Bk  f     -     -         3407   20    0 
+woodside  957237063  5  1 Bc  k     k     b         3387   60   80 
+woodside  957237094  5  5 c   b     b     b         3407  120  250 Jc 5c
+woodside  957237125  6  4 f   -     -     -         3537    0    0 
+woodside  957237155  6  3 f   -     -     -         3537    0    0 
+woodside  957237171  7  2 Bk  kf    -     -         3537   20    0 
+woodside  957237212  7  1 Bc  kf    -     -         3517   40    0 
+woodside  957237402  5  5 c   k     f     -         3477   20    0 
+woodside  957237435  5  5 cc  c     c     c         3457  140    0 3d 4d
+woodside  957237457  5  4 cc  bc    b     b         3317  160    0 5s 5c
+woodside  957237479  5  3 f   -     -     -         3157    0    0 
+woodside  957237490  5  2 Bk  f     -     -         3157   20    0 
+woodside  957237500  5  1 Brc kc    kf    -         3137  100    0 
+woodside  957237526  5  5 f   -     -     -         3037    0    0 
+woodside  957237534  5  4 f   -     -     -         3037    0    0 
+woodside  957237542  5  3 c   c     k     k         3037   40    0 8c Kd
+woodside  957237576  5  2 Bk  k     kc    b         2997  100    0 Js Tc
+woodside  957237598  6  1 Bf  -     -     -         2897   10    0 
+woodside  957237621  6  6 r   b     bc    rc        2887  260    0 Kd Ac
+woodside  957237647  7  6 c   k     k     b         2627   60  110 
+woodside  957237677  7  5 f   -     -     -         2677    0    0 
+woodside  957237700  7  5 c   f     -     -         2677   20    0 
+woodside  957237740  8  4 r   -     -     -         2657   40   70 
+woodside  957237754  8  3 fQ  -     -     -         2687    0    0 
+woodside  957419757  8  8 f   -     -     -         2687    0    0 
+woodside  957419776  8  7 f   -     -     -         2687    0    0 
+woodside  957419799  8  6 c   f     -     -         2687   20    0 
+woodside  957419821  8  5 f   -     -     -         2667    0    0 
+woodside  957419846  8  4 c   f     -     -         2667   20    0 
+woodside  957419898  8  3 f   -     -     -         2647    0    0 
+woodside  957419957  8  2 Bk  b     -     -         2647   40   70 
+woodside  957419981  8  1 Bf  -     -     -         2677   10    0 
+woodside  957420020  8  8 f   -     -     -         2667    0    0 
+woodside  957420092  8  7 f   -     -     -         2667    0    0 
+woodside  957420121  8  6 r   b     r     k         2667  140    0 7c Kc
+woodside  957420168  8  5 f   -     -     -         2527    0    0 
+woodside  957420185  8  4 c   f     -     -         2527   20    0 
+woodside  957420228  8  3 f   -     -     -         2507    0    0 
+woodside  957420258  8  2 Bf  -     -     -         2507   20    0 
+woodside  957420280  8  1 Bc  kc    b     -         2487  100  220 
+woodside  957420331  8  8 f   -     -     -         2607    0    0 
+woodside  957420349  8  7 f   -     -     -         2607    0    0 
+woodside  957420389  8  6 f   -     -     -         2607    0    0 
+woodside  957420426  8  5 f   -     -     -         2607    0    0 
+woodside  957420438  8  4 f   -     -     -         2607    0    0 
+woodside  957420450  8  3 c   kc    b     b         2607  120  250 
+woodside  957420532  7  2 Bf  -     -     -         2737   20    0 
+woodside  957420544  7  1 Bf  -     -     -         2717   10    0 
+woodside  957420598  7  7 r   -     -     -         2707   40   70 
+woodside  957420614  7  6 c   k     f     -         2737   40    0 
+woodside  957420647  8  6 f   -     -     -         2697    0    0 
+woodside  957420697  8  5 f   -     -     -         2697    0    0 
+woodside  957420769  8  4 f   -     -     -         2697    0    0 
+woodside  957420802  8  3 c   b     -     -         2697   40   70 
+woodside  957420841  8  2 Bk  b     f     -         2727   40    0 
+woodside  957420893  8  1 Bc  k     k     k         2687   20    0 Ad 3h
+woodside  957420980  8  8 r   f     -     -         2667   40    0 
+woodside  957421049  7  6 r   b     b     b         2627  140  600 Kh Kc
+woodside  957421156  9  6 f   -     -     -         3087    0    0 
+woodside  957421190  8  4 f   -     -     -         3087    0    0 
+woodside  957421240  8  3 rr  brc   bc    kc        3087  280  800 Kh 8c
+woodside  957421295  9  2 Br  kc    br    kf        3607  180    0 
+woodside  957421386  9  1 Bc  kf    -     -         3427   20    0 
+woodside  957421410  9  9 r   r     r     k         3407  160    0 Kd Ks
+woodside  957421491  8  8 f   -     -     -         3247    0    0 
+woodside  957421537  9  7 f   -     -     -         3247    0    0 
+woodside  957421572  9  6 f   -     -     -         3247    0    0 
+woodside  957421596  9  5 r   kf    -     -         3247   40    0 
+woodside  957421776  8  4 r   b     b     b         3207  140  270 
+woodside  957421811  8  3 cc  f     -     -         3337   40    0 
+woodside  957421852  8  2 Bc  kc    k     f         3297   60    0 
+woodside  957421894  7  1 Br  -     -     -         3237   40   60 
+woodside  957421904  7  7 f   -     -     -         3257    0    0 
+woodside  957421933  7  6 f   -     -     -         3257    0    0 
+woodside  957421950  8  6 f   -     -     -         3257    0    0 
+woodside  957422019  7  5 c   c     b     k         3257   80    0 Ad Ts
+woodside  957422067  8  4 f   -     -     -         3177    0    0 
+woodside  957422135  8  3 f   -     -     -         3177    0    0 
+woodside  957422167  8  2 Bc  bc    b     b         3177  160  360 Kh 4h
+woodside  957422206  8  1 Bf  -     -     -         3377   10    0 
+woodside  957422241  9  8 f   -     -     -         3367    0    0 
+woodside  957422281  9  7 f   -     -     -         3367    0    0 
+woodside  957422307  9  6 f   -     -     -         3367    0    0 
+woodside  957422356  9  5 f   -     -     -         3367    0    0 
+woodside  957422390  9  4 r   b     b     b         3367  140    0 8d Qd
+woodside  957422433  9  3 f   -     -     -         3227    0    0 
+woodside  957422498  9  2 Bf  -     -     -         3227   20    0 
+woodside  957422514  9  1 Bc  kf    -     -         3207   40    0 
+woodside  957422579  8  8 c   c     c     r         3167  160  410 6h 7h
+woodside  957422640  9  8 f   -     -     -         3417    0    0 
+woodside  957422691  9  7 f   -     -     -         3417    0    0 
+woodside  957422737  9  6 f   -     -     -         3417    0    0 
+woodside  957422787  9  5 c   f     -     -         3417   20    0 
+woodside  957422860 10  4 f   -     -     -         3397    0    0 
+woodside  957422920  9  3 cc  krr   b     k         3397  160    0 6s Ah
+woodside  957423086 10  2 Bk  k     f     -         3237   20    0 
+woodside  957423118  9  1 Bf  -     -     -         3217   10    0 
+woodside  957423145  9  9 r   k     b     bc        3207  160    0 8c Jd
+woodside  957423219  9  8 r   k     c     c         3047  120    0 8c 8d
+woodside  957423270  9  7 f   Q     -     -         2927    0    0 
+woodside  957766818 10  6 f   -     -     -         2927    0    0 
+woodside  957766902 10  5 f   -     -     -         2927    0    0 
+woodside  957766926 10  4 f   -     -     -         2927    0    0 
+woodside  957767005 10  3 f   -     -     -         2927    0    0 
+woodside  957767060  8  2 Bc  kf    -     -         2927   40    0 
+woodside  957767090  9  1 Bf  -     -     -         2887   10    0 
+woodside  957767130  9  9 f   -     -     -         2877    0    0 
+woodside  957767175  9  8 f   -     -     -         2877    0    0 
+woodside  957767193  9  7 f   -     -     -         2877    0    0 
+woodside  957767330  9  6 f   -     -     -         2877    0    0 
+woodside  957767372  8  4 f   -     -     -         2877    0    0 
+woodside  957767394  8  3 f   -     -     -         2877    0    0 
+woodside  957767466  9  2 Bf  -     -     -         2877   20    0 
+woodside  957767492  9  1 Bf  -     -     -         2857   10    0 
+woodside  957767527 10 10 cc  f     -     -         2847   40    0 
+woodside  957767588 10  9 f   -     -     -         2807    0    0 
+woodside  957767626  9  8 f   -     -     -         2807    0    0 
+woodside  957767669  9  7 f   -     -     -         2807    0    0 
+woodside  957767703 10  6 c   c     k     r         2807  120  280 
+woodside  957767745 10  5 f   -     -     -         2967    0    0 
+woodside  957767762 10  4 f   -     -     -         2967    0    0 
+woodside  957767779 10  3 f   -     -     -         2967    0    0 
+woodside  957767816 10  2 Bf  -     -     -         2967   20    0 
+woodside  957767857 10  1 Bc  kf    -     -         2947   20    0 
+woodside  957767950  9  9 c   c     c     f         2927  100    0 
+woodside  957768010  9  8 f   -     -     -         2827    0    0 
+woodside  957768073  9  7 c   c     c     k         2827   80    0 5c Ad
+woodside  957768166  9  6 f   -     -     -         2747    0    0 
+woodside  957768229  8  4 f   -     -     -         2747    0    0 
+woodside  957768288  8  3 f   -     -     -         2747    0    0 
+woodside  957768313  8  2 Bk  b     b     b         2747  120  220 
+woodside  957768349  8  1 Bf  -     -     -         2847   10    0 
+woodside  957768426  8  8 f   -     -     -         2837    0    0 
+woodside  957768445  8  7 f   -     -     -         2837    0    0 
+woodside  957768510  8  6 f   -     -     -         2837    0    0 
+woodside  957768540  8  5 f   -     -     -         2837    0    0 
+woodside  957768569  8  4 f   -     -     -         2837    0    0 
+woodside  957768588  8  3 f   -     -     -         2837    0    0 
+woodside  957768632  8  2 Bc  kf    -     -         2837   60    0 
+woodside  957768693  8  1 Bc  b     bc    bc        2777  200  440 Ah Jh
+woodside  957768735  8  8 f   -     -     -         3017    0    0 
+woodside  957768776  8  7 f   -     -     -         3017    0    0 
+woodside  957768805  8  6 f   -     -     -         3017    0    0 
+woodside  957768848  8  5 r   b     b     b         3017  140  290 7d Kh
+woodside  957768875  7  4 f   -     -     -         3167    0    0 
+woodside  957768911  7  3 f   -     -     -         3167    0    0 
+woodside  957768940  7  2 Bf  -     -     -         3167   20    0 
+woodside  957768963  7  1 Bc  kf    -     -         3147   20    0 
+woodside  957768990  7  7 c   c     c     f         3127  100    0 
+woodside  957769023  7  6 f   -     -     -         3027    0    0 
+woodside  957769049  7  5 f   -     -     -         3027    0    0 
+woodside  957769059  7  4 f   -     -     -         3027    0    0 
+woodside  957769117  7  3 fQ  -     -     -         3027    0    0 
+woodside  957853257 10  9 f   -     -     -         3027    0    0 
+woodside  957853304 10  8 f   -     -     -         3027    0    0 
+woodside  957853361  9  8 c   c     c     b         3027  140    0 8h Jh
+woodside  957853434  9  6 f   -     -     -         2887    0    0 
+woodside  957853527  9  5 f   -     -     -         2887    0    0 
+woodside  957853549  8  3 f   -     -     -         2887    0    0 
+woodside  957853571  8  2 Bk  k     kf    -         2887   20    0 
+woodside  957853605  8  1 Bf  -     -     -         2867   10    0 
+woodside  957853638  7  7 c   c     f     -         2857   60    0 
+woodside  957853679  6  5 f   -     -     -         2797    0    0 
+woodside  957853706  6  5 f   -     -     -         2797    0    0 
+woodside  957853724  5  4 r   -     -     -         2797   40   70 
+woodside  957853732  5  3 r   brc   kc    kc        2827  200    0 Ac Jc
+woodside  957853761  5  2 Bk  b     -     -         2627   40  100 
+woodside  957853789  5  1 Bf  -     -     -         2687   10    0 
+woodside  957853812  5  5 f   -     -     -         2677    0    0 
+woodside  957853820  5  4 f   -     -     -         2677    0    0 
+woodside  957853847  5  3 f   -     -     -         2677    0    0 
+woodside  957853871  4  2 Bk  c     r     -         2677  120  220 
+woodside  957853889  3  1 Bc  k     k     k         2777   20   40 Td Jc
+woodside  957853904  3  3 fQ  -     -     -         2797    0    0 
+woodside  958002266 10  2 Bk  kf    -     -         2157   20    0 
+woodside  958002302 10  1 Bf  -     -     -         2137   10    0 
+woodside  958002324 10 10 f   -     -     -         2127    0    0 
+woodside  958002394 10  9 f   -     -     -         2127    0    0 
+woodside  958002447 10  8 f   -     -     -         2127    0    0 
+woodside  958002494 10  7 f   -     -     -         2127    0    0 
+woodside  958002552 10  6 f   -     -     -         2127    0    0 
+woodside  958002582 10  5 cc  kf    -     -         2127   40    0 
+woodside  958002622 10  4 f   -     -     -         2087    0    0 
+woodside  958002666 10  3 f   -     -     -         2087    0    0 
+woodside  958002673 10  2 Bf  -     -     -         2087   20    0 
+woodside  958002722 10  1 Bf  -     -     -         2067   10    0 
+woodside  958002751 10 10 r   r     k     k         2057  100  115 Ac 2h
+woodside  958002793 10  9 c   f     -     -         2072   20    0 
+woodside  958002833 10  8 f   -     -     -         2052    0    0 
+woodside  958002858 10  7 fQ  -     -     -         2052    0    0 
+woodside  958018060 10  9 c   f     -     -         2052   20    0 
+woodside  958018086 10  8 f   -     -     -         2032    0    0 
+woodside  958018136 10  7 f   -     -     -         2032    0    0 
+woodside  958018178 10  6 f   -     -     -         2032    0    0 
+woodside  958018273 10  5 f   -     -     -         2032    0    0 
+woodside  958018334 10  4 f   -     -     -         2032    0    0 
+woodside  958018404 10  3 c   k     c     f         2032   60    0 
+woodside  958018493 10  2 Bk  kf    -     -         1972   20    0 
+woodside  958018535 10  1 Bf  -     -     -         1952   10    0 
+woodside  958018570 10 10 c   f     -     -         1942   20    0 
+woodside  958018617 10  9 f   -     -     -         1922    0    0 
+woodside  958018682 10  8 f   -     -     -         1922    0    0 
+woodside  958018723 10  7 c   c     f     -         1922   40    0 
+woodside  958018757 10  6 f   -     -     -         1882    0    0 
+woodside  958018812 10  5 f   -     -     -         1882    0    0 
+woodside  958018862 10  4 f   -     -     -         1882    0    0 
+woodside  958018894 10  4 c   c     c     r         1882  160  400 8h 7h
+woodside  958018956 10  2 Bf  -     -     -         2122   20    0 
+woodside  958019024 10  1 Bf  -     -     -         2102   10    0 
+woodside  958019099 10 10 c   b     b     b         2092  120    0 Ad 6d
+woodside  958019163  9  8 f   -     -     -         1972    0    0 
+woodside  958019191  9  7 f   -     -     -         1972    0    0 
+woodside  958019230  9  6 f   -     -     -         1972    0    0 
+woodside  958019272  9  5 f   -     -     -         1972    0    0 
+woodside  958019315  9  4 r   b     b     b         1972  140  250 
+woodside  958019357  9  3 c   b     b     b         2082  120  280 
+woodside  958019391  9  2 Bk  k     b     b         2242  100  210 
+woodside  958019439  9  1 Bf  -     -     -         2352   10    0 
+woodside  958019469  9  9 f   -     -     -         2342    0    0 
+woodside  958019506  9  8 f   -     -     -         2342    0    0 
+woodside  958019547  9  7 f   -     -     -         2342    0    0 
+woodside  958019569  9  6 cc  f     -     -         2342   40    0 
+woodside  958019638  9  5 r   b     -     -         2302   60  150 
+woodside  958019678  9  4 f   -     -     -         2392    0    0 
+woodside  958019733  9  3 f   Q     -     -         2392    0    0 
+woodside  958194914  8  3 f   -     -     -         3760    0    0 
+woodside  958194936  8  2 Bk  kf    -     -         3760   20    0 
+woodside  958194973  8  1 Bf  -     -     -         3740   10    0 
+woodside  958194996  8  8 f   -     -     -         3730    0    0 
+woodside  958195061  7  6 c   cc    c     c         3730  160  450 Kd Ah
+woodside  958195097  7  5 c   k     f     -         4020   20    0 
+woodside  958195135  7  4 f   -     -     -         4000    0    0 
+woodside  958195161  7  3 rc  k     kf    -         4000   60    0 
+woodside  958195209  7  2 Bf  -     -     -         3940   20    0 
+woodside  958195256  8  1 Bf  -     -     -         3920   10    0 
+woodside  958195301  8  8 c   c     c     c         3910  160    0 Qh Qd
+woodside  958195375  9  8 rc  c     k     c         3750  120  260 Js Jc
+woodside  958195422  9  7 f   -     -     -         3890    0    0 
+woodside  958195473  9  6 c   k     f     -         3890   20    0 
+woodside  958195540  9  5 c   kf    -     -         3870   20    0 
+woodside  958195617  9  4 fQ  -     -     -         3850    0    0 
+woodside  958375396  6  5 f   -     -     -         3455    0    0 
+woodside  958375443  6  4 cc  c     k     b         3455  100  380 Jh Jd
+woodside  958375484  7  3 f   -     -     -         3735    0    0 
+woodside  958375502  7  2 Bf  -     -     -         3735   20    0 
+woodside  958375536  6  1 Bc  kf    -     -         3715   20    0 
+woodside  958375562  6  6 f   -     -     -         3695    0    0 
+woodside  958375601  6  5 f   -     -     -         3695    0    0 
+woodside  958375628  6  4 f   -     -     -         3695    0    0 
+woodside  958375648  6  3 f   -     -     -         3695    0    0 
+woodside  958375676  6  2 Bf  -     -     -         3695   20    0 
+woodside  958375687  5  1 BQ  -     -     -         3675   10    0 
+woodside  958442959 10  7 cc  b     b     bc        3380  180    0 Ah 8d
+woodside  958442989 10  6 f   -     -     -         3200    0    0 
+woodside  958443022 10  5 f   -     -     -         3200    0    0 
+woodside  958443054 10  4 f   -     -     -         3200    0    0 
+woodside  958443103 10  3 f   -     -     -         3200    0    0 
+woodside  958443140 10  2 Br  b     bc    c         3200  200  400 Jd Kd
+woodside  958443178 10  1 Bf  -     -     -         3400   10    0 
+woodside  958443210 10 10 f   -     -     -         3390    0    0 
+woodside  958443231 10  9 f   -     -     -         3390    0    0 
+woodside  958443270 10  8 f   -     -     -         3390    0    0 
+woodside  958443302 10  7 c   c     b     -         3390  100  270 
+woodside  958443341 10  6 c   f     -     -         3560   20    0 
+woodside  958443364 10  5 f   -     -     -         3540    0    0 
+woodside  958443398 10  4 f   -     -     -         3540    0    0 
+woodside  958443422 10  3 f   -     -     -         3540    0    0 
+woodside  958443441 10  2 Bc  kf    -     -         3540   40    0 
+woodside  958443471 10  1 Bc  b     bc    b         3500  160    0 Ts 8s
+woodside  958443519 10 10 c   f     -     -         3340   40    0 
+woodside  958443550 10  9 f   -     -     -         3300    0    0 
+woodside  958443589 10  8 f   -     -     -         3300    0    0 
+woodside  958443612 10  7 f   -     -     -         3300    0    0 
+woodside  958443643 10  6 r   b     b     b         3300  140    0 As Jd
+woodside  958443680 10  5 f   -     -     -         3160    0    0 
+woodside  958443701 10  4 cc  kc    b     -         3160  120  430 
+woodside  958443754 10  3 f   -     -     -         3470    0    0 
+woodside  958443780 10  2 Bk  bc    kf    -         3470   60    0 
+woodside  958443843  9  1 Bf  -     -     -         3410   10    0 
+woodside  958443876  9  9 r   k     rc    b         3400  200  370 
+woodside  958443916  9  8 c   k     c     c         3570  100    0 7s Ks
+woodside  958443950  9  7 f   -     -     -         3470    0    0 
+woodside  958443994  9  6 f   -     -     -         3470    0    0 
+woodside  958444026  9  5 f   -     -     -         3470    0    0 
+woodside  958444049  9  4 f   -     -     -         3470    0    0 
+woodside  958444088  9  2 f   -     -     -         3470    0    0 
+woodside  958444119  9  2 Bf  -     -     -         3470   20    0 
+woodside  958444140  9  1 Bc  kf    -     -         3450   20    0 
+woodside  958444187  9  9 f   -     -     -         3430    0    0 
+woodside  958444228  9  8 c   f     -     -         3430   40    0 
+woodside  958444267 10  8 f   -     -     -         3390    0    0 
+woodside  958444300 10  7 r   b     b     b         3390  140  350 
+woodside  958444339 10  3 Q   -     -     -         3600    0    0 
+woodside  958604628  9  4 f   -     -     -         3600    0    0 
+woodside  958604650  9  3 f   -     -     -         3600    0    0 
+woodside  958604681  9  2 Bf  -     -     -         3600   20    0 
+woodside  958604708  9  1 Bf  -     -     -         3580   10    0 
+woodside  958604723  9  9 c   c     b     -         3570   80  160 
+woodside  958604751  9  8 f   -     -     -         3650    0    0 
+woodside  958604799  9  7 f   -     -     -         3650    0    0 
+woodside  958604805  9  6 f   -     -     -         3650    0    0 
+woodside  958604856  9  5 f   -     -     -         3650    0    0 
+woodside  958604912  9  4 f   -     -     -         3650    0    0 
+woodside  958604962  9  3 f   Q     -     -         3650    0    0 
+woodside  958610041  9  9 f   -     -     -         3650    0    0 
+woodside  958610082  9  8 c   f     -     -         3650   20    0 
+woodside  958610122  9  7 f   -     -     -         3630    0    0 
+woodside  958610168  9  6 cc  b     b     -         3630  100  310 
+woodside  958610228  9  5 f   -     -     -         3840    0    0 
+woodside  958610252  9  4 f   -     -     -         3840    0    0 
+woodside  958610298  9  3 f   -     -     -         3840    0    0 
+woodside  958610342  9  2 Bk  k     kf    -         3840   20    0 
+woodside  958610396  9  1 Bf  -     -     -         3820   10    0 
+woodside  958610416  9  9 f   -     -     -         3810    0    0 
+woodside  958610453  9  8 c   Q     -     -         3810   20    0 
+woodside  958611833  8  5 f   -     -     -         3790    0    0 
+woodside  958611888  9  4 f   -     -     -         3790    0    0 
+woodside  958611926  9  3 f   -     -     -         3790    0    0 
+woodside  958611984 10  2 Bk  kf    -     -         3790   20    0 
+woodside  958612027 10  1 Bf  -     -     -         3770   10    0 
+woodside  958612069 10 10 f   -     -     -         3760    0    0 
+woodside  958612111 10  9 f   -     -     -         3760    0    0 
+woodside  958612132  9  8 r   f     -     -         3760   40    0 
+woodside  958612164  9  7 f   -     -     -         3720    0    0 
+woodside  958612205 10  6 c   k     b     b         3720  100  220 
+woodside  958612252 10  5 f   -     -     -         3840    0    0 
+woodside  958612317 10  4 f   -     -     -         3840    0    0 
+woodside  958612342 10  3 f   -     -     -         3840    0    0 
+woodside  958612425 10  2 Bk  k     kf    -         3840   20    0 
+woodside  958612484 10  1 Bf  -     -     -         3820   10    0 
+woodside  958612570 10 10 f   -     -     -         3810    0    0 
+woodside  958612627 10  9 f   -     -     -         3810    0    0 
+woodside  958612675 10  8 f   -     -     -         3810    0    0 
+woodside  958612744 10  7 f   -     -     -         3810    0    0 
+woodside  958612779 10  6 f   -     -     -         3810    0    0 
+woodside  958612804 10  5 f   -     -     -         3810    0    0 
+woodside  958612849 10  4 r   b     b     b         3810  140    0 Kd Qd
+woodside  958612880 10  3 f   -     -     -         3670    0    0 
+woodside  958612922 10  2 Bk  k     kf    -         3670   20    0 
+woodside  958612992 10  1 Bf  -     -     -         3650   10    0 
+woodside  958613023 10 10 f   -     -     -         3640    0    0 
+woodside  958613043 10  9 f   -     -     -         3640    0    0 
+woodside  958613068 10  8 c   k     k     f         3640   20    0 
+woodside  958613110 10  7 f   -     -     -         3620    0    0 
+woodside  958613154 10  6 c   k     k     c         3620   60  180 Ah Jd
+woodside  958613194 10  5 f   -     -     -         3740    0    0 
+woodside  958613250 10  4 f   -     -     -         3740    0    0 
+woodside  958613285 10  3 f   -     -     -         3740    0    0 
+woodside  958613340 10  2 Bf  -     -     -         3740   20    0 
+woodside  958613371 10  1 Bc  kc    bc    k         3720  120    0 Jd Ah
+woodside  958613423 10 10 c   k     c     c         3600  100    0 Kh Kc
+woodside  958613474 10  9 f   -     -     -         3500    0    0 
+woodside  958613522 10  8 c   k     k     f         3500   20    0 
+woodside  958613583 10  7 c   f     -     -         3480   20    0 
+woodside  958613639  9  5 f   -     -     -         3460    0    0 
+woodside  958613738  9  4 f   -     -     -         3460    0    0 
+woodside  958613780  9  3 f   -     -     -         3460    0    0 
+woodside  958613843 10  2 Bk  kc    kf    -         3460   40    0 
+woodside  958613923 10  1 Bc  bc    b     b         3420  140  320 Jh 9h
+woodside  958613970 10 10 f   -     -     -         3600    0    0 
+woodside  958614030 10  9 f   -     -     -         3600    0    0 
+woodside  958614074 10  8 f   -     -     -         3600    0    0 
+woodside  958614109 10  7 f   -     -     -         3600    0    0 
+woodside  958614158 10  6 c   c     b     k         3600   80    0 4d 5d
+woodside  958614195 10  5 f   -     -     -         3520    0    0 
+woodside  958614247 10  4 f   -     -     -         3520    0    0 
+woodside  958614320 10  3 f   -     -     -         3520    0    0 
+woodside  958614360 10  2 Bk  kc    bc    b         3520  160    0 Kc 8c
+woodside  958614405 10  1 Bc  kc    kc    krc       3360  200  800 Jh Td
+woodside  958614469 10 10 f   -     -     -         3960    0    0 
+woodside  958614530 10  9 cc  c     k     k         3960   80    0 Ts 8s
+woodside  958614588 10  8 f   -     -     -         3880    0    0 
+woodside  958614653 10  7 f   -     -     -         3880    0    0 
+woodside  958614677 10  6 f   -     -     -         3880    0    0 
+woodside  958614750 10  5 f   -     -     -         3880    0    0 
+woodside  958614785 10  4 f   -     -     -         3880    0    0 
+woodside  958614844 10  3 f   -     -     -         3880    0    0 
+woodside  958614880 10  2 Bk  k     k     k         3880   20   90 9s Ah
+woodside  958614921 10  1 Bf  -     -     -         3950   10    0 
+woodside  958614966 10 10 f   -     -     -         3940    0    0 
+woodside  958615006 10  9 c   k     f     -         3940   20    0 
+woodside  958615045 10  8 c   b     r     r         3920  200  520 Ts Ac
+woodside  958615120 10  7 f   -     -     -         4240    0    0 
+woodside  958615204 10  6 cc  c     f     -         4240   60    0 
+woodside  958615246 10  4 Q   -     -     -         4180    0    0 
+woodside  958618311 10  2 Bf  -     -     -         4180   20    0 
+woodside  958618360 10  1 Bf  -     -     -         4160   10    0 
+woodside  958618389 10 10 f   -     -     -         4150    0    0 
+woodside  958618427 10  9 c   c     r     k         4150  120    0 Jd Td
+woodside  958618458 10  8 f   -     -     -         4030    0    0 
+woodside  958618535 10  7 f   -     -     -         4030    0    0 
+woodside  958618580 10  6 f   -     -     -         4030    0    0 
+woodside  958618601 10  5 f   -     -     -         4030    0    0 
+woodside  958618654 10  4 c   k     kc    b         4030  100    0 Ad 7d
+woodside  958618710 10  3 f   -     -     -         3930    0    0 
+woodside  958618768 10  2 Bk  k     kc    brc       3930  220  590 Jc Qc
+woodside  958618817  9  1 Bf  -     -     -         4300   10    0 
+woodside  958618853  9  9 cf  -     -     -         4290   20    0 
+woodside  958618903  9  8 f   -     -     -         4270    0    0 
+woodside  958618998  9  6 f   -     -     -         4270    0    0 
+woodside  958619026 10  6 f   -     -     -         4270    0    0 
+woodside  958619050 10  5 f   -     -     -         4270    0    0 
+woodside  958619096 10  4 rc  kf    -     -         4270   60    0 
+woodside  958619119 10  3 f   -     -     -         4210    0    0 
+woodside  958619193 10  2 Bk  k     k     f         4210   20    0 
+woodside  958619260 10  1 Bf  -     -     -         4190   10    0 
+woodside  958619304 10 10 f   -     -     -         4180    0    0 
+woodside  958619367 10  9 f   -     -     -         4180    0    0 
+woodside  958619415 10  8 f   -     -     -         4180    0    0 
+woodside  958619459  9  7 r   -     -     -         4180   40   70 
+woodside  958619470  9  6 c   kf    -     -         4210   20    0 
+woodside  958619529 10  5 f   -     -     -         4190    0    0 
+woodside  958619566 10  4 f   -     -     -         4190    0    0 
+woodside  958619610 10  3 f   -     -     -         4190    0    0 
+woodside  958619653  9  2 Bk  k     k     kf        4190   20    0 
+woodside  958619704  9  1 Bc  kc    kc    b         4170  140  420 2d Ah
+woodside  958619777 10 10 f   -     -     -         4450    0    0 
+woodside  958619825 10  9 f   -     -     -         4450    0    0 
+woodside  958619856 10  8 c   c     c     f         4450  100    0 
+woodside  958619902 10  7 f   -     -     -         4350    0    0 
+woodside  958619951 10  6 c   kcf   -     -         4350   40    0 
+woodside  958620018  9  4 f   -     -     -         4310    0    0 
+woodside  958620082  9  3 fQ  -     -     -         4310    0    0 
+woodside  958622939  7  2 Bf  -     -     -         4310   20    0 
+woodside  958623024  6  1 Bf  -     -     -         4290   10    0 
+woodside  958623061  7  7 c   k     k     f         4280   20    0 
+woodside  958623105  8  6 f   -     -     -         4260    0    0 
+woodside  958623130  8  5 f   -     -     -         4260    0    0 
+woodside  958623178  7  4 f   -     -     -         4260    0    0 
+woodside  958623226  7  3 f   -     -     -         4260    0    0 
+woodside  958623267  7  2 Bk  k     kc    b         4260  100  230 Qs Ks
+woodside  958623306  8  1 Bc  kc    kc    k         4390   80    0 Jd Ad
+woodside  958623346  8  8 c   k     f     -         4310   20    0 
+woodside  958623399  9  8 f   -     -     -         4290    0    0 
+woodside  958623424  9  7 f   -     -     -         4290    0    0 
+woodside  958623471  9  6 rc  b     k     b         4290  120  230 
+woodside  958623505  9  5 f   -     -     -         4400    0    0 
+woodside  958623522  9  4 c   krr   b     b         4400  180  350 
+woodside  958623569  9  3 c   kf    -     -         4570   20    0 
+woodside  958623633 10  2 Bk  kc    b     b         4550  120    0 Kd Jd
+woodside  958623677 10  1 Bc  b     -     -         4430   40   80 
+woodside  958623709 10 10 c   k     k     f         4470   20    0 
+woodside  958623771 10  9 c   bc    bc    c         4450  220  355 Kd 7d
+woodside  958623868 10  8 f   -     -     -         4585    0    0 
+woodside  958623900 10  7 f   -     -     -         4585    0    0 
+woodside  958623940 10  6 f   -     -     -         4585    0    0 
+woodside  958623961 10  5 cc  kc    kc    b         4585  140  290 
+woodside  958624014 10  4 f   -     -     -         4735    0    0 
+woodside  958624080 10  3 fQ  -     -     -         4735    0    0 
+woodside  958785251 10 10 f   -     -     -         4415    0    0 
+woodside  958785280 10  9 c   c     c     c         4415  140  350 As Qc
+woodside  958785330 10  8 c   c     rr    b         4625  260  550 Ac As
+woodside  958785369 10  7 f   -     -     -         4915    0    0 
+woodside  958785449 10  6 f   -     -     -         4915    0    0 
+woodside  958785477 10  5 f   -     -     -         4915    0    0 
+woodside  958785528 10  4 f   -     -     -         4915    0    0 
+woodside  958785548 10  3 f   -     -     -         4915    0    0 
+woodside  958785612 10  2 Bk  kf    -     -         4915   20    0 
+woodside  958785664 10  1 Bf  -     -     -         4895   10    0 
+woodside  958785677 10 10 f   -     -     -         4885    0    0 
+woodside  958785725 10  9 f   -     -     -         4885    0    0 
+woodside  958785785 10  8 c   c     c     r         4885  160    0 Jc Tc
+woodside  958785850 10  7 f   -     -     -         4725    0    0 
+woodside  958785890 10  6 f   -     -     -         4725    0    0 
+woodside  958785933 10  5 f   -     -     -         4725    0    0 
+woodside  958785950 10  4 cc  kf    -     -         4725   40    0 
+woodside  958786023 10  3 f   -     -     -         4685    0    0 
+woodside  958786032 10  2 Bf  -     -     -         4685   20    0 
+woodside  958786074 10  1 Bf  -     -     -         4665   10    0 
+woodside  958786114 10 10 f   -     -     -         4655    0    0 
+woodside  958786152 10  9 f   -     -     -         4655    0    0 
+woodside  958786192 10  8 c   b     b     -         4655   80  160 
+woodside  958786236 10  7 f   -     -     -         4735    0    0 
+woodside  958786268 10  6 f   -     -     -         4735    0    0 
+woodside  958786289 10  5 f   -     -     -         4735    0    0 
+woodside  958786325 10  4 f   -     -     -         4735    0    0 
+woodside  958786385 10  3 f   -     -     -         4735    0    0 
+woodside  958786422 10  2 Bf  -     -     -         4735   20    0 
+woodside  958786469 10  1 Bf  -     -     -         4715   10    0 
+woodside  958786505 10 10 c   c     c     b         4705  120  280 Jh Ks
+woodside  958786565 10  9 f   -     -     -         4865    0    0 
+woodside  958786673 10  8 f   -     -     -         4865    0    0 
+woodside  958786695 10  7 f   -     -     -         4865    0    0 
+woodside  958786749 10  6 r   cf    -     -         4865   60    0 
+woodside  958786826 10  5 f   -     -     -         4805    0    0 
+woodside  958786943 10  4 f   -     -     -         4805    0    0 
+woodside  958787022 10  3 f   -     -     -         4805    0    0 
+woodside  958787063 10  2 Bk  kf    -     -         4805   20    0 
+woodside  958787116 10  1 Bf  -     -     -         4785   10    0 
+woodside  958787184 10 10 f   -     -     -         4775    0    0 
+woodside  958787250 10  9 f   -     -     -         4775    0    0 
+woodside  958787270 10  8 f   -     -     -         4775    0    0 
+woodside  958787333 10  7 f   -     -     -         4775    0    0 
+woodside  958787354 10  6 cc  c     c     f         4775  100    0 
+woodside  958787402 10  5 f   -     -     -         4675    0    0 
+woodside  958787424 10  4 f   -     -     -         4675    0    0 
+woodside  958787514 10  3 f   -     -     -         4675    0    0 
+woodside  958787566 10  2 Bf  -     -     -         4675   20    0 
+woodside  958787697 10  1 Bf  -     -     -         4655   10    0 
+woodside  958787802 10 10 f   -     -     -         4645    0    0 
+woodside  958787857 10  9 f   -     -     -         4645    0    0 
+woodside  958787875 10  8 c   f     -     -         4645   40    0 
+woodside  958787908 10  7 c   b     b     -         4605   80  190 
+woodside  958787954 10  6 f   -     -     -         4715    0    0 
+woodside  958788001 10  5 f   -     -     -         4715    0    0 
+woodside  958788022 10  4 f   -     -     -         4715    0    0 
+woodside  958788081 10  3 f   -     -     -         4715    0    0 
+woodside  958788123 10  2 B   -     -     -         4715   20   30 
+woodside  958788136 10  1 Bf  -     -     -         4725   10    0 
+woodside  958788176 10 10 cc  c     c     f         4715  120    0 
+woodside  958788221 10  9 c   bc    k     f         4595   80    0 
+woodside  958788301 10  8 f   -     -     -         4515    0    0 
+woodside  958788344 10  7 c   k     c     f         4515   60    0 
+woodside  958788384 10  6 f   -     -     -         4455    0    0 
+woodside  958788425 10  5 f   -     -     -         4455    0    0 
+woodside  958788479 10  4 c   kf    -     -         4455   20    0 
+woodside  958788532 10  3 fQ  -     -     -         4435    0    0 
+woodside  958797778 10 10 f   -     -     -         4570    0    0 
+woodside  958797832 10  9 f   -     -     -         4570    0    0 
+woodside  958797891 10  8 f   -     -     -         4570    0    0 
+woodside  958797918 10  7 c   f     -     -         4570   40    0 
+woodside  958797948 10  6 c   kf    -     -         4530   20    0 
+woodside  958797981 10  5 f   -     -     -         4510    0    0 
+woodside  958798053 10  4 f   -     -     -         4510    0    0 
+woodside  958798108 10  3 f   -     -     -         4510    0    0 
+woodside  958798204 10  2 Bk  kf    -     -         4510   20    0 
+woodside  958798258 10  1 Bf  -     -     -         4490   10    0 
+woodside  958798301 10 10 r   -     -     -         4480   40   70 
+woodside  958798323 10  9 c   c     r     b         4510  160    0 Qd Th
+woodside  958798370 10  8 cc  kf    -     -         4350   40    0 
+woodside  958798465 10  7 f   -     -     -         4310    0    0 
+woodside  958798495 10  6 f   -     -     -         4310    0    0 
+woodside  958798572 10  5 c   k     f     -         4310   20    0 
+woodside  958798649 10  4 f   -     -     -         4290    0    0 
+woodside  958798696 10  3 f   -     -     -         4290    0    0 
+woodside  958798745 10  2 Bk  k     k     k         4290   20    0 Qs Th
+woodside  958798806 10  1 Bf  -     -     -         4270   10    0 
+woodside  958798827 10 10 f   -     -     -         4260    0    0 
+woodside  958798872 10  9 f   -     -     -         4260    0    0 
+woodside  958798926 10  8 f   -     -     -         4260    0    0 
+woodside  958798962 10  7 r   b     -     -         4260   60  200 
+woodside  958798987 10  6 c   kc    b     br        4400  200  215 8s 8h
+woodside  958799027 10  5 f   -     -     -         4415    0    0 
+woodside  958799076 10  4 f   -     -     -         4415    0    0 
+woodside  958799132 10  3 f   -     -     -         4415    0    0 
+woodside  958799180 10  2 Bc  kc    kf    -         4415   60    0 
+woodside  958799224  9  1 Bf  -     -     -         4355   10    0 
+woodside  958799258 10 10 r   c     bf    -         4345  120    0 
+woodside  958799304 10  4 Q   -     -     -         4225    0    0 
+woodside  958802438 10  1 Bc  k     b     kc        4225  100    0 6s Ah
+woodside  958802526  9  9 f   -     -     -         4125    0    0 
+woodside  958802597  9  8 f   -     -     -         4125    0    0 
+woodside  958802723 10  8 f   -     -     -         4125    0    0 
+woodside  958802777 10  7 c   c     c     c         4125  180  620 5c 5h
+woodside  958802862 10  6 f   -     -     -         4565    0    0 
+woodside  958802949 10  5 f   -     -     -         4565    0    0 
+woodside  958803018 10  4 cc  kc    kc    kf        4565  100    0 
+woodside  958803094 10  3 f   -     -     -         4465    0    0 
+woodside  958803136 10  2 Bk  k     k     k         4465   20   60 Jh Tc
+woodside  958803173 10  1 Bf  -     -     -         4505   10    0 
+woodside  958803225 10 10 f   Q     -     -         4495    0    0 
+woodside  958976864  8  6 f   -     -     -         4495    0    0 
+woodside  958976913  8  5 f   -     -     -         4495    0    0 
+woodside  958976969  8  4 f   -     -     -         4495    0    0 
+woodside  958977008  8  3 f   -     -     -         4495    0    0 
+woodside  958977059  8  2 Bc  kc    b     b         4495  140  330 
+woodside  958977095  8  1 Bf  -     -     -         4685   10    0 
+woodside  958977124  8  8 f   -     -     -         4675    0    0 
+woodside  958977201  7  6 f   -     -     -         4675    0    0 
+woodside  958977212  7  5 cc  f     -     -         4675   40    0 
+woodside  958977258  8  4 f   -     -     -         4635    0    0 
+woodside  958977312  8  3 cc  b     b     b         4635  140  370 
+woodside  958977360  8  2 Bf  -     -     -         4865   20    0 
+woodside  958977413  8  1 Bf  -     -     -         4845   10    0 
+woodside  958977451  8  8 f   -     -     -         4835    0    0 
+woodside  958977505  9  8 f   -     -     -         4835    0    0 
+woodside  958977529  9  7 f   -     -     -         4835    0    0 
+woodside  958977602  9  6 c   b     f     -         4835   40    0 
+woodside  958977652  9  5 f   -     -     -         4795    0    0 
+woodside  958977663  9  4 f   -     -     -         4795    0    0 
+woodside  958977705  9  3 f   -     -     -         4795    0    0 
+woodside  958977742  9  2 Bk  kc    kc    bc        4795  160    0 5s Th
+woodside  958977806  9  1 Bf  -     -     -         4635   10    0 
+woodside  958977836  8  8 f   -     -     -         4625    0    0 
+woodside  958977886  7  6 f   -     -     -         4625    0    0 
+woodside  958977909  7  6 f   -     -     -         4625    0    0 
+woodside  958977940  7  5 f   -     -     -         4625    0    0 
+woodside  958977985  7  4 c   kc    b     br        4625  200    0 Ks 3s
+woodside  958978044  7  3 f   -     -     -         4425    0    0 
+woodside  958978080  7  2 Bk  kf    -     -         4425   20    0 
+woodside  958978122  6  1 Bf  -     -     -         4405   10    0 
+woodside  958978160  6  6 c   c     c     b         4395  140  330 Ac Jd
+woodside  958978187  6  5 c   c     c     c         4585  120  290 7d 7s
+woodside  958978222  6  4 f   -     -     -         4755    0    0 
+woodside  958978264  6  3 f   -     -     -         4755    0    0 
+woodside  958978305  6  2 Bk  k     c     b         4755  100  180 
+woodside  958978345  6  1 Bf  -     -     -         4835   10    0 
+woodside  958978369  6  6 f   -     -     -         4825    0    0 
+woodside  958978449  6  5 f   -     -     -         4825    0    0 
+woodside  958978492  6  4 r   f     -     -         4825   40    0 
+woodside  958978534  6  3 f   -     -     -         4785    0    0 
+woodside  958978586  6  2 Bf  -     -     -         4785   20    0 
+woodside  958978595  6  1 Br  bc    bc    kc        4765  200    0 9h 9c
+woodside  958978633  6  6 cc  c     c     k         4565  100    0 Jh Ts
+woodside  958978677  7  5 c   f     Q     -         4465   20    0 
+woodside  959031699  8  5 f   -     -     -         4310    0    0 
+woodside  959031773  9  5 f   -     -     -         4310    0    0 
+woodside  959031797 10  5 f   -     -     -         4310    0    0 
+woodside  959031873 10  4 f   -     -     -         4310    0    0 
+woodside  959031909 10  3 c   k     k     kf        4310   20    0 
+woodside  959031966 10  2 Bf  -     -     -         4290   20    0 
+woodside  959032054 10  1 Bf  -     -     -         4270   10    0 
+woodside  959032118 10 10 f   -     -     -         4260    0    0 
+woodside  959032160 10  9 c   c     r     bc        4260  200    0 Ad Ac
+woodside  959032202 10  8 f   -     -     -         4060    0    0 
+woodside  959032279 10  7 f   -     -     -         4060    0    0 
+woodside  959032342 10  6 c   b     b     b         4060  120  290 Th Ah
+woodside  959032378 10  5 f   -     -     -         4230    0    0 
+woodside  959032491  9  3 f   -     -     -         4230    0    0 
+woodside  959032580  9  2 Bk  kc    kc    kf        4230   80    0 
+woodside  959032633  9  1 Bf  -     -     -         4150   10    0 
+woodside  959032660  9  9 f   -     -     -         4140    0    0 
+woodside  959032711 10  9 f   -     -     -         4140    0    0 
+woodside  959032756 10  8 f   -     -     -         4140    0    0 
+woodside  959032802  9  6 c   c     c     c         4140  140    0 8c 8h
+woodside  959032831 10  4 Q   -     -     -         4000    0    0 
+woodside  959039540  5  3 cc  f     -     -         4000   40    0 
+woodside  959039569  6  2 Bf  -     -     -         3960   20    0 
+woodside  959039577  6  1 Bf  -     -     -         3940   10    0 
+woodside  959039605  7  7 c   f     -     -         3930   20    0 
+woodside  959039641  7  6 f   -     -     -         3910    0    0 
+woodside  959039670  7  5 r   -     -     -         3910   40   70 
+woodside  959039679  7  4 f   -     -     -         3940    0    0 
+woodside  959039700  7  3 f   -     -     -         3940    0    0 
+woodside  959039708  7  2 Bk  b     b     bf        3940  120    0 
+woodside  959039738  7  1 Bf  -     -     -         3820   10    0 
+woodside  959039766  7  6 c   r     r     c         3810  200    0 9s As
+woodside  959039790  7  5 f   -     -     -         3610    0    0 
+woodside  959039818  7  4 f   -     -     -         3610    0    0 
+woodside  959039846  7  3 f   -     -     -         3610    0    0 
+woodside  959039870  7  2 Bf  -     -     -         3610   20    0 
+woodside  959039884  6  1 Bc  kf    -     -         3590   20    0 
+woodside  959039906  6  6 c   b     b     -         3570   80  180 
+woodside  959039938  8  6 c   b     -     -         3670   40   90 
+woodside  959039957  9  5 f   -     -     -         3720    0    0 
+woodside  959040004  9  4 f   -     -     -         3720    0    0 
+woodside  959040033  9  3 f   -     -     -         3720    0    0 
+woodside  959040085  9  2 Bk  k     kf    -         3720   20    0 
+woodside  959040131  9  1 Bf  -     -     -         3700   10    0 
+woodside  959040147  9  9 f   -     -     -         3690    0    0 
+woodside  959040162  9  8 f   -     -     -         3690    0    0 
+woodside  959040260  8  6 f   -     -     -         3690    0    0 
+woodside  959040310  8  5 f   -     -     -         3690    0    0 
+woodside  959040348  8  4 cc  kc    kr    b         3690  180  370 
+woodside  959040405  8  3 f   -     -     -         3880    0    0 
+woodside  959040440  8  2 Bc  kc    kc    b         3880  140  380 Ac 8c
+woodside  959040476  8  1 Bf  -     -     -         4120   10    0 
+woodside  959040522  8  8 f   -     -     -         4110    0    0 
+woodside  959040605  8  7 f   -     -     -         4110    0    0 
+woodside  959040657  8  6 f   -     -     -         4110    0    0 
+woodside  959040712  8  5 c   c     c     c         4110  140    0 9s 9h
+woodside  959040749  9  5 f   -     -     -         3970    0    0 
+woodside  959040791  9  4 f   -     -     -         3970    0    0 
+woodside  959040854  8  3 fQ  -     -     -         3970    0    0 
+woodside  959404664  8  4 f   -     -     -         3640    0    0 
+woodside  959404709  8  3 f   -     -     -         3640    0    0 
+woodside  959404742  8  2 Bk  kf    -     -         3640   20    0 
+woodside  959404787 10  1 Bf  -     -     -         3620   10    0 
+woodside  959404816 10 10 r   c     k     c         3610  100  540 Js Jc
+woodside  959404881  9  8 f   -     -     -         4050    0    0 
+woodside  959404930  9  6 Q   -     -     -         4050    0    0 
+woodside  959488183 10  9 c   k     f     -         4050   20    0 
+woodside  959488247 10  8 c   c     k     c         4030   80  320 Jh Ah
+woodside  959488295 10  7 c   f     -     -         4270   40    0 
+woodside  959488366  9  7 c   f     -     -         4230   20    0 
+woodside  959488466  8  5 f   -     -     -         4210    0    0 
+woodside  959488528  9  4 c   kf    -     -         4210   20    0 
+woodside  959488588  9  3 f   -     -     -         4190    0    0 
+woodside  959488649  9  2 Bf  -     -     -         4190   20    0 
+woodside  959488664  9  1 Bf  -     -     -         4170   10    0 
+woodside  959488698  9  9 f   -     -     -         4160    0    0 
+woodside  959488710  9  8 f   -     -     -         4160    0    0 
+woodside  959488742  9  7 c   f     -     -         4160   20    0 
+woodside  959488790  9  6 f   -     -     -         4140    0    0 
+woodside  959488831  9  5 rc  c     f     -         4140   80    0 
+woodside  959488866 10  4 c   k     kc    b         4060  100  220 
+woodside  959488917 10  3 f   -     -     -         4180    0    0 
+woodside  959488947 10  2 Bk  b     b     b         4180  120  390 7d Th
+woodside  959488991 10  1 Bf  -     -     -         4450   10    0 
+woodside  959489036 10 10 f   -     -     -         4440    0    0 
+woodside  959489085 10  9 f   -     -     -         4440    0    0 
+woodside  959489134 10  8 f   -     -     -         4440    0    0 
+woodside  959489201 10  7 cc  cc    k     kc        4440  120    0 9s Ks
+woodside  959489257 10  6 c   kf    -     -         4320   20    0 
+woodside  959489324 10  5 f   -     -     -         4300    0    0 
+woodside  959489387 10  4 f   -     -     -         4300    0    0 
+woodside  959489427 10  3 f   -     -     -         4300    0    0 
+woodside  959489475 10  2 Bk  kc    b     b         4300  120    0 Qh 8c
+woodside  959489529 10  1 Bf  -     -     -         4180   10    0 
+woodside  959489573 10 10 cc  f     -     -         4170   40    0 
+woodside  959489611 10  9 f   -     -     -         4130    0    0 
+woodside  959489632 10  8 f   -     -     -         4130    0    0 
+woodside  959489670 10  7 fQ  -     -     -         4130    0    0 
+woodside  959494042  4  3 c   c     cf    -         4130   80    0 
+woodside  959494067  4  2 Bf  -     -     -         4050   20    0 
+woodside  959494084  4  1 Bc  bc    bc    k         4030  160    0 Ks 8c
+woodside  959494111  4  4 f   -     -     -         3870    0    0 
+woodside  959494131  4  3 f   -     -     -         3870    0    0 
+woodside  959494161  4  2 Bc  bc    kc    b         3870  160  450 Qc 4c
+woodside  959494188  4  1 Bc  b     b     b         4160  120    0 6h As
+woodside  959494213  4  4 c   k     k     f         4040   20    0 
+woodside  959494238  4  3 f   -     -     -         4020    0    0 
+woodside  959494254  4  2 Bf  -     -     -         4020   20    0 
+woodside  959494265  4  1 Bc  kc    kc    b         4000  140    0 Ah 4d
+woodside  959494287  4  4 c   c     c     bc        3860  180    0 7c 6c
+woodside  959494318  4  3 f   -     -     -         3680    0    0 
+woodside  959494325  4  2 Bk  b     b     b         3680  120  250 
+woodside  959494351  4  1 Br  br    -     -         3810  100  180 
+woodside  959494367  4  4 c   f     -     -         3890   20    0 
+woodside  959494378  4  3 f   -     -     -         3870    0    0 
+woodside  959494398  4  2 Br  b     b     b         3870  140  250 
+woodside  959494421  4  1 Br  -     -     -         3980   40   60 
+woodside  959494431  4  4 cc  f     -     -         4000   40    0 
+woodside  959494464  4  3 r   k     b     b         3960  120  260 
+woodside  959494494  4  2 Bk  f     -     -         4100   20    0 
+woodside  959494503  4  1 Bc  kc    k     b         4080   80    0 Kd 7s
+woodside  959494534  5  5 f   -     -     -         4000    0    0 
+woodside  959494559  5  4 f   -     -     -         4000    0    0 
+woodside  959494579  5  3 f   -     -     -         4000    0    0 
+woodside  959494603  6  2 Bk  c     r     b         4000  160  280 
+woodside  959494632  6  1 Bc  brr   b     b         4120  200  380 
+woodside  959494665  6  6 r   -     -     -         4300   40   70 
+woodside  959494679  6  5 rc  c     k     b         4330  140  315 9s Ad
+woodside  959494739  5  4 f   -     -     -         4505    0    0 
+woodside  959494768  5  3 c   kf    -     -         4505   20    0 
+woodside  959494798  5  2 Bk  b     -     -         4485   40   60 
+woodside  959494813  5  1 Bf  -     -     -         4505   10    0 
+woodside  959494841  5  5 f   -     -     -         4495    0    0 
+woodside  959494859  5  4 r   kf    -     -         4495   40    0 
+woodside  959494887  5  3 cc  c     c     f         4455  120    0 
+woodside  959494922  6  2 Bk  b     b     br        4335  200    0 Qs 6d
+woodside  959494952  6  1 Bc  kf    -     -         4135   40    0 
+woodside  959495001  6  6 f   Q     -     -         4095    0    0 
+woodside  959583632  8  6 f   -     -     -         4095    0    0 
+woodside  959583661  8  5 r   k     f     -         4095   40    0 
+woodside  959583702  8  4 fQ  -     -     -         4055    0    0 
+woodside  959584035  7  7 r   f     -     -         4055   40    0 
+woodside  959584060  7  6 c   k     b     k         4015   60    0 Ah Jc
+woodside  959584119  8  5 r   k     f     -         3955   40    0 
+woodside  959584166  8  4 f   -     -     -         3915    0    0 
+woodside  959584207  7  3 f   -     -     -         3915    0    0 
+woodside  959584252  7  2 Bk  b     b     -         3915   80  130 
+woodside  959584275  6  1 Br  k     b     bc        3965  180  250 Th Ac
+woodside  959584329  7  7 f   -     -     -         4035    0    0 
+woodside  959584350  7  6 f   -     -     -         4035    0    0 
+woodside  959584407  7  5 f   -     -     -         4035    0    0 
+woodside  959584439  7  4 f   -     -     -         4035    0    0 
+woodside  959584481  7  3 r   b     -     -         4035   60  110 
+woodside  959584506  7  2 Bk  kf    -     -         4085   20    0 
+woodside  959584535  7  1 Bf  -     -     -         4065   10    0 
+woodside  959584573  8  8 c   f     -     -         4055   20    0 
+woodside  959584625  7  6 f   -     -     -         4035    0    0 
+woodside  959584699  8  5 f   -     -     -         4035    0    0 
+woodside  959584749  8  4 r   f     -     -         4035   40    0 
+woodside  959584793  8  3 c   br    b     b         3995  160  410 Ah Qh
+woodside  959584844  8  2 Bk  kf    -     -         4245   20    0 
+woodside  959584885  8  1 Bf  -     -     -         4225   10    0 
+woodside  959584938 10 10 c   br    k     f         4215   80    0 
+woodside  959585003 10  9 f   -     -     -         4135    0    0 
+woodside  959585059 10  8 f   -     -     -         4135    0    0 
+woodside  959585097 10  7 f   -     -     -         4135    0    0 
+woodside  959585135  9  6 fQ  -     -     -         4135    0    0 
+woodside  959585407  8  2 Bf  -     -     -         3555   20    0 
+woodside  959585464  8  1 Bc  kf    -     -         3535   40    0 
+woodside  959585502  8  8 f   -     -     -         3495    0    0 
+woodside  959585542  9  8 r   b     -     -         3495   60  210 
+woodside  959585570  9  7 f   -     -     -         3645    0    0 
+woodside  959585607  9  6 r   b     b     bf        3645  140    0 
+woodside  959585658  9  5 c   f     -     -         3505   20    0 
+woodside  959585681 10  4 f   -     -     -         3485    0    0 
+woodside  959585706 10  3 r   b     b     b         3485  140    0 Ah Js
+woodside  959585752 10  2 Bk  c     bc    kc        3345  160    0 7d Ks
+woodside  959585795 10  1 Bf  -     -     -         3185   10    0 
+woodside  959585843 10 10 f   -     -     -         3175    0    0 
+woodside  959585892 10  9 f   -     -     -         3175    0    0 
+woodside  959585932 10  8 f   -     -     -         3175    0    0 
+woodside  959585951 10  7 f   -     -     -         3175    0    0 
+woodside  959586040 10  6 f   -     -     -         3175    0    0 
+woodside  959586078 10  5 r   kf    -     -         3175   40    0 
+woodside  959586124 10  4 f   -     -     -         3135    0    0 
+woodside  959586159 10  3 f   -     -     -         3135    0    0 
+woodside  959586243 10  2 Bf  -     -     -         3135   20    0 
+woodside  959586295 10  1 Bc  kf    -     -         3115   40    0 
+woodside  959586359 10 10 f   -     -     -         3075    0    0 
+woodside  959586381 10  9 f   -     -     -         3075    0    0 
+woodside  959586426 10  8 r   b     b     k         3075  100    0 Ad 8d
+woodside  959586468 10  7 f   -     -     -         2975    0    0 
+woodside  959586497 10  6 f   -     -     -         2975    0    0 
+woodside  959586543 10  5 f   -     -     -         2975    0    0 
+woodside  959586581 10  4 c   k     bf    -         2975   60    0 
+woodside  959586623 10  3 f   -     -     -         2915    0    0 
+woodside  959586665 10  2 Bk  kc    k     k         2915   40  230 Js 8s
+woodside  959586717  9  1 Bf  -     -     -         3105   10    0 
+woodside  959586744  9  9 r   f     -     -         3095   40    0 
+woodside  959586802  9  8 fQ  -     -     -         3055    0    0 
+woodside  959666850  8  3 f   -     -     -         3055    0    0 
+woodside  959666882  8  2 Bk  kf    -     -         3055   20    0 
+woodside  959666929 10  1 Bf  -     -     -         3035   10    0 
+woodside  959666996 10 10 f   -     -     -         3025    0    0 
+woodside  959667045 10  9 f   -     -     -         3025    0    0 
+woodside  959667090 10  8 f   -     -     -         3025    0    0 
+woodside  959667119 10  7 c   b     kc    b         3025  140  510 Js Jc
+woodside  959667242  9  5 f   -     -     -         3395    0    0 
+woodside  959667291  9  5 f   -     -     -         3395    0    0 
+woodside  959667364  9  4 c   kf    -     -         3395   20    0 
+woodside  959667421  9  3 f   -     -     -         3375    0    0 
+woodside  959667451 10  2 Bf  -     -     -         3375   20    0 
+woodside  959667522  9  1 Bf  -     -     -         3355   10    0 
+woodside  959667541  9  9 c   f     -     -         3345   20    0 
+woodside  959667582  9  3 Q   -     -     -         3325    0    0 
+woodside  959683576  7  3 f   -     -     -         3295    0    0 
+woodside  959683687  7  2 Bk  c     c     b         3295  120  320 4s Qc
+woodside  959683726  6  1 Bcf -     -     -         3495   40    0 
+woodside  959683803  6  6 f   -     -     -         3455    0    0 
+woodside  959683836  6  5 f   -     -     -         3455    0    0 
+woodside  959683898  5  3 f   -     -     -         3455    0    0 
+woodside  959683937  4  2 Bf  -     -     -         3455   20    0 
+woodside  959684012  5  1 Br  b     b     -         3435  100  180 
+woodside  959684034  5  5 f   -     -     -         3515    0    0 
+woodside  959684089  5  4 r   b     k     c         3515  100    0 As Jh
+woodside  959684166  5  3 cc  f     -     -         3415   40    0 
+woodside  959684220  5  2 Bk  f     -     -         3375   20    0 
+woodside  959684265  4  1 Bc  bf    -     -         3355   40    0 
+woodside  959684307  4  4 f   -     -     -         3315    0    0 
+woodside  959684315  4  3 f   -     -     -         3315    0    0 
+woodside  959684343  4  2 Bk  b     b     b         3315  120  210 
+woodside  959684377  4  1 Bf  -     -     -         3405   10    0 
+woodside  959684398  4  4 f   -     -     -         3395    0    0 
+woodside  959684428  4  3 r   r     b     b         3395  160    0 Ad 8d
+woodside  959684455  4  2 Bf  -     -     -         3235   20    0 
+woodside  959684468  4  1 Bf  -     -     -         3215   10    0 
+woodside  959684473  3  3 f   -     -     -         3205    0    0 
+woodside  959684480  3  2 Brc kc    bc    b         3205  220  480 
+woodside  959684513  3  1 BQ  -     -     -         3465   10    0 
+woodside  959741221  8  8 c   f     -     -         3395   20    0 
+woodside  959741287  8  7 f   -     -     -         3375    0    0 
+woodside  959741388  7  5 r   b     rf    -         3375  140    0 
+woodside  959741432  7  4 f   -     -     -         3235    0    0 
+woodside  959741483  8  3 f   -     -     -         3235    0    0 
+woodside  959741548  8  2 Bc  f     -     -         3235   40    0 
+woodside  959741610  9  1 Bf  -     -     -         3195   10    0 
+woodside  959741680  9  9 f   -     -     -         3185    0    0 
+woodside  959741723  9  8 c   k     f     -         3185   20    0 
+woodside  959741757 10  8 c   cc    c     f         3165  140    0 
+woodside  959741869 10  7 f   -     -     -         3025    0    0 
+woodside  959741937 10  6 fQ  -     -     -         3025    0    0 

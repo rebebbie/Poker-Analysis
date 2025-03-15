@@ -1,0 +1,43 @@
+SeaEnemy  959544441  6  4 cc  kf    -     -         2285   40    0 
+SeaEnemy  959544501  5  3 cc  f     -     -         2245   40    0 
+SeaEnemy  959544515  5  2 B   -     -     -         2205   20   30 
+SeaEnemy  959544525  5  1 Bf  -     -     -         2215   10    0 
+SeaEnemy  959544535  5  5 f   -     -     -         2205    0    0 
+SeaEnemy  959544564  7  6 rc  c     r     b         2205  220  530 7c Ac
+SeaEnemy  959544620  7  5 f   -     -     -         2515    0    0 
+SeaEnemy  959544659  7  4 f   -     -     -         2515    0    0 
+SeaEnemy  959544684  7  3 f   -     -     -         2515    0    0 
+SeaEnemy  959544721  7  2 Br  br    kc    b         2515  180  480 6s As
+SeaEnemy  959544772  8  1 Bc  bc    brc   br        2815  360  940 
+SeaEnemy  959544819  9  9 f   -     -     -         3395    0    0 
+SeaEnemy  959544855  9  8 r   r     c     f         3395  120    0 
+SeaEnemy  959544934  8  6 c   c     rr    rr        3275  360  700 
+SeaEnemy  959544986  8  5 cc  b     k     f         3615   60    0 
+SeaEnemy  959545040  8  4 rr  rr    brc   br        3555  440 1190 
+SeaEnemy  959545132  8  3 cc  f     -     -         4305   40    0 
+SeaEnemy  959545173  8  2 Br  kc    br    bf        4265  260    0 
+SeaEnemy  959545237  9  1 Br  kfQ   -     -         4005   40    0 
+SeaEnemy  959617372  3  2 Br  b     -     -         3420   60  100 
+SeaEnemy  959617402  2  1 Br  -     -     -         3460   40   60 
+SeaEnemy  959617408  2  2 Bk  f     -     -         3480   20    0 
+SeaEnemy  959617419  2  1 Br  -     -     -         3460   40   60 
+SeaEnemy  959617423  2  2 Bc  f     -     -         3480   40    0 
+SeaEnemy  959617430  2  1 Bf  -     -     -         3440   10    0 
+SeaEnemy  959617432  2  2 Bk  bc    r     b         3430  180  360 2d 3c
+SeaEnemy  959617457  2  1 Bf  -     -     -         3610   10    0 
+SeaEnemy  959617462  2  2 Bk  f     -     -         3600   20    0 
+SeaEnemy  959617470  2  1 Br  -     -     -         3580   40   60 
+SeaEnemy  959617475  2  2 Bc  k     f     -         3600   40    0 
+SeaEnemy  959617489  3  1 Br  b     -     -         3560   60  100 
+SeaEnemy  959617502  3  3 r   c     k     r         3600  140  260 
+SeaEnemy  959617528  3  2 Bc  k     kf    -         3720   40    0 
+SeaEnemy  959617543  3  1 Br  b     b     bc        3680  180    0 Kd Kc
+SeaEnemy  959617563  3  3 r   -     -     -         3500   40   70 
+SeaEnemy  959617572  4  2 Bc  k     k     b         3530   80  170 
+SeaEnemy  959617594  4  1 Bf  -     -     -         3620   10    0 
+SeaEnemy  959617599  4  4 r   b     k     k         3610   60  130 Js Ts
+SeaEnemy  959617618  4  3 r   b     b     k         3680  100    0 Js Tc
+SeaEnemy  959617650  4  2 Bk  k     f     -         3580   20    0 
+SeaEnemy  959617676  4  1 Bc  b     b     -         3560   80  160 
+SeaEnemy  959617695  4  4 c   f     -     -         3640   20    0 
+SeaEnemy  959617720  5  3 Q   -     -     -         3620    0    0 

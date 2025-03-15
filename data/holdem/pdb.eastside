@@ -1,0 +1,102 @@
+eastside  957828566  6  6 c   f     -     -         4047   10    0 
+eastside  957828604  6  5 f   -     -     -         4037    0    0 
+eastside  957828630  6  4 cc  kf    -     -         4037   20    0 
+eastside  957828673  6  3 f   -     -     -         4017    0    0 
+eastside  957828718  6  2 Bk  kf    -     -         4017   10    0 
+eastside  957828738  6  1 Bcc kcc   kr    b         4007  120  420 6d 8d
+eastside  957828784  6  6 cc  cc    c     f         4307   70    0 
+eastside  957828836  6  5 f   -     -     -         4237    0    0 
+eastside  957828862  6  4 f   -     -     -         4237    0    0 
+eastside  957828878  6  3 cc  f     -     -         4237   20    0 
+eastside  957828907  6  2 Bf  -     -     -         4217   10    0 
+eastside  957828929  5  1 Bf  -     -     -         4207    5    0 
+eastside  957828965  6  5 f   -     -     -         4202    0    0 
+eastside  957829058  6  4 f   -     -     -         4202    0    0 
+eastside  957829097  5  2 Bk  kf    -     -         4202   10    0 
+eastside  957829118  5  1 Bc  kcc   kc    kr        4192  120  360 6h Qh
+eastside  957829160  5  5 f   -     -     -         4432    0    0 
+eastside  957829218  5  4 f   -     -     -         4432    0    0 
+eastside  957829260  4  3 c   kf    -     -         4432   10    0 
+eastside  957829277  4  2 Bk  k     k     b         4422   30   65 Ad Jd
+eastside  957829305  4  1 Bc  k     b     b         4457   50  120 
+eastside  957829338  4  4 cc  k     c     c         4527   60    0 8d 6d
+eastside  957829369  4  3 fQ  -     -     -         4467    0    0 
+eastside  958448978  8  5 f   -     -     -        17321    0    0 
+eastside  958449023  9  4 cc  b     bc    kc       17321   90    0 Kc Jh
+eastside  958449102  8  3 f   -     -     -        17231    0    0 
+eastside  958449172  7  2 Bf  -     -     -        17231   10    0 
+eastside  958449204  7  1 Bf  -     -     -        17221    5    0 
+eastside  958449320  8  8 f   -     -     -        17216    0    0 
+eastside  958449377  8  7 f   -     -     -        17216    0    0 
+eastside  958449458  9  6 cc  f     -     -        17216   20    0 
+eastside  958449517  8  5 c   k     b     b        17196   50   95 
+eastside  958449547  8  4 f   -     -     -        17241    0    0 
+eastside  958449606  8  3 rc  kc    kcc   kf       17241  110    0 
+eastside  958449662  8  2 Bk  kcc   kc    kf       17131   70    0 
+eastside  958449711  7  1 Bc  kf    -     -        17061   10    0 
+eastside  958449774  7  7 f   -     -     -        17051    0    0 
+eastside  958449810  7  6 f   -     -     -        17051    0    0 
+eastside  958449863  7  5 c   f     -     -        17051   20    0 
+eastside  958449917  7  4 c   kr    b     b        17031   70  180 9c Th
+eastside  958450014  8  3 cc  f     Q     -        17141   30    0 
+eastside  958919976  9  2 Bk  kf    -     -         1120   10    0 
+eastside  958920009  8  1 Bf  -     -     -         1110    5    0 
+eastside  958920027  8  8 c   b     b     -         1105   40   80 
+eastside  958920067  8  7 c   k     k     k         1145   10    0 9s 7h
+eastside  958920120  9  7 f   -     -     -         1135    0    0 
+eastside  958920136  9  6 f   -     -     -         1135    0    0 
+eastside  958920167 10  6 f   -     -     -         1135    0    0 
+eastside  958920228 10  5 KQ  -     -     -         1135    0    0 
+eastside  958950767  9  3 r   b     b     k         1135   50  135 Kd Ah
+eastside  958950837  9  2 Bf  -     -     -         1220   10    0 
+eastside  958950873  9  1 Bc  k     kf    -         1210   10    0 
+eastside  958950902  9  9 cc  c     f     -         1200   30    0 
+eastside  958950955  8  7 f   -     -     -         1170    0    0 
+eastside  958951026  8  6 f   -     -     -         1170    0    0 
+eastside  958951070  8  5 f   -     -     -         1170    0    0 
+eastside  958951113  8  4 f   -     -     -         1170    0    0 
+eastside  958951202  8  3 f   -     -     -         1170    0    0 
+eastside  958951261  8  2 Bc  kc    kr    b         1170   90  260 Jc 8d
+eastside  958951323  7  1 Bf  -     -     -         1340    5    0 
+eastside  958951368  7  7 f   -     -     -         1335    0    0 
+eastside  958951402  8  7 f   -     -     -         1335    0    0 
+eastside  958951484  8  6 f   -     -     -         1335    0    0 
+eastside  958951544  9  7 c   f     -     -         1335   20    0 
+eastside  958951610  8  5 cc  f     -     -         1315   30    0 
+eastside  958951660  8  4 f   -     -     -         1285    0    0 
+eastside  958951677  8  3 cc  kf    -     -         1285   20    0 
+eastside  958951715  8  2 Bf  -     -     -         1265   10    0 
+eastside  958951739  7  1 Bc  b     b     -         1255   40   70 
+eastside  958951767  7  7 f   -     -     -         1285    0    0 
+eastside  958951796  7  6 c   f     -     -         1285   10    0 
+eastside  958951849  6  4 c   c     r     b         1275   80    0 9c Js
+eastside  958951876  6  3 cc  kc    k     b         1195   50  115 Ac 4c
+eastside  958951900  6  2 Bk  k     b     kc        1260   50  120 7h Js
+eastside  958951937  7  1 Bf  -     -     -         1330    5    0 
+eastside  958951967  8  8 f   -     -     -         1325    0    0 
+eastside  958952007  8  7 c   c     c     c         1325   60   70 Ad 8d
+eastside  958952046  8  6 f   -     -     -         1335    0    0 
+eastside  958952079  8  5 f   -     -     -         1335    0    0 
+eastside  958952105  8  4 f   -     -     -         1335    0    0 
+eastside  958952133  8  3 c   k     kf    -         1335   10    0 
+eastside  958952169  9  2 Bk  kf    -     -         1325   10    0 
+eastside  958952194  9  1 Bf  -     -     -         1315    5    0 
+eastside  958952202  9  9 f   -     -     -         1310    0    0 
+eastside  958952257 10  9 c   k     f     -         1310   10    0 
+eastside  958952335 10  8 f   -     -     -         1300    0    0 
+eastside  958952383 10  7 f   -     -     -         1300    0    0 
+eastside  958952461 10  6 f   -     -     -         1300    0    0 
+eastside  958952538  9  6 KQ  -     -     -         1300    0    0 
+eastside  959313588  6  3 f   -     -     -         1695    0    0 
+eastside  959313619  6  2 Bc  kc    kf    -         1695   30    0 
+eastside  959313635  7  1 Bc  kf    -     -         1665   10    0 
+eastside  959313661  7  7 f   -     -     -         1655    0    0 
+eastside  959313695  8  6 c   f     -     -         1655   10    0 
+eastside  959313721  8  5 f   -     -     -         1645    0    0 
+eastside  959313788  9  3 c   b     kf    -         1645   20    0 
+eastside  959313841  9  2 Bk  kf    -     -         1625   10    0 
+eastside  959313876  9  1 Bf  -     -     -         1615    5    0 
+eastside  959313924  8  8 f   -     -     -         1610    0    0 
+eastside  959313960  9  8 f   -     -     -         1610    0    0 
+eastside  959314011  9  7 f   -     -     -         1610    0    0 
+eastside  959314078  9  6 KQ  -     -     -         1610    0    0 

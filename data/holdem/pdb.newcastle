@@ -1,0 +1,953 @@
+newcastle 958230292  5  3 f   -     -     -         1000    0    0 
+newcastle 958230307  5  2 Bk  k     kf    -         1000   10    0 
+newcastle 958230359  5  1 Bc  kf    -     -          990   10    0 
+newcastle 958230400  6  6 r   b     bc    f          980   70    0 
+newcastle 958230449  6  5 f   -     -     -          910    0    0 
+newcastle 958230484  6  4 f   -     -     -          910    0    0 
+newcastle 958230514  6  3 f   -     -     -          910    0    0 
+newcastle 958230553  6  2 Bk  b     -     -          910   20   35 
+newcastle 958230574  6  1 Bf  -     -     -          925    5    0 
+newcastle 958230599  5  5 f   -     -     -          920    0    0 
+newcastle 958230619  5  4 f   -     -     -          920    0    0 
+newcastle 958230637  5  3 r   b     -     -          920   30   65 
+newcastle 958230650  5  2 Bk  kf    -     -          955   10    0 
+newcastle 958230674  5  1 Bc  kc    kf    -          945   20    0 
+newcastle 958230701  5  5 f   -     -     -          925    0    0 
+newcastle 958230711  5  4 f   -     -     -          925    0    0 
+newcastle 958230722  5  3 f   -     -     -          925    0    0 
+newcastle 958230735  5  2 Bk  kc    b     k          925   40  110 4d 9c
+newcastle 958230774  6  1 Bf  -     -     -          995    5    0 
+newcastle 958230804  7  7 f   -     -     -          990    0    0 
+newcastle 958230825  6  5 f   -     -     -          990    0    0 
+newcastle 958230847  6  5 c   k     k     f          990   10    0 
+newcastle 958230879  6  4 f   -     -     -          980    0    0 
+newcastle 958230904  6  3 f   -     -     -          980    0    0 
+newcastle 958230926  6  2 Bf  -     -     -          980   10    0 
+newcastle 958230940  6  1 Bf  -     -     -          970    5    0 
+newcastle 958230974  6  6 c   b     k     k          965   20    0 8h 9h
+newcastle 958231008  7  5 c   b     b     k          945   40  150 Qc Jc
+newcastle 958231050  7  4 c   f     -     -         1055   10    0 
+newcastle 958231067  7  3 f   -     -     -         1045    0    0 
+newcastle 958231100  7  2 Bk  kf    -     -         1045   10    0 
+newcastle 958231150  6  1 Bf  -     -     -         1035    5    0 
+newcastle 958231170  7  6 c   b     c     f         1030   40    0 
+newcastle 958231206  7  5 c   k     f     -          990   10    0 
+newcastle 958231238  7  4 r   b     b     kc         980   70    0 Qh Ks
+newcastle 958231267  7  3 f   -     -     -          910    0    0 
+newcastle 958231294  7  2 Bk  k     b     k          910   30   80 4h Kd
+newcastle 958231327  8  1 Bc  kf    -     -          960   10    0 
+newcastle 958231375  8  8 f   -     -     -          950    0    0 
+newcastle 958231409  8  7 f   -     -     -          950    0    0 
+newcastle 958231439  8  6 f   -     -     -          950    0    0 
+newcastle 958231489  8  5 f   -     -     -          950    0    0 
+newcastle 958231517  9  5 f   -     -     -          950    0    0 
+newcastle 958231553  9  4 r   b     b     k          950   50    0 Ah Ks
+newcastle 958231581  9  3 f   -     -     -          900    0    0 
+newcastle 958231619  8  2 Bk  kf    -     -          900   10    0 
+newcastle 958231659  8  1 Bf  -     -     -          890    5    0 
+newcastle 958231693  8  8 f   -     -     -          885    0    0 
+newcastle 958231727  8  7 c   k     k     b          885   30   65 
+newcastle 958231766  8  6 c   k     k     f          920   10    0 
+newcastle 958231822  9  6 f   -     -     -          910    0    0 
+newcastle 958231857 10  6 f   -     -     -          910    0    0 
+newcastle 958231914 10  5 r   c     c     f          910   60    0 
+newcastle 958231953  9  4 f   -     -     -          850    0    0 
+newcastle 958232013 10  3 f   -     -     -          850    0    0 
+newcastle 958232041 10  2 Bk  k     b     b          850   50  105 
+newcastle 958232083 10  1 Bc  k     k     k          905   10   15 9c Jh
+newcastle 958232115 10 10 f   -     -     -          910    0    0 
+newcastle 958232139 10  9 f   -     -     -          910    0    0 
+newcastle 958232162 10  8 f   -     -     -          910    0    0 
+newcastle 958232203 10  7 f   -     -     -          910    0    0 
+newcastle 958232254 10  6 f   -     -     -          910    0    0 
+newcastle 958232284 10  5 f   -     -     -          910    0    0 
+newcastle 958232324 10  4 f   -     -     -          910    0    0 
+newcastle 958232361 10  3 f   -     -     -          910    0    0 
+newcastle 958232417 10  2 Bk  kc    b     -          910   40   95 
+newcastle 958232457 10  1 Bf  -     -     -          965    5    0 
+newcastle 958232480 10 10 rc  r     b     c          960  100    0 Ad As
+newcastle 958232540 10  9 r   bc    c     k          860   60    0 Tc Td
+newcastle 958232605 10  8 f   -     -     -          800    0    0 
+newcastle 958232645 10  7 f   -     -     -          800    0    0 
+newcastle 958232676 10  6 f   -     -     -          800    0    0 
+newcastle 958232729 10  6 f   -     -     -          800    0    0 
+newcastle 958232779 10  4 f   -     -     -          800    0    0 
+newcastle 958232893 10  3 f   -     -     -          800    0    0 
+newcastle 958232982  7  2 Bf  -     -     -          800   10    0 
+newcastle 958233010  8  1 Bc  b     b     k          790   40  120 2c Td
+newcastle 958233039  8  8 f   -     -     -          870    0    0 
+newcastle 958233068  8  7 f   -     -     -          870    0    0 
+newcastle 958233104  8  6 f   -     -     -          870    0    0 
+newcastle 958233150  9  6 f   -     -     -          870    0    0 
+newcastle 958233182  9  5 f   -     -     -          870    0    0 
+newcastle 958233208  9  4 f   -     -     -          870    0    0 
+newcastle 958233249  9  3 f   -     -     -          870    0    0 
+newcastle 958233283 10  2 Bk  k     k     b          870   30    0 2d 5c
+newcastle 958233337 10  1 Bf  -     -     -          840    5    0 
+newcastle 958233400 10 10 f   -     -     -          835    0    0 
+newcastle 958233428 10  9 f   -     -     -          835    0    0 
+newcastle 958233471 10  8 f   -     -     -          835    0    0 
+newcastle 958233545 10  7 c   c     c     k          835   40  105 8s Ad
+newcastle 958233592 10  6 f   -     -     -          900    0    0 
+newcastle 958233633 10  5 f   -     -     -          900    0    0 
+newcastle 958233680 10  4 r   b     b     -          900   50  120 
+newcastle 958233701 10  3 f   -     -     -          970    0    0 
+newcastle 958233711 10  2 Bf  -     -     -          970   10    0 
+newcastle 958233771 10  1 Bc  kf    -     -          960   10    0 
+newcastle 958233794 10 10 f   -     -     -          950    0    0 
+newcastle 958233835 10  9 r   k     k     br         950   90    0 9c Th
+newcastle 958233896 10  8 f   -     -     -          860    0    0 
+newcastle 958233941 10  7 f   -     -     -          860    0    0 
+newcastle 958233987 10  6 f   -     -     -          860    0    0 
+newcastle 958234103  9  5 f   -     -     -          860    0    0 
+newcastle 958234157 10  4 f   -     -     -          860    0    0 
+newcastle 958234213 10  3 f   -     -     -          860    0    0 
+newcastle 958234268 10  2 Br  b     -     -          860   30   75 
+newcastle 958234295  9  1 Bc  k     k     kf         905   10    0 
+newcastle 958234356  9  9 f   -     -     -          895    0    0 
+newcastle 958234397  9  8 f   -     -     -          895    0    0 
+newcastle 958234432  9  6 f   -     -     -          895    0    0 
+newcastle 958234447 10  6 f   -     -     -          895    0    0 
+newcastle 958234459  9  4 f   -     -     -          895    0    0 
+newcastle 958234493 10  4 f   -     -     -          895    0    0 
+newcastle 958234525 10  3 c   bc    f     -          895   40    0 
+newcastle 958234582 10  2 Bk  k     kf    -          855   10    0 
+newcastle 958234621 10  1 Bc  kf    -     -          845   10    0 
+newcastle 958234690 10 10 f   -     -     -          835    0    0 
+newcastle 958234733 10  9 f   -     -     -          835    0    0 
+newcastle 958234777 10  8 f   -     -     -          835    0    0 
+newcastle 958234850  9  7 f   -     -     -          835    0    0 
+newcastle 958234912 10  6 f   -     -     -          835    0    0 
+newcastle 958234951 10  5 f   -     -     -          835    0    0 
+newcastle 958235003  9  4 f   -     -     -          835    0    0 
+newcastle 958235049 10  4 f   -     -     -          835    0    0 
+newcastle 958235125  7  2 Bk  kc    k     k          835   20   90 Kh Td
+newcastle 958235190  8  1 Bf  -     -     -          905    5    0 
+newcastle 958235238  8  8 f   -     -     -          900    0    0 
+newcastle 958235286  8  7 f   -     -     -          900    0    0 
+newcastle 958235350  9  6 f   -     -     -          900    0    0 
+newcastle 958235390  8  4 c   bf    -     -          900   20    0 
+newcastle 958235424  7  3 f   -     -     -          880    0    0 
+newcastle 958235468  8  3 f   -     -     -          880    0    0 
+newcastle 958235538  8  2 Bk  f     -     -          880   10    0 
+newcastle 958235562  7  1 Bc  kc    kc    kf         870   50    0 
+newcastle 958235598  7  7 f   -     -     -          820    0    0 
+newcastle 958235662  9  7 c   bc    c     k          820   50  145 2s As
+newcastle 958235705  9  6 f   -     -     -          915    0    0 
+newcastle 958235778 10  6 r   b     b     rc         915  110    0 Qh Ac
+newcastle 958235838 10  5 f   -     -     -          805    0    0 
+newcastle 958235947 10  4 f   -     -     -          805    0    0 
+newcastle 958235974 10  3 f   -     -     -          805    0    0 
+newcastle 958236027 10  2 Br  bc    bc    kf         805   80    0 
+newcastle 958236079 10  1 Bc  b     b     b          725   60  150 Qc As
+newcastle 958236122 10 10 f   -     -     -          815    0    0 
+newcastle 958236163 10  9 f   -     -     -          815    0    0 
+newcastle 958236207 10  8 f   -     -     -          815    0    0 
+newcastle 958236251 10  7 f   -     -     -          815    0    0 
+newcastle 958236285 10  6 f   -     -     -          815    0    0 
+newcastle 958236322 10  5 f   -     -     -          815    0    0 
+newcastle 958236369 10  4 f   -     -     -          815    0    0 
+newcastle 958236395 10  3 f   -     -     -          815    0    0 
+newcastle 958236450 10  2 Bk  kf    -     -          815   10    0 
+newcastle 958236474 10  1 Bf  -     -     -          805    5    0 
+newcastle 958236561 10 10 f   -     -     -          800    0    0 
+newcastle 958236612 10  9 f   -     -     -          800    0    0 
+newcastle 958236656  9  7 f   -     -     -          800    0    0 
+newcastle 958236704 10  7 f   -     -     -          800    0    0 
+newcastle 958236737 10  6 f   -     -     -          800    0    0 
+newcastle 958236773 10  5 f   -     -     -          800    0    0 
+newcastle 958236798 10  4 f   -     -     -          800    0    0 
+newcastle 958236832 10  3 f   -     -     -          800    0    0 
+newcastle 958236860 10  2 Bc  b     b     bc         800   90  185 Qs Jd
+newcastle 958236907 10  1 Bf  -     -     -          895    5    0 
+newcastle 958236936  8  8 f   -     -     -          890    0    0 
+newcastle 958236954  9  8 f   -     -     -          890    0    0 
+newcastle 958236992  9  7 f   -     -     -          890    0    0 
+newcastle 958237036 10  6 f   -     -     -          890    0    0 
+newcastle 958237069 10  5 r   bc    kf    -          890   40    0 
+newcastle 958237105 10  4 f   -     -     -          850    0    0 
+newcastle 958237164  9  3 f   -     -     -          850    0    0 
+newcastle 958237209  9  2 Bc  c     kc    k          850   50    0 8h 8c
+newcastle 958237278  9  1 Bc  b     b     k          800   40    0 6c 5c
+newcastle 958237328  8  8 f   -     -     -          760    0    0 
+newcastle 958237371  8  8 f   -     -     -          760    0    0 
+newcastle 958237411  9  7 c   cc    c     c          760   80    0 Ah 3h
+newcastle 958237455  9  6 f   -     -     -          680    0    0 
+newcastle 958237491  9  5 f   -     -     -          680    0    0 
+newcastle 958237520  9  4 f   -     -     -          680    0    0 
+newcastle 958237541  9  3 f   -     -     -          680    0    0 
+newcastle 958237614  9  2 Bc  kc    kf    -          680   30    0 
+newcastle 958237645  9  1 Bf  -     -     -          650    5    0 
+newcastle 958237704  9  9 r   b     b     k          645   50   57 Ah Ts
+newcastle 958237737  9  8 f   -     -     -          652    0    0 
+newcastle 958237755  9  7 f   -     -     -          652    0    0 
+newcastle 958237782 10  6 rr  brc   brc   b          652  180  925 Kc Kd
+newcastle 958237874  9  4 f   -     -     -         1397    0    0 
+newcastle 958237930  9  3 f   -     -     -         1397    0    0 
+newcastle 958237962  9  3 f   -     -     -         1397    0    0 
+newcastle 958238008  9  2 Bc  r     b     k         1397   60  320 Ts Ah
+newcastle 958238066  9  1 Bcc k     k     b         1657   40   80 
+newcastle 958238122  9  9 f   -     -     -         1697    0    0 
+newcastle 958238166  9  8 f   -     -     -         1697    0    0 
+newcastle 958238214  9  7 f   -     -     -         1697    0    0 
+newcastle 958238235  9  6 f   -     -     -         1697    0    0 
+newcastle 958238278 10  6 f   -     -     -         1697    0    0 
+newcastle 958238346 10  5 f   -     -     -         1697    0    0 
+newcastle 958238381 10  4 f   -     -     -         1697    0    0 
+newcastle 958238435 10  3 f   -     -     -         1697    0    0 
+newcastle 958238494 10  2 Bf  -     -     -         1697   10    0 
+newcastle 958238541 10  1 Bf  -     -     -         1687    5    0 
+newcastle 958238591 10 10 f   -     -     -         1682    0    0 
+newcastle 958238613 10  9 c   k     f     -         1682   10    0 
+newcastle 958238690 10  8 rc  c     c     b         1672   90  250 
+newcastle 958238741 10  7 f   -     -     -         1832    0    0 
+newcastle 958238784 10  6 c   f     -     -         1832   10    0 
+newcastle 958238836 10  5 f   -     -     -         1822    0    0 
+newcastle 958238873 10  4 f   -     -     -         1822    0    0 
+newcastle 958238910 10  3 f   -     -     -         1822    0    0 
+newcastle 958238951 10  2 Bf  -     -     -         1822   10    0 
+newcastle 958239010 10  1 Bc  k     b     k         1812   30   80 Kd 2d
+newcastle 958239048 10 10 f   -     -     -         1862    0    0 
+newcastle 958239105 10  9 f   -     -     -         1862    0    0 
+newcastle 958239204 10  8 f   -     -     -         1862    0    0 
+newcastle 958239267 10  7 f   -     -     -         1862    0    0 
+newcastle 958239295 10  6 f   -     -     -         1862    0    0 
+newcastle 958239369 10  6 rc  k     b     -         1862   50  120 
+newcastle 958239429 10  4 f   -     -     -         1932    0    0 
+newcastle 958239475 10  3 c   k     r     -         1932   50   85 
+newcastle 958239506 10  2 Bf  -     -     -         1967   10    0 
+newcastle 958239565 10  1 Bcc kc    k     kf        1957   30    0 
+newcastle 958239618 10 10 f   -     -     -         1927    0    0 
+newcastle 958239664 10  9 f   -     -     -         1927    0    0 
+newcastle 958239724 10  8 f   -     -     -         1927    0    0 
+newcastle 958239765 10  7 f   -     -     -         1927    0    0 
+newcastle 958239835 10  6 f   -     -     -         1927    0    0 
+newcastle 958239883 10  5 f   -     -     -         1927    0    0 
+newcastle 958239926 10  4 f   -     -     -         1927    0    0 
+newcastle 958239978 10  4 f   -     -     -         1927    0    0 
+newcastle 958240114 10  2 Bk  kf    -     -         1927   10    0 
+newcastle 958240168 10  1 Bf  -     -     -         1917    5    0 
+newcastle 958240291 10 10 f   -     -     -         1912    0    0 
+newcastle 958240430 10  9 c   c     b     k         1912   40  140 Ah 2h
+newcastle 958240468 10  8 c   r     c     c         2012   70    0 Tc As
+newcastle 958240537 10  7 f   -     -     -         1942    0    0 
+newcastle 958240599 10  6 f   -     -     -         1942    0    0 
+newcastle 958240650 10  5 f   -     -     -         1942    0    0 
+newcastle 958240709 10  4 f   -     -     -         1942    0    0 
+newcastle 958240754 10  3 f   -     -     -         1942    0    0 
+newcastle 958240818 10  2 Br  br    b     bc        1942  140    0 Ad Ah
+newcastle 958240866 10  1 Br  b     brc   bc        1802  150    0 Jh Js
+newcastle 958240940 10 10 f   -     -     -         1652    0    0 
+newcastle 958241000 10  9 c   b     bc    f         1652   60    0 
+newcastle 958241062 10  8 r   b     b     k         1592   50  190 Ks Ah
+newcastle 958241144 10  7 f   -     -     -         1732    0    0 
+newcastle 958241188 10  6 f   -     -     -         1732    0    0 
+newcastle 958241245 10  5 f   -     -     -         1732    0    0 
+newcastle 958241293 10  4 f   -     -     -         1732    0    0 
+newcastle 958241344 10  3 r   b     b     b         1732   70  245 Ah Ac
+newcastle 958241409 10  2 Bf  -     -     -         1907   10    0 
+newcastle 958241479 10  1 Bf  -     -     -         1897    5    0 
+newcastle 958241515 10 10 f   -     -     -         1892    0    0 
+newcastle 958241556 10  9 f   -     -     -         1892    0    0 
+newcastle 958241599 10  8 f   -     -     -         1892    0    0 
+newcastle 958241633 10  7 f   -     -     -         1892    0    0 
+newcastle 958241698  9  6 c   k     b     b         1892   50    0 Qs Jc
+newcastle 958241759  9  5 f   -     -     -         1842    0    0 
+newcastle 958241799 10  4 r   b     b     b         1842   70  275 Qh Ks
+newcastle 958241828 10  3 f   -     -     -         2047    0    0 
+newcastle 958241837 10  2 Bf  -     -     -         2047   10    0 
+newcastle 958241877 10  1 Bc  kc    k     k         2037   20    0 7h As
+newcastle 958241924 10 10 f   -     -     -         2017    0    0 
+newcastle 958242011  9  8 f   -     -     -         2017    0    0 
+newcastle 958242078  9  7 c   f     -     -         2017   10    0 
+newcastle 958242111  9  6 f   -     -     -         2007    0    0 
+newcastle 958242140  9  4 f   -     -     -         2007    0    0 
+newcastle 958242188  9  3 f   -     -     -         2007    0    0 
+newcastle 958242246  9  2 Bk  kc    kc    f         2007   40    0 
+newcastle 958242331  9  1 Bf  -     -     -         1967    5    0 
+newcastle 958242388  9  9 f   -     -     -         1962    0    0 
+newcastle 958242430  9  8 r   b     k     k         1962   30    0 Ah Qc
+newcastle 958242471  8  6 r   b     b     k         1932   50  125 Qs Qc
+newcastle 958242508  8  5 f   -     -     -         2007    0    0 
+newcastle 958242531  8  4 c   c     c     k         2007   40    0 Tc 9c
+newcastle 958242567  8  3 f   -     -     -         1967    0    0 
+newcastle 958242595  8  2 Bf  -     -     -         1967   10    0 
+newcastle 958242639  8  1 Bf  -     -     -         1957    5    0 
+newcastle 958242689  8  8 f   -     -     -         1952    0    0 
+newcastle 958242706  8  7 f   -     -     -         1952    0    0 
+newcastle 958242724  8  6 f   -     -     -         1952    0    0 
+newcastle 958242747  8  5 f   -     -     -         1952    0    0 
+newcastle 958242773  8  4 f   -     -     -         1952    0    0 
+newcastle 958242802  8  3 f   -     -     -         1952    0    0 
+newcastle 958242830  8  2 Bk  k     k     f         1952   10    0 
+newcastle 958242862  8  1 Bf  -     -     -         1942    5    0 
+newcastle 958242903  7  7 c   r     b     b         1937   70  240 Jc Kh
+newcastle 958242962  8  7 f   -     -     -         2107    0    0 
+newcastle 958242996  8  6 c   k     k     k         2107   10    0 Ts Qc
+newcastle 958243035  7  5 f   -     -     -         2097    0    0 
+newcastle 958243057  7  4 f   -     -     -         2097    0    0 
+newcastle 958243088  7  3 f   -     -     -         2097    0    0 
+newcastle 958243141  7  2 Bf  -     -     -         2097   10    0 
+newcastle 958243180  8  1 Bf  -     -     -         2087    5    0 
+newcastle 958243205  7  7 c   k     c     k         2082   30   90 9s Ac
+newcastle 958243235  6  6 fQ  -     -     -         2142    0    0 
+newcastle 958360660  5  2 Bk  b     -     -         1504   20   35 
+newcastle 958360686  4  1 Bc  b     bf    -         1519   40    0 
+newcastle 958360724  6  6 c   f     -     -         1479   20    0 
+newcastle 958360789  4  3 c   b     b     b         1459   60  130 Ts 9d
+newcastle 958360834  5  3 f   -     -     -         1529    0    0 
+newcastle 958360847  5  2 Bf  -     -     -         1529   10    0 
+newcastle 958360898  5  1 Bf  -     -     -         1519    5    0 
+newcastle 958360963  8  8 f   -     -     -         1514    0    0 
+newcastle 958361007  8  7 cc  r     b     k         1514   60  190 Js Kd
+newcastle 958361116  9  7 f   -     -     -         1644    0    0 
+newcastle 958361183 10  7 f   -     -     -         1644    0    0 
+newcastle 958361243 10  6 rc  r     b     k         1644   80  400 Kd Ah
+newcastle 958361360 10  5 f   -     -     -         1964    0    0 
+newcastle 958361437 10  4 f   -     -     -         1964    0    0 
+newcastle 958361509 10  3 f   -     -     -         1964    0    0 
+newcastle 958361571 10  2 Bf  -     -     -         1964   10    0 
+newcastle 958361662 10  1 Bf  -     -     -         1954    5    0 
+newcastle 958361774 10 10 c   f     -     -         1949   10    0 
+newcastle 958361844 10  9 f   -     -     -         1939    0    0 
+newcastle 958361950  8  6 f   -     -     -         1939    0    0 
+newcastle 958362014  7  4 f   -     -     -         1939    0    0 
+newcastle 958362048  6  3 f   -     -     -         1939    0    0 
+newcastle 958362100  6  2 Bk  k     k     b         1939   30   75 5d Qd
+newcastle 958362137  5  1 Bf  Q     -     -         1984    5    0 
+newcastle 958454402  2  2 Br  b     b     b         1979   70    0 Qs Qc
+newcastle 958454425  2  1 Brr b     b     b         1909   90  160 
+newcastle 958454443  3  2 Bf  -     -     -         1979   10    0 
+newcastle 958454456  3  1 Bf  -     -     -         1969    5    0 
+newcastle 958454469  3  3 r   -     -     -         1964   20   35 
+newcastle 958454473  3  2 B   -     -     -         1979   10   15 
+newcastle 958454476  3  1 Bf  -     -     -         1984    5    0 
+newcastle 958454478  3  3 f   -     -     -         1979    0    0 
+newcastle 958454487  3  2 Bk  rc    c     k         1979   60  120 Jh 6s
+newcastle 958454508  3  1 Bc  bc    k     b         2039   50  110 6h 6c
+newcastle 958454530  3  3 r   rc    f     -         2099   50    0 
+newcastle 958454555  3  2 Bk  c     k     k         2049   20   25 6s 2d
+newcastle 958454575  3  1 Bf  -     -     -         2054    5    0 
+newcastle 958454604  3  3 r   b     b     b         2049   70  145 Ks Ad
+newcastle 958454618  2  2 Bf  -     -     -         2124   10    0 
+newcastle 958454625  2  1 Bf  -     -     -         2114    5    0 
+newcastle 958454629  2  2 Bk  f     -     -         2109   10    0 
+newcastle 958454647  3  1 Bf  -     -     -         2099    5    0 
+newcastle 958454683  3  3 cc  b     b     rc        2094  110    0 9s Kh
+newcastle 958454740  3  2 Bk  k     -     -         1984   10   25 
+newcastle 958454762  3  1 Bc  k     b     b         1999   50  110 6c Ac
+newcastle 958454797  3  3 f   -     -     -         2059    0    0 
+newcastle 958454823  3  2 Bk  b     b     b         2059   60  130 Qs 5h
+newcastle 958454847  3  1 Br  b     b     b         2129   80  190 8s 8h
+newcastle 958454878  3  3 cc  f     -     -         2239   20    0 
+newcastle 958454927  3  2 Bk  kc    kc    k         2219   40    0 Jd Ts
+newcastle 958454966  3  1 Bf  -     -     -         2179    5    0 
+newcastle 958455000  3  3 rc  b     rc    c         2174  130    0 Qc As
+newcastle 958455046  3  2 Bk  k     k     k         2044   10   30 3s Kd
+newcastle 958455083  5  1 Bf  -     -     -         2064    5    0 
+newcastle 958455105  5  5 f   -     -     -         2059    0    0 
+newcastle 958455147  5  4 f   -     -     -         2059    0    0 
+newcastle 958455179  6  4 f   -     -     -         2059    0    0 
+newcastle 958455210  6  3 rc  kf    -     -         2059   30    0 
+newcastle 958455244  7  2 Bf  -     -     -         2029   10    0 
+newcastle 958455316  7  1 Bf  -     -     -         2019    5    0 
+newcastle 958455360  7  7 f   -     -     -         2014    0    0 
+newcastle 958455409  7  6 r   c     c     c         2014   90    0 Th Jh
+newcastle 958455561  6  5 cc  r     b     k         1924   70    0 Kd Qc
+newcastle 958455612  7  4 f   -     -     -         1854    0    0 
+newcastle 958455683  8  4 f   -     -     -         1854    0    0 
+newcastle 958455754  9  4 f   -     -     -         1854    0    0 
+newcastle 958455862  6  3 f   -     -     -         1854    0    0 
+newcastle 958455900  3  2 Bk  b     -     -         1854   20   40 
+newcastle 958455921  3  1 Bc  b     -     -         1874   20   30 
+newcastle 958455932  3  3 f   -     -     -         1884    0    0 
+newcastle 958455971  3  2 Bk  krr   b     -         1884   70  125 
+newcastle 958455999  3  1 Bf  -     -     -         1939    5    0 
+newcastle 958456025  4  4 f   -     -     -         1934    0    0 
+newcastle 958456041  4  3 f   -     -     -         1934    0    0 
+newcastle 958456068  3  2 B   -     -     -         1934   10   15 
+newcastle 958456075  3  1 Bc  k     k     b         1939   30   50 
+newcastle 958456104  3  3 f   -     -     -         1959    0    0 
+newcastle 958456111  3  2 B   -     -     -         1959   10   15 
+newcastle 958456114  3  1 Bf  -     -     -         1964    5    0 
+newcastle 958456137  3  3 f   -     -     -         1959    0    0 
+newcastle 958456163  3  2 Bk  c     c     c         1959   60    0 3c 4h
+newcastle 958456193  3  1 Bf  -     -     -         1899    5    0 
+newcastle 958456199  3  3 f   -     -     -         1894    0    0 
+newcastle 958456230  3  2 Bk  k     b     -         1894   30   45 
+newcastle 958456255  3  1 Bf  -     -     -         1909    5    0 
+newcastle 958456259  3  3 f   -     -     -         1904    0    0 
+newcastle 958456270  3  2 Bk  k     k     b         1904   30   50 
+newcastle 958456293  3  1 Bf  -     -     -         1924    5    0 
+newcastle 958456298  3  3 f   -     -     -         1919    0    0 
+newcastle 958456303  3  2 Bf  -     -     -         1919   10    0 
+newcastle 958456334  3  1 Bc  k     kf    -         1909   10    0 
+newcastle 958456360  3  3 f   -     -     -         1899    0    0 
+newcastle 958456365  3  2 B   -     -     -         1899   10   15 
+newcastle 958456371  3  1 Bc  b     b     -         1904   40   60 
+newcastle 958456390  3  3 r   -     -     -         1924   20   35 
+newcastle 958456402  3  2 Br  r     b     k         1939   60    0 Kd Qd
+newcastle 958456432  3  1 Bf  -     -     -         1879    5    0 
+newcastle 958456468  4  3 c   f     -     -         1874   10    0 
+newcastle 958456501  4  2 Bk  c     c     k         1864   40    0 Kc 5c
+newcastle 958456538  4  1 Bf  -     -     -         1824    5    0 
+newcastle 958456559  4  4 f   -     -     -         1819    0    0 
+newcastle 958456585  4  3 f   -     -     -         1819    0    0 
+newcastle 958456618  4  2 Bc  f     -     -         1819   20    0 
+newcastle 958456645  4  1 Bf  -     -     -         1799    5    0 
+newcastle 958456669  4  4 r   b     -     -         1794   30   55 
+newcastle 958456680  4  3 f   -     -     -         1819    0    0 
+newcastle 958456701  4  2 Bk  -     -     -         1819   10   25 
+newcastle 958456726  3  1 Bc  k     k     k         1834   10   10 5d 6c
+newcastle 958456749  3  3 f   -     -     -         1834    0    0 
+newcastle 958456769  3  2 Bf  -     -     -         1834   10    0 
+newcastle 958456812  3  1 Bc  b     -     -         1824   20   30 
+newcastle 958456834  3  3 f   -     -     -         1834    0    0 
+newcastle 958456861  3  2 B   -     -     -         1834   10   15 
+newcastle 958456868  3  1 Bc  b     -     -         1839   20   30 
+newcastle 958456877  3  3 c   b     b     k         1849   40   90 8s 7s
+newcastle 958456907  4  2 Bk  kf    -     -         1899   10    0 
+newcastle 958456948  4  1 Bf  -     -     -         1889    5    0 
+newcastle 958456964  4  4 f   -     -     -         1884    0    0 
+newcastle 958456995  4  3 f   -     -     -         1884    0    0 
+newcastle 958457025  4  2 Bk  b     -     -         1884   20   30 
+newcastle 958457044  3  1 Bc  b     b     kc        1894   60  160 Kh Td
+newcastle 958457072  3  3 f   -     -     -         1994    0    0 
+newcastle 958457087  4  2 Bk  k     k     b         1994   30   45 
+newcastle 958457112  4  1 Bf  -     -     -         2009    5    0 
+newcastle 958457124  4  4 f   -     -     -         2004    0    0 
+newcastle 958457147  4  3 r   r     b     b         2004   80  200 7s 7d
+newcastle 958457191  5  2 Bk  b     b     b         2124   60  165 7d 4d
+newcastle 958457228  5  1 Bf  -     -     -         2229    5    0 
+newcastle 958457272  5  5 f   -     -     -         2224    0    0 
+newcastle 958457312  5  4 f   -     -     -         2224    0    0 
+newcastle 958457369  5  3 f   -     -     -         2224    0    0 
+newcastle 958457426  5  2 Bk  k     k     k         2224   10    0 4h 2h
+newcastle 958457478  5  1 Bf  -     -     -         2214    5    0 
+newcastle 958457512  6  6 f   -     -     -         2209    0    0 
+newcastle 958457553  6  5 r   rf    -     -         2209   40    0 
+newcastle 958457605  6  4 f   -     -     -         2169    0    0 
+newcastle 958457670  6  3 r   b     b     k         2169   50    0 Jc Jd
+newcastle 958457729  7  2 Bk  kf    -     -         2119   10    0 
+newcastle 958457789  7  1 Bf  -     -     -         2109    5    0 
+newcastle 958457817  7  7 f   -     -     -         2104    0    0 
+newcastle 958457883  6  5 f   -     -     -         2104    0    0 
+newcastle 958457954  5  4 r   -     -     -         2104   20   35 
+newcastle 958457968  5  3 f   -     -     -         2119    0    0 
+newcastle 958457975  4  2 Bc  bc    k     kf        2119   40    0 
+newcastle 958458003  4  1 Bf  -     -     -         2079    5    0 
+newcastle 958458017  4  4 f   -     -     -         2074    0    0 
+newcastle 958458058  4  3 f   -     -     -         2074    0    0 
+newcastle 958458068  4  2 Bk  k     k     k         2074   10    0 3h Qd
+newcastle 958458087  4  1 Bc  b     bc    kf        2064   60    0 
+newcastle 958458110  5  5 r   b     b     k         2004   50  120 9c Qc
+newcastle 958458147  5  4 f   -     -     -         2074    0    0 
+newcastle 958458181  5  3 f   -     -     -         2074    0    0 
+newcastle 958458212  5  2 Bf  -     -     -         2074   10    0 
+newcastle 958458267  5  1 Bf  -     -     -         2064    5    0 
+newcastle 958458310  5  5 f   Q     -     -         2059    0    0 
+newcastle 958536611  9  9 rc  r     c     f         2336   70    0 
+newcastle 958536697  9  8 c   k     f     -         2266   10    0 
+newcastle 958536773  9  7 f   -     -     -         2256    0    0 
+newcastle 958536892  9  6 f   -     -     -         2256    0    0 
+newcastle 958536967  9  5 f   -     -     -         2256    0    0 
+newcastle 958537001  9  4 f   -     -     -         2256    0    0 
+newcastle 958537097 10  3 f   -     -     -         2256    0    0 
+newcastle 958537173  9  2 Bf  -     -     -         2256   10    0 
+newcastle 958537213  9  1 Bf  -     -     -         2246    5    0 
+newcastle 958537288  9  9 f   -     -     -         2241    0    0 
+newcastle 958537346  9  8 f   -     -     -         2241    0    0 
+newcastle 958537408  9  7 f   -     -     -         2241    0    0 
+newcastle 958537486  9  6 f   -     -     -         2241    0    0 
+newcastle 958537559  9  5 f   -     -     -         2241    0    0 
+newcastle 958537682  8  2 f   -     -     -         2241    0    0 
+newcastle 958537804  8  2 Bf  -     -     -         2241   10    0 
+newcastle 958537869  8  1 Bc  kf    -     -         2231   10    0 
+newcastle 958537932  8  8 f   -     -     -         2221    0    0 
+newcastle 958537996  6  5 f   -     -     -         2221    0    0 
+newcastle 958538034  6  4 f   -     -     -         2221    0    0 
+newcastle 958538084  6  3 f   -     -     -         2221    0    0 
+newcastle 958538124  6  2 Bk  kf    -     -         2221   10    0 
+newcastle 958538152  6  1 Bc  bf    -     -         2211   20    0 
+newcastle 958538192  5  5 f   -     -     -         2191    0    0 
+newcastle 958538235  5  4 f   -     -     -         2191    0    0 
+newcastle 958538273  5  3 f   -     -     -         2191    0    0 
+newcastle 958538319  5  2 Bk  k     k     k         2191   10   25 Qs 5d
+newcastle 958538366  5  1 Bc  b     kc    kc        2206   60    0 Jc As
+newcastle 958538439  5  5 f   -     -     -         2146    0    0 
+newcastle 958538468  5  4 f   -     -     -         2146    0    0 
+newcastle 958538502  5  3 rc  k     kc    kc        2146   70  230 9d 9h
+newcastle 958538595  5  2 Bk  kc    kc    kf        2306   40    0 
+newcastle 958538681  5  1 Bf  -     -     -         2266    5    0 
+newcastle 958538743  5  5 f   -     -     -         2261    0    0 
+newcastle 958538791  5  4 f   -     -     -         2261    0    0 
+newcastle 958538827  6  3 f   -     -     -         2261    0    0 
+newcastle 958538867  6  2 Bf  -     -     -         2261   10    0 
+newcastle 958538956  6  1 Bf  -     -     -         2251    5    0 
+newcastle 958539041  6  6 f   -     -     -         2246    0    0 
+newcastle 958539124  6  5 f   -     -     -         2246    0    0 
+newcastle 958539200  6  4 f   -     -     -         2246    0    0 
+newcastle 958539232  6  3 f   -     -     -         2246    0    0 
+newcastle 958539255  6  2 Bf  -     -     -         2246   10    0 
+newcastle 958539277  6  1 Bcc kf    -     -         2236   20    0 
+newcastle 958539320  6  6 cc  k     k     f         2216   20    0 
+newcastle 958539366  6  5 f   -     -     -         2196    0    0 
+newcastle 958539406  6  4 f   -     -     -         2196    0    0 
+newcastle 958539414  6  3 f   -     -     -         2196    0    0 
+newcastle 958539438  6  2 Bk  k     k     k         2196   10    0 Qc 8h
+newcastle 958539467  6  1 Bf  -     -     -         2186    5    0 
+newcastle 958539510  6  6 r   -     -     -         2181   20   35 
+newcastle 958539538  6  5 f   -     -     -         2196    0    0 
+newcastle 958539587  6  4 f   -     -     -         2196    0    0 
+newcastle 958539618  6  3 f   -     -     -         2196    0    0 
+newcastle 958539667  6  2 Bf  -     -     -         2196   10    0 
+newcastle 958539738  6  1 Bf  -     -     -         2186    5    0 
+newcastle 958539748  6  6 f   -     -     -         2181    0    0 
+newcastle 958539786  6  5 f   -     -     -         2181    0    0 
+newcastle 958539842  6  4 f   -     -     -         2181    0    0 
+newcastle 958539891  4  2 Bf  -     -     -         2181   10    0 
+newcastle 958539905  4  1 Brc kc    kc    k         2171   60    0 9h 9d
+newcastle 958539927  4  4 f   -     -     -         2111    0    0 
+newcastle 958539966  4  3 f   -     -     -         2111    0    0 
+newcastle 958540040  4  2 Bk  f     -     -         2111   10    0 
+newcastle 958540056  4  1 Bf  -     -     -         2101    5    0 
+newcastle 958540088  4  4 f   -     -     -         2096    0    0 
+newcastle 958540113  4  3 r   b     -     -         2096   30   65 
+newcastle 958540132  4  2 Br  rr    rr    b         2131  160  320 Jd Js
+newcastle 958540181  4  1 Bc  b     -     -         2291   20   30 
+newcastle 958540206  4  4 f   -     -     -         2301    0    0 
+newcastle 958540231  4  3 f   -     -     -         2301    0    0 
+newcastle 958540252  4  2 B   -     -     -         2301   10   15 
+newcastle 958540256  4  1 Bf  -     -     -         2306    5    0 
+newcastle 958540289  4  4 f   -     -     -         2301    0    0 
+newcastle 958540339  4  3 f   -     -     -         2301    0    0 
+newcastle 958540372  4  2 Bf  -     -     -         2301   10    0 
+newcastle 958540391  5  1 Bf  -     -     -         2291    5    0 
+newcastle 958540479  5  5 c   b     b     -         2286   40   80 
+newcastle 958540551  4  3 f   -     -     -         2326    0    0 
+newcastle 958540584  4  2 Bk  k     f     -         2326   10    0 
+newcastle 958540627  3  1 Bf  -     -     -         2316    5    0 
+newcastle 958540636  3  3 f   -     -     -         2311    0    0 
+newcastle 958540640  3  2 Bk  f     -     -         2311   10    0 
+newcastle 958540654  3  1 Br  bc    kc    k         2301   60    0 7h 7s
+newcastle 958540684  3  3 f   -     -     -         2241    0    0 
+newcastle 958540703  3  2 Bk  k     b     -         2241   30   45 
+newcastle 958540723  3  1 Br  b     -     -         2256   30   60 
+newcastle 958540741  2  2 f   -     -     -         2286    0    0 
+newcastle 958540744  2  2 Bk  b     -     -         2286   20   30 
+newcastle 958540759  2  1 Br  b     -     -         2296   30   50 
+newcastle 958540769  2  2 Br  b     -     -         2316   30   50 
+newcastle 958540783  2  1 Brc bc    kc    kc        2336   90  180 8s Ts
+newcastle 958540813  2  2 Bk  b     -     -         2426   20   30 
+newcastle 958540831  2  1 Br  -     -     -         2436   20   30 
+newcastle 958540836  2  2 B   -     -     -         2446   10   15 
+newcastle 958540841  2  1 Bf  -     -     -         2451    5    0 
+newcastle 958540846  2  2 Bk  rr    b     b         2446   90  180 5s 7s
+newcastle 958540882  2  1 Bf  -     -     -         2536    5    0 
+newcastle 958540888  2  2 B   -     -     -         2531   10   15 
+newcastle 958540895  2  1 Bf  -     -     -         2536    5    0 
+newcastle 958540899  2  2 Brc c     c     b         2531   90  180 Ac 5c
+newcastle 958540929  2  1 Bc  b     -     -         2621   20   30 
+newcastle 958540943  2  2 Bk  b     -     -         2631   20   30 
+newcastle 958540956  2  1 Bc  b     -     -         2641   20   30 
+newcastle 958540971  2  2 Bk  r     b     k         2651   50    0 Ts Qh
+newcastle 958540999  2  1 Bf  -     -     -         2601    5    0 
+newcastle 958541006  2  2 Bc  f     -     -         2596   20    0 
+newcastle 958541016  2  1 Br  -     -     -         2576   20   30 
+newcastle 958541023  2  2 B   -     -     -         2586   10   15 
+newcastle 958541026  2  1 Brr bc    bc    kc        2591  120    0 Ts Tc
+newcastle 958541052  2  2 Br  b     -     -         2471   30   50 
+newcastle 958541069  2  1 Br  b     -     -         2491   30   50 
+newcastle 958541083  2  2 B   -     -     -         2511   10   15 
+newcastle 958541086  2  1 Bc  kf    -     -         2516   10    0 
+newcastle 958541100  3  2 Bk  f     -     -         2506   10    0 
+newcastle 958541126  4  1 Bf  -     -     -         2496    5    0 
+newcastle 958541144  4  4 f   -     -     -         2491    0    0 
+newcastle 958541169  4  3 f   -     -     -         2491    0    0 
+newcastle 958541173  4  2 Bk  b     -     -         2491   20   40 
+newcastle 958541194  5  1 Bf  -     -     -         2511    5    0 
+newcastle 958541217  5  5 f   -     -     -         2506    0    0 
+newcastle 958541249  5  4 f   -     -     -         2506    0    0 
+newcastle 958541277  5  3 c   f     -     -         2506   10    0 
+newcastle 958541320  5  2 Bf  -     -     -         2496   10    0 
+newcastle 958541356  5  1 Bf  -     -     -         2486    5    0 
+newcastle 958541374  5  5 r   b     k     c         2481   50    0 Th Ad
+newcastle 958541407  5  4 f   -     -     -         2431    0    0 
+newcastle 958541463  5  3 fQ  -     -     -         2431    0    0 
+newcastle 958541636  6  6 f   -     -     -         2431    0    0 
+newcastle 958541668  6  5 f   -     -     -         2431    0    0 
+newcastle 958541679  6  4 rc  f     -     -         2431   30    0 
+newcastle 958541701  5  3 f   -     -     -         2401    0    0 
+newcastle 958541734  6  2 Brc kc    kf    -         2401   50    0 
+newcastle 958541802  6  1 Bf  -     -     -         2351    5    0 
+newcastle 958541819  6  6 f   -     -     -         2346    0    0 
+newcastle 958541885  6  5 r   b     b     b         2346   70  160 Jh Qd
+newcastle 958541922  6  4 f   -     -     -         2436    0    0 
+newcastle 958541950  7  3 f   -     -     -         2436    0    0 
+newcastle 958541991  7  2 Bc  krr   bc    kc        2436  140    0 Kd Qd
+newcastle 958542039  6  1 Bf  -     -     -         2296    5    0 
+newcastle 958542073  5  5 f   -     -     -         2291    0    0 
+newcastle 958542125  5  4 cc  cc    b     b         2291   80  220 
+newcastle 958542182  5  3 rc  kf    -     -         2431   30    0 
+newcastle 958542203  5  2 Bf  -     -     -         2401   10    0 
+newcastle 958542238  5  1 Brc bc    kc    kc        2391   90    0 Kd Qc
+newcastle 958542276  4  4 f   -     -     -         2301    0    0 
+newcastle 958542285  4  3 f   -     -     -         2301    0    0 
+newcastle 958542324  4  2 Br  b     -     -         2301   30   50 
+newcastle 958542342  4  1 Bf  -     -     -         2321    5    0 
+newcastle 958542345  4  4 f   -     -     -         2316    0    0 
+newcastle 958542367  4  3 f   -     -     -         2316    0    0 
+newcastle 958542398  4  2 Bf  -     -     -         2316   10    0 
+newcastle 958542407  5  1 Bf  -     -     -         2306    5    0 
+newcastle 958542430  5  5 f   -     -     -         2301    0    0 
+newcastle 958542465  5  4 f   -     -     -         2301    0    0 
+newcastle 958542498  5  3 f   -     -     -         2301    0    0 
+newcastle 958542531  5  2 Bf  -     -     -         2301   10    0 
+newcastle 958542558  5  1 Bf  -     -     -         2291    5    0 
+newcastle 958542601  5  5 rc  f     -     -         2286   40    0 
+newcastle 958542645  5  4 f   -     -     -         2246    0    0 
+newcastle 958542668  6  4 f   -     -     -         2246    0    0 
+newcastle 958542704  6  3 f   -     -     -         2246    0    0 
+newcastle 958542741  6  2 Bf  -     -     -         2246   10    0 
+newcastle 958542764  6  1 Bf  -     -     -         2236    5    0 
+newcastle 958542809  6  6 f   -     -     -         2231    0    0 
+newcastle 958542858  6  5 f   -     -     -         2231    0    0 
+newcastle 958542894  4  3 f   -     -     -         2231    0    0 
+newcastle 958542935  4  2 Bf  -     -     -         2231   10    0 
+newcastle 958542971  4  1 Bf  -     -     -         2221    5    0 
+newcastle 958543056  4  4 f   -     -     -         2216    0    0 
+newcastle 958543101  4  3 f   -     -     -         2216    0    0 
+newcastle 958543125  4  2 Bf  -     -     -         2216   10    0 
+newcastle 958543150  4  1 Bf  -     -     -         2206    5    0 
+newcastle 958543171  4  4 f   -     -     -         2201    0    0 
+newcastle 958543192  4  3 f   -     -     -         2201    0    0 
+newcastle 958543245  4  2 Bf  -     -     -         2201   10    0 
+newcastle 958543269  4  1 Bf  -     -     -         2191    5    0 
+newcastle 958543301  5  5 c   rc    c     c         2186  130    0 As Tc
+newcastle 958543347  5  4 f   -     -     -         2056    0    0 
+newcastle 958543387  5  3 f   -     -     -         2056    0    0 
+newcastle 958543415  5  2 Bf  -     -     -         2056   10    0 
+newcastle 958543457  5  1 Bf  -     -     -         2046    5    0 
+newcastle 958543512  4  4 f   -     -     -         2041    0    0 
+newcastle 958543541  5  3 f   -     -     -         2041    0    0 
+newcastle 958543552  5  2 Bf  -     -     -         2041   10    0 
+newcastle 958543565  5  1 Brc k     k     kf        2031   40    0 
+newcastle 958543612  4  4 f   -     -     -         1991    0    0 
+newcastle 958543635  4  3 f   -     -     -         1991    0    0 
+newcastle 958543669  4  2 Bf  -     -     -         1991   10    0 
+newcastle 958543694  5  1 Bf  -     -     -         1981    5    0 
+newcastle 958543733  6  6 f   -     -     -         1976    0    0 
+newcastle 958543763  6  5 f   -     -     -         1976    0    0 
+newcastle 958543798  5  4 f   -     -     -         1976    0    0 
+newcastle 958543823  6  3 f   -     -     -         1976    0    0 
+newcastle 958543856  6  2 Bk  k     k     k         1976   10    0 Ts 5d
+newcastle 958543888  6  1 Bf  -     -     -         1966    5    0 
+newcastle 958543930  6  6 f   -     -     -         1961    0    0 
+newcastle 958543987  7  5 f   -     -     -         1961    0    0 
+newcastle 958544054  7  4 rc  kc    kc    bc        1961  100    0 3s As
+newcastle 958544121  7  3 f   -     -     -         1861    0    0 
+newcastle 958544148  7  2 Bf  -     -     -         1861   10    0 
+newcastle 958544182  6  1 Bf  -     -     -         1851    5    0 
+newcastle 958544238  7  7 f   -     -     -         1846    0    0 
+newcastle 958544272  7  6 cc  kf    -     -         1846   20    0 
+newcastle 958544316  7  5 f   -     -     -         1826    0    0 
+newcastle 958544375  7  4 f   -     -     -         1826    0    0 
+newcastle 958544448  7  3 f   -     -     -         1826    0    0 
+newcastle 958544547  7  1 Bf  -     -     -         1826   10    0 
+newcastle 958544594  8  1 Bf  -     -     -         1816    5    0 
+newcastle 958544653  8  8 f   -     -     -         1811    0    0 
+newcastle 958544701  8  7 cc  rc    c     f         1811   70    0 
+newcastle 958544803  6  5 f   -     -     -         1741    0    0 
+newcastle 958544843  6  4 f   -     -     -         1741    0    0 
+newcastle 958544886  6  3 f   -     -     -         1741    0    0 
+newcastle 958544928  6  2 Br  b     -     -         1741   30   90 
+newcastle 958544971  6  1 Bf  -     -     -         1801    5    0 
+newcastle 958545009  7  7 r   b     b     b         1796   70  180 
+newcastle 958545059  7  6 f   -     -     -         1906    0    0 
+newcastle 958545102  6  5 f   -     -     -         1906    0    0 
+newcastle 958545119  6  4 f   -     -     -         1906    0    0 
+newcastle 958545167  6  3 f   -     -     -         1906    0    0 
+newcastle 958545198  6  2 Br  r     rc    cc        1906  150  550 Qc Qh
+newcastle 958545276  6  1 Br  bc    kc    k         2306  100    0 Ad Js
+newcastle 958545327  5  5 f   -     -     -         2206    0    0 
+newcastle 958545343  4  4 f   -     -     -         2206    0    0 
+newcastle 958545368  4  3 f   -     -     -         2206    0    0 
+newcastle 958545389  4  2 Bk  k     kc    k         2206   30   70 Kd Tc
+newcastle 958545416  4  1 Bf  -     -     -         2246    5    0 
+newcastle 958545453  4  4 f   -     -     -         2241    0    0 
+newcastle 958545479  4  3 f   -     -     -         2241    0    0 
+newcastle 958545501  4  2 Bk  b     -     -         2241   20   30 
+newcastle 958545511  4  1 Bf  -     -     -         2251    5    0 
+newcastle 958545538  4  4 f   -     -     -         2246    0    0 
+newcastle 958545559  4  3 f   -     -     -         2246    0    0 
+newcastle 958545573  4  2 Bk  kf    -     -         2246   10    0 
+newcastle 958545589  4  1 Bf  -     -     -         2236    5    0 
+newcastle 958545629  4  4 r   b     -     -         2231   30   60 
+newcastle 958545653  4  3 f   -     -     -         2261    0    0 
+newcastle 958545682  5  2 Bk  k     kf    -         2261   10    0 
+newcastle 958545705  6  1 Bf  Q     -     -         2251    5    0 
+newcastle 958709100 10  2 Bc  kf    -     -         2131   20    0 
+newcastle 958709221 10  1 Bf  -     -     -         2111    5    0 
+newcastle 958709301  9  9 f   -     -     -         2106    0    0 
+newcastle 958709372  9  8 f   -     -     -         2106    0    0 
+newcastle 958709442  8  6 f   -     -     -         2106    0    0 
+newcastle 958709451  8  5 f   -     -     -         2106    0    0 
+newcastle 958709530 10  6 r   b     b     b         2106   70  230 Qc Kc
+newcastle 958709612  9  5 f   -     -     -         2266    0    0 
+newcastle 958709667 10  4 f   -     -     -         2266    0    0 
+newcastle 958709762 10  3 cc  kf    -     -         2266   20    0 
+newcastle 958709795 10  2 Bf  -     -     -         2246   10    0 
+newcastle 958709854 10  1 Bf  -     -     -         2236    5    0 
+newcastle 958709883 10 10 f   -     -     -         2231    0    0 
+newcastle 958709940 10  9 f   -     -     -         2231    0    0 
+newcastle 958709980 10  8 f   -     -     -         2231    0    0 
+newcastle 958710031 10  7 f   -     -     -         2231    0    0 
+newcastle 958710072 10  6 c   f     -     -         2231   10    0 
+newcastle 958710099 10  5 f   -     -     -         2221    0    0 
+newcastle 958710154 10  4 f   -     -     -         2221    0    0 
+newcastle 958710200 10  3 f   -     -     -         2221    0    0 
+newcastle 958710253 10  2 Bf  -     -     -         2221   10    0 
+newcastle 958710303 10  1 Bf  -     -     -         2211    5    0 
+newcastle 958710372 10 10 f   -     -     -         2206    0    0 
+newcastle 958710488  9  8 f   -     -     -         2206    0    0 
+newcastle 958710565  8  7 f   -     -     -         2206    0    0 
+newcastle 958710634 10  7 c   k     b     b         2206   50   95 
+newcastle 958710731 10  6 f   -     -     -         2251    0    0 
+newcastle 958710796  9  5 f   -     -     -         2251    0    0 
+newcastle 958710881  9  4 f   -     -     -         2251    0    0 
+newcastle 958710924 10  3 c   b     b     k         2251   40  100 8h 8c
+newcastle 958711004 10  2 Bk  f     -     -         2311   10    0 
+newcastle 958711098  9  1 Bc  k     b     k         2301   30    0 8d 7d
+newcastle 958711177  8  8 c   b     k     c         2271   40    0 Tc Kc
+newcastle 958711251  8  7 f   -     -     -         2231    0    0 
+newcastle 958711375 10  7 f   -     -     -         2231    0    0 
+newcastle 958711455 10  6 f   -     -     -         2231    0    0 
+newcastle 958711513 10  6 f   -     -     -         2231    0    0 
+newcastle 958711636 10  5 f   -     -     -         2231    0    0 
+newcastle 958711726 10  3 c   kf    -     -         2231   10    0 
+newcastle 958711771 10  2 Bc  kf    -     -         2221   20    0 
+newcastle 958711885 10  1 Bc  kc    kf    -         2201   30    0 
+newcastle 958712064 10 10 c   c     c     f         2171   40    0 
+newcastle 958712158  9  8 f   -     -     -         2131    0    0 
+newcastle 958712281  9  8 f   -     -     -         2131    0    0 
+newcastle 958712349  9  7 c   c     c     k         2131   40    0 6c 6h
+newcastle 958712441 10  6 f   -     -     -         2091    0    0 
+newcastle 958712538 10  5 f   -     -     -         2091    0    0 
+newcastle 958712612 10  5 f   -     -     -         2091    0    0 
+newcastle 958712753  9  3 f   -     -     -         2091    0    0 
+newcastle 958712784  9  2 Bf  -     -     -         2091   10    0 
+newcastle 958712864  9  1 Bf  -     -     -         2081    5    0 
+newcastle 958712978  9  9 f   -     -     -         2076    0    0 
+newcastle 958713056  9  8 c   f     -     -         2076   10    0 
+newcastle 958713140  9  7 f   -     -     -         2066    0    0 
+newcastle 958713191  9  6 f   -     -     -         2066    0    0 
+newcastle 958713306  9  5 f   Q     -     -         2066    0    0 
+newcastle 958720665  9  8 rc  c     f     -         2066   50    0 
+newcastle 958720728  9  7 f   -     -     -         2016    0    0 
+newcastle 958720780  8  5 f   -     -     -         2016    0    0 
+newcastle 958720835  9  5 f   -     -     -         2016    0    0 
+newcastle 958720945  9  4 c   b     f     -         2016   20    0 
+newcastle 958720975 10  3 f   -     -     -         1996    0    0 
+newcastle 958721033 10  2 Bk  kf    -     -         1996   10    0 
+newcastle 958721070 10  1 Bf  -     -     -         1986    5    0 
+newcastle 958721123 10 10 f   -     -     -         1981    0    0 
+newcastle 958721246 10  9 c   c     r     b         1981   80  215 
+newcastle 958721308 10  8 c   f     -     -         2116   10    0 
+newcastle 958721353 10  7 f   -     -     -         2106    0    0 
+newcastle 958721411 10  6 f   -     -     -         2106    0    0 
+newcastle 958721466  9  5 f   -     -     -         2106    0    0 
+newcastle 958721540 10  4 f   -     -     -         2106    0    0 
+newcastle 958721594 10  3 f   -     -     -         2106    0    0 
+newcastle 958721677  9  2 Bk  k     kf    -         2106   10    0 
+newcastle 958721751 10  1 Bc  kc    krc   kc        2096  120  360 9h Qd
+newcastle 958721802 10 10 f   -     -     -         2336    0    0 
+newcastle 958721876 10  9 f   -     -     -         2336    0    0 
+newcastle 958721953 10  8 f   -     -     -         2336    0    0 
+newcastle 958722046 10  7 f   -     -     -         2336    0    0 
+newcastle 958722098 10  6 r   r     bc    c         2336  100  360 Ks Kc
+newcastle 958722150 10  5 f   -     -     -         2596    0    0 
+newcastle 958722212 10  4 f   -     -     -         2596    0    0 
+newcastle 958722287 10  3 f   -     -     -         2596    0    0 
+newcastle 958722336 10  2 Bf  -     -     -         2596   10    0 
+newcastle 958722416  9  1 Bc  k     k     k         2586   10    0 7c Tc
+newcastle 958722458  9  9 f   -     -     -         2576    0    0 
+newcastle 958722500  8  7 f   Q     -     -         2576    0    0 
+newcastle 958905618  6  6 f   -     -     -         1926    0    0 
+newcastle 958905675  6  5 f   -     -     -         1926    0    0 
+newcastle 958905720  6  4 f   -     -     -         1926    0    0 
+newcastle 958905744  6  3 f   -     -     -         1926    0    0 
+newcastle 958905763  6  2 Bk  k     k     k         1926   10    0 Qd Th
+newcastle 958905809  6  1 Bf  -     -     -         1916    5    0 
+newcastle 958905837  5  5 f   -     -     -         1911    0    0 
+newcastle 958905875  5  4 f   -     -     -         1911    0    0 
+newcastle 958905926  6  4 r   b     b     k         1911   50  140 Qs Qc
+newcastle 958905969  6  2 Bk  k     k     f         2001   10    0 
+newcastle 958906026  5  1 Bc  b     b     -         1991   40   80 
+newcastle 958906079  5  5 f   -     -     -         2031    0    0 
+newcastle 958906123  6  5 f   -     -     -         2031    0    0 
+newcastle 958906183  6  3 c   b     k     c         2031   40  100 Td As
+newcastle 958906242  9  2 Br  b     b     -         2091   60  140 
+newcastle 958906310  9  1 Bf  -     -     -         2171    5    0 
+newcastle 958906366  9  9 f   -     -     -         2166    0    0 
+newcastle 958906414  9  8 f   -     -     -         2166    0    0 
+newcastle 958906522  8  6 f   -     -     -         2166    0    0 
+newcastle 958906568  8  6 cc  kf    -     -         2166   20    0 
+newcastle 958906672  9  5 fQ  -     -     -         2146    0    0 
+newcastle 958906964  8  8 f   -     -     -         2146    0    0 
+newcastle 958907064  7  6 f   -     -     -         2146    0    0 
+newcastle 958907141  8  6 f   -     -     -         2146    0    0 
+newcastle 958907227  8  5 f   -     -     -         2146    0    0 
+newcastle 958907287  8  4 f   -     -     -         2146    0    0 
+newcastle 958907350  7  3 f   -     -     -         2146    0    0 
+newcastle 958907424  7  2 Bk  k     k     k         2146   10   45 2h Ah
+newcastle 958907471  7  1 Bf  -     -     -         2181    5    0 
+newcastle 958907546  7  7 f   -     -     -         2176    0    0 
+newcastle 958907624  7  6 f   -     -     -         2176    0    0 
+newcastle 958907695  8  6 c   c     f     -         2176   30    0 
+newcastle 958907781  7  4 rc  kf    -     -         2146   30    0 
+newcastle 958907854  7  4 cc  kc    kf    -         2116   30    0 
+newcastle 958907978  8  3 rc  kc    kc    kc        2086   80    0 As Qc
+newcastle 958908048  8  2 Bc  bc    bc    br        2006  140  425 9s Ac
+newcastle 958908114  8  1 Bf  -     -     -         2291    5    0 
+newcastle 958908266  9  8 f   -     -     -         2286    0    0 
+newcastle 958908378  9  8 f   -     -     -         2286    0    0 
+newcastle 958908415  9  7 f   -     -     -         2286    0    0 
+newcastle 958908448  9  6 f   -     -     -         2286    0    0 
+newcastle 958908561  9  5 f   -     -     -         2286    0    0 
+newcastle 958908615  9  5 f   -     -     -         2286    0    0 
+newcastle 958908680  8  3 f   -     -     -         2286    0    0 
+newcastle 958908728  8  2 Bc  kf    -     -         2286   20    0 
+newcastle 958908754  8  1 Bf  -     -     -         2266    5    0 
+newcastle 958908843  8  8 f   -     -     -         2261    0    0 
+newcastle 958908967  8  7 f   -     -     -         2261    0    0 
+newcastle 958909045  8  6 cc  kf    -     -         2261   20    0 
+newcastle 958909113  9  5 f   -     -     -         2241    0    0 
+newcastle 958909268  8  4 f   -     -     -         2241    0    0 
+newcastle 958909318  8  3 f   -     -     -         2241    0    0 
+newcastle 958909381  8  2 Bf  -     -     -         2241   10    0 
+newcastle 958909450  8  1 Bc  b     b     -         2231   40   80 
+newcastle 958909507  8  8 f   -     -     -         2271    0    0 
+newcastle 958909539  8  7 f   -     -     -         2271    0    0 
+newcastle 958909566  8  6 f   -     -     -         2271    0    0 
+newcastle 958909641  8  6 c   kf    -     -         2271   10    0 
+newcastle 958909715  7  4 f   -     -     -         2261    0    0 
+newcastle 958909755  7  3 f   -     -     -         2261    0    0 
+newcastle 958909815  7  2 Bf  -     -     -         2261   10    0 
+newcastle 958909892  7  1 Bf  -     -     -         2251    5    0 
+newcastle 958909928  7  7 f   -     -     -         2246    0    0 
+newcastle 958910012  6  5 f   -     -     -         2246    0    0 
+newcastle 958910047  6  4 c   f     -     -         2246   10    0 
+newcastle 958910106  7  3 c   b     -     -         2236   20   40 
+newcastle 958910146  7  2 Bk  kf    -     -         2256   10    0 
+newcastle 958910229  7  1 Bf  -     -     -         2246    5    0 
+newcastle 958910272  7  7 c   k     k     k         2241   10    0 Js Qd
+newcastle 958910303  7  6 f   -     -     -         2231    0    0 
+newcastle 958910394  7  4 f   -     -     -         2231    0    0 
+newcastle 958910441  7  4 f   -     -     -         2231    0    0 
+newcastle 958910513  7  3 f   -     -     -         2231    0    0 
+newcastle 958910543  7  2 Bf  -     -     -         2231   10    0 
+newcastle 958910561  7  1 Bf  -     -     -         2221    5    0 
+newcastle 958910607  7  7 f   -     -     -         2216    0    0 
+newcastle 958910660  7  6 f   -     -     -         2216    0    0 
+newcastle 958910715  7  5 f   -     -     -         2216    0    0 
+newcastle 958910814  6  4 cc  k     b     -         2216   40  120 
+newcastle 958910858  6  3 cc  kf    -     -         2296   20    0 
+newcastle 958910934  6  2 Bf  -     -     -         2276   10    0 
+newcastle 958910976  6  1 Bf  -     -     -         2266    5    0 
+newcastle 958911043  7  7 f   -     -     -         2261    0    0 
+newcastle 958911096  7  6 f   -     -     -         2261    0    0 
+newcastle 958911141  7  5 f   -     -     -         2261    0    0 
+newcastle 958911238  8  4 c   kr    b     k         2261   60    0 Kh Jd
+newcastle 958911317  7  2 f   -     -     -         2201    0    0 
+newcastle 958911334  7  2 Bf  -     -     -         2201   10    0 
+newcastle 958911365  9  1 Bf  -     -     -         2191    5    0 
+newcastle 958911434 10 10 f   -     -     -         2186    0    0 
+newcastle 958911499  9  8 cc  f     -     -         2186   20    0 
+newcastle 958911562  9  7 r   r     b     b         2166   80  220 
+newcastle 958911616  8  5 f   -     -     -         2306    0    0 
+newcastle 958911702  9  5 f   -     -     -         2306    0    0 
+newcastle 958911749 10  4 f   -     -     -         2306    0    0 
+newcastle 958911783 10  3 c   f     -     -         2306   10    0 
+newcastle 958911834 10  2 Bf  -     -     -         2296   10    0 
+newcastle 958911926 10  1 Bf  -     -     -         2286    5    0 
+newcastle 958911978 10 10 rc  b     b     b         2281   80  310 Jh Ad
+newcastle 958912053  9  8 f   -     -     -         2511    0    0 
+newcastle 958912179  8  7 f   -     -     -         2511    0    0 
+newcastle 958912224  8  6 f   -     -     -         2511    0    0 
+newcastle 958912348  8  5 f   -     -     -         2511    0    0 
+newcastle 958912404  8  5 f   -     -     -         2511    0    0 
+newcastle 958912447  8  4 f   -     -     -         2511    0    0 
+newcastle 958912478  7  3 f   -     -     -         2511    0    0 
+newcastle 958912527  7  2 Bk  kf    -     -         2511   10    0 
+newcastle 958912594  6  1 Bf  -     -     -         2501    5    0 
+newcastle 958912643  8  8 f   -     -     -         2496    0    0 
+newcastle 958912711  8  7 f   -     -     -         2496    0    0 
+newcastle 958912754  7  6 f   -     -     -         2496    0    0 
+newcastle 958912776  5  4 f   -     -     -         2496    0    0 
+newcastle 958912834  5  3 f   -     -     -         2496    0    0 
+newcastle 958912854  5  2 Bk  k     kf    -         2496   10    0 
+newcastle 958912873  5  1 Bc  kr    b     b         2486   70  180 
+newcastle 958912915  5  5 f   -     -     -         2596    0    0 
+newcastle 958912940  5  4 r   b     bc    c         2596   90    0 8c 8d
+newcastle 958912997  6  4 f   -     -     -         2506    0    0 
+newcastle 958913035  6  3 f   -     -     -         2506    0    0 
+newcastle 958913066  6  2 Bk  b     bc    kcf       2506   80    0 
+newcastle 958913115  6  1 Br  b     b     -         2426   50   90 
+newcastle 958913154  7  6 f   -     -     -         2466    0    0 
+newcastle 958913204  7  5 f   -     -     -         2466    0    0 
+newcastle 958913227  7  4 f   -     -     -         2466    0    0 
+newcastle 958913295  6  3 f   -     -     -         2466    0    0 
+newcastle 958913354  7  2 Bk  k     k     k         2466   10    0 9s 6c
+newcastle 958913403  7  1 Bf  -     -     -         2456    5    0 
+newcastle 958913449  7  7 c   c     cc    f         2451  100    0 
+newcastle 958913518  7  6 f   -     -     -         2351    0    0 
+newcastle 958913564  6  5 f   -     -     -         2351    0    0 
+newcastle 958913587  7  4 f   -     -     -         2351    0    0 
+newcastle 958913611  7  3 f   -     -     -         2351    0    0 
+newcastle 958913637  7  2 Bk  b     b     kc        2351   60   63 6c Ah
+newcastle 958913673  7  1 Bf  -     -     -         2354    5    0 
+newcastle 958913684  7  7 f   -     -     -         2349    0    0 
+newcastle 958913708  7  6 f   -     -     -         2349    0    0 
+newcastle 958913754  7  5 f   -     -     -         2349    0    0 
+newcastle 958913822  7  4 f   -     -     -         2349    0    0 
+newcastle 958913865  7  3 f   -     -     -         2349    0    0 
+newcastle 958913893  7  2 Bk  kf    -     -         2349   10    0 
+newcastle 958913947  7  1 Bf  -     -     -         2339    5    0 
+newcastle 958913972  7  7 f   -     -     -         2334    0    0 
+newcastle 958914014  7  6 c   b     -     -         2334   20   50 
+newcastle 958914057  7  5 f   -     -     -         2364    0    0 
+newcastle 958914100  7  4 f   -     -     -         2364    0    0 
+newcastle 958914142  7  3 f   -     -     -         2364    0    0 
+newcastle 958914169  7  2 Bf  -     -     -         2364   10    0 
+newcastle 958914205  7  1 Bf  -     -     -         2354    5    0 
+newcastle 958914220  7  7 f   -     -     -         2349    0    0 
+newcastle 958914250  7  6 f   -     -     -         2349    0    0 
+newcastle 958914292  7  5 c   k     k     k         2349   10    0 2d Ad
+newcastle 958914325  7  4 f   -     -     -         2339    0    0 
+newcastle 958914367  7  3 c   k     b     kf        2339   30    0 
+newcastle 958914407  7  2 Bf  -     -     -         2309   10    0 
+newcastle 958914445  7  1 Bf  -     -     -         2299    5    0 
+newcastle 958914471  6  6 f   -     -     -         2294    0    0 
+newcastle 958914519  6  5 f   -     -     -         2294    0    0 
+newcastle 958914554  6  4 r   b     -     -         2294   30   55 
+newcastle 958914572  6  3 f   -     -     -         2319    0    0 
+newcastle 958914603  6  2 Bc  kf    -     -         2319   20    0 
+newcastle 958914636  5  1 Bf  -     -     -         2299    5    0 
+newcastle 958914678  5  5 f   -     -     -         2294    0    0 
+newcastle 958914703  5  4 f   -     -     -         2294    0    0 
+newcastle 958914712  5  3 f   -     -     -         2294    0    0 
+newcastle 958914730  5  2 Bk  kf    -     -         2294   10    0 
+newcastle 958914743  5  1 Bf  -     -     -         2284    5    0 
+newcastle 958914747  5  5 f   -     -     -         2279    0    0 
+newcastle 958914764  4  3 f   -     -     -         2279    0    0 
+newcastle 958914778  4  3 f   -     -     -         2279    0    0 
+newcastle 958914840  4  2 Bk  b     -     -         2279   20   30 
+newcastle 958914858  4  1 Bf  -     -     -         2289    5    0 
+newcastle 958914906  5  5 f   -     -     -         2284    0    0 
+newcastle 958914968  6  5 f   -     -     -         2284    0    0 
+newcastle 958915002  6  4 f   -     -     -         2284    0    0 
+newcastle 958915047  6  3 r   b     bc    k         2284   70    0 9c 9s
+newcastle 958915090  5  1 Bf  -     -     -         2214   10    0 
+newcastle 958915144  5  1 Bf  -     -     -         2204    5    0 
+newcastle 958915173  5  5 f   -     -     -         2199    0    0 
+newcastle 958915213  3  2 f   -     -     -         2199    0    0 

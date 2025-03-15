@@ -1,0 +1,36 @@
+delta-wye 958288166  3  3 rr  rr    rr    rr        1490  240  465 
+delta-wye 958288212  2  2 Brc rr    -     -         1715   80  175 
+delta-wye 958288254  2  2 Brc rr    rr    rr        1810  240  480 Ad 6d
+delta-wye 958288270  2  1 Brr brc   brc   br        2050  220  420 
+delta-wye 958288287  2  2 Brc rr    rr    rr        2250  240  460 
+delta-wye 958288311  2  1 Brr brc   brc   br        2470  220  420 
+delta-wye 958288328  2  2 Brc rr    rr    -         2670  160   20 5h 7d
+delta-wye 958288346  2  1 Brr brc   brc   br        2530  220  420 
+delta-wye 958288366  2  2 Brc rc    -     -         2730   70  150 
+delta-wye 958288399  2  2 Brc rr    rr    rr        2810  240  460 
+delta-wye 958288420  2  1 Brr brc   brc   br        3030  220  420 
+delta-wye 958288438  2  2 Brc rr    rr    rr        3230  240  480 Ad As
+delta-wye 958288459  2  1 Brr brc   brc   br        3470  220  420 
+delta-wye 958288478  2  2 Brc rr    r     -         3670  120  260 
+delta-wye 958859098  4  3 rr  rr    rr    rr        1000  240  485 5s 5d
+delta-wye 958859136  2  2 Brc rr    rc    -         1245  140  300 
+delta-wye 958859170  2  2 Brc rr    rr    rr        1405  240  460 
+delta-wye 958859185  2  1 Brr b     br    br        1625  170  320 
+delta-wye 958859207  2  2 Brc rr    rr    rr        1775  240  460 
+delta-wye 958859226  2  1 Brr brc   brc   br        1995  220  420 
+delta-wye 958859246  2  2 Brc rr    rr    rc        2195  210  420 4s 5s
+delta-wye 958859285  2  2 Brc rr    rr    rr        2405  240  460 
+delta-wye 958859301  2  1 Brr brc   brc   brc       2625  240  480 Jh Ad
+delta-wye 958859326  2  2 Brc rr    rr    rr        2865  240  460 
+delta-wye 958859346  2  1 Brr brc   brc   br        3085  220  420 
+delta-wye 958859367  2  2 Brc rr    c     -         3285  100  220 
+delta-wye 958859428  2  2 Brc rr    rr    rr        3405  240  460 
+delta-wye 958859441  2  1 Brr brc   brc   br        3625  220  420 
+delta-wye 958859460  2  2 Brc rr    rr    rr        3825  240  460 
+delta-wye 958859485  2  1 Brr brc   brc   br        4045  220  420 
+delta-wye 958859502  2  2 Brc rr    rc    -         4245  140  300 
+delta-wye 958859540  2  2 Brc rr    rr    rr        4405  240  460 
+delta-wye 958859556  2  1 Brr brc   brc   br        4625  220  420 
+delta-wye 958859577  2  2 Brc rr    rr    rr        4825  240  480 9s Kd
+delta-wye 958859598  2  1 Brr brc   brc   br        5065  220  420 
+delta-wye 958859617  2  2 Brc c     rr    -         5265  130  270 

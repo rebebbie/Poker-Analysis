@@ -1,0 +1,457 @@
+superman  958054129  5  4 f   -     -     -       833903    0    0 
+superman  958054153  5  3 f   -     -     -       833903    0    0 
+superman  958054167  5  2 Bf  -     -     -       833903   20    0 
+superman  958054191  5  1 Bc  bc    kc    kc      833883  140    0 As 8s
+superman  958054231  5  5 r   bf    -     -       833743   60    0 
+superman  958054257  5  4 f   -     -     -       833683    0    0 
+superman  958054276  5  3 f   -     -     -       833683    0    0 
+superman  958054313  5  2 Bk  b     -     -       833683   40   90 
+superman  958054333  4  1 Bf  -     -     -       833733   10    0 
+superman  958054358  4  4 f   -     -     -       833723    0    0 
+superman  958054387  4  3 f   -     -     -       833723    0    0 
+superman  958054398  4  2 Bk  kf    -     -       833723   20    0 
+superman  958054414  4  1 Bf  -     -     -       833703   10    0 
+superman  958054421  4  4 r   -     -     -       833693   40   70 
+superman  958054428  4  3 f   -     -     -       833723    0    0 
+superman  958054434  4  2 B   -     -     -       833723   20   30 
+superman  958054439  4  1 Bf  -     -     -       833733   10    0 
+superman  958054456  4  4 rc  f     -     -       833723   60    0 
+superman  958054486  4  3 f   -     -     -       833663    0    0 
+superman  958054503  4  2 Bf  -     -     -       833663   20    0 
+superman  958054523  4  1 Bf  -     -     -       833643   10    0 
+superman  958054543  4  4 f   -     -     -       833633    0    0 
+superman  958054556  4  3 f   -     -     -       833633    0    0 
+superman  958054587  4  2 Bc  krc   kf    -       833633  100    0 
+superman  958054634  4  1 Br  b     -     -       833533   60  120 
+superman  958054650  4  4 f   -     -     -       833593    0    0 
+superman  958054670  4  3 f   -     -     -       833593    0    0 
+superman  958054698  4  2 B   -     -     -       833593   20   30 
+superman  958054710  4  1 Br  -     -     -       833603   40   60 
+superman  958054716  4  4 f   -     -     -       833623    0    0 
+superman  958054723  4  3 f   -     -     -       833623    0    0 
+superman  958054745  4  2 Bf  -     -     -       833623   20    0 
+superman  958054752  4  1 Bf  -     -     -       833603   10    0 
+superman  958054783  4  4 rc  f     -     -       833593   60    0 
+superman  958054811  3  2 Bf  -     -     -       833533   20    0 
+superman  958054818  3  1 Bf  -     -     -       833513   10    0 
+superman  958054823  3  3 f   -     -     -       833503    0    0 
+superman  958054842  3  2 B   -     -     -       833503   20   30 
+superman  958054850  2  1 Bf  -     -     -       833513   10    0 
+superman  958054853  2  2 Bf  -     -     -       833503   20    0 
+superman  958054857  2  1 Brf -     -     -       833483   40    0 
+superman  958054867  2  2 Br  b     -     -       833443   80  140 
+superman  958054876  2  1 Br  -     -     -       833503   40   60 
+superman  958054879  2  2 Bc  f     -     -       833523   40    0 
+superman  958054887  2  1 Bf  -     -     -       833483   10    0 
+superman  958054889  2  2 B   -     -     -       833473   20   30 
+superman  958054890  2  1 Bf  -     -     -       833483   10    0 
+superman  958054893  2  2 Bk  b     -     -       833473   40   60 
+superman  958054905  2  1 Brc kr    b     -       833493  140  240 
+superman  958054923  2  2 B   -     -     -       833593   20   30 
+superman  958054926  2  1 Brc kr    bc    krc     833603  300    0 As Kd
+superman  958054958  2  2 B   -     -     -       833303   20   30 
+superman  958054961  2  1 Bf  -     -     -       833313   10    0 
+superman  958054964  2  2 Bk  k     r     b       833303  140  240 
+superman  958054980  2  1 Brc b     k     bc      833403  160    0 Ts Ah
+superman  958054999  2  2 B   -     -     -       833243   20   30 
+superman  958055003  2  1 Br  b     -     -       833253   60  100 
+superman  958055010  2  2 B   -     -     -       833293   20   30 
+superman  958055011  2  1 Bf  -     -     -       833303   10    0 
+superman  958055013  2  2 B   -     -     -       833293   20   30 
+superman  958055015  2  1 Bf  -     -     -       833303   10    0 
+superman  958055017  2  2 Bc  r     bf    -       833293  120    0 
+superman  958055035  2  1 Bf  -     -     -       833173   10    0 
+superman  958055038  2  2 B   -     -     -       833163   20   30 
+superman  958055039  2  1 Bf  -     -     -       833173   10    0 
+superman  958055051  2  2 Bc  c     f     -       833163   60    0 
+superman  958055064  2  1 Bf  -     -     -       833103   10    0 
+superman  958055066  2  2 B   -     -     -       833093   20   30 
+superman  958055067  2  1 Bf  -     -     -       833103   10    0 
+superman  958055069  2  2 B   -     -     -       833093   20   30 
+superman  958055070  2  1 Br  bc    kc    b       833103  160    0 9h As
+superman  958055089  2  2 B   -     -     -       832943   20   30 
+superman  958055092  2  1 Br  -     -     -       832953   40   60 
+superman  958055095  2  2 Bf  -     -     -       832973   20    0 
+superman  958055099  2  1 Bf  -     -     -       832953   10    0 
+superman  958055101  2  2 Bf  -     -     -       832943   20    0 
+superman  958055104  2  1 Brc kf    -     -       832923   60    0 
+superman  958055116  2  2 Br  br    b     k       832863  160  320 9h 9c
+superman  958055135  2  1 Bf  -     -     -       833023   10    0 
+superman  958055140  2  2 B   -     -     -       833013   20   30 
+superman  958055141  2  1 Brc bc    bf    -       833023  140    0 
+superman  958055158  2  2 B   -     -     -       832883   20   30 
+superman  958055160  2  1 Bf  -     -     -       832893   10    0 
+superman  958055162  2  2 Bk  k     b     -       832883   60   80 
+superman  958055177  2  1 Bf  -     -     -       832903   10    0 
+superman  958055178  2  2 B   -     -     -       832893   20   30 
+superman  958055180  2  1 Brc kf    -     -       832903   60    0 
+superman  958055192  2  2 B   -     -     -       832843   20   30 
+superman  958055194  2  1 Bf  -     -     -       832853   10    0 
+superman  958055195  2  2 B   -     -     -       832843   20   30 
+superman  958055197  2  1 Br  bc    k     b       832853  120  240 Jh Ad
+superman  958055215  2  2 Bc  c     c     k       832973  100    0 9s Jd
+superman  958055235  2  1 Bf  -     -     -       832873   10    0 
+superman  958055240  2  2 B   -     -     -       832863   20   30 
+superman  958055241  2  1 Brr b     bf    -       832873  140    0 
+superman  958055257  2  2 Bc  c     r     k       832733  140    0 3s Kc
+superman  958055273  2  1 Bf  -     -     -       832593   10    0 
+superman  958055278  2  2 B   -     -     -       832583   20   30 
+superman  958055280  2  1 Bf  -     -     -       832593   10    0 
+superman  958055282  2  2 B   -     -     -       832583   20   30 
+superman  958055284  2  1 Bcc kf    -     -       832593   40    0 
+superman  958055295  2  2 Bf  -     -     -       832553   20    0 
+superman  958055297  2  1 Br  -     -     -       832533   40   60 
+superman  958055302  2  2 B   -     -     -       832553   20   30 
+superman  958055303  2  1 Br  bc    k     k       832563   80  160 Th Ah
+superman  958055321  2  2 B   -     -     -       832643   20   30 
+superman  958055324  2  1 Br  b     b     -       832653  100  160 
+superman  958055335  2  2 Bc  f     -     -       832713   40    0 
+superman  958055341  2  1 Bf  -     -     -       832673   10    0 
+superman  958055343  2  2 Bc  r     f     -       832663   80    0 
+superman  958055355  2  1 Br  b     -     -       832583   60  100 
+superman  958055363  2  2 B   -     -     -       832623   20   30 
+superman  958055366  2  1 Bf  -     -     -       832633   10    0 
+superman  958055368  2  2 B   -     -     -       832623   20   30 
+superman  958055369  2  1 Bf  -     -     -       832633   10    0 
+superman  958055371  2  2 Br  bc    c     c       832623  180    0 8d Th
+superman  958055393  2  1 Bf  -     -     -       832443   10    0 
+superman  958055398  2  2 Bf  -     -     -       832433   20    0 
+superman  958055401  2  1 Br  bc    k     k       832413   80  160 3c 3h
+superman  958055418  2  2 Bc  c     r     b       832493  180  360 Tc 5c
+superman  958055436  2  1 Bc  b     -     -       832673   40   60 
+superman  958055448  2  2 Bf  -     -     -       832693   20    0 
+superman  958055451  2  1 Bf  -     -     -       832673   10    0 
+superman  958055453  2  2 B   -     -     -       832663   20   30 
+superman  958055454  2  1 Bf  -     -     -       832673   10    0 
+superman  958055457  2  2 Bc  c     c     r       832663  180  360 Ad 5c
+superman  958055476  2  1 Bf  -     -     -       832843   10    0 
+superman  958055480  2  2 Bf  -     -     -       832833   20    0 
+superman  958055484  2  1 Bc  bc    k     k       832813   60    0 6s Ah
+superman  958055501  2  2 Bf  -     -     -       832753   20    0 
+superman  958055506  2  1 Bc  b     k     k       832733   40    0 9h Js
+superman  958055520  2  2 B   -     -     -       832693   20   30 
+superman  958055523  2  1 Bf  -     -     -       832703   10    0 
+superman  958055526  2  2 Bc  c     r     -       832693  140  240 
+superman  958055541  2  1 Bf  -     -     -       832793   10    0 
+superman  958055544  2  2 Bc  c     c     r       832783  180    0 Qd Ts
+superman  958055561  2  1 Bf  -     -     -       832603   10    0 
+superman  958055565  2  2 B   -     -     -       832593   20   30 
+superman  958055567  2  1 Bf  -     -     -       832603   10    0 
+superman  958055569  2  2 Bk  b     -     -       832593   40   60 
+superman  958055579  2  1 Brr b     -     -       832613  100  180 
+superman  958055592  2  2 Bk  f     -     -       832693   20    0 
+superman  958055599  2  1 Bf  -     -     -       832673   10    0 
+superman  958055602  2  2 B   -     -     -       832663   20   30 
+superman  958055604  2  1 Bf  -     -     -       832673   10    0 
+superman  958055607  2  2 B   -     -     -       832663   20   30 
+superman  958055608  2  1 Bf  -     -     -       832673   10    0 
+superman  958055610  2  2 Br  b     -     -       832663   60  100 
+superman  958055623  2  1 Br  -     -     -       832703   40   60 
+superman  958055626  2  2 B   -     -     -       832723   20   30 
+superman  958055630  2  1 Bf  -     -     -       832733   10    0 
+superman  958055631  2  2 B   -     -     -       832723   20   30 
+superman  958055636  2  1 Brr b     b     -       832733  140  240 
+superman  958055649  2  2 B   -     -     -       832833   20   30 
+superman  958055651  2  1 Bf  -     -     -       832843   10    0 
+superman  958055652  2  2 Bf  -     -     -       832833   20    0 
+superman  958055655  2  1 Bf  -     -     -       832813   10    0 
+superman  958055656  2  2 Bc  c     f     -       832803   60    0 
+superman  958055668  2  1 Bf  -     -     -       832743   10    0 
+superman  958055670  2  2 Br  r     b     k       832733  140  280 8h 8s
+superman  958055688  2  1 Bf  -     -     -       832873   10    0 
+superman  958055692  2  2 Bc  k     k     b       832863   80   80 8d 6d
+superman  958055715  2  1 Bf  -     -     -       832863   10    0 
+superman  958055719  2  2 Bc  r     k     f       832853   80    0 
+superman  958055738  2  1 Bf  -     -     -       832773   10    0 
+superman  958055740  2  2 B   -     -     -       832763   20   30 
+superman  958055743  2  1 Bf  -     -     -       832773   10    0 
+superman  958055745  2  2 Bc  r     b     b       832763  160    0 3s Qs
+superman  958055763  2  1 Bf  -     -     -       832603   10    0 
+superman  958055768  2  2 B   -     -     -       832593   20   30 
+superman  958055769  2  1 Br  -     -     -       832603   40   60 
+superman  958055773  2  2 B   -     -     -       832623   20   30 
+superman  958055774  2  1 Bf  -     -     -       832633   10    0 
+superman  958055776  2  2 Bf  -     -     -       832623   20    0 
+superman  958055779  2  1 Br  bf    -     -       832603   60    0 
+superman  958055790  2  2 Bf  -     -     -       832543   20    0 
+superman  958055793  2  1 Bf  -     -     -       832523   10    0 
+superman  958055795  2  2 B   -     -     -       832513   20   30 
+superman  958055799  2  1 Bf  -     -     -       832523   10    0 
+superman  958055800  2  2 Bc  r     b     -       832513  120  200 
+superman  958055817  2  1 Bf  -     -     -       832593   10    0 
+superman  958055819  2  2 Bk  k     k     k       832583   20    0 Jc 3c
+superman  958055837  2  1 Bf  -     -     -       832563   10    0 
+superman  958055841  2  2 Bf  -     -     -       832553   20    0 
+superman  958055844  2  1 Br  br    b     k       832533  140    0 8s Ah
+superman  958055866  2  2 B   -     -     -       832393   20   30 
+superman  958055869  2  1 Bcc kf    -     -       832403   40    0 
+superman  958055884  2  2 B   -     -     -       832363   20   30 
+superman  958055887  2  1 Br  -     -     -       832373   40   60 
+superman  958055891  2  2 Bf  -     -     -       832393   20    0 
+superman  958055893  2  1 Bc  k     b     -       832373   60   80 
+superman  958055903  2  2 Bc  b     -     -       832393   60  100 
+superman  958055913  2  1 Bf  -     -     -       832433   10    0 
+superman  958055915  2  2 B   -     -     -       832423   20   30 
+superman  958055917  2  1 Bf  -     -     -       832433   10    0 
+superman  958055919  2  2 Bc  c     c     c       832423  140    0 5c 7c
+superman  958055935  2  1 Bf  -     -     -       832283   10    0 
+superman  958055940  2  2 Bc  c     bf    -       832273  100    0 
+superman  958055957  2  1 Bf  -     -     -       832173   10    0 
+superman  958055959  2  2 B   -     -     -       832163   20   30 
+superman  958055960  2  1 Brr b     b     b       832173  180  360 Ac Jc
+superman  958055978  2  2 Bc  r     k     k       832353   80    0 7d 8s
+superman  958055998  2  1 Bf  -     -     -       832273   10    0 
+superman  958056003  2  2 Bf  -     -     -       832263   20    0 
+superman  958056006  2  1 Bf  -     -     -       832243   10    0 
+superman  958056008  2  2 Bf  -     -     -       832233   20    0 
+superman  958056011  2  1 Br  kr    br    k       832213  200    0 Ah 4c
+superman  958056035  2  2 Br  b     b     b       832013  160    0 Js 8h
+superman  958056059  2  1 Bf  -     -     -       831853   10    0 
+superman  958056064  2  2 B   -     -     -       831843   20   30 
+superman  958056065  2  1 Bf  -     -     -       831853   10    0 
+superman  958056067  2  2 Bf  -     -     -       831843   20    0 
+superman  958056070  2  1 Bf  -     -     -       831823   10    0 
+superman  958056073  2  2 B   -     -     -       831813   20   30 
+superman  958056075  2  1 Bf  -     -     -       831823   10    0 
+superman  958056077  2  2 B   -     -     -       831813   20   30 
+superman  958056079  2  1 Bf  -     -     -       831823   10    0 
+superman  958056082  2  2 Bf  -     -     -       831813   20    0 
+superman  958056086  2  1 Br  b     -     -       831793   60  100 
+superman  958056094  2  2 B   -     -     -       831833   20   30 
+superman  958056096  2  1 Bf  -     -     -       831843   10    0 
+superman  958056098  2  2 B   -     -     -       831833   20   30 
+superman  958056100  2  1 Br  -     -     -       831843   40   60 
+superman  958056104  2  2 Bc  r     bc    f       831863  160    0 
+superman  958056126  2  1 Bf  -     -     -       831703   10    0 
+superman  958056128  2  2 B   -     -     -       831693   20   30 
+superman  958056132  2  1 Bf  -     -     -       831703   10    0 
+superman  958056134  2  2 Bc  f     -     -       831693   40    0 
+superman  958056140  2  1 Bf  -     -     -       831653   10    0 
+superman  958056142  2  2 Bc  r     -     -       831643   80  140 
+superman  958056152  2  1 Bf  -     -     -       831703   10    0 
+superman  958056154  2  2 Bk  b     -     -       831693   40   60 
+superman  958056167  2  1 Bf  -     -     -       831713   10    0 
+superman  958056169  2  2 Bc  r     b     b       831703  160    0 8d 9c
+superman  958056190  2  1 Br  bf    -     -       831543   60    0 
+superman  958056207  2  2 Bk  r     b     k       831483  100    0 6s 9h
+superman  958056230  2  1 Bf  -     -     -       831383   10    0 
+superman  958056235  2  2 B   -     -     -       831373   20   30 
+superman  958056238  2  1 Bcc k     k     k       831383   40   80 As 3h
+superman  958056255  2  2 Br  r     b     -       831423  140  240 
+superman  958056271  2  1 Bf  -     -     -       831523   10    0 
+superman  958056273  2  2 Br  br    b     b       831513  200  400 7s Ts
+superman  958056295  2  1 Bf  -     -     -       831713   10    0 
+superman  958056300  2  2 Br  r     b     b       831703  180  320 
+superman  958056323  2  1 Bf  -     -     -       831843   10    0 
+superman  958056325  2  2 B   -     -     -       831833   20   30 
+superman  958056327  2  1 Bf  -     -     -       831843   10    0 
+superman  958056329  2  2 B   -     -     -       831833   20   30 
+superman  958056332  2  1 Bf  -     -     -       831843   10    0 
+superman  958056335  2  2 Bf  -     -     -       831833   20    0 
+superman  958056338  2  1 Bf  -     -     -       831813   10    0 
+superman  958056340  2  2 Br  r     b     -       831803  140  240 
+superman  958056354  2  1 Br  b     -     -       831903   60  100 
+superman  958056363  2  2 Br  k     b     b       831943  120  240 As 5d
+superman  958056386  2  1 Bf  -     -     -       832063   10    0 
+superman  958056390  2  2 Bc  c     r     -       832053  140  240 
+superman  958056410  2  1 Bf  -     -     -       832153   10    0 
+superman  958056412  2  2 B   -     -     -       832143   20   30 
+superman  958056414  2  1 Bf  -     -     -       832153   10    0 
+superman  958056416  2  2 Br  b     -     -       832143   60  100 
+superman  958056429  2  1 Br  b     k     kf      832183   60    0 
+superman  958056447  2  2 Bf  -     -     -       832123   20    0 
+superman  958056449  2  1 Br  br    b     b       832103  180  360 Ah Kd
+superman  958056467  2  2 Br  r     c     c       832283  160    0 Ks 5s
+superman  958056488  2  1 Bf  -     -     -       832123   10    0 
+superman  958056492  2  2 Br  c     c     c       832113  160  320 Ks Tc
+superman  958056514  2  1 Bf  -     -     -       832273   10    0 
+superman  958056518  2  2 Bf  -     -     -       832263   20    0 
+superman  958056523  2  1 Brr b     b     k       832243  140    0 6s 6c
+superman  958056545  2  2 Bf  -     -     -       832103   20    0 
+superman  958056550  2  1 Brr b     b     b       832083  180  360 9h 9s
+superman  958056571  2  2 B   -     -     -       832263   20   30 
+superman  958056574  2  1 Bf  -     -     -       832273   10    0 
+superman  958056577  2  2 Br  rr    b     b       832263  220    0 Jd Jc
+superman  958056600  2  1 Bf  -     -     -       832043   10    0 
+superman  958056604  2  2 B   -     -     -       832033   20   30 
+superman  958056605  2  1 Bf  -     -     -       832043   10    0 
+superman  958056608  2  2 Bf  -     -     -       832033   20    0 
+superman  958056611  2  1 Brrc kc    kf    -       832013  120    0 
+superman  958056633  2  2 B   -     -     -       831893   20   30 
+superman  958056635  2  1 Bf  -     -     -       831903   10    0 
+superman  958056637  2  2 Bc  b     -     -       831893   60  100 
+superman  958056648  2  1 Br  -     -     -       831933   40   60 
+superman  958056653  2  2 B   -     -     -       831953   20   30 
+superman  958056655  2  1 Bf  -     -     -       831963   10    0 
+superman  958056658  2  2 Bf  -     -     -       831953   20    0 
+superman  958056661  2  1 Bf  -     -     -       831933   10    0 
+superman  958056663  2  2 Brc c     k     c       831923  140    0 9h 9d
+superman  958056688  2  1 Br  -     -     -       831783   40   60 
+superman  958056694  2  2 Bc  c     r     -       831803  140  240 
+superman  958056711  2  1 Bf  -     -     -       831903   10    0 
+superman  958056713  2  2 Bk  k     f     -       831893   20    0 
+superman  958056724  2  1 Bf  -     -     -       831873   10    0 
+superman  958056726  2  2 B   -     -     -       831863   20   30 
+superman  958056728  2  1 Br  b     -     -       831873   60  100 
+superman  958056734  2  2 Bf  -     -     -       831913   20    0 
+superman  958056739  2  1 Brc kr    b     -       831893  140  240 
+superman  958056758  2  2 Br  b     -     -       831993   80  140 
+superman  958056770  2  1 Bf  -     -     -       832053   10    0 
+superman  958056772  2  2 B   -     -     -       832043   20   30 
+superman  958056774  2  1 Bcc kc    kf    -       832053   60    0 
+superman  958056792  2  2 Bc  f     -     -       831993   40    0 
+superman  958056800  2  1 Bf  -     -     -       831953   10    0 
+superman  958056801  2  2 Br  f     -     -       831943   60    0 
+superman  958056809  2  1 Bf  -     -     -       831883   10    0 
+superman  958056811  2  2 Bf  -     -     -       831873   20    0 
+superman  958056815  2  1 Bf  -     -     -       831853   10    0 
+superman  958056817  2  2 Br  b     b     -       831843  120  200 
+superman  958056831  2  1 Br  bc    k     bf      831923  120    0 
+superman  958056852  2  2 Bc  c     r     k       831803  140  280 7c Kd
+superman  958056871  2  1 Bf  -     -     -       831943   10    0 
+superman  958056875  2  2 Br  bc    r     b       831933  220    0 Jc As
+superman  958056901  2  1 Bc  bc    kf    -       831713   60    0 
+superman  958056919  2  2 B   -     -     -       831653   20   30 
+superman  958056920  2  1 Bf  -     -     -       831663   10    0 
+superman  958056923  2  2 Bf  -     -     -       831653   20    0 
+superman  958056926  2  1 Bf  -     -     -       831633   10    0 
+superman  958056928  2  2 Br  br    k     k       831623  120  240 9d Jd
+superman  958056949  2  1 Bc  kf    -     -       831743   20    0 
+superman  958056960  2  2 Br  c     r     b       831723  200  360 
+superman  958056981  2  1 Bf  -     -     -       831883   10    0 
+superman  958056984  2  2 B   -     -     -       831873   20   30 
+superman  958056986  2  1 Brc kc    krc   kc      831883  240    0 9h Th
+superman  958057020  2  2 Bc  b     k     k       831643   60    0 7d Js
+superman  958057040  2  1 Bf  -     -     -       831583   10    0 
+superman  958057045  3  3 r   b     -     -       831573   60  110 
+superman  958057060  3  2 Bc  b     b     f       831623  100    0 
+superman  958057086  3  1 Brrc kc    kf    -       831523  120    0 
+superman  958057114  3  3 r   b     -     -       831403   60  110 
+superman  958057128  3  2 Bf  -     -     -       831453   20    0 
+superman  958057154  2  1 Br  b     k     k       831433   60  120 Ac 6s
+superman  958057182  2  2 B   -     -     -       831493   20   30 
+superman  958057189  2  1 Br  b     kf    -       831503   60    0 
+superman  958057204  2  2 Bk  f     -     -       831443   20    0 
+superman  958057213  2  1 Bf  -     -     -       831423   10    0 
+superman  958057216  2  2 Br  c     f     -       831413   60    0 
+superman  958057233  2  1 Br  b     -     -       831353   60  100 
+superman  958057240  2  2 B   -     -     -       831393   20   30 
+superman  958057243  2  1 Br  b     b     bf      831403  140    0 
+superman  958057262  2  2 B   -     -     -       831263   20   30 
+superman  958057264  2  1 Br  b     -     -       831273   60  100 
+superman  958057273  2  2 B   -     -     -       831313   20   30 
+superman  958057276  2  1 Brc kc    krc   kf      831323  200    0 
+superman  958057304  2  2 Br  b     -     -       831123   60  100 
+superman  958057320  2  1 Bf  -     -     -       831163   10    0 
+superman  958057322  2  2 B   -     -     -       831153   20   30 
+superman  958057326  2  1 Br  b     b     k       831163  100  200 Ah Td
+superman  958057339  2  2 B   -     -     -       831263   20   30 
+superman  958057344  2  1 Bc  b     b     b       831273  120  240 Js Td
+superman  958057361  2  2 Bk  b     -     -       831393   40   60 
+superman  958057375  2  1 Bc  kf    -     -       831413   20    0 
+superman  958057385  2  2 B   -     -     -       831393   20   30 
+superman  958057388  2  1 Bc  kf    -     -       831403   20    0 
+superman  958057398  2  2 Bf  -     -     -       831383   20    0 
+superman  958057403  2  1 Bf  -     -     -       831363   10    0 
+superman  958057405  2  2 Bc  b     b     bf      831353  140    0 
+superman  958057429  2  1 Br  b     k     b       831213  100  200 3s 3c
+superman  958057445  2  2 B   -     -     -       831313   20   30 
+superman  958057451  2  1 Bf  -     -     -       831323   10    0 
+superman  958057453  2  2 B   -     -     -       831313   20   30 
+superman  958057457  2  1 Bf  -     -     -       831323   10    0 
+superman  958057459  2  2 B   -     -     -       831313   20   30 
+superman  958057461  2  1 Bf  -     -     -       831323   10    0 
+superman  958057464  2  2 Bf  -     -     -       831313   20    0 
+superman  958057469  2  1 Br  b     kf    -       831293   60    0 
+superman  958057481  2  2 Bf  -     -     -       831233   20    0 
+superman  958057484  2  1 Bf  -     -     -       831213   10    0 
+superman  958057485  2  2 B   -     -     -       831203   20   30 
+superman  958057490  2  1 Bf  -     -     -       831213   10    0 
+superman  958057491  2  2 B   -     -     -       831203   20   30 
+superman  958057494  2  1 Bf  -     -     -       831213   10    0 
+superman  958057495  2  2 B   -     -     -       831203   20   30 
+superman  958057499  2  1 Bf  -     -     -       831213   10    0 
+superman  958057501  2  2 Br  c     c     b       831203  140  240 
+superman  958057522  2  1 Bf  -     -     -       831303   10    0 
+superman  958057524  2  2 B   -     -     -       831293   20   30 
+superman  958057525  2  1 Bc  b     -     -       831303   40   60 
+superman  958057533  2  2 Br  b     b     -       831323  100  160 
+superman  958057547  2  1 Br  -     -     -       831383   40   60 
+superman  958057551  2  2 Br  b     b     b       831403  140  280 4c 4d
+superman  958057571  2  1 Bf  -     -     -       831543   10    0 
+superman  958057575  2  2 Bk  k     f     -       831533   20    0 
+superman  958057587  2  1 Bcc k     kf    -       831513   40    0 
+superman  958057600  2  2 Bc  b     b     -       831473  100  160 
+superman  958057616  2  1 Bf  -     -     -       831533   10    0 
+superman  958057618  2  2 Bc  k     c     c       831523  120    0 7s Qs
+superman  958057638  2  1 Bf  -     -     -       831403   10    0 
+superman  958057642  2  2 Bk  b     b     b       831393  120  240 4d 7c
+superman  958057664  2  1 Bf  -     -     -       831513   10    0 
+superman  958057668  2  2 B   -     -     -       831503   20   30 
+superman  958057673  2  1 Brc kc    kr    b       831513  200  400 8c Kd
+superman  958057696  2  2 Br  b     -     -       831713   60  100 
+superman  958057711  2  1 Bf  -     -     -       831753   10    0 
+superman  958057714  2  2 B   -     -     -       831743   20   30 
+superman  958057717  3  1 Bf  -     -     -       831753   10    0 
+superman  958057731  3  3 f   -     -     -       831743    0    0 
+superman  958057739  3  2 B   -     -     -       831743   20   30 
+superman  958057747  3  1 Bf  -     -     -       831753   10    0 
+superman  958057754  3  3 r   -     -     -       831743   40   70 
+superman  958057761  3  2 Bc  r     k     f       831773   80    0 
+superman  958057787  3  1 Bf  -     -     -       831693   10    0 
+superman  958057789  3  3 r   k     c     c       831683  120    0 9h Ad
+superman  958057820  3  2 B   -     -     -       831563   20   30 
+superman  958057868  2  1 Br  b     -     -       831573   60  100 
+superman  958057880  3  2 Br  b     k     k       831613   60    0 Qh Jd
+superman  958057902  3  1 Bf  -     -     -       831553   10    0 
+superman  958057908  3  3 r   c     c     c       831543  140  290 Kc 5s
+superman  958057928  3  2 B   -     -     -       831693   20   30 
+superman  958057988  2  1 Br  b     b     b       831703  140    0 6c 7c
+superman  958058005  2  2 Bc  b     -     -       831563   60  100 
+superman  958058020  3  1 Bf  -     -     -       831603   10    0 
+superman  958058023  3  3 r   bf    -     -       831593   60    0 
+superman  958058035  3  2 Br  b     b     -       831533  120  200 
+superman  958058054  3  1 Bf  -     -     -       831613   10    0 
+superman  958058059  3  3 r   b     k     f       831603   60    0 
+superman  958058080  3  2 Bk  f     -     -       831543   20    0 
+superman  958058088  3  1 Bf  -     -     -       831523   10    0 
+superman  958058091  3  3 r   -     -     -       831513   40   70 
+superman  958058094  3  2 Br  b     c     f       831543  100    0 
+superman  958058120  3  1 Bf  -     -     -       831443   10    0 
+superman  958058133  3  3 r   b     k     k       831433   60    0 Tc Ac
+superman  958058161  3  2 Bk  kf    -     -       831373   20    0 
+superman  958058177  3  1 Bf  -     -     -       831353   10    0 
+superman  958058180  3  3 rc  k     f     -       831343   60    0 
+superman  958058196  3  2 B   -     -     -       831283   20   30 
+superman  958058200  3  1 Bc  k     kf    -       831293   20    0 
+superman  958058226  3  3 f   -     -     -       831273    0    0 
+superman  958058244  3  2 Bf  -     -     -       831273   20    0 
+superman  958058256  3  1 Br  b     b     bc      831253  180    0 Kc Kd
+superman  958058280  3  3 rc  k     rr    b       831073  260  540 Jh Qh
+superman  958058310  2  1 Bc  kc    kc    k       831353  100    0 9h Kc
+superman  958058338  2  1 Bf  -     -     -       831253   10    0 
+superman  958058342  2  2 Bk  b     k     k       831243   40    0 2s 7d
+superman  958058361  2  1 Bf  -     -     -       831203   10    0 
+superman  958058365  2  2 B   -     -     -       831193   20   30 
+superman  958058367  2  1 Bf  -     -     -       831203   10    0 
+superman  958058369  2  2 Bc  r     k     f       831193   80    0 
+superman  958058389  2  1 Bf  -     -     -       831113   10    0 
+superman  958058390  2  2 Bf  -     -     -       831103   20    0 
+superman  958058393  2  1 Br  -     -     -       831083   40   60 
+superman  958058396  2  2 Bc  f     -     -       831103   40    0 
+superman  958058404  2  1 Bc  b     b     b       831063  120  200 
+superman  958058425  2  2 Br  -     -     -       831143   40   60 
+superman  958058431  2  1 Bf  -     -     -       831163   10    0 
+superman  958058433  2  2 Bc  r     bf    -       831153  120    0 
+superman  958058455  2  1 Bf  -     -     -       831033   10    0 
+superman  958058457  2  2 Bc  b     -     -       831023   60  100 
+superman  958058469  4  1 Bf  -     -     -       831063   10    0 
+superman  958058504  4  4 f   -     -     -       831053    0    0 
+superman  958058535  4  3 f   -     -     -       831053    0    0 
+superman  958058566  5  2 Bk  b     b     -       831053   80  170 
+superman  958058645  5  1 Bf  -     -     -       831143   10    0 
+superman  958058656  5  5 c   f     -     -       831133   20    0 
+superman  958058676  5  4 f   -     -     -       831113    0    0 
+superman  958058705  5  3 f   -     -     Q       831113    0    0 
+superman  959203260  2  1 Bf  -     -     -       919644   10    0 
+superman  959203278  2  2 BQ  -     -     -       919634   20    0 

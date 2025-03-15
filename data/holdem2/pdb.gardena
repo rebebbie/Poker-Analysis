@@ -1,0 +1,235 @@
+gardena   958606834 10  3 f   -     -     -         2295    0    0 
+gardena   958606889 10  2 Bc  krf   -     -         2295  120    0 
+gardena   958606941  9  1 Bf  -     -     -         2175   10    0 
+gardena   958606953  9  9 f   -     -     -         2165    0    0 
+gardena   958607015  9  8 f   -     -     -         2165    0    0 
+gardena   958607068  9  7 c   k     k     c         2165   60    0 3h 4h
+gardena   958607129  9  6 f   -     -     -         2105    0    0 
+gardena   958607160  9  6 c   k     f     -         2105   20    0 
+gardena   958607198  9  4 f   -     -     -         2085    0    0 
+gardena   958607256  9  3 c   b     b     -         2085   80  130 
+gardena   958607287  9  2 Bf  -     -     -         2135   20    0 
+gardena   958607317  9  1 Bc  kc    kc    k         2115   80    0 Qh 9h
+gardena   958607369  9  9 c   k     c     f         2035   60    0 
+gardena   958607421  8  7 c   f     -     -         1975   40    0 
+gardena   958607453  8  7 f   -     -     -         1935    0    0 
+gardena   958607488  9  6 c   f     -     -         1935   20    0 
+gardena   958607540 10  5 f   -     -     -         1915    0    0 
+gardena   958607602  9  4 c   kc    kc    kf        1915   80    0 
+gardena   958607643 10  3 c   f     -     -         1835   20    0 
+gardena   958607664 10  2 Bc  kf    -     -         1815   40    0 
+gardena   958607698 10  1 Bf  -     -     -         1775   10    0 
+gardena   958607744 10 10 f   -     -     -         1765    0    0 
+gardena   958607777 10  9 f   -     -     -         1765    0    0 
+gardena   958607851  9  7 c   b     -     -         1765   40   90 
+gardena   958607874  9  7 f   -     -     -         1815    0    0 
+gardena   958607907  8  5 f   -     -     -         1815    0    0 
+gardena   958607926  8  4 c   kf    -     -         1815   20    0 
+gardena   958607954  7  2 f   -     -     -         1795    0    0 
+gardena   958607974  7  2 Bc  kc    kc    k         1795  100    0 5h Jh
+gardena   958608013  7  1 Bf  -     -     -         1695   10    0 
+gardena   958608048  7  7 f   -     -     -         1685    0    0 
+gardena   958608074  7  6 f   -     -     -         1685    0    0 
+gardena   958608086  7  5 f   -     -     -         1685    0    0 
+gardena   958608146  6  3 f   -     -     -         1685    0    0 
+gardena   958608185  6  3 f   -     -     -         1685    0    0 
+gardena   958608200  6  2 Bf  -     -     -         1685   20    0 
+gardena   958608223  6  1 Bf  -     -     -         1665   10    0 
+gardena   958608234  5  5 f   -     -     -         1655    0    0 
+gardena   958608255  5  4 f   -     -     -         1655    0    0 
+gardena   958608284  5  3 f   -     -     -         1655    0    0 
+gardena   958608299  4  2 Bf  -     -     -         1655   20    0 
+gardena   958608339  4  1 Bc  b     b     b         1635  140    0 Ad 6d
+gardena   958608369  4  4 cc  rr    r     b         1495  240  520 Tc Ah
+gardena   958608417  4  3 fQ  -     -     -         1775    0    0 
+gardena   959388958  7  7 f   -     -     -         3835    0    0 
+gardena   959388996  8  6 f   -     -     -         3835    0    0 
+gardena   959389016  8  5 c   k     f     -         3835   20    0 
+gardena   959389066  8  4 f   -     -     -         3815    0    0 
+gardena   959389083  8  3 f   -     -     -         3815    0    0 
+gardena   959389111  8  2 Bk  kf    -     -         3815   20    0 
+gardena   959389159  8  1 Bf  -     -     -         3795   10    0 
+gardena   959389187  8  8 c   k     k     k         3785   20    0 8s Qs
+gardena   959389222  8  7 f   -     -     -         3765    0    0 
+gardena   959389259  9  7 f   -     -     -         3765    0    0 
+gardena   959389287  9  6 f   -     -     -         3765    0    0 
+gardena   959389310  9  5 c   bc    c     c         3765  140  320 Kh Ad
+gardena   959389365  9  4 f   -     -     -         3945    0    0 
+gardena   959389404  9  3 c   k     k     kf        3945   20    0 
+gardena   959389473  9  2 Bk  kc    k     kc        3925   80    0 Ac 3d
+gardena   959389540  9  1 Bf  -     -     -         3845   10    0 
+gardena   959389583  9  9 f   -     -     -         3835    0    0 
+gardena   959389608  9  8 f   -     -     -         3835    0    0 
+gardena   959389657  9  7 f   -     -     -         3835    0    0 
+gardena   959389697 10  7 f   -     -     -         3835    0    0 
+gardena   959389727 10  6 f   -     -     -         3835    0    0 
+gardena   959389782 10  5 f   -     -     -         3835    0    0 
+gardena   959389808 10  5 f   -     -     -         3835    0    0 
+gardena   959389844  9  3 f   -     -     -         3835    0    0 
+gardena   959389886  9  2 Bk  kf    -     -         3835   20    0 
+gardena   959389929  9  1 Bf  -     -     -         3815   10    0 
+gardena   959389956  9  9 f   -     -     -         3805    0    0 
+gardena   959390010  9  8 f   -     -     -         3805    0    0 
+gardena   959390046  9  7 f   -     -     -         3805    0    0 
+gardena   959390081  9  6 f   -     -     -         3805    0    0 
+gardena   959390118 10  5 f   -     -     -         3805    0    0 
+gardena   959390149 10  4 f   -     -     -         3805    0    0 
+gardena   959390214 10  3 cc  kc    k     k         3805   60    0 Jc 5c
+gardena   959390269 10  2 Bk  kf    -     -         3745   20    0 
+gardena   959390310 10  1 Bf  -     -     -         3725   10    0 
+gardena   959390345 10 10 f   -     -     -         3715    0    0 
+gardena   959390380 10  9 f   -     -     -         3715    0    0 
+gardena   959390418 10  8 f   -     -     -         3715    0    0 
+gardena   959390523 10  7 f   -     -     -         3715    0    0 
+gardena   959390573 10  6 c   f     -     -         3715   20    0 
+gardena   959390626 10  5 ccc kcc   kf    -         3695  160    0 
+gardena   959390720  9  3 cc  b     -     -         3535   60  160 
+gardena   959390770  9  3 f   -     -     -         3635    0    0 
+gardena   959390798  9  2 Bk  kf    -     -         3635   20    0 
+gardena   959390835  9  1 Bc  kc    kf    -         3615   40    0 
+gardena   959390895  9  9 f   -     -     -         3575    0    0 
+gardena   959390923  9  8 f   -     -     -         3575    0    0 
+gardena   959390963  9  7 f   -     -     -         3575    0    0 
+gardena   959390992  9  6 f   -     -     -         3575    0    0 
+gardena   959391030  9  5 f   -     -     -         3575    0    0 
+gardena   959391070  9  4 f   -     -     -         3575    0    0 
+gardena   959391109  9  3 f   -     -     -         3575    0    0 
+gardena   959391152  9  2 Bf  -     -     -         3575   20    0 
+gardena   959391194  9  1 Bf  -     -     -         3555   10    0 
+gardena   959391212  9  9 f   -     -     -         3545    0    0 
+gardena   959391245 10  9 f   -     -     -         3545    0    0 
+gardena   959391268 10  8 f   -     -     -         3545    0    0 
+gardena   959391312 10  7 f   -     -     -         3545    0    0 
+gardena   959391355 10  6 f   -     -     -         3545    0    0 
+gardena   959391400 10  5 f   -     -     -         3545    0    0 
+gardena   959391452 10  4 f   -     -     -         3545    0    0 
+gardena   959391489 10  3 f   -     -     -         3545    0    0 
+gardena   959391552 10  2 Bf  -     -     -         3545   20    0 
+gardena   959391579 10  1 Bf  -     -     -         3525   10    0 
+gardena   959391633 10 10 f   -     -     -         3515    0    0 
+gardena   959391668 10  9 r   -     -     -         3515   40   70 
+gardena   959391686 10  8 f   -     -     -         3545    0    0 
+gardena   959391737 10  7 c   k     f     -         3545   20    0 
+gardena   959391760 10  6 f   -     -     -         3525    0    0 
+gardena   959391769 10  5 f   -     -     -         3525    0    0 
+gardena   959391826 10  4 c   k     kf    -         3525   20    0 
+gardena   959391869 10  3 f   -     -     -         3505    0    0 
+gardena   959391911 10  2 Bf  -     -     -         3505   20    0 
+gardena   959391961 10  1 Bf  -     -     -         3485   10    0 
+gardena   959391995 10 10 r   c     c     c         3475  140  370 Qs Qd
+gardena   959392058 10  9 f   -     -     -         3705    0    0 
+gardena   959392100 10  8 f   -     -     -         3705    0    0 
+gardena   959392144 10  7 f   -     -     -         3705    0    0 
+gardena   959392171 10  6 f   -     -     -         3705    0    0 
+gardena   959392199 10  5 f   -     -     -         3705    0    0 
+gardena   959392249 10  4 f   -     -     -         3705    0    0 
+gardena   959392285 10  3 f   -     -     -         3705    0    0 
+gardena   959392292 10  2 Bf  -     -     -         3705   20    0 
+gardena   959392327 10  1 Bc  k     kc    k         3685   60    0 9c 3c
+gardena   959392378 10 10 f   -     -     -         3625    0    0 
+gardena   959392424 10  9 f   -     -     -         3625    0    0 
+gardena   959392462 10  8 f   -     -     -         3625    0    0 
+gardena   959392492 10  7 f   -     -     -         3625    0    0 
+gardena   959392538 10  6 c   c     k     f         3625   40    0 
+gardena   959392596  9  5 f   -     -     -         3585    0    0 
+gardena   959392629  9  4 cc  k     kf    -         3585   40    0 
+gardena   959392704  9  3 f   -     -     -         3545    0    0 
+gardena   959392813  7  2 Bk  k     k     b         3545   60  140 
+gardena   959392876  7  1 Bcc k     k     kf        3625   40    0 
+gardena   959392921  6  6 f   -     -     -         3585    0    0 
+gardena   959392936  6  5 f   -     -     -         3585    0    0 
+gardena   959392974  6  4 f   -     -     -         3585    0    0 
+gardena   959393008  6  3 f   -     -     -         3585    0    0 
+gardena   959393062  6  2 Bk  k     k     k         3585   20    0 7d 2d
+gardena   959393093  6  1 Bf  -     -     -         3565   10    0 
+gardena   959393137  6  6 f   -     -     -         3555    0    0 
+gardena   959393189  6  5 f   -     -     -         3555    0    0 
+gardena   959393239  6  4 c   k     f     -         3555   20    0 
+gardena   959393270  6  3 f   -     -     -         3535    0    0 
+gardena   959393302  7  2 Bk  kf    -     -         3535   20    0 
+gardena   959393354  7  1 Bf  -     -     -         3515   10    0 
+gardena   959393365  7  7 c   f     -     -         3505   20    0 
+gardena   959393408  6  5 c   k     k     k         3485   20    0 9s Ks
+gardena   959393435  6  4 c   kf    -     -         3465   20    0 
+gardena   959393484  6  3 f   -     -     -         3445    0    0 
+gardena   959393515  6  2 Bf  -     -     -         3445   20    0 
+gardena   959393588  7  1 Bf  -     -     -         3425   10    0 
+gardena   959393647  6  6 f   -     -     -         3415    0    0 
+gardena   959393678  6  5 f   -     -     -         3415    0    0 
+gardena   959393687  6  4 f   -     -     -         3415    0    0 
+gardena   959393723  7  3 f   -     -     -         3415    0    0 
+gardena   959393779  7  2 Bk  k     kf    -         3415   20    0 
+gardena   959393815  7  1 Bf  -     -     -         3395   10    0 
+gardena   959393828  6  6 f   -     -     -         3385    0    0 
+gardena   959393860  7  6 f   -     -     -         3385    0    0 
+gardena   959393880  7  5 f   -     -     -         3385    0    0 
+gardena   959393915  7  4 f   -     -     -         3385    0    0 
+gardena   959393962  8  2 cc  kc    kc    kf        3385  100    0 
+gardena   959394005  8  2 B   -     -     -         3285   20   30 
+gardena   959394016  8  1 Bf  -     -     -         3295   10    0 
+gardena   959394051  8  8 f   -     -     -         3285    0    0 
+gardena   959394072  9  8 rc  c     k     k         3285  120  620 Kd Ks
+gardena   959394135  9  7 f   -     -     -         3785    0    0 
+gardena   959394171  9  6 f   -     -     -         3785    0    0 
+gardena   959394218  9  5 f   -     -     -         3785    0    0 
+gardena   959394273  7  3 c   kf    -     -         3785   20    0 
+gardena   959394334  7  2 Bk  k     kf    -         3765   20    0 
+gardena   959394358  8  1 Bc  k     kf    -         3745   20    0 
+gardena   959394424  8  8 f   -     -     -         3725    0    0 
+gardena   959394450  8  7 f   -     -     -         3725    0    0 
+gardena   959394495  8  6 f   -     -     -         3725    0    0 
+gardena   959394545  8  5 f   -     Q     -         3725    0    0 
+gardena   959395065  6  3 cc  kc    kc    kc        3725  140    0 9h 9s
+gardena   959395112  7  2 Bf  -     -     -         3585   20    0 
+gardena   959395148  7  1 Bc  b     b     b         3565  140  420 Kh Ac
+gardena   959395187  7  7 f   -     -     -         3845    0    0 
+gardena   959395237  7  6 f   -     -     -         3845    0    0 
+gardena   959395258  7  5 f   -     -     -         3845    0    0 
+gardena   959395290  8  5 f   -     -     -         3845    0    0 
+gardena   959395317  8  4 f   -     -     -         3845    0    0 
+gardena   959395343  8  3 fQ  -     -     -         3845    0    0 
+gardena   959725245  7  6 r   b     -     -         4285   60  180 
+gardena   959725290  6  5 f   -     -     -         4405    0    0 
+gardena   959725317  6  4 c   c     c     b         4405  120  280 Td Ts
+gardena   959725362  6  3 c   c     b     b         4565  120  250 
+gardena   959725432  7  2 Bf  -     -     -         4695   20    0 
+gardena   959725446  7  1 Bf  -     -     -         4675   10    0 
+gardena   959725459  7  7 f   -     -     -         4665    0    0 
+gardena   959725495  7  6 f   -     -     -         4665    0    0 
+gardena   959725528  7  5 f   -     -     -         4665    0    0 
+gardena   959725572  7  4 c   kf    -     -         4665   20    0 
+gardena   959725619  7  3 f   -     -     -         4645    0    0 
+gardena   959725663  7  2 Bk  k     k     k         4645   20    0 3d Jh
+gardena   959725720  7  1 Bf  -     -     -         4625   10    0 
+gardena   959725747  7  7 c   c     f     -         4615   40    0 
+gardena   959725786  6  5 f   -     -     -         4575    0    0 
+gardena   959725799  6  4 f   -     -     -         4575    0    0 
+gardena   959725830  6  3 c   kf    -     -         4575   20    0 
+gardena   959725868  6  2 Bf  -     -     -         4555   20    0 
+gardena   959725893  6  1 Bf  -     -     -         4535   10    0 
+gardena   959725946  6  6 f   -     -     -         4525    0    0 
+gardena   959725988  6  5 f   -     -     -         4525    0    0 
+gardena   959726047  6  4 c   b     b     -         4525   80  150 
+gardena   959726079  6  3 r   br    b     bc        4595  220    0 Kh Ks
+gardena   959726112  6  2 Bf  -     -     -         4375   20    0 
+gardena   959726156  8  1 Br  kc    k     k         4355   60  120 Ad Jd
+gardena   959726204  8  8 c   c     f     -         4415   60    0 
+gardena   959726267  8  7 c   f     -     -         4355   20    0 
+gardena   959726322  8  6 f   -     -     -         4335    0    0 
+gardena   959726358  9  5 c   f     -     -         4335   20    0 
+gardena   959726406  8  4 cc  kc    kc    kf        4315  100    0 
+gardena   959726477  7  3 f   -     -     -         4215    0    0 
+gardena   959726527  7  2 Bk  k     k     k         4215   20    0 7d 8s
+gardena   959726571  7  1 Bf  -     -     -         4195   10    0 
+gardena   959726614  8  8 f   -     -     -         4185    0    0 
+gardena   959726640  8  7 f   -     -     -         4185    0    0 
+gardena   959726666  8  6 c   k     k     f         4185   20    0 
+gardena   959726731  8  5 f   -     -     -         4165    0    0 
+gardena   959726816  8  4 f   -     -     -         4165    0    0 
+gardena   959726832  7  3 f   -     -     -         4165    0    0 
+gardena   959726881 10  2 Bf  -     -     -         4165   20    0 
+gardena   959726965 10  1 Bc  b     bc    kc        4145  160    0 Ts Qc
+gardena   959727029 10 10 f   -     -     -         3985    0    0 
+gardena   959727058 10  9 f   -     -     -         3985    0    0 
+gardena   959727106 10  8 f   -     -     -         3985    0    0 
+gardena   959727160 10  7 fQ  -     -     -         3985    0    0 

@@ -1,0 +1,227 @@
+seabass   959201317  4  4 f   -     -     -          672    0    0 
+seabass   959201344  4  3 f   -     -     -          672    0    0 
+seabass   959201387  4  2 Bk  kf    -     -          672   10    0 
+seabass   959201425  4  1 Bc  kf    -     -          662   30    0 
+seabass   959201502  4  4 f   -     -     -          632    0    0 
+seabass   959201528  4  3 f   -     -     -          632    0    0 
+seabass   959201548  4  2 Bf  -     -     -          632   10    0 
+seabass   959201567  4  1 Br  b     br    b          622  110  260 Jc Js
+seabass   959201606  4  4 f   -     -     -          772    0    0 
+seabass   959201688  4  3 c   b     b     b          772   60  110 
+seabass   959201739  6  2 Bf  -     -     -          822   10    0 
+seabass   959201856  5  1 Bf  -     -     -          812    5    0 
+seabass   959201920  5  5 f   -     -     -          807    0    0 
+seabass   959201977  6  5 f   -     -     -          807    0    0 
+seabass   959202120  7  4 c   f     -     -          807   10    0 
+seabass   959202197  7  3 f   -     -     -          797    0    0 
+seabass   959202281  7  2 Br  b     b     b          797   70    0 Jh Jc
+seabass   959202324  7  1 Bf  -     -     -          727    5    0 
+seabass   959202420  7  7 f   -     -     -          722    0    0 
+seabass   959202498  7  6 f   -     -     -          722    0    0 
+seabass   959202550  6  4 c   f     -     -          722   10    0 
+seabass   959202572  6  4 c   kc    c     r          712   80  245 Kd Qd
+seabass   959202612  6  3 f   -     -     -          877    0    0 
+seabass   959202668  7  3 c   k     c     c          877   50    0 Ah 8c
+seabass   959202711  7  2 Bf  -     -     -          827   10    0 
+seabass   959202750  7  1 Bf  -     -     -          817    5    0 
+seabass   959202758  7  7 f   -     -     -          812    0    0 
+seabass   959202822  9  7 f   -     -     -          812    0    0 
+seabass   959202893  8  5 f   -     -     -          812    0    0 
+seabass   959202945  9  4 f   -     -     -          812    0    0 
+seabass   959203018  9  3 f   -     -     -          812    0    0 
+seabass   959203130 10  2 Brc k     kf    -          812   30    0 
+seabass   959203215 10  1 Bf  -     -     -          782    5    0 
+seabass   959203262 10 10 f   -     -     -          777    0    0 
+seabass   959203324 10  9 f   -     -     -          777    0    0 
+seabass   959203394  9  7 f   -     -     -          777    0    0 
+seabass   959203414  9  6 f   -     -     -          777    0    0 
+seabass   959203515  9  6 f   -     -     -          777    0    0 
+seabass   959203566  9  5 f   -     -     -          777    0    0 
+seabass   959203614  8  3 r   b     b     f          777   50    0 
+seabass   959203664  8  2 Bk  k     kf    -          727   10    0 
+seabass   959203742  8  1 Bcc bc    k     kf         717   40    0 
+seabass   959203789  9  9 f   -     -     -          677    0    0 
+seabass   959203852  9  8 c   c     b     b          677   60  235 Kc Qd
+seabass   959203932  9  7 f   -     -     -          852    0    0 
+seabass   959203995  9  6 f   -     -     -          852    0    0 
+seabass   959204078  9  5 f   -     -     -          852    0    0 
+seabass   959204142  9  4 f   -     -     -          852    0    0 
+seabass   959204203  8  2 Bk  kc    kc    kc         852   70    0 6d Ad
+seabass   959204254  8  1 Br  bf    -     -          782   30    0 
+seabass   959204288 10 10 r   brc   c     c          752  110  440 Ac As
+seabass   959204375  8  7 f   -     -     -         1082    0    0 
+seabass   959204401  8  7 c   f     -     -         1082   10    0 
+seabass   959204439  8  6 r   b     kf    -         1072   30    0 
+seabass   959204491  8  5 f   -     -     -         1042    0    0 
+seabass   959204512  8  4 r   b     b     kc        1042   70  270 8c 8d
+seabass   959204567  8  3 f   -     -     -         1242    0    0 
+seabass   959204616  8  2 Bk  k     k     k         1242   10    0 8c 5s
+seabass   959204650  6  1 Bf  -     -     -         1232    5    0 
+seabass   959204677  5  5 f   -     -     -         1227    0    0 
+seabass   959204692  5  4 f   -     -     -         1227    0    0 
+seabass   959204705  5  3 c   r     -     -         1227   30   60 
+seabass   959204720  5  2 Bf  -     -     -         1257   10    0 
+seabass   959204748  5  1 Bf  -     -     -         1247    5    0 
+seabass   959204782  5  5 f   -     -     -         1242    0    0 
+seabass   959204804  5  4 f   -     -     -         1242    0    0 
+seabass   959204826  5  3 f   -     -     -         1242    0    0 
+seabass   959204860  5  2 Bk  r     c     c         1242   70    0 Kc Th
+seabass   959204891  5  1 Bc  k     k     k         1172   10    0 Jc 6c
+seabass   959204917  4  4 f   -     -     -         1162    0    0 
+seabass   959204950  4  3 f   -     -     -         1162    0    0 
+seabass   959204959  4  2 Br  k     r     b         1162   80  160 Ac Jd
+seabass   959204987  4  1 Bf  -     -     -         1242    5    0 
+seabass   959205003  4  4 f   -     -     -         1237    0    0 
+seabass   959205023  4  3 c   b     k     k         1237   20   50 9c Jh
+seabass   959205044  4  2 Bc  k     b     k         1267   40  100 7c Ac
+seabass   959205068  4  1 Bc  kr    b     b         1327   70  150 Qh Td
+seabass   959205102  4  4 c   b     k     c         1407   40    0 9c Kc
+seabass   959205142  4  3 c   f     -     -         1367   10    0 
+seabass   959205156  4  2 Bc  kf    -     -         1357   20    0 
+seabass   959205182  4  1 Bf  -     -     -         1337    5    0 
+seabass   959205200  4  4 f   -     -     -         1332    0    0 
+seabass   959205224  4  3 f   -     -     -         1332    0    0 
+seabass   959205251  4  2 Bc  c     c     k         1332   50    0 As 3h
+seabass   959205275  4  1 Bf  -     -     -         1282    5    0 
+seabass   959205299  4  4 cc  f     -     -         1277   30    0 
+seabass   959205330  5  4 f   -     -     -         1247    0    0 
+seabass   959205362  5  3 f   -     -     -         1247    0    0 
+seabass   959205392  7  3 f   -     -     -         1247    0    0 
+seabass   959205440  6  2 Bf  -     -     -         1247   10    0 
+seabass   959205496  7  1 Bc  kc    kc    k         1237   40    0 7c 9h
+seabass   959205536  7  7 f   -     -     -         1197    0    0 
+seabass   959205588  7  6 f   -     -     -         1197    0    0 
+seabass   959205618  7  5 c   b     r     b         1197   80  210 Ad 8h
+seabass   959205670  7  4 f   -     -     -         1327    0    0 
+seabass   959205714  7  3 f   -     -     -         1327    0    0 
+seabass   959205759  7  2 Bk  k     kc    kf        1327   30    0 
+seabass   959205791  7  1 Bf  -     -     -         1297    5    0 
+seabass   959205816  7  7 c   c     f     -         1292   30    0 
+seabass   959205864  7  6 f   -     -     -         1262    0    0 
+seabass   959205896  7  5 f   -     -     -         1262    0    0 
+seabass   959205953  6  3 f   -     -     -         1262    0    0 
+seabass   959206020  6  2 Bk  kf    -     -         1262   10    0 
+seabass   959206042  5  1 Bc  kf    -     -         1252   20    0 
+seabass   959206081  5  5 f   -     -     -         1232    0    0 
+seabass   959206118  5  4 f   -     -     -         1232    0    0 
+seabass   959206133  5  3 r   rr    c     f         1232   80    0 
+seabass   959206157  5  2 Br  b     k     k         1152   30    0 Js Ah
+seabass   959206188  5  1 Bf  -     -     -         1122    5    0 
+seabass   959206214  5  5 f   -     -     -         1117    0    0 
+seabass   959206232  5  4 c   c     r     b         1117   80    0 Ah Kh
+seabass   959206273  4  2 f   -     -     -         1037    0    0 
+seabass   959206304  4  2 Bk  b     b     -         1037   40   60 
+seabass   959206325  4  1 Bf  -     -     -         1057    5    0 
+seabass   959206344  4  4 c   k     r     b         1052   70  140 
+seabass   959206378  4  3 c   c     f     -         1122   20    0 
+seabass   959206403  4  2 Bk  c     c     c         1102   60  120 Ac Kh
+seabass   959206435  5  1 Bc  kf    -     -         1162   10    0 
+seabass   959206482  5  5 r   rc    c     c         1152   90    0 Qh Js
+seabass   959206526  5  4 f   -     -     -         1062    0    0 
+seabass   959206554  5  3 f   -     -     -         1062    0    0 
+seabass   959206630  6  3 f   -     -     -         1062    0    0 
+seabass   959206690  5  1 Bc  kc    kc    kf        1062   50    0 
+seabass   959206764  6  1 Bf  -     -     -         1012    5    0 
+seabass   959206838  6  6 f   -     -     -         1007    0    0 
+seabass   959206857  5  5 c   c     c     c         1007   70  165 8d Ad
+seabass   959206889  5  4 f   -     -     -         1102    0    0 
+seabass   959206927  6  3 f   -     -     -         1102    0    0 
+seabass   959206955  7  2 Bf  -     -     -         1102   10    0 
+seabass   959206972  7  1 Bc  kf    -     -         1092   10    0 
+seabass   959207021  7  7 f   -     -     -         1082    0    0 
+seabass   959207084  7  6 f   -     -     -         1082    0    0 
+seabass   959207145  7  5 f   -     -     -         1082    0    0 
+seabass   959207197  7  4 c   c     c     k         1082   50    0 Ts 9s
+seabass   959207261  6  3 f   -     -     -         1032    0    0 
+seabass   959207324  6  2 Bk  k     b     -         1032   30   45 
+seabass   959207353  7  1 Bf  -     -     -         1047    5    0 
+seabass   959207384  7  7 f   -     -     -         1042    0    0 
+seabass   959207427  6  5 f   -     -     -         1042    0    0 
+seabass   959207457  6  4 f   -     -     -         1042    0    0 
+seabass   959207508  7  4 f   -     -     -         1042    0    0 
+seabass   959207548  6  3 f   -     -     -         1042    0    0 
+seabass   959207574  6  2 Bf  -     -     -         1042   10    0 
+seabass   959207610  6  1 Bf  -     -     -         1032    5    0 
+seabass   959207652  6  6 f   -     -     -         1027    0    0 
+seabass   959207679  7  5 c   fQ    -     -         1027   10    0 
+seabass   959209537  8  7 c   cc    c     rr        1017  130    0 Kd Td
+seabass   959209605  8  6 f   -     -     -          887    0    0 
+seabass   959209683  8  5 f   -     -     -          887    0    0 
+seabass   959209746  8  4 r   r     rc    f          887  100    0 
+seabass   959209824  9  3 c   cc    f     -          787   40    0 
+seabass   959209867  9  2 Bf  -     -     -          747   10    0 
+seabass   959209922  9  1 Bc  kf    -     -          737   10    0 
+seabass   959209983  8  8 c   b     b     c          727   60  175 7s Ad
+seabass   959210031  8  7 f   -     -     -          842    0    0 
+seabass   959210077  8  6 f   -     -     -          842    0    0 
+seabass   959210122  8  5 f   -     -     -          842    0    0 
+seabass   959210175  9  5 c   kc    kf    -          842   20    0 
+seabass   959210233 10  5 f   -     -     -          822    0    0 
+seabass   959210288 10  4 f   -     -     -          822    0    0 
+seabass   959210347 10  3 f   -     -     -          822    0    0 
+seabass   959210388 10  2 Bk  k     kf    -          822   10    0 
+seabass   959210423 10  1 Bc  kf    -     -          812   20    0 
+seabass   959210474 10 10 f   -     -     -          792    0    0 
+seabass   959210522 10  9 f   -     -     -          792    0    0 
+seabass   959210564 10  8 f   -     -     -          792    0    0 
+seabass   959210608 10  7 f   -     -     -          792    0    0 
+seabass   959210654 10  6 r   c     c     f          792   50    0 
+seabass   959210701 10  5 rc  rc    kf    -          742   60    0 
+seabass   959210745 10  4 f   -     -     -          682    0    0 
+seabass   959210785 10  3 r   bc    kc    b          682   80  245 
+seabass   959210831 10  2 Bf  -     -     -          847   10    0 
+seabass   959210913 10  1 Bcc kf    -     -          837   20    0 
+seabass   959210975  9  9 rc  r     r     c          817  120  235 Ah Ks
+seabass   959211077  9  7 f   -     -     -          932    0    0 
+seabass   959211133  9  7 f   -     -     -          932    0    0 
+seabass   959211188 10  6 f   -     -     -          932    0    0 
+seabass   959211278 10  5 f   -     -     -          932    0    0 
+seabass   959211344 10  4 c   f     -     -          932   10    0 
+seabass   959211418  9  3 f   -     -     -          922    0    0 
+seabass   959211447  9  2 Bk  kr    b     -          922   50   90 
+seabass   959211487 10  1 Bf  -     -     -          962    5    0 
+seabass   959211553 10 10 f   -     Q     -          957    0    0 
+seabass   959262807 10  3 f   -     -     -         1637    0    0 
+seabass   959262853 10  2 Bf  -     -     -         1637   10    0 
+seabass   959262941 10  1 Bc  kf    -     -         1627   10    0 
+seabass   959263007 10 10 f   -     -     -         1617    0    0 
+seabass   959263081 10  9 f   -     -     -         1617    0    0 
+seabass   959263117 10  8 rc  cf    -     -         1617   40    0 
+seabass   959263172 10  7 f   -     -     -         1577    0    0 
+seabass   959263198 10  6 f   -     -     -         1577    0    0 
+seabass   959263287  9  4 f   -     -     -         1577    0    0 
+seabass   959263330  9  4 f   -     -     -         1577    0    0 
+seabass   959263369  8  2 B   -     -     -         1577   10   15 
+seabass   959263395  8  1 Bc  kf    -     -         1582   10    0 
+seabass   959263442  8  8 f   -     -     -         1572    0    0 
+seabass   959263474  8  7 f   -     -     -         1572    0    0 
+seabass   959263509  8  7 f   -     -     -         1572    0    0 
+seabass   959263545  8  6 f   -     -     -         1572    0    0 
+seabass   959263599  8  5 f   -     -     -         1572    0    0 
+seabass   959263641  6  2 Bk  kf    -     -         1572   10    0 
+seabass   959263665  6  1 Bc  k     b     kc        1562   50    0 5s Ks
+seabass   959263701  5  5 f   -     -     -         1512    0    0 
+seabass   959263744  5  4 f   -     -     -         1512    0    0 
+seabass   959263780  5  3 f   -     -     -         1512    0    0 
+seabass   959263801  6  2 Bf  -     -     -         1512   10    0 
+seabass   959263828  6  1 Bf  -     -     -         1502    5    0 
+seabass   959263848  6  6 f   -     -     -         1497    0    0 
+seabass   959263883  6  5 f   -     -     -         1497    0    0 
+seabass   959263906  6  4 r   b     b     -         1497   50   90 
+seabass   959263938  6  3 f   -     -     -         1537    0    0 
+seabass   959264001  6  2 Bk  kf    -     -         1537   10    0 
+seabass   959264035  6  1 Bf  -     -     -         1527    5    0 
+seabass   959264049  6  6 f   -     -     -         1522    0    0 
+seabass   959264090  6  5 f   -     -     -         1522    0    0 
+seabass   959264117  6  4 f   -     -     -         1522    0    0 
+seabass   959264141  7  4 f   -     -     -         1522    0    0 
+seabass   959264178  7  3 f   -     -     -         1522    0    0 
+seabass   959264184  7  2 Bk  kf    -     -         1522   10    0 
+seabass   959264218  8  1 Bc  k     kf    -         1512   10    0 
+seabass   959264260  9  9 f   -     -     -         1502    0    0 
+seabass   959264281  9  8 f   -     -     -         1502    0    0 
+seabass   959264322  9  7 f   -     -     -         1502    0    0 
+seabass   959264373  9  6 f   -     -     -         1502    0    0 
+seabass   959264428  9  5 f   -     -     -         1502    0    0 
+seabass   959264459 10  5 f   -     -     -         1502    0    0 
+seabass   959264541 10  3 Q   -     -     -         1502    0    0 

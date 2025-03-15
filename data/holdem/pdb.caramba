@@ -1,0 +1,144 @@
+caramba   958420747 10  6 c   f     -     -         1370   10    0 
+caramba   958420797 10  5 f   -     -     -         1270    0    0 
+caramba   958420880 10  4 f   -     -     -         1270    0    0 
+caramba   958420946 10  3 f   -     -     -         1270    0    0 
+caramba   958420994 10  2 BQ  -     -     -         1270   10    0 
+caramba   958684050  9  9 f   -     -     -         2036    0    0 
+caramba   958684172 10  8 f   -     -     -         2036    0    0 
+caramba   958684245 10  7 c   f     -     -         2036   20    0 
+caramba   958684358 10  6 f   -     -     -         2016    0    0 
+caramba   958684430 10  5 c   rc    kc    k         2016   60    0 8h 8c
+caramba   958684515 10  4 f   -     -     -         1956    0    0 
+caramba   958684557 10  3 f   -     -     -         1956    0    0 
+caramba   958684654 10  2 Bk  kf    -     -         1956   10    0 
+caramba   958684695 10  1 Bf  -     -     -         1946    5    0 
+caramba   958684749 10 10 c   k     k     f         1941   10    0 
+caramba   958684794 10  9 f   -     -     -         1931    0    0 
+caramba   958684870 10  8 f   -     -     -         1931    0    0 
+caramba   958684911 10  7 f   -     -     -         1931    0    0 
+caramba   958684992 10  6 f   -     -     -         1931    0    0 
+caramba   958685104 10  5 f   -     -     -         1931    0    0 
+caramba   958685208  9  3 f   -     -     -         1931    0    0 
+caramba   958685253  9  2 Bc  f     -     -         1931   20    0 
+caramba   958685318  9  1 Bc  kc    kr    b         1911   80  200 Th Ks
+caramba   958685400 10 10 c   k     k     f         2031   10    0 
+caramba   958685463 10  9 f   -     -     -         2021    0    0 
+caramba   958685519 10  8 f   -     -     -         2021    0    0 
+caramba   958685604 10  7 cc  bc    r     rc        2021  140    0 Qs 5s
+caramba   958685696 10  6 f   -     -     -         1881    0    0 
+caramba   958685764 10  5 f   Q     -     -         1881    0    0 
+caramba   959383102  7  7 f   -     -     -         1974    0    0 
+caramba   959383151  7  6 f   -     -     -         1974    0    0 
+caramba   959383207  7  5 f   -     -     -         1974    0    0 
+caramba   959383229  6  4 f   -     -     -         1974    0    0 
+caramba   959383258  5  3 r   b     bc    kc        1974   90  230 Ah Jc
+caramba   959383301  5  2 Bf  -     -     -         2114   10    0 
+caramba   959383330  5  1 Bcc bc    kc    kc        2104   80    0 Qc 7s
+caramba   959383362  5  5 f   -     -     -         2024    0    0 
+caramba   959383371  5  4 f   -     -     -         2024    0    0 
+caramba   959383397  4  3 c   c     f     -         2024   20    0 
+caramba   959383422  4  2 Bk  cr    cc    cc        2004  120    0 7d Jc
+caramba   959383472  4  1 Bc  k     kf    -         1884   20    0 
+caramba   959383501  4  4 rc  c     c     c         1864   90    0 Kh Jd
+caramba   959383545  4  3 f   -     -     -         1774    0    0 
+caramba   959383551  4  2 Br  br    kc    kc        1774  100    0 Td Ts
+caramba   959383591  4  1 Br  b     b     -         1674   50  110 
+caramba   959383616  4  4 f   -     -     -         1734    0    0 
+caramba   959383652  4  3 ccc f     -     -         1734   40    0 
+caramba   959383684  4  2 Bf  -     -     -         1694   10    0 
+caramba   959383715  4  1 Bc  kf    -     -         1684   10    0 
+caramba   959383732  4  4 f   -     -     -         1674    0    0 
+caramba   959383739  4  3 r   b     b     bc        1674   90  185 Jc Jh
+caramba   959383767  4  2 Bf  -     -     -         1769   10    0 
+caramba   959383792  4  1 Bc  kf    -     -         1759   10    0 
+caramba   959383818  4  4 f   -     -     -         1749    0    0 
+caramba   959383824  4  3 cc  b     b     c         1749   70    0 Js Ts
+caramba   959383871  4  2 Bk  r     b     b         1679   70    0 Ts 4d
+caramba   959383905  4  1 Bf  -     -     -         1609    5    0 
+caramba   959383914  4  4 cc  f     -     -         1604   20    0 
+caramba   959383943  4  3 r   b     b     b         1584   70  145 Ks As
+caramba   959383974  4  2 Bc  f     -     -         1659   20    0 
+caramba   959383999  4  1 Bf  -     -     -         1639    5    0 
+caramba   959384043  4  4 f   -     -     -         1634    0    0 
+caramba   959384073  4  3 f   -     -     -         1634    0    0 
+caramba   959384110  4  2 Br  bc    kr    br        1634  150  315 Kc Qh
+caramba   959384140  4  1 Bf  -     -     -         1799    5    0 
+caramba   959384156  4  4 cc  f     -     -         1794   20    0 
+caramba   959384171  4  3 f   -     -     -         1774    0    0 
+caramba   959384198  4  2 Bc  br    kc    kf        1774   70    0 
+caramba   959384241  4  1 Bf  -     -     -         1704    5    0 
+caramba   959384274  4  4 rc  b     c     rc        1699  130  305 Ah Ks
+caramba   959384328  4  3 rc  ccc   c     f         1874  100    0 
+caramba   959384365  3  1 Bc  kf    -     -         1774   20    0 
+caramba   959384382  3  1 Bf  -     -     -         1754    5    0 
+caramba   959384388  3  3 f   -     -     -         1749    0    0 
+caramba   959384417  4  3 f   -     -     -         1749    0    0 
+caramba   959384423  3  2 Bk  f     -     -         1749   10    0 
+caramba   959384451  3  1 Bc  k     k     k         1739   10    0 9d 3s
+caramba   959384484  3  3 r   b     -     -         1729   30   60 
+caramba   959384504  3  2 Bf  -     -     -         1759   10    0 
+caramba   959384513  3  1 Bc  kc    kf    -         1749   30    0 
+caramba   959384538  3  3 cc  c     k     k         1719   30   65 3h Ah
+caramba   959384590  2  2 B   -     -     -         1754   10   15 
+caramba   959702088  3  3 f   -     -     -         1759    0    0 
+caramba   959702117  3  2 Brc kc    kf    -         1759   40    0 
+caramba   959702137  4  1 Bf  -     -     -         1719    5    0 
+caramba   959702152  4  4 cc  f     -     -         1714   20    0 
+caramba   959702192  3  2 r   -     -     -         1694   20   30 
+caramba   959702208  3  2 Bf  -     -     -         1704   10    0 
+caramba   959702219  3  1 Brc kc    k     k         1694   40   40 Jh Kc
+caramba   959702249  3  3 f   -     -     -         1694    0    0 
+caramba   959702257  4  2 Bf  -     -     -         1694   10    0 
+caramba   959702288  4  1 Bf  -     -     -         1684    5    0 
+caramba   959702344  4  4 r   k     r     -         1679   70  155 
+caramba   959702384  4  3 f   -     -     -         1764    0    0 
+caramba   959702418  4  2 Bk  kf    -     -         1764   10    0 
+caramba   959702439  4  1 Bf  -     -     -         1754    5    0 
+caramba   959702473  4  4 f   -     -     -         1749    0    0 
+caramba   959702480  4  3 cc  b     -     -         1749   30   80 
+caramba   959702514  5  2 Br  b     -     -         1799   30   60 
+caramba   959702541  5  1 Bf  -     -     -         1829    5    0 
+caramba   959702589  5  5 f   -     -     -         1824    0    0 
+caramba   959702642  5  4 f   -     -     -         1824    0    0 
+caramba   959702664  5  3 f   -     -     -         1824    0    0 
+caramba   959702691  5  2 Brc k     b     b         1824   80  203 
+caramba   959702733  4  1 Bf  -     -     -         1947    5    0 
+caramba   959702753  4  4 f   -     -     -         1942    0    0 
+caramba   959702784  4  3 f   -     -     -         1942    0    0 
+caramba   959702832  4  2 Bc  c     c     b         1942   70  140 8c Ks
+caramba   959702879  4  1 Bf  -     -     -         2012    5    0 
+caramba   959702919  4  4 f   -     -     -         2007    0    0 
+caramba   959702942  4  3 cc  kc    kc    c         2007   70    0 Jd 9d
+caramba   959702994  4  2 Bk  b     b     bf        1937   60    0 
+caramba   959703039  4  1 Bf  -     -     -         1877    5    0 
+caramba   959703063  5  5 rc  b     b     b         1872   90  255 9s As
+caramba   959703132  5  4 r   k     b     -         2037   40   85 
+caramba   959703163  5  3 f   -     -     -         2082    0    0 
+caramba   959703202  5  2 Bk  k     k     kf        2082   10    0 
+caramba   959703242  5  1 Bf  -     -     -         2072    5    0 
+caramba   959703287  4  4 f   -     -     -         2067    0    0 
+caramba   959703325  4  3 rc  kc    kc    kc        2067   80    0 Qh Ks
+caramba   959703358  4  2 Bf  -     -     -         1987   10    0 
+caramba   959703397  4  1 Br  kc    bf    -         1977   50    0 
+caramba   959703438  3  3 f   -     -     -         1927    0    0 
+caramba   959703455  3  3 r   b     b     -         1927   50   85 
+caramba   959703490  3  2 Brr rc    c     c         1962  110  260 Qs Ac
+caramba   959703539  3  1 Bf  -     -     -         2112    5    0 
+caramba   959703553  3  3 f   -     -     -         2107    0    0 
+caramba   959703567  3  2 Brc f     -     -         2107   30    0 
+caramba   959703622  3  1 Bc  b     b     -         2077   40   60 
+caramba   959703649  3  2 Bc  b     rf    -         2097   70    0 
+caramba   959703696  5  1 Bf  -     -     -         2027    5    0 
+caramba   959703731  5  5 r   b     b     b         2022   70  165 Kh Jc
+caramba   959703766  7  6 f   -     -     -         2117    0    0 
+caramba   959703809  7  5 f   -     -     -         2117    0    0 
+caramba   959703840  7  4 f   -     -     -         2117    0    0 
+caramba   959703867  7  3 f   -     -     -         2117    0    0 
+caramba   959703908  7  2 Bk  c     rc    c         2117  100  230 Ac 6d
+caramba   959703944  7  1 Bf  -     -     -         2247    5    0 
+caramba   959704002  6  6 c   b     b     -         2242   40  100 
+caramba   959704033  6  5 f   -     -     -         2302    0    0 
+caramba   959704070  6  4 c   b     b     k         2302   40    0 Jd 9d
+caramba   959704108  6  3 f   -     -     -         2262    0    0 
+caramba   959704159  6  2 Bk  bc    kc    kc        2262   90    0 8h Qh
+caramba   959704407  5  1 Bf  Q     -     -         2172    5    0 

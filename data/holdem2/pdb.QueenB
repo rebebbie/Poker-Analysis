@@ -1,0 +1,72 @@
+QueenB    959551689  3  3 c   k     c     f         2199   60    0 
+QueenB    959551716  3  2 Bk  k     c     c         2139  100    0 3s Jd
+QueenB    959551734  3  1 Bc  k     k     k         2039   20   40 5c Qd
+QueenB    959551756  3  3 cc  f     -     -         2059   40    0 
+QueenB    959551786  3  2 Bc  c     c     f         2019  100    0 
+QueenB    959551803  3  1 Bc  k     k     k         1919   20    0 Js 2h
+QueenB    959551823  3  3 cc  c     c     k         1899  120    0 Jc Kc
+QueenB    959551857  3  2 Bk  c     c     b         1779  120  200 
+QueenB    959551885  3  1 Bc  kf    -     -         1859   40    0 
+QueenB    959551924  3  3 cc  c     c     b         1819  140  300 4c 5d
+QueenB    959551943  3  2 Bc  f     -     -         1979   60    0 
+QueenB    959551957  3  1 Bc  kf    -     -         1919   40    0 
+QueenB    959551964  3  3 cc  f     -     -         1879   60    0 
+QueenB    959551986  4  2 Bc  c     c     k         1819  100  200 3c 9c
+QueenB    959552004  4  1 Bc  kc    kf    -         1919   60    0 
+QueenB    959552046  4  4 cc  c     r     k         1859  140    0 Ad 8h
+QueenB    959552077  3  2 Bc  kf    -     -         1719   40    0 
+QueenB    959552096  3  1 Bc  kf    -     -         1679   20    0 
+QueenB    959552103  3  3 c   k     k     k         1659   20   25 7d 4d
+QueenB    959552117  3  2 Bc  k     kc    kc        1664  120    0 Js Jd
+QueenB    959552133  3  1 Bc  k     k     k         1544   20    0 Jh 8h
+QueenB    959552147  3  3 c   c     k     k         1524   40    0 Th 5s
+QueenB    959552161  3  2 Bc  c     c     r         1484  180  200 Ts Qh
+QueenB    959552187  4  1 Bc  k     k     kc        1504   60    0 2h 5d
+QueenB    959552204  4  4 c   k     c     c         1444  100    0 3c 5d
+QueenB    959552222  4  3 cc  kr    k     b         1344  120  310 3c 3s
+QueenB    959552248  4  2 Bc  cc    k     k         1534  100  300 Ah Qc
+QueenB    959552273  4  1 Bc  k     k     k         1734   20    0 As 8h
+QueenB    959552286  4  4 c   c     f     -         1714   40    0 
+QueenB    959552302  4  3 c   c     c     c         1674  120    0 Ks Jc
+QueenB    959552316  3  2 Bk  f     -     -         1554   20    0 
+QueenB    959552329  3  1 Bc  k     k     k         1534   20    0 3c Jc
+QueenB    959552347  3  3 c   k     c     k         1514   60   65 2d 5s
+QueenB    959552366  3  2 Bc  c     f     -         1519   60    0 
+QueenB    959552388  4  1 Bc  kc    kc    kc        1459  140    0 2c 2s
+QueenB    959552414  4  4 c   c     c     k         1319   80  210 8s 9h
+QueenB    959552442  4  3 cc  kf    -     -         1449   40    0 
+QueenB    959552472  4  2 Bc  kf    -     -         1409   40    0 
+QueenB    959552490  4  1 Bc  kc    k     k         1369   40  140 Kc Kd
+QueenB    959552527  5  5 c   k     k     k         1469   20   60 Qh Js
+QueenB    959552556  5  4 c   k     c     f         1509   60    0 
+QueenB    959552589  6  4 cc  c     c     b         1449  140  300 Tc 8d
+QueenB    959552613  7  4 c   k     b     -         1609   60  100 
+QueenB    959552642  7  3 c   c     c     b         1649  120  280 
+QueenB    959552686  7  2 Bc  kf    -     -         1809   40    0 
+QueenB    959552708  7  1 Bc  kc    kf    -         1769   40    0 
+QueenB    959552754  7  7 c   k     k     f         1729   20    0 
+QueenB    959552800  7  6 c   c     k     k         1709   40    0 Qs 3s
+QueenB    959552881  7  5 c   kf    -     -         1669   20    0 
+QueenB    959552930  7  4 cc  kf    -     -         1649   40    0 
+QueenB    959552962  7  3 cc  c     krc   k         1609  180  610 3h 8h
+QueenB    959553014  7  2 Bc  f     -     -         2039   40    0 
+QueenB    959553107  6  1 Bc  k     k     k         1999   40    0 4d 3c
+QueenB    959553183  3  3 c   c     c     f         1959   80    0 
+QueenB    959553219  3  1 B   -     -     -         1879   20   20 
+QueenB    959553273  3  1 Bc  kc    kc    kc        1879  120    0 3d 6s
+QueenB    959553308  3  3 c   c     c     rc        1759  200  420 3s 4h
+QueenB    959553362  5  3 c   k     f     -         1979   20    0 
+QueenB    959553387  4  2 Bc  c     kf    -         1959  100    0 
+QueenB    959553413  4  1 Bc  kc    kc    k         1859  100    0 9s 3c
+QueenB    959553443  4  4 c   f     -     -         1759   20    0 
+QueenB    959553475  4  3 cc  k     kf    -         1739   40    0 
+QueenB    959553497  4  2 Bc  c     f     -         1699   80    0 
+QueenB    959553528  4  1 Bc  kf    -     -         1619   40    0 
+QueenB    959553555  4  4 c   c     c     k         1579  160    0 4c Ad
+QueenB    959553577  4  3 ccc c     r     b         1419  220  560 Ah Th
+QueenB    959553600  5  2 Bc  krr   k     brrc      1759  380  830 2h 8c
+QueenB    959553637  6  1 Bc  k     kc    kc        2209  100  220 Qc Js
+QueenB    959553676  6  6 c   c     c     f         2329   80    0 
+QueenB    959553718  5  4 cc  f     -     -         2249   40    0 
+QueenB    959553763  5  3 cc  kc    kc    k         2209  100    0 3h Kh
+QueenB    959553813  5  2 Bc  kQ    -     -         2109   40    0 

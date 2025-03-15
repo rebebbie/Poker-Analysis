@@ -1,0 +1,25 @@
+tensin    958422704  8  3 f   -     -     -         1315    0    0 
+tensin    958422734  9  2 Bc  kc    kc    kf        1315   50    0 
+tensin    958422806  9  1 Bc  kf    -     -         1265   20    0 
+tensin    958422858  9  9 c   b     c     r         1245   90    0 Tc Td
+tensin    958422902  9  8 f   -     -     -         1155    0    0 
+tensin    958422968  9  7 f   -     -     -         1155    0    0 
+tensin    958423043  9  6 f   -     -     -         1155    0    0 
+tensin    958423117  9  5 f   -     -     -         1155    0    0 
+tensin    958423171  9  4 c   c     c     c         1155   60    0 Tc Ks
+tensin    958423242  8  3 f   -     -     -         1095    0    0 
+tensin    958423304  8  2 Bc  kf    -     -         1095   20    0 
+tensin    958423338  8  1 Bc  kf    -     -         1075   10    0 
+tensin    958423422 10  9 c   k     c     k         1065   30    0 Kc Qh
+tensin    958423457 10  8 c   f     -     -         1035   10    0 
+tensin    958423519 10  7 f   -     -     -         1025    0    0 
+tensin    958423572 10  6 f   -     -     -         1025    0    0 
+tensin    958423650 10  5 f   -     -     -         1025    0    0 
+tensin    958423701 10  4 cc  kc    k     k         1025   30    0 9c 9h
+tensin    958423778 10  3 cc  f     -     -          995   20    0 
+tensin    958423854 10  2 Bc  kf    -     -          975   20    0 
+tensin    958423906 10  1 Bc  kc    kc    kf         955   60    0 
+tensin    958423962 10 10 f   -     -     -          895    0    0 
+tensin    958424007 10  9 cc  k     f     -          895   20    0 
+tensin    958424091 10  8 f   -     -     -          875    0    0 
+tensin    958424176 10  7 fQ  -     -     -          875    0    0 

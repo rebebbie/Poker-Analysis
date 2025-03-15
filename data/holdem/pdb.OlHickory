@@ -1,0 +1,490 @@
+OlHickory 957153601  5  5 f   -     -     -         1153    0    0 
+OlHickory 957153622  5  4 f   -     -     -         1153    0    0 
+OlHickory 957153656  5  3 f   -     -     -         1153    0    0 
+OlHickory 957153688  5  2 Bk  kf    -     -         1153   10    0 
+OlHickory 957153711  5  1 Bf  -     -     -         1143    5    0 
+OlHickory 957153747  7  7 f   -     -     -         1138    0    0 
+OlHickory 957153781  6  5 f   -     -     -         1138    0    0 
+OlHickory 957153821  7  5 f   -     -     -         1138    0    0 
+OlHickory 957153869  7  4 f   -     -     -         1138    0    0 
+OlHickory 957153897  7  3 f   -     -     -         1138    0    0 
+OlHickory 957153935  8  2 Bk  kf    -     -         1138   10    0 
+OlHickory 957154023  8  1 Bf  -     -     -         1128    5    0 
+OlHickory 957154056  8  8 f   -     -     -         1123    0    0 
+OlHickory 957154088  8  7 f   -     -     -         1123    0    0 
+OlHickory 957154116  8  6 f   -     -     -         1123    0    0 
+OlHickory 957154202  8  5 f   -     -     -         1123    0    0 
+OlHickory 957154232  7  4 f   -     -     -         1123    0    0 
+OlHickory 957154282  8  3 c   kf    -     -         1123   10    0 
+OlHickory 957154392  7  1 Bk  f     -     -         1113   10    0 
+OlHickory 957154445  7  1 Bf  -     -     -         1103    5    0 
+OlHickory 957154488  6  6 c   c     c     r         1098   80    0 9d Td
+OlHickory 957154525  6  5 f   -     -     -         1018    0    0 
+OlHickory 957154565  7  5 f   -     -     -         1018    0    0 
+OlHickory 957154600  8  5 c   b     br    b         1018  100  350 Ac 6c
+OlHickory 957154677  8  4 f   -     -     -         1268    0    0 
+OlHickory 957154705  7  3 f   -     -     -         1268    0    0 
+OlHickory 957154747  7  2 Bk  k     kf    -         1268   10    0 
+OlHickory 957154811  8  1 Bf  -     -     -         1258    5    0 
+OlHickory 957154860  8  8 f   -     -     -         1253    0    0 
+OlHickory 957154903  8  7 f   -     -     -         1253    0    0 
+OlHickory 957154965  8  6 f   -     -     -         1253    0    0 
+OlHickory 957155064  7  4 f   -     -     -         1253    0    0 
+OlHickory 957155107  7  3 f   -     -     -         1253    0    0 
+OlHickory 957155136  7  2 Bk  kf    -     -         1253   10    0 
+OlHickory 957155172  7  1 Bc  kf    -     -         1243   30    0 
+OlHickory 957155196  7  7 f   -     -     -         1213    0    0 
+OlHickory 957155226  7  6 f   -     -     -         1213    0    0 
+OlHickory 957155257  7  5 c   c     c     f         1213   70    0 
+OlHickory 957155306  7  4 f   -     -     -         1143    0    0 
+OlHickory 957155364  7  3 f   -     -     -         1143    0    0 
+OlHickory 957155407  7  2 Bk  f     -     -         1143   10    0 
+OlHickory 957155441  6  1 Bf  -     -     -         1133    5    0 
+OlHickory 957155476  6  6 f   -     -     -         1128    0    0 
+OlHickory 957155506  6  5 c   c     f     -         1128   40    0 
+OlHickory 957155526  6  4 crc c     c     rc        1088  130    0 Ah Qc
+OlHickory 957155562  7  4 cr  r     b     b          958   90    0 3h Ac
+OlHickory 957155610  7  3 Q   -     -     -          868    0    0 
+OlHickory 957410690  8  7 f   -     -     -          841    0    0 
+OlHickory 957410760  8  6 rr  bc    kc    rr         841  160  605 Th Ts
+OlHickory 957410889  8  5 rr  krc   bc    kc        1286  130    0 Qc Qd
+OlHickory 957410958  8  4 cQ  -     -     -         1156   10    0 
+OlHickory 957533249  6  3 f   -     -     -         1146    0    0 
+OlHickory 957533286  6  2 Bk  k     k     k         1146   10    0 3h Qc
+OlHickory 957533324  6  1 Bc  k     k     b         1136   30   60 
+OlHickory 957533396  6  6 f   -     -     -         1166    0    0 
+OlHickory 957533429  6  5 cc  b     rr    b         1166  130  380 
+OlHickory 957533487  7  4 c   k     k     c         1416   30    0 8d Qd
+OlHickory 957533590  7  3 f   -     -     -         1386    0    0 
+OlHickory 957533639  8  2 Bk  k     k     kf        1386   10    0 
+OlHickory 957533702  8  1 Bf  -     -     -         1376    5    0 
+OlHickory 957533812  9  9 f   -     -     -         1371    0    0 
+OlHickory 957533873  8  7 f   -     -     -         1371    0    0 
+OlHickory 957533934  7  5 c   b     b     b         1371   60  190 Ts Ks
+OlHickory 957534053  6  3 r   k     rc    c         1501  100    0 Jc Jd
+OlHickory 957534136  7  4 r   r     b     b         1401   80  250 
+OlHickory 957534182  7  3 f   -     -     -         1571    0    0 
+OlHickory 957534244  6  1 Brc kc    kc    k         1571   70    0 Ac Tc
+OlHickory 957534320  6  1 Bf  Q     -     -         1501    5    0 
+OlHickory 957536614  5  4 Q   -     -     -         1496    0    0 
+OlHickory 957739805  2  1 BrQ -     -     -          536   20    0 
+OlHickory 957753755 10 10 cc  k     f     -          516   20    0 
+OlHickory 957753827 10  9 f   -     -     -          496    0    0 
+OlHickory 957753879 10  8 f   -     -     -          496    0    0 
+OlHickory 957753950 10  7 f   -     -     -          496    0    0 
+OlHickory 957753982 10  6 f   -     -     -          496    0    0 
+OlHickory 957754062 10  5 c   c     f     -          496   20    0 
+OlHickory 957754099 10  4 f   -     -     -          476    0    0 
+OlHickory 957754149 10  3 f   -     -     -          476    0    0 
+OlHickory 957754213  9  1 Bk  b     -     -          476   20   40 
+OlHickory 957754234  9  1 Bcc kc    k     kc         496   50    0 6h 6c
+OlHickory 957754315  9  9 f   -     -     -          446    0    0 
+OlHickory 957754372 10  9 f   -     -     -          446    0    0 
+OlHickory 957754413 10  8 f   -     -     -          446    0    0 
+OlHickory 957754467 10  7 c   c     c     f          446   50    0 
+OlHickory 957754508 10  6 f   -     -     -          396    0    0 
+OlHickory 957754539 10  5 f   -     -     -          396    0    0 
+OlHickory 957754565 10  4 f   -     -     -          396    0    0 
+OlHickory 957754619 10  3 f   -     -     -          396    0    0 
+OlHickory 957754676 10  2 Bk  c     kc    kf         396   40    0 
+OlHickory 957754756 10  1 Bc  kf    -     -          356   10    0 
+OlHickory 957754814 10 10 f   -     -     -          346    0    0 
+OlHickory 957754857 10  9 f   -     -     -          346    0    0 
+OlHickory 957754922 10  8 f   -     Q     -          346    0    0 
+OlHickory 958200350  4  2 Bk  b     k     b         1062   40   80 
+OlHickory 958200384  4  1 Bf  -     -     -         1102    5    0 
+OlHickory 958200429  4  4 f   -     -     -         1097    0    0 
+OlHickory 958200460  4  3 c   k     k     k         1097   10   30 2c Qc
+OlHickory 958200492  4  2 Bf  -     -     -         1117   10    0 
+OlHickory 958200539  4  1 Bf  -     -     -         1107    5    0 
+OlHickory 958200548  4  4 f   -     -     -         1102    0    0 
+OlHickory 958200634  3  2 f   -     -     -         1102    0    0 
+OlHickory 958200641  3  2 Bk  k     k     f         1102   10    0 
+OlHickory 958200666  3  1 Bf  -     -     -         1092    5    0 
+OlHickory 958200673  3  3 f   -     -     -         1087    0    0 
+OlHickory 958200700  3  2 Bk  kf    -     -         1087   10    0 
+OlHickory 958200730  3  1 Bf  -     -     -         1077    5    0 
+OlHickory 958200751  3  3 f   -     -     -         1072    0    0 
+OlHickory 958200778  3  2 Bk  f     -     -         1072   10    0 
+OlHickory 958200797  3  1 Bf  -     -     -         1062    5    0 
+OlHickory 958200807  2  2 B   -     -     -         1057   10   15 
+OlHickory 958200809  2  1 Bf  -     -     -         1062    5    0 
+OlHickory 958200812  2  2 B   -     -     -         1057   10   15 
+OlHickory 958200815  2  1 Bf  -     -     -         1062    5    0 
+OlHickory 958200818  2  2 Bf  -     -     -         1057   10    0 
+OlHickory 958200820  2  1 Brr b     b     -         1047   70  120 
+OlHickory 958200841  2  2 Bk  c     c     c         1097   60    0 9c 3d
+OlHickory 958200851  2  1 Bf  -     -     -         1037    5    0 
+OlHickory 958200857  2  2 Br  b     b     b         1032   70  140 Kc Ad
+OlHickory 958200873  2  1 Br  -     -     -         1102   20   30 
+OlHickory 958200878  2  2 Br  k     k     f         1112   20    0 
+OlHickory 958200897  2  1 Bf  -     -     -         1092    5    0 
+OlHickory 958200900  2  2 B   -     -     -         1087   10   15 
+OlHickory 958200903  2  1 Br  b     -     -         1092   30   50 
+OlHickory 958200919  2  2 B   -     -     -         1112   10   15 
+OlHickory 958200921  2  1 Bf  -     -     -         1117    5    0 
+OlHickory 958200925  2  2 B   -     -     -         1112   10   15 
+OlHickory 958200927  2  1 Bf  -     -     -         1117    5    0 
+OlHickory 958200930  2  2 B   -     -     -         1112   10   15 
+OlHickory 958200932  2  1 Bf  -     -     -         1117    5    0 
+OlHickory 958200933  2  2 B   -     -     -         1112   10   15 
+OlHickory 958200934  2  1 Bf  -     -     -         1117    5    0 
+OlHickory 958200937  2  2 B   -     -     -         1112   10   15 
+OlHickory 958200939  2  1 Br  b     k     b         1117   50    0 Qh 2c
+OlHickory 958200956  2  2 B   -     -     -         1067   10   15 
+OlHickory 958200961  2  1 Br  -     -     -         1072   20   30 
+OlHickory 958200966  2  2 B   -     -     -         1082   10   15 
+OlHickory 958200968  2  1 Br  brc   brc   bc        1087  180    0 8s As
+OlHickory 958201002  2  2 B   -     -     -          907   10   15 
+OlHickory 958202276  4  4 c   k     b     f          912   30    0 
+OlHickory 958202315  4  3 f   -     -     -          882    0    0 
+OlHickory 958202347  5  2 Bk  kf    -     -          882   10    0 
+OlHickory 958202429  6  1 Bc  brc   bc    kf         872  100    0 
+OlHickory 958202507  6  6 c   f     -     -          772   10    0 
+OlHickory 958202560  6  5 cc  f     -     -          762   20    0 
+OlHickory 958202584  6  4 c   k     k     kQ         742   10    0 
+OlHickory 958269428 10  3 f   -     -     -          732    0    0 
+OlHickory 958269470 10  2 Bcc kc    b     bc         732  110  325 Kh 8h
+OlHickory 958269549 10  1 Bc  kf    -     -          947   10    0 
+OlHickory 958269621 10 10 r   c     f     -          937   70    0 
+OlHickory 958269715 10  9 f   -     -     -          867    0    0 
+OlHickory 958269742 10  8 f   -     -     -          867    0    0 
+OlHickory 958269757 10  7 f   -     -     -          867    0    0 
+OlHickory 958269804 10  6 f   -     -     -          867    0    0 
+OlHickory 958269854 10  5 f   -     -     -          867    0    0 
+OlHickory 958269884 10  4 f   -     -     -          867    0    0 
+OlHickory 958269951 10  3 cc  c     c     r          867   90  260 7s 8s
+OlHickory 958269998 10  2 BQ  -     -     -         1037   10    0 
+OlHickory 958365769  4  3 r   -     -     -         1282   20   35 
+OlHickory 958365780  4  2 Bc  c     r     -         1297   70  120 
+OlHickory 958365803  5  1 Bf  -     -     -         1347    5    0 
+OlHickory 958365833  4  4 f   -     -     -         1342    0    0 
+OlHickory 958365845  4  4 c   k     f     -         1342   20    0 
+OlHickory 958365889  4  3 f   -     -     -         1322    0    0 
+OlHickory 958365899  4  2 Br  c     c     c         1322   90    0 8s 8c
+OlHickory 958365928  4  1 Bcc kf    -     -         1232   30    0 
+OlHickory 958365957  4  4 f   -     -     -         1202    0    0 
+OlHickory 958366005  4  3 r   k     k     c         1202   40    0 6c 6s
+OlHickory 958366025  4  2 Bf  -     -     -         1162   10    0 
+OlHickory 958366076  4  1 Bcc b     b     bf        1152   80    0 
+OlHickory 958366110  5  4 c   b     b     -         1072   40   80 
+OlHickory 958366143  4  2 Bk  k     k     k         1112   10    0 6c Kd
+OlHickory 958366161  4  1 Bc  b     b     b         1102   60  110 
+OlHickory 958366203  4  4 f   -     -     -         1152    0    0 
+OlHickory 958366251  5  4 cc  c     r     k         1152   70    0 8h 9d
+OlHickory 958366283  4  3 f   -     -     -         1082    0    0 
+OlHickory 958366315  4  2 Bk  b     k     k         1082   20    0 3c 7s
+OlHickory 958366347  4  1 Bc  b     k     k         1062   20    0 Td Kh
+OlHickory 958366367  4  4 c   c     c     c         1042   60    0 6h Th
+OlHickory 958366398  4  3 c   b     -     -          982   20   40 
+OlHickory 958366425  5  2 Bk  bc    kc    kc        1002   70    0 7s Jc
+OlHickory 958366463  4  1 Bf  -     -     -          932    5    0 
+OlHickory 958366471  4  4 c   brc   rc    c          927  130    0 Jh 5h
+OlHickory 958366542  2  2 BrQ -     -     -          797   30    0 
+OlHickory 958785993 10  6 f   -     -     -          832    0    0 
+OlHickory 958786071 10  5 cc  c     f     -          832   30    0 
+OlHickory 958786150 10  4 cc  kcc   k     k          802   80  330 Jd Qh
+OlHickory 958786244 10  3 c   kf    -     -         1052   10    0 
+OlHickory 958786364 10  2 Bk  kf    -     -         1042   10    0 
+OlHickory 958786455 10  1 Bf  -     -     -         1032    5    0 
+OlHickory 958786528 10 10 c   f     -     -         1027   20    0 
+OlHickory 958786645 10  9 f   -     -     -         1007    0    0 
+OlHickory 958786705 10  8 f   -     -     -         1007    0    0 
+OlHickory 958786832 10  7 f   -     -     -         1007    0    0 
+OlHickory 958786900 10  6 c   c     k     c         1007   40  115 7d 8d
+OlHickory 958786951 10  5 c   rr    b     b         1082   90  280 
+OlHickory 958787037 10  4 f   -     -     -         1272    0    0 
+OlHickory 958787136 10  3 f   -     -     -         1272    0    0 
+OlHickory 958787213 10  2 Bc  kf    -     -         1272   20    0 
+OlHickory 958787280 10  1 Bf  -     -     -         1252    5    0 
+OlHickory 958787303 10 10 cc  c     c     r         1247   90  225 6s 5h
+OlHickory 958787353 10  9 cc  f     -     -         1382   20    0 
+OlHickory 958787421 10  8 cc  cc    c     f         1362   80    0 
+OlHickory 958787481  7  5 c   r     c     c         1282   70    0 2h Ad
+OlHickory 958787526  7  3 cc  kc    kc    br        1212  110  235 8h 7s
+OlHickory 958787557  7  2 Bf  -     -     -         1337   10    0 
+OlHickory 958787609  6  1 Bf  -     -     -         1327    5    0 
+OlHickory 958787631  6  6 cc  f     -     -         1322   20    0 
+OlHickory 958787668  6  5 f   -     -     -         1302    0    0 
+OlHickory 958787679  6  4 rr  k     kf    -         1302   40    0 
+OlHickory 958787701  6  3 c   k     k     c         1262   30    0 7h 7c
+OlHickory 958787728  6  2 Bc  kc    kr    brc       1232  150  395 9c 9h
+OlHickory 958787777  8  1 Bf  -     -     -         1477    5    0 
+OlHickory 958787809  8  8 f   -     -     -         1472    0    0 
+OlHickory 958787833  8  7 f   -     -     -         1472    0    0 
+OlHickory 958787872 10  7 f   -     -     -         1472    0    0 
+OlHickory 958787959 10  7 f   -     -     -         1472    0    0 
+OlHickory 958788026 10  5 c   c     f     -         1472   20    0 
+OlHickory 958788061  9  4 f   Q     -     -         1452    0    0 
+OlHickory 958926157  9  7 f   -     -     -         1432    0    0 
+OlHickory 958926229  9  6 f   -     -     -         1432    0    0 
+OlHickory 958926261  8  4 c   kc    kc    kc        1432   80    0 Tc Kc
+OlHickory 958926304  8  3 c   b     k     k         1352   20   70 2d 2c
+OlHickory 958926342  8  2 Bk  f     -     -         1402   10    0 
+OlHickory 958926413  9  1 Bc  kf    -     -         1392   10    0 
+OlHickory 958926460  9  9 f   -     -     -         1382    0    0 
+OlHickory 958926489  9  8 rc  rr    rc    c         1382  160    0 Ks Kc
+OlHickory 958926564 10  8 f   -     -     -         1222    0    0 
+OlHickory 958926627 10  7 f   -     -     -         1222    0    0 
+OlHickory 958926679  9  6 c   bc    cf    -         1222   70    0 
+OlHickory 958926803  9  5 c   k     k     f         1152   10    0 
+OlHickory 958926876  9  4 c   kc    kccc  kf        1142  100    0 
+OlHickory 958926956  9  3 f   -     -     -         1042    0    0 
+OlHickory 958926989  9  2 Bk  kf    -     -         1042   10    0 
+OlHickory 958927052 10  1 Bc  kf    -     -         1032   10    0 
+OlHickory 958927139 10 10 c   f     -     -         1022   10    0 
+OlHickory 958927225 10  9 f   -     -     -         1012    0    0 
+OlHickory 958927283 10  8 r   b     k     cf        1012   50    0 
+OlHickory 958927371 10  7 c   k     kc    f          962   30    0 
+OlHickory 958927520 10  6 c   c     f     -          932   30    0 
+OlHickory 958927608 10  5 c   k     k     k          902   10    0 Qh Js
+OlHickory 958927668 10  4 cc  kc    f     -          892   30    0 
+OlHickory 958927821 10  4 cc  cc    k     f          862   40    0 
+OlHickory 958927913 10  2 Bk  kf    -     -          822   10    0 
+OlHickory 958928004 10  1 Bf  -     -     -          812    5    0 
+OlHickory 958928086  8  8 f   -     -     -          807    0    0 
+OlHickory 958928118  7  6 f   -     -     -          807    0    0 
+OlHickory 958928168  7  5 f   -     -     -          807    0    0 
+OlHickory 958928194  7  4 f   -     -     -          807    0    0 
+OlHickory 958928231  8  4 f   -     -     -          807    0    0 
+OlHickory 958928242  8  3 f   -     -     -          807    0    0 
+OlHickory 958928278  8  2 Bk  k     k     k          807   10   25 Ks Ah
+OlHickory 958928300  8  1 Bf  -     -     -          822    5    0 
+OlHickory 958928328  8  8 f   -     -     -          817    0    0 
+OlHickory 958928368  8  7 f   -     -     -          817    0    0 
+OlHickory 958928413  9  7 f   -     -     -          817    0    0 
+OlHickory 958928445  9  6 f   -     -     -          817    0    0 
+OlHickory 958928497 10  6 f   -     -     -          817    0    0 
+OlHickory 958928542  9  5 f   -     -     -          817    0    0 
+OlHickory 958928587  9  4 f   -     -     -          817    0    0 
+OlHickory 958928620  9  3 f   -     -     -          817    0    0 
+OlHickory 958928672  9  2 Bf  -     -     -          817   10    0 
+OlHickory 958928696  9  1 Bc  kf    -     -          807   10    0 
+OlHickory 958928728  9  9 f   -     -     -          797    0    0 
+OlHickory 958928776  9  8 c   f     -     -          797   10    0 
+OlHickory 958928822  9  7 f   -     -     -          787    0    0 
+OlHickory 958928865 10  7 f   -     -     -          787    0    0 
+OlHickory 958928932 10  6 c   k     f     -          787   10    0 
+OlHickory 958928975 10  5 r   b     b     -          777   50  115 
+OlHickory 958929105  8  3 f   -     -     -          842    0    0 
+OlHickory 958929120  9  2 Bk  kf    -     -          842   10    0 
+OlHickory 958929138 10  1 Bf  -     -     -          832    5    0 
+OlHickory 958929200 10 10 f   -     -     -          827    0    0 
+OlHickory 958929327 10  9 c   k     b     b          827   50  120 Ac Qh
+OlHickory 958929413 10  8 f   -     -     -          897    0    0 
+OlHickory 958929448 10  7 f   -     -     -          897    0    0 
+OlHickory 958929496 10  6 f   -     -     Q          897    0    0 
+OlHickory 958971785  6  6 f   -     -     -          467    0    0 
+OlHickory 958971929  5  4 f   -     -     -          467    0    0 
+OlHickory 958971973  5  4 c   b     KQ    -          467   20    0 
+OlHickory 958972140  6  2 Bk  kc    kf    -          447   20    0 
+OlHickory 958972225  8  1 Bf  -     -     -          427    5    0 
+OlHickory 958972266  8  8 c   f     -     -          422   10    0 
+OlHickory 958972337  9  8 cc  cc    cc    c          412  130  230 7d 8d
+OlHickory 958972421 10  8 c   f     -     -          512   10    0 
+OlHickory 958972481 10  7 f   -     -     -          502    0    0 
+OlHickory 958972546 10  7 f   -     -     -          502    0    0 
+OlHickory 958972622  9  5 f   -     -     -          502    0    0 
+OlHickory 958972676 10  4 f   -     -     -          502    0    0 
+OlHickory 958972749 10  3 f   -     -     -          502    0    0 
+OlHickory 958972842 10  2 Bk  b     b     kf         502   40    0 
+OlHickory 958972910 10  1 Bc  kf    -     -          462   10    0 
+OlHickory 958972952 10 10 f   -     -     -          452    0    0 
+OlHickory 958972995 10  9 f   -     -     -          452    0    0 
+OlHickory 958973043 10  8 f   -     -     -          452    0    0 
+OlHickory 958973129 10  7 f   -     -     -          452    0    0 
+OlHickory 958973203 10  6 f   -     -     -          452    0    0 
+OlHickory 958973279 10  5 f   -     -     -          452    0    0 
+OlHickory 958973316 10  4 f   -     -     -          452    0    0 
+OlHickory 958973354 10  3 f   -     -     -          452    0    0 
+OlHickory 958973447 10  2 Bf  -     -     -          452   10    0 
+OlHickory 958973496 10  1 Bf  -     -     -          442    5    0 
+OlHickory 958973542 10 10 f   -     -     -          437    0    0 
+OlHickory 958973568 10  9 f   -     -     -          437    0    0 
+OlHickory 958973612 10  8 f   -     -     -          437    0    0 
+OlHickory 958973681 10  7 f   -     -     -          437    0    0 
+OlHickory 958973728 10  6 f   -     -     -          437    0    0 
+OlHickory 958973783 10  5 f   -     -     -          437    0    0 
+OlHickory 958973828 10  4 cc  kc    kc    kc         437   70    0 Qc 3c
+OlHickory 958973907 10  3 f   -     -     -          367    0    0 
+OlHickory 958973948 10  2 Bk  kf    -     -          367   10    0 
+OlHickory 958973996 10  1 Bf  -     -     -          357    5    0 
+OlHickory 958974033 10 10 f   -     -     -          352    0    0 
+OlHickory 958974086 10  9 f   -     -     -          352    0    0 
+OlHickory 958974116 10  8 f   -     -     -          352    0    0 
+OlHickory 958974156 10  7 f   -     -     -          352    0    0 
+OlHickory 958974227 10  6 f   -     -     -          352    0    0 
+OlHickory 958974269 10  5 f   -     -     -          352    0    0 
+OlHickory 958974319 10  4 f   -     -     -          352    0    0 
+OlHickory 958974376 10  3 f   -     -     -          352    0    0 
+OlHickory 958974417 10  2 Br  b     b     br         352  120  295 
+OlHickory 958974490 10  1 Bf  -     -     -          527    5    0 
+OlHickory 958974599 10 10 c   c     c     c          522   70    0 8s 9s
+OlHickory 958974655  9  8 c   k     f     -          452   10    0 
+OlHickory 958974706 10  8 f   -     -     -          442    0    0 
+OlHickory 958974777  9  6 c   k     k     k          442   10   40 Kd Qs
+OlHickory 958974821  9  5 f   -     -     -          472    0    0 
+OlHickory 958974861 10  5 f   -     -     -          472    0    0 
+OlHickory 958974873 10  4 f   -     -     -          472    0    0 
+OlHickory 958974915 10  3 f   -     -     -          472    0    0 
+OlHickory 958974968 10  2 Bk  kf    -     -          472   10    0 
+OlHickory 958975026 10  1 Bf  -     -     -          462    5    0 
+OlHickory 958975090  9  9 f   -     -     -          457    0    0 
+OlHickory 958975132  9  8 f   -     -     -          457    0    0 
+OlHickory 958975173  9  7 c   f     -     -          457   10    0 
+OlHickory 958975225  9  6 c   f     -     -          447   10    0 
+OlHickory 958975286  9  5 f   -     -     -          437    0    0 
+OlHickory 958975331 10  5 c   Q     -     -          437   20    0 
+OlHickory 959134514  8  6 r   b     b     b         1845   70  210 Kd Kc
+OlHickory 959134561  8  5 c   kc    b     rr        1985  120  295 Jc Kc
+OlHickory 959134624  9  4 f   -     -     -         2160    0    0 
+OlHickory 959134662  9  3 f   -     -     -         2160    0    0 
+OlHickory 959134713  9  2 Bk  kf    -     -         2160   10    0 
+OlHickory 959134743  9  1 Bf  -     -     -         2150    5    0 
+OlHickory 959134767  8  8 c   k     f     -         2145   10    0 
+OlHickory 959134810  8  7 c   b     -     -         2135   20   45 
+OlHickory 959134835  9  6 f   -     -     -         2160    0    0 
+OlHickory 959134875  9  5 f   -     -     -         2160    0    0 
+OlHickory 959134911  9  5 f   -     -     -         2160    0    0 
+OlHickory 959134927  8  3 f   -     -     -         2160    0    0 
+OlHickory 959134948  8  2 Bk  bc    kc    k         2160   50    0 Ad 9d
+OlHickory 959134992  8  1 Bf  -     -     -         2110    5    0 
+OlHickory 959135020  8  8 f   -     -     -         2105    0    0 
+OlHickory 959135054  9  8 f   -     -     -         2105    0    0 
+OlHickory 959135076  9  7 c   f     -     -         2105   20    0 
+OlHickory 959135121  9  6 c   kcc   cc    c         2085  120  375 Qd Td
+OlHickory 959135181  9  5 r   b     b     b         2340   70  185 
+OlHickory 959135224  9  4 f   -     -     -         2455    0    0 
+OlHickory 959135298  9  3 f   -     -     -         2455    0    0 
+OlHickory 959135306  9  2 Bf  -     -     -         2455   10    0 
+OlHickory 959135360 10  1 BfQ -     -     -         2445    5    0 
+OlHickory 959214710 10  7 cc  f     -     -         1175   40    0 
+OlHickory 959214817 10  6 f   -     -     -         1135    0    0 
+OlHickory 959214902  9  5 f   -     -     -         1105    0    0 
+OlHickory 959214932 10  4 f   -     -     -         1105    0    0 
+OlHickory 959215000 10  3 f   -     -     -         1105    0    0 
+OlHickory 959215068  9  2 Bf  -     -     -         1105   10    0 
+OlHickory 959215123 10  1 Bf  -     -     -         1095    5    0 
+OlHickory 959215178 10 10 f   -     -     -          990    0    0 
+OlHickory 959215260 10  9 c   r     c     c          990   70  240 Kh Js
+OlHickory 959215339  9  7 f   -     -     -         1140    0    0 
+OlHickory 959215409 10  7 f   -     -     -         1130    0    0 
+OlHickory 959215462  9  5 f   -     -     -         1130    0    0 
+OlHickory 959215488  9  4 f   -     -     -         1130    0    0 
+OlHickory 959215557  9  2 f   -     -     -         1130    0    0 
+OlHickory 959215614  8  2 Bk  kf    -     -         1130   10    0 
+OlHickory 959215655  8  1 Bf  -     -     -         1140    5    0 
+OlHickory 959215687  8  8 f   -     -     -         1130    0    0 
+OlHickory 959215719  8  7 f   -     -     -         1130    0    0 
+OlHickory 959215766  8  6 f   -     -     -         1200    0    0 
+OlHickory 959215817  7  4 f   -     -     -         1200    0    0 
+OlHickory 959215864  6  2 f   -     -     -         1200    0    0 
+OlHickory 959215893  7  2 B   -     -     -         1190   10   15 
+OlHickory 959215906  7  1 Bf  -     -     -         1195    5    0 
+OlHickory 959215950  7  7 c   f     -     -         1185   10    0 
+OlHickory 959215979  7  6 cc  kc    krr   b         1175  130  335 Ac 3c
+OlHickory 959216055  8  7 f   -     -     -         1380    0    0 
+OlHickory 959216082  8  6 f   -     -     -         1380    0    0 
+OlHickory 959216164  8  5 f   -     -     -         1340    0    0 
+OlHickory 959216221  7  4 f   -     -     -         1340    0    0 
+OlHickory 959216267  7  3 r   k     k     k         1325   20   95 Kh Ah
+OlHickory 959216338  7  1 Bf  -     -     -         1300   10    0 
+OlHickory 959216377  7  1 Bf  -     -     -         1290    5    0 
+OlHickory 959216415  8  8 f   -     -     -         1285    0    0 
+OlHickory 959216457  8  7 c   k     c     rr        1270  110    0 Ts Ah
+OlHickory 959216525  8  4 Q   -     -     -         1150    0    0 
+OlHickory 959264596 10  3 f   -     -     -         1135    0    0 
+OlHickory 959264656 10  2 Bf  -     -     -         1135   10    0 
+OlHickory 959264780  8  1 Bf  -     -     -         1125    5    0 
+OlHickory 959264843  7  7 f   -     -     -         1120    0    0 
+OlHickory 959264903  7  5 f   -     -     -         1120    0    0 
+OlHickory 959264956  7  4 c   b     -     -         1120   20   45 
+OlHickory 959264979  7  3 r   r     k     k         1145   40    0 Ad Qs
+OlHickory 959265026  6  2 B   -     -     -         1105   10   15 
+OlHickory 959265050  6  1 Bf  -     -     -         1110    5    0 
+OlHickory 959265067  6  6 c   k     k     k         1105   10    0 8d Qs
+OlHickory 959265118  6  5 f   -     -     -         1095    0    0 
+OlHickory 959265168  7  5 f   -     -     -         1095    0    0 
+OlHickory 959265264  5  3 f   -     -     -         1095    0    0 
+OlHickory 959265277  5  2 Bf  -     -     -         1095   10    0 
+OlHickory 959265323  6  1 Bc  bc    kc    kr        1085   90  220 
+OlHickory 959265377  8  8 c   k     b     k         1215   30   80 Th Qh
+OlHickory 959265425  7  4 Q   -     -     -         1265    0    0 
+OlHickory 959345711  7  2 Bk  kf    -     -         1325   10    0 
+OlHickory 959345735  7  1 Bf  -     -     -         1315    5    0 
+OlHickory 959345757  7  7 c   f     -     -         1310   10    0 
+OlHickory 959345817  7  6 f   -     -     -         1300    0    0 
+OlHickory 959345852  7  5 c   r     bc    c         1300   90    0 Ks Jc
+OlHickory 959345908  7  4 c   c     bc    kc        1210   80  220 4c 7c
+OlHickory 959345947  6  2 Bf  -     -     -         1350   10    0 
+OlHickory 959345966  6  1 Bf  -     -     -         1340    5    0 
+OlHickory 959346010  6  6 f   -     -     -         1335    0    0 
+OlHickory 959346071  7  6 c   c     c     k         1335   40    0 5s 4c
+OlHickory 959346107  7  5 f   -     -     -         1295    0    0 
+OlHickory 959346150  7  4 c   k     k     k         1295   20    0 7d Qd
+OlHickory 959346174  7  3 f   -     -     -         1275    0    0 
+OlHickory 959346234  7  2 Bk  kf    -     -         1275   10    0 
+OlHickory 959346295  7  1 Bf  -     -     -         1265    5    0 
+OlHickory 959346307  7  7 f   -     -     -         1260    0    0 
+OlHickory 959346337  7  6 f   -     -     -         1260    0    0 
+OlHickory 959346365  7  5 c   k     b     -         1260   30   60 
+OlHickory 959346411  7  4 f   -     -     -         1290    0    0 
+OlHickory 959346448  7  3 f   -     -     -         1290    0    0 
+OlHickory 959346496  7  2 Bk  b     bc    bc        1290  100    0 4h As
+OlHickory 959346558  7  1 Bf  -     -     -         1190    5    0 
+OlHickory 959346593  7  7 c   b     b     b         1185   60  160 3s Qs
+OlHickory 959346638  7  6 f   -     -     -         1285    0    0 
+OlHickory 959346648  7  6 c   rc    c     c         1285   90    0 Td Jh
+OlHickory 959346697  5  4 f   -     -     -         1195    0    0 
+OlHickory 959346732  5  3 rr  f     -     -         1195   40    0 
+OlHickory 959346780  5  2 Br  c     k     c         1155   50    0 Th Tc
+OlHickory 959346811  6  1 Bc  k     kc    kc        1105   60  170 Kc 5c
+OlHickory 959346889  6  6 f   -     -     -         1215    0    0 
+OlHickory 959346938  6  5 c   c     f     -         1215   20    0 
+OlHickory 959346988  6  4 c   kc    kc    kf        1195   40    0 
+OlHickory 959347040  7  3 c   rc    kc    kc        1155   80    0 8h 8c
+OlHickory 959347100  6  2 Bk  k     k     f         1075   10    0 
+OlHickory 959347166  6  1 Bf  -     -     -         1065    5    0 
+OlHickory 959347194  6  6 c   c     c     f         1060   40    0 
+OlHickory 959347240  6  5 c   c     c     f         1020   40    0 
+OlHickory 959347270  6  4 f   -     -     -          980    0    0 
+OlHickory 959347316  6  3 f   -     -     -          980    0    0 
+OlHickory 959347397  6  2 Bk  bc    b     -          980   50   95 
+OlHickory 959347432  5  1 Bcc kf    -     -         1025   20    0 
+OlHickory 959347464  4  4 c   c     b     bc        1005   80  210 Td 8d
+OlHickory 959347530  5  4 f   -     -     -         1135    0    0 
+OlHickory 959347543  4  3 cc  kc    kc    kf        1135   60    0 
+OlHickory 959347587  4  2 Bk  kf    -     -         1075   10    0 
+OlHickory 959347628  4  1 Bc  kc    bc    brc       1065  150  350 4s 4d
+OlHickory 959347667  4  4 KQ  -     -     -         1265    0    0 
+OlHickory 959347907  5  5 r   b     b     b         1265   70  195 Qc Qd
+OlHickory 959347960  5  4 Q   -     -     -         1390    0    0 
+OlHickory 959715795  8  3 c   b     k     f         5399   20    0 
+OlHickory 959715865  8  2 Bk  kf    -     -         5379   10    0 
+OlHickory 959715992  6  1 Bf  -     -     -         5369    5    0 
+OlHickory 959716043  6  6 c   f     -     -         5364   10    0 
+OlHickory 959716113  6  5 c   k     k     b         5354   30   42 Kh Jc
+OlHickory 959716193  6  4 f   -     -     -         5366    0    0 
+OlHickory 959716234  6  4 f   -     -     -         5366    0    0 
+OlHickory 959716286  5  2 Br  b     -     -         5366   30   70 
+OlHickory 959716330  7  1 Bf  -     -     -         5406    5    0 
+OlHickory 959716354  7  7 rc  k     c     f         5401   50    0 
+OlHickory 959716433  8  6 f   -     -     -         5351    0    0 
+OlHickory 959716483  7  4 c   b     b     b         5351   60  125 
+OlHickory 959716517  7  3 fQ  -     -     -         5416    0    0 
+OlHickory 959810096  9  6 c   f     -     -         6361   10    0 
+OlHickory 959810140 10  5 f   -     -     -         6351    0    0 
+OlHickory 959810193 10  4 cc  k     f     -         6351   20    0 
+OlHickory 959810279 10  3 f   -     -     -         6331    0    0 
+OlHickory 959810373 10  2 Bc  f     -     -         6331   20    0 
+OlHickory 959810437 10  1 Br  bc    kc    kc        6311   90    0 Qh As
+OlHickory 959810508 10 10 f   -     -     -         6221    0    0 
+OlHickory 959810543 10  9 f   -     -     -         6221    0    0 
+OlHickory 959810617 10  9 c   f     -     -         6221   10    0 
+OlHickory 959810724  8  7 f   -     -     -         6211    0    0 
+OlHickory 959810814 10  6 f   -     -     -         6211    0    0 
+OlHickory 959810860 10  5 f   -     -     -         6211    0    0 
+OlHickory 959810955 10  4 f   -     -     -         6211    0    0 
+OlHickory 959810980 10  3 fQ  -     -     -         6211    0    0 
+OlHickory 959825899  9  9 f   -     -     -         8121    0    0 
+OlHickory 959825954 10  5 Q   -     -     -         8121    0    0 

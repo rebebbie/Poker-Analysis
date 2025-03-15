@@ -1,0 +1,110 @@
+dominator 959336775  6  6 r   b     b     r          865   90  180 
+dominator 959336837  6  5 f   -     -     -          955    0    0 
+dominator 959336910  6  4 rc  bc    kc    bc         955  120    0 As Tc
+dominator 959336979  6  3 r   krc   kc    kf         835   70    0 
+dominator 959337042  6  2 Bf  -     -     -          765   10    0 
+dominator 959337053  6  1 Brr b     kc    bc         755  110  360 Qd As
+dominator 959337176  6  6 rr  b     b     b         1005   90  230 6c 6s
+dominator 959337250  7  5 f   -     -     -         1145    0    0 
+dominator 959337327  7  4 f   -     -     -         1145    0    0 
+dominator 959337400  7  3 rc  bc    c     kc        1145  110    0 Kc Kd
+dominator 959337503  8  2 Br  b     b     b         1035   80  265 Jd Jh
+dominator 959337575  8  1 Bc  brc   b     br        1420  140    0 6s Ts
+dominator 959337678  8  4 Q   -     -     -         1700    0    0 
+dominator 959585290  2  1 Brr brc   brc   brf       1000  220    0 
+dominator 959585354  2  2 Brc rr    rr    rf         780  200    0 
+dominator 959585385  2  1 Brr brc   brc   bf         580  180    0 
+dominator 959585417  2  2 Brc rr    rr    rf         400  200    0 
+dominator 959585467  2  1 Brr brc   brc   krAQ       200  200    0 
+dominator 959585535  2  1 Brr brc   brc   brf       1000  220    0 
+dominator 959585603  2  2 Brc rr    rr    rf         780  200    0 
+dominator 959585682  2  1 Brr brc   brc   bf         580  180    0 
+dominator 959585845  2  2 Brc rr    rr    rr         400  240    0 Qh 9d
+dominator 959585956  2  1 Brr brc   brf   -          160  140    0 
+dominator 959586116  2  2 BcA -     -     -           20   20   40 7c 4h
+dominator 959586137  2  1 BrrAQ -     -     -           40   40    0 
+dominator 959586201  2  1 Brr brc   brc   br        1000  220  420 
+dominator 959586360  2  2 B   -     -     -         1200   10   15 
+dominator 959586656  2  1 Brr brc   brc   br        1205  220  420 
+dominator 959586703  2  2 Brc rr    rr    r         1405  200  380 
+dominator 959586724  2  1 Brr brc   brc   br        1585  220  420 
+dominator 959586758  2  2 Brc rr    rc    -         1785  134  268 Tc Ts
+dominator 959586799  2  1 Br  -     -     -         1919   20   30 
+dominator 959586813  2  2 B   -     -     -         1929   10   15 
+dominator 959586815  2  1 Br  -     -     -         1934   20   30 
+dominator 959586819  2  2 B   -     -     -         1944   10   15 
+dominator 959586820  2  1 Br  -     -     -         1949   20   30 
+dominator 959586822  2  2 B   -     -     -         1959   10   15 
+dominator 959586827  2  1 Br  -     -     -         1964   20   30 
+dominator 959586831  2  2 B   -     -     -         1974   10   15 
+dominator 959586835  2  1 Br  -     -     -         1979   20   30 
+dominator 959586873  2  2 B   -     -     -         1989   10   15 
+dominator 959586875  2  1 Br  -     -     -         1994   20   30 
+dominator 959586877  2  2 B   -     -     -         2004   10   15 
+dominator 959586878  2  1 Br  -     -     -         2009   20   30 
+dominator 959586882  2  2 B   -     -     -         2019   10   15 
+dominator 959586885  2  1 Br  -     -     -         2024   20   30 
+dominator 959586889  2  2 B   -     -     -         2034   10   15 
+dominator 959586893  2  1 Br  -     -     -         2039   20   30 
+dominator 959586897  2  2 B   -     -     -         2049   10   15 
+dominator 959586901  2  1 Br  -     -     -         2054   20   30 
+dominator 959586905  2  2 B   -     -     -         2064   10   15 
+dominator 959586909  2  1 Br  -     -     -         2069   20   30 
+dominator 959586913  2  2 B   -     -     -         2079   10   15 
+dominator 959586917  2  1 Br  -     -     -         2084   20   30 
+dominator 959586922  2  2 B   -     -     -         2094   10   15 
+dominator 959586925  2  1 Br  -     -     -         2099   20   30 
+dominator 959586929  2  2 B   -     -     -         2109   10   15 
+dominator 959586933  2  1 Br  -     -     -         2114   20   30 
+dominator 959586938  2  2 B   -     -     -         2124   10   15 
+dominator 959586941  2  1 Br  -     -     -         2129   20   30 
+dominator 959586945  2  2 B   -     -     -         2139   10   15 
+dominator 959586949  2  1 Br  -     -     -         2144   20   30 
+dominator 959586955  2  2 B   -     -     -         2154   10   15 
+dominator 959586957  2  1 Br  -     -     -         2159   20   30 
+dominator 959586963  2  2 B   -     -     -         2169   10   15 
+dominator 959586965  2  1 Br  -     -     -         2174   20   30 
+dominator 959586970  2  2 B   -     -     -         2184   10   15 
+dominator 959586973  2  1 Br  -     -     -         2189   20   30 
+dominator 959586981  2  2 B   -     -     -         2199   10   15 
+dominator 959586985  2  1 Br  -     -     -         2204   20   30 
+dominator 959586991  2  2 B   -     -     -         2214   10   15 
+dominator 959586993  2  1 Br  -     -     -         2219   20   30 
+dominator 959586997  2  2 B   -     -     -         2229   10   15 
+dominator 959587001  2  1 Brr brc   brc   br        2234  220  420 
+dominator 959587033  2  2 Brc rr    rr    r         2434  200  380 
+dominator 959587053  2  1 Brr brc   brc   brc       2614  240  480 8s 7d
+dominator 959587091  2  2 Brc r     k     c         2854   65  130 Qc Ks
+dominator 959587147  2  1 Brr brc   brc   br        2919  220  420 
+dominator 959587174  2  2 BQ  -     -     -         3119   10    0 
+dominator 959674931  7  3 f   -     -     -         1000    0    0 
+dominator 959674987  7  2 Bf  -     -     -         1000   10    0 
+dominator 959675049  8  1 Bf  Q     -     -          990    5    0 
+dominator 959677819 10  8 KQ  -     -     -          985    0    0 
+dominator 959678051  9  5 f   -     -     -          985    0    0 
+dominator 959678119  9  5 f   -     -     -          985    0    0 
+dominator 959678196  9  4 f   -     -     -          985    0    0 
+dominator 959678258 10  3 r   kf    -     -          985   20    0 
+dominator 959678339 10  2 Bf  -     -     -          965   10    0 
+dominator 959678423 10  1 Bf  -     -     -          955    5    0 
+dominator 959678441 10 10 r   k     k     r          950   60  205 Ks Ad
+dominator 959678515 10  9 f   -     -     -         1095    0    0 
+dominator 959678635 10  8 rc  bf    -     -         1095   50    0 
+dominator 959678678 10  7 f   -     -     -         1045    0    0 
+dominator 959678751 10  6 f   -     -     -         1045    0    0 
+dominator 959678810 10  5 rc  f     -     -         1045   30    0 
+dominator 959678919 10  4 rc  kf    -     -         1015   40    0 
+dominator 959678992 10  3 r   b     kf    -          975   30    0 
+dominator 959679077 10  2 Bf  -     -     -          945   10    0 
+dominator 959679128 10  1 Bf  -     -     -          935    5    0 
+dominator 959679206 10 10 f   -     -     -          930    0    0 
+dominator 959679262 10  9 f   -     -     -          930    0    0 
+dominator 959679384 10  8 f   -     -     -          930    0    0 
+dominator 959679444 10  7 r   f     -     -          930   30    0 
+dominator 959679552 10  6 f   -     -     -          900    0    0 
+dominator 959679707  5  2 rc  br    b     bc         900  120    0 Ac 5h
+dominator 959679749  5  2 B   -     -     -          780   10   15 
+dominator 959679835  2  1 BrQ -     -     -          785   20    0 
+dominator 959680153  2  2 B   -     -     -          765   10   15 
+dominator 959680160  2  1 Br  b     -     -          770   30   50 
+dominator 959680171  2  2 BQ  -     -     -          790   10    0 

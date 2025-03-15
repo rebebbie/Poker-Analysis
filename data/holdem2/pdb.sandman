@@ -1,0 +1,849 @@
+sandman   957616958  2  2 Bk  k     k     k         2641   20    0 Kh 5h
+sandman   957616978  2  1 Bc  k     k     k         2621   20   40 8s 7d
+sandman   957616996  2  2 Bk  f     -     -         2641   20    0 
+sandman   957617004  2  1 Bc  bc    k     b         2621  100  160 
+sandman   957617022  2  2 Bk  f     -     -         2681   20    0 
+sandman   957617029  2  1 Bc  k     k     k         2661   20   40 Tc Qc
+sandman   957617040  2  2 Bk  b     k     k         2681   40    0 9c 2h
+sandman   957617058  2  1 Bc  k     b     -         2641   60   80 
+sandman   957617072  2  2 Bk  k     b     -         2661   60   80 
+sandman   957617084  2  1 Bf  -     -     -         2681   10    0 
+sandman   957617087  2  2 Br  b     -     -         2671   60  100 
+sandman   957617108  2  1 Bcc kf    -     -         2711   40    0 
+sandman   957617117  2  2 B   -     -     -         2671   20   30 
+sandman   957617121  2  1 Bf  -     -     -         2681   10    0 
+sandman   957617124  2  2 Bf  -     -     -         2671   20    0 
+sandman   957617127  2  1 Br  k     brc   kc        2651  240    0 9s Ah
+sandman   957617151  2  2 Bk  b     k     f         2411   40    0 
+sandman   957617177  2  1 Bc  k     b     b         2371  100  200 Jh 9h
+sandman   957617192  2  2 Bk  k     c     f         2471   60    0 
+sandman   957617216  2  1 Bc  k     b     k         2411   60    0 Jd 9d
+sandman   957617235  2  2 B   -     -     -         2351   20   30 
+sandman   957617240  2  1 Bf  -     -     -         2361   10    0 
+sandman   957617242  2  2 Bk  k     b     k         2351   60  120 8h 4h
+sandman   957617265  2  1 Bf  -     -     -         2411   10    0 
+sandman   957617271  2  2 Bk  k     k     k         2401   20    0 3s 4s
+sandman   957617286  2  1 Br  k     bc    k         2381  120    0 5s 5c
+sandman   957617301  2  2 Br  b     b     b         2261  140  280 Td As
+sandman   957617325  2  1 Br  k     k     k         2401   40   80 As 9s
+sandman   957617351  2  2 Brc c     f     -         2441  100    0 
+sandman   957617370  2  1 Bf  -     -     -         2341   10    0 
+sandman   957617374  2  2 Bk  k     k     k         2331   20   40 Jh 2d
+sandman   957617393  2  1 Br  -     -     -         2351   40   60 
+sandman   957617400  2  2 Bk  f     -     -         2371   20    0 
+sandman   957617409  2  1 Bf  -     -     -         2351   10    0 
+sandman   957617413  2  2 Bk  c     b     -         2341   80  120 
+sandman   957617428  2  1 Br  k     k     k         2381   40   80 Ah 6c
+sandman   957617439  2  2 B   -     -     -         2421   20   30 
+sandman   957617445  2  1 Bc  k     k     k         2431   20    0 Qd 7d
+sandman   957617455  2  2 Bk  k     b     -         2411   60   80 
+sandman   957617469  2  1 Bf  -     -     -         2431   10    0 
+sandman   957617473  2  2 B   -     -     -         2421   20   30 
+sandman   957617477  2  1 Bc  k     b     b         2431  100  200 Jd Kd
+sandman   957617489  2  2 Bk  c     f     -         2531   40    0 
+sandman   957617504  2  1 Br  -     -     -         2491   40   60 
+sandman   957617507  2  2 B   -     -     -         2511   20   30 
+sandman   957617512  2  1 Bf  -     -     -         2521   10    0 
+sandman   957617515  2  2 Bk  k     k     k         2511   20    0 Qd 5s
+sandman   957617531  2  1 Bf  -     -     -         2491   10    0 
+sandman   957617538  2  2 Bk  k     b     -         2481   60   80 
+sandman   957617554  2  1 Br  k     k     k         2501   40   80 Ad 4d
+sandman   957617565  2  2 Bk  f     -     -         2541   20    0 
+sandman   957617575  2  1 Bc  k     b     k         2521   60    0 Kh 2s
+sandman   957617586  2  2 Bk  k     f     -         2461   20    0 
+sandman   957617606  2  1 Bf  -     -     -         2441   10    0 
+sandman   957617610  2  2 B   -     -     -         2431   20   30 
+sandman   957617614  2  1 Bc  k     kc    k         2441   60  120 6s Kd
+sandman   957617629  2  2 B   -     -     -         2501   20   30 
+sandman   957617635  2  1 Bc  k     k     k         2511   20    0 8s 7h
+sandman   957617652  2  2 Br  b     -     -         2491   60  100 
+sandman   957617683  2  1 Bcc k     k     k         2531   40    0 Qs 9c
+sandman   957617700  2  2 Br  b     b     k         2491  100    0 Jd Jh
+sandman   957617718  2  1 Bc  bc    k     k         2391   60  120 Js Qd
+sandman   957617742  2  2 B   -     -     -         2451   20   30 
+sandman   957617749  2  1 Bf  -     -     -         2461   10    0 
+sandman   957617753  2  2 Bc  k     k     b         2451   80  120 
+sandman   957617769  2  1 Bf  -     -     -         2491   10    0 
+sandman   957617772  2  2 Bk  k     c     k         2481   60    0 8h 4s
+sandman   957617984  2  1 Bf  -     -     -         2421   10    0 
+sandman   957617996  2  2 Bk  c     f     -         2411   40    0 
+sandman   957618007  2  1 Bc  kc    kf    -         2371   40    0 
+sandman   957618021  2  2 Bk  f     -     -         2331   20    0 
+sandman   957618028  2  1 Bf  -     -     -         2311   10    0 
+sandman   957618032  2  2 B   -     -     -         2301   20   30 
+sandman   957618035  2  1 Bc  b     -     -         2311   40   60 
+sandman   957618043  2  2 Bk  k     b     -         2331   60   80 
+sandman   957618055  2  1 Bc  k     k     k         2351   20    0 8c 6s
+sandman   957618066  2  2 B   -     -     -         2331   20   30 
+sandman   957618072  2  1 Bf  -     -     -         2341   10    0 
+sandman   957618075  2  2 Br  b     b     b         2331  140  140 Ts As
+sandman   957618093  2  1 Bf  -     -     -         2331   10    0 
+sandman   957618099  2  2 Bc  c     r     k         2321  140    0 9s 5c
+sandman   957618119  2  1 Bc  k     b     k         2181   60    0 9d Th
+sandman   957618150  2  2 Br  k     b     k         2121   80    0 Jh Ah
+sandman   957618172  2  1 Bc  kc    kc    b         2041  120  240 Td Js
+sandman   957618202  3  2 Br  k     b     k         2161   80  160 7d Ad
+sandman   957618229  3  1 Bcc k     kf    -         2241   40    0 
+sandman   957618268  3  3 f   -     -     -         2201    0    0 
+sandman   957618275  3  2 Bk  c     c     k         2201   80    0 Js 4c
+sandman   957618295  3  1 Br  b     kc    kf        2121  100    0 
+sandman   957618383  3  3 f   -     -     -         2021    0    0 
+sandman   957618407  3  2 Bk  c     c     r         2021  160  400 Kc 5s
+sandman   957618439  3  1 Bcc kc    kc    k         2261  100    0 Qs 2s
+sandman   957618475  3  3 cc  c     r     b         2161  180  400 Kc 5c
+sandman   957618530  4  2 Bk  k     k     b         2381   60  100 
+sandman   957618566  4  1 Bc  kc    kf    -         2421   40    0 
+sandman   957618595  4  4 f   -     -     -         2381    0    0 
+sandman   957618629  4  3 f   -     -     -         2381    0    0 
+sandman   957618637  4  2 Bc  c     b     b         2381  140  240 
+sandman   957618659  4  1 Br  b     -     -         2481   60  120 
+sandman   957618673  4  4 f   -     -     -         2541    0    0 
+sandman   957618701  4  3 f   -     -     -         2541    0    0 
+sandman   957618710  4  2 Bf  -     -     -         2541   20    0 
+sandman   957618734  4  1 Bf  -     -     -         2521   10    0 
+sandman   957618745  4  4 f   -     -     -         2511    0    0 
+sandman   957618775  4  3 f   -     -     -         2511    0    0 
+sandman   957618803  4  2 Bk  c     c     b         2511  120  200 
+sandman   957618828  4  1 Bc  kf    -     -         2591   20    0 
+sandman   957618847  4  4 r   b     -     -         2571   80  210 
+sandman   957618865  4  3 f   -     -     -         2701    0    0 
+sandman   957618895  5  2 Bc  kc    b     bf        2701  140    0 
+sandman   957618932  5  1 Bcc kf    -     -         2561   40    0 
+sandman   957618960  5  5 f   -     -     -         2521    0    0 
+sandman   957618982  5  4 cc  kc    b     k         2521  100  380 Ts Kd
+sandman   957619035  6  4 f   -     -     -         2801    0    0 
+sandman   957619064  6  3 c   k     bc    f         2801  100    0 
+sandman   957619116  6  2 Bc  k     b     bc        2701  160    0 Ks Jh
+sandman   957619152  6  1 Bc  b     b     -         2541   80  180 
+sandman   957619186  6  6 f   -     -     -         2641    0    0 
+sandman   957619210  7  6 f   -     -     -         2641    0    0 
+sandman   957619255  7  5 r   b     b     c         2641  140    0 Ah Kh
+sandman   957619306  8  5 f   -     -     -         2501    0    0 
+sandman   957619337  7  3 f   -     -     -         2501    0    0 
+sandman   957619391  7  2 Bc  c     c     k         2501  100  200 8d Qc
+sandman   957619424  7  1 Bc  k     k     k         2601   20   60 Jc 6s
+sandman   957619454  8  7 f   -     -     -         2641    0    0 
+sandman   957619504  8  6 f   -     -     -         2641    0    0 
+sandman   957619542  9  6 f   -     -     -         2641    0    0 
+sandman   957619620  9  5 cc  f     -     -         2641   60    0 
+sandman   957619712  9  4 f   -     -     -         2581    0    0 
+sandman   957619762  9  3 rc  kc    kc    kc        2581  160  600 Js Ac
+sandman   957619862  7  2 Bk  k     kr    b         3021  140  330 Js 6s
+sandman   957619912  7  1 Bf  -     -     -         3211   10    0 
+sandman   957619960  7  7 f   -     -     -         3201    0    0 
+sandman   957619999  7  6 c   r     k     b         3201  140    0 Ts 9d
+sandman   957620035  7  5 f   -     -     -         3061    0    0 
+sandman   957620100  7  4 f   -     -     -         3061    0    0 
+sandman   957620133  7  3 f   -     -     -         3061    0    0 
+sandman   957620169  7  2 Bk  b     k     k         3061   40  130 Qc 4c
+sandman   957620196  7  1 Bf  -     -     -         3151   10    0 
+sandman   957620236  7  7 f   -     -     -         3141    0    0 
+sandman   957620265  7  6 f   -     -     -         3141    0    0 
+sandman   957620299  7  5 rc  c     r     b         3141  220  650 Jd Js
+sandman   957620358  7  4 cc  b     b     kc        3571  140    0 7h Ac
+sandman   957620407  8  3 f   -     -     -         3431    0    0 
+sandman   957620444  8  2 Bf  -     -     -         3431   20    0 
+sandman   957620486  8  1 Bcc kc    kc    kf        3411  140    0 
+sandman   957620566  8  8 c   b     b     b         3271  120  330 
+sandman   957620619  9  7 c   c     c     r         3481  180  610 Kc 3c
+sandman   957620671  9  6 c   c     c     b         3911  140    0 Ad Js
+sandman   957620737  9  5 f   -     -     -         3771    0    0 
+sandman   957620775  9  4 c   c     c     k         3771   80    0 Qd 8d
+sandman   957620800  8  3 f   -     -     -         3691    0    0 
+sandman   957620839  8  2 Bk  k     c     b         3691  100  240 8d As
+sandman   957620872  8  1 Bc  k     kf    -         3831   20    0 
+sandman   957620904  8  8 r   k     b     b         3811  120  230 
+sandman   957620933  8  7 c   f     -     -         3921   20    0 
+sandman   957620970  8  6 c   k     r     b         3901  140  410 3s Ks
+sandman   957621024  8  5 f   -     -     -         4171    0    0 
+sandman   957621066  8  4 f   -     -     -         4171    0    0 
+sandman   957621106  8  3 f   -     -     -         4171    0    0 
+sandman   957621158  8  2 Bf  -     -     -         4171   20    0 
+sandman   957621182  8  1 Bc  k     k     br        4151  160  340 6c 7d
+sandman   957621212  8  8 f   -     -     -         4331    0    0 
+sandman   957621250  8  7 c   f     -     -         4331   40    0 
+sandman   957621310  9  7 f   -     -     -         4291    0    0 
+sandman   957621355  9  7 f   -     -     -         4291    0    0 
+sandman   957621381  9  6 cc  b     b     k         4291  100  420 As 7c
+sandman   957621513  9  4 f   -     -     -         4611    0    0 
+sandman   957621548  9  4 f   -     -     -         4611    0    0 
+sandman   957621595 10  3 c   kf    -     -         4611   20    0 
+sandman   957621629  9  1 Bk  k     k     k         4591   20    0 9h Td
+sandman   957621662  9  1 Bf  -     -     -         4571   10    0 
+sandman   957621692  8  8 c   c     k     b         4561   80    0 6c As
+sandman   957621754  8  7 c   c     f     -         4481   40    0 
+sandman   957621828  8  6 cc  k     c     f         4441   80    0 
+sandman   957621910  8  5 f   -     -     -         4361    0    0 
+sandman   957621959  8  4 c   f     -     -         4361   20    0 
+sandman   957622002  9  4 f   -     -     -         4341    0    0 
+sandman   957622069  9  3 f   -     -     -         4341    0    0 
+sandman   957622106  9  2 Bf  -     -     -         4341   20    0 
+sandman   957622183  9  1 Bf  -     -     -         4321   10    0 
+sandman   957622210  8  8 r   k     f     -         4311   40    0 
+sandman   957622306  8  7 f   -     -     -         4271    0    0 
+sandman   957622339  8  6 c   f     -     -         4271   20    0 
+sandman   957622407  8  5 f   -     -     -         4251    0    0 
+sandman   957622448  8  4 c   k     b     k         4251   60  170 As 8d
+sandman   957622491  8  3 f   -     -     -         4361    0    0 
+sandman   957622526  8  2 Bk  k     k     f         4361   20    0 
+sandman   957622563  8  1 Bc  k     kf    -         4341   20    0 
+sandman   957622610  8  8 f   -     -     -         4321    0    0 
+sandman   957622639  8  7 f   -     -     -         4321    0    0 
+sandman   957622649  8  6 f   -     -     -         4321    0    0 
+sandman   957622738  8  5 c   f     -     -         4321   20    0 
+sandman   957622796  7  4 f   -     -     -         4301    0    0 
+sandman   957622837  7  3 f   -     -     -         4301    0    0 
+sandman   957622880  7  2 Bk  kc    k     b         4301   80  180 
+sandman   957622956  6  1 Bf  -     -     -         4401   10    0 
+sandman   957623028  6  6 f   -     -     -         4391    0    0 
+sandman   957623079  5  5 f   -     -     -         4391    0    0 
+sandman   957623104  4  3 f   -     -     -         4391    0    0 
+sandman   957623126  4  2 Bf  -     -     -         4391   20    0 
+sandman   957623139  5  1 Bcc kf    -     -         4371   80    0 
+sandman   957623200  5  5 r   c     r     k         4291  140  370 Ad As
+sandman   957623236  5  4 c   k     b     -         4521   60   90 
+sandman   957623250  5  3 c   k     b     c         4551  100    0 Ac 3s
+sandman   957623297  5  2 Bk  k     b     b         4451  100  260 3d Th
+sandman   957623333  5  1 Bf  -     -     -         4611   10    0 
+sandman   957623350  5  5 r   k     c     f         4601   80    0 
+sandman   957623389  5  4 f   -     -     -         4521    0    0 
+sandman   957623411  5  3 cc  f     -     -         4521   60    0 
+sandman   957623446  5  2 Bf  -     -     -         4461   20    0 
+sandman   957623463  5  1 Bc  kc    krc   b         4441  260  880 Js Qd
+sandman   957623521  5  5 c   c     b     -         5061   80  150 
+sandman   957623609  5  4 c   b     bc    f         5131  120    0 
+sandman   957623646  5  3 cc  cf    -     -         5011   60    0 
+sandman   957623681  6  2 Bk  c     f     -         4951   40    0 
+sandman   957623711  7  1 Bc  kc    k     k         4911   40    0 4d 3c
+sandman   957623756  8  8 c   k     c     f         4871  100    0 
+sandman   957623820  8  7 cc  c     crr   b         4771  300  730 6c As
+sandman   957623872  8  6 cc  k     k     k         5201   40   53 As 6c
+sandman   957623912  8  5 c   b     b     b         5214  120  380 Ks Td
+sandman   957623969  8  4 c   k     f     -         5474   20    0 
+sandman   957624028  8  3 f   -     -     -         5454    0    0 
+sandman   957624056  8  2 Bf  -     -     -         5454   20    0 
+sandman   957624097  8  1 Bf  -     -     -         5434   10    0 
+sandman   957624138  8  8 c   f     -     -         5424   20    0 
+sandman   957624161  8  7 c   f     -     -         5404   40    0 
+sandman   957624187  8  6 f   -     -     -         5364    0    0 
+sandman   957624213  8  5 cc  cc    c     f         5364  180    0 
+sandman   957624336  8  4 cc  f     -     -         5184   40    0 
+sandman   957624409  8  3 ccc kc    kc    kc        5144  180    0 Qh Kh
+sandman   957624475  8  2 Bc  kf    -     -         4964   40    0 
+sandman   957624529  8  1 Bf  -     -     -         4924   10    0 
+sandman   957624602  7  7 f   -     -     -         4914    0    0 
+sandman   957624640  7  6 cc  cc    c     f         4914  180    0 
+sandman   957624707  6  4 r   r     r     k         4734  180    0 Kd Ks
+sandman   957624755  6  3 f   -     -     -         4554    0    0 
+sandman   957624764  6  2 Bk  k     kf    -         4554   20    0 
+sandman   957624802  5  1 Bf  Q     -     -         4534   10    0 
+sandman   957630445  6  2 Bk  kf    -     -         4524   20    0 
+sandman   957630480  6  1 Bf  -     -     -         4504   10    0 
+sandman   957630511  7  6 c   c     k     f         4494   40    0 
+sandman   957630546  7  5 cc  f     -     -         4454   40    0 
+sandman   957630572  7  4 f   -     -     -         4414    0    0 
+sandman   957630589  8  3 c   k     k     k         4414   20    0 9d 8h
+sandman   957630632  8  2 Bk  kf    -     -         4394   20    0 
+sandman   957630668  8  1 Bc  b     kf    -         4374   40    0 
+sandman   957630735  7  7 c   f     -     -         4334   40    0 
+sandman   957630766  7  6 r   k     b     -         4294   80  180 
+sandman   957630802  8  5 r   -     -     -         4394   40   70 
+sandman   957630814  8  3 f   -     -     -         4424    0    0 
+sandman   957630851  8  2 Bk  k     kf    -         4424   20    0 
+sandman   957630902  8  1 Bf  -     -     -         4404   10    0 
+sandman   957630929 10 10 c   f     -     -         4394   20    0 
+sandman   957630968 10  9 f   -     -     -         4374    0    0 
+sandman   957631024 10  8 f   -     -     -         4374    0    0 
+sandman   957631066  9  6 c   k     kf    -         4374   20    0 
+sandman   957631109  9  5 c   b     k     k         4354   40   90 8s 9s
+sandman   957631151  9  4 c   f     -     -         4404   20    0 
+sandman   957631175  9  3 cc  kc    kc    k         4384  100    0 As 4h
+sandman   957631213  9  2 Bk  kf    -     -         4284   20    0 
+sandman   957631239  9  1 Bc  kf    -     -         4264   20    0 
+sandman   957631268  9  9 f   -     -     -         4244    0    0 
+sandman   957631307  9  8 f   -     -     -         4244    0    0 
+sandman   957631342 10  8 cc  kc    kr    b         4244  180  390 Qs 3s
+sandman   957631397 10  7 f   -     -     -         4454    0    0 
+sandman   957631468  8  5 f   -     -     -         4454    0    0 
+sandman   957631496  8  4 f   -     -     -         4454    0    0 
+sandman   957631549  8  3 c   k     c     bf        4454  100    0 
+sandman   957631599  8  2 Bk  kc    k     k         4354   40  120 Th Kc
+sandman   957631631  8  1 Bc  kr    b     b         4434  140    0 9s Ah
+sandman   957631676  9  9 c   f     -     -         4294   20    0 
+sandman   957631730  9  8 c   c     r     k         4274  160    0 9s Ts
+sandman   957631794  9  7 c   k     k     k         4114   20   35 Ac 6c
+sandman   957631828  9  6 f   -     -     -         4129    0    0 
+sandman   957631880  9  5 f   -     -     -         4129    0    0 
+sandman   957631931  9  4 c   k     k     k         4129   20   20 2s Qs
+sandman   957632004  9  3 r   b     kr    b         4129  180    0 Kc Ah
+sandman   957632049  9  2 B   -     -     -         3949   20   30 
+sandman   957632060  9  1 Bc  kc    kf    -         3959   40    0 
+sandman   957632118  9  9 r   bc    b     c         3919  180    0 9d 9s
+sandman   957632208  9  8 r   k     k     k         3739   40    0 As Jh
+sandman   957632245  7  6 c   f     -     -         3699   20    0 
+sandman   957632281  7  5 c   kc    kc    kf        3679   80    0 
+sandman   957632330  6  3 c   b     -     -         3599   40   70 
+sandman   957632382  5  2 B   -     -     -         3629   20   30 
+sandman   957632404  4  1 Bc  kc    k     b         3639  100  180 
+sandman   957632450  4  4 f   -     -     -         3719    0    0 
+sandman   957632455  4  3 r   k     rr    k         3719  200  410 Ts Td
+sandman   957632485  4  2 Bc  c     b     rf        3929  180    0 
+sandman   957632529  5  1 Bf  -     -     -         3749   10    0 
+sandman   957632556  6  6 c   f     -     -         3739   40    0 
+sandman   957632586  6  5 f   -     -     -         3699    0    0 
+sandman   957632608  6  4 r   k     b     -         3699   80  170 
+sandman   957632647  7  4 Q   -     -     -         3789    0    0 
+sandman   957696340  8  3 f   -     -     -         3789    0    0 
+sandman   957696391  8  2 Bf  -     -     -         3789   20    0 
+sandman   957696464  8  1 Bc  kf    -     -         3769   40    0 
+sandman   957696519  8  8 f   -     -     -         3729    0    0 
+sandman   957696600  8  6 f   -     -     -         3729    0    0 
+sandman   957696651  7  4 c   f     -     -         3729   20    0 
+sandman   957696704  7  3 c   k     f     -         3709   20    0 
+sandman   957696765  7  2 Bk  kr    bc    kc        3689  180  400 6h Ks
+sandman   957696830  7  1 Bc  kc    kc    k         3909   80    0 9s 8h
+sandman   957696913  6  6 c   f     -     -         3829   20    0 
+sandman   957696944  6  5 c   bc    kc    k         3809  100  350 Ad 7d
+sandman   957697003  6  4 f   -     -     -         4059    0    0 
+sandman   957697033  6  3 c   k     f     -         4059   20    0 
+sandman   957697087  5  2 Bk  kf    -     -         4039   20    0 
+sandman   957697110  5  1 Bc  kf    -     -         4019   20    0 
+sandman   957697155  5  5 cc  c     f     -         3999   80    0 
+sandman   957697211  5  4 c   c     r     -         3919  120  250 
+sandman   957697268  5  3 f   -     -     -         4049    0    0 
+sandman   957697303  5  2 Bf  -     -     -         4049   20    0 
+sandman   957697319  5  1 Bcc kc    kc    k         4029  100    0 Qc 4h
+sandman   957697342  5  5 f   -     -     -         3929    0    0 
+sandman   957697370  5  4 r   c     r     b         3929  180  210 Kh Ks
+sandman   957697401  5  3 f   -     -     -         3959    0    0 
+sandman   957697414  5  2 Bk  k     k     kf        3959   20    0 
+sandman   957697496  5  1 Bc  b     b     k         3939   80  180 Qs Jh
+sandman   957697519  6  6 f   -     -     -         4039    0    0 
+sandman   957697541  6  5 r   -     -     -         4039   40   70 
+sandman   957697552  6  4 c   f     -     -         4069   40    0 
+sandman   957697571  6  3 c   c     b     -         4029   80  140 
+sandman   957697630  6  2 Bk  k     k     b         4089   60  100 
+sandman   957697671  6  1 Bc  kc    kf    -         4129   40    0 
+sandman   957697701  6  6 c   c     k     f         4089   40    0 
+sandman   957697740  6  5 f   -     -     -         4049    0    0 
+sandman   957697772  6  4 f   Q     -     -         4049    0    0 
+sandman   957826909 10  6 cf  -     -     -         4497   20    0 
+sandman   957827008 10  5 f   -     -     -         4477    0    0 
+sandman   957827039 10  4 f   -     -     -         4477    0    0 
+sandman   957827097 10  3 c   k     b     -         4477   60  120 
+sandman   957827136 10  2 Bc  kc    k     b         4537  100    0 Qd Jc
+sandman   957827167 10  1 Bc  kf    -     -         4437   20    0 
+sandman   957827209 10 10 c   rf    -     -         4417   80    0 
+sandman   957827296 10  9 f   -     -     -         4337    0    0 
+sandman   957827341 10  8 f   -     -     -         4337    0    0 
+sandman   957827402 10  7 f   -     -     -         4337    0    0 
+sandman   957827465 10  6 f   -     -     -         4337    0    0 
+sandman   957827500 10  5 f   -     -     -         4337    0    0 
+sandman   957827560 10  4 f   -     -     -         4337    0    0 
+sandman   957827606 10  3 c   k     c     r         4337  180  220 Qs 9s
+sandman   957827666 10  2 Br  b     b     -         4377  100  160 
+sandman   957827704 10  1 Bc  kc    kc    b         4437  120  260 Td Qc
+sandman   957827753 10 10 f   -     -     -         4577    0    0 
+sandman   957827801 10  9 f   -     -     -         4577    0    0 
+sandman   957827847 10  8 f   -     -     -         4577    0    0 
+sandman   957827899 10  7 c   f     -     -         4577   20    0 
+sandman   957827994 10  6 cc  kc    cc    k         4557  140    0 Td Qh
+sandman   957828080 10  5 c   b     kf    -         4417   40    0 
+sandman   957828151 10  4 f   -     -     -         4377    0    0 
+sandman   957828207 10  3 f   -     -     -         4377    0    0 
+sandman   957828259 10  2 Bc  kc    kc    k         4377  100    0 9s 8h
+sandman   957828311 10  1 Br  kf    -     -         4277   60    0 
+sandman   957828383 10 10 c   c     c     f         4217  100    0 
+sandman   957828468 10  9 f   -     -     -         4117    0    0 
+sandman   957828513 10  8 c   r     c     k         4117  100  300 3s 4s
+sandman   957828580 10  7 f   -     -     -         4317    0    0 
+sandman   957828623 10  6 c   kc    kf    -         4317   40    0 
+sandman   957828711 10  5 f   -     -     -         4277    0    0 
+sandman   957828785 10  4 f   -     -     -         4277    0    0 
+sandman   957828863 10  3 cc  kc    krrf  -         4277  220    0 
+sandman   957828914 10  2 Bk  kf    -     -         4057   20    0 
+sandman   957828969 10  1 Bc  kf    -     -         4037   20    0 
+sandman   957829072 10 10 c   c     f     -         4017   40    0 
+sandman   957829164 10  9 c   f     -     -         3977   20    0 
+sandman   957829238 10  8 c   f     -     -         3957   20    0 
+sandman   957829271 10  7 c   kc    kf    -         3937   40    0 
+sandman   957829337 10  7 f   -     -     -         3897    0    0 
+sandman   957829396 10  5 cc  rf    -     -         3897   80    0 
+sandman   957829489 10  4 f   -     -     -         3817    0    0 
+sandman   957829564 10  3 f   -     -     -         3817    0    0 
+sandman   957829640 10  2 Bk  kf    -     -         3817   20    0 
+sandman   957829697 10  1 Bf  -     -     -         3797   10    0 
+sandman   957829730 10 10 c   f     -     -         3787   20    0 
+sandman   957829806 10  9 c   c     c     c         3767  140  310 Tc 9c
+sandman   957829865 10  8 rc  c     c     k         3937  140  310 Ad 7h
+sandman   957829953 10  7 f   -     -     -         4107    0    0 
+sandman   957830011 10  6 f   -     -     -         4107    0    0 
+sandman   957830057 10  5 f   -     -     -         4107    0    0 
+sandman   957830079 10  4 f   -     -     -         4107    0    0 
+sandman   957830139 10  3 c   b     b     b         4107  120    0 Td 5d
+sandman   957830239 10  2 Bk  kf    -     -         3987   20    0 
+sandman   957830292 10  1 Bc  kf    -     -         3967   20    0 
+sandman   957830356 10 10 cc  f     -     -         3947   40    0 
+sandman   957830414 10  9 f   -     -     -         3907    0    0 
+sandman   957830483 10  8 f   -     -     -         3907    0    0 
+sandman   957830587 10  7 c   c     k     k         3907   40  120 As Td
+sandman   957830636 10  6 cc  kf    -     -         3987   40    0 
+sandman   957830721 10  5 r   -     -     -         3947   40   70 
+sandman   957830767 10  4 f   -     -     -         3977    0    0 
+sandman   957830825 10  3 c   k     kc    kc        3977  100    0 2c Qc
+sandman   957830876 10  2 Bf  -     -     -         3877   20    0 
+sandman   957830923 10  1 Bc  kc    kc    kc        3857  120  360 Td Jh
+sandman   957831026 10 10 r   b     k     k         4097   60    0 Ad Th
+sandman   957831097 10  9 c   f     -     -         4037   20    0 
+sandman   957831200 10  8 f   -     -     -         4017    0    0 
+sandman   957831265 10  7 f   -     -     -         4017    0    0 
+sandman   957831320 10  6 f   -     -     -         4017    0    0 
+sandman   957831444 10  5 c   k     f     Q         4017   20    0 
+sandman   957883516  3  3 f   -     -     -         3997    0    0 
+sandman   957883519  3  2 Bk  k     k     k         3997   20   40 3d Jd
+sandman   957883530  3  1 Bc  kf    -     -         4017   20    0 
+sandman   957883541  3  3 f   -     -     -         3997    0    0 
+sandman   957883553  4  2 Bk  k     k     k         3997   20   60 7c 9d
+sandman   957883570  4  1 Bf  -     -     -         4037   10    0 
+sandman   957883576  4  4 r   b     b     b         4027  160  310 
+sandman   957883593  4  3 cc  f     -     -         4177   40    0 
+sandman   957883613  4  2 Bf  -     -     -         4137   20    0 
+sandman   957883629  4  1 Bf  -     -     -         4117   10    0 
+sandman   957883637  4  4 f   -     -     -         4107    0    0 
+sandman   957883647  4  3 f   -     -     -         4107    0    0 
+sandman   957883658  4  2 Bc  k     k     bf        4107   80    0 
+sandman   957883680  5  1 Bc  k     k     b         4027   60  160 As Kc
+sandman   957883700  5  5 r   -     -     -         4127   40   70 
+sandman   957883707  5  4 f   -     -     -         4157    0    0 
+sandman   957883722  5  3 r   -     -     -         4157   40   70 
+sandman   957883727  5  2 Bk  kc    c     r         4187  160  380 9h 2h
+sandman   957883798  5  1 Bf  -     -     -         4407   10    0 
+sandman   957883844  5  5 c   cc    c     f         4397  120    0 
+sandman   957883895  5  4 c   c     f     -         4277   60    0 
+sandman   957883908  5  3 f   -     -     -         4217    0    0 
+sandman   957883928  4  1 Bk  kf    -     -         4217   20    0 
+sandman   957883958  4  1 BKQ -     -     -         4197   10    0 
+sandman   958057717  3  2 Bc  kf    -     -         7045   40    0 
+sandman   958057731  3  1 Bf  -     -     -         7005   10    0 
+sandman   958057739  3  3 f   -     -     -         6995    0    0 
+sandman   958057747  3  2 B   -     -     -         6995   20   30 
+sandman   958057754  3  1 Bf  -     -     -         7005   10    0 
+sandman   958057761  3  3 f   -     -     -         6995    0    0 
+sandman   958057787  3  2 B   -     -     -         6995   20   30 
+sandman   958057789  3  1 Bc  k     b     kc        7005  120    0 3c Qc
+sandman   958057820  3  3 KQ  -     -     -         6885    0    0 
+sandman   958057880  3  3 f   -     -     -         6885    0    0 
+sandman   958057902  3  2 B   -     -     -         6885   20   30 
+sandman   958057908  3  1 Bf  -     -     -         6895   10    0 
+sandman   958057928  3  3 KQ  -     -     -         6885    0    0 
+sandman   958058020  3  2 B   -     -     -         6885   20   30 
+sandman   958058023  3  1 Bf  -     -     -         6895   10    0 
+sandman   958058035  3  3 f   -     -     -         6885    0    0 
+sandman   958058054  3  2 B   -     -     -         6885   20   30 
+sandman   958058059  3  1 Bc  kc    k     b         6895  100  180 
+sandman   958058080  3  3 f   -     -     -         6975    0    0 
+sandman   958058088  3  2 B   -     -     -         6975   20   30 
+sandman   958058091  3  1 Bf  -     -     -         6985   10    0 
+sandman   958058094  3  3 cc  f     -     -         6975   40    0 
+sandman   958058120  3  2 Bk  kf    -     -         6935   20    0 
+sandman   958058133  3  1 Bc  kc    k     k         6915   60  160 6d Ks
+sandman   958058161  3  3 c   b     -     -         7015   40   80 
+sandman   958058177  3  2 B   -     -     -         7055   20   30 
+sandman   958058180  3  1 Br  k     b     -         7065  100  180 
+sandman   958058196  3  3 f   -     -     -         7145    0    0 
+sandman   958058200  3  2 Bk  k     kc    kc        7145  100  110 8d Qc
+sandman   958058226  3  1 Bc  k     b     -         7155   60   80 
+sandman   958058244  3  3 f   -     -     -         7175    0    0 
+sandman   958058256  3  2 Bf  -     -     -         7175   20    0 
+sandman   958058280  3  1 Br  k     brc   kc        7155  260    0 Kd Kh
+sandman   958058310  2  2 r   b     b     k         6895  100  200 5d Ah
+sandman   958058338  2  2 B   -     -     -         6995   20   30 
+sandman   958058342  2  1 Bc  kc    k     k         7005   40   80 8h 9d
+sandman   958058361  2  2 B   -     -     -         7045   20   30 
+sandman   958058365  2  1 Bf  -     -     -         7055   10    0 
+sandman   958058367  2  2 B   -     -     -         7045   20   30 
+sandman   958058369  2  1 Br  bc    k     b         7055  120  200 
+sandman   958058389  2  2 B   -     -     -         7135   20   30 
+sandman   958058390  2  1 Br  -     -     -         7145   40   60 
+sandman   958058393  2  2 Bf  -     -     -         7165   20    0 
+sandman   958058396  2  1 Br  b     -     -         7145   60  100 
+sandman   958058404  2  2 Bk  c     c     f         7185   80    0 
+sandman   958058425  2  1 Bcf -     -     -         7105   20    0 
+sandman   958058431  2  2 B   -     -     -         7085   20   30 
+sandman   958058433  2  1 Br  bc    kr    -         7095  160  280 
+sandman   958058455  2  2 B   -     -     -         7215   20   30 
+sandman   958058457  2  1 Br  kf    -     -         7225   40    0 
+sandman   958058469  4  2 Bc  kf    -     -         7185   40    0 
+sandman   958058504  4  1 Bc  k     k     k         7145   20   40 As Jc
+sandman   958058535  4  4 c   k     c     k         7165   60  130 Kc 3c
+sandman   958058566  5  3 c   KQ    -     -         7235   20    0 
+sandman   958239237  2  2 B   -     -     -         7215   20   30 
+sandman   958239239  2  1 Bf  -     -     -         7225   10    0 
+sandman   958239241  2  2 Bc  b     b     -         7215  100  160 
+sandman   958239255  2  1 Bf  -     -     -         7275   10    0 
+sandman   958239258  2  2 Bc  f     -     -         7265   40    0 
+sandman   958239265  2  1 Br  -     -     -         7225   40   60 
+sandman   958239269  2  2 Br  b     bf    -         7245  120    0 
+sandman   958239285  2  1 Br  k     k     bc        7125  120    0 9d 9c
+sandman   958239305  2  2 B   -     -     -         7005   20   30 
+sandman   958239311  2  1 Bf  -     -     -         7015   10    0 
+sandman   958239312  2  2 Br  k     c     c         7005  120    0 3d As
+sandman   958239329  2  1 Bf  -     -     -         6885   10    0 
+sandman   958239335  2  2 Bk  r     k     c         6875  100    0 6c Qd
+sandman   958239353  2  1 Bcc kr    k     b         6775  120  240 8s Tc
+sandman   958239376  2  2 Bk  b     -     -         6895   40   60 
+sandman   958239389  2  1 Bc  k     k     k         6915   20   40 9s Qd
+sandman   958239397  2  2 Brc c     c     k         6935  120    0 2c 5h
+sandman   958239422  2  1 Bf  -     -     -         6815   10    0 
+sandman   958239430  2  2 Bc  k     b     k         6805   80  160 Ac 7s
+sandman   958239454  2  1 Bc  kc    kc    k         6885   80  160 7s Qs
+sandman   958239471  2  2 B   -     -     -         6965   20   30 
+sandman   958239477  2  1 Bf  -     -     -         6975   10    0 
+sandman   958239480  2  2 Bk  f     -     -         6965   20    0 
+sandman   958239487  2  1 Bf  -     -     -         6945   10    0 
+sandman   958239490  2  2 B   -     -     -         6935   20   30 
+sandman   958239491  2  1 Bc  k     bc    k         6945  100  200 4d Kd
+sandman   958239508  2  2 B   -     -     -         7045   20   30 
+sandman   958239517  2  1 Br  k     b     -         7055   80  120 
+sandman   958239528  2  2 Bc  f     -     -         7095   40    0 
+sandman   958239536  2  1 Bf  -     -     -         7055   10    0 
+sandman   958239538  2  2 Bk  k     c     b         7045  100    0 3d Qs
+sandman   958239553  2  1 Bc  k     k     k         6945   20    0 Qd 5d
+sandman   958239579  2  2 Bc  br    k     k         6925  100    0 7s 9h
+sandman   958239608  2  1 Bf  -     -     -         6825   10    0 
+sandman   958239613  2  2 Bf  -     -     -         6815   20    0 
+sandman   958239617  2  1 Bc  kf    -     -         6795   20    0 
+sandman   958239625  2  2 Bk  k     b     -         6775   60   80 
+sandman   958239636  2  1 Bf  -     -     -         6795   10    0 
+sandman   958239638  2  2 Br  -     -     -         6785   40   60 
+sandman   958239643  2  1 Br  -     -     -         6805   40   60 
+sandman   958239648  2  2 B   -     -     -         6825   20   30 
+sandman   958239650  2  1 Bc  k     k     b         6835   60   80 
+sandman   958239666  2  2 Bc  c     c     k         6855  100  200 7h Qd
+sandman   958239680  2  1 Br  k     b     -         6955   80  120 
+sandman   958239696  2  2 Bf  -     -     -         6995   20    0 
+sandman   958239700  2  1 Bc  kf    -     -         6975   20    0 
+sandman   958239710  2  2 Bk  k     k     c         6955   60    0 5c Qc
+sandman   958239727  2  1 Bc  k     k     k         6895   20   40 8c 7c
+sandman   958239744  2  2 B   -     -     -         6915   20   30 
+sandman   958239749  2  1 Br  -     -     -         6925   40   60 
+sandman   958239771  2  2 Bf  -     -     -         6945   20    0 
+sandman   958239778  2  1 Bc  kc    kc    k         6925   80    0 5h Td
+sandman   958239796  2  2 B   -     -     -         6845   20   30 
+sandman   958239801  2  1 Br  -     -     -         6855   40   60 
+sandman   958239817  2  2 Bc  f     -     -         6875   40    0 
+sandman   958239825  2  1 Bf  -     -     -         6835   10    0 
+sandman   958239827  2  2 B   -     -     -         6825   20   30 
+sandman   958239829  2  1 Bf  -     -     -         6835   10    0 
+sandman   958239832  2  2 B   -     -     -         6825   20   30 
+sandman   958239834  2  1 Bc  kc    k     b         6835   80  120 
+sandman   958239852  2  2 Bc  c     c     b         6875  140  240 
+sandman   958239868  2  1 Bf  -     -     -         6975   10    0 
+sandman   958239873  2  2 B   -     -     -         6965   20   30 
+sandman   958239875  2  1 Bf  -     -     -         6975   10    0 
+sandman   958239877  2  2 Bk  c     k     b         6965   80  120 
+sandman   958239896  2  1 Bc  k     bc    kc        7005  140    0 4h 6h
+sandman   958240021  4  2 Bf  -     -     -         6865   20    0 
+sandman   958240041  4  1 Bf  -     -     -         6845   10    0 
+sandman   958240059  4  4 c   k     b     -         6835   60   90 
+sandman   958240073  4  3 f   -     -     -         6865    0    0 
+sandman   958240083  4  2 Bk  c     b     b         6865  120  200 
+sandman   958240122  5  1 Bc  kc    kr    b         6945  180  340 
+sandman   958240150  5  5 c   k     k     c         7105   60  150 3s Js
+sandman   958240187  5  4 cc  f     -     -         7195   60    0 
+sandman   958240251  5  3 f   -     -     -         7135    0    0 
+sandman   958240285  5  2 Bk  kc    k     b         7135   80  140 
+sandman   958240328  5  1 Bf  -     -     -         7195   10    0 
+sandman   958240369  6  6 c   k     b     -         7185   60  100 
+sandman   958240397  6  5 c   k     k     k         7225   20    0 Jd Td
+sandman   958240433  6  4 f   -     -     -         7205    0    0 
+sandman   958240487  6  3 KQ  -     -     -         7205    0    0 
+sandman   958240594  7  6 f   -     -     -         7205    0    0 
+sandman   958240616  7  5 c   r     k     k         7205   60  180 4h 4s
+sandman   958240649  7  4 c   kc    kc    kc        7325  120    0 9s Ts
+sandman   958240703  7  3 c   c     f     -         7205   40    0 
+sandman   958240731  8  2 Br  br    b     b         7165  200    0 Kh Ah
+sandman   958240784  8  1 Bf  -     -     -         6965   10    0 
+sandman   958240842  8  8 f   -     -     -         6955    0    0 
+sandman   958240911  8  7 KQ  -     -     -         6955    0    0 
+sandman   958427046  6  6 r   k     k     c         6955   80    0 4h 4d
+sandman   958427075  7  6 c   f     -     -         6875   20    0 
+sandman   958427134  9  7 f   -     -     -         6855    0    0 
+sandman   958427166 10  7 c   kr    bc    kf        6855  140    0 
+sandman   958427246 10  6 f   -     -     -         6715    0    0 
+sandman   958427295 10  5 c   c     r     b         6715  160  380 3s 3c
+sandman   958427340 10  4 f   Q     -     -         6935    0    0 
+sandman   958503972  7  7 f   -     -     -         6935    0    0 
+sandman   958504008  7  6 f   -     -     -         6935    0    0 
+sandman   958504030  7  5 c   f     -     -         6935   20    0 
+sandman   958504053  7  4 f   -     -     -         6915    0    0 
+sandman   958504087  6  3 cc  kc    kf    -         6915   80    0 
+sandman   958504133  6  2 Bf  -     -     -         6835   20    0 
+sandman   958504165  6  1 Bc  kf    -     -         6815   40    0 
+sandman   958504198  6  6 f   -     -     -         6775    0    0 
+sandman   958504216  6  5 c   k     b     -         6775   60   90 
+sandman   958504234  6  4 c   kc    krrc  k         6805  240    0 Jc Kd
+sandman   958504276  6  3 c   f     -     -         6565   20    0 
+sandman   958504315  6  2 Bc  kcc   kc    kc        6545  180    0 3c Ac
+sandman   958504382  6  1 Br  b     kc    k         6365  100  200 Ad 6h
+sandman   958504444  7  6 f   -     -     -         6465    0    0 
+sandman   958504453  7  5 cc  kr    br    bc        6465  300    0 5h Kh
+sandman   958504519  7  4 KQ  -     -     -         6165    0    0 
+sandman   958596837 10  9 f   -     -     -         6365    0    0 
+sandman   958596884 10  8 KQ  -     -     -         6365    0    0 
+sandman   958687170  8  3 f   -     -     -         6700    0    0 
+sandman   958687232  8  1 Bc  k     k     b         6700   80  200 
+sandman   958687264  9  1 Bcc k     kf    -         6820   60    0 
+sandman   958687315  9  9 c   k     c     b         6760  100  190 
+sandman   958687353 10  8 f   -     -     -         6850    0    0 
+sandman   958687401 10  7 c   b     b     -         6850   80  220 
+sandman   958687456 10  6 c   bc    c     f         6990  100    0 
+sandman   958687580 10  5 c   f     -     -         6890   20    0 
+sandman   958687655  9  4 f   -     -     -         6870    0    0 
+sandman   958687740  9  3 c   b     -     -         6870   40   90 
+sandman   958687763 10  2 Bc  kf    -     -         6920   40    0 
+sandman   958687883  9  1 Bc  b     b     k         6880  100    0 Qh Tc
+sandman   958687930  9  9 f   -     -     -         6780    0    0 
+sandman   958687989  9  8 c   b     c     k         6780   80    0 8c 7s
+sandman   958688089 10  8 cc  kc    kcc   f         6700  220    0 
+sandman   958688243 10  7 c   k     k     kf        6480   20    0 
+sandman   958688355  8  4 c   c     c     k         6460  100    0 6s As
+sandman   958688402  8  3 f   -     -     -         6360    0    0 
+sandman   958688485  8  2 Bf  -     -     -         6360   20    0 
+sandman   958688552  8  1 Bcc b     b     k         6340  100    0 5h 4s
+sandman   958688615  8  8 c   c     k     f         6240   40    0 
+sandman   958688664  8  7 c   k     f     -         6200   20    0 
+sandman   958688731  8  6 c   c     f     -         6180   80    0 
+sandman   958688830 10  7 c   kf    -     -         6100   20    0 
+sandman   958688890 10  6 r   b     kc    kc        6080  140    0 8s 8c
+sandman   958688981 10  5 f   -     -     -         5940    0    0 
+sandman   958689017 10  4 fQ  -     -     -         5940    0    0 
+sandman   958723762  7  4 f   -     -     -         6219    0    0 
+sandman   958723796  5  2 Bk  k     k     k         6219   20   60 4s 2s
+sandman   958723826  5  1 Bf  -     -     -         6259   10    0 
+sandman   958723855  4  4 f   -     -     -         6249    0    0 
+sandman   958723870  4  3 c   k     b     -         6249   60   90 
+sandman   958723885  4  2 Bk  kf    -     -         6279   20    0 
+sandman   958723906  4  1 Bf  -     -     -         6259   10    0 
+sandman   958723934  4  4 f   -     -     -         6249    0    0 
+sandman   958723939  4  3 f   -     -     -         6249    0    0 
+sandman   958723958  4  2 Bk  kf    -     -         6249   20    0 
+sandman   958723968  3  1 Bf  -     -     -         6229   10    0 
+sandman   958723974  3  3 rc  r     b     k         6219  140  290 Qh Kd
+sandman   958723991  3  2 Bk  k     kf    -         6369   20    0 
+sandman   958724007  3  1 Bf  -     -     -         6349   10    0 
+sandman   958724012  3  3 f   -     -     -         6339    0    0 
+sandman   958724020  3  2 Bk  f     -     -         6339   20    0 
+sandman   958724039  3  1 Bc  kf    -     -         6319   20    0 
+sandman   958724059  3  3 f   -     -     -         6299    0    0 
+sandman   958724082  3  2 Bk  k     k     kc        6299   60    0 Kh 6h
+sandman   958724107  3  1 Bc  k     b     -         6239   60  100 
+sandman   958724119  3  3 f   -     -     -         6279    0    0 
+sandman   958724123  3  2 Bk  k     kc    k         6279   60    0 6c 4d
+sandman   958724150  3  1 Bc  kc    kc    kf        6219   80    0 
+sandman   958724186  3  3 c   b     k     k         6139   40    0 3s 4s
+sandman   958724209  3  2 Bk  f     -     -         6099   20    0 
+sandman   958724222  3  1 Bc  kf    -     -         6079   20    0 
+sandman   958724234  3  3 f   -     -     -         6059    0    0 
+sandman   958724250  3  2 Bk  c     b     -         6059   80  160 
+sandman   958724276  3  1 Bc  k     k     k         6139   20   20 2h Kh
+sandman   958724293  3  3 c   c     r     b         6139  160    0 Ts Qc
+sandman   958724329  3  2 Bf  -     -     -         5979   20    0 
+sandman   958724340  3  1 Bf  -     -     -         5959   10    0 
+sandman   958724352  3  3 c   bc    r     r         5949  220  460 7h 7c
+sandman   958724382  3  2 Bk  rf    -     -         6189   60    0 
+sandman   958724404  3  1 Bc  kc    kf    -         6129   40    0 
+sandman   958724437  3  3 r   k     k     k         6089   40    0 Js Kc
+sandman   958724452  3  2 Bk  k     b     -         6049   60  100 
+sandman   958724473  3  1 Bf  -     -     -         6089   10    0 
+sandman   958724482  3  3 c   k     r     -         6079  100  180 
+sandman   958724495  3  2 Bk  k     b     b         6159  100  180 
+sandman   958724516  3  1 Bc  k     k     k         6239   20   40 4h 8h
+sandman   958724529  3  3 c   k     k     k         6259   20   50 Ac 3s
+sandman   958724544  3  2 Bk  k     k     kf        6289   20    0 
+sandman   958724565  3  1 Bc  b     b     k         6269  100  260 9c 8c
+sandman   958724589  3  3 c   k     k     c         6429   60    0 Ks 2s
+sandman   958724616  3  2 Bk  k     k     k         6369   20    0 Js 5h
+sandman   958724636  3  1 Bc  k     bf    -         6349   60    0 
+sandman   958724666  3  3 c   k     f     -         6289   20    0 
+sandman   958724682  3  2 Bk  k     k     k         6269   20    0 Qs 6s
+sandman   958724696  3  1 Bc  kc    k     kf        6249   40    0 
+sandman   958724732  3  3 c   k     b     -         6209   60   90 
+sandman   958724758  2  2 B   -     -     -         6239   20   30 
+sandman   958929330  3  2 Bk  f     -     -        12768   20    0 
+sandman   958929416  2  1 Bf  -     -     -        12748   10    0 
+sandman   958929420  2  2 Bk  f     -     -        12738   20    0 
+sandman   958929428  2  1 Bc  kf    -     -        12718   20    0 
+sandman   958929437  2  2 Bk  k     k     k        12698   20   40 7c Qs
+sandman   958929453  2  1 Bcc kc    b     b        12718  140  140 8s 7c
+sandman   958929479  2  2 Bk  k     k     k        12718   20    0 6d Jh
+sandman   958929502  2  1 Br  b     k     b        12698  100  200 Kh Jh
+sandman   958929528  2  2 Bk  k     c     k        12798   60   60 5d 6h
+sandman   958929551  3  1 Bc  k     b     kc       12798  100    0 9d 7h
+sandman   958929602  3  3 f   -     -     -        12698    0    0 
+sandman   958929607  3  2 Bk  k     b     -        12698   60   80 
+sandman   958929625  3  1 Bc  kf    -     -        12718   20    0 
+sandman   958929644  3  3 f   -     -     -        12698    0    0 
+sandman   958929671  4  2 Bc  b     b     -        12698  100  200 
+sandman   958929718  4  1 Bf  -     -     -        12798   10    0 
+sandman   958929734  4  4 f   -     -     -        12788    0    0 
+sandman   958929771  5  4 c   k     b     -        12788   60  110 
+sandman   958929842  4  2 Bc  c     c     k        12838  100    0 4c 4h
+sandman   958929859  4  1 Bf  -     -     -        12738   10    0 
+sandman   958929903  5  5 f   -     -     -        12728    0    0 
+sandman   958929927  5  5 f   -     -     -        12728    0    0 
+sandman   959031326 10 10 f   -     -     -        12383    0    0 
+sandman   959031364 10  9 c   k     k     k        12383   20   70 6c 8h
+sandman   959031421 10  8 f   -     -     -        12433    0    0 
+sandman   959031499  9  7 c   k     c     k        12433   60    0 8s Jc
+sandman   959031570  9  3 Q   -     -     -        12373    0    0 
+sandman   959113699  5  3 cc  k     c     f        12373   80    0 
+sandman   959113722  5  2 Bk  k     kc    kf       12293   60    0 
+sandman   959113752  5  1 Bc  kf    -     -        12233   20    0 
+sandman   959113782  5  5 f   -     -     -        12213    0    0 
+sandman   959113808  5  4 cc  kc    kf    -        12213   60    0 
+sandman   959113843  5  3 cc  c     b     b        12153  140  300 
+sandman   959113870  5  2 Bk  k     kf    -        12313   20    0 
+sandman   959113906  5  1 Bf  -     -     -        12293   10    0 
+sandman   959113917  6  5 f   -     -     -        12283    0    0 
+sandman   959113951  6  4 c   c     f     -        12283   40    0 
+sandman   959113997  5  2 f   -     -     -        12243    0    0 
+sandman   959114014  5  2 Bk  k     b     f        12243   60    0 
+sandman   959114052  5  1 Bf  -     -     -        12183   10    0 
+sandman   959114070  5  5 f   -     -     -        12173    0    0 
+sandman   959114083  5  4 f   -     -     -        12173    0    0 
+sandman   959114106  5  3 f   -     -     -        12173    0    0 
+sandman   959114112  5  2 Bk  k     k     b        12173   60   90 
+sandman   959114129  6  1 Bf  -     -     -        12203   10    0 
+sandman   959114173  6  6 KQ  -     -     -        12193    0    0 
+sandman   959247308  2  1 Br  -     -     -        12193   40   60 
+sandman   959247340  2  2 f   -     -     -        12213    0    0 
+sandman   959247344  2  2 Bk  k     k     c        12213   60  120 9d 5h
+sandman   959247383  2  1 Bc  k     k     k        12273   20    0 6c Qc
+sandman   959247416  2  2 B   -     -     -        12253   20   30 
+sandman   959247423  2  1 Bc  k     bc    k        12263  100    0 5h Kh
+sandman   959247459  2  2 B   -     -     -        12163   20   30 
+sandman   959247477  2  1 Bf  -     -     -        12173   10    0 
+sandman   959247486  2  2 B   -     -     -        12163   20   30 
+sandman   959247491  2  1 Bc  k     b     -        12173   60   80 
+sandman   959247507  2  2 Bk  b     -     -        12193   40   60 
+sandman   959247522  2  1 Br  kc    kc    kf       12213  100    0 
+sandman   959247554  2  2 B   -     -     -        12113   20   30 
+sandman   959247561  2  1 Bc  k     k     k        12123   20   40 3c Kc
+sandman   959247581  2  2 B   -     -     -        12143   20   30 
+sandman   959247588  2  1 Bf  -     -     -        12153   10    0 
+sandman   959247592  2  2 Bk  k     br    -        12143  140  240 
+sandman   959247619  2  1 BQ  -     -     -        12243   10    0 
+sandman   959412242  8  5 f   -     -     -        12233    0    0 
+sandman   959412272  8  4 f   -     -     -        12233    0    0 
+sandman   959412319  8  3 c   b     -     -        12233   40   90 
+sandman   959412348  8  2 Bf  -     -     -        12283   20    0 
+sandman   959412406  8  1 Bc  kf    -     -        12263   20    0 
+sandman   959412458  8  8 f   -     -     -        12243    0    0 
+sandman   959412484  8  7 c   k     k     k        12243   20    0 6c Ad
+sandman   959412545  8  6 r   k     b     b        12223  120  350 
+sandman   959412599  8  4 Q   -     -     -        12453    0    0 
+sandman   959424524  7  4 cc  c     c     f        12453  100    0 
+sandman   959424564  7  3 f   -     -     -        12353    0    0 
+sandman   959424605  7  2 Bc  k     kc    kc       12353  120    0 Ac 3s
+sandman   959424639  7  1 Bc  k     k     kf       12233   20    0 
+sandman   959424705  7  7 c   f     -     -        12213   40    0 
+sandman   959424751  7  6 f   -     -     -        12173    0    0 
+sandman   959424800  6  4 f   -     -     -        12173    0    0 
+sandman   959424848  6  3 cc  rc    c     r        12173  220  480 7d 6s
+sandman   959424917  7  2 Bc  k     kf    -        12433   40    0 
+sandman   959424979  7  1 Bc  kc    kf    -        12393   60    0 
+sandman   959425047  7  7 c   c     r     -        12333  140  270 
+sandman   959425070  7  7 cc  f     -     -        12463   80    0 
+sandman   959425139  6  5 f   -     -     -        12383    0    0 
+sandman   959425188  6  4 cc  f     -     -        12383   40    0 
+sandman   959425241  6  3 f   -     -     -        12343    0    0 
+sandman   959425278  6  2 Bf  -     -     -        12343   20    0 
+sandman   959425314  6  1 Bf  -     -     -        12323   10    0 
+sandman   959425337  6  6 f   -     -     -        12313    0    0 
+sandman   959425370  6  5 ccc b     c     k        12313  140  600 7c 8c
+sandman   959425459  7  4 c   k     b     -        12773   60  100 
+sandman   959425485  7  3 f   -     -     -        12813    0    0 
+sandman   959425530  7  2 Bc  f     -     -        12813   40    0 
+sandman   959425562  7  1 Bf  -     -     -        12773   10    0 
+sandman   959425605  7  7 c   b     -     -        12763   40  100 
+sandman   959425630  7  6 f   -     -     -        12823    0    0 
+sandman   959425664  7  5 r   b     -     -        12823   60  150 
+sandman   959425684  7  4 c   f     -     -        12913   20    0 
+sandman   959425708  7  2 Bf  -     -     -        12893   20    0 
+sandman   959425779  8  1 Bc  krc   kf    -        12873   80    0 
+sandman   959425826  8  8 c   k     f     -        12793   20    0 
+sandman   959425866  7  6 f   -     -     -        12773    0    0 
+sandman   959425873  7  5 c   c     b     -        12773   80  130 
+sandman   959425889  7  4 f   -     -     -        12823    0    0 
+sandman   959425901  7  3 cc  br    b     bc       12823  260  395 Jc Ac
+sandman   959425952  7  2 Bf  -     -     -        12958   20    0 
+sandman   959426021  7  1 Bc  k     k     kf       12938   20    0 
+sandman   959426090  7  7 f   -     -     -        12918    0    0 
+sandman   959426141  8  7 f   -     -     -        12918    0    0 
+sandman   959426188  8  6 r   k     k     k        12918   60  150 Ac Qh
+sandman   959426210  8  5 ccc kf    -     -        13008   60    0 
+sandman   959426334  9  4 cr  kc    kc    k        12948  120  320 8h 8c
+sandman   959426398  9  3 cc  kc    c     f        13148  120    0 
+sandman   959426453  9  2 Bc  k     k     k        13028   40    0 8s Jh
+sandman   959426500  9  1 Bc  b     b     -        12988   80  180 
+sandman   959426540  9  9 c   c     c     f        13088  100    0 
+sandman   959426627  9  8 f   -     -     -        12988    0    0 
+sandman   959426684  8  7 f   -     -     -        12988    0    0 
+sandman   959426749  8  6 f   -     -     -        12988    0    0 
+sandman   959426770  8  5 f   -     -     -        12988    0    0 
+sandman   959426837  9  4 KQ  -     -     -        12988    0    0 
+sandman   959426981  9  9 f   -     -     -        12988    0    0 
+sandman   959427021  9  8 c   k     k     f        12988   40    0 
+sandman   959427094  9  7 f   -     -     -        12948    0    0 
+sandman   959427168  8  5 c   k     kf    -        12948   20    0 
+sandman   959427244  9  5 cc  rc    c     k        12928  140    0 Js 5s
+sandman   959427299  9  4 f   -     -     -        12788    0    0 
+sandman   959427359  9  3 fQ  -     -     -        12788    0    0 
+sandman   959503069  7  3 c   c     k     k        12788   40    0 7d 6c
+sandman   959503132  7  2 Bc  kf    -     -        12748   40    0 
+sandman   959503154  7  1 Bf  -     -     -        12708   10    0 
+sandman   959503170  7  7 f   -     -     -        12698    0    0 
+sandman   959503184  7  6 c   b     b     b        12698  120    0 7s 8s
+sandman   959503214  8  5 f   -     -     -        12578    0    0 
+sandman   959503271  9  4 f   -     -     -        12578    0    0 
+sandman   959503312  9  3 f   -     -     -        12578    0    0 
+sandman   959503346  9  2 Bk  c     f     -        12578   40    0 
+sandman   959503391  9  1 Bc  kr    b     kc       12538  180    0 9h 8c
+sandman   959503469  9  9 f   -     -     -        12358    0    0 
+sandman   959503519  9  8 f   -     -     -        12358    0    0 
+sandman   959503555  8  6 f   -     -     -        12358    0    0 
+sandman   959503576  8  5 c   k     b     -        12358   60  100 
+sandman   959503611  8  4 f   -     -     -        12398    0    0 
+sandman   959503642  8  3 f   -     -     -        12398    0    0 
+sandman   959503670  8  2 Bk  kQ    -     -        12398   20    0 
+sandman   959506409 10 10 cc  f     -     -        12338   40    0 
+sandman   959506439 10  9 cc  f     -     -        12298   40    0 
+sandman   959506493 10  8 f   -     -     -        12258    0    0 
+sandman   959506533 10  7 c   b     b     -        12258   80  240 
+sandman   959506577 10  6 f   -     -     -        12418    0    0 
+sandman   959506595 10  5 f   -     -     -        12418    0    0 
+sandman   959506620 10  4 c   kf    -     -        12418   20    0 
+sandman   959506669 10  3 f   -     -     -        12398    0    0 
+sandman   959506693 10  2 Bk  k     c     c        12398  100  260 7s Kh
+sandman   959506735 10  1 Bc  kf    -     -        12558   20    0 
+sandman   959506773 10 10 f   -     -     -        12538    0    0 
+sandman   959506800  9  8 cc  c     c     f        12538  100    0 
+sandman   959506831  9  7 f   -     -     -        12438    0    0 
+sandman   959506877 10  7 f   -     -     -        12438    0    0 
+sandman   959506922  9  5 cc  c     c     c        12438  140    0 Ad 9d
+sandman   959506955  9  4 c   k     c     k        12298   60    0 2h Jh
+sandman   959506989  9  3 fQ  -     -     -        12238    0    0 
+sandman   959510562  8  8 f   -     -     -        12238    0    0 
+sandman   959510606  8  7 f   -     -     -        12238    0    0 
+sandman   959510628  9  6 f   -     -     -        12238    0    0 
+sandman   959510650  9  6 f   -     -     -        12238    0    0 
+sandman   959510673  8  4 f   -     -     -        12238    0    0 
+sandman   959510716  8  3 c   b     bc    kc       12238  160    0 6c Ah
+sandman   959510751  8  2 Bk  kc    kr    b        12078  160  330 6d Kc
+sandman   959510783  8  1 Bc  kc    k     k        12248   40    0 5d 6c
+sandman   959510862  7  7 c   k     k     k        12208   20    0 3d 2d
+sandman   959510901  7  6 f   -     -     -        12188    0    0 
+sandman   959510930  7  5 r   b     -     -        12188   60  110 
+sandman   959510962  7  4 f   -     -     -        12238    0    0 
+sandman   959511010  7  3 cc  f     -     Q        12238   40    0 

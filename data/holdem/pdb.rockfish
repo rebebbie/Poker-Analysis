@@ -1,0 +1,114 @@
+rockfish  957541898  5  4 f   -     -     -          275    0    0 
+rockfish  957541923  4  2 r   b     b     -          275   50  100 
+rockfish  957541951  5  2 Bf  -     -     -          325   10    0 
+rockfish  957541959  5  1 Bc  kc    bc    kf         315   70    0 
+rockfish  957541982  5  5 c   c     c     f          245   50    0 
+rockfish  957542003  5  4 c   b     kf    -          195   20    0 
+rockfish  957542039  5  3 f   -     -     -          175    0    0 
+rockfish  957542070  5  2 Bf  -     -     -          175   10    0 
+rockfish  957542093  5  1 Bc  krc   kc    brc        165  160  420 Ks 2h
+rockfish  957542126  5  5 f   -     -     -          425    0    0 
+rockfish  957542160  5  4 c   f     -     -          425   20    0 
+rockfish  957542172  5  3 rc  rr    rr    rc         405  210  425 7c 7h
+rockfish  957542246  4  2 B   -     -     -          620   10   15 
+rockfish  957542300  2  1 Bf  -     -     -          625    5    0 
+rockfish  957542307  2  2 B   -     -     -          620   10   15 
+rockfish  957542309  2  1 Bf  -     -     -          625    5    0 
+rockfish  957542311  2  2 B   -     -     -          620   10   15 
+rockfish  957542314  2  1 Br  b     -     -          625   30   50 
+rockfish  957542321  2  2 Bc  c     c     k          645   50    0 Ks 7d
+rockfish  957542335  2  1 Bf  -     -     -          595    5    0 
+rockfish  957542341  2  2 B   -     -     -          590   10   15 
+rockfish  957542344  2  1 Bf  -     -     -          595    5    0 
+rockfish  957542346  2  2 Bk  r     k     k          590   30    0 8h 8c
+rockfish  957542360  2  1 Bf  -     -     -          560    5    0 
+rockfish  957542367  2  2 Bk  r     k     b          555   50   80 
+rockfish  957542383  2  1 Bc  b     -     -          585   20   30 
+rockfish  957542392  2  2 Bk  f     -     -          595   10    0 
+rockfish  957542402  2  1 Bc  k     k     b          585   30   40 
+rockfish  957542423  3  3 Q   -     -     -          595    0    0 
+rockfish  957795860  7  2 Bc  kf    -     -          595   20    0 
+rockfish  957795913  7  1 Bf  -     -     -          575    5    0 
+rockfish  957795963  7  6 c   f     -     -          570   20    0 
+rockfish  957796020  7  5 c   k     k     f          550   10    0 
+rockfish  957796090  7  4 f   -     -     -          540    0    0 
+rockfish  957796125  8  3 r   b     b     bf         540   70    0 
+rockfish  957796147  9  2 Bk  kc    kf    -          470   20    0 
+rockfish  957796170  9  1 Bf  -     -     -          450    5    0 
+rockfish  957796233  9  9 c   k     f     -          445   10    0 
+rockfish  957796263  9  8 c   b     br    b          435  110    0 6h 7d
+rockfish  957796315  9  7 c   kf    -     -          325   20    0 
+rockfish  957796352  9  6 f   -     -     -          305    0    0 
+rockfish  957796394  9  6 r   r     c     f          305   60    0 
+rockfish  957796461  8  3 Q   -     -     -          245    0    0 
+rockfish  957802168  4  4 f   -     -     -          245    0    0 
+rockfish  957802198  4  3 rc  b     -     -          245   40   75 
+rockfish  957802211  4  2 Bk  k     k     r          280   50   50 8d 2h
+rockfish  957802230  5  1 Bf  -     -     -          280    5    0 
+rockfish  957802259  5  5 c   crc   c     c          275   90    0 Ah 5s
+rockfish  957802308  5  4 f   -     -     -          185    0    0 
+rockfish  957802339  5  3 r   b     b     b          185   70    0 4h 3h
+rockfish  957802358  5  2 Bk  kf    -     -          115   10    0 
+rockfish  957802383  4  1 Bc  b     b     bf         105   70    0 
+rockfish  957802411  4  4 f   -     -     -           35    0    0 
+rockfish  957802430  4  3 f   -     -     -           35    0    0 
+rockfish  957802441  4  2 Bk  k     f     -           35   10    0 
+rockfish  957802472  4  1 Bc  k     kcA   -           25   25    0 Th Ad
+rockfish  958172980  5  3 f   -     -     -          990    0    0 
+rockfish  958172993  5  2 B   -     -     -          990   10   15 
+rockfish  958173003  5  1 Bf  -     -     -          995    5    0 
+rockfish  958173038  5  5 cc  c     f     -          990   30    0 
+rockfish  958173068  5  4 c   b     b     b          960   60  135 Ts Jd
+rockfish  958173096  6  3 f   -     -     -         1035    0    0 
+rockfish  958173110  6  2 Bk  k     b     b         1035   50  100 
+rockfish  958173151  6  1 Bc  bc    kc    b         1085   80  170 
+rockfish  958173180  6  6 f   -     -     -         1175    0    0 
+rockfish  958173202  6  5 cc  f     -     -         1175   20    0 
+rockfish  958173246  6  4 f   -     -     -         1155    0    0 
+rockfish  958173275  6  3 f   -     -     -         1155    0    0 
+rockfish  958173308  6  2 Bc  kf    -     -         1155   20    0 
+rockfish  958173346  7  1 Bcc kr    b     bc        1135  120    0 Ks 5s
+rockfish  958173383  7  7 cc  f     -     -         1015   20    0 
+rockfish  958173444  7  6 f   -     -     -          995    0    0 
+rockfish  958173479  6  4 f   -     -     -          995    0    0 
+rockfish  958173504  6  3 f   -     -     -          995    0    0 
+rockfish  958173555  5  2 Bf  -     -     -          995   10    0 
+rockfish  958173596  5  1 Bf  -     -     -          985    5    0 
+rockfish  958173628  5  5 f   -     -     -          980    0    0 
+rockfish  958173657  4  4 f   -     -     -          980    0    0 
+rockfish  958173679  5  4 f   -     -     -          980    0    0 
+rockfish  958173707  5  3 f   -     -     -          980    0    0 
+rockfish  958173728  5  2 Bk  kf    -     -          980   10    0 
+rockfish  958173754  6  1 Bf  -     -     -          970    5    0 
+rockfish  958173786  6  6 f   -     -     -          965    0    0 
+rockfish  958173849  6  5 f   -     -     -          965    0    0 
+rockfish  958173885  6  4 f   -     -     -          965    0    0 
+rockfish  958173912  6  3 f   -     -     -          965    0    0 
+rockfish  958173972  8  2 Bf  -     -     -          965   10    0 
+rockfish  958174055  8  1 Bf  -     -     -          955    5    0 
+rockfish  958174098  8  8 f   -     -     -          950    0    0 
+rockfish  958174149  7  7 rc  f     -     -          950   40    0 
+rockfish  958174197  7  6 f   -     -     -          910    0    0 
+rockfish  958174242  8  6 f   -     -     -          910    0    0 
+rockfish  958174286  8  5 f   -     -     -          910    0    0 
+rockfish  958174337  7  3 f   -     -     -          910    0    0 
+rockfish  958174393  6  2 Bk  kf    -     -          910   10    0 
+rockfish  958174418  6  1 Bcc bc    kc    kf         900   80    0 
+rockfish  958174470  6  6 f   -     -     -          820    0    0 
+rockfish  958174516  6  5 r   r     b     kf         820   60    0 
+rockfish  958174552  7  5 c   k     b     k          760   30    0 Qs Th
+rockfish  958174599  7  4 f   -     -     -          730    0    0 
+rockfish  958174640  8  3 f   -     -     -          730    0    0 
+rockfish  958174699  8  2 Bk  b     -     -          730   20   40 
+rockfish  958174736  8  1 Bf  -     -     -          750    5    0 
+rockfish  958174782  8  8 c   f     -     -          745   10    0 
+rockfish  958174842  7  6 cc  c     c     f          735   60    0 
+rockfish  958174895  7  5 f   -     -     -          675    0    0 
+rockfish  958174928  7  4 rr  b     -     -          675   50  175 
+rockfish  958174964  7  3 cc  kc    kf    -          800   30    0 
+rockfish  958175014  7  2 Bc  b     br    bc         770  130    0 7c 9c
+rockfish  958175061  7  1 Bc  kr    b     b          640   80    0 8c 4c
+rockfish  958175141  7  7 r   b     b     k          560   60    0 5s 7c
+rockfish  958175182  8  7 c   k     f     -          500   20    0 
+rockfish  958175238  9  7 r   c     c     f          480   50    0 
+rockfish  958175317  8  3 Q   -     -     -          430    0    0 

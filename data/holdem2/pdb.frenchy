@@ -1,0 +1,446 @@
+frenchy   957999477  4  2 Bk  bc    b     b        10452  140  440 As 6s
+frenchy   957999525  4  1 Bc  kc    k     b        10752  100  220 
+frenchy   957999552  4  4 c   c     k     k        10872   40    0 5h As
+frenchy   957999575  4  3 c   kf    -     -        10832   20    0 
+frenchy   957999603  4  2 BQ  -     -     -        10812   20    0 
+frenchy   958242472  8  6 cc  k     k     kf       10327   40    0 
+frenchy   958242542  9  4 cc  kf    -     -        10287   40    0 
+frenchy   958242605  9  4 f   -     -     -        10247    0    0 
+frenchy   958242647  8  2 Bk  kf    -     -        10247   20    0 
+frenchy   958242688  8  1 Bf  -     -     -        10227   10    0 
+frenchy   958242716  8  8 c   k     c     c        10217  100    0 Jc 8s
+frenchy   958242779  8  7 f   -     -     -        10117    0    0 
+frenchy   958242806  8  6 c   kc    kc    k        10117   80    0 Td 9s
+frenchy   958242849  8  5 f   -     -     -        10037    0    0 
+frenchy   958242911  8  5 c   k     f     -        10037   20    0 
+frenchy   958242942  7  3 c   k     k     f        10017   20    0 
+frenchy   958242986  7  2 Bk  b     -     -         9997   40   90 
+frenchy   958243008  7  1 Bf  Q     -     -        10047   10    0 
+frenchy   958797463  7  7 c   k     c     c        15952  100    0 Jd 7d
+frenchy   958797499  8  6 f   -     -     -        15852    0    0 
+frenchy   958797514  8  5 cc  c     c     k        15852  100    0 8c Jc
+frenchy   958797548  8  4 f   -     -     -        15752    0    0 
+frenchy   958797584  9  4 f   -     -     -        15752    0    0 
+frenchy   958797662  9  3 f   -     -     -        15752    0    0 
+frenchy   958797683  9  2 Bk  kc    kc    k        15752   80    0 Qd 9c
+frenchy   958797778 10  1 Bf  -     -     -        15672   10    0 
+frenchy   958797832 10 10 f   -     -     -        15662    0    0 
+frenchy   958797891 10  9 f   -     -     -        15662    0    0 
+frenchy   958797918 10  8 f   -     -     -        15662    0    0 
+frenchy   958797948 10  7 c   kf    -     -        15662   20    0 
+frenchy   958797981 10  6 c   c     c     c        15642  140    0 Js Ks
+frenchy   958798053 10  5 cc  kc    kc    kc       15502  140  175 Qs Qc
+frenchy   958798108 10  4 cc  cc    c     f        15537  140    0 
+frenchy   958798204 10  3 c   kc    kc    kc       15397  140  195 Qc Th
+frenchy   958798258 10  2 Bc  kc    kc    kf       15452  100    0 
+frenchy   958798301 10  1 Bf  -     -     -        15352   10    0 
+frenchy   958798323 10 10 c   c     c     c        15342  160    0 6h Kc
+frenchy   958798370 10  9 cc  kc    kc    b        15182  140  370 4h Ah
+frenchy   958798465 10  8 f   -     -     -        15412    0    0 
+frenchy   958798495 10  7 c   c     cf    -        15412  140    0 
+frenchy   958798572 10  6 f   -     -     -        15272    0    0 
+frenchy   958798649 10  5 f   -     -     -        15272    0    0 
+frenchy   958798696 10  4 cc  k     b     k        15272   80    0 8c 6d
+frenchy   958798745 10  3 c   k     k     k        15192   20    0 Qh Tc
+frenchy   958798806 10  2 Bk  kf    -     -        15172   20    0 
+frenchy   958798827 10  1 Bf  -     -     -        15152   10    0 
+frenchy   958798872 10 10 c   c     c     c        15142  120  290 Kc Kh
+frenchy   958798926 10  9 c   k     c     f        15312   60    0 
+frenchy   958798962 10  8 c   f     -     -        15252   40    0 
+frenchy   958798987 10  7 f   -     -     -        15212    0    0 
+frenchy   958799027 10  6 f   -     -     -        15212    0    0 
+frenchy   958799076 10  5 cc  c     c     k        15212  120  440 Qd Ks
+frenchy   958799132 10  4 cc  c     rc    c        15532  220  540 8s 9h
+frenchy   958799180 10  3 cc  b     b     -        15852  100  210 
+frenchy   958799224  9  2 Bc  kc    kc    kc       15962  140    0 7s Js
+frenchy   958799258 10  1 Bc  kf    -     -        15822   60    0 
+frenchy   958799304 10 10 f   -     -     -        15762    0    0 
+frenchy   958799325  9  8 c   c     f     -        15762   40    0 
+frenchy   958799389  9  7 c   c     r     b        15722  160  370 5d 5c
+frenchy   958799444  9  6 c   k     f     -        15932   20    0 
+frenchy   958799494  9  5 c   c     r     r        15912  200  460 Kh Qh
+frenchy   958799542  8  3 f   -     -     -        16172    0    0 
+frenchy   958799599  8  2 Bk  kf    -     -        16172   20    0 
+frenchy   958799696  8  1 Bc  kc    kc    kc       16152  180  520 7s Ac
+frenchy   958799752  8  8 f   -     -     -        16492    0    0 
+frenchy   958799798  8  7 cc  c     kc    f        16492  100    0 
+frenchy   958799879  8  6 cc  ccc   kc    kf       16392  180    0 
+frenchy   958800010  8  5 f   -     -     -        16212    0    0 
+frenchy   958800070  8  4 f   -     -     -        16212    0    0 
+frenchy   958800106  8  3 cc  k     k     bc       16212  120  320 Ah Th
+frenchy   958800191  8  2 Bk  k     k     k        16412   20    0 3d 9h
+frenchy   958800226  8  1 Bcc kcc   kc    k        16392  140    0 4d Ah
+frenchy   958800278  8  8 f   -     -     -        16252    0    0 
+frenchy   958800323  8  7 c   c     c     f        16252  100    0 
+frenchy   958800348  8  6 c   k     f     -        16152   20    0 
+frenchy   958800418  7  4 c   k     b     -        16132   60  100 
+frenchy   958800460  7  3 c   kc    k     kf       16172   40    0 
+frenchy   958800496  7  2 Bk  c     c     c        16132  120    0 8s 8d
+frenchy   958800521  7  1 Bf  -     -     -        16012   10    0 
+frenchy   958800535  7  7 f   -     -     -        16002    0    0 
+frenchy   958800559  7  6 c   k     b     -        16002   60  110 
+frenchy   958800584  7  5 f   -     -     -        16052    0    0 
+frenchy   958800633  7  4 f   -     -     -        16052    0    0 
+frenchy   958800655  7  3 c   k     k     k        16052   20   50 4d Ac
+frenchy   958800676  7  2 Bf  -     -     -        16082   20    0 
+frenchy   958800707  7  1 Bc  kc    kc    kf       16062  120    0 
+frenchy   958800754  7  7 f   -     -     -        15942    0    0 
+frenchy   958800784  7  6 c   k     k     b        15942   60   90 
+frenchy   958800808  7  5 c   c     f     -        15972   40    0 
+frenchy   958800851  6  3 c   cc    kc    b        15932  140  390 Jh 9d
+frenchy   958800884  6  2 Bk  k     k     k        16182   20    0 2h 8h
+frenchy   958800907  6  1 Bf  -     -     -        16162   10    0 
+frenchy   958800929  6  6 f   -     -     -        16152    0    0 
+frenchy   958800952  6  5 c   c     c     k        16152   80  170 9h Ks
+frenchy   958800978  6  4 c   k     f     -        16242   20    0 
+frenchy   958801015  6  3 cc  kc    k     kf       16222   60    0 
+frenchy   958801050  6  2 Bk  kc    k     k        16162   40  110 Qd 4d
+frenchy   958801067  6  1 Bc  kf    -     -        16232   20    0 
+frenchy   958801099  6  6 f   -     -     -        16212    0    0 
+frenchy   958801112  6  5 c   k     c     k        16212   60    0 3h 5h
+frenchy   958801138  7  5 c   c     c     k        16152   80   90 Ac Js
+frenchy   958801191  7  4 c   c     c     c        16162  120  250 4d 4s
+frenchy   958801215  7  3 cr  bc    c     c        16292  180  510 As Qs
+frenchy   958801275  7  2 B   -     -     -        16622   20   30 
+frenchy   958801289  7  1 Bf  -     -     -        16632   10    0 
+frenchy   958801319  7  7 c   c     c     f        16622   80    0 
+frenchy   958801356  8  7 f   -     -     -        16542    0    0 
+frenchy   958801400  8  6 c   c     k     k        16542   40    0 Td Ac
+frenchy   958801434  8  5 c   f     -     -        16502   40    0 
+frenchy   958801459  8  4 f   -     -     -        16462    0    0 
+frenchy   958801470  8  3 f   -     -     -        16462    0    0 
+frenchy   958801499  9  3 f   -     -     -        16462    0    0 
+frenchy   958801527  9  2 Bk  kc    kc    kf       16462   80    0 
+frenchy   958801580  9  1 Bc  kf    -     -        16382   20    0 
+frenchy   958801612  9  9 f   -     -     -        16362    0    0 
+frenchy   958801645  9  8 f   -     -     -        16362    0    0 
+frenchy   958801681 10  8 c   b     b     b        16362  120  240 
+frenchy   958801719 10  7 f   -     -     -        16482    0    0 
+frenchy   958801773 10  6 f   -     -     -        16482    0    0 
+frenchy   958801815 10  5 c   c     c     f        16482   80    0 
+frenchy   958801868 10  4 c   c     c     cf       16402  120    0 
+frenchy   958801928 10  3 cc  kf    -     -        16282   40    0 
+frenchy   958801998 10  2 Bf  -     -     -        16242   20    0 
+frenchy   958802037 10  1 Bc  kc    kc    kc       16222  140    0 Ts 2s
+frenchy   958802080 10 10 f   -     -     -        16082    0    0 
+frenchy   958802127 10  9 c   c     c     k        16082   80  200 9h Td
+frenchy   958802153 10  9 c   f     -     -        16202   20    0 
+frenchy   958802207 10  7 f   -     -     -        16182    0    0 
+frenchy   958802263 10  7 c   c     f     -        16182   40    0 
+frenchy   958802301 10  5 c   f     -     -        16142   20    0 
+frenchy   958802359 10  4 f   -     -     -        16122    0    0 
+frenchy   958802373 10  3 c   bc    bc    kc       16122  180    0 8h Kh
+frenchy   958802438 10  2 Bk  k     c     b        15942  100  400 7c Qd
+frenchy   958802526  9  1 Bc  kf    -     -        16242   20    0 
+frenchy   958802597  9  9 c   c     cc    b        16222  180  740 7s 7d
+frenchy   958802723 10  9 f   -     -     -        16782    0    0 
+frenchy   958802777 10  8 f   -     -     -        16782    0    0 
+frenchy   958802862 10  7 c   kc    kf    -        16782   40    0 
+frenchy   958802949 10  6 c   cc    kc    k        16742  100    0 As 5d
+frenchy   958803018 10  5 cc  kc    kc    kf       16642  100    0 
+frenchy   958803094 10  4 fQ  -     -     -        16542    0    0 
+frenchy   959029193  7  5 c   k     cc    kc       13542  140    0 5h Ac
+frenchy   959029282  8  4 f   -     -     -        13402    0    0 
+frenchy   959029334  7  3 KQ  -     -     -        13402    0    0 
+frenchy   959029463  8  7 f   -     -     -        13402    0    0 
+frenchy   959029494  8  6 c   b     k     k        13402   40  140 Ts 2s
+frenchy   959029552  8  5 cc  kc    kc    kf       13502  100    0 
+frenchy   959029603  8  4 c   k     k     k        13402   20    0 6d 4s
+frenchy   959029630  8  3 cc  c     kf    -        13382   60    0 
+frenchy   959029678  8  2 Bk  kf    -     -        13322   20    0 
+frenchy   959029722  8  1 Bf  -     -     -        13302   10    0 
+frenchy   959029749  8  8 c   c     c     r        13292  160  420 6c Qc
+frenchy   959029796  9  8 c   f     -     -        13552   40    0 
+frenchy   959029833  9  8 f   -     -     -        13512    0    0 
+frenchy   959029870  8  6 f   -     -     -        13512    0    0 
+frenchy   959029948  7  4 f   -     -     -        13512    0    0 
+frenchy   959029981  7  3 cc  c     c     f        13512  100    0 
+frenchy   959030023  7  2 Bk  kf    -     -        13412   20    0 
+frenchy   959030060  7  1 Bc  kc    kc    kf       13392  100    0 
+frenchy   959030090  7  7 c   k     c     f        13292   60    0 
+frenchy   959030122  7  6 r   k     b     b        13232  120  380 Qs Qh
+frenchy   959030164  7  5 c   b     b     b        13492  120    0 Td Qd
+frenchy   959030200  7  4 c   c     c     c        13372  160    0 7c As
+frenchy   959030238  7  3 f   -     -     -        13212    0    0 
+frenchy   959030261  8  2 Bf  -     -     -        13212   20    0 
+frenchy   959030304  8  1 Bf  -     -     -        13192   10    0 
+frenchy   959030372  8  8 c   k     k     f        13182   20    0 
+frenchy   959030437  8  7 f   -     -     -        13162    0    0 
+frenchy   959030493  8  6 f   -     -     -        13162    0    0 
+frenchy   959030538  8  5 c   c     f     -        13162   40    0 
+frenchy   959030577  8  4 f   -     -     -        13122    0    0 
+frenchy   959030602  9  3 f   -     -     -        13122    0    0 
+frenchy   959030677  8  2 Bf  -     -     -        13122   20    0 
+frenchy   959030709  8  1 Bc  kc    b     b        13102  140  520 6s 4h
+frenchy   959030773  8  8 c   c     rc    rr       13482  360 1320 2d 4d
+frenchy   959030846  8  7 cc  c     f     -        14442  120    0 
+frenchy   959030897  7  5 c   k     c     k        14322   80    0 Th 9s
+frenchy   959030938  8  5 c   f     -     -        14242   20    0 
+frenchy   959030987  9  4 f   -     -     -        14222    0    0 
+frenchy   959031047  9  3 cc  f     -     -        14222   40    0 
+frenchy   959031109  9  2 Bf  -     -     -        14182   20    0 
+frenchy   959031171  9  1 Bc  kc    kc    kc       14162  140    0 Kc Qc
+frenchy   959031244  9  9 c   c     k     f        14022   40    0 
+frenchy   959031326 10  8 f   -     -     -        13982    0    0 
+frenchy   959031364 10  7 f   -     -     -        13982    0    0 
+frenchy   959031421 10  6 c   kf    -     -        13982   20    0 
+frenchy   959031499  9  5 f   -     -     -        13962    0    0 
+frenchy   959031570  9  5 f   -     -     -        13962    0    0 
+frenchy   959031620  8  3 f   -     -     -        13962    0    0 
+frenchy   959031699  8  2 Bk  k     k     b        13962   60  140 
+frenchy   959031773  9  1 Bf  -     -     -        14042   10    0 
+frenchy   959031797 10 10 c   c     c     c        14032  120  153 Ac 7s
+frenchy   959031873 10  9 c   c     c     f        14065   80    0 
+frenchy   959031909 10  8 c   k     k     f        13985   20    0 
+frenchy   959031966 10  7 c   cc    f     -        13965  100    0 
+frenchy   959032054 10  6 c   f     -     -        13865   40    0 
+frenchy   959032118 10  5 f   -     -     -        13825    0    0 
+frenchy   959032160 10  4 f   -     -     -        13825    0    0 
+frenchy   959032202 10  3 f   -     -     -        13825    0    0 
+frenchy   959032279 10  2 Bk  c     kc    kc       13825  120    0 8d 6d
+frenchy   959032342 10  1 Bf  -     -     -        13705   10    0 
+frenchy   959032378 10 10 c   c     f     -        13695   40    0 
+frenchy   959032491  9  8 f   -     -     -        13655    0    0 
+frenchy   959032580  9  7 c   c     c     c        13655  120    0 9h Kh
+frenchy   959032633  9  6 c   kf    -     -        13535   20    0 
+frenchy   959032660  9  5 f   -     -     -        13515    0    0 
+frenchy   959032711 10  4 f   -     -     -        13515    0    0 
+frenchy   959032756 10  3 f   -     -     -        13515    0    0 
+frenchy   959032802  9  1 Bf  -     -     -        13515   20    0 
+frenchy   959032831 10  1 Bf  -     -     -        13495   10    0 
+frenchy   959032879 10 10 f   -     -     -        13485    0    0 
+frenchy   959032927 10  9 f   -     -     -        13485    0    0 
+frenchy   959033005 10  8 c   c     f     -        13485   60    0 
+frenchy   959033066 10  7 f   -     -     -        13425    0    0 
+frenchy   959033178  8  5 c   c     c     f        13425  100    0 
+frenchy   959033233  9  5 cc  c     f     -        13325   60    0 
+frenchy   959033306  9  4 cc  kf    -     -        13265   40    0 
+frenchy   959033357  9  3 ccc f     -     -        13225   80    0 
+frenchy   959033434 10  2 Bk  kc    kc    kc       13145  120    0 Th 8c
+frenchy   959033484 10  1 Bc  kf    -     -        13025   20    0 
+frenchy   959033566 10 10 f   -     -     -        13005    0    0 
+frenchy   959033622 10  3 Q   -     -     -        13005    0    0 
+frenchy   959137836  6  4 KQ  -     -     -        13005    0    0 
+frenchy   959137914  8  2 Bk  f     -     -        13005   20    0 
+frenchy   959137945  9  1 Bf  -     -     -        12985   10    0 
+frenchy   959138004  8  8 c   c     c     c        12975  180    0 Kc Jd
+frenchy   959138055  8  7 f   -     -     -        12795    0    0 
+frenchy   959138131  9  7 c   c     k     k        12795   40   50 7s Kh
+frenchy   959138186 10  7 f   -     -     -        12805    0    0 
+frenchy   959138199 10  6 cc  kc    kf    -        12805   60    0 
+frenchy   959138274 10  5 f   -     -     -        12745    0    0 
+frenchy   959138307 10  4 f   -     -     -        12745    0    0 
+frenchy   959138348 10  3 f   -     -     -        12745    0    0 
+frenchy   959138390 10  2 Bc  c     b     b        12745  140  340 
+frenchy   959138479  9  1 Brc kc    kc    kc       12945  180  560 2h Th
+frenchy   959138541  9  9 c   c     c     c        13325  140    0 4s 7s
+frenchy   959138592  9  8 f   -     -     -        13185    0    0 
+frenchy   959138610  9  7 c   c     c     k        13185  100    0 7s Ac
+frenchy   959138663  9  6 c   kf    -     -        13085   20    0 
+frenchy   959138706  9  5 f   -     -     -        13065    0    0 
+frenchy   959138760  9  4 c   c     f     -        13065   40    0 
+frenchy   959138794  9  3 c   f     -     -        13025   20    0 
+frenchy   959138847 10  2 Bc  bc    k     b        13005  120  320 Jd Js
+frenchy   959138945  9  1 Bc  kf    -     -        13205   20    0 
+frenchy   959138988  7  7 c   k     f     -        13185   20    0 
+frenchy   959139019  7  6 c   k     f     -        13165   20    0 
+frenchy   959139057  6  4 c   c     c     f        13145   80    0 
+frenchy   959139082  6  3 f   -     -     -        13065    0    0 
+frenchy   959139146  6  2 Bc  kc    kc    kc       13065  140    0 6h Ac
+frenchy   959139280  6  1 Bc  kc    kc    kc       12925  140  340 3d Qd
+frenchy   959139336  6  6 f   -     -     -        13125    0    0 
+frenchy   959139373  7  6 c   c     c     r        13125  180  460 6d Ad
+frenchy   959139419  8  6 c   kf    -     -        13405   20    0 
+frenchy   959139476  8  5 f   -     -     -        13385    0    0 
+frenchy   959139506  8  4 cc  bc    bc    b        13385  200  470 3c Jc
+frenchy   959139579  8  3 cc  kc    k     kf       13655   60    0 
+frenchy   959139656  8  2 Bf  -     -     -        13595   20    0 
+frenchy   959139677  9  1 Bc  kf    -     -        13575   20    0 
+frenchy   959139726 10 10 f   -     -     -        13555    0    0 
+frenchy   959139763 10  9 c   c     k     k        13555   40    0 7c Kc
+frenchy   959139842 10  8 f   -     -     -        13515    0    0 
+frenchy   959139867 10  7 f   -     -     -        13515    0    0 
+frenchy   959139914 10  6 cc  cc    c     c        13515  160    0 As Th
+frenchy   959139959 10  5 f   -     -     -        13355    0    0 
+frenchy   959139982 10  4 KQ  -     -     -        13355    0    0 
+frenchy   959140149 10  2 Bc  c     f     -        13355   80    0 
+frenchy   959140217 10  1 Bc  b     -     -        13275   40   60 
+frenchy   959140246 10 10 f   -     -     -        13295    0    0 
+frenchy   959140339 10  9 c   c     c     f        13295  120    0 
+frenchy   959140387 10  8 c   c     f     -        13175   40    0 
+frenchy   959140430 10  7 cc  f     -     -        13135   80    0 
+frenchy   959140501 10  6 c   c     c     b        13055  120  270 Ac Kc
+frenchy   959140582 10  5 cc  kf    -     -        13205   40    0 
+frenchy   959140627 10  4 c   f     -     -        13165   20    0 
+frenchy   959140659 10  3 f   -     -     -        13145    0    0 
+frenchy   959140694 10  2 Bk  k     k     kf       13145   20    0 
+frenchy   959140752 10  1 Bc  kc    kc    kf       13125  100    0 
+frenchy   959140823 10 10 f   -     -     -        13025    0    0 
+frenchy   959140900 10  9 c   k     k     f        13025   20    0 
+frenchy   959140976 10  8 f   -     -     -        13005    0    0 
+frenchy   959141037 10  7 f   -     -     -        13005    0    0 
+frenchy   959141048 10  6 f   -     -     -        13005    0    0 
+frenchy   959141097 10  5 f   -     -     -        13005    0    0 
+frenchy   959141149 10  4 c   kc    c     c        13005  120    0 Qc Tc
+frenchy   959141222 10  3 f   -     -     -        12885    0    0 
+frenchy   959141261 10  2 Bc  kc    k     k        12885   80    0 4s 4c
+frenchy   959141333 10  1 Bc  kc    kc    kf       12805  100    0 
+frenchy   959141399 10 10 c   c     k     f        12705   40    0 
+frenchy   959141433 10  9 f   -     Q     -        12665    0    0 
+frenchy   959408693  9  4 c   k     k     k        12665   20   30 5c 7d
+frenchy   959408747 10  3 cc  kf    -     -        12675   40    0 
+frenchy   959408856 10  2 Bc  k     b     b        12635  120  240 
+frenchy   959408893 10  1 Bc  k     kc    kc       12755  100    0 Ad 7d
+frenchy   959408931 10 10 f   -     -     -        12655    0    0 
+frenchy   959408988 10  9 c   c     c     c        12655  160  510 Kh Kd
+frenchy   959409029 10  8 f   -     -     -        13005    0    0 
+frenchy   959409071 10  7 c   b     bc    c        13005  160    0 Qh 7c
+frenchy   959409120 10  6 f   -     -     -        12845    0    0 
+frenchy   959409172 10  5 c   cc    kc    kc       12845  140    0 Ad 6c
+frenchy   959409224 10  4 f   -     -     -        12705    0    0 
+frenchy   959409276 10  3 f   -     -     -        12705    0    0 
+frenchy   959409302 10  2 Bk  k     kf    -        12705   20    0 
+frenchy   959409339 10  1 Bf  -     -     -        12685   10    0 
+frenchy   959409386  9  9 f   -     -     -        12675    0    0 
+frenchy   959409412  9  8 c   b     -     -        12675   40  120 
+frenchy   959409434  9  7 c   k     k     c        12755   60    0 6d Ah
+frenchy   959409480  9  6 c   f     -     -        12695   20    0 
+frenchy   959409532  8  4 c   cc    b     c        12675  140    0 5d 8d
+frenchy   959409585  9  3 f   -     -     -        12535    0    0 
+frenchy   959409627 10  2 Bk  kc    k     k        12535   40  160 Js Ac
+frenchy   959409687 10  1 Bc  kc    k     kc       12655  140    0 Jd Jc
+frenchy   959409739 10 10 cc  c     c     f        12515  160    0 
+frenchy   959409835  9  9 cc  c     c     c        12355  140    0 Ac 9s
+frenchy   959409872  9  7 f   -     -     -        12215    0    0 
+frenchy   959409907  9  6 cc  f     -     -        12215   40    0 
+frenchy   959409949  9  5 f   -     -     -        12175    0    0 
+frenchy   959410007  9  4 c   kc    k     f        12175   40    0 
+frenchy   959410076  9  3 f   -     -     -        12135    0    0 
+frenchy   959410128  9  2 Bc  k     k     k        12135   40  120 Qc As
+frenchy   959410166  9  1 Bc  kc    k     kc       12215   80    0 6h 7c
+frenchy   959410249 10 10 f   -     -     -        12135    0    0 
+frenchy   959410306  9  8 c   c     c     c        12135  120    0 9c Tc
+frenchy   959410365  9  7 f   -     -     -        12015    0    0 
+frenchy   959410398  9  6 c   c     f     -        12015   40    0 
+frenchy   959410442  9  5 f   -     -     -        11975    0    0 
+frenchy   959410482  9  4 f   -     -     -        11975    0    0 
+frenchy   959410500  9  3 c   kc    kf    -        11975   40    0 
+frenchy   959410550  9  2 Bk  k     k     k        11935   20    0 4d 5c
+frenchy   959410581  9  1 BQ  -     -     -        11915   10    0 
+frenchy   959741757 10  3 f   -     -     -        13610    0    0 
+frenchy   959741869 10  2 Bk  kc    kc    kf       13610   80    0 
+frenchy   959741937 10  1 Bc  kc    kf    -        13530   60    0 
+frenchy   959741991 10 10 c   b     c     b        13470  120  320 4c 4d
+frenchy   959742076 10  9 cc  c     f     -        13670   60    0 
+frenchy   959742126 10  8 c   k     k     f        13610   20    0 
+frenchy   959742168 10  7 c   kcc   kf    -        13590  100    0 
+frenchy   959742229 10  6 cc  krc   br    b        13490  260  750 Js Jc
+frenchy   959742284  9  5 f   -     -     -        13980    0    0 
+frenchy   959742361  9  4 f   -     -     -        13980    0    0 
+frenchy   959742386  9  3 c   k     c     k        13980   60    0 Jc Ac
+frenchy   959742432  8  1 Bc  kf    -     -        13920   40    0 
+frenchy   959742532  8  1 Bf  -     -     -        13880   10    0 
+frenchy   959742560  8  8 c   f     -     -        13870   20    0 
+frenchy   959742592  8  7 f   -     -     -        13850    0    0 
+frenchy   959742612  8  6 f   -     -     -        13850    0    0 
+frenchy   959742648  8  5 f   -     -     -        13850    0    0 
+frenchy   959742672  8  4 f   -     -     -        13850    0    0 
+frenchy   959742707  8  3 f   -     -     -        13850    0    0 
+frenchy   959742759  8  2 Bk  k     k     kf       13850   20    0 
+frenchy   959742832  8  1 Bc  k     kc    kf       13830   60    0 
+frenchy   959742880  8  8 cc  ccc   cc    c        13770  300    0 9s 9d
+frenchy   959743009  9  8 f   -     -     -        13470    0    0 
+frenchy   959743113  9  6 cc  c     c     f        13470  140    0 
+frenchy   959743186 10  6 c   kc    kf    -        13330   40    0 
+frenchy   959743255 10  5 fQ  -     -     -        13290    0    0 
+frenchy   959824635 10  9 cc  c     c     c         7994  140    0 Kd Qs
+frenchy   959824684 10  8 f   -     -     -         7854    0    0 
+frenchy   959824737 10  7 cc  cf    -     -         7854   80    0 
+frenchy   959824840 10  6 c   c     kf    -         7774   40    0 
+frenchy   959824917 10  5 c   ccc   c     f         7734  160    0 
+frenchy   959825018 10  4 f   -     -     -         7574    0    0 
+frenchy   959825081 10  3 cc  kf    -     -         7574   40    0 
+frenchy   959825160 10  2 Bf  -     -     -         7534   20    0 
+frenchy   959825255 10  1 Bf  -     -     -         7514   10    0 
+frenchy   959825281 10 10 c   k     k     k         7504   20    0 8h 7c
+frenchy   959825340 10  9 f   -     -     -         7484    0    0 
+frenchy   959825392 10  8 c   f     -     -         7484   20    0 
+frenchy   959825433 10  7 c   b     b     b         7464  120  230 
+frenchy   959825472 10  6 c   kc    kc    bc        7574  160  370 8c Td
+frenchy   959825528 10  5 c   kc    kc    kc        7784  120  430 9c Ac
+frenchy   959825588 10  4 c   k     rr    b         8094  220  223 9h Kd
+frenchy   959825646 10  3 f   -     -     -         8097    0    0 
+frenchy   959825698 10  2 Br  kcc   k     kc        8097  160  490 Ks Kd
+frenchy   959825772 10  1 Bc  k     k     k         8427   40    0 9s As
+frenchy   959825836 10 10 f   -     -     -         8387    0    0 
+frenchy   959825866 10  9 f   -     -     -         8387    0    0 
+frenchy   959825931 10  8 c   c     b     b         8387  120  400 
+frenchy   959825987 10  7 cc  kf    -     -         8667   40    0 
+frenchy   959826022 10  6 f   -     -     -         8627    0    0 
+frenchy   959826065 10  5 c   k     b     -         8627   60  120 
+frenchy   959826108 10  4 c   kf    -     -         8687   20    0 
+frenchy   959826172 10  3 cc  kf    -     -         8667   40    0 
+frenchy   959826224 10  2 Bc  k     kc    kc        8627  120  320 Ad Qd
+frenchy   959826271 10  1 Bf  -     -     -         8827   10    0 
+frenchy   959826378 10 10 c   c     c     k         8817  100  300 7d 8c
+frenchy   959826436 10  9 cc  cc    k     f         9017   80    0 
+frenchy   959826496 10  8 c   k     f     -         8937   20    0 
+frenchy   959826534 10  7 f   -     -     -         8917    0    0 
+frenchy   959826576 10  6 cc  cc    f     -         8917  140    0 
+frenchy   959826691 10  5 c   c     c     f         8777   80    0 
+frenchy   959826768 10  4 f   -     -     -         8697    0    0 
+frenchy   959826822 10  3 c   c     c     f         8697   80    0 
+frenchy   959826871  9  2 Bf  -     -     -         8617   20    0 
+frenchy   959826909 10  1 Bc  kc    kc    kc        8597  140    0 8c 7h
+frenchy   959826962 10 10 f   -     -     -         8457    0    0 
+frenchy   959827002 10  9 f   -     -     -         8457    0    0 
+frenchy   959827053 10  8 c   c     f     -         8457   40    0 
+frenchy   959827104 10  7 c   b     b     kf        8417   80    0 
+frenchy   959827170 10  6 cc  kc    kc    kf        8337  100    0 
+frenchy   959827218 10  5 c   kc    kc    k         8237   80    0 Js Ad
+frenchy   959827279 10  4 cc  kc    kcc   kf        8157  140    0 
+frenchy   959827344 10  3 c   k     cc    f         8017  100    0 
+frenchy   959827412 10  2 Bf  -     -     -         7917   20    0 
+frenchy   959827450 10  1 Bc  kf    -     -         7897   20    0 
+frenchy   959827522 10 10 r   rrc   c     c         7877  220    0 Kc Ad
+frenchy   959827576 10  9 f   -     -     -         7657    0    0 
+frenchy   959827637 10  8 c   c     f     -         7657   40    0 
+frenchy   959827689 10  7 f   -     -     -         7617    0    0 
+frenchy   959827745 10  6 c   b     -     -         7617   40  120 
+frenchy   959827780 10  5 c   c     f     -         7697   40    0 
+frenchy   959827818 10  4 cc  c     cc    kf        7657  180    0 
+frenchy   959827871 10  3 c   kc    c     f         7477   80    0 
+frenchy   959827963 10  2 Bk  k     k     k         7397   20    0 5c 3c
+frenchy   959828008 10  1 Bf  -     -     -         7377   10    0 
+frenchy   959828083 10 10 f   -     -     -         7367    0    0 
+frenchy   959828119 10  9 c   b     k     f         7367   40    0 
+frenchy   959828169 10  8 c   k     c     r         7327  140  290 
+frenchy   959828218 10  7 f   -     -     -         7477    0    0 
+frenchy   959828258 10  6 c   kc    kc    k         7477   80    0 Qc 8c
+frenchy   959828324 10  5 c   f     -     -         7397   40    0 
+frenchy   959828373 10  4 f   -     -     -         7357    0    0 
+frenchy   959828434 10  3 f   -     -     -         7357    0    0 
+frenchy   959828513 10  2 Bf  -     -     -         7357   20    0 
+frenchy   959828575 10  1 Bc  kf    -     -         7337   20    0 
+frenchy   959828627 10 10 c   c     c     c         7317  120  290 Jh Js
+frenchy   959828667 10  9 f   -     -     -         7487    0    0 
+frenchy   959828734 10  8 f   -     -     -         7487    0    0 
+frenchy   959828777 10  7 f   -     -     -         7487    0    0 
+frenchy   959828837 10  6 f   -     -     -         7487    0    0 
+frenchy   959828875  9  5 cc  kf    -     -         7487   40    0 
+frenchy   959828975  9  4 ccc kf    -     -         7447   80    0 
+frenchy   959829038 10  3 f   -     -     -         7367    0    0 
+frenchy   959829095 10  2 Bk  k     k     b         7367   60  140 7d 5c
+frenchy   959829149 10  1 Bc  kf    -     -         7447   20    0 
+frenchy   959829221 10 10 c   c     f     -         7427   60    0 
+frenchy   959829254 10  9 c   c     c     f         7367   80    0 
+frenchy   959829305 10  8 f   -     -     -         7287    0    0 
+frenchy   959829383 10  7 f   -     -     -         7287    0    0 
+frenchy   959829428  9  5 f   -     -     -         7287    0    0 
+frenchy   959829483  9  4 f   -     -     -         7287    0    0 
+frenchy   959829505 10  3 cc  kc    kc    k         7287  100    0 4c Qc
+frenchy   959829560 10  2 Bk  kc    kf    -         7187   40    0 
+frenchy   959829618  9  1 Bf  -     -     -         7147   10    0 
+frenchy   959829674  9  9 c   c     f     -         7137   40    0 
+frenchy   959829728 10  8 c   c     k     f         7097   40    0 
+frenchy   959829791 10  5 Q   -     -     -         7057    0    0 

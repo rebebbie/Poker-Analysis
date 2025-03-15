@@ -1,0 +1,174 @@
+scotty    959660816 10  7 f   -     -     -          465    0    0 
+scotty    959660876 10  6 f   -     -     -          465    0    0 
+scotty    959660924 10  5 c   k     f     -          465   10    0 
+scotty    959660973 10  4 f   -     -     -          455    0    0 
+scotty    959661069 10  3 cc  k     k     b          455   40   95 
+scotty    959661101 10  2 Bc  kc    kc    kf         510   50    0 
+scotty    959661195 10  1 Bcc kcc   kc    bc         460  160    0 9s Td
+scotty    959661304 10 10 c   k     f     -          300   10    0 
+scotty    959661389 10  9 f   -     -     -          290    0    0 
+scotty    959661471 10  8 f   -     -     -          290    0    0 
+scotty    959661542 10  7 c   c     rr    r          290  150  445 8h 9c
+scotty    959661622 10  6 c   b     -     -          585   20   55 
+scotty    959661661 10  5 f   -     -     -          620    0    0 
+scotty    959661683 10  4 f   -     -     -          620    0    0 
+scotty    959661738 10  3 f   -     -     -          620    0    0 
+scotty    959661842 10  2 Bc  b     b     b          620   70  145 
+scotty    959661871 10  1 Bc  kf    -     -          695   20    0 
+scotty    959661987 10 10 c   k     f     -          675   10    0 
+scotty    959662083 10  9 c   k     k     f          665   10    0 
+scotty    959662148 10  8 f   -     -     -          655    0    0 
+scotty    959662220 10  7 f   -     -     -          655    0    0 
+scotty    959662286 10  6 f   -     -     -          655    0    0 
+scotty    959662373  9  4 f   -     -     -          655    0    0 
+scotty    959662438  9  3 f   -     -     -          655    0    0 
+scotty    959662533 10  2 Bc  kc    kc    kf         655   50    0 
+scotty    959662587  9  1 Bc  kf    -     -          605   10    0 
+scotty    959662645  9  9 f   -     -     -          595    0    0 
+scotty    959662716  8  7 f   -     -     -          595    0    0 
+scotty    959662772  8  6 f   -     -     -          595    0    0 
+scotty    959662823  8  5 f   -     -     -          595    0    0 
+scotty    959662866  8  4 cc  f     -     -          595   20    0 
+scotty    959662890  8  3 f   -     -     -          575    0    0 
+scotty    959662947  9  2 Bc  kf    -     -          575   20    0 
+scotty    959663029  9  1 Bcc kc    kc    KQ         555   80    0 
+scotty    959664132  4  1 Bk  b     b     kf         475   40    0 
+scotty    959664167  5  1 Bc  k     k     kf         435   10    0 
+scotty    959664202  5  5 f   -     -     -          425    0    0 
+scotty    959664258  5  4 c   b     k     f          425   20    0 
+scotty    959664300  5  3 f   -     -     -          405    0    0 
+scotty    959664331  5  2 Br  b     b     b          405   70  180 Ah Kd
+scotty    959664384  6  1 Bc  bc    k     b          515   60  180 7d 5d
+scotty    959664423  6  6 rc  k     c     c          635   70    0 5h Ad
+scotty    959664456  7  5 cc  k     f     -          565   20    0 
+scotty    959664556  7  4 cc  kc    k     brc        545  110  280 7c Ad
+scotty    959664646  7  3 c   kc    b     b          715   60  220 Ts Qs
+scotty    959664734  7  2 Bc  kc    kf    -          875   40    0 
+scotty    959664784  7  1 Bf  -     -     -          835    5    0 
+scotty    959664817  7  7 c   c     b     c          830   70  230 Kc Th
+scotty    959664865  7  6 f   -     -     -          990    0    0 
+scotty    959664938  8  6 cc  k     kcc   kf         990   80    0 
+scotty    959665093  7  5 cc  f     -     -          910   30    0 
+scotty    959665164  7  4 f   -     -     -          880    0    0 
+scotty    959665244  8  3 f   -     -     -          880    0    0 
+scotty    959665333  8  2 Bc  f     -     -          880   20    0 
+scotty    959665417  8  1 Bf  -     -     -          860    5    0 
+scotty    959665529  8  8 f   -     -     -          855    0    0 
+scotty    959665631  9  7 f   -     -     -          855    0    0 
+scotty    959665777 10  7 f   -     -     -          855    0    0 
+scotty    959665846 10  6 f   -     -     -          855    0    0 
+scotty    959665904 10  5 f   -     -     -          855    0    0 
+scotty    959665954  9  4 f   -     -     -          855    0    0 
+scotty    959666019 10  3 f   -     -     -          855    0    0 
+scotty    959666094 10  2 Bc  kf    -     -          855   20    0 
+scotty    959666182 10  1 Bf  -     -     -          835    5    0 
+scotty    959666274 10 10 f   -     -     -          830    0    0 
+scotty    959666318 10  9 f   -     -     -          830    0    0 
+scotty    959666374  9  7 c   k     f     -          830   10    0 
+scotty    959666425 10  7 f   -     -     -          820    0    0 
+scotty    959666499 10  6 f   -     -     -          820    0    0 
+scotty    959666636 10  5 ccc rc    bc    kf         820  110    0 
+scotty    959666686 10  4 f   -     -     -          710    0    0 
+scotty    959666742 10  3 ccc kf    -     -          710   40    0 
+scotty    959666826 10  2 Bc  bc    kc    k          670   60  280 Ac Jh
+scotty    959666890 10  1 Bf  -     -     -          890    5    0 
+scotty    959666932 10 10 f   -     -     -          885    0    0 
+scotty    959666983 10  9 f   -     -     -          885    0    0 
+scotty    959667056 10  8 f   -     -     -          885    0    0 
+scotty    959667095 10  7 cc  c     c     c          885   90    0 7h 5h
+scotty    959667172 10  6 f   -     -     -          795    0    0 
+scotty    959667222 10  5 f   -     -     -          795    0    0 
+scotty    959667283 10  4 f   -     -     -          795    0    0 
+scotty    959667328 10  3 ccc kc    kc    br         795  130  600 6c Qc
+scotty    959667419 10  2 Bc  bc    kc    kc        1265   80    0 Td 7d
+scotty    959667475 10  1 Bc  kf    -     -         1185   20    0 
+scotty    959667540 10 10 c   c     f     -         1165   50    0 
+scotty    959667615  8  7 f   -     -     -         1115    0    0 
+scotty    959667656 10  8 cc  c     cc    c         1115  140    0 9h Js
+scotty    959667719 10  7 c   f     -     -          975   10    0 
+scotty    959667753 10  6 rr  k     kcc   b          965  120  485 Ad Jd
+scotty    959667819  9  5 f   -     -     -         1330    0    0 
+scotty    959667863  9  5 f   -     -     -         1330    0    0 
+scotty    959667910  8  3 f   -     -     -         1330    0    0 
+scotty    959667938  8  2 Bcc f     Q     -         1330   40    0 
+scotty    959738734 10  4 c   kf    -     -         1290   10    0 
+scotty    959738817 10  3 f   -     -     -         1280    0    0 
+scotty    959738867 10  2 Bc  k     kf    -         1280   30    0 
+scotty    959738945 10  1 Bc  kc    kr    b         1250   80  320 9s Tc
+scotty    959739009 10 10 f   -     -     -         1490    0    0 
+scotty    959739064 10  9 f   -     -     -         1490    0    0 
+scotty    959739105  8  6 c   f     -     -         1490   10    0 
+scotty    959739148  9  6 cc  kcc   rc    kc        1480  130  450 8c 7c
+scotty    959739229  9  5 f   -     -     -         1800    0    0 
+scotty    959739310 10  5 c   rc    kf    -         1800   40    0 
+scotty    959739402 10  4 f   -     -     -         1760    0    0 
+scotty    959739469 10  3 cc  k     kf    -         1760   20    0 
+scotty    959739557 10  2 Bk  bc    kc    kr        1740   90  390 9c Jc
+scotty    959739627 10  1 Bc  b     b     b         2040   70   94 Ad 8c
+scotty    959739674 10 10 c   c     c     k         2064   40    0 Th 4h
+scotty    959739752 10  9 c   f     -     -         2024   10    0 
+scotty    959739811 10  8 c   f     Q     -         2014   10    0 
+scotty    959746259 10 10 c   f     -     -         2344   20    0 
+scotty    959746346 10  9 f   -     -     -         2324    0    0 
+scotty    959746411 10  8 f   -     -     -         2324    0    0 
+scotty    959746465 10  7 c   k     c     rc        2324  110    0 Qh 7h
+scotty    959746624 10  7 f   -     -     -         2214    0    0 
+scotty    959746764  9  4 f   -     -     -         2214    0    0 
+scotty    959746818  9  3 ccc kc    kc    krr       2214  150  460 Qc Th
+scotty    959746907  8  2 Bk  kf    -     -         2524   10    0 
+scotty    959746928  8  1 Bf  -     -     -         2514    5    0 
+scotty    959746987  8  8 c   rc    c     r         2509  100  230 Ah 8d
+scotty    959747030  8  7 c   rr    rr    c         2639  160    0 4s Ts
+scotty    959747093  8  6 c   c     f     -         2479   20    0 
+scotty    959747165  8  5 f   -     -     -         2459    0    0 
+scotty    959747223  8  4 r   b     b     k         2459   50    0 Td Ac
+scotty    959747275  9  4 c   kc    c     c         2409   60    0 Kd 9d
+scotty    959747345  9  3 f   -     -     -         2349    0    0 
+scotty    959747388  9  2 Bc  kc    kf    -         2349   40    0 
+scotty    959747448  7  1 Bc  k     kc    kf        2309   30    0 
+scotty    959747501  7  7 f   -     -     -         2279    0    0 
+scotty    959747519  7  6 f   -     -     -         2279    0    0 
+scotty    959747547  7  5 cc  k     kc    kf        2279   50    0 
+scotty    959747603  7  4 rr  rr    b     b         2229  120  280 Qc As
+scotty    959747685  7  4 c   k     f     -         2389   10    0 
+scotty    959747747  8  3 rr  rc    c     c         2379  110    0 As Ks
+scotty    959747875  6  2 Bc  f     -     -         2269   20    0 
+scotty    959747910  6  1 Br  b     bc    kc        2249   90  200 Ah Ad
+scotty    959747945  5  5 cc  rr    c     b         2359  100  330 Ks Jh
+scotty    959748007  6  5 f   -     -     -         2589    0    0 
+scotty    959748059  5  4 c   f     -     -         2589   20    0 
+scotty    959748094  6  4 c   k     b     -         2569   30   60 
+scotty    959748123  5  2 cc  b     b     kc        2599   70  150 8s 5h
+scotty    959748153  5  2 Bc  kc    k     kf        2679   30    0 
+scotty    959748203  6  1 Bc  b     b     b         2649   60  110 
+scotty    959748229  6  6 c   r     k     f         2699   30    0 
+scotty    959748279  5  4 f   -     -     -         2669    0    0 
+scotty    959748379  5  3 r   c     kf    -         2669   30    0 
+scotty    959748423  5  2 Bk  b     b     k         2639   40    0 5d 6c
+scotty    959748462  5  1 Bf  -     -     -         2599    5    0 
+scotty    959748473  4  4 cc  c     c     f         2594   50    0 
+scotty    959748501  4  3 cc  c     c     f         2544   50    0 
+scotty    959748522  4  2 B   -     -     -         2494   10   15 
+scotty    959748531  4  1 Br  b     br    b         2499  110  240 Tc Jd
+scotty    959748555  4  4 cc  k     f     -         2629   20    0 
+scotty    959748583  6  4 cc  cc    k     kc        2609   70    0 Tc 8h
+scotty    959748637  6  3 ccc cf    -     -         2539   50    0 
+scotty    959748762  6  2 Bc  kf    -     -         2489   20    0 
+scotty    959748835  6  1 Bcc kf    -     -         2469   40    0 
+scotty    959748895  5  5 f   -     -     -         2429    0    0 
+scotty    959748942  7  6 f   -     -     -         2429    0    0 
+scotty    959749056  6  5 c   brc   rr    k         2429  140  465 7d 8d
+scotty    959749120  6  4 f   -     -     -         2754    0    0 
+scotty    959749212  7  4 f   -     -     -         2754    0    0 
+scotty    959749323  8  3 f   -     -     -         2754    0    0 
+scotty    959749488  7  2 Br  b     brc   brc       2754  200  405 Kh Qc
+scotty    959749546  4  1 Bc  k     kc    kc        2959   50  100 8h 6s
+scotty    959749577  3  3 f   -     -     -         3009    0    0 
+scotty    959749591  2  2 Brc rr    b     b         3009  120  240 As Qc
+scotty    959749687  2  1 Br  -     -     -         3129   20   30 
+scotty    959749713  2  2 Brc c     f     -         3139   50    0 
+scotty    959749741  3  1 Bc  bc    kr    b         3089   90  210 Kc 7c
+scotty    959749800  6  4 cc  bc    kf    -         3209   40    0 
+scotty    959749875  5  2 Bk  c     c     f         3169   40    0 
+scotty    959749946  5  1 Bf  -     -     -         3129    5    0 
+scotty    959749980  5  5 f   Q     -     -         3124    0    0 

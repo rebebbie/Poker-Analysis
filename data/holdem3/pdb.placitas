@@ -1,0 +1,902 @@
+placitas  957394411  4  3 cc  c     k     k       108698  150    0 Ts 9d
+placitas  957394444  4  2 Bc  bc    kc    kc      108548  400    0 8h Ac
+placitas  957394466  4  1 Bc  bc    b     k       108148  250  500 9h Kd
+placitas  957394489  4  4 c   c     f     -       108398  100    0 
+placitas  957394512  4  3 c   f     -     -       108298   50    0 
+placitas  957394527  4  2 Bk  kf    -     -       108248   50    0 
+placitas  957394541  4  1 Bc  k     b     -       108198  150  200 
+placitas  957394565  4  4 cc  r     b     k       108248  300  650 5h Th
+placitas  957394588  4  3 f   -     -     -       108598    0    0 
+placitas  957394597  4  2 Bf  -     -     -       108598   50    0 
+placitas  957394609  4  1 Bf  -     -     -       108548   25    0 
+placitas  957394639  4  4 f   -     -     -       108523    0    0 
+placitas  957394656  4  3 c   r     b     -       108523  250  475 
+placitas  957394675  4  2 B   -     -     -       108748   50   75 
+placitas  957394684  4  1 Bc  bc    kc    k       108773  300  700 7h Qc
+placitas  957394708  4  4 c   r     -     -       109173  150  275 
+placitas  957394721  4  3 r   f     -     -       109298  100    0 
+placitas  957394739  4  2 Bk  bc    k     kc      109198  250    0 9s 8h
+placitas  957394761  4  1 Bf  -     -     -       108948   25    0 
+placitas  957394784  4  4 f   -     -     -       108923    0    0 
+placitas  957394802  4  3 f   -     -     -       108923    0    0 
+placitas  957394825  4  2 Bk  k     k     k       108923   50    0 Th 8h
+placitas  957394843  4  1 Bf  -     -     -       108873   25    0 
+placitas  957394863  4  4 c   b     -     -       108848  100  175 
+placitas  957394874  4  3 f   -     -     -       108923    0    0 
+placitas  957394879  4  2 Bc  c     f     -       108923  150    0 
+placitas  957394890  4  1 Bf  -     -     -       108773   25    0 
+placitas  957394908  4  4 f   -     -     -       108748    0    0 
+placitas  957394911  4  3 c   b     -     -       108748  100  200 
+placitas  957394923  4  2 Bc  bc    kc    kc      108848  400    0 4h Th
+placitas  957394939  4  1 Bcc kf    -     -       108448  100    0 
+placitas  957394953  4  4 r   br    r     r       108348  650 1325 Th Qd
+placitas  957394972  4  3 c   br    c     r       109023  500 1125 Qh 7h
+placitas  957395001  4  2 Bc  kf    -     -       109648  100    0 
+placitas  957395011  4  1 Bc  kc    k     k       109548  100  250 5h 5d
+placitas  957395028  4  4 f   -     -     -       109698    0    0 
+placitas  957395040  4  3 f   -     -     -       109698    0    0 
+placitas  957395046  4  2 Bc  bc    b     kc      109698  400    0 Qs 4d
+placitas  957395062  4  1 Bf  -     -     -       109298   25    0 
+placitas  957395079  4  4 r   b     k     k       109273  150    0 2d Kd
+placitas  957395091  4  3 f   -     -     -       109123    0    0 
+placitas  957395110  4  2 Bk  b     b     -       109123  200  300 
+placitas  957395124  4  1 Bf  -     -     -       109223   25    0 
+placitas  957395128  4  4 c   k     k     k       109198   50  150 Ks 4h
+placitas  957395146  4  3 f   -     -     -       109298    0    0 
+placitas  957395155  4  2 Bc  f     -     -       109298  100    0 
+placitas  957395165  4  1 Bf  -     -     -       109198   25    0 
+placitas  957395194  3  3 c   f     -     -       109173   50    0 
+placitas  957395202  3  3 rrc c     k     k       109123  300    0 Ac Qc
+placitas  957395214  3  2 Bc  k     bf    -       108823  200    0 
+placitas  957395230  3  1 Bc  kf    -     -       108623   50    0 
+placitas  957395240  3  3 f   -     -     -       108573    0    0 
+placitas  957395247  3  2 B   -     -     -       108573   50   75 
+placitas  957395250  3  1 Bc  b     -     -       108598  100  150 
+placitas  957395259  3  3 c   c     c     c       108648  300    0 6c Qc
+placitas  957395272  3  2 Br  k     b     -       108348  250  400 
+placitas  957395286  3  1 Br  bc    kc    kc      108498  400    0 6s 6c
+placitas  957395300  3  3 cc  c     r     b       108098  450  900 
+placitas  957395325  3  2 B   -     -     -       108548   50   75 
+placitas  957395329  3  1 Brr b     b     -       108573  350  600 
+placitas  957395348  3  3 r   c     b     -       108823  250  425 
+placitas  957395359  3  2 Bf  -     -     -       108998   50    0 
+placitas  957395362  3  1 Bf  -     -     -       108948   25    0 
+placitas  957395365  3  3 c   k     c     k       108923  150    0 8s 9s
+placitas  957395379  4  2 Bc  r     br    b       108773  600 1200 Ah 2h
+placitas  957395405  4  1 Bf  -     -     -       109373   25    0 
+placitas  957395426  4  4 f   -     -     -       109348    0    0 
+placitas  957395438  4  3 c   f     -     -       109348   50    0 
+placitas  957395457  4  2 Bf  -     -     -       109298   50    0 
+placitas  957395460  4  1 Bf  -     -     -       109248   25    0 
+placitas  957395483  4  4 f   -     -     -       109223    0    0 
+placitas  957395498  4  3 f   -     -     -       109223    0    0 
+placitas  957395526  4  2 Bc  kc    k     b       109223  250  525 Qh 3s
+placitas  957395547  4  1 Bf  -     -     -       109498   25    0 
+placitas  957395567  4  4 r   r     b     b       109473  400  825 Kh Kd
+placitas  957395595  4  3 f   -     -     -       109898    0    0 
+placitas  957395612  4  2 Bc  b     k     kc      109898  250  525 4c 4d
+placitas  957395676  3  1 Bcc kf    -     -       110173  100    0 
+placitas  957395725  4  4 f   -     -     -       110073    0    0 
+placitas  957395740  4  3 f   -     -     -       110073    0    0 
+placitas  957395786  4  2 Bc  f     -     -       110073  100    0 
+placitas  957395799  4  1 Bc  kf    -     -       109973   50    0 
+placitas  957395815  4  4 r   b     k     k       109923  150  325 Ad 9d
+placitas  957395834  4  3 r   b     -     -       110098  150  275 
+placitas  957395846  4  2 Bf  -     -     -       110223   50    0 
+placitas  957395857  4  1 Bc  b     kf    -       110173  100    0 
+placitas  957395878  4  4 c   b     -     -       110073  100  175 
+placitas  957395891  4  3 r   c     r     -       110148  350  625 
+placitas  957395913  4  2 Bc  k     kf    -       110423  100    0 
+placitas  957395969  3  1 Bc  b     -     -       110323  100  150 
+placitas  957395978  3  3 c   r     b     -       110373  250  450 
+placitas  957396017  3  2 Bc  f     -     -       110573  100    0 
+placitas  957396025  3  1 Bf  -     -     -       110473   25    0 
+placitas  957396027  3  3 f   -     -     -       110448    0    0 
+placitas  957396032  3  2 B   -     -     -       110448   50   75 
+placitas  957396037  3  1 Bf  -     -     -       110473   25    0 
+placitas  957396045  3  3 f   -     -     -       110448    0    0 
+placitas  957396064  3  2 Bc  c     b     b       110448  350    0 Jd Ts
+placitas  957396081  3  1 Bc  k     k     k       110098   50   50 Js 5c
+placitas  957396102  3  3 c   c     f     -       110098  100    0 
+placitas  957396120  3  2 Br  b     -     -       109998  150  250 
+placitas  957396127  3  1 Bf  -     -     -       110098   25    0 
+placitas  957396131  3  3 f   -     -     -       110073    0    0 
+placitas  957396134  3  2 Bc  f     -     -       110073  150    0 
+placitas  957396144  3  1 Bf  -     -     -       109923   25    0 
+placitas  957396146  3  3 f   -     -     -       109898    0    0 
+placitas  957396149  3  2 Bc  r     b     -       109898  300  500 
+placitas  957396158  3  1 Br  -     -     -       110098  100  150 
+placitas  957396162  3  3 cc  c     r     -       110148  350  625 
+placitas  957396173  3  2 Bf  -     -     -       110423   50    0 
+placitas  957396197  3  1 Bc  bc    k     k       110373  200  450 Qd 7s
+placitas  957396214  3  3 f   -     -     -       110623    0    0 
+placitas  957396225  3  2 Bc  kf    -     -       110623  100    0 
+placitas  957396244  3  1 Bf  -     -     -       110523   25    0 
+placitas  957396245  3  3 r   b     b     -       110498  250  500 
+placitas  957396267  3  2 Bc  k     k     b       110748  200    0 5d Ks
+placitas  957396288  3  1 Bc  b     -     -       110548  100  150 
+placitas  957396306  3  3 c   r     -     -       110598  150  275 
+placitas  957396326  3  2 Bk  b     b     -       110723  200  350 
+placitas  957396347  3  1 Bf  -     -     -       110873   25    0 
+placitas  957396350  3  3 c   c     f     -       110848  100    0 
+placitas  957396368  3  2 Bf  -     -     -       110748   50    0 
+placitas  957396380  3  1 Bc  KQ    -     -       110698   50    0 
+placitas  957480126  4  4 c   c     f     -       110648  150    0 
+placitas  957480148  4  3 f   -     -     -       110498    0    0 
+placitas  957480156  4  2 Bf  -     -     -       110498   50    0 
+placitas  957480200  4  1 Bc  kf    -     -       110448  100    0 
+placitas  957480213  4  4 f   -     -     -       110348    0    0 
+placitas  957480238  4  3 f   -     -     -       110348    0    0 
+placitas  957480255  4  2 Bk  kf    -     -       110348   50    0 
+placitas  957480300  4  1 Bc  k     kf    -       110298  100    0 
+placitas  957480326  4  4 f   -     -     -       110198    0    0 
+placitas  957480341  4  3 cc  c     f     -       110198  150    0 
+placitas  957480358  4  2 Bf  -     -     -       110048   50    0 
+placitas  957480380  4  1 Bf  -     -     -       109998   25    0 
+placitas  957480387  4  4 r   bc    c     k       109973  350    0 Kc Jd
+placitas  957480405  4  3 f   -     -     -       109623    0    0 
+placitas  957480428  4  2 Bk  bc    kc    k       109623  250    0 7c 6s
+placitas  957480450  4  1 Br  b     bc    k       109373  400    0 Kh Jd
+placitas  957480479  4  4 c   f     -     -       108973  100    0 
+placitas  957480511  3  3 f   -     -     -       108873    0    0 
+placitas  957480536  4  2 Bf  -     -     -       108873   50    0 
+placitas  957480542  4  1 Bc  k     k     kf      108823  100    0 
+placitas  957480562  4  4 f   -     -     -       108723    0    0 
+placitas  957480600  4  3 f   -     -     -       108723    0    0 
+placitas  957480631  4  2 Bc  kf    -     -       108723  100    0 
+placitas  957480642  4  1 Bf  -     -     -       108623   25    0 
+placitas  957480647  4  4 r   b     b     f       108598  250    0 
+placitas  957480675  4  3 f   -     -     -       108348    0    0 
+placitas  957480692  4  2 B   -     -     -       108348   50   75 
+placitas  957480696  4  1 Bc  b     -     -       108373  100  150 
+placitas  957480702  4  4 c   f     -     -       108423   50    0 
+placitas  957480713  4  3 f   -     -     -       108373    0    0 
+placitas  957480724  4  2 Bf  -     -     -       108373   50    0 
+placitas  957480737  4  1 Bf  -     -     -       108323   25    0 
+placitas  957480741  4  4 f   -     -     -       108298    0    0 
+placitas  957480761  4  3 c   f     -     -       108298   50    0 
+placitas  957480776  4  2 Bk  b     -     -       108248  100  225 
+placitas  957480787  4  1 Bf  -     -     -       108373   25    0 
+placitas  957480799  4  4 r   bc    r     bc      108348  650    0 Ts Tc
+placitas  957480820  4  3 f   -     -     -       107698    0    0 
+placitas  957480851  4  2 Bf  -     -     -       107698   50    0 
+placitas  957480860  4  1 Bc  b     b     b       107648  300  500 
+placitas  957480877  4  4 f   -     -     -       107848    0    0 
+placitas  957480880  4  3 c   cc    f     -       107848  150    0 
+placitas  957480910  4  2 Bk  bc    k     b       107698  250  450 
+placitas  957480932  4  1 Bc  b     -     -       107898  150  300 
+placitas  957480944  4  4 r   b     b     c       108048  350  725 Ac Tc
+placitas  957480965  4  3 f   -     -     -       108423    0    0 
+placitas  957480982  4  2 Bf  -     -     -       108423   50    0 
+placitas  957480992  4  1 Bf  -     -     -       108373   25    0 
+placitas  957480995  4  4 f   -     -     -       108348    0    0 
+placitas  957481011  4  3 f   -     -     -       108348    0    0 
+placitas  957481031  4  2 Bf  -     -     -       108348   50    0 
+placitas  957481042  4  1 Br  -     -     -       108298  100  150 
+placitas  957481055  4  4 c   r     c     c       108348  400    0 Ts Th
+placitas  957481074  4  3 f   -     -     -       107948    0    0 
+placitas  957481097  4  2 Bf  -     -     -       107948   50    0 
+placitas  957481113  4  1 Bf  -     -     -       107898   25    0 
+placitas  957481122  4  4 c   k     f     -       107873   50    0 
+placitas  957481137  4  3 f   -     -     -       107823    0    0 
+placitas  957481156  4  2 Bc  kf    -     -       107823  100    0 
+placitas  957481173  4  1 Br  bc    kc    kf      107723  300    0 
+placitas  957481186  4  4 f   -     -     -       107423    0    0 
+placitas  957481191  4  3 f   -     -     -       107423    0    0 
+placitas  957481207  4  2 B   -     -     -       107423   50   75 
+placitas  957481211  4  1 Bf  -     -     -       107448   25    0 
+placitas  957481231  4  4 f   -     -     -       107423    0    0 
+placitas  957481247  4  3 c   b     k     c       107423  200  225 4d Ah
+placitas  957481278  5  3 c   k     c     k       107448  150  325 Td 9d
+placitas  957481295  5  2 Bc  b     kc    kf      107623  300    0 
+placitas  957481328  3  1 Bf  -     -     -       107323   25    0 
+placitas  957481343  3  3 f   -     -     -       107298    0    0 
+placitas  957481359  3  2 Bc  kr    -     -       107298  200  375 
+placitas  957481372  3  1 Bf  -     -     -       107473   25    0 
+placitas  957481390  3  3 c   r     -     -       107448  150  300 
+placitas  957481403  3  2 Bc  r     b     f       107598  300    0 
+placitas  957481416  3  1 Bc  b     k     kf      107298  100    0 
+placitas  957481431  3  3 c   f     -     -       107198   50    0 
+placitas  957481440  3  2 B   -     -     -       107148   50   75 
+placitas  957481443  3  1 Bc  b     -     -       107173  100  150 
+placitas  957481451  3  3 f   -     -     -       107223    0    0 
+placitas  957481454  3  2 Bk  k     b     k       107223  150  300 Qd 7h
+placitas  957481467  3  1 Bf  -     -     -       107373   25    0 
+placitas  957481485  3  3 f   -     -     -       107348    0    0 
+placitas  957481496  3  2 Bc  kf    -     -       107348  100    0 
+placitas  957481503  3  1 Br  b     -     -       107248  150  250 
+placitas  957481512  3  3 f   -     -     -       107348    0    0 
+placitas  957481526  3  2 Bk  f     -     -       107348   50    0 
+placitas  957481531  3  1 Bc  kc    kf    -       107298  100    0 
+placitas  957481544  3  3 f   -     -     -       107198    0    0 
+placitas  957481605  2  1 Bc  b     kr    -       107198  350  600 
+placitas  957481619  2  1 Bc  b     b     -       107448  200  300 
+placitas  957481632  2  2 B   -     -     -       107548   50   75 
+placitas  957481634  2  1 Br  -     -     -       107573  100  150 
+placitas  957481638  2  2 Br  k     k     c       107623  200    0 As Th
+placitas  957481650  2  1 Bc  k     b     b       107423  250  500 Th 7h
+placitas  957481666  2  2 Bk  k     f     -       107673   50    0 
+placitas  957481677  2  1 Bf  -     -     -       107623   25    0 
+placitas  957481679  2  2 B   -     -     -       107598   50   75 
+placitas  957481684  2  1 Bf  -     -     -       107623   25    0 
+placitas  957481686  2  2 Br  b     c     c       107598  350  700 6d 6h
+placitas  957481709  2  1 Bc  b     -     -       107948  100  150 
+placitas  957481718  2  2 Br  b     -     -       107998  150  250 
+placitas  957481729  2  1 Bc  b     kc    kf      108098  200    0 
+placitas  957481746  2  2 Bk  k     k     c       107898  150  300 4h Ac
+placitas  957481755  2  1 Bf  -     -     -       108048   25    0 
+placitas  957481761  2  2 Bk  b     -     -       108023  100  150 
+placitas  957481767  2  1 Bc  b     -     -       108073  100  150 
+placitas  957481774  2  2 Br  b     k     c       108123  250    0 9d 9c
+placitas  957481787  2  1 Br  br    b     br      107873  650 1300 Ad Jd
+placitas  957481811  2  2 Bk  k     k     f       108523   50    0 
+placitas  957481825  2  1 Bc  b     kc    kc      108473  300  600 9d Js
+placitas  957481841  2  2 B   -     -     -       108773   50   75 
+placitas  957481845  2  1 Br  br    kr    b       108798  550 1100 As 9s
+placitas  957481864  2  2 Bk  k     b     b       109348  250  400 
+placitas  957481883  3  1 Bc  kf    -     -       109498  100    0 
+placitas  957481891  3  3 f   -     -     -       109398    0    0 
+placitas  957481898  3  2 Bk  k     k     f       109398   50    0 
+placitas  957481909  3  1 Bc  kc    kf    -       109348  150    0 
+placitas  957481926  3  3 f   -     -     -       109198    0    0 
+placitas  957481929  3  2 Br  b     b     b       109198  400  825 9s 9c
+placitas  957481946  3  1 Bc  kf    -     -       109623   50    0 
+placitas  957481955  3  3 f   -     -     -       109573    0    0 
+placitas  957481958  3  2 Bk  k     c     b       109573  250  500 Ac 6h
+placitas  957481973  3  1 Bc  bc    k     kf      109823  150    0 
+placitas  957481988  3  3 f   -     -     -       109673    0    0 
+placitas  957481992  3  2 Br  b     -     -       109673  150  275 
+placitas  957482001  3  1 Br  b     -     -       109798  200  400 
+placitas  957482010  3  3 r   b     -     -       109998  150  275 
+placitas  957482020  3  2 Bk  kf    -     -       110123   50    0 
+placitas  957482041  3  1 Bc  k     kf    -       110073  100    0 
+placitas  957482057  3  3 c   r     b     k       109973  300  750 9c 5c
+placitas  957482079  3  2 Bk  c     c     r       110423  400  700 
+placitas  957482104  3  1 Br  kf    -     -       110723  150    0 
+placitas  957482117  3  3 f   -     -     -       110573    0    0 
+placitas  957482120  3  2 Bc  kf    -     -       110573  100    0 
+placitas  957482127  3  1 Bc  kc    kf    -       110473  150    0 
+placitas  957482148  3  3 cc  f     -     -       110323  100    0 
+placitas  957482155  3  2 Bk  k     c     f       110223  150    0 
+placitas  957482170  3  1 Bf  -     -     -       110073   25    0 
+placitas  957482173  3  3 f   -     -     -       110048    0    0 
+placitas  957482177  3  2 Bc  r     c     c       110048  400    0 Td 5h
+placitas  957482193  3  1 Br  -     -     -       109648  100  150 
+placitas  957482200  3  3 c   r     b     -       109698  250  450 
+placitas  957482213  3  2 Brc c     c     k       109898  350    0 9d 9c
+placitas  957482231  3  1 Bc  kf    -     -       109548  100    0 
+placitas  957482242  3  3 f   -     -     -       109448    0    0 
+placitas  957482252  3  2 Bf  -     -     -       109448   50    0 
+placitas  957482269  3  1 Bc  kf    -     -       109398  100    0 
+placitas  957482281  3  3 c   f     -     -       109298   50    0 
+placitas  957482294  3  2 Bf  -     -     -       109248   50    0 
+placitas  957482300  3  1 Bc  kc    kc    b       109198  350  850 6c 5h
+placitas  957482325  3  3 f   -     -     -       109698    0    0 
+placitas  957482345  3  2 Bk  b     -     -       109698  100  150 
+placitas  957482355  3  1 Bf  -     -     -       109748   25    0 
+placitas  957482358  3  3 f   -     -     -       109723    0    0 
+placitas  957482370  3  2 Br  -     -     -       109723  100  150 
+placitas  957482376  3  1 Bf  -     -     -       109773   25    0 
+placitas  957482379  3  3 f   -     -     -       109748    0    0 
+placitas  957482382  3  2 Bk  k     c     k       109748  150    0 9h 7s
+placitas  957482395  3  1 Bc  kf    -     -       109598  100    0 
+placitas  957482407  3  3 f   -     -     -       109498    0    0 
+placitas  957482410  3  2 Bf  -     -     -       109498   50    0 
+placitas  957482440  3  1 Bcc bc    kc    b       109448  400  800 Jh Td
+placitas  957482455  3  3 r   k     k     k       109848  100  225 Qc Tc
+placitas  957482471  3  2 Bc  kf    -     -       109973  100    0 
+placitas  957482481  3  1 Bc  kf    -     -       109873  100    0 
+placitas  957482492  3  3 r   -     -     -       109773  100  175 
+placitas  957482496  3  2 Bk  k     c     f       109848  150    0 
+placitas  957482507  3  1 Bcc kf    -     -       109698  100    0 
+placitas  957482515  3  3 f   -     -     -       109598    0    0 
+placitas  957482518  3  2 Bf  -     -     -       109598   50    0 
+placitas  957482521  3  1 Bc  b     -     -       109548  100  150 
+placitas  957482529  3  3 f   -     -     -       109598    0    0 
+placitas  957482544  3  2 Bk  kc    k     k       109598  100  250 Kd 9c
+placitas  957482558  3  1 Bf  -     -     -       109748   25    0 
+placitas  957482574  3  3 r   c     c     k       109723  250  650 6s 6h
+placitas  957482593  3  2 Bk  k     b     k       110123  150    0 3h Kh
+placitas  957482608  3  1 Bf  -     -     -       109973   25    0 
+placitas  957482617  3  3 f   -     -     -       109948    0    0 
+placitas  957482621  3  2 Bk  k     f     -       109948   50    0 
+placitas  957482632  3  1 Bf  -     -     -       109898   25    0 
+placitas  957482635  3  3 f   -     -     -       109873    0    0 
+placitas  957482639  3  2 Bk  b     k     c       109873  200    0 5h Th
+placitas  957482652  3  1 Bc  kf    -     -       109673  100    0 
+placitas  957482672  3  3 c   k     f     -       109573   50    0 
+placitas  957482684  3  2 Bcc kc    kc    k       109523  350    0 Jh 5s
+placitas  957482710  3  1 Bf  -     -     -       109173   25    0 
+placitas  957482715  3  3 c   b     k     k       109148  100    0 Ks 7h
+placitas  957482733  3  2 Bk  k     f     -       109048   50    0 
+placitas  957482742  3  1 Br  b     b     -       108998  300  700 
+placitas  957482759  3  3 f   -     -     -       109398    0    0 
+placitas  957482764  3  2 Bc  b     k     b       109398  250  525 8d 9h
+placitas  957482776  3  1 Bf  -     -     -       109673   25    0 
+placitas  957482782  3  3 f   -     -     -       109648    0    0 
+placitas  957482785  3  2 B   -     -     -       109648   50   75 
+placitas  957482789  3  1 Bf  -     -     -       109673   25    0 
+placitas  957482796  3  3 c   c     r     r       109648  500  525 8c 6c
+placitas  957482811  3  2 Bk  c     c     k       109673  200    0 Jd 3s
+placitas  957482828  3  1 Bcc kf    -     -       109473  100    0 
+placitas  957482838  3  3 f   -     -     -       109373    0    0 
+placitas  957482860  3  2 Bk  k     k     f       109373   50    0 
+placitas  957482873  3  1 Bcc kf    -     -       109323  100    0 
+placitas  957482890  3  3 f   -     -     -       109223    0    0 
+placitas  957482899  3  2 Bk  k     k     k       109223   50    0 8c 3c
+placitas  957482911  3  1 Bf  -     -     -       109173   25    0 
+placitas  957482916  3  3 f   -     -     -       109148    0    0 
+placitas  957482926  3  2 Bf  -     -     -       109148   50    0 
+placitas  957482928  3  1 Bf  -     -     -       109098   25    0 
+placitas  957482931  3  3 f   -     -     -       109073    0    0 
+placitas  957482934  3  2 Br  b     -     -       109073  150  250 
+placitas  957482946  3  1 Bc  b     -     -       109173  150  300 
+placitas  957482953  3  3 f   -     -     -       109323    0    0 
+placitas  957482968  3  2 Brc k     b     bc      109323  500    0 Qh As
+placitas  957482987  3  1 Bc  k     kf    -       108823   50    0 
+placitas  957483000  3  3 f   -     -     -       108773    0    0 
+placitas  957483012  3  2 Bk  kc    kf    -       108773  100    0 
+placitas  957483035  3  1 Bc  b     k     k       108673  150    0 Ac 4h
+placitas  957483059  3  3 rc  c     r     -       108523  400  725 
+placitas  957483077  3  2 Bk  kf    -     -       108848   50    0 
+placitas  957483087  3  1 Bcc kc    k     k       108798  150    0 4s Qd
+placitas  957483099  3  3 r   k     c     k       108648  200  425 Kd 6d
+placitas  957483114  3  2 Bc  kf    -     -       108873  150    0 
+placitas  957483137  3  1 Bf  -     -     -       108723   25    0 
+placitas  957483142  3  3 f   -     -     -       108698    0    0 
+placitas  957483158  3  2 Bk  bc    f     -       108698  150    0 
+placitas  957483169  3  1 Bc  b     k     b       108548  200  400 3d Kd
+placitas  957483181  3  3 c   c     f     -       108748  100    0 
+placitas  957483196  3  2 Br  k     f     -       108648  100    0 
+placitas  957483210  3  1 Bc  kf    -     -       108548  100    0 
+placitas  957483225  3  3 f   -     -     -       108448    0    0 
+placitas  957483232  3  2 Bf  -     -     -       108448   50    0 
+placitas  957483238  3  1 Bc  kf    -     -       108398  100    0 
+placitas  957483248  3  3 c   r     -     -       108298  150  275 
+placitas  957483259  3  2 Bk  bc    kc    k       108423  250  550 Ks 3h
+placitas  957483281  3  1 Bc  b     -     -       108723  100  150 
+placitas  957483290  3  3 c   r     r     k       108773  350  750 Ks 6d
+placitas  957483311  3  2 Bc  br    b     b       109173  450  925 9d Jc
+placitas  957483330  3  1 Bf  -     -     -       109648   25    0 
+placitas  957483345  4  4 f   -     -     -       109623    0    0 
+placitas  957483368  4  3 c   cc    k     f       109623  150    0 
+placitas  957483401  4  2 Bc  kf    -     -       109473  100    0 
+placitas  957483427  4  1 Bc  kf    -     -       109373  100    0 
+placitas  957483445  4  4 f   -     -     -       109273    0    0 
+placitas  957483465  4  3 f   -     -     -       109273    0    0 
+placitas  957483499  4  2 Bc  kc    k     b       109273  250  425 
+placitas  957483531  4  1 Bf  -     -     -       109448   25    0 
+placitas  957483546  4  4 f   -     -     -       109423    0    0 
+placitas  957483565  4  3 cc  kc    kr    b       109423  450 1150 
+placitas  957483603  4  2 Bk  b     -     -       110123  100  250 
+placitas  957483617  4  1 Bf  -     -     -       110273   25    0 
+placitas  957483620  4  4 c   f     -     -       110248   50    0 
+placitas  957483632  4  3 cc  kf    -     -       110198  100    0 
+placitas  957483651  4  2 Bc  bc    kf    -       110098  250    0 
+placitas  957483688  4  1 Bf  -     -     -       109848   25    0 
+placitas  957483696  4  4 f   -     -     -       109823    0    0 
+placitas  957483717  4  3 c   r     c     c       109823  350    0 9s Ah
+placitas  957483732  4  2 Bc  kf    -     -       109473  100    0 
+placitas  957483761  4  1 Br  b     b     b       109373  400    0 Qh Qs
+placitas  957483783  4  4 f   -     -     -       108973    0    0 
+placitas  957483804  4  3 f   -     -     -       108973    0    0 
+placitas  957483815  4  2 Bf  -     -     -       108973   50    0 
+placitas  957483824  4  1 Bc  kf    -     -       108923   50    0 
+placitas  957483834  4  4 f   -     -     -       108873    0    0 
+placitas  957483846  4  3 f   -     -     -       108873    0    0 
+placitas  957483858  4  2 Bc  kc    k     k       108873  150    0 3c 4c
+placitas  957483877  4  1 Bc  bc    kc    kf      108723  250    0 
+placitas  957483897  3  3 cc  c     c     f       108473  250    0 
+placitas  957483917  3  3 f   -     -     -       108223    0    0 
+placitas  957483922  3  2 Br  b     k     b       108223  300  625 Qc Ts
+placitas  957483938  3  1 Bc  b     k     k       108548  100  250 9h Td
+placitas  957483961  3  3 rc  c     c     f       108698  300    0 
+placitas  957483981  3  2 Bf  -     -     -       108398   50    0 
+placitas  957483985  3  1 Bf  -     -     -       108348   25    0 
+placitas  957483987  3  3 r   -     -     -       108323  100  175 
+placitas  957483992  3  2 Bc  kf    -     -       108398  100    0 
+placitas  957483999  3  1 Bf  -     -     -       108298   25    0 
+placitas  957484002  3  3 c   k     k     k       108273   50    0 9d 2d
+placitas  957484015  3  2 Bk  b     b     -       108223  200  300 
+placitas  957484028  3  1 Bf  -     -     -       108323   25    0 
+placitas  957484030  3  3 c   k     f     -       108298   50    0 
+placitas  957484039  3  2 Bk  k     c     b       108248  250  400 
+placitas  957484052  3  1 Bc  b     -     -       108398  100  150 
+placitas  957484060  3  3 r   -     -     -       108448  100  175 
+placitas  957484065  3  2 Bc  c     c     c       108523  350    0 6c 4c
+placitas  957484075  3  1 Bf  -     -     -       108173   25    0 
+placitas  957484080  3  3 rr  r     -     -       108148  300  600 
+placitas  957484093  3  2 Bf  -     -     -       108448   50    0 
+placitas  957484097  3  1 Bc  k     b     kf      108398  150    0 
+placitas  957484114  3  3 c   c     c     b       108248  300  550 
+placitas  957484129  3  2 Bk  f     -     -       108498   50    0 
+placitas  957484136  3  1 Bc  b     b     bc      108448  400    0 9d Kh
+placitas  957484182  3  3 c   k     k     b       108048  150  250 
+placitas  957484203  3  2 Bk  k     b     k       108148  150    0 4d Qc
+placitas  957484216  3  1 Bf  -     -     -       107998   25    0 
+placitas  957484224  3  3 f   -     -     -       107973    0    0 
+placitas  957484228  3  2 Br  b     -     -       107973  150  250 
+placitas  957484238  3  1 Bc  b     b     kc      108073  300    0 2h As
+placitas  957484251  3  3 f   -     -     -       107773    0    0 
+placitas  957484265  3  2 Bc  b     -     -       107773  150  275 
+placitas  957484272  3  1 Bcc bc    kc    kf      107898  300    0 
+placitas  957484289  3  3 c   k     c     f       107598  150    0 
+placitas  957484309  3  2 Bk  b     -     -       107448  100  150 
+placitas  957484321  3  1 Bf  -     -     -       107498   25    0 
+placitas  957484324  3  3 r   b     -     -       107473  150  275 
+placitas  957484333  4  2 B   -     -     -       107598   50   75 
+placitas  957484340  4  1 Bc  kc    kf    -       107623  150    0 
+placitas  957484380  4  4 c   b     -     -       107473  100  175 
+placitas  957484391  4  3 f   -     -     -       107548    0    0 
+placitas  957484437  4  2 Bk  k     k     k       107548   50    0 2d 6c
+placitas  957484455  4  1 Bf  -     -     -       107498   25    0 
+placitas  957484467  4  4 c   c     k     k       107473  100  250 7h 4h
+placitas  957484485  4  3 f   -     -     -       107623    0    0 
+placitas  957484498  4  2 Bc  kf    -     -       107623  100    0 
+placitas  957484509  4  1 Bf  -     -     -       107523   25    0 
+placitas  957484513  4  4 f   -     -     -       107498    0    0 
+placitas  957484529  4  3 f   -     -     -       107498    0    0 
+placitas  957484542  4  2 B   -     -     -       107498   50   75 
+placitas  957484549  4  1 Bf  -     -     -       107523   25    0 
+placitas  957484574  4  4 cc  r     b     k       107498  300    0 6s 5s
+placitas  957484600  3  2 Bk  b     -     -       107198  100  150 
+placitas  957484618  3  1 Bf  -     -     -       107248   25    0 
+placitas  957484622  3  3 c   f     -     -       107223   50    0 
+placitas  957484632  3  2 Bc  b     -     -       107173  150  275 
+placitas  957484639  3  1 Bcc kf    -     -       107298  100    0 
+placitas  957484647  3  3 f   -     -     -       107198    0    0 
+placitas  957484664  4  3 f   -     -     -       107198    0    0 
+placitas  957484690  4  2 Bc  kc    k     k       107198  150    0 7c Kc
+placitas  957484709  4  1 Bc  kf    -     -       107048  100    0 
+placitas  957484727  4  4 cc  f     -     -       106948  150    0 
+placitas  957484746  4  3 f   -     -     -       106798    0    0 
+placitas  957484764  4  2 B   -     -     -       106798   50   75 
+placitas  957484770  4  1 Bc  b     -     -       106823  100  150 
+placitas  957484782  4  4 c   b     -     -       106873  100  250 
+placitas  957484799  4  3 f   -     -     -       107023    0    0 
+placitas  957484823  4  2 Bc  b     b     k       107023  250  600 Jh 9h
+placitas  957484841  3  1 Br  kc    kc    kc      107373  400    0 3s As
+placitas  957484857  3  3 r   -     -     -       106973  100  175 
+placitas  957484864  3  2 B   -     -     -       107048   50   75 
+placitas  957484868  3  1 Brc k     kc    kf      107073  250    0 
+placitas  957484893  4  3 f   -     -     -       106823    0    0 
+placitas  957484909  4  2 B   -     -     -       106823   50   75 
+placitas  957484913  4  1 Bc  kc    kc    b       106848  300  500 
+placitas  957484931  5  5 f   -     -     -       107048    0    0 
+placitas  957484955  4  3 rc  c     k     c       107048  300    0 Kh Th
+placitas  957484967  4  2 Bf  -     -     -       106748   50    0 
+placitas  957484975  4  1 Bf  -     -     -       106698   25    0 
+placitas  957484979  4  4 f   -     -     -       106673    0    0 
+placitas  957485004  3  2 B   -     -     -       106673   50   75 
+placitas  957485008  3  1 Bf  -     -     -       106698   25    0 
+placitas  957485028  3  3 r   -     -     -       106673  100  175 
+placitas  957485035  3  2 Bk  k     r     -       106748  250  400 
+placitas  957485051  3  1 Bc  b     kc    kc      106898  350  750 Jc 2c
+placitas  957485067  3  3 r   -     -     -       107298  100  175 
+placitas  957485074  3  2 Bf  -     -     -       107373   50    0 
+placitas  957485079  3  1 Bf  -     -     -       107323   25    0 
+placitas  957485082  3  3 f   -     -     -       107298    0    0 
+placitas  957485085  3  2 Bk  k     k     k       107298   50    0 3c Qs
+placitas  957485102  3  1 Bf  -     -     -       107248   25    0 
+placitas  957485106  3  3 r   k     k     k       107223  100  225 Qh Th
+placitas  957485122  3  2 Br  b     -     -       107348  150  250 
+placitas  957485133  3  1 Bc  b     -     -       107448  150  300 
+placitas  957485142  3  3 f   -     -     -       107598    0    0 
+placitas  957485145  3  2 Bk  b     -     -       107598  100  150 
+placitas  957485158  3  1 Bc  b     -     -       107648  100  150 
+placitas  957485168  3  3 f   -     -     -       107698    0    0 
+placitas  957485178  3  2 Bk  b     c     c       107698  300  600 9d As
+placitas  957485193  3  1 Bcc b     kc    kc      107998  350    0 8h Qc
+placitas  957485212  3  3 f   -     -     -       107648    0    0 
+placitas  957485223  3  2 Bk  k     r     b       107648  350  700 Jd 9c
+placitas  957485240  3  1 Bc  bc    kc    kc      107998  350    0 3d Td
+placitas  957485264  3  3 f   -     -     -       107648    0    0 
+placitas  957485282  3  2 Br  k     k     c       107648  200  400 5s Ks
+placitas  957485298  4  1 Bf  -     -     -       107848   25    0 
+placitas  957485308  4  4 c   f     -     -       107823   50    0 
+placitas  957485316  4  3 f   -     -     -       107773    0    0 
+placitas  957485333  4  2 Bc  f     -     -       107773  100    0 
+placitas  957485343  4  1 Bc  kc    kf    -       107673  150    0 
+placitas  957485370  4  4 f   -     -     -       107523    0    0 
+placitas  957485390  4  3 f   -     -     -       107523    0    0 
+placitas  957485413  4  2 Bf  -     -     -       107523   50    0 
+placitas  957485421  4  1 Bf  -     -     -       107473   25    0 
+placitas  957485430  4  4 r   rc    k     c       107448  350    0 Kd Ks
+placitas  957485453  4  3 cc  rc    c     k       107098  350    0 7c Jc
+placitas  957485477  4  2 BfQ -     -     -       106748   50    0 
+placitas  957572264  2  1 B   -     -     -       106698   50   50 
+placitas  957572272  2  1 Br  k     k     b       106698  200  300 
+placitas  957572281  2  2 Br  k     f     -       106798  100    0 
+placitas  957572290  2  1 Br  -     -     -       106698  100  150 
+placitas  957572292  2  2 Bk  k     k     k       106748   50    0 2d 3c
+placitas  957572300  2  1 Bc  b     -     -       106698  100  150 
+placitas  957572309  2  2 Bk  f     -     -       106748   50    0 
+placitas  957572316  2  1 Bc  b     b     k       106698  200    0 Qd 6h
+placitas  957572330  3  3 c   c     b     -       106498  200  350 
+placitas  957572349  3  2 Bc  b     b     b       106648  350  700 4d Qs
+placitas  957572367  3  1 Bf  -     -     -       106998   25    0 
+placitas  957572378  3  3 r   b     -     -       106973  150  275 
+placitas  957572388  3  2 Br  b     b     k       107098  250  600 7s 7c
+placitas  957572411  4  1 Bc  kf    -     -       107448   50    0 
+placitas  957572433  4  4 c   c     c     r       107398  400  725 
+placitas  957572446  4  3 r   k     f     -       107723  100    0 
+placitas  957572462  4  2 Bk  b     -     -       107623  100  150 
+placitas  957572472  4  1 Bf  -     -     -       107673   25    0 
+placitas  957572475  4  4 r   b     -     -       107648  150  350 
+placitas  957572487  4  3 f   -     -     -       107848    0    0 
+placitas  957572517  4  2 Bk  br    b     -       107848  300  525 
+placitas  957572530  4  1 Bf  -     -     -       108073   25    0 
+placitas  957572535  4  4 r   bc    c     r       108048  550 1275 Ac 8h
+placitas  957572571  4  3 c   rc    k     b       108773  300  325 6h Ac
+placitas  957572596  4  2 Bc  b     kc    k       108798  250    0 7s Ks
+placitas  957572619  4  1 Bc  kf    -     -       108548   50    0 
+placitas  957572631  4  4 f   -     -     -       108498    0    0 
+placitas  957572640  4  3 f   -     -     -       108498    0    0 
+placitas  957572668  5  2 B   -     -     -       108498   50   75 
+placitas  957572676  5  1 Bf  -     -     -       108523   25    0 
+placitas  957572682  4  4 cc  b     b     k       108498  250  600 Ks 4d
+placitas  957572715  4  3 rc  k     b     -       108848  250  425 
+placitas  957572738  4  2 Bk  b     k     k       109023  100  200 2c 6d
+placitas  957572754  4  1 Bf  -     -     -       109123   25    0 
+placitas  957572777  4  4 f   -     -     -       109098    0    0 
+placitas  957572805  4  3 f   -     -     -       109098    0    0 
+placitas  957572836  4  2 Bc  b     b     -       109098  250  400 
+placitas  957572861  4  1 Bc  kc    b     kf      109248  250    0 
+placitas  957572884  4  4 r   f     -     -       108998  100    0 
+placitas  957572925  4  3 f   -     -     -       108898    0    0 
+placitas  957572933  4  2 B   -     -     -       108898   50   75 
+placitas  957572940  4  1 Bf  -     -     -       108923   25    0 
+placitas  957572955  4  4 c   r     k     f       108898  150    0 
+placitas  957572977  4  3 cc  bc    kc    b       108748  400  875 Kd 9d
+placitas  957573000  4  2 B   -     -     -       109223   50   75 
+placitas  957573007  4  1 Bf  -     -     -       109248   25    0 
+placitas  957573014  4  4 f   -     -     -       109223    0    0 
+placitas  957573043  4  3 r   b     b     -       109223  250  525 
+placitas  957573060  4  2 Bf  -     -     -       109498   50    0 
+placitas  957573067  4  1 Bf  -     -     -       109448   25    0 
+placitas  957573077  4  4 r   c     r     b       109423  450 1175 
+placitas  957573119  4  3 r   b     -     -       110148  150  275 
+placitas  957573134  4  2 Bc  rc    c     c       110273  450    0 Qc Js
+placitas  957573159  5  1 Br  bc    bc    b       109823  500 1050 Kc Ac
+placitas  957573183  5  5 f   -     -     -       110373    0    0 
+placitas  957573199  5  4 f   -     -     -       110373    0    0 
+placitas  957573214  5  3 f   -     -     -       110373    0    0 
+placitas  957573250  5  2 Bf  -     -     -       110373   50    0 
+placitas  957573266  5  1 Br  b     k     kf      110323  200    0 
+placitas  957573285  5  5 f   -     -     -       110123    0    0 
+placitas  957573296  5  4 f   -     -     -       110123    0    0 
+placitas  957573312  5  3 r   brc   kc    kc      110123  500    0 Ks Kc
+placitas  957573349  5  2 Bc  rc    kf    -       109623  300    0 
+placitas  957573379  5  1 Bc  kf    -     -       109323   50    0 
+placitas  957573409  4  4 c   b     b     f       109273  250    0 
+placitas  957573439  4  3 f   -     -     -       109023    0    0 
+placitas  957573446  4  2 Bc  b     -     -       109023  150  350 
+placitas  957573459  4  1 Bc  kc    kf    -       109223  150    0 
+placitas  957573498  4  4 rc  c     c     rc      109073  650    0 6s As
+placitas  957573515  4  3 f   -     -     -       108423    0    0 
+placitas  957573530  4  2 Bk  b     -     -       108423  100  250 
+placitas  957573544  4  1 Bc  b     b     b       108573  350  750 5h Qc
+placitas  957573558  4  4 c   f     -     -       108973  100    0 
+placitas  957573575  4  3 f   -     -     -       108873    0    0 
+placitas  957573603  4  2 Bc  c     c     c       108873  350  700 3s Jc
+placitas  957573619  3  1 Bc  kf    -     -       109223  100    0 
+placitas  957573642  3  3 c   k     k     k       109123   50   75 Qc 3c
+placitas  957573657  3  2 Bk  c     c     c       109148  300  300 Ks 5d
+placitas  957573671  3  1 Bc  b     -     -       109148  150  350 
+placitas  957573685  3  3 f   -     -     -       109348    0    0 
+placitas  957573690  3  2 Bc  f     -     -       109348  100    0 
+placitas  957573695  3  1 Bf  -     -     -       109248   25    0 
+placitas  957573724  3  3 r   k     b     -       109223  200  325 
+placitas  957573737  3  2 B   -     -     -       109348   50   75 
+placitas  957573740  3  1 Bf  -     -     -       109373   25    0 
+placitas  957573742  3  3 r   k     k     k       109348  100  225 8d Ad
+placitas  957573754  3  2 Bk  b     k     kf      109473  100    0 
+placitas  957573776  3  1 Br  b     -     -       109373  200  400 
+placitas  957573785  3  3 rc  c     f     -       109573  200    0 
+placitas  957573795  3  2 Bc  bc    kc    b       109373  400  800 
+placitas  957573820  2  1 Br  bc    kc    kr      109773  500  900 
+placitas  957573841  2  2 B   -     -     -       110173   50   75 
+placitas  957573845  2  1 Bc  b     k     b       110198  200  300 
+placitas  957573861  2  2 B   -     -     -       110298   50   75 
+placitas  958859233  4  4 cc  r     -     -        90508  200  375 
+placitas  958859244  4  3 c   c     b     b        90683  300  650 Qh 4h
+placitas  958859282  4  2 Bc  f     -     -        91033  100    0 
+placitas  958859294  4  1 Bc  kf    -     -        90933  150    0 
+placitas  958859319  4  4 r   b     k     k        90783  150    0 Kd 7c
+placitas  958859331  4  3 f   -     -     -        90633    0    0 
+placitas  958859345  4  2 Bcc r     b     kc       90633  500    0 Td Kh
+placitas  958859436  4  1 Br  k     kf    -        90133  150    0 
+placitas  958859461  4  4 f   -     -     -        89983    0    0 
+placitas  958859467  4  3 c   k     k     k        89983   50    0 Kc 5s
+placitas  958859490  4  2 Bf  -     -     -        89933   50    0 
+placitas  958859499  4  1 Bf  -     -     -        89883   25    0 
+placitas  958859513  4  4 rc  k     c     k        89858  250    0 3h Ah
+placitas  958859532  4  3 f   -     -     -        89608    0    0 
+placitas  958859544  4  2 B   -     -     -        89608   50   75 
+placitas  958859549  4  1 Bf  -     -     -        89633   25    0 
+placitas  958859559  4  4 f   -     -     -        89608    0    0 
+placitas  958859571  4  3 cc  r     b     k        89608  300    0 Kd 7d
+placitas  958859590  4  2 Bf  -     -     -        89308   50    0 
+placitas  958859596  4  1 Bf  -     -     -        89258   25    0 
+placitas  958859599  4  4 c   r     c     k        89233  250  525 Kh 6d
+placitas  958859620  4  3 f   -     -     -        89508    0    0 
+placitas  958859633  4  2 Bc  br    b     b        89508  450  925 Qs 2h
+placitas  958859661  5  1 Bc  b     b     k        89983  250  650 Kd 9h
+placitas  958859682  5  5 f   -     -     -        90383    0    0 
+placitas  958859706  5  4 f   -     -     -        90383    0    0 
+placitas  958859724  5  3 f   -     -     -        90383    0    0 
+placitas  958859754  5  2 Br  b     kf    -        90383  200    0 
+placitas  958859780  5  1 Bc  b     k     k        90183  100    0 Ah 7d
+placitas  958859796  5  5 f   -     -     -        90083    0    0 
+placitas  958859826  5  4 f   -     -     -        90083    0    0 
+placitas  958859838  5  3 f   -     -     -        90083    0    0 
+placitas  958859883  5  2 Bf  -     -     -        90083   50    0 
+placitas  958859900  5  1 Bf  -     -     -        90033   25    0 
+placitas  958859918  5  5 f   -     -     -        90008    0    0 
+placitas  958859932  5  4 f   -     -     -        90008    0    0 
+placitas  958859952  5  3 f   -     -     -        90008    0    0 
+placitas  958859973  5  2 Bf  -     -     -        90008   50    0 
+placitas  958859980  5  1 Bf  -     -     -        89958   25    0 
+placitas  958860029  5  5 f   -     -     -        89933    0    0 
+placitas  958860057  5  4 f   -     -     -        89933    0    0 
+placitas  958860074  5  3 f   -     -     -        89933    0    0 
+placitas  958860083  5  2 B   -     -     -        89933   50   75 
+placitas  958860094  5  1 Bf  -     -     -        89958   25    0 
+placitas  958860120  5  5 f   -     -     -        89933    0    0 
+placitas  958860132  5  4 f   -     -     -        89933    0    0 
+placitas  958860163  5  3 cc  kf    -     -        89933  100    0 
+placitas  958860179  5  2 Bf  -     -     -        89833   50    0 
+placitas  958860186  5  1 Bf  -     -     -        89783   25    0 
+placitas  958860195  5  5 f   -     -     -        89758    0    0 
+placitas  958860209  5  4 cc  f     -     -        89758  100    0 
+placitas  958860219  4  3 r   b     b     k        89658  250    0 Jc Qc
+placitas  958860239  4  2 Bk  k     c     b        89408  250  400 
+placitas  958860263  4  1 Bf  -     -     -        89558   25    0 
+placitas  958860304  4  4 c   b     -     -        89533  100  175 
+placitas  958860317  4  3 f   -     -     -        89608    0    0 
+placitas  958860328  4  2 Bc  kf    -     -        89608  100    0 
+placitas  958860336  4  1 Bf  -     -     -        89508   25    0 
+placitas  958860344  4  4 cc  c     k     k        89483  150    0 Ts 9c
+placitas  958860364  4  3 f   -     -     -        89333    0    0 
+placitas  958860384  4  2 Bc  br    b     k        89333  350  800 6d Ad
+placitas  958860404  4  1 Bf  -     -     -        89783   25    0 
+placitas  958860409  4  4 rc  r     -     -        89758  250  500 
+placitas  958860423  4  3 f   -     -     -        90008    0    0 
+placitas  958860446  4  2 B   -     -     -        90008   50   75 
+placitas  958860455  4  1 Bf  -     -     -        90033   25    0 
+placitas  958860468  4  4 f   -     -     -        90008    0    0 
+placitas  958860497  4  3 f   -     -     -        90008    0    0 
+placitas  958860535  4  2 B   -     -     -        90008   50   75 
+placitas  958860546  4  1 Bc  b     -     -        90033  150  350 
+placitas  958860559  4  4 f   -     -     -        90233    0    0 
+placitas  958860564  4  3 r   b     k     b        90233  250  550 Ac Jh
+placitas  958860587  4  2 Br  c     k     b        90533  250  400 
+placitas  958860618  4  1 Bf  -     -     -        90683   25    0 
+placitas  958860621  4  4 f   -     -     -        90658    0    0 
+placitas  958860638  4  3 f   -     -     -        90658    0    0 
+placitas  958860644  4  2 Brc c     f     -        90658  250    0 
+placitas  958860662  5  1 Bf  -     -     -        90408   25    0 
+placitas  958860682  5  5 f   -     -     -        90383    0    0 
+placitas  958860701  5  4 f   -     -     -        90383    0    0 
+placitas  958860711  5  3 f   -     -     -        90383    0    0 
+placitas  958860716  5  2 Bf  -     -     -        90383   50    0 
+placitas  958860728  5  1 Bf  -     -     -        90333   25    0 
+placitas  958860747  4  4 f   -     -     -        90308    0    0 
+placitas  958860760  4  4 f   -     -     -        90308    0    0 
+placitas  958860780  4  3 c   b     k     f        90308  100    0 
+placitas  958860803  4  2 Bc  bc    kc    k        90208  300  700 9d Qh
+placitas  958860829  4  1 Bf  -     -     -        90608   25    0 
+placitas  958860835  4  4 c   f     -     -        90583   50    0 
+placitas  958860844  3  2 Bc  kf    -     -        90533  100    0 
+placitas  958860855  3  1 Bc  b     -     -        90433  100  150 
+placitas  958860862  3  3 r   b     b     b        90483  350  725 Kd Qd
+placitas  958860875  3  2 Bc  f     -     -        90858  100    0 
+placitas  958860883  3  1 Bf  -     -     -        90758   25    0 
+placitas  958860885  3  3 f   -     -     -        90733    0    0 
+placitas  958860889  3  2 Bc  r     b     k        90733  300  600 Th 6h
+placitas  958860902  3  1 Brc kc    kf    -        91033  250    0 
+placitas  958860920  3  3 rc  c     k     f        90783  200    0 
+placitas  958860931  3  2 Bc  kf    -     -        90583  100    0 
+placitas  958860939  3  1 Br  b     k     k        90483  200    0 Qh 8c
+placitas  958860950  3  3 r   -     -     -        90283  100  175 
+placitas  958860958  3  2 Bc  kf    -     -        90358  100    0 
+placitas  958860972  3  1 Br  k     b     kf       90258  200    0 
+placitas  958860989  3  3 c   c     f     -        90058  100    0 
+placitas  958861003  3  2 Bc  f     -     -        89958  100    0 
+placitas  958861007  3  1 Br  b     k     b        89858  300  550 
+placitas  958861019  3  3 rr  b     -     -        90108  250  500 
+placitas  958861029  3  2 Bf  -     -     -        90358   50    0 
+placitas  958861033  3  1 Bc  b     -     -        90308  100  150 
+placitas  958861042  3  3 r   -     -     -        90358  100  175 
+placitas  958861045  3  2 B   -     -     -        90433   50   75 
+placitas  958861049  3  1 Bc  k     b     kf       90458  150    0 
+placitas  958861065  4  4 f   -     -     -        90308    0    0 
+placitas  958861080  4  3 c   b     -     -        90308  100  175 
+placitas  958861094  4  2 Br  b     k     k        90383  200  200 Ad Qs
+placitas  958861109  4  1 Bc  bf    -     -        90383  150    0 
+placitas  958861125  5  4 f   -     -     -        90233    0    0 
+placitas  958861157  5  3 f   -     -     -        90233    0    0 
+placitas  958861174  5  2 Bc  b     -     -        90233  150  375 
+placitas  958861195  5  1 Bf  -     -     -        90458   25    0 
+placitas  958861201  5  5 c   k     k     k        90433   50    0 4c Tc
+placitas  958861235  5  4 f   -     -     -        90383    0    0 
+placitas  958861250  5  3 f   -     -     -        90383    0    0 
+placitas  958861284  5  2 Bk  b     bc    k        90383  300  625 9h Kc
+placitas  958861303  5  1 Bf  -     -     -        90708   25    0 
+placitas  958861313  5  5 c   r     b     -        90683  300  675 
+placitas  958861333  5  4 cc  f     -     -        91058  100    0 
+placitas  958861342  5  3 f   -     -     -        90958    0    0 
+placitas  958861357  5  2 Bf  -     -     -        90958   50    0 
+placitas  958861371  5  1 Bc  b     b     k        90908  250  700 Qh 7h
+placitas  958861392  5  5 f   -     -     -        91358    0    0 
+placitas  958861403  3  3 r   -     -     -        91358  100  175 
+placitas  958861412  3  2 Bc  br    -     -        91433  250  550 
+placitas  958861426  3  1 Bc  kf    -     -        91733  100    0 
+placitas  958861450  3  3 r   b     -     -        91633  150  275 
+placitas  958861459  3  2 Bc  f     -     -        91758  150    0 
+placitas  958861468  3  1 Bc  k     kf    -        91608   50    0 
+placitas  958861493  3  3 f   -     -     -        91558    0    0 
+placitas  958861495  3  2 B   -     -     -        91558   50   75 
+placitas  958861502  3  1 Bf  -     -     -        91583   25    0 
+placitas  958861512  3  3 f   -     -     -        91558    0    0 
+placitas  958861516  3  2 Br  r     k     b        91558  300  500 
+placitas  958861532  3  1 Br  -     -     -        91758  100  150 
+placitas  958861534  3  3 f   -     -     -        91808    0    0 
+placitas  958861553  3  2 Bk  f     -     -        91808   50    0 
+placitas  958861566  3  1 Bcc bc    kc    b        91758  400  800 Qd 4d
+placitas  958861582  3  3 cc  f     -     -        92158  150    0 
+placitas  958861611  3  2 Bc  k     k     k        92008  100    0 5h 4s
+placitas  958861635  2  1 Br  b     k     k        91908  150    0 6h Ah
+placitas  958861648  2  2 B   -     -     -        91758   50   75 
+placitas  958861653  2  1 Bc  k     k     k        91783   50    0 6h 5h
+placitas  958861674  2  2 Br  b     k     k        91733  150  300 Jh Qc
+placitas  958861693  2  1 Bf  -     -     -        91883   25    0 
+placitas  958861697  2  2 Bk  k     k     b        91858  150  200 
+placitas  959037125  3  2 Bk  k     r     -        93668  250  400 
+placitas  959037146  3  1 Br  b     k     k        93818  150  350 Kc Tc
+placitas  959037161  3  3 r   b     k     k        94018  150  350 Tc Ts
+placitas  959037175  3  2 Bc  kc    kc    k        94218  250  525 4d 3h
+placitas  959037192  3  1 Brc kc    k     k        94493  200  400 6d 8d
+placitas  959037221  3  3 cc  f     -     -        94693  100    0 
+placitas  959037231  2  1 B   -     -     -        94593   50   50 
+placitas  959037234  2  1 Bc  b     -     -        94593  100  150 
+placitas  959037243  2  2 Bc  f     -     -        94643  100    0 
+placitas  959037248  2  1 Br  -     -     -        94543  100  150 
+placitas  959037250  2  2 Br  b     -     -        94593  200  350 
+placitas  959037256  2  1 Bcc kf    -     -        94743  100    0 
+placitas  959037264  2  2 Bk  b     -     -        94643  100  150 
+placitas  959037271  3  1 Br  bc    k     k        94693  200    0 8d 8s
+placitas  959037300  3  3 f   -     -     -        94493    0    0 
+placitas  959037307  3  2 Br  b     b     b        94493  400  725 
+placitas  959037318  3  1 Bf  -     -     -        94818   25    0 
+placitas  959037324  3  3 r   -     -     -        94793  100  175 
+placitas  959037326  3  2 Br  b     -     -        94868  150  275 
+placitas  959037332  3  1 Bcc b     b     -        94993  250  400 
+placitas  959037342  3  3 r   b     c     c        95143  350  362 8s Kc
+placitas  959037357  3  2 B   -     -     -        95155   50   75 
+placitas  959037363  3  1 Brc brc   kc    kc       95180  600  625 Ks Ah
+placitas  959037381  3  3 f   -     -     -        95205    0    0 
+placitas  959037404  3  2 Bk  kc    kf    -        95205  100    0 
+placitas  959037421  3  1 Bcc b     b     kc       95105  350    0 3s Kd
+placitas  959037437  3  3 c   r     f     -        94755  150    0 
+placitas  959037453  3  2 Bc  f     -     -        94605  100    0 
+placitas  959037458  3  1 Brc kc    k     k        94505  200    0 Ks Jd
+placitas  959037471  3  3 r   -     -     -        94305  100  175 
+placitas  959037478  3  2 Bc  r     c     c        94380  400    0 9c Ac
+placitas  959037493  3  1 Bf  -     -     -        93980   25    0 
+placitas  959037498  3  3 cc  c     k     r        93955  350  750 3d 6d
+placitas  959037512  3  2 B   -     -     -        94355   50   75 
+placitas  959037518  3  1 Bcc kf    -     -        94380  100    0 
+placitas  959037525  3  3 f   -     -     -        94280    0    0 
+placitas  959037534  3  2 Br  f     -     -        94280  100    0 
+placitas  959037546  3  1 Bc  b     -     -        94180  100  150 
+placitas  959037553  3  3 c   f     -     -        94230   50    0 
+placitas  959037565  3  2 Bc  rf    -     -        94180  200    0 
+placitas  959037574  3  1 Bcc kf    -     -        93980  100    0 
+placitas  959037586  3  3 c   k     k     k        93880   50   62 7c 6h
+placitas  959037598  3  2 B   -     -     -        93892   50   75 
+placitas  959037603  3  1 Bcc kf    -     -        93917  100    0 
+placitas  959037612  3  3 r   b     c     c        93817  350    0 Jc 8c
+placitas  959037625  3  2 B   -     -     -        93467   50   75 
+placitas  959037631  3  1 Bc  b     -     -        93492  100  200 
+placitas  959037638  3  3 f   -     -     -        93592    0    0 
+placitas  959037641  3  2 Br  b     b     b        93592  400    0 Qd Qc
+placitas  959037652  3  1 Bcc kc    k     bc       93192  350    0 Ks 2h
+placitas  959037671  3  3 r   -     -     -        92842  100  175 
+placitas  959037677  3  2 Bc  bc    kc    kc       92917  400    0 6h Jc
+placitas  959037689  3  1 Bf  -     -     -        92517   25    0 
+placitas  959037694  3  3 cc  r     b     k        92492  300  650 Qs 6d
+placitas  959037708  3  2 Bc  rc    c     c        92842  450    0 4s Ad
+placitas  959037721  3  1 Bf  -     -     -        92392   25    0 
+placitas  959037737  3  3 c   k     k     f        92367   50    0 
+placitas  959037755  3  2 Bc  f     -     -        92317  100    0 
+placitas  959037770  3  1 Br  kc    krrc  kc       92217  750 1650 Js Th
+placitas  959037802  3  3 f   -     -     -        93117    0    0 
+placitas  959037808  3  2 Bf  -     -     -        93117   50    0 
+placitas  959037816  3  1 Br  -     -     -        93067  100  150 
+placitas  959037822  3  3 f   -     -     -        93117    0    0 
+placitas  959037837  3  2 Br  b     -     -        93117  200  375 
+placitas  959037845  3  1 Bcc b     k     k        93292  150    0 9s Ts
+placitas  959037860  3  3 f   -     -     -        93142    0    0 
+placitas  959037872  3  2 B   -     -     -        93142   50   75 
+placitas  959037875  3  1 Bc  br    b     b        93167  400  800 8h Jc
+placitas  959037888  3  3 c   b     -     -        93567  100  175 
+placitas  959037899  3  2 B   -     -     -        93642   50   75 
+placitas  959037903  3  1 Bf  -     -     -        93667   25    0 
+placitas  959037905  3  3 f   -     -     -        93642    0    0 
+placitas  959037908  3  2 Bc  c     f     -        93642  150    0 
+placitas  959037916  3  1 Bf  -     -     -        93492   25    0 
+placitas  959037924  3  3 r   -     -     -        93467  100  175 
+placitas  959037928  3  2 Bc  kc    kr    -        93542  350  625 
+placitas  959037939  3  1 Br  br    b     b        93817  500 1200 Ad 7h
+placitas  959037955  3  3 c   f     -     -        94517   50    0 
+placitas  959037966  3  2 Bc  krr   b     b        94467  500 1025 Jd 2d
+placitas  959037979  3  1 Bcc kc    kc    k        94992  250    0 7s Jc
+placitas  959037998  3  3 f   -     -     -        94742    0    0 
+placitas  959038011  3  2 Bf  -     -     -        94742   50    0 
+placitas  959038024  3  1 Bc  kf    -     -        94692   50    0 
+placitas  959038033  3  3 r   b     -     -        94642  150  300 
+placitas  959038043  3  2 Bc  b     b     -        94792  250  425 
+placitas  959038054  3  1 Bc  kf    -     -        94967   50    0 
+placitas  959038072  3  3 c   -     -     -        94917   50  125 
+placitas  959038084  2  1 B   -     -     -        94992   50   50 
+placitas  959038086  2  1 Br  b     b     k        94992  250  500 6c Kh
+placitas  959038099  2  2 Br  rc    c     k        95242  400  800 Tc 9c
+placitas  959038113  2  1 Bcc kf    -     -        95642  100    0 
+placitas  959038123  2  2 B   -     -     -        95542   50   75 
+placitas  959038125  2  1 Br  b     b     b        95567  350  600 
+placitas  959038136  2  2 B   -     -     -        95817   50   75 
+placitas  959038138  2  1 Br  b     -     -        95842  150  250 
+placitas  959038144  2  2 Bc  f     -     -        95942  100    0 
+placitas  959038148  2  1 Bc  k     k     k        95842   50  100 2h Js
+placitas  959038159  2  2 Bc  c     k     c        95892  250    0 6d 7d
+placitas  959038174  2  1 Bcc b     k     b        95642  250  500 6s 5c
+placitas  959038190  2  2 Bc  f     -     -        95892  100    0 
+placitas  959038196  2  1 Br  k     b     k        95792  200  400 Ad 5s
+placitas  959038208  2  2 Bk  c     r     -        95992  300  500 
+placitas  959038220  2  1 Br  -     -     -        96192  100  150 
+placitas  959038223  2  2 B   -     -     -        96242   50   75 
+placitas  959038225  2  1 Br  kc    kc    kc       96267  350    0 5h Qh
+placitas  959038237  2  2 Bc  b     k     k        95917  150  300 5h Js
+placitas  959038249  2  1 Bf  -     -     -        96067   25    0 
+placitas  959038254  2  2 Bc  f     -     -        96042  100    0 
+placitas  959038259  2  1 Br  b     b     k        95942  250    0 As Qc
+placitas  959038270  2  2 B   -     -     -        95692   50   75 
+placitas  959038275  2  1 Br  -     -     -        95717  100  150 
+placitas  959038278  2  2 Br  b     k     b        95767  250  400 
+placitas  959038290  2  1 Br  kf    -     -        95917  100    0 
+placitas  959038296  2  2 Bc  f     -     -        95817  100    0 
+placitas  959038302  2  1 Bc  k     k     k        95717   50    0 5d Td
+placitas  959038310  2  2 B   -     -     -        95667   50   75 
+placitas  959038314  2  1 Br  k     kf    -        95692  100    0 
+placitas  959038324  2  2 B   -     -     -        95592   50   75 
+placitas  959038326  2  1 Bf  -     -     -        95617   25    0 
+placitas  959038329  2  2 Bf  -     -     -        95592   50    0 
+placitas  959038331  2  1 Bf  -     -     -        95542   25    0 
+placitas  959038334  2  2 B   -     -     -        95517   50   75 
+placitas  959038336  2  1 Bc  kf    -     -        95542   50    0 
+placitas  959038343  2  2 Bc  f     -     -        95492  100    0 
+placitas  959038349  2  1 Bf  -     -     -        95392   25    0 
+placitas  959038352  2  2 B   -     -     -        95367   50   75 
+placitas  959038354  2  1 Bc  kf    -     -        95392   50    0 
+placitas  959038362  2  2 Br  b     k     k        95342  200    0 Kc 7c
+placitas  959038376  2  1 Bf  -     -     -        95142   25    0 
+placitas  959038380  2  2 Br  b     -     -        95117  200  350 
+placitas  959038386  2  1 Br  -     -     -        95267  100  150 
+placitas  959038390  2  2 Br  c     k     k        95317  200    0 Th Jd
+placitas  959038402  2  1 Brc kc    k     kf       95117  200    0 
+placitas  959038419  2  2 Br  b     k     k        94917  200  400 9d Ad
+placitas  959038430  2  1 Bf  -     -     -        95117   25    0 
+placitas  959038436  2  2 B   -     -     -        95092   50   75 
+placitas  959038437  2  1 Bcc b     kc    kc       95117  350    0 2h 7h
+placitas  959038451  2  2 B   -     -     -        94767   50   75 
+placitas  959038455  2  1 Bc  bc    k     k        94792  150  300 6h 6d
+placitas  959038467  2  2 B   -     -     -        94942   50   75 
+placitas  959038471  2  1 Bf  -     -     -        94967   25    0 
+placitas  959038474  2  2 B   -     -     -        94942   50   75 
+placitas  959038477  2  1 Br  -     -     -        94967  100  150 
+placitas  959038480  2  2 Bf  -     -     -        95017   50    0 
+placitas  959038483  2  1 Bcc b     bc    kc       94967  450    0 7h 9h
+placitas  959038498  2  2 B   -     -     -        94517   50   75 
+placitas  959038503  2  1 Bc  b     -     -        94542  100  150 
+placitas  959038508  2  2 BQ  -     -     -        94592   50    0 

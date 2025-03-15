@@ -1,0 +1,314 @@
+Magilla   957433328  2  1 Br  -     -     -         1000   20   30 
+Magilla   957433345  2  2 Bc  r     r     f         1010   80    0 
+Magilla   957433413  2  1 Bc  k     k     kf         930   10    0 
+Magilla   957433456  2  2 Bk  b     b     b          920   60  120 4s Td
+Magilla   957433500  2  1 Bc  b     b     k          980   40   80 5s 3s
+Magilla   957433531  2  2 Bk  r     b     k         1020   50  100 4c Qh
+Magilla   957433570  2  1 Bc  k     b     k         1070   30   60 Ac 6s
+Magilla   957433605  2  2 Bk  k     b     b         1100   50   80 
+Magilla   957433647  2  1 BQ  -     -     -         1130    5    0 
+Magilla   957473229  8  4 c   rc    c     c         1125   90   91 Kh Ts
+Magilla   957473266  8  3 r   cf    -     -         1126   30    0 
+Magilla   957473299  7  2 Bc  f     -     -         1096   20    0 
+Magilla   957473328  7  1 Bf  -     -     -         1076    5    0 
+Magilla   957473348  7  7 f   -     -     -         1071    0    0 
+Magilla   957473371  7  6 f   -     -     -         1071    0    0 
+Magilla   957473393  7  5 f   -     -     -         1071    0    0 
+Magilla   957473414  7  4 f   -     -     -         1071    0    0 
+Magilla   957473457  7  3 f   -     -     -         1071    0    0 
+Magilla   957473502  8  2 Bc  b     b     b         1071   70    0 2h Ah
+Magilla   957473530  8  1 Bc  kf    -     -         1001   10    0 
+Magilla   957473556  8  8 c   bc    f     -          991   30    0 
+Magilla   957473602  7  6 f   -     -     -          961    0    0 
+Magilla   957473635  7  5 cc  c     b     -          961   50  115 
+Magilla   957473669  7  4 f   -     -     -         1026    0    0 
+Magilla   957473700  7  3 f   -     -     -         1026    0    0 
+Magilla   957473747  7  2 Bk  k     b     c         1026   50  110 2s Kh
+Magilla   957473791  7  1 Bc  b     -     -         1086   20   40 
+Magilla   957473810  6  6 c   f     -     -         1106   10    0 
+Magilla   957473855  5  5 f   -     -     -         1096    0    0 
+Magilla   957473874  5  5 c   c     c     f         1096   60    0 
+Magilla   957473906  5  4 c   r     c     f         1036   50    0 
+Magilla   957473932  5  3 c   k     k     k          986   10    0 9s Kd
+Magilla   957473957  5  2 Bc  k     f     -          976   20    0 
+Magilla   957473982  4  1 Bc  kf    -     -          956   10    0 
+Magilla   957473996  4  4 f   -     -     -          946    0    0 
+Magilla   957474007  4  3 f   -     -     -          946    0    0 
+Magilla   957474010  4  2 Bc  c     f     -          946   30    0 
+Magilla   957474027  4  1 Bc  bf    -     -          916   20    0 
+Magilla   957474041  4  4 c   f     -     -          896   10    0 
+Magilla   957474053  4  3 c   k     r     -          886   50   95 
+Magilla   957474070  4  2 Bk  c     c     c          931   60  120 2h Ts
+Magilla   957474090  4  1 Bf  -     -     -          991    5    0 
+Magilla   957474113  4  4 f   -     -     -          986    0    0 
+Magilla   957474127  4  3 r   br    b     b          986   90  190 Th Qh
+Magilla   957474150  4  2 Bc  kc    k     b         1086   50   85 
+Magilla   957474179  4  1 Bc  k     k     b         1121   30   50 
+Magilla   957474205  4  4 c   c     f     -         1141   20    0 
+Magilla   957474238  4  3 r   c     c     r         1121   90  185 As Qc
+Magilla   957474260  4  2 Br  b     -     -         1216   30   50 
+Magilla   957474278  4  1 Br  b     -     -         1236   30   60 
+Magilla   957474297  6  4 Q   -     -     -         1266    0    0 
+Magilla   957911182  9  5 f   -     -     -         1725    0    0 
+Magilla   957911278 10  4 c   b     k     f         1725   20    0 
+Magilla   957911333 10  3 f   -     -     -         1705    0    0 
+Magilla   957911362 10  2 Bc  k     bf    -         1705   40    0 
+Magilla   957911467  8  1 Bc  kc    k     b         1665   40   60 Qd 3c
+Magilla   957911528  7  7 f   -     -     -         1685    0    0 
+Magilla   957911563  7  6 cc  c     cc    f         1685  110    0 
+Magilla   957911621  7  5 f   -     -     -         1575    0    0 
+Magilla   957911677  8  4 f   -     -     -         1575    0    0 
+Magilla   957911737  8  3 f   -     -     -         1575    0    0 
+Magilla   957911792  8  2 Bk  kf    -     -         1575   10    0 
+Magilla   957911858  7  1 Bcc kc    kf    -         1565   50    0 
+Magilla   957911937  6  6 r   b     b     b         1515   70  135 
+Magilla   957911984  6  5 f   -     -     -         1580    0    0 
+Magilla   957912007  6  4 r   -     -     -         1580   20   35 
+Magilla   957912016  6  3 c   b     bf    -         1595   40    0 
+Magilla   957912102  7  2 Bc  bc    kc    kf        1555   60    0 
+Magilla   957912154  6  1 Bc  krc   k     k         1495   40    0 2c Ad
+Magilla   957912203  7  7 c   f     -     -         1455   10    0 
+Magilla   957912270  6  3 Q   -     -     -         1445    0    0 
+Magilla   958146240  4  2 Br  b     b     b         1445   80  200 
+Magilla   958146270  5  1 Bcc kf    -     -         1565   30    0 
+Magilla   958146308  5  5 c   cc    c     f         1535   60    0 
+Magilla   958146341  6  4 cc  bc    kf    -         1475   40    0 
+Magilla   958146374  6  4 f   -     -     -         1435    0    0 
+Magilla   958146401  5  2 Bk  k     b     -         1435   30   55 
+Magilla   958146441  5  1 Bf  -     -     -         1460    5    0 
+Magilla   958146448  5  5 f   -     -     -         1455    0    0 
+Magilla   958146477  5  4 f   -     -     -         1455    0    0 
+Magilla   958146498  6  3 f   -     -     -         1455    0    0 
+Magilla   958146515  6  2 Bc  b     br    b         1455  120    0 5c Ks
+Magilla   958146548  6  1 Bc  kf    -     -         1335   10    0 
+Magilla   958146583  7  7 cc  cc    c     f         1325   80    0 
+Magilla   958146619  7  7 c   k     b     b         1245   50    0 4s Ad
+Magilla   958146675  6  5 f   -     -     -         1195    0    0 
+Magilla   958146701  7  4 f   -     -     -         1195    0    0 
+Magilla   958146746  5  3 ccc rr    b     b         1195  120  405 Th 9c
+Magilla   958146785  5  2 Bk  kf    -     -         1480   10    0 
+Magilla   958146812  5  1 Br  bc    kf    -         1470   40    0 
+Magilla   958146829  5  5 f   -     -     -         1430    0    0 
+Magilla   958146843  5  4 f   -     -     -         1430    0    0 
+Magilla   958146874  5  3 c   krr   br    -         1430  110  215 
+Magilla   958146908  6  2 Bc  kf    -     -         1535   20    0 
+Magilla   958146930  6  1 Bf  -     -     -         1515    5    0 
+Magilla   958146979  5  5 rc  c     f     -         1510   60    0 
+Magilla   958147030  5  4 f   -     -     -         1450    0    0 
+Magilla   958147058  5  3 cc  r     c     c         1450   80  185 6s 6h
+Magilla   958147091  5  2 Br  b     b     b         1555   80  205 Ac Qh
+Magilla   958147119  5  1 Bf  -     -     -         1680    5    0 
+Magilla   958147149  5  5 f   -     -     -         1675    0    0 
+Magilla   958147196  5  4 f   Q     -     -         1675    0    0 
+Magilla   958406640  2  2 B   -     -     -         1675   10   15 
+Magilla   958406662  2  1 Br  -     -     -         1680   20   30 
+Magilla   958406668  2  2 B   -     -     -         1690   10   15 
+Magilla   958406671  2  1 Br  br    -     -         1695   50   90 
+Magilla   958406681  3  3 cc  f     -     -         1735   20    0 
+Magilla   958406699  3  2 Bk  b     -     -         1715   20   30 
+Magilla   958406709  3  1 Bcc kr    b     kc        1725   80    0 Kh 4s
+Magilla   958406746  3  3 r   rr    r     b         1645  120  260 Kd Kh
+Magilla   958406780  3  2 Bc  brc   b     b         1785  100    0 9c 9h
+Magilla   958406806  4  1 Bc  b     -     -         1685   20   30 
+Magilla   958406822  4  4 cc  b     c     f         1695   50    0 
+Magilla   958406854  4  3 f   -     -     -         1645    0    0 
+Magilla   958406877  5  2 Bk  f     -     -         1645   10    0 
+Magilla   958406913  5  1 Bc  bc    k     b         1635   50    0 8c 5c
+Magilla   958406939  5  5 c   k     r     f         1585   50    0 
+Magilla   958406986  5  4 c   bc    kc    b         1535   70  160 4s As
+Magilla   958407037  5  3 f   -     -     -         1625    0    0 
+Magilla   958407062  5  2 Bk  kf    -     -         1625   10    0 
+Magilla   958407124  5  1 Bcc kf    -     -         1615   20    0 
+Magilla   958407167  5  5 c   f     -     -         1595   10    0 
+Magilla   958407205  5  4 c   r     c     c         1585   70    0 Jc 9s
+Magilla   958407256  5  3 c   b     b     b         1515   60    0 Kh 8d
+Magilla   958407321  7  2 Bc  kf    -     -         1455   20    0 
+Magilla   958407355  7  1 Bcc k     b     bf        1435   60    0 
+Magilla   958407391  7  7 f   -     -     -         1375    0    0 
+Magilla   958407434  7  6 c   r     b     -         1375   60  180 
+Magilla   958407484  7  5 c   k     b     -         1495   30   65 
+Magilla   958407540  9  6 f   -     -     -         1530    0    0 
+Magilla   958407602  9  5 c   f     -     -         1530   10    0 
+Magilla   958407629  9  4 f   -     -     -         1520    0    0 
+Magilla   958407655  9  3 f   -     -     -         1520    0    0 
+Magilla   958407714  9  3 rr  br    bc    kc        1520  130    0 Qh Qc
+Magilla   958407780  9  2 Bc  kc    f     -         1390   30    0 
+Magilla   958407858 10  1 Bf  -     -     -         1360    5    0 
+Magilla   958407904 10 10 f   -     -     -         1355    0    0 
+Magilla   958407964 10  9 r   b     b     r         1355   90  250 Qd Ac
+Magilla   958408011 10  8 c   c     r     c         1515   90    0 6d 6s
+Magilla   958408086  8  6 fQ  -     -     -         1425    0    0 
+Magilla   958603089  2  2 B   -     -     -         1435   10   15 
+Magilla   958603093  2  1 Bc  b     -     -         1440   20   30 
+Magilla   958603104  2  2 Bf  -     -     -         1450   10    0 
+Magilla   958603111  3  1 Bc  b     -     -         1440   20   30 
+Magilla   958603125  3  3 f   -     -     -         1450    0    0 
+Magilla   958603139  3  2 Bc  b     r     -         1450   70  120 
+Magilla   958603168  3  1 Bf  -     -     -         1500    5    0 
+Magilla   958603181  3  3 f   -     -     -         1495    0    0 
+Magilla   958603190  3  2 Bk  brc   b     brc       1495  150    0 Qd Tc
+Magilla   958603222  3  1 Bf  -     -     -         1345    5    0 
+Magilla   958603230  3  3 f   -     -     -         1340    0    0 
+Magilla   958603251  3  2 Bc  c     r     b         1340   90    0 Ks 9s
+Magilla   958603285  4  1 Bc  k     b     -         1250   30   40 
+Magilla   958603305  4  4 f   -     -     -         1260    0    0 
+Magilla   958603332  4  3 f   -     -     -         1260    0    0 
+Magilla   958603344  4  2 Br  k     k     b         1260   50   80 
+Magilla   958603377  4  1 Bc  k     b     kf        1290   30    0 
+Magilla   958603419  4  4 c   r     b     b         1260   80  175 7h As
+Magilla   958603441  4  3 f   -     -     -         1355    0    0 
+Magilla   958603454  4  2 Br  b     -     -         1355   30   50 
+Magilla   958603466  4  1 Bc  b     b     b         1375   60  100 
+Magilla   958603497  4  4 f   -     -     -         1415    0    0 
+Magilla   958603524  4  3 cr  b     b     b         1415   80  145 
+Magilla   958603575  4  2 Bk  b     b     -         1480   40   80 
+Magilla   958603600  4  1 Bcc b     b     b         1520   70    0 2d 3c
+Magilla   958603622  4  4 f   -     -     -         1450    0    0 
+Magilla   958603630  4  3 f   -     -     -         1450    0    0 
+Magilla   958603663  4  2 B   -     -     -         1450   10   15 
+Magilla   958603671  4  1 Bc  kc    b     b         1455   60  140 2s 2h
+Magilla   958603710  4  4 c   c     f     -         1535   20    0 
+Magilla   958603735  4  3 f   -     -     -         1515    0    0 
+Magilla   958603754  4  2 Bk  b     -     -         1515   20   40 
+Magilla   958603769  4  1 Bf  -     -     -         1535    5    0 
+Magilla   958603793  3  3 r   -     -     -         1530   20   35 
+Magilla   958603797  3  2 Br  b     b     k         1545   50    0 Kc Jd
+Magilla   958603826  3  1 Br  b     b     -         1495   50   80 
+Magilla   958603842  3  3 f   -     -     -         1525    0    0 
+Magilla   958603845  3  2 Bk  k     k     kf        1525   10    0 
+Magilla   958603880  3  1 Br  b     k     k         1515   30   60 Ad 7h
+Magilla   958603896  3  3 f   -     -     -         1545    0    0 
+Magilla   958603910  3  2 Bk  k     b     k         1545   30   30 5s Ac
+Magilla   958603943  4  1 Bc  k     k     kf        1545   10    0 
+Magilla   958603997  4  4 f   -     -     -         1535    0    0 
+Magilla   958604018  4  3 c   k     b     -         1535   30   45 
+Magilla   958604058  4  2 Bk  c     c     f         1550   40    0 
+Magilla   958604097  5  1 Bf  -     -     -         1510    5    0 
+Magilla   958604140  6  6 f   -     -     -         1505    0    0 
+Magilla   958604165  6  5 c   f     Q     -         1505   10    0 
+Magilla   958665656  2  2 BQ  -     -     -         1640   10    0 
+Magilla   958767086  2  2 Br  -     -     -         1000   20   30 
+Magilla   958767096  2  1 Br  -     -     -         1010   20   30 
+Magilla   958767099  2  2 B   -     -     -         1020   10   15 
+Magilla   958767101  2  1 Br  -     -     -         1025   20   30 
+Magilla   958767108  2  2 Br  b     b     b         1035   70  120 
+Magilla   958767127  3  1 Br  -     -     -         1085   20   40 
+Magilla   958767134  3  3 f   -     -     -         1105    0    0 
+Magilla   958767149  4  2 Bk  b     b     b         1105   60  125 6c 3h
+Magilla   958767194  4  1 Bcc k     k     bf        1170   40    0 
+Magilla   958767222  4  4 rr  r     r     b         1130  120    0 8h Ad
+Magilla   958767253  4  3 f   -     -     -         1010    0    0 
+Magilla   958767289  4  2 Bf  -     -     -         1010   10    0 
+Magilla   958767297  4  1 Bf  -     -     -         1000    5    0 
+Magilla   958767326  4  4 f   -     -     -          995    0    0 
+Magilla   958767355  4  3 c   b     -     -          995   20   45 
+Magilla   958767374  4  2 Bf  -     -     -         1020   10    0 
+Magilla   958767399  4  1 Bf  -     -     -         1010    5    0 
+Magilla   958767415  4  4 f   -     -     -         1005    0    0 
+Magilla   958767430  5  4 r   b     -     -         1005   30   65 
+Magilla   958767462  6  4 f   -     -     -         1040    0    0 
+Magilla   958767508  6  3 f   -     -     -         1040    0    0 
+Magilla   958767547  6  2 Bcc rf    -     -         1040   50    0 
+Magilla   958767612  5  1 Bc  br    b     b          990   80  190 3d Qd
+Magilla   958767644  4  4 cc  f     -     -         1100   20    0 
+Magilla   958767680  5  4 cr  b     b     -         1080   60  125 
+Magilla   958767710  5  3 f   -     -     -         1145    0    0 
+Magilla   958767725  5  2 Bk  f     -     -         1145   10    0 
+Magilla   958767760  5  1 Bcc k     k     b         1135   40  100 4c 3c
+Magilla   958767801  4  4 cc  c     r     b         1195   90  170 
+Magilla   958767831  5  4 f   -     -     -         1275    0    0 
+Magilla   958767845  5  3 f   -     -     -         1275    0    0 
+Magilla   958767871  5  2 B   -     -     -         1275   10   15 
+Magilla   958767886  5  1 Bcc b     b     b         1280   70    0 Qc 6d
+Magilla   958767919  6  6 cc  brc   r     b         1210  130  410 Js Th
+Magilla   958767988  7  6 rc  kc    kr    k         1490   80  172 Qs As
+Magilla   958768044  6  4 f   -     -     -         1582    0    0 
+Magilla   958768096  5  2 Bc  kc    kc    bf        1582   70    0 
+Magilla   958768125  5  1 Bcc k     kc    b         1512   60  150 
+Magilla   958768166  6  5 Q   -     -     -         1602    0    0 
+Magilla   958772744  9  2 Bk  b     k     k         1602   20    0 Jc 8s
+Magilla   958772789  9  1 Bf  -     -     -         1582    5    0 
+Magilla   958772865  8  8 f   -     -     -         1577    0    0 
+Magilla   958772947  9  8 Q   -     -     -         1577    0    0 
+Magilla   958776806  7  4 f   -     -     -         1577    0    0 
+Magilla   958776835  7  3 f   -     -     -         1577    0    0 
+Magilla   958776874  7  2 Bk  rc    b     k         1577   60    0 2c Ac
+Magilla   958776934  6  1 Bc  kf    -     -         1517   10    0 
+Magilla   958776993  6  5 cc  kf    -     -         1507   20    0 
+Magilla   958777042  5  3 f   -     -     -         1487    0    0 
+Magilla   958777087  5  2 Bk  KQ    -     -         1487   10    0 
+Magilla   959369622  3  3 f   -     -     -         1792    0    0 
+Magilla   959369630  3  2 Bf  -     -     -         1792   10    0 
+Magilla   959369644  2  1 Br  -     -     -         1782   20   30 
+Magilla   959369649  2  2 B   -     -     -         1792   10   15 
+Magilla   959369652  2  1 Brc kr    b     b         1797   90    0 2d 9s
+Magilla   959369674  2  2 Bf  -     -     -         1707   10    0 
+Magilla   959369681  2  1 Br  br    -     -         1697   50   90 
+Magilla   959369696  2  2 Bc  k     b     r         1737   80  140 
+Magilla   959369710  2  1 Br  b     -     -         1797   30   50 
+Magilla   959369716  2  2 B   -     -     -         1817   10   15 
+Magilla   959369719  2  1 Bc  brc   b     b         1822   90   90 6h Th
+Magilla   959369740  2  2 Brc rr    r     b         1822  140  280 Tc Td
+Magilla   959369774  2  1 Bcc kc    kf    -         1962   30    0 
+Magilla   959369799  2  2 B   -     -     -         1932   10   15 
+Magilla   959369802  2  1 Br  -     -     -         1937   20   30 
+Magilla   959369805  2  2 Brc rr    rr    b         1947  180  360 Ts Td
+Magilla   959369835  3  1 Bc  kc    kf    -         2127   20    0 
+Magilla   959369860  4  4 f   -     -     -         2107    0    0 
+Magilla   959369893  4  3 c   c     c     f         2107   40    0 
+Magilla   959369946  4  2 B   -     -     -         2067   10   15 
+Magilla   959369950  4  1 Bf  -     -     -         2072    5    0 
+Magilla   959369984  4  4 f   -     -     -         2067    0    0 
+Magilla   959370017  4  3 f   -     -     -         2067    0    0 
+Magilla   959370032  4  2 Bk  kf    Q     -         2067   10    0 
+Magilla   959716999  8  6 r   b     b     b          517   70    0 2h 3h
+Magilla   959717069  8  5 f   -     -     -          447    0    0 
+Magilla   959717116  8  4 f   -     -     -          447    0    0 
+Magilla   959717171  8  3 c   kf    -     -          447   10    0 
+Magilla   959717206  7  2 Bk  b     b     b          437   60  100 
+Magilla   959717237  6  1 Bc  kc    kc    kf         477   40    0 
+Magilla   959717286  5  5 f   -     -     -          437    0    0 
+Magilla   959717321  5  5 c   b     b     -          437   40   75 
+Magilla   959717354  6  5 f   -     -     -          472    0    0 
+Magilla   959717404  6  4 f   -     -     -          472    0    0 
+Magilla   959717434  6  3 r   b     -     -          472   30   65 
+Magilla   959717457  6  2 Bk  bc    bf    -          507   50    0 
+Magilla   959717494  6  1 Bc  k     kc    b          457   50    0 7d Tc
+Magilla   959717522  7  7 c   c     r     b          407   80  205 
+Magilla   959717576  7  6 c   c     b     b          532   60    0 5c Ac
+Magilla   959717611  7  5 rr  rc    k     c          472  100    0 Qc Qd
+Magilla   959717663  7  4 cc  b     b     b          372   70  210 Ts 9c
+Magilla   959717716  8  3 f   -     -     -          512    0    0 
+Magilla   959717751  8  2 Bk  kc    kr    b          512   80    0 Qc 2d
+Magilla   959717791  8  1 Bc  b     b     kc         432   60  190 8h Ad
+Magilla   959717829  8  8 c   b     bc    k          562   70    0 7d 9d
+Magilla   959717891  8  7 rc  f     -     -          492   30    0 
+Magilla   959717947  8  5 f   -     -     -          462    0    0 
+Magilla   959717991  8  4 cc  bc    b     b          462   80  235 
+Magilla   959718066  8  3 f   -     -     -          617    0    0 
+Magilla   959718128  7  1 Bc  bc    br    b          617  140  780 Qh 9h
+Magilla   959718191  7  1 Bcc kf    -     -         1257   20    0 
+Magilla   959718223  7  7 f   -     -     -         1237    0    0 
+Magilla   959718269  6  5 f   -     -     -         1237    0    0 
+Magilla   959718316  5  4 f   -     -     -         1237    0    0 
+Magilla   959718355  4  2 Bf  -     -     -         1237   10    0 
+Magilla   959718398  4  1 Bf  -     -     -         1227    5    0 
+Magilla   959718419  4  4 c   r     b     b         1222   70  130 
+Magilla   959718449  2  2 Bk  k     k     k         1282   10    0 4c 3c
+Magilla   959718469  2  1 Bc  kc    kf    -         1272   20    0 
+Magilla   959718485  2  2 Bk  k     b     -         1252   30   40 
+Magilla   959718510  2  1 Brc k     b     b         1262   70  120 
+Magilla   959718534  2  2 Bk  c     c     c         1312   60    0 2d 8s
+Magilla   959718552  2  1 Brr kr    b     brc       1252  160  320 As Kh
+Magilla   959718612  2  2 Bk  k     k     b         1412   30   40 
+Magilla   959718644  2  1 Bf  -     -     -         1422    5    0 
+Magilla   959718648  2  2 Bc  b     b     -         1417   50   80 
+Magilla   959718670  3  1 Bc  kf    -     -         1447   10    0 
+Magilla   959718707  4  4 f   -     -     -         1437    0    0 
+Magilla   959718748  3  2 Bc  b     brc   brc       1437  190  400 4h 5d
+Magilla   959718824  3  1 Bf  -     -     -         1647    5    0 
+Magilla   959718866  3  3 f   -     -     -         1642    0    0 
+Magilla   959718902  5  4 f   -     -     -         1642    0    0 
+Magilla   959718951  6  4 cc  kf    -     -         1642   20    0 
+Magilla   959718996  6  3 f   -     -     -         1622    0    0 
+Magilla   959719041  7  2 BQ  -     -     -         1622   10    0 

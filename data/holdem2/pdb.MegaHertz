@@ -1,0 +1,695 @@
+MegaHertz 957663806 10 10 c   k     f     -         2385   20    0 
+MegaHertz 957663859 10  9 f   -     -     -         2365    0    0 
+MegaHertz 957663893 10  8 f   -     -     -         2365    0    0 
+MegaHertz 957663947 10  7 f   -     -     -         2365    0    0 
+MegaHertz 957663984 10  6 c   cc    k     f         2365   80    0 
+MegaHertz 957664039 10  5 c   k     f     -         2285   20    0 
+MegaHertz 957664076 10  4 f   -     -     -         2265    0    0 
+MegaHertz 957664109 10  3 cc  k     bc    kf        2265  120    0 
+MegaHertz 957664146 10  2 Bc  kf    -     -         2145   40    0 
+MegaHertz 957664165 10  1 Bf  -     -     -         2105   10    0 
+MegaHertz 957664237  9  9 cc  c     f     -         2095   60    0 
+MegaHertz 957664290 10  8 r   -     -     -         2035   40   70 
+MegaHertz 957664320 10  7 f   -     -     -         2065    0    0 
+MegaHertz 957664363 10  6 f   -     -     -         2065    0    0 
+MegaHertz 957664405 10  5 f   -     -     -         2065    0    0 
+MegaHertz 957664458 10  4 c   b     b     kc        2065  120  290 5d Ad
+MegaHertz 957664500 10  3 c   r     b     -         2235  100  260 
+MegaHertz 957664575 10  2 Bk  kf    -     -         2395   20    0 
+MegaHertz 957664642 10  1 Bc  k     kf    -         2375   20    0 
+MegaHertz 957664735 10 10 f   -     -     -         2355    0    0 
+MegaHertz 957664796 10  9 c   f     -     -         2355   20    0 
+MegaHertz 957664823 10  8 c   k     k     f         2335   20    0 
+MegaHertz 957664883  9  7 f   -     -     -         2315    0    0 
+MegaHertz 957664898  9  6 f   -     -     -         2315    0    0 
+MegaHertz 957664930  9  5 cc  kf    -     -         2315   40    0 
+MegaHertz 957664975  9  4 f   -     -     -         2275    0    0 
+MegaHertz 957665011  9  3 f   -     -     -         2275    0    0 
+MegaHertz 957665048  9  2 Bk  k     k     kc        2275   60    0 9h 6s
+MegaHertz 957665124 10  1 Bc  kcf   -     -         2215   40    0 
+MegaHertz 957665209 10 10 f   -     -     -         2175    0    0 
+MegaHertz 957665244 10  9 c   c     f     -         2175   40    0 
+MegaHertz 957665308 10  8 c   f     -     -         2135   40    0 
+MegaHertz 957665347 10  7 f   -     -     -         2095    0    0 
+MegaHertz 957665410 10  6 c   r     b     b         2095  140    0 5s 6c
+MegaHertz 957665450 10  5 cc  c     bc    k         1955  180  880 7c 8h
+MegaHertz 957665535 10  4 c   b     b     b         2655  120  280 Ac 6c
+MegaHertz 957665570 10  3 f   -     -     -         2815    0    0 
+MegaHertz 957665609 10  2 Bk  r     b     k         2815  100    0 7s Td
+MegaHertz 957665670 10  1 Bc  b     b     k         2715  100    0 Jc 3c
+MegaHertz 957665744  9  9 c   k     b     b         2615  100  290 9h Tc
+MegaHertz 957665836  9  8 f   -     -     -         2805    0    0 
+MegaHertz 957665878 10  8 c   bc    c     r         2805  180  500 As Ad
+MegaHertz 957665971 10  7 cc  kf    -     -         3125   40    0 
+MegaHertz 957666026 10  6 f   Q     -     -         3085    0    0 
+MegaHertz 958630131 10  3 f   -     -     -         2055    0    0 
+MegaHertz 958630194 10  2 Bk  k     b     kf        2055   60    0 
+MegaHertz 958630221 10  1 Bc  kc    k     k         1995   60    0 7s Ts
+MegaHertz 958630247 10 10 c   c     c     f         1935   80    0 
+MegaHertz 958630277  9  8 cc  k     f     -         1855   60    0 
+MegaHertz 958630322 10  8 cc  k     r     b         1795  160  210 Ks Qh
+MegaHertz 958630369 10  7 c   f     -     -         1845   20    0 
+MegaHertz 958630408 10  6 f   -     -     -         1825    0    0 
+MegaHertz 958630445 10  5 c   b     kf    -         1825   40    0 
+MegaHertz 958630483 10  4 cc  bc    br    b         1785  240    0 Tc Ad
+MegaHertz 958630540 10  3 r   -     -     -         1545   40   70 
+MegaHertz 958630556 10  2 Bk  c     c     c         1575  120    0 3s 3d
+MegaHertz 958630633 10  1 Bc  k     k     k         1455   20    0 8s 5h
+MegaHertz 958630681 10 10 c   c     r     b         1435  180  560 Kc Qs
+MegaHertz 958630738 10  9 c   c     c     r         1815  180  580 Th 9c
+MegaHertz 958630803 10  8 f   -     -     -         2215    0    0 
+MegaHertz 958630847 10  7 f   -     -     -         2215    0    0 
+MegaHertz 958630869 10  6 c   kf    -     -         2215   20    0 
+MegaHertz 958630945 10  5 f   -     -     -         2195    0    0 
+MegaHertz 958630979 10  4 cc  c     c     c         2195  140  340 Js As
+MegaHertz 958631010 10  3 f   -     -     -         2395    0    0 
+MegaHertz 958631042 10  2 Bc  k     k     f         2395   40    0 
+MegaHertz 958631088 10  1 Bf  -     -     -         2355   10    0 
+MegaHertz 958631166 10 10 f   -     -     -         2345    0    0 
+MegaHertz 958631241 10  9 c   f     -     -         2345   20    0 
+MegaHertz 958631288 10  8 c   c     c     r         2325  160  490 2s 9s
+MegaHertz 958631333 10  7 c   cf    -     -         2655   60    0 
+MegaHertz 958631384 10  6 cc  b     b     b         2595  140  440 
+MegaHertz 958631427  9  4 f   -     -     -         2895    0    0 
+MegaHertz 958631459  8  2 Bk  k     b     b         2895  100    0 Th As
+MegaHertz 958631485  8  1 Bc  bc    kr    b         2795  180    0 5d Td
+MegaHertz 958631534  8  8 c   c     c     b         2615  120  380 7c 9c
+MegaHertz 958631603  8  7 f   -     -     -         2875    0    0 
+MegaHertz 958631640  8  6 c   k     k     b         2875   60  115 9c 7s
+MegaHertz 958631697  8  5 c   k     b     b         2930  100    0 Kc Tc
+MegaHertz 958631758  9  5 f   -     -     -         2830    0    0 
+MegaHertz 958631783  8  3 f   -     -     -         2830    0    0 
+MegaHertz 958631821  8  2 Bc  k     kf    -         2830   40    0 
+MegaHertz 958631904  8  1 Bc  k     b     bc        2790  160    0 Ad Kh
+MegaHertz 958631953  8  8 c   k     k     f         2630   20    0 
+MegaHertz 958632003  8  7 f   -     -     -         2610    0    0 
+MegaHertz 958632031  8  6 c   k     k     k         2610   40    0 6c 8h
+MegaHertz 958632059  8  5 c   c     f     -         2570   40    0 
+MegaHertz 958632092  8  4 cc  kf    -     -         2530   40    0 
+MegaHertz 958632138  8  3 f   -     -     -         2490    0    0 
+MegaHertz 958632172  9  2 Bc  kf    -     -         2490   40    0 
+MegaHertz 958632211 10  1 Bc  k     k     k         2450   20    0 6s 6d
+MegaHertz 958632279 10 10 cc  f     -     -         2430   40    0 
+MegaHertz 958632371 10  9 c   r     b     b         2390  140  610 Qs Tc
+MegaHertz 958632448 10  8 c   f     -     -         2860   20    0 
+MegaHertz 958632632  9  6 c   c     c     c         2840  140    0 9h 4h
+MegaHertz 958632715 10  6 f   -     -     -         2700    0    0 
+MegaHertz 958632843 10  5 cc  f     -     -         2700   40    0 
+MegaHertz 958632915 10  4 c   kc    k     bc        2660  120    0 Kc 9h
+MegaHertz 958632989 10  3 cc  b     k     f         2540   60    0 
+MegaHertz 958633047 10  2 Bk  cf    -     -         2480   40    0 
+MegaHertz 958633123 10  1 Bc  kc    kc    kf        2440  120    0 
+MegaHertz 958633210 10 10 cc  c     c     f         2320  100    0 
+MegaHertz 958633303 10  9 c   c     k     f         2220   60    0 
+MegaHertz 958633359 10  9 c   c     c     f         2160   80    0 
+MegaHertz 958633411 10  7 f   -     -     -         2080    0    0 
+MegaHertz 958633527  9  6 c   c     k     r         2080  120  390 Ks 7s
+MegaHertz 958633607  9  5 cc  kc    k     cf        2350  100    0 
+MegaHertz 958633709  7  3 f   -     -     -         2250    0    0 
+MegaHertz 958633776  7  3 c   b     -     -         2250   40   90 
+MegaHertz 958633814  7  2 Bk  kc    c     f         2300   80    0 
+MegaHertz 958633861  6  1 Br  bf    -     -         2220   60    0 
+MegaHertz 958633902  6  6 c   k     f     -         2160   20    0 
+MegaHertz 958633942  6  5 f   -     -     -         2140    0    0 
+MegaHertz 958633974  6  4 cc  kf    -     -         2140   40    0 
+MegaHertz 958634038  6  3 c   k     b     -         2100   60  100 
+MegaHertz 958634073  7  2 Bc  k     c     f         2140   80    0 
+MegaHertz 958634102  7  1 Bc  bc    kc    kf        2060  100    0 
+MegaHertz 958634169  7  7 cc  f     -     -         1960   40    0 
+MegaHertz 958634230  7  6 cc  kc    kc    kc        1920  140    0 Jd 9h
+MegaHertz 958634272  7  5 f   -     -     -         1780    0    0 
+MegaHertz 958634336  7  4 f   -     -     -         1780    0    0 
+MegaHertz 958634399  7  3 c   k     f     -         1780   20    0 
+MegaHertz 958634458  7  2 Bc  k     b     bc        1760  160  200 2s Ks
+MegaHertz 958634517  7  1 Bc  b     b     k         1800  100    0 5c 6h
+MegaHertz 958634549  7  7 r   f     -     -         1700   40    0 
+MegaHertz 958634605  7  6 c   c     c     b         1660  120  380 2s Ts
+MegaHertz 958634678  7  5 cc  k     k     c         1920   80  250 Kh Tc
+MegaHertz 958634721  5  3 cc  fQ    -     -         2090   40    0 
+MegaHertz 958708939 10  2 Bk  kc    kc    kf        2050   80    0 
+MegaHertz 958709001 10  1 Bc  b     k     kc        1970   80  260 Tc As
+MegaHertz 958709047 10 10 f   -     -     -         2150    0    0 
+MegaHertz 958709103 10  9 cc  b     r     b         2150  200  550 Qc 8c
+MegaHertz 958709186 10  8 f   -     -     -         2500    0    0 
+MegaHertz 958709251 10  7 f   -     -     -         2500    0    0 
+MegaHertz 958709321 10  6 c   k     k     k         2500   20    0 9d Td
+MegaHertz 958709357 10  5 cc  f     -     -         2480   40    0 
+MegaHertz 958709459 10  4 f   -     -     -         2440    0    0 
+MegaHertz 958709523 10  3 c   k     kc    kf        2440  100    0 
+MegaHertz 958709573 10  2 Bf  -     -     -         2340   20    0 
+MegaHertz 958709664 10  1 Bf  -     -     -         2320   10    0 
+MegaHertz 958709699 10 10 f   -     -     -         2310    0    0 
+MegaHertz 958709760 10  9 c   c     c     r         2310  180  640 5s As
+MegaHertz 958709861 10  8 f   -     -     -         2770    0    0 
+MegaHertz 958710021 10  8 f   -     -     -         2770    0    0 
+MegaHertz 958710049 10  6 f   -     -     -         2770    0    0 
+MegaHertz 958710090 10  5 f   -     -     -         2770    0    0 
+MegaHertz 958710150 10  4 f   -     -     -         2770    0    0 
+MegaHertz 958710210 10  3 f   -     -     -         2770    0    0 
+MegaHertz 958710256 10  2 Bf  -     -     -         2770   20    0 
+MegaHertz 958710302 10  1 Bc  kf    -     -         2750   20    0 
+MegaHertz 958710343 10 10 c   k     b     k         2730   60  150 Tc 8c
+MegaHertz 958710379 10  9 f   -     -     -         2820    0    0 
+MegaHertz 958710444 10  8 c   cc    c     c         2820  180    0 2d Td
+MegaHertz 958710529 10  7 c   c     r     -         2640  140  350 
+MegaHertz 958710603 10  6 f   -     -     -         2850    0    0 
+MegaHertz 958710644 10  5 f   -     -     -         2850    0    0 
+MegaHertz 958710699 10  4 f   -     -     -         2850    0    0 
+MegaHertz 958710746 10  3 cc  k     kf    -         2850   40    0 
+MegaHertz 958710818 10  2 Bk  kf    -     -         2810   20    0 
+MegaHertz 958710862 10  1 Bf  -     -     -         2790   10    0 
+MegaHertz 958710935 10 10 c   f     -     -         2780   40    0 
+MegaHertz 958710963 10  9 cc  c     rrc   c         2740  340    0 5d 5h
+MegaHertz 958711046 10  8 c   f     -     -         2400   20    0 
+MegaHertz 958711093 10  7 c   c     c     k         2380  100    0 5s 7s
+MegaHertz 958711139 10  6 f   -     -     -         2280    0    0 
+MegaHertz 958711209 10  5 f   -     -     -         2280    0    0 
+MegaHertz 958711269 10  4 f   -     -     -         2280    0    0 
+MegaHertz 958711323 10  3 c   bc    kc    f         2280  140    0 
+MegaHertz 958711383 10  2 Bk  kf    -     -         2140   20    0 
+MegaHertz 958711441 10  1 Bc  k     k     k         2120   20    0 Jd Qs
+MegaHertz 958711519  9  9 f   -     -     -         2100    0    0 
+MegaHertz 958711584  8  7 f   -     -     -         2100    0    0 
+MegaHertz 958711643  9  7 f   -     -     -         2100    0    0 
+MegaHertz 958711686  9  6 cc  c     c     r         2100  180  630 5s 6c
+MegaHertz 958711782 10  5 c   k     kf    -         2550   20    0 
+MegaHertz 958711889  9  3 f   -     -     -         2530    0    0 
+MegaHertz 958711927 10  3 cc  kQ    -     -         2530   40    0 
+MegaHertz 959041897  6  6 f   -     -     -         3075    0    0 
+MegaHertz 959041912  6  5 f   -     -     -         3075    0    0 
+MegaHertz 959041944  6  4 f   -     -     -         3075    0    0 
+MegaHertz 959041980  6  3 cc  kc    krc   b         3075  240    0 Qh 4h
+MegaHertz 959042030  6  2 Bc  kf    -     -         2835   40    0 
+MegaHertz 959042062  6  1 Bc  b     b     b         2795  120  220 
+MegaHertz 959042094  6  6 c   c     c     k         2895  100    0 9d Kd
+MegaHertz 959042147  7  5 f   -     -     -         2795    0    0 
+MegaHertz 959042181  7  4 f   -     -     -         2795    0    0 
+MegaHertz 959042208  8  3 c   kf    -     -         2795   20    0 
+MegaHertz 959042262  8  2 Bk  k     b     -         2775   60  110 
+MegaHertz 959042300  7  1 Bc  k     b     -         2825   60  100 
+MegaHertz 959042329  7  7 f   -     -     -         2865    0    0 
+MegaHertz 959042379  9  8 c   f     -     -         2865   20    0 
+MegaHertz 959042444  9  7 c   c     f     -         2845   40    0 
+MegaHertz 959042496  7  5 f   -     -     -         2805    0    0 
+MegaHertz 959042512  6  3 c   bc    krc   kc        2805  220    0 Ks Ac
+MegaHertz 959042563  6  2 Br  b     -     -         2585   60  110 
+MegaHertz 959042583  6  1 Bc  b     -     -         2635   40   80 
+MegaHertz 959042609  6  6 cc  b     k     b         2675  100  200 
+MegaHertz 959042642  7  6 f   -     -     -         2775    0    0 
+MegaHertz 959042702  7  5 c   k     k     k         2775   20    0 9h Qs
+MegaHertz 959042743  7  3 f   -     -     -         2755    0    0 
+MegaHertz 959042780  7  2 Bf  -     -     -         2755   20    0 
+MegaHertz 959042844  7  1 Bf  -     -     -         2735   10    0 
+MegaHertz 959042880  7  7 c   c     c     c         2725  120    0 7d Qh
+MegaHertz 959043012  7  6 f   -     -     -         2605    0    0 
+MegaHertz 959043046  7  5 c   c     c     k         2605  100    0 7d 4d
+MegaHertz 959043079  7  4 c   r     b     -         2505  120  270 
+MegaHertz 959043114  7  3 f   -     -     -         2655    0    0 
+MegaHertz 959043155  8  2 Bk  b     b     b         2655  120  270 
+MegaHertz 959043229  8  1 Br  kc    kc    kc        2805  140  420 Qh Ks
+MegaHertz 959043342  8  8 c   k     b     -         3085   60   90 
+MegaHertz 959043418  7  6 f   -     -     -         3115    0    0 
+MegaHertz 959043446  7  5 f   -     -     -         3115    0    0 
+MegaHertz 959043499  7  4 c   c     cf    -         3115   80    0 
+MegaHertz 959043565  7  3 cc  kcc   cc    k         3035  160    0 2d Qd
+MegaHertz 959043648  8  2 B   -     -     -         2875   20   30 
+MegaHertz 959043672 10  1 Bf  -     -     -         2885   10    0 
+MegaHertz 959043728 10 10 c   f     -     -         2875   20    0 
+MegaHertz 959043780 10  9 f   -     -     -         2855    0    0 
+MegaHertz 959043861 10  8 cc  kc    k     f         2855   60    0 
+MegaHertz 959043916 10  7 c   r     b     f         2795  120    0 
+MegaHertz 959043986 10  6 f   -     -     -         2675    0    0 
+MegaHertz 959044011 10  5 f   -     -     -         2675    0    0 
+MegaHertz 959044041 10  4 c   cc    f     -         2675   80    0 
+MegaHertz 959044125 10  3 f   -     -     -         2595    0    0 
+MegaHertz 959044175 10  2 Bc  kc    kc    kc        2595  140  520 Ts As
+MegaHertz 959044250 10  1 Bc  kc    kf    -         2975   60    0 
+MegaHertz 959044340 10 10 c   ccc   c     f         2915  160    0 
+MegaHertz 959044419 10  9 c   kc    kc    kf        2755  100    0 
+MegaHertz 959044473 10  8 c   f     -     -         2655   20    0 
+MegaHertz 959044550 10  7 c   c     c     f         2635  120    0 
+MegaHertz 959044612 10  6 f   -     -     -         2515    0    0 
+MegaHertz 959044697 10  5 cc  b     b     bf        2515  140    0 
+MegaHertz 959044748 10  4 f   -     -     -         2375    0    0 
+MegaHertz 959044803 10  3 c   k     f     -         2375   20    0 
+MegaHertz 959044847 10  2 Br  bc    kc    kc        2355  160    0 As 8s
+MegaHertz 959044877 10  1 Bc  kc    kc    kf        2195  100    0 
+MegaHertz 959044941 10 10 c   k     c     f         2095   80    0 
+MegaHertz 959044980 10  9 c   c     f     -         2015   40    0 
+MegaHertz 959045019 10  8 c   c     c     f         1975  100    0 
+MegaHertz 959045084 10  7 r   b     -     -         1875   60  190 
+MegaHertz 959045103 10  6 cc  kc    kc    kr        2005  180  370 
+MegaHertz 959045165 10  5 c   kf    -     -         2195   20    0 
+MegaHertz 959045217 10  4 cc  k     k     bf        2175   80    0 
+MegaHertz 959045244 10  3 f   -     -     -         2095    0    0 
+MegaHertz 959045317 10  2 Bc  c     c     c         2095  140  300 Td 8h
+MegaHertz 959045351 10  1 Bc  kc    kc    kr        2255  160  320 Jc Tc
+MegaHertz 959045391 10 10 f   -     -     -         2415    0    0 
+MegaHertz 959045461 10  9 c   c     c     r         2415  180    0 5h Ks
+MegaHertz 959045529 10  8 f   -     -     -         2235    0    0 
+MegaHertz 959045583 10  7 cc  kc    kc    k         2235  100    0 2d 6d
+MegaHertz 959045655 10  6 cc  kc    kc    kf        2135  100    0 
+MegaHertz 959045703 10  5 c   k     b     b         2035  100  190 
+MegaHertz 959045743 10  4 f   -     -     -         2125    0    0 
+MegaHertz 959045803 10  3 c   c     f     -         2125   40    0 
+MegaHertz 959045846 10  2 Bf  -     -     -         2085   20    0 
+MegaHertz 959045914 10  1 Br  kc    kc    kc        2065  160  440 Ts Th
+MegaHertz 959045975 10 10 c   c     c     k         2345  100  270 Jc Jd
+MegaHertz 959046057 10  9 f   -     -     -         2515    0    0 
+MegaHertz 959046095 10  8 cc  c     r     c         2515  200  280 Qh Kc
+MegaHertz 959046150 10  7 f   -     -     -         2595    0    0 
+MegaHertz 959046232 10  6 c   k     k     k         2595   20    0 Ks Jd
+MegaHertz 959046342  9  5 cc  k     b     -         2575   80  140 
+MegaHertz 959046384  9  4 c   k     k     kf        2635   20    0 
+MegaHertz 959046440  9  3 c   f     -     -         2615   20    0 
+MegaHertz 959046495  9  2 Bf  -     -     -         2595   20    0 
+MegaHertz 959046523  8  1 Bc  k     b     bf        2575  100    0 
+MegaHertz 959046582  8  8 c   r     -     -         2475   80  190 
+MegaHertz 959046671  8  7 f   -     -     -         2585    0    0 
+MegaHertz 959046695  8  6 f   -     -     -         2585    0    0 
+MegaHertz 959046723  8  5 cc  f     -     -         2585   40    0 
+MegaHertz 959046779  7  4 f   -     -     -         2545    0    0 
+MegaHertz 959046808  8  3 f   -     -     -         2545    0    0 
+MegaHertz 959046831  8  2 Bc  kf    -     -         2545   40    0 
+MegaHertz 959046852  8  1 Bf  -     -     -         2505   10    0 
+MegaHertz 959046884  8  8 f   -     -     -         2495    0    0 
+MegaHertz 959046905  8  7 c   c     c     c         2495  140  310 4s 4d
+MegaHertz 959046936  8  6 cc  bc    r     b         2665  200    0 Kc Ts
+MegaHertz 959047002  8  5 c   kc    kc    kf        2465   80    0 
+MegaHertz 959047053  8  4 f   -     -     -         2385    0    0 
+MegaHertz 959047072  8  3 cc  kf    -     -         2385   40    0 
+MegaHertz 959047125  8  2 Bf  -     -     -         2345   20    0 
+MegaHertz 959047191  8  1 Bc  kf    -     -         2325   40    0 
+MegaHertz 959047251  9  9 c   c     c     f         2285  100    0 
+MegaHertz 959047298  9  8 c   c     f     -         2185   60    0 
+MegaHertz 959047337  9  7 c   c     c     k         2125   80  210 As 3c
+MegaHertz 959047382  9  6 f   -     -     -         2255    0    0 
+MegaHertz 959047406  9  5 c   rc    b     f         2255  140    0 
+MegaHertz 959047481  9  4 crc kcc   c     kc        2115  240    0 Kc Kd
+MegaHertz 959047564  9  3 cc  f     -     -         1875   40    0 
+MegaHertz 959047656  9  2 Bk  kf    -     -         1835   20    0 
+MegaHertz 959047699  9  1 Bc  kf    -     -         1815   40    0 
+MegaHertz 959047758  9  9 f   -     -     -         1775    0    0 
+MegaHertz 959047804  9  8 f   -     -     -         1775    0    0 
+MegaHertz 959047855  9  7 c   k     k     b         1775   60  120 
+MegaHertz 959047903  9  6 f   -     -     -         1835    0    0 
+MegaHertz 959047947  9  5 f   -     -     -         1835    0    0 
+MegaHertz 959048005  9  4 f   -     -     -         1835    0    0 
+MegaHertz 959048047  9  3 c   c     c     c         1835  120    0 7c 7s
+MegaHertz 959048087 10  2 Bf  -     -     -         1715   20    0 
+MegaHertz 959048129 10  1 Br  bc    kc    bc        1695  200  230 Jd Ac
+MegaHertz 959048171 10 10 cc  f     -     -         1725   40    0 
+MegaHertz 959048223 10  9 f   -     -     -         1685    0    0 
+MegaHertz 959048314 10  8 c   f     -     -         1685   40    0 
+MegaHertz 959048360 10  7 cc  c     r     b         1645  180  410 Ks 3s
+MegaHertz 959048393 10  6 cc  kf    -     -         1875   80    0 
+MegaHertz 959048474 10  5 f   -     -     -         1795    0    0 
+MegaHertz 959048506 10  4 c   cc    kf    -         1795   80    0 
+MegaHertz 959048562 10  3 f   -     -     -         1715    0    0 
+MegaHertz 959048611 10  2 Bc  kc    kc    kc        1715  160    0 8h As
+MegaHertz 959048662 10  1 Bc  kf    -     -         1555   20    0 
+MegaHertz 959048711 10 10 c   b     k     b         1535   80    0 2s 2d
+MegaHertz 959048762 10  9 r   -     -     -         1455   40   70 
+MegaHertz 959048777 10  8 cc  b     b     k         1485  140    0 6s 3s
+MegaHertz 959048860 10  7 c   c     c     f         1345  100    0 
+MegaHertz 959048886 10  7 cc  c     c     f         1245  100    0 
+MegaHertz 959048931 10  5 cc  b     b     b         1145  140  350 7s 7d
+MegaHertz 959048971 10  4 f   -     -     -         1355    0    0 
+MegaHertz 959049011 10  3 c   c     kf    -         1355   40    0 
+MegaHertz 959049053 10  2 Bc  kf    -     -         1315   40    0 
+MegaHertz 959049156 10  1 Bc  kccc  k     kf        1275  100    0 
+MegaHertz 959049226 10 10 r   b     b     k         1175  120    0 8c 9c
+MegaHertz 959049276 10  9 c   rc    r     b         1055  240    0 6h 9s
+MegaHertz 959301262 10  7 f   -     -     -         2065    0    0 
+MegaHertz 959301321 10  6 f   -     -     -         2065    0    0 
+MegaHertz 959301364 10  5 c   kc    kc    kf        2065   80    0 
+MegaHertz 959301450 10  5 f   -     -     -         1985    0    0 
+MegaHertz 959301508  9  3 f   -     -     -         1985    0    0 
+MegaHertz 959301548  9  2 Bk  f     -     -         1985   20    0 
+MegaHertz 959301604 10  1 Bc  kf    -     -         1965   20    0 
+MegaHertz 959301680  8  8 c   c     c     c         1945  120    0 4h Ad
+MegaHertz 959301744  8  6 f   -     -     -         1825    0    0 
+MegaHertz 959301801  8  5 f   -     -     -         1825    0    0 
+MegaHertz 959301857  8  4 c   r     c     r         1825  200  430 7d 2d
+MegaHertz 959301891  9  3 f   -     -     -         2055    0    0 
+MegaHertz 959301946  9  2 Bc  b     b     -         2055  100  170 
+MegaHertz 959301991  9  1 Bc  k     k     k         2125   20    0 9h 6c
+MegaHertz 959302083  8  8 c   c     k     f         2105   40    0 
+MegaHertz 959302131  8  7 c   f     -     -         2065   20    0 
+MegaHertz 959302167  8  6 c   f     -     -         2045   20    0 
+MegaHertz 959302218  8  5 c   kc    k     f         2025   40    0 
+MegaHertz 959302278  9  4 f   -     -     -         1985    0    0 
+MegaHertz 959302317  9  3 f   -     -     -         1985    0    0 
+MegaHertz 959302360  9  2 Bk  k     f     -         1985   20    0 
+MegaHertz 959302398  9  1 Bc  k     bf    -         1965   60    0 
+MegaHertz 959302477  8  8 cc  c     k     k         1905   60    0 Ks 3s
+MegaHertz 959302499  9  8 f   -     -     -         1845    0    0 
+MegaHertz 959302562  9  7 f   -     -     -         1845    0    0 
+MegaHertz 959302604 10  7 f   -     -     -         1845    0    0 
+MegaHertz 959302650 10  6 f   -     -     -         1845    0    0 
+MegaHertz 959302705 10  5 f   -     -     -         1845    0    0 
+MegaHertz 959302741 10  4 c   k     f     -         1845   20    0 
+MegaHertz 959302786 10  3 f   -     -     -         1825    0    0 
+MegaHertz 959302850 10  2 Bf  -     -     -         1825   20    0 
+MegaHertz 959302909 10  1 Bc  k     kf    -         1805   20    0 
+MegaHertz 959302958 10 10 c   c     b     b         1785  140  155 2s Ad
+MegaHertz 959302999 10  9 c   k     bc    bc        1800  180  440 Kh 6h
+MegaHertz 959303063 10  8 f   -     -     -         2060    0    0 
+MegaHertz 959303082 10  7 f   -     -     -         2060    0    0 
+MegaHertz 959303121 10  6 f   -     -     -         2060    0    0 
+MegaHertz 959303146 10  5 f   -     -     -         2060    0    0 
+MegaHertz 959303206 10  4 c   b     k     b         2060   80  170 
+MegaHertz 959303239 10  3 c   c     c     k         2150   80    0 Jc Ks
+MegaHertz 959303288 10  2 Bk  kf    -     -         2070   20    0 
+MegaHertz 959303344 10  1 Bc  k     kf    -         2050   20    0 
+MegaHertz 959303388 10 10 c   k     k     f         2030   20    0 
+MegaHertz 959303451 10  9 c   c     c     k         2010   80    0 4h 8h
+MegaHertz 959303509 10  8 f   -     -     -         1930    0    0 
+MegaHertz 959303552 10  7 f   -     -     -         1930    0    0 
+MegaHertz 959303593 10  6 c   f     -     -         1930   40    0 
+MegaHertz 959303622 10  5 cc  k     brrc  b         1890  320  690 9c 7d
+MegaHertz 959303679 10  4 c   k     kf    -         2260   20    0 
+MegaHertz 959303722 10  3 cc  kf    -     -         2240   40    0 
+MegaHertz 959303784 10  2 Bk  c     kf    -         2200   40    0 
+MegaHertz 959303848 10  1 Bf  -     -     -         2160   10    0 
+MegaHertz 959303909 10 10 c   b     b     -         2150   80  160 
+MegaHertz 959303959 10  9 c   f     -     -         2230   40    0 
+MegaHertz 959303975 10  8 c   c     c     f         2190  100    0 
+MegaHertz 959304003 10  7 cc  kc    kc    kc        2090  160    0 4s 6s
+MegaHertz 959304052 10  6 f   -     -     -         1930    0    0 
+MegaHertz 959304066 10  5 f   -     -     -         1930    0    0 
+MegaHertz 959304114 10  4 f   -     -     -         1930    0    0 
+MegaHertz 959304167 10  3 f   -     -     -         1930    0    0 
+MegaHertz 959304251  9  2 Bc  kc    kf    -         1930   60    0 
+MegaHertz 959304301  9  1 Bf  -     -     -         1870   10    0 
+MegaHertz 959304339  9  9 c   r     b     b         1860  160  350 Ad 8s
+MegaHertz 959304382  9  8 f   -     -     -         2050    0    0 
+MegaHertz 959304461  9  7 f   -     -     -         2050    0    0 
+MegaHertz 959304529 10  7 r   b     -     -         2050   60  160 
+MegaHertz 959304550 10  6 c   k     kf    -         2150   20    0 
+MegaHertz 959304624 10  5 c   b     bc    c         2130  160  330 7d Ts
+MegaHertz 959304681 10  4 f   -     -     -         2300    0    0 
+MegaHertz 959304725 10  3 cc  kc    kf    -         2300   60    0 
+MegaHertz 959304791 10  2 Bk  k     c     k         2240   60    0 Qc 4h
+MegaHertz 959304832 10  1 Bc  kc    kf    -         2180   40    0 
+MegaHertz 959304865 10 10 c   c     k     k         2140   40    0 As 9c
+MegaHertz 959304893 10  9 f   -     -     -         2100    0    0 
+MegaHertz 959304950  9  7 f   -     -     -         2100    0    0 
+MegaHertz 959304973  9  6 r   -     -     -         2100   40   70 
+MegaHertz 959304986  9  5 c   b     -     -         2130   40  100 
+MegaHertz 959305015  9  4 f   -     -     -         2190    0    0 
+MegaHertz 959305054  9  3 c   kc    kc    kf        2190   80    0 
+MegaHertz 959305097  9  2 Bk  kf    -     -         2110   20    0 
+MegaHertz 959305118  9  1 Bc  kc    k     k         2090   40    0 As 4s
+MegaHertz 959305165  9  9 c   k     c     c         2050  100    0 2h 5h
+MegaHertz 959305201  9  8 r   b     b     k         1950  100    0 Ah Qd
+MegaHertz 959305240  9  7 r   c     c     c         1850  140  400 8h 8s
+MegaHertz 959305280  9  6 cc  kf    -     -         2110   40    0 
+MegaHertz 959305318  9  5 f   -     -     -         2070    0    0 
+MegaHertz 959305340  9  4 f   -     -     -         2070    0    0 
+MegaHertz 959305378  9  3 c   k     kc    kc        2070  100    0 Ts 5s
+MegaHertz 959305424  8  2 Bf  -     -     -         1970   20    0 
+MegaHertz 959305464  9  1 Bc  kc    kf    -         1950   40    0 
+MegaHertz 959305523  9  9 f   -     -     -         1910    0    0 
+MegaHertz 959305568 10  9 f   -     -     -         1910    0    0 
+MegaHertz 959305594 10  8 f   -     -     -         1910    0    0 
+MegaHertz 959305617 10  7 f   -     -     -         1910    0    0 
+MegaHertz 959305653 10  6 f   -     -     -         1910    0    0 
+MegaHertz 959305685 10  5 f   -     -     -         1910    0    0 
+MegaHertz 959305713 10  4 f   -     -     -         1910    0    0 
+MegaHertz 959305750 10  3 f   -     -     -         1910    0    0 
+MegaHertz 959305775 10  2 Bk  bc    k     kf        1910   60    0 
+MegaHertz 959305811 10  1 Bc  bc    k     b         1850  100  160 
+MegaHertz 959305835 10 10 c   f     -     -         1910   20    0 
+MegaHertz 959305864 10  9 c   c     c     r         1890  180  410 
+MegaHertz 959305902 10  8 c   f     -     -         2120   20    0 
+MegaHertz 959305934 10  7 cc  kc    kf    -         2100   60    0 
+MegaHertz 959305995 10  6 f   -     -     -         2040    0    0 
+MegaHertz 959306034 10  5 c   f     -     -         2040   20    0 
+MegaHertz 959306099 10  4 c   k     b     b         2020  100    0 7d 6c
+MegaHertz 959306147 10  3 c   kf    -     -         1920   20    0 
+MegaHertz 959306193 10  2 Bk  kc    kc    k         1900   80    0 2h Kh
+MegaHertz 959306243 10  1 Br  kc    kc    k         1820  100    0 Kc As
+MegaHertz 959306298 10 10 cc  f     -     -         1720   40    0 
+MegaHertz 959306332 10  9 f   -     -     -         1680    0    0 
+MegaHertz 959306373 10  8 f   -     -     -         1680    0    0 
+MegaHertz 959306390 10  7 f   -     -     -         1680    0    0 
+MegaHertz 959306431 10  6 f   -     -     -         1680    0    0 
+MegaHertz 959306475 10  5 f   -     -     -         1680    0    0 
+MegaHertz 959306538 10  4 f   -     -     -         1680    0    0 
+MegaHertz 959306562 10  3 f   -     -     -         1680    0    0 
+MegaHertz 959306590 10  2 Bk  k     k     k         1680   20   40 4h 5c
+MegaHertz 959306623  8  1 Bf  -     -     -         1700   10    0 
+MegaHertz 959306654  8  8 f   -     -     -         1690    0    0 
+MegaHertz 959306693  7  6 f   -     -     -         1690    0    0 
+MegaHertz 959306720  7  5 f   -     -     -         1690    0    0 
+MegaHertz 959306758  8  4 f   -     -     -         1690    0    0 
+MegaHertz 959306792  8  3 f   -     -     -         1690    0    0 
+MegaHertz 959306832  8  2 Bf  -     -     -         1690   20    0 
+MegaHertz 959306853  7  1 Bf  -     -     -         1670   10    0 
+MegaHertz 959306876  8  8 f   -     -     -         1660    0    0 
+MegaHertz 959306903  8  7 f   -     -     -         1660    0    0 
+MegaHertz 959306927  8  6 f   -     -     -         1660    0    0 
+MegaHertz 959306966  8  5 f   -     -     -         1660    0    0 
+MegaHertz 959306996  8  4 f   -     -     -         1660    0    0 
+MegaHertz 959307014  9  3 f   -     -     -         1660    0    0 
+MegaHertz 959307026 10  2 Bf  -     -     -         1660   20    0 
+MegaHertz 959307039 10  1 Bf  -     -     -         1640   10    0 
+MegaHertz 959307055 10 10 f   -     -     -         1630    0    0 
+MegaHertz 959307094 10  9 f   -     -     -         1630    0    0 
+MegaHertz 959307123 10  8 f   -     -     -         1630    0    0 
+MegaHertz 959307169 10  7 cc  kc    kc    kc        1630  140    0 9d 9h
+MegaHertz 959307211 10  6 c   k     f     -         1490   20    0 
+MegaHertz 959307258 10  5 cc  kc    kc    kc        1470  140    0 8h Ac
+MegaHertz 959307302 10  4 f   -     -     -         1330    0    0 
+MegaHertz 959307324 10  3 c   b     b     b         1330  120  290 Qd Ac
+MegaHertz 959307371 10  2 Bk  kf    -     -         1500   20    0 
+MegaHertz 959307427 10  1 Bc  k     kf    -         1480   20    0 
+MegaHertz 959307482 10 10 f   -     -     -         1460    0    0 
+MegaHertz 959307506 10  9 c   cc    k     f         1460   60    0 
+MegaHertz 959307561 10  8 f   -     -     -         1400    0    0 
+MegaHertz 959307589  8  5 f   -     -     -         1400    0    0 
+MegaHertz 959307596  8  4 f   -     -     -         1400    0    0 
+MegaHertz 959307627  8  3 c   k     f     -         1400   20    0 
+MegaHertz 959307655  7  2 Bk  kf    -     -         1380   20    0 
+MegaHertz 959307693  7  1 Bc  kc    b     -         1360  100  280 
+MegaHertz 959307728  7  7 f   -     -     -         1540    0    0 
+MegaHertz 959307753  7  6 c   b     b     b         1540  120  260 
+MegaHertz 959307780  9  7 c   b     bc    c         1680  180    0 7c 6c
+MegaHertz 959307810  9  6 c   bc    k     b         1500  100  230 2s As
+MegaHertz 959307841  9  5 f   -     -     -         1630    0    0 
+MegaHertz 959307869  9  4 f   -     -     -         1630    0    0 
+MegaHertz 959307895  9  3 f   -     -     -         1630    0    0 
+MegaHertz 959307936 10  3 f   -     -     -         1630    0    0 
+MegaHertz 959307944 10  2 Bk  kf    -     -         1630   20    0 
+MegaHertz 959307971 10  1 Bc  b     b     -         1610   80  180 
+MegaHertz 959308005 10 10 c   f     -     -         1710   40    0 
+MegaHertz 959308040 10  9 c   b     b     b         1670  120  220 6c Ah
+MegaHertz 959308103 10  8 c   c     b     -         1770  100  310 
+MegaHertz 959308156  9  6 f   -     -     -         1980    0    0 
+MegaHertz 959308220 10  5 c   bc    br    b         1980  220  480 9c Qd
+MegaHertz 959308269 10  4 f   -     -     -         2240    0    0 
+MegaHertz 959308299 10  3 cc  kc    kf    -         2240   60    0 
+MegaHertz 959308363  9  2 Bc  kc    kc    kf        2180  100    0 
+MegaHertz 959308386  9  1 Bc  kc    b     -         2080   80  180 
+MegaHertz 959308410  9  9 f   -     -     -         2180    0    0 
+MegaHertz 959308450  9  8 f   -     -     -         2180    0    0 
+MegaHertz 959308464  8  6 c   c     k     k         2180   60    0 3h 3c
+MegaHertz 959308492  8  5 f   -     -     -         2120    0    0 
+MegaHertz 959308518  8  4 f   -     -     -         2120    0    0 
+MegaHertz 959308528  8  3 f   -     -     -         2120    0    0 
+MegaHertz 959308576  8  2 Bk  kc    kc    b         2120  120  280 
+MegaHertz 959308621  8  1 Bc  kc    kf    -         2280   40    0 
+MegaHertz 959308656  8  8 c   k     f     -         2240   20    0 
+MegaHertz 959308709  8  7 c   k     f     -         2220   20    0 
+MegaHertz 959308761  7  5 c   b     b     k         2200   80    0 8s Qc
+MegaHertz 959308786  8  4 c   b     b     b         2120  140  320 
+MegaHertz 959308835 10  4 c   f     -     -         2300   20    0 
+MegaHertz 959308877 10  3 cc  kf    -     -         2280   40    0 
+MegaHertz 959308907  9  1 Bk  k     k     bc        2240  100    0 7d 4h
+MegaHertz 959308950  9  1 Bc  kf    -     -         2140   20    0 
+MegaHertz 959308997  9  9 f   -     -     -         2120    0    0 
+MegaHertz 959309006  9  8 f   -     -     -         2120    0    0 
+MegaHertz 959309029  9  7 c   cf    -     -         2120   40    0 
+MegaHertz 959309084  8  5 c   kc    kc    k         2080  100    0 Th Ah
+MegaHertz 959309127  9  4 f   -     -     -         1980    0    0 
+MegaHertz 959309138  9  3 c   b     bc    c         1980  160    0 9d 9c
+MegaHertz 959309168  9  2 Bk  c     c     cf        1820  120    0 
+MegaHertz 959309217  9  1 Bc  k     k     b         1700   60   80 Ah 4d
+MegaHertz 959309248  9  9 r   k     c     rc        1720  200  450 Qs Ad
+MegaHertz 959309289  9  8 c   k     k     f         1970   20    0 
+MegaHertz 959309315 10  8 cc  kf    -     -         1950   40    0 
+MegaHertz 959309371 10  7 f   -     -     -         1910    0    0 
+MegaHertz 959309410 10  6 f   -     -     -         1910    0    0 
+MegaHertz 959309460 10  5 f   -     -     -         1910    0    0 
+MegaHertz 959309498 10  4 c   c     c     c         1910  120    0 Ac Ts
+MegaHertz 959309539 10  3 f   -     -     -         1790    0    0 
+MegaHertz 959309576 10  2 Bk  kc    k     kf        1790   40    0 
+MegaHertz 959309628 10  1 Bc  kcc   kc    k         1750  100  280 Ah Tc
+MegaHertz 959309722 10 10 f   -     -     -         1930    0    0 
+MegaHertz 959309754 10  9 cc  kf    -     -         1930   40    0 
+MegaHertz 959309862 10  8 cc  c     cc    kf        1890  140    0 
+MegaHertz 959309975 10  7 c   f     -     -         1750   40    0 
+MegaHertz 959310031 10  6 c   cc    f     -         1710   60    0 
+MegaHertz 959310083 10  5 c   c     c     kf        1650  100    0 
+MegaHertz 959310114 10  4 cc  kcc   kc    kr        1550  220  710 6d 9d
+MegaHertz 959310175 10  3 fQ  -     -     -         2040    0    0 
+MegaHertz 959387751  8  4 f   -     -     -         2040    0    0 
+MegaHertz 959387773  8  3 c   kc    b     -         2040   80  180 
+MegaHertz 959387801  8  2 Bk  kf    -     -         2140   20    0 
+MegaHertz 959387827  8  1 Bc  k     k     kf        2120   40    0 
+MegaHertz 959387851  7  7 c   f     -     -         2080   40    0 
+MegaHertz 959387885  7  7 c   k     k     k         2040   20    0 Jc 4c
+MegaHertz 959387900  7  6 c   b     -     -         2020   40  110 
+MegaHertz 959387922  7  5 f   -     -     -         2090    0    0 
+MegaHertz 959387940  7  4 r   b     -     -         2090   60  130 
+MegaHertz 959387957  7  3 c   k     c     k         2160   60  140 Ac Qs
+MegaHertz 959387975  7  2 Bc  kc    b     -         2240  100  210 
+MegaHertz 959387996  7  1 Bf  -     -     -         2350   10    0 
+MegaHertz 959388040  7  7 c   f     -     -         2340   40    0 
+MegaHertz 959388075  7  6 f   -     -     -         2300    0    0 
+MegaHertz 959388090  7  5 c   k     c     c         2300  100  210 5c As
+MegaHertz 959388105  7  4 f   -     -     -         2410    0    0 
+MegaHertz 959388124  7  3 f   -     -     -         2410    0    0 
+MegaHertz 959388132  7  2 Bc  b     k     b         2410  100  220 
+MegaHertz 959388155  7  1 Bf  -     -     -         2530   10    0 
+MegaHertz 959388187  6  6 c   b     b     b         2520  140  340 
+MegaHertz 959388220  6  5 f   -     -     -         2720    0    0 
+MegaHertz 959388243  7  5 f   -     -     -         2720    0    0 
+MegaHertz 959388262  7  4 c   k     kf    -         2720   20    0 
+MegaHertz 959388294  7  4 cc  c     f     -         2700   60    0 
+MegaHertz 959388319  6  2 Bf  -     -     -         2640   20    0 
+MegaHertz 959388345  6  1 Bf  -     -     -         2620   10    0 
+MegaHertz 959388367  6  6 c   k     k     b         2610   60  130 Ac Js
+MegaHertz 959388385  6  5 f   -     -     -         2680    0    0 
+MegaHertz 959388411  6  4 cc  kc    kc    k         2680  100    0 As Kh
+MegaHertz 959388451  6  3 cc  kf    -     -         2580   40    0 
+MegaHertz 959388494  6  2 Br  b     b     -         2540  100  160 
+MegaHertz 959388518  6  1 Bc  b     -     -         2600   40   80 
+MegaHertz 959388534  7  7 c   bc    rr    b         2640  260  760 6s 7s
+MegaHertz 959388577  7  6 f   -     -     -         3140    0    0 
+MegaHertz 959388604  6  4 c   k     f     -         3140   20    0 
+MegaHertz 959388627  6  3 f   -     -     -         3120    0    0 
+MegaHertz 959388643  7  3 f   -     -     -         3120    0    0 
+MegaHertz 959388669  7  2 Bk  b     -     -         3120   40  100 
+MegaHertz 959388685  7  1 Bc  kf    -     -         3180   40    0 
+MegaHertz 959388721  7  7 f   -     -     -         3140    0    0 
+MegaHertz 959388729  7  6 f   -     -     -         3140    0    0 
+MegaHertz 959388745  7  5 c   c     b     b         3140  140  270 
+MegaHertz 959388767  7  4 c   k     k     k         3270   20   50 Kc Jd
+MegaHertz 959388783  7  3 cc  kc    kr    b         3300  180  520 Ac As
+MegaHertz 959388816  8  2 Bk  c     k     kf        3640   40    0 
+MegaHertz 959388855  8  1 Bc  kc    kc    k         3600  100    0 Td Jd
+MegaHertz 959388882  8  8 c   c     b     k         3500   80  260 Jc Qc
+MegaHertz 959388920  8  7 fQ  -     -     -         3680    0    0 
+MegaHertz 959412160  7  2 Bk  kf    -     -         8322   20    0 
+MegaHertz 959412187  7  1 Bc  k     kc    kf        8302   60    0 
+MegaHertz 959412242  8  8 f   -     -     -         8242    0    0 
+MegaHertz 959412272  8  7 f   -     -     -         8242    0    0 
+MegaHertz 959412319  8  6 c   f     -     -         8242   20    0 
+MegaHertz 959412348  8  5 cc  f     -     -         8222   40    0 
+MegaHertz 959412406  8  4 f   -     -     -         8182    0    0 
+MegaHertz 959412458  8  3 f   -     -     -         8182    0    0 
+MegaHertz 959412484  8  2 Bk  k     k     k         8182   20  130 5c Qs
+MegaHertz 959412545  8  1 Bf  -     -     -         8292   10    0 
+MegaHertz 959412599  8  8 c   rc    c     c         8282  160  490 Td 9s
+MegaHertz 959412659  7  6 c   b     c     b         8612  120  330 
+MegaHertz 959412724  6  4 c   c     k     f         8822   40    0 
+MegaHertz 959412759  6  3 c   b     -     -         8782   40   70 
+MegaHertz 959412784  6  2 Bk  f     -     -         8812   20    0 
+MegaHertz 959412827  6  1 Bc  kf    -     -         8792   20    0 
+MegaHertz 959412858  5  5 c   k     f     -         8772   20    0 
+MegaHertz 959412890  5  4 c   b     -     -         8752   40   70 
+MegaHertz 959412908  5  3 c   k     k     k         8782   20   80 5d 3d
+MegaHertz 959412939  5  2 Bf  -     -     -         8842   20    0 
+MegaHertz 959412958  5  1 Bf  -     -     -         8822   10    0 
+MegaHertz 959412974  5  5 c   c     bc    c         8812  160  400 Jh Ah
+MegaHertz 959413026  5  4 f   -     -     -         9052    0    0 
+MegaHertz 959413074  4  2 Bk  c     f     -         9052   40    0 
+MegaHertz 959413102  4  1 Bf  -     -     -         9012   10    0 
+MegaHertz 959413123  3  3 c   b     -     -         9002   40   80 
+MegaHertz 959413140  3  2 Bk  f     -     -         9042   20    0 
+MegaHertz 959413147  3  1 Bc  k     b     b         9022  100  200 9d Ks
+MegaHertz 959413162  3  3 f   -     -     -         9122    0    0 
+MegaHertz 959413181  3  2 Bc  c     c     c         9122  140    0 Kh 6c
+MegaHertz 959413200  3  1 Bc  k     k     kf        8982   20    0 
+MegaHertz 959413217  3  3 c   k     k     k         8962   20    0 Jc Qd
+MegaHertz 959413240  3  2 Bc  c     c     k         8942  100    0 Ts 9h
+MegaHertz 959413257  3  1 Bcc kf    -     -         8842   40    0 
+MegaHertz 959413275  3  3 f   -     -     -         8802    0    0 
+MegaHertz 959413278  3  2 Bc  c     rc    c         8802  220    0 Ac 8s
+MegaHertz 959413298  3  1 Bf  -     -     -         8582   10    0 
+MegaHertz 959413314  4  4 c   b     -     -         8572   40   70 
+MegaHertz 959413326  4  3 cc  c     f     -         8602   60    0 
+MegaHertz 959413337  4  2 Bk  k     bc    k         8542  100    0 7d 2c
+MegaHertz 959413360  4  1 Bc  kc    kc    kc        8442  140  360 Kc 2c
+MegaHertz 959413393  4  4 f   -     -     -         8662    0    0 
+MegaHertz 959413425  4  3 c   c     c     r         8662  160  300 
+MegaHertz 959413456  4  2 Bf  -     -     -         8802   20    0 
+MegaHertz 959413485  4  1 Bc  kf    -     -         8782   20    0 
+MegaHertz 959413510  4  4 c   b     -     -         8762   40   70 
+MegaHertz 959413525  5  4 c   k     k     k         8792   40    0 Td 4d
+MegaHertz 959413563  5  3 cc  kc    k     b         8752  100  220 
+MegaHertz 959413606  5  2 B   -     -     -         8872   20   30 
+MegaHertz 959413613  5  1 Bc  k     k     k         8882   20    0 Ah 6c
+MegaHertz 959413635  5  5 f   -     -     -         8862    0    0 
+MegaHertz 959413662  5  4 c   k     k     f         8862   20    0 
+MegaHertz 959413690  5  3 cc  k     f     -         8842   40    0 
+MegaHertz 959413741  5  2 Bk  k     k     b         8802   60   80 
+MegaHertz 959413777  5  1 Bc  kf    -     -         8822   40    0 
+MegaHertz 959413820  5  5 f   -     -     -         8782    0    0 
+MegaHertz 959413841  5  4 rc  c     c     c         8782  160  440 Jc Js
+MegaHertz 959413880  5  3 f   -     -     -         9062    0    0 
+MegaHertz 959413911  5  2 Bk  kf    -     -         9062   20    0 
+MegaHertz 959413956  5  1 Bc  k     k     k         9042   20   60 Kd 3c
+MegaHertz 959413981  5  5 f   -     -     -         9082    0    0 
+MegaHertz 959414012  5  4 c   k     c     k         9082   60    0 Qs 8h
+MegaHertz 959414050  5  3 f   -     -     -         9022    0    0 
+MegaHertz 959414081  5  2 Bk  b     -     -         9022   40   90 
+MegaHertz 959414099  5  1 Bc  k     b     bc        9072  140    0 5s Kc
+MegaHertz 959414126  6  6 c   f     -     -         8932   20    0 
+MegaHertz 959414141  6  5 r   c     c     b         8912  140  450 As Ks
+MegaHertz 959414193  6  4 f   -     -     -         9222    0    0 
+MegaHertz 959414220  6  3 f   -     -     -         9222    0    0 
+MegaHertz 959414243  6  2 Bc  kc    kc    k         9222  140  390 7d Tc
+MegaHertz 959414276  6  1 Bf  -     -     -         9472   10    0 
+MegaHertz 959414300  6  6 c   f     -     -         9462   20    0 
+MegaHertz 959414336  7  6 f   -     -     -         9442    0    0 
+MegaHertz 959414377  7  5 f   -     -     -         9442    0    0 
+MegaHertz 959414404  8  5 c   b     k     k         9442   40  180 Ts Tc
+MegaHertz 959414464  8  4 f   -     -     -         9582    0    0 
+MegaHertz 959414505  7  2 c   kf    -     -         9582   20    0 
+MegaHertz 959414575  7  2 Bf  -     -     -         9562   20    0 
+MegaHertz 959414606  7  1 Bc  kf    -     -         9542   40    0 
+MegaHertz 959414637  7  7 c   f     -     -         9502   20    0 
+MegaHertz 959414664  7  6 f   -     -     -         9482    0    0 
+MegaHertz 959414698  7  5 c   b     brc   c         9482  240    0 8c Jd
+MegaHertz 959414736  7  4 f   -     -     -         9242    0    0 
+MegaHertz 959414786  7  3 f   -     -     -         9242    0    0 
+MegaHertz 959414843  7  2 Bk  k     kc    kf        9242   60    0 
+MegaHertz 959414892  7  1 Bc  kf    -     -         9182   20    0 
+MegaHertz 959414922  8  8 f   -     -     -         9162    0    0 
+MegaHertz 959414953  8  7 c   bc    k     c         9162  120    0 5c Tc
+MegaHertz 959415023  8  6 rc  c     c     k         9042  140    0 Ks Ad
+MegaHertz 959415082  8  6 f   -     -     -         8902    0    0 
+MegaHertz 959415145  8  5 r   b     b     -         8902  100  300 
+MegaHertz 959415200  8  4 c   c     c     k         9102   80  180 Kd 8c
+MegaHertz 959415223  8  3 f   -     Q     -         9202    0    0 
+MegaHertz 959635800 10  6 f   -     -     -        24464    0    0 
+MegaHertz 959635842 10  5 f   -     -     -        24464    0    0 
+MegaHertz 959635872 10  4 f   -     -     -        24464    0    0 
+MegaHertz 959635916  9  3 f   -     -     -        24464    0    0 
+MegaHertz 959635951 10  2 Bf  -     -     -        24464   20    0 
+MegaHertz 959635977 10  1 Bcc kcc   k     brc      24444  300 1080 6s 8c
+MegaHertz 959636059 10 10 c   c     f     -        25224   40    0 
+MegaHertz 959636120 10  9 c   k     k     r        25184  140  450 9d Kh
+MegaHertz 959636192 10  8 c   k     f     -        25494   20    0 
+MegaHertz 959636248 10  7 f   -     -     -        25474    0    0 
+MegaHertz 959636276 10  6 cc  kf    -     -        25474   40    0 
+MegaHertz 959636368 10  5 f   -     -     -        25434    0    0 
+MegaHertz 959636441 10  4 c   cc    cc    kc       25434  180    0 Ad Js
+MegaHertz 959636497 10  3 c   k     kf    -        25254   20    0 
+MegaHertz 959636555 10  2 Bk  kc    kf    -        25234   40    0 
+MegaHertz 959636620 10  1 Bc  kf    -     -        25194   40    0 
+MegaHertz 959636681 10 10 c   c     c     c        25154  120  290 As 8d
+MegaHertz 959636711 10  9 f   -     Q     -        25324    0    0 

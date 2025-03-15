@@ -1,0 +1,733 @@
+JJnogud   957160548  6  3 f   -     -     -         2235    0    0 
+JJnogud   957160575  6  2 Bc  kf    -     -         2235   40    0 
+JJnogud   957160618  7  1 Bf  -     -     -         2195   10    0 
+JJnogud   957160652  7  7 f   -     -     -         2185    0    0 
+JJnogud   957160692  8  7 f   -     -     -         2185    0    0 
+JJnogud   957160712  9  7 r   k     k     k         2185   40  140 As Td
+JJnogud   957160814  9  6 f   -     -     -         2285    0    0 
+JJnogud   957160872 10  6 f   -     -     -         2285    0    0 
+JJnogud   957160891 10  5 f   -     -     -         2285    0    0 
+JJnogud   957160948 10  4 f   -     -     -         2285    0    0 
+JJnogud   957161003 10  3 f   -     -     -         2285    0    0 
+JJnogud   957161071  9  2 Bk  c     c     f         2285   80    0 
+JJnogud   957161160  9  1 Bf  -     -     -         2205   10    0 
+JJnogud   957161203  8  8 f   -     -     -         2195    0    0 
+JJnogud   957161256  8  7 cc  kc    kc    kr        2195  180  630 Ah Js
+JJnogud   957161310  8  6 f   -     -     -         2645    0    0 
+JJnogud   957161365  8  5 f   -     -     -         2645    0    0 
+JJnogud   957161408  8  4 r   b     bc    c         2645  180  410 Ac Qc
+JJnogud   957161452  8  3 f   -     -     -         2875    0    0 
+JJnogud   957161491  8  2 Bk  f     -     -         2875   20    0 
+JJnogud   957161522  8  1 Bc  kf    -     -         2855   20    0 
+JJnogud   957161577  8  8 f   -     -     -         2835    0    0 
+JJnogud   957161612  8  7 c   rc    c     rr        2835  300    0 7h 6h
+JJnogud   957161686  8  6 f   -     -     -         2535    0    0 
+JJnogud   957161750  8  5 f   -     -     -         2535    0    0 
+JJnogud   957161813  8  4 f   -     -     -         2535    0    0 
+JJnogud   957161835  8  3 c   b     b     b         2535  120  350 Kd 3d
+JJnogud   957161866  8  2 Bf  -     -     -         2765   20    0 
+JJnogud   957161904  8  1 Bcc b     b     -         2745  100  200 
+JJnogud   957161939  8  8 f   -     -     -         2845    0    0 
+JJnogud   957161988  8  7 f   -     -     -         2845    0    0 
+JJnogud   957162025  8  6 f   -     -     -         2845    0    0 
+JJnogud   957162073  8  5 f   -     -     -         2845    0    0 
+JJnogud   957162112  8  4 f   -     -     -         2845    0    0 
+JJnogud   957162156  8  3 f   -     -     -         2845    0    0 
+JJnogud   957162185  8  2 Bf  -     -     -         2845   20    0 
+JJnogud   957162234  8  1 Bc  kf    -     -         2825   20    0 
+JJnogud   957162306  8  8 r   b     b     b         2805  140  310 Kc Kh
+JJnogud   957162348  8  7 f   -     -     -         2975    0    0 
+JJnogud   957162363  8  6 f   -     -     -         2975    0    0 
+JJnogud   957162391  9  6 f   -     -     -         2975    0    0 
+JJnogud   957162454  9  5 f   -     -     -         2975    0    0 
+JJnogud   957162467  9  4 rr  bc    kc    kf        2975  160    0 
+JJnogud   957162529  9  3 f   -     -     -         2815    0    0 
+JJnogud   957162559  9  2 Bk  b     b     k         2815   80  210 8s 8c
+JJnogud   957162672  6  1 Bf  -     -     -         2945   10    0 
+JJnogud   957162687  5  5 f   -     -     -         2935    0    0 
+JJnogud   957162751  5  4 f   -     -     -         2935    0    0 
+JJnogud   957162767  4  2 Bk  b     -     -         2935   40   70 
+JJnogud   957162791  2  1 Bf  -     -     -         2965   10    0 
+JJnogud   957162796  2  2 Bf  -     -     -         2955   20    0 
+JJnogud   957162799  2  1 Bf  -     -     -         2935   10    0 
+JJnogud   957162801  2  2 B   -     -     -         2925   20   30 
+JJnogud   957162804  2  1 Br  b     -     -         2935   60  100 
+JJnogud   957162813  2  2 Br  b     b     -         2975  100  160 
+JJnogud   957162841  2  1 Bf  -     -     -         3035   10    0 
+JJnogud   957162845  2  2 B   -     -     -         3025   20   30 
+JJnogud   957162848  2  1 Br  -     -     -         3035   40   60 
+JJnogud   957162850  2  2 B   -     -     -         3055   20   30 
+JJnogud   957162853  2  1 Br  -     -     -         3065   40   60 
+JJnogud   957162857  2  2 B   -     -     -         3085   20   30 
+JJnogud   957162859  2  1 Br  brc   kc    kc        3095  200  400 Ad Ts
+JJnogud   957162876  2  2 B   -     -     -         3295   20   30 
+JJnogud   957162881  2  1 Br  -     -     -         3305   40   60 
+JJnogud   957162886  2  2 Br  b     b     -         3325  120  200 
+JJnogud   957162899  2  1 Bc  k     kc    brc       3405  220    0 3d Ah
+JJnogud   957162919  2  2 Bk  b     b     -         3185   80  120 
+JJnogud   957162937  2  1 Bc  b     -     -         3225   40   60 
+JJnogud   957162946  2  2 B   -     -     -         3245   20   30 
+JJnogud   957162948  2  1 Bf  -     -     -         3255   10    0 
+JJnogud   957162950  2  2 B   -     -     -         3245   20   30 
+JJnogud   957162952  2  1 Br  -     -     -         3255   40   60 
+JJnogud   957162956  2  2 Bk  f     -     -         3275   20    0 
+JJnogud   957162961  2  1 Bf  -     -     -         3255   10    0 
+JJnogud   957162964  2  2 B   -     -     -         3245   20   30 
+JJnogud   957162967  2  1 Br  b     b     -         3255  100  160 
+JJnogud   957162976  2  2 Bk  c     c     r         3315  160  320 7d Jh
+JJnogud   957162992  2  1 Bf  -     -     -         3475   10    0 
+JJnogud   957162997  2  2 Bk  r     b     -         3465  100  160 
+JJnogud   957163012  2  1 Bf  -     -     -         3525   10    0 
+JJnogud   957163015  2  2 B   -     -     -         3515   20   30 
+JJnogud   957163018  2  1 Br  b     -     -         3525   60  100 
+JJnogud   957163024  2  2 B   -     -     -         3565   20   30 
+JJnogud   957163027  2  1 Bc  k     b     -         3575   60   80 
+JJnogud   957163034  2  2 B   -     -     -         3595   20   30 
+JJnogud   957163036  2  1 Bc  b     -     -         3605   40   60 
+JJnogud   957163043  2  2 Br  b     -     -         3625   60  100 
+JJnogud   957163052  2  1 Br  -     -     -         3665   40   60 
+JJnogud   957163056  2  2 Bk  b     -     -         3685   40   60 
+JJnogud   957163065  2  1 Br  -     -     -         3705   40   60 
+JJnogud   957163068  2  2 B   -     -     -         3725   20   30 
+JJnogud   957163070  2  1 Br  br    b     b         3735  180  360 Tc Jc
+JJnogud   957163086  2  2 B   -     -     -         3915   20   30 
+JJnogud   957163091  2  1 Bf  -     -     -         3925   10    0 
+JJnogud   957163092  2  2 Bk  k     k     f         3915   20    0 
+JJnogud   957163106  2  1 Bc  k     kf    -         3895   20    0 
+JJnogud   957163117  2  2 Bf  -     -     -         3875   20    0 
+JJnogud   957163119  2  1 Bc  k     k     k         3855   20    0 9h 5h
+JJnogud   957163134  2  2 Bk  k     f     -         3835   20    0 
+JJnogud   957163144  2  1 Bf  -     -     -         3815   10    0 
+JJnogud   957163147  2  2 Bk  k     b     -         3805   60   80 
+JJnogud   957163163  2  1 Br  bf    -     -         3825   60    0 
+JJnogud   957163171  2  2 B   -     -     -         3765   20   30 
+JJnogud   957163173  2  1 Bf  -     -     -         3775   10    0 
+JJnogud   957163177  2  2 Bk  b     -     -         3765   40   60 
+JJnogud   957163187  2  1 Bf  -     -     -         3785   10    0 
+JJnogud   957163190  2  2 Bk  b     k     k         3775   40    0 4c Qc
+JJnogud   957163212  2  1 Bc  b     -     -         3735   40   60 
+JJnogud   957163225  2  2 Br  r     c     f         3755  120    0 
+JJnogud   957163243  2  1 Bc  b     -     -         3635   40   60 
+JJnogud   957163253  3  3 f   -     -     -         3655    0    0 
+JJnogud   957163265  3  2 Bk  b     -     -         3655   40   60 
+JJnogud   957163288  3  1 Bc  k     k     k         3675   20   40 8c Qh
+JJnogud   957163307  3  3 r   b     -     -         3695   60  110 
+JJnogud   957163325  3  2 Bf  -     -     -         3745   20    0 
+JJnogud   957163341  3  1 Br  b     b     -         3725  100  180 
+JJnogud   957163361  3  3 f   -     -     -         3805    0    0 
+JJnogud   957163370  3  2 Bk  bc    kc    k         3805  100  210 8s Qh
+JJnogud   957163391  3  1 Bc  k     k     k         3915   20    0 3d 8d
+JJnogud   957163412  3  3 r   b     b     -         3895  100  180 
+JJnogud   957163435  3  2 B   -     -     -         3975   20   30 
+JJnogud   957163441  3  1 Bf  -     -     -         3985   10    0 
+JJnogud   957163445  3  3 rc  bc    r     r         3975  260  530 9c Qd
+JJnogud   957163478  3  2 Bk  f     -     -         4245   20    0 
+JJnogud   957163509  3  1 Bc  kf    -     -         4225   40    0 
+JJnogud   957163523  3  3 c   r     -     -         4185   60  110 
+JJnogud   957163537  3  2 Bf  -     -     -         4235   20    0 
+JJnogud   957163560  3  1 Bf  -     -     -         4215   10    0 
+JJnogud   957163563  3  3 f   -     -     -         4205    0    0 
+JJnogud   957163583  3  2 Bk  kf    -     -         4205   20    0 
+JJnogud   957163613  3  1 Bc  kf    -     -         4185   20    0 
+JJnogud   957163627  3  3 r   b     -     -         4165   60  120 
+JJnogud   957163645  3  2 Bk  k     kf    -         4225   20    0 
+JJnogud   957163676  3  1 Bc  b     b     -         4205  100  180 
+JJnogud   957163696  4  3 f   -     -     -         4285    0    0 
+JJnogud   957163727  4  2 B   -     -     -         4285   20   30 
+JJnogud   957163733  4  1 Brc bc    kc    k         4295  140  280 Ts Ac
+JJnogud   957163752  4  4 f   -     -     -         4435    0    0 
+JJnogud   957163767  4  3 f   -     -     -         4435    0    0 
+JJnogud   957163788  4  2 Bk  k     f     -         4435   20    0 
+JJnogud   957163813  4  1 Bc  b     b     b         4415  120  220 
+JJnogud   957163843  4  4 c   b     -     -         4515   40   70 
+JJnogud   957163856  4  3 rc  r     b     r         4545  220  450 As 9s
+JJnogud   957163885  4  2 Bf  -     -     -         4775   20    0 
+JJnogud   957163897  4  1 Bc  bc    kc    brc       4755  260    0 7d 6d
+JJnogud   957163930  4  4 f   -     -     -         4495    0    0 
+JJnogud   957163947  4  3 f   -     -     -         4495    0    0 
+JJnogud   957163974  4  2 Bk  b     b     -         4495   80  120 
+JJnogud   957163990  4  1 Bf  -     -     -         4535   10    0 
+JJnogud   957164001  4  4 c   r     c     c         4525  140    0 5d 7d
+JJnogud   957164021  4  3 r   b     -     -         4385   60  120 
+JJnogud   957164034  4  2 Bk  f     -     -         4445   20    0 
+JJnogud   957164061  4  1 Bf  -     -     -         4425   10    0 
+JJnogud   957164073  4  4 r   c     c     k         4415  100    0 Kh Ac
+JJnogud   957164106  4  3 f   -     -     -         4315    0    0 
+JJnogud   957164132  4  2 Bf  -     -     -         4315   20    0 
+JJnogud   957164135  4  1 Bf  -     -     -         4295   10    0 
+JJnogud   957164145  4  4 f   -     -     -         4285    0    0 
+JJnogud   957164188  4  3 r   b     -     -         4285   60  120 
+JJnogud   957164205  4  2 Bc  kf    -     -         4345   40    0 
+JJnogud   957164255  4  1 Brc b     b     kc        4305  160    0 Ac Ts
+JJnogud   957164293  4  4 f   -     -     -         4145    0    0 
+JJnogud   957164327  4  3 f   -     -     -         4145    0    0 
+JJnogud   957164361  4  2 Br  b     b     b         4145  160  330 Ah Jh
+JJnogud   957164388  4  1 Bf  Q     -     -         4315   10    0 
+JJnogud   957164555  4  4 rc  r     b     b         4305  180  380 Jc 4c
+JJnogud   957164583  4  3 f   -     -     -         4505    0    0 
+JJnogud   957164600  4  2 Bc  k     c     c         4505  120    0 6d 6c
+JJnogud   957164617  4  1 Bf  -     -     -         4385   10    0 
+JJnogud   957164631  4  4 f   -     -     -         4375    0    0 
+JJnogud   957164654  4  3 f   -     -     -         4375    0    0 
+JJnogud   957164662  4  2 Bf  -     -     -         4375   20    0 
+JJnogud   957164682  4  1 Bf  -     -     -         4355   10    0 
+JJnogud   957164709  4  4 f   -     -     -         4345    0    0 
+JJnogud   957164739  4  3 f   -     -     -         4345    0    0 
+JJnogud   957164757  4  2 Bk  k     kf    -         4345   20    0 
+JJnogud   957164780  4  1 Bf  -     -     -         4325   10    0 
+JJnogud   957164787  4  4 f   -     -     -         4315    0    0 
+JJnogud   957164806  4  3 rc  f     -     -         4315   60    0 
+JJnogud   957164829  4  2 Bf  -     -     -         4255   20    0 
+JJnogud   957164837  4  1 Bc  b     -     -         4235   40   80 
+JJnogud   957164855  4  4 r   b     -     -         4275   60  150 
+JJnogud   957164869  4  3 f   -     -     -         4365    0    0 
+JJnogud   957164873  4  2 Bc  kf    -     -         4365   40    0 
+JJnogud   957164893  4  1 Bf  -     -     -         4325   10    0 
+JJnogud   957164915  4  4 c   brr   bc    k         4315  200    0 Th As
+JJnogud   957164946  4  3 c   b     -     -         4115   40   70 
+JJnogud   957164972  4  2 Bc  f     -     -         4145   40    0 
+JJnogud   957164984  4  1 Bc  b     b     -         4105  100  180 
+JJnogud   957164999  4  4 r   -     -     -         4185   40   70 
+JJnogud   957165011  4  3 rc  br    b     b         4215  200  430 Jh Qh
+JJnogud   957165039  4  2 B   -     -     -         4445   20   30 
+JJnogud   957165049  4  1 Bc  b     kc    kf        4455   80    0 
+JJnogud   957165075  4  4 f   -     -     -         4375    0    0 
+JJnogud   957165098  4  3 r   rc    c     f         4375  140    0 
+JJnogud   957165121  4  2 Bk  k     k     rc        4235  140  170 4h Ad
+JJnogud   957165161  4  1 Bf  -     -     -         4265   10    0 
+JJnogud   957165178  4  3 Q   -     -     -         4255    0    0 
+JJnogud   957165235  4  4 f   -     -     -         4255    0    0 
+JJnogud   957165243  4  3 c   c     c     r         4255  160  320 
+JJnogud   957165271  4  2 Bk  bc    krr   b         4415  260  530 2c 8d
+JJnogud   957165298  4  1 Bc  b     b     -         4685   80  160 
+JJnogud   957165327  4  4 r   -     -     -         4765   40   70 
+JJnogud   957165333  4  3 f   -     -     -         4795    0    0 
+JJnogud   957165364  4  2 Br  b     b     -         4795  120  210 
+JJnogud   957165391  4  1 Bcc kcc   kc    kc        4885  220    0 8c 8s
+JJnogud   957165424  4  4 f   -     -     -         4665    0    0 
+JJnogud   957165433  5  3 f   -     -     -         4665    0    0 
+JJnogud   957165467  5  2 Bc  bc    b     b         4665  160  330 
+JJnogud   957165503  6  1 Br  k     kc    k         4835   80  160 Ts Jh
+JJnogud   957165522  6  6 r   b     b     k         4915  100    0 9d Qc
+JJnogud   957165545  6  5 c   bc    k     c         4815  120    0 Ah Jc
+JJnogud   957165577  6  4 f   -     -     -         4695    0    0 
+JJnogud   957165616  6  3 f   -     -     -         4695    0    0 
+JJnogud   957165648  7  2 Bk  k     kf    -         4695   20    0 
+JJnogud   957165712  6  1 Bf  -     -     -         4675   10    0 
+JJnogud   957165717  7  7 f   -     -     -         4665    0    0 
+JJnogud   957165738  7  6 f   -     -     -         4665    0    0 
+JJnogud   957165754  7  5 f   -     -     -         4665    0    0 
+JJnogud   957165769  7  4 f   -     -     -         4665    0    0 
+JJnogud   957165789  7  3 Q   -     -     -         4665    0    0 
+JJnogud   957165854  7  7 rc  rc    r     k         4665  220  470 9d 9h
+JJnogud   957165890  7  6 c   k     f     -         4915   20    0 
+JJnogud   957165924  7  5 f   -     -     -         4895    0    0 
+JJnogud   957165951  7  4 c   f     -     -         4895   20    0 
+JJnogud   957165970  7  3 f   -     -     -         4875    0    0 
+JJnogud   957166019  7  2 Bk  b     b     b         4875  120  340 8h Qs
+JJnogud   957166053  7  1 Bc  kf    -     -         5095   20    0 
+JJnogud   957166085  7  7 f   -     -     -         5075    0    0 
+JJnogud   957166099  7  6 r   b     b     b         5075  140  300 Js Jh
+JJnogud   957166125  7  5 f   -     -     -         5235    0    0 
+JJnogud   957166159  7  4 f   -     -     -         5235    0    0 
+JJnogud   957166200  7  3 f   -     -     -         5235    0    0 
+JJnogud   957166237  7  2 Bk  k     f     -         5235   20    0 
+JJnogud   957166290  7  1 Bc  kc    kc    k         5215   80    0 7d 7h
+JJnogud   957166328  7  7 r   f     -     -         5135   40    0 
+JJnogud   957166344  7  6 r   -     -     -         5095   40   70 
+JJnogud   957166353  7  5 f   -     -     -         5125    0    0 
+JJnogud   957166398  7  4 f   -     Q     -         5125    0    0 
+JJnogud   957166556  6  5 r   b     b     k         5125  100  260 9d Ac
+JJnogud   957166582  6  4 f   -     -     -         5285    0    0 
+JJnogud   957166606  6  3 r   b     -     -         5285   60  110 
+JJnogud   957166636  6  2 Bc  kc    k     b         5335  100  220 
+JJnogud   957166669  6  1 Bf  -     -     -         5455   10    0 
+JJnogud   957166694  6  6 r   k     rc    f         5445  160    0 
+JJnogud   957166723  6  5 f   -     -     -         5285    0    0 
+JJnogud   957166761  6  4 f   -     -     -         5285    0    0 
+JJnogud   957166797  6  3 c   b     -     -         5285   40   80 
+JJnogud   957166817  6  2 Br  bc    kc    kc        5325  160    0 5c 8c
+JJnogud   957166845  6  1 Bf  -     -     -         5165   10    0 
+JJnogud   957166863  7  7 r   b     b     k         5155  100    0 Ah Qd
+JJnogud   957166907  7  6 Q   -     -     -         5055    0    0 
+JJnogud   957166984  7  2 Bf  -     -     -         5055   20    0 
+JJnogud   957167008  7  1 Bc  bc    kc    kc        5035  140  440 6s 7h
+JJnogud   957167056  7  7 f   -     -     -         5335    0    0 
+JJnogud   957167117  7  6 f   -     -     -         5335    0    0 
+JJnogud   957167152  7  5 f   -     -     -         5335    0    0 
+JJnogud   957167187  7  4 f   -     -     -         5335    0    0 
+JJnogud   957167229  6  3 c   k     b     -         5335   60   90 
+JJnogud   957167257  6  2 Bf  -     -     -         5365   20    0 
+JJnogud   957167301  6  1 Bc  k     kf    -         5345   20    0 
+JJnogud   957167355  6  6 r   b     c     b         5325  160    0 Kc Qs
+JJnogud   957167407  6  5 f   -     -     -         5165    0    0 
+JJnogud   957167432  6  4 f   -     -     -         5165    0    0 
+JJnogud   957167469  6  3 f   -     -     -         5165    0    0 
+JJnogud   957167483  6  2 Bf  -     -     -         5165   20    0 
+JJnogud   957167493  6  1 Bf  -     -     -         5145   10    0 
+JJnogud   957167544  6  6 f   -     -     -         5135    0    0 
+JJnogud   957167595  6  5 f   -     -     -         5135    0    0 
+JJnogud   957167625  7  4 f   -     -     -         5135    0    0 
+JJnogud   957167635  6  3 f   -     -     -         5135    0    0 
+JJnogud   957167677  6  2 Bf  -     -     -         5135   20    0 
+JJnogud   957167699  6  1 Bf  -     -     -         5115   10    0 
+JJnogud   957167764  6  6 f   -     -     -         5105    0    0 
+JJnogud   957167818  6  5 c   f     -     -         5105   40    0 
+JJnogud   957167857  6  4 f   -     -     -         5065    0    0 
+JJnogud   957167874  6  3 f   -     -     -         5065    0    0 
+JJnogud   957167959  5  2 Bc  kc    kf    -         5065   60    0 
+JJnogud   957167984  5  1 Br  kc    kc    k         5005  100    0 Kd 3s
+JJnogud   957168029  5  5 f   -     -     -         4905    0    0 
+JJnogud   957168049  5  4 r   r     c     cf        4905  240    0 
+JJnogud   957168110  4  2 r   -     -     -         4665   40   60 
+JJnogud   957168120  4  2 Bc  kf    -     -         4685   40    0 
+JJnogud   957168145  3  1 Br  b     b     b         4645  140  170 8h Qh
+JJnogud   957168170  3  3 f   -     -     -         4675    0    0 
+JJnogud   957168183  3  2 Bc  bc    kc    k         4675  120    0 7c Td
+JJnogud   957168200  3  1 Bf  -     -     -         4555   10    0 
+JJnogud   957168212  3  3 r   k     c     c         4545  120    0 Qd 4d
+JJnogud   957168223  3  2 Bf  -     -     -         4425   20    0 
+JJnogud   957168245  3  1 Br  bc    kf    -         4405   80    0 
+JJnogud   957168262  3  3 f   -     -     -         4325    0    0 
+JJnogud   957168275  3  2 Bc  kc    k     k         4325   60    0 Qh Ts
+JJnogud   957168289  3  1 Bc  k     kf    -         4265   20    0 
+JJnogud   957168306  3  3 r   -     -     -         4245   40   70 
+JJnogud   957168311  3  2 Bf  -     -     -         4275   20    0 
+JJnogud   957168327  3  1 Bcc kf    -     -         4255   40    0 
+JJnogud   957168340  3  3 f   -     -     -         4215    0    0 
+JJnogud   957168341  3  2 Bf  -     -     -         4215   20    0 
+JJnogud   957168351  3  1 Bc  b     b     -         4195   80  140 
+JJnogud   957168362  3  3 r   -     -     -         4255   40   70 
+JJnogud   957168365  3  2 Bk  k     k     c         4285   60  120 Tc 5h
+JJnogud   957168380  3  1 Bc  k     kr    kf        4345  100    0 
+JJnogud   957168412  4  4 r   b     -     -         4245   60  110 
+JJnogud   957168423  4  3 f   -     -     -         4295    0    0 
+JJnogud   957168441  4  2 Bk  b     -     -         4295   40   60 
+JJnogud   957168453  4  1 Br  -     -     -         4315   40   60 
+JJnogud   957168457  4  4 f   -     -     -         4335    0    0 
+JJnogud   957168461  4  3 rc  kc    kr    -         4335  160  310 
+JJnogud   957168480  4  2 B   -     -     -         4485   20   30 
+JJnogud   957168484  4  1 Bc  k     k     k         4495   20   20 3h 9h
+JJnogud   957168499  4  4 c   r     r     k         4495  140    0 6d 4d
+JJnogud   957168528  4  3 cc  c     c     c         4355  140    0 8c 6c
+JJnogud   957168557  4  2 B   -     -     -         4215   20   30 
+JJnogud   957168563  4  1 Bc  bc    kf    -         4225   60    0 
+JJnogud   957168584  4  4 r   b     b     b         4165  140    0 7h 6s
+JJnogud   957168602  3  2 B   -     -     -         4025   20   30 
+JJnogud   957168606  3  1 Bc  kc    kc    kc        4035  120    0 As 2d
+JJnogud   957168622  3  3 r   b     b     b         3915  140  160 8s Kc
+JJnogud   957168640  3  2 Br  b     k     f         3935   60    0 
+JJnogud   957168655  3  1 Bf  -     -     -         3875   10    0 
+JJnogud   957168660  2  2 Bc  k     k     k         3865   40    0 Jc 4c
+JJnogud   957168671  2  1 Brc kc    kr    b         3825  200  400 6s 5d
+JJnogud   957168688  2  2 Br  b     -     -         4025   60  100 
+JJnogud   957168695  2  1 Bf  -     -     -         4065   10    0 
+JJnogud   957168698  2  2 B   -     -     -         4055   20   30 
+JJnogud   957168702  2  1 Brr b     b     b         4065  180  360 Qd Qs
+JJnogud   957168712  2  2 B   -     -     -         4245   20   30 
+JJnogud   957168715  2  1 Bf  -     -     -         4255   10    0 
+JJnogud   957168718  2  2 Bc  c     c     f         4245  100    0 
+JJnogud   957168729  2  1 Br  b     -     -         4145   60  100 
+JJnogud   957168736  2  2 Bk  k     bc    c         4185  140  280 5c Tc
+JJnogud   957168748  2  1 Bf  -     -     -         4325   10    0 
+JJnogud   957168754  2  2 Bc  c     c     c         4315  140    0 8c As
+JJnogud   957168762  2  1 Br  -     -     -         4175   40   60 
+JJnogud   957168768  2  2 B   -     -     -         4195   20   30 
+JJnogud   957168769  2  1 Brc bc    k     k         4205  100  200 Jh Tc
+JJnogud   957168783  2  2 B   -     -     -         4305   20   30 
+JJnogud   957168787  2  1 Br  bc    k     k         4315   80    0 8h Qs
+JJnogud   957168798  2  2 Bf  -     -     -         4235   20    0 
+JJnogud   957168801  2  1 Bcc kc    krrc  kc        4215  300    0 8d Td
+JJnogud   957168817  2  2 Br  r     b     k         3915  140  280 Kc 9d
+JJnogud   957168829  2  1 Bf  -     -     -         4055   10    0 
+JJnogud   957168834  2  2 B   -     -     -         4045   20   30 
+JJnogud   957168837  2  1 Bc  k     kr    b         4055  140  280 5h Jh
+JJnogud   957168847  2  2 Br  r     c     c         4195  180    0 7h Qc
+JJnogud   957168861  2  1 Br  b     -     -         4015   60  100 
+JJnogud   957168871  2  2 B   -     -     -         4055   20   30 
+JJnogud   957168872  2  1 Br  -     -     -         4065   40   60 
+JJnogud   957168875  2  2 Br  r     b     -         4085  140  240 
+JJnogud   957168882  2  1 Bf  -     -     -         4185   10    0 
+JJnogud   957168885  2  2 Bf  -     -     -         4175   20    0 
+JJnogud   957168888  2  1 Br  b     b     k         4155  100  100 4h Ac
+JJnogud   957168897  2  2 Bc  c     f     -         4155   60    0 
+JJnogud   957168905  2  1 Bf  -     -     -         4095   10    0 
+JJnogud   957168908  2  2 Bf  -     -     -         4085   20    0 
+JJnogud   957168912  2  1 Bf  -     -     -         4065   10    0 
+JJnogud   957168916  2  2 B   -     -     -         4055   20   30 
+JJnogud   957168918  2  1 Bf  -     -     -         4065   10    0 
+JJnogud   957168922  2  2 B   -     -     -         4055   20   30 
+JJnogud   957168926  2  1 Bf  -     -     -         4065   10    0 
+JJnogud   957168930  2  2 Br  b     -     -         4055   80  140 
+JJnogud   957168937  2  1 Bc  k     kf    -         4115   20    0 
+JJnogud   957168946  2  2 B   -     -     -         4095   20   30 
+JJnogud   957168948  2  1 Bcc kc    kf    -         4105   60    0 
+JJnogud   957168962  2  2 Bf  -     -     -         4045   20    0 
+JJnogud   957168966  2  1 Br  bf    -     -         4025   60    0 
+JJnogud   957168974  2  2 B   -     -     -         3965   20   30 
+JJnogud   957168976  2  1 Bf  -     -     -         3975   10    0 
+JJnogud   957168980  2  2 Br  r     b     b         3965  180  360 5s As
+JJnogud   957168993  2  1 Brc kc    kf    -         4145   80    0 
+JJnogud   957169011  2  2 B   -     -     -         4065   20   30 
+JJnogud   957169012  2  1 Br  -     -     -         4075   40   60 
+JJnogud   957169013  2  2 Brc c     c     c         4095  180    0 Kh 4d
+JJnogud   957169022  2  1 Br  -     -     -         3915   40   60 
+JJnogud   957169028  2  2 Br  r     b     b         3935  160    0 8d Kd
+JJnogud   957169036  2  1 Br  b     -     -         3775   60  100 
+JJnogud   957169045  2  2 Br  r     b     -         3815  140  240 
+JJnogud   957169052  2  1 Br  bc    kf    -         3915   80    0 
+JJnogud   957169062  2  2 Br  r     r     k         3835  180    0 Kc Ah
+JJnogud   957169072  2  1 Br  b     -     -         3655   60  100 
+JJnogud   957169080  2  2 Br  b     -     -         3695   60  100 
+JJnogud   957169087  2  1 Bcc kf    -     -         3735   40    0 
+JJnogud   957169094  2  2 Br  b     -     -         3695   60  100 
+JJnogud   957169101  2  1 Brc b     br    k         3735  200  400 8c 7d
+JJnogud   957169114  2  2 Bf  -     -     -         3935   20    0 
+JJnogud   957169120  2  1 Br  -     -     -         3915   40   60 
+JJnogud   957169123  2  2 B   -     -     -         3935   20   30 
+JJnogud   957169124  2  1 Br  -     -     -         3945   40   60 
+JJnogud   957169130  2  2 Bf  -     -     -         3965   20    0 
+JJnogud   957169134  2  1 Bf  -     -     -         3945   10    0 
+JJnogud   957169138  2  2 Bf  -     -     -         3935   20    0 
+JJnogud   957169143  2  1 Bc  kc    kc    k         3915   80   80 5c 5h
+JJnogud   957169157  2  2 Br  b     -     -         3915   80  140 
+JJnogud   957169164  2  1 Br  k     k     k         3975   40    0 4c 9d
+JJnogud   957169194  2  2 Bf  -     -     -         3935   20    0 
+JJnogud   957169198  2  1 Br  b     -     -         3915   60  100 
+JJnogud   957169204  2  2 Bc  f     -     -         3955   40    0 
+JJnogud   957169210  2  1 Br  bc    k     k         3915   80  160 7d Kh
+JJnogud   957169223  2  2 Bc  c     c     r         3995  180  180 Qd 6d
+JJnogud   957169235  2  1 Bf  -     -     -         3995   10    0 
+JJnogud   957169241  2  2 Brc r     k     f         3985  120    0 
+JJnogud   957169253  2  1 Br  -     -     -         3865   40   60 
+JJnogud   957169257  2  2 B   -     -     -         3885   20   30 
+JJnogud   957169259  2  1 Br  b     b     -         3895  100  160 
+JJnogud   957169269  2  2 Bc  f     -     -         3955   40    0 
+JJnogud   957169275  2  1 Bc  kf    -     -         3915   20    0 
+JJnogud   957169283  2  2 B   -     -     -         3895   20   30 
+JJnogud   957169284  2  1 Bc  b     -     -         3905   40   60 
+JJnogud   957169291  2  2 Br  r     b     b         3925  180    0 Kc Qc
+JJnogud   957169301  2  1 Br  b     b     kc        3745  140    0 5d As
+JJnogud   957169317  2  2 Bc  c     k     k         3605   60  120 Ks As
+JJnogud   957169326  2  1 Br  -     -     -         3665   40   60 
+JJnogud   957169332  2  2 B   -     -     -         3685   20   30 
+JJnogud   957169333  2  1 Br  -     -     -         3695   40   60 
+JJnogud   957169337  2  2 Br  r     b     b         3715  180  320 
+JJnogud   957169349  2  1 Bf  -     -     -         3855   10    0 
+JJnogud   957169351  2  2 Bc  f     -     -         3845   40    0 
+JJnogud   957169355  2  1 Bc  b     -     -         3805   40   60 
+JJnogud   957169362  2  2 Br  r     k     c         3825  140    0 9c 9d
+JJnogud   957169381  2  1 Bf  -     -     -         3685   10    0 
+JJnogud   957169386  2  2 Bf  -     -     -         3675   20    0 
+JJnogud   957169389  2  1 Bcc kc    k     k         3655   60    0 4h 4s
+JJnogud   957169402  2  2 Br  r     k     k         3595  100  200 Jh Ks
+JJnogud   957169416  2  1 Bc  k     k     k         3695   20   40 Kh 9s
+JJnogud   957169429  2  2 Bc  c     c     k         3715  100    0 Tc 9d
+JJnogud   957169439  2  1 Br  -     -     -         3615   40   60 
+JJnogud   957169444  2  2 Bc  r     b     b         3635  160  320 Kc 5h
+JJnogud   957169455  2  1 Br  -     -     -         3795   40   60 
+JJnogud   957169461  2  2 B   -     -     -         3815   20   30 
+JJnogud   957169462  2  1 Br  bc    k     k         3825   80    0 Kc 7h
+JJnogud   957169473  2  2 B   -     -     -         3745   20   30 
+JJnogud   957169476  2  1 Bc  kf    -     -         3755   20    0 
+JJnogud   957169484  2  2 Bf  -     -     -         3735   20    0 
+JJnogud   957169486  2  1 Bf  -     -     -         3715   10    0 
+JJnogud   957169487  2  2 Br  c     r     -         3705  140  240 
+JJnogud   957169498  2  1 Brc b     k     br        3805  200  200 6h Th
+JJnogud   957169519  2  2 Bf  -     -     -         3805   20    0 
+JJnogud   957169524  2  1 Bf  -     -     -         3785   10    0 
+JJnogud   957169526  2  2 B   -     -     -         3775   20   30 
+JJnogud   957169528  2  1 Bf  -     -     -         3785   10    0 
+JJnogud   957169529  2  2 Bc  r     r     k         3775  160    0 8s Ac
+JJnogud   957169540  2  1 Bf  -     -     -         3615   10    0 
+JJnogud   957169545  2  2 Bf  -     -     -         3605   20    0 
+JJnogud   957169548  2  1 Br  -     -     -         3585   40   60 
+JJnogud   957169551  2  2 B   -     -     -         3605   20   30 
+JJnogud   957169553  2  1 Br  -     -     -         3615   40   60 
+JJnogud   957169555  2  2 Br  r     br    b         3635  260    0 Ah 6d
+JJnogud   957169567  2  1 Br  kc    kc    kc        3375  140    0 4d 8s
+JJnogud   957169583  2  2 Br  r     b     bc        3235  220    0 Jd Kd
+JJnogud   957169598  2  1 Brc bc    kf    -         3015  100    0 
+JJnogud   957169612  2  2 Br  r     b     b         2915  180  360 As Qc
+JJnogud   957169621  2  1 Br  kf    -     -         3095   40    0 
+JJnogud   957169630  2  2 B   -     -     -         3055   20   30 
+JJnogud   957169632  2  1 Br  b     b     b         3065  140  240 
+JJnogud   957169642  2  2 Bc  k     k     k         3165   40    0 5d 7h
+JJnogud   957169653  2  1 Bf  -     -     -         3125   10    0 
+JJnogud   957169658  2  2 Bf  -     -     -         3115   20    0 
+JJnogud   957169659  2  1 Br  -     -     -         3095   40   60 
+JJnogud   957169663  2  2 Bc  f     -     -         3115   40    0 
+JJnogud   957169669  2  1 Br  br    k     k         3075  100  200 Qs Td
+JJnogud   957169679  2  2 Bc  k     b     b         3175  120  240 7h 2c
+JJnogud   957169691  2  1 Brc kr    b     b         3295  180  360 8d 7d
+JJnogud   957169706  2  2 B   -     -     -         3475   20   30 
+JJnogud   957169709  2  1 Bc  k     k     k         3485   20   40 Qc 6h
+JJnogud   957169719  2  2 B   -     -     -         3505   20   30 
+JJnogud   957169722  2  1 Bf  -     -     -         3515   10    0 
+JJnogud   957169723  2  2 B   -     -     -         3505   20   30 
+JJnogud   957169725  2  1 Bf  -     -     -         3515   10    0 
+JJnogud   957169729  2  2 B   -     -     -         3505   20   30 
+JJnogud   957169730  2  1 Bf  -     -     -         3515   10    0 
+JJnogud   957169733  2  2 Br  b     br    b         3505  220    0 Kc Ks
+JJnogud   957169745  2  1 Br  bc    kf    -         3285   80    0 
+JJnogud   957169757  2  2 Bc  f     -     -         3205   40    0 
+JJnogud   957169763  2  1 Br  -     -     -         3165   40   60 
+JJnogud   957169767  2  2 Br  b     b     -         3185  100  160 
+JJnogud   957169775  2  1 Br  b     -     -         3245   60  100 
+JJnogud   957169782  2  2 Br  r     b     -         3285  120  200 
+JJnogud   957169789  2  1 Br  b     b     b         3365  140    0 Jh Ad
+JJnogud   957169799  2  2 Br  b     b     k         3225  120  240 9s As
+JJnogud   957169811  2  1 Bf  -     -     -         3345   10    0 
+JJnogud   957169816  2  2 Bc  c     c     c         3335  140  280 3c As
+JJnogud   957169824  2  1 Bf  -     -     -         3475   10    0 
+JJnogud   957169829  2  2 B   -     -     -         3465   20   30 
+JJnogud   957169831  2  1 Bcc k     k     b         3475   80  120 
+JJnogud   957169845  2  2 Bf  -     -     -         3515   20    0 
+JJnogud   957169848  2  1 Bc  kf    -     -         3495   20    0 
+JJnogud   957169856  2  2 Bf  -     -     -         3475   20    0 
+JJnogud   957169857  2  1 Br  bc    kc    kc        3455  160    0 7h 7s
+JJnogud   957169873  2  2 Bc  r     b     b         3295  160    0 8s 7s
+JJnogud   957169883  2  1 Br  bc    kc    kf        3135  120    0 
+JJnogud   957169899  2  2 B   -     -     -         3015   20   30 
+JJnogud   957169901  2  1 Bcc kc    kc    kc        3025  140    0 4c 4s
+JJnogud   957169919  2  2 Bk  c     k     k         2885   40    0 7c 6c
+JJnogud   957169929  2  1 Bc  k     k     k         2845   20    0 Tc 7c
+JJnogud   957169944  2  2 B   -     -     -         2825   20   30 
+JJnogud   957169947  2  1 Bf  -     -     -         2835   10    0 
+JJnogud   957169950  2  2 B   -     -     -         2825   20   30 
+JJnogud   957169951  2  1 Bf  -     -     -         2835   10    0 
+JJnogud   957169953  2  2 Bf  -     -     -         2825   20    0 
+JJnogud   957169957  2  1 Bf  -     -     -         2805   10    0 
+JJnogud   957169959  2  2 Bc  b     -     -         2795   60  100 
+JJnogud   957169965  2  1 Br  b     bc    kf        2835  140    0 
+JJnogud   957169979  2  2 Bc  k     k     k         2695   40   80 9d Kd
+JJnogud   957169991  2  1 Br  -     -     -         2735   40   60 
+JJnogud   957169995  2  2 B   -     -     -         2755   20   30 
+JJnogud   957169999  2  1 Bf  -     -     -         2765   10    0 
+JJnogud   957170003  2  2 Bk  f     -     -         2755   20    0 
+JJnogud   957170019  2  1 Br  kf    -     -         2735   40    0 
+JJnogud   957170028  2  2 B   -     -     -         2695   20   30 
+JJnogud   957170029  2  1 Bf  -     -     -         2705   10    0 
+JJnogud   957170032  2  2 Bc  r     b     -         2695  120  200 
+JJnogud   957170042  2  1 Bc  k     k     k         2775   20   20 6s 9h
+JJnogud   957170054  2  2 B   -     -     -         2775   20   30 
+JJnogud   957170058  2  1 Bc  b     -     -         2785   40   60 
+JJnogud   957170063  2  2 Bc  f     -     -         2805   40    0 
+JJnogud   957170069  2  1 Bc  b     -     -         2765   40   60 
+JJnogud   957170075  2  2 Bc  f     -     -         2785   40    0 
+JJnogud   957170080  2  1 Br  kc    kr    b         2745  180  320 
+JJnogud   957170093  2  2 Bf  -     -     -         2885   20    0 
+JJnogud   957170096  2  1 Br  -     -     -         2865   40   60 
+JJnogud   957170099  2  2 Bk  k     c     f         2885   60    0 
+JJnogud   957170108  2  1 Brc kc    kc    k         2825  120  240 3s 5s
+JJnogud   957170123  2  2 Br  rc    c     f         2945  140    0 
+JJnogud   957170138  2  1 Brc b     kc    kf        2805  120    0 
+JJnogud   957170154  2  2 B   -     -     -         2685   20   30 
+JJnogud   957170155  2  1 Bf  -     -     -         2695   10    0 
+JJnogud   957170156  2  2 Bc  r     brr   bc        2685  360    0 Js Ac
+JJnogud   957170181  2  1 Bf  -     -     -         2325   10    0 
+JJnogud   957170186  2  2 Bc  f     -     -         2315   40    0 
+JJnogud   957170193  2  1 Bf  -     -     -         2275   10    0 
+JJnogud   957170195  2  2 Bk  r     -     -         2265   60  100 
+JJnogud   957170201  2  1 Brc kf    -     -         2305   60    0 
+JJnogud   957170209  2  2 Bc  k     b     b         2245  120  240 Ts 7d
+JJnogud   957170221  2  1 Br  b     k     kc        2365  100    0 4c 4h
+JJnogud   957170237  2  2 Bc  r     b     -         2265  120  200 
+JJnogud   957170247  2  1 Br  -     -     -         2345   40   60 
+JJnogud   957170249  2  2 Br  b     b     -         2365  120  200 
+JJnogud   957170258  2  1 Br  br    bc    kc        2445  220    0 2c 6c
+JJnogud   957170276  2  2 Br  k     c     c         2225  120  240 6h 9s
+JJnogud   957170292  2  1 Bc  k     k     k         2345   20   40 3s 3h
+JJnogud   957170302  2  2 B   -     -     -         2365   20   30 
+JJnogud   957170306  2  1 Bc  kc    kf    -         2375   40    0 
+JJnogud   957170316  2  2 B   -     -     -         2335   20   30 
+JJnogud   957170318  2  1 Br  -     -     -         2345   40   60 
+JJnogud   957170321  2  2 Brr b     -     -         2365  120  220 
+JJnogud   957170328  2  1 Br  -     -     -         2465   40   60 
+JJnogud   957170331  2  2 B   -     -     -         2485   20   30 
+JJnogud   957170333  2  1 Br  b     -     -         2495   60  100 
+JJnogud   957170338  2  2 B   -     -     -         2535   20   30 
+JJnogud   957170342  2  1 Br  -     -     -         2545   40   60 
+JJnogud   957170346  2  2 B   -     -     -         2565   20   30 
+JJnogud   957170350  2  1 Brr br    k     kc        2575  180    0 Js Jc
+JJnogud   957170366  2  2 B   -     -     -         2395   20   30 
+JJnogud   957170369  2  1 Bcc kc    k     b         2405  100  200 4h 8d
+JJnogud   957170382  2  2 Bf  -     -     -         2505   20    0 
+JJnogud   957170388  2  1 Br  k     k     k         2485   40   80 6h 2h
+JJnogud   957170400  2  2 B   -     -     -         2525   20   30 
+JJnogud   957170403  2  1 Br  br    b     b         2535  180  360 Tc 9c
+JJnogud   957170418  2  2 Bf  -     -     -         2715   20    0 
+JJnogud   957170424  2  1 Brc kc    kr    b         2695  200  400 Kd 7h
+JJnogud   957170437  2  2 Bf  -     -     -         2895   20    0 
+JJnogud   957170442  2  1 Bf  -     -     -         2875   10    0 
+JJnogud   957170444  2  2 Br  b     -     -         2865   80  140 
+JJnogud   957170450  2  1 Br  b     -     -         2925   60  100 
+JJnogud   957170456  2  2 Br  r     b     k         2965  140    0 Ah Qs
+JJnogud   957170463  2  1 Bf  -     -     -         2825   10    0 
+JJnogud   957170468  2  2 Bf  -     -     -         2815   20    0 
+JJnogud   957170471  2  1 Br  bc    kf    -         2795   80    0 
+JJnogud   957170484  2  2 B   -     -     -         2715   20   30 
+JJnogud   957170489  2  1 Bc  k     kf    -         2725   20    0 
+JJnogud   957170496  2  2 Br  r     bc    c         2705  220    0 4c Kc
+JJnogud   957170509  2  1 Bc  k     k     k         2485   20    0 2c 5c
+JJnogud   957170528  2  2 B   -     -     -         2465   20   30 
+JJnogud   957170531  2  1 Br  -     -     -         2475   40   60 
+JJnogud   957170535  2  2 Bc  f     -     -         2495   40    0 
+JJnogud   957170539  2  1 Br  bc    kf    -         2455   80    0 
+JJnogud   957170550  2  2 Bk  k     f     -         2375   20    0 
+JJnogud   957170556  2  1 Bf  -     -     -         2355   10    0 
+JJnogud   957170559  2  2 Bc  k     c     b         2345  120  240 Kc Qh
+JJnogud   957170567  2  1 Brc k     kc    b         2465  140  280 6d 5s
+JJnogud   957170588  2  2 Bc  f     -     -         2605   40    0 
+JJnogud   957170598  2  1 Bc  k     b     -         2565   60   80 
+JJnogud   957170607  2  2 Br  rc    c     c         2585  180    0 Ac 4c
+JJnogud   957170617  2  1 Bc  b     b     -         2405   80  120 
+JJnogud   957170632  2  2 B   -     -     -         2445   20   30 
+JJnogud   957170633  2  1 Bc  k     k     k         2455   20    0 Ts 4h
+JJnogud   957170642  2  2 Bc  r     b     b         2435  160    0 2s Qs
+JJnogud   957170654  2  1 Br  -     -     -         2275   40   60 
+JJnogud   957170659  2  2 Br  r     k     k         2295  100  200 2h 3s
+JJnogud   957170669  2  1 Bc  kf    -     -         2395   20    0 
+JJnogud   957170678  2  2 B   -     -     -         2375   20   30 
+JJnogud   957170679  2  1 Bf  -     -     -         2385   10    0 
+JJnogud   957170680  2  2 B   -     -     -         2375   20   30 
+JJnogud   957170682  2  1 Br  b     -     -         2385   60  100 
+JJnogud   957170685  2  2 Br  b     -     -         2425   60  100 
+JJnogud   957170691  2  1 Brr b     b     b         2465  180    0 Js Jh
+JJnogud   957170703  2  2 B   -     -     -         2285   20   30 
+JJnogud   957170705  2  1 Br  b     -     -         2295   60  100 
+JJnogud   957170713  2  2 B   -     -     -         2335   20   30 
+JJnogud   957170717  2  1 Br  -     -     -         2345   40   60 
+JJnogud   957170721  2  2 Bc  r     r     k         2365  160  320 2h Kh
+JJnogud   957170733  2  1 Br  b     k     k         2525   60  120 Ad 4s
+JJnogud   957170749  2  2 B   -     -     -         2585   20   30 
+JJnogud   957170752  2  1 Bf  -     -     -         2595   10    0 
+JJnogud   957170754  2  2 Bk  r     b     r         2585  180    0 3c 7c
+JJnogud   957170767  2  1 Bf  -     -     -         2405   10    0 
+JJnogud   957170772  2  2 B   -     -     -         2395   20   30 
+JJnogud   957170774  2  1 Bf  -     -     -         2405   10    0 
+JJnogud   957170776  2  2 Bc  c     r     b         2395  180  320 
+JJnogud   957170785  2  1 Br  -     -     -         2535   40   60 
+JJnogud   957170789  2  2 Br  r     k     k         2555  100    0 6h Th
+JJnogud   957170808  2  1 Br  bc    kf    -         2455   80    0 
+JJnogud   957170819  2  2 Bc  f     -     -         2375   40    0 
+JJnogud   957170824  2  1 Bf  -     -     -         2335   10    0 
+JJnogud   957170825  2  2 Bc  c     c     c         2325  140    0 5d Kd
+JJnogud   957170833  2  1 Br  bc    kc    kf        2185  120    0 
+JJnogud   957170850  2  2 Br  r     b     b         2065  180    0 4s Jh
+JJnogud   957170860  2  1 Br  br    b     br        1885  260    0 4c 8d
+JJnogud   957170873  2  2 B   -     -     -         1625   20   30 
+JJnogud   957170875  2  1 Br  b     -     -         1635   60  100 
+JJnogud   957170881  2  2 B   -     -     -         1675   20   30 
+JJnogud   957170884  2  1 Brr b     b     -         1685  140  240 
+JJnogud   957170895  2  2 B   -     -     -         1785   20   30 
+JJnogud   957170897  2  1 Br  b     b     k         1795  100  200 6d 7d
+JJnogud   957170907  2  2 Bf  -     -     -         1895   20    0 
+JJnogud   957170911  2  1 Br  -     -     -         1875   40   60 
+JJnogud   957170915  2  2 Br  r     k     k         1895   80    0 6s 9s
+JJnogud   957170925  2  1 Bc  k     k     k         1815   20    0 8s 7d
+JJnogud   957170936  2  2 Bf  -     -     -         1795   20    0 
+JJnogud   957170939  2  1 Bf  -     -     -         1775   10    0 
+JJnogud   957170943  2  2 Br  r     r     b         1765  220    0 Jh As
+JJnogud   957170953  2  1 Br  -     -     -         1545   40   60 
+JJnogud   957170957  2  2 Br  r     r     b         1565  220  440 9h 7s
+JJnogud   957170969  2  1 Brc b     b     b         1785  160  320 6h Ah
+JJnogud   957170986  2  2 Bf  -     -     -         1945   20    0 
+JJnogud   957170990  2  1 Br  b     -     -         1925   60  100 
+JJnogud   957170996  2  2 Br  c     c     c         1965  160    0 5c 7c
+JJnogud   957171005  2  1 Bc  kc    k     k         1805   40   40 7s 9s
+JJnogud   957171017  2  2 Bc  c     c     k         1805  100  100 Th As
+JJnogud   957171025  2  1 Bc  kf    -     -         1805   20    0 
+JJnogud   957171035  2  2 B   -     -     -         1785   20   30 
+JJnogud   957171036  2  1 Br  br    -     -         1795  100  180 
+JJnogud   957171043  2  2 Br  r     b     -         1875  140  240 
+JJnogud   957171051  2  1 Bf  -     -     -         1975   10    0 
+JJnogud   957171055  2  2 Bk  c     f     -         1965   40    0 
+JJnogud   957171063  2  1 Bf  -     -     -         1925   10    0 
+JJnogud   957171067  2  2 Br  r     b     b         1915  180  320 
+JJnogud   957171088  2  1 Bc  br    bc    kc        2055  200    0 5h 4h
+JJnogud   957171106  2  2 Bf  -     -     -         1855   20    0 
+JJnogud   957171111  2  1 Bc  k     b     -         1835   60   80 
+JJnogud   957171118  2  2 Br  r     k     f         1855  100    0 
+JJnogud   957171130  2  1 Bf  -     -     -         1755   10    0 
+JJnogud   957171131  2  2 B   -     -     -         1745   20   30 
+JJnogud   957171132  2  1 Br  bc    kc    kc        1755  160    0 7h 7s
+JJnogud   957171164  2  2 Bc  c     c     f         1595  100    0 
+JJnogud   957171175  2  1 Bf  -     -     -         1495   10    0 
+JJnogud   957171177  2  2 Bc  f     -     -         1485   40    0 
+JJnogud   957171183  2  1 Bcc kf    -     -         1445   40    0 
+JJnogud   957171206  2  2 Bc  c     r     b         1405  180  360 8d Js
+JJnogud   957171215  2  1 Bf  -     -     -         1585   10    0 
+JJnogud   957171220  2  2 Bk  c     f     -         1575   40    0 
+JJnogud   957171226  2  1 Br  b     -     -         1535   60  100 
+JJnogud   957171231  2  2 Br  r     k     k         1575  100    0 8d 6d
+JJnogud   957171243  2  1 Bc  b     -     -         1475   40   60 
+JJnogud   957171260  2  2 Br  r     b     b         1495  180  320 
+JJnogud   957171270  2  1 Bf  -     -     -         1635   10    0 
+JJnogud   957171273  2  2 Bf  -     -     -         1625   20    0 
+JJnogud   957171275  2  1 Bcc b     -     -         1605   60  100 
+JJnogud   957171288  2  2 Br  f     -     -         1645   60    0 
+JJnogud   957171293  2  1 Br  kf    -     -         1585   40    0 
+JJnogud   957171301  2  2 Bc  c     c     c         1545  140    0 As 5c
+JJnogud   957171307  2  1 Bcc kf    -     -         1405   40    0 
+JJnogud   957171316  2  2 Bk  f     -     -         1365   20    0 
+JJnogud   957171320  2  1 Br  b     b     k         1345  100    0 9d 7d
+JJnogud   957171330  2  2 Bf  -     -     -         1245   20    0 
+JJnogud   957171335  2  1 Bc  kc    kf    -         1225   40    0 
+JJnogud   957171346  2  2 Br  r     b     b         1185  180  360 Qh Td
+JJnogud   957171356  2  1 Bf  -     -     -         1365   10    0 
+JJnogud   957171361  2  2 Bc  c     c     c         1355  140    0 8s Ad
+JJnogud   957171370  2  1 Bc  kc    kc    k         1215   80   80 Tc 7s
+JJnogud   957171385  2  2 Bc  c     c     k         1215  100  100 4c Ad
+JJnogud   957171396  2  1 Bc  kc    k     k         1215   40   40 4s 5c
+JJnogud   957171410  2  2 Br  r     k     k         1215   80    0 Kh 9s
+JJnogud   957171422  2  1 Br  -     -     -         1135   40   60 
+JJnogud   957171428  2  2 Br  b     -     -         1155   80  140 
+JJnogud   957171436  2  1 Bc  k     k     k         1215   20   40 8s 5c
+JJnogud   957171446  2  2 Br  b     -     -         1235   80  140 
+JJnogud   957171454  2  1 Br  kr    b     -         1295  120  200 
+JJnogud   957171472  2  2 Br  k     r     b         1375  160  320 7h 5c
+JJnogud   957171488  2  1 Br  -     -     -         1535   40   60 
+JJnogud   957171496  2  2 B   -     -     -         1555   20   30 
+JJnogud   957171497  2  1 Bc  kf    -     -         1565   20    0 
+JJnogud   957171506  2  2 B   -     -     -         1545   20   30 
+JJnogud   957171508  2  1 Bf  -     -     -         1555   10    0 
+JJnogud   957171510  2  2 Bc  f     -     -         1545   40    0 
+JJnogud   957171517  2  1 Br  -     -     -         1505   40   60 
+JJnogud   957171519  2  2 Brc r     k     k         1525  120    0 Ks 9d
+JJnogud   957171531  2  1 Br  -     -     -         1405   40   60 
+JJnogud   957171538  2  2 Br  b     -     -         1425   80  140 
+JJnogud   957171543  2  1 Br  b     b     -         1485  100  160 
+JJnogud   957171550  2  2 B   -     -     -         1545   20   30 
+JJnogud   957171551  2  1 Br  k     b     -         1555   80  120 
+JJnogud   957171563  2  2 Bf  -     -     -         1595   20    0 
+JJnogud   957171565  2  1 Bf  -     -     -         1575   10    0 
+JJnogud   957171567  2  2 B   -     -     -         1565   20   30 
+JJnogud   957171569  2  1 Brrc b     b     kc        1575  200    0 Ah Qs
+JJnogud   957171583  2  2 Br  r     k     f         1375  100    0 
+JJnogud   957171595  2  1 Bf  -     -     -         1275   10    0 
+JJnogud   957171597  2  2 B   -     -     -         1265   20   30 
+JJnogud   957171599  2  1 Br  b     -     -         1275   60  100 
+JJnogud   957171606  2  2 B   -     -     -         1315   20   30 
+JJnogud   957171609  2  1 Brc br    -     -         1325  120  220 
+JJnogud   957171619  2  2 B   -     -     -         1425   20   30 
+JJnogud   957171621  2  1 Br  -     -     -         1435   40   60 
+JJnogud   957171625  2  2 Br  b     -     -         1455   80  140 
+JJnogud   957171631  2  1 Br  k     b     -         1515   80  120 
+JJnogud   957171643  2  2 Bk  rc    c     r         1555  200    0 6h Jh
+JJnogud   957171655  2  1 Bc  b     -     -         1355   40   60 
+JJnogud   957171668  2  2 B   -     -     -         1375   20   30 
+JJnogud   957171669  2  1 Bc  bc    k     k         1385   60  120 6c 7s
+JJnogud   957171682  2  2 Bf  -     -     -         1445   20    0 
+JJnogud   957171685  2  1 Bf  -     -     -         1425   10    0 
+JJnogud   957171690  2  2 Bc  c     c     k         1415  100    0 5s 8d
+JJnogud   957171703  2  1 Bc  kf    -     -         1315   20    0 
+JJnogud   957171717  2  2 Bc  c     c     c         1295  140    0 4h 6s
+JJnogud   957171726  2  1 Bc  kf    -     -         1155   20    0 
+JJnogud   957171741  2  2 Bc  c     c     c         1135  140    0 5h 3h
+JJnogud   957171749  2  1 Bf  -     -     -          995   10    0 
+JJnogud   957171759  2  2 Bk  b     r     b          985  160  280 
+JJnogud   957171777  2  1 Bf  -     -     -         1105   10    0 
+JJnogud   957171780  2  2 Bf  -     -     -         1095   20    0 
+JJnogud   957171782  2  1 Brc b     b     b         1075  160    0 6s Ad
+JJnogud   957171796  2  2 BQ  -     -     -          915   20    0 

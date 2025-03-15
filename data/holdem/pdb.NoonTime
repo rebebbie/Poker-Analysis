@@ -1,0 +1,121 @@
+NoonTime  959479924  4  3 r   b     b     k          255   50    0 Ks 5d
+NoonTime  959479954  4  2 Br  brc   rr    rcA        205  205    0 9s Ac
+NoonTime  959480070  4  4 f   -     -     -         1000    0    0 
+NoonTime  959480083  4  3 f   -     -     -         1000    0    0 
+NoonTime  959480108  4  2 Bk  b     -     -         1000   20   35 
+NoonTime  959480141  4  1 Brc k     k     k         1015   30   30 As 9c
+NoonTime  959480171  4  4 f   -     -     -         1015    0    0 
+NoonTime  959480226  4  3 f   -     -     -         1015    0    0 
+NoonTime  959480263  4  2 Bf  -     -     -         1015   10    0 
+NoonTime  959480274  4  1 Bf  -     -     -         1005    5    0 
+NoonTime  959480285  4  4 f   -     -     -         1000    0    0 
+NoonTime  959480306  4  3 f   -     -     -         1000    0    0 
+NoonTime  959480311  4  2 Bc  kr    b     -         1000   60  135 
+NoonTime  959480354  3  1 Bf  -     -     -         1075    5    0 
+NoonTime  959480365  3  3 f   -     -     -         1070    0    0 
+NoonTime  959480373  3  2 Br  b     -     -         1070   40   90 
+NoonTime  959480402  3  1 Bf  -     -     -         1120    5    0 
+NoonTime  959480419  3  3 f   -     -     -         1115    0    0 
+NoonTime  959480420  3  2 Br  -     -     -         1115   20   30 
+NoonTime  959480432  3  1 Br  k     b     -         1125   40   60 
+NoonTime  959480444  3  3 f   -     -     -         1145    0    0 
+NoonTime  959480463  3  2 Bf  -     -     -         1145   10    0 
+NoonTime  959480476  3  1 Bf  -     -     -         1135    5    0 
+NoonTime  959480491  3  3 r   k     k     rr        1130  100  220 9s As
+NoonTime  959480545  3  2 Bf  -     -     -         1250   10    0 
+NoonTime  959480555  3  1 Bf  -     -     -         1240    5    0 
+NoonTime  959480568  3  3 f   -     -     -         1235    0    0 
+NoonTime  959480586  3  2 Bk  bf    -     -         1235   20    0 
+NoonTime  959480602  3  1 Bf  -     -     -         1215    5    0 
+NoonTime  959480621  3  3 f   -     -     -         1210    0    0 
+NoonTime  959480627  3  2 Bk  kf    -     -         1210   10    0 
+NoonTime  959480656  3  1 Br  b     -     -         1200   30   60 
+NoonTime  959480687  3  3 c   k     k     k         1230   10   30 6c Ac
+NoonTime  959480724  3  2 B   -     -     -         1250   10   15 
+NoonTime  959480733  3  1 Bf  -     -     -         1255    5    0 
+NoonTime  959480754  3  3 r   rc    b     b         1250   90    0 Ac Td
+NoonTime  959480783  3  2 Bk  k     b     -         1160   30   50 
+NoonTime  959480832  3  1 Br  br    -     -         1180   50   90 
+NoonTime  959480847  3  3 r   r     b     -         1220   60  105 
+NoonTime  959480882  3  2 B   -     -     -         1265   10   15 
+NoonTime  959480888  3  1 Br  k     b     b         1270   60    0 As 4s
+NoonTime  959480904  3  3 r   -     -     -         1210   20   35 
+NoonTime  959480910  3  2 Br  k     k     k         1225   30   65 9s As
+NoonTime  959480923  3  1 Br  b     b     b         1260   70  140 8c Jd
+NoonTime  959480940  3  3 rr  rc    c     f         1330   90    0 
+NoonTime  959480988  3  2 Brc rr    rr    rr        1240  240    0 Qc Kc
+NoonTime  959481029  3  1 Br  br    br    b         1000  130  240 
+NoonTime  959481086  3  3 r   rc    f     -         1110   60    0 
+NoonTime  959481137  3  2 Bk  b     -     -         1050   20   30 
+NoonTime  959481156  3  1 Brc bc    brc   br        1060  200    0 Kc 9s
+NoonTime  959481204  3  3 f   -     -     -          860    0    0 
+NoonTime  959481232  3  2 B   -     -     -          860   10   15 
+NoonTime  959481239  3  1 Br  b     b     b          865   70    0 Js Td
+NoonTime  959481257  2  2 Br  b     br    b          795  110    0 4c Kd
+NoonTime  959481278  2  1 Br  b     -     -          685   30   50 
+NoonTime  959481285  2  2 B   -     -     -          705   10   15 
+NoonTime  959481286  2  1 Br  -     -     -          710   20   30 
+NoonTime  959481289  2  2 B   -     -     -          720   10   15 
+NoonTime  959481292  2  1 Br  -     -     -          725   20   30 
+NoonTime  959481299  2  2 Br  b     b     b          735   70  140 Ts Jc
+NoonTime  959481313  2  1 Br  -     -     -          805   20   30 
+NoonTime  959481319  2  2 Br  b     b     b          815   70  140 Kc Jh
+NoonTime  959481336  2  1 Br  b     -     -          885   30   50 
+NoonTime  959481342  2  2 B   -     -     -          905   10   15 
+NoonTime  959481346  2  1 Br  b     b     br         910  110  110 Js Qh
+NoonTime  959481358  2  2 Br  b     b     -          910   50   80 
+NoonTime  959481388  2  1 Br  b     b     b          940   70  140 8s Ts
+NoonTime  959481404  3  2 Br  b     b     b         1010   70   73 5h Ah
+NoonTime  959481419  3  1 Br  b     -     -         1013   30   60 
+NoonTime  959481432  3  3 r   b     b     b         1043   70    0 4d 9c
+NoonTime  959481451  3  2 Br  k     b     -          973   40   65 
+NoonTime  959481485  3  1 Brc b     b     br         998  130    0 Jc Td
+NoonTime  959481512  3  3 r   -     -     -          868   20   35 
+NoonTime  959481518  3  2 Br  b     b     b          883   70  120 
+NoonTime  959481538  3  1 Br  b     b     brc        933  130    0 4s 8h
+NoonTime  959481561  3  3 r   b     b     b          803   70    0 7c 6s
+NoonTime  959481591  3  2 Br  b     b     b          733   70  140 4h 8c
+NoonTime  959481606  3  1 Br  b     b     b          803   70    0 8d 7d
+NoonTime  959481626  3  3 r   b     b     b          733   70    0 Ad 9h
+NoonTime  959481649  3  2 Brc rr    b     b          663  120    0 Td 7d
+NoonTime  959481672  3  1 Br  brc   brc   brc        543  220    0 Qs Ac
+NoonTime  959481701  3  3 r   -     -     -          323   20   35 
+NoonTime  959481708  3  2 Br  b     b     k          338   50    0 2h Ks
+NoonTime  959481719  3  1 Br  -     -     -          288   20   30 
+NoonTime  959481726  3  3 r   b     -     -          298   30   70 
+NoonTime  959481750  4  3 rr  rc    rr    rr         338  240    0 5d 9h
+NoonTime  959481803  4  2 Br  b     -     -           98   30   50 
+NoonTime  959481821  4  1 Brr b     brcA  -          118  118    0 Js 7s
+NoonTime  959747747  8  4 cc  f     -     -         1245   40    0 
+NoonTime  959747875  6  3 f   -     -     -         1205    0    0 
+NoonTime  959747910  6  2 Bc  c     r     b         1205   90    0 7d As
+NoonTime  959747945  5  1 Br  brc   b     kc        1115  100    0 Ac Tc
+NoonTime  959748007  6  6 rc  c     c     r         1015  110  255 
+NoonTime  959748059  5  5 c   rc    r     k         1160  100    0 6h 9s
+NoonTime  959748094  6  5 c   k     f     -         1060   10    0 
+NoonTime  959748123  5  3 r   c     c     b         1050   70    0 8h 3h
+NoonTime  959748153  5  3 r   b     k     b          980   50  115 
+NoonTime  959748203  6  2 Bk  f     -     -         1045   10    0 
+NoonTime  959748229  6  1 Bc  kc    k     br        1035  110    0 4c 5s
+NoonTime  959748279  5  5 rr  r     k     f          925   60    0 
+NoonTime  959748379  5  4 c   c     b     r          865   90  220 2h Ah
+NoonTime  959748423  5  3 f   -     -     -          995    0    0 
+NoonTime  959748462  5  2 B   -     -     -          995   10   15 
+NoonTime  959748473  4  1 Br  b     b     b         1000   70  200 Jc Kd
+NoonTime  959748501  4  4 f   -     -     -         1130    0    0 
+NoonTime  959748522  4  3 f   -     -     -         1130    0    0 
+NoonTime  959748531  4  2 Bc  c     rc    c         1130  110    0 Jc 7c
+NoonTime  959748555  4  1 Br  k     kc    kf        1020   40    0 
+NoonTime  959748583  6  5 rc  cc    k     kf         980   50    0 
+NoonTime  959748637  6  4 cr  rc    cc    f          930  160    0 
+NoonTime  959748762  6  3 f   -     -     -          770    0    0 
+NoonTime  959748835  6  2 Br  brc   brc   brc        770  240  600 Ac Ah
+NoonTime  959748895  5  1 Brr brc   brc   brc       1130  240  720 6c 9s
+NoonTime  959748942  7  7 rc  rc    rc    f         1610  155    0 
+NoonTime  959749056  6  6 c   ccc   cc    k         1455  140    0 9s 2c
+NoonTime  959749120  6  5 r   b     b     -         1315   50  140 
+NoonTime  959749212  7  5 c   kc    b     b         1405   60  175 
+NoonTime  959749323  8  4 rr  rc    rc    cc        1520  210    0 Jc Qs
+NoonTime  959749488  7  3 rc  c     rr    rr        1310  200    0 6c Qs
+NoonTime  959749546  4  2 Bk  k     b     b         1110   50    0 3c 2d
+NoonTime  959749577  3  1 Br  Q     -     -         1060   20    0 

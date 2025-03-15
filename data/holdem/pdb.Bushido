@@ -1,0 +1,56 @@
+Bushido   959380952 10  8 f   -     -     -         1000    0    0 
+Bushido   959381006 10  7 f   -     -     -         1000    0    0 
+Bushido   959381081 10  3 Q   -     -     -         1000    0    0 
+Bushido   959382712 10  9 f   -     -     -         1000    0    0 
+Bushido   959382772 10  8 c   f     -     -         1000   20    0 
+Bushido   959382870  8  5 f   -     -     -          980    0    0 
+Bushido   959382926  7  3 f   -     -     -          965    0    0 
+Bushido   959382979  7  2 Bf  -     -     -          825   10    0 
+Bushido   959383022  6  1 Bc  kf    -     -          795   10    0 
+Bushido   959383049  6  6 f   -     -     -          785    0    0 
+Bushido   959383102  7  5 f   -     -     -          785    0    0 
+Bushido   959383151  7  4 f   -     -     -          765    0    0 
+Bushido   959383207  7  3 f   -     -     -          930    0    0 
+Bushido   959383229  6  2 Bf  -     -     -          930   10    0 
+Bushido   959383258  5  1 Bc  kc    kf    -          910   30    0 
+Bushido   959383301  5  5 r   c     f     -          920   30    0 
+Bushido   959383330  5  4 f   -     -     -          830    0    0 
+Bushido   959383362  5  3 r   -     -     -          830   20   35 
+Bushido   959383371  5  2 Bk  b     kc    bf         845   60    0 
+Bushido   959383397  4  1 Bf  -     -     -          785    5    0 
+Bushido   959383422  4  4 c   f     -     -          780   10    0 
+Bushido   959383472  4  3 f   -     -     -          770    0    0 
+Bushido   959383501  4  2 Bcc kc    kc    kf         740   70    0 
+Bushido   959383545  4  1 Bf  -     -     -          770    5    0 
+Bushido   959383551  4  4 cc  rc    b     b          765  100  265 3h 8h
+Bushido   959383591  4  3 f   -     -     -          975    0    0 
+Bushido   959383616  4  2 Brc b     b     b          975   90  210 
+Bushido   959383652  4  1 Brr brc   brc   kc        1095  180  400 Qh Qc
+Bushido   959383684  4  4 r   r     b     b         1315   90  220 Ks Kh
+Bushido   959383715  4  3 f   -     -     -         1435    0    0 
+Bushido   959383732  4  2 Bf  -     -     -         1435   10    0 
+Bushido   959383739  4  1 Bf  -     -     -         1425    5    0 
+Bushido   959383767  4  4 f   -     -     -         1420    0    0 
+Bushido   959383792  4  3 f   -     -     -         1610    0    0 
+Bushido   959383818  4  2 B   -     -     -         1610   10   15 
+Bushido   959383824  4  1 Bc  kf    -     -         1585   20    0 
+Bushido   959383871  4  4 f   -     -     -         1465    0    0 
+Bushido   959383905  4  3 r   -     -     -         1465   20   35 
+Bushido   959383914  4  2 Bf  -     -     -         1470   10    0 
+Bushido   959383943  4  1 Bf  -     -     -         1460    5    0 
+Bushido   959383974  4  4 cc  c     c     c         1455   70    0 Ks 9s
+Bushido   959383999  4  3 r   b     brc   r         1385  150    0 8s 7s
+Bushido   959384043  4  2 Brc b     br    b         1235  130    0 Ac 8d
+Bushido   959384073  4  1 Brc br    b     b         1105  120  300 8c 6c
+Bushido   959384110  4  4 rc  r     bc    rc        1425  150    0 5c Kd
+Bushido   959384140  4  3 r   rc    f     -         1335   50    0 
+Bushido   959384156  4  2 Br  b     -     -         1225   30   70 
+Bushido   959384171  4  1 Brc bc    bc    kc        1265  120    0 6s 9s
+Bushido   959384198  4  4 r   rc    b     b         1245   90    0 3s 5d
+Bushido   959384241  4  3 rc  r     b     b         1155   90  255 3c Jh
+Bushido   959384274  4  2 Br  kf    -     -         1290   40    0 
+Bushido   959384328  4  1 Br  brc   b     b          960  120  350 As 3h
+Bushido   959384365  3  3 r   b     -     -         1190   30   70 
+Bushido   959384382  3  3 r   -     -     -         1230   20   35 
+Bushido   959384388  3  2 Brc rr    k     f         1245   80    0 
+Bushido   959384417  4  1 BQ  -     -     -         1035    5    0 

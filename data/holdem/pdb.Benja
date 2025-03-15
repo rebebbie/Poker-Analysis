@@ -1,0 +1,365 @@
+Benja     957903790  6  5 r   c     rf    -         1000   70    0 
+Benja     957903851  5  4 f   -     -     -          930    0    0 
+Benja     957903904  5  2 f   -     -     -          930    0    0 
+Benja     957903945  6  2 Bk  kf    -     -          930   10    0 
+Benja     957904005  5  1 Br  b     k     k          920   30    0 Qd Tc
+Benja     957904035  5  5 f   -     -     -          890    0    0 
+Benja     957904082  5  4 f   -     -     -          890    0    0 
+Benja     957904219  5  3 f   -     -     -          890    0    0 
+Benja     957904243  5  2 Bk  k     f     -          890   10    0 
+Benja     957904291  5  1 Br  -     -     -          880   20   30 
+Benja     957904306  4  4 f   -     -     -          890    0    0 
+Benja     957904332  4  3 rr  rf    -     -          890   60    0 
+Benja     957904362  4  2 Bk  k     f     -          830   10    0 
+Benja     957904382  4  1 Bf  -     -     -          820    5    0 
+Benja     957904411  4  4 cc  f     -     -          815   20    0 
+Benja     957904462  5  4 c   f     -     -          795   10    0 
+Benja     957904503  5  3 f   -     -     -          785    0    0 
+Benja     957904555  5  2 Bk  k     k     kf         785   10    0 
+Benja     957904601  5  1 Br  b     br    brc        775  180    0 7s Ad
+Benja     957904655  5  5 r   k     b     b          595   60    0 9h Ts
+Benja     957904711  5  4 f   -     -     -          535    0    0 
+Benja     957904754  5  3 r   b     -     -          535   30   95 
+Benja     957904777  5  2 Bk  f     -     -          600   10    0 
+Benja     957904815  5  1 Br  b     b     -          590   50   80 
+Benja     957904832  5  5 rr  rr    rc    cf         620  180    0 
+Benja     957904878  5  4 r   -     -     -          440   20   35 
+Benja     957904895  5  3 r   k     f     -          455   20    0 
+Benja     957904925  5  2 Bk  f     -     -          435   10    0 
+Benja     957904965  5  1 Br  b     brc   brc        425  190  380 2s 3d
+Benja     957904995  5  5 f   -     -     -          615    0    0 
+Benja     957905013  5  4 f   -     -     -          615    0    0 
+Benja     957905057  6  3 rr  f     -     -          615   40    0 
+Benja     957905095  7  2 Br  b     b     b          575   70  165 Ts Qh
+Benja     957905146  5  1 Brc brc   b     b          670  120  250 3s 3c
+Benja     957905168  6  5 r   b     k     f          800   30    0 
+Benja     957905205  6  4 c   c     k     k          770   20    0 5s Js
+Benja     957905245  6  3 c   b     bf    -          750   40    0 
+Benja     957905275  6  2 Brc bf    -     -          710   50    0 
+Benja     957905313  6  1 Bc  krf   -     -          660   30    0 
+Benja     957905340  6  6 f   -     -     -          630    0    0 
+Benja     957905366  6  5 r   b     b     b          630   70  230 
+Benja     957905423  7  4 c   rc    rc    k          790  130    0 As 4c
+Benja     957905452  7  3 c   bf    -     -          660   20    0 
+Benja     957905482  8  2 Bc  br    b     br         640  130    0 8h 9d
+Benja     957905519  9  1 Bc  brc   brc   k          510  140    0 3h 8s
+Benja     957905589  9  9 rf  -     -     -          370   30    0 
+Benja     957905674  9  8 c   f     -     -          340   10    0 
+Benja     957905707  9  7 c   b     b     bf         330   60    0 
+Benja     957905727  9  7 r   k     k     f          270   20    0 
+Benja     957905787  8  5 r   b     b     -          250   50  100 
+Benja     957905821  8  4 cc  br    bf    -          300   70    0 
+Benja     957905879  8  3 crc brc   brc   f          230  160    0 
+Benja     957905952  8  2 Br  brc   bAQ   -           70   70    0 
+Benja     958683575  7  7 f   -     -     -         1367    0    0 
+Benja     958683611  6  5 c   f     -     -         1367   10    0 
+Benja     958683637  7  5 f   -     -     -         1357    0    0 
+Benja     958683681  7  4 f   -     -     -         1357    0    0 
+Benja     958683724  7  3 r   kc    b     k         1357   50    0 9s 9d
+Benja     958683769  8  2 Bk  k     k     k         1307   10    0 8c 5d
+Benja     958683812  8  1 Bc  k     k     kf        1297   10    0 
+Benja     958683879  7  7 r   b     b     k         1287   50    0 Tc Kd
+Benja     958683935  8  6 f   -     -     -         1237    0    0 
+Benja     958684050  9  5 c   k     b     b         1237   50    0 Ac Tc
+Benja     958684172 10  4 f   -     -     -         1187    0    0 
+Benja     958684245 10  3 f   -     -     -         1187    0    0 
+Benja     958684358 10  2 Bk  kf    -     -         1187   10    0 
+Benja     958684430 10  1 Bc  kf    -     -         1177   10    0 
+Benja     958684515 10 10 f   -     -     -         1167    0    0 
+Benja     958684557 10  9 c   r     r     k         1167   70    0 8c 8h
+Benja     958684654 10  8 c   b     b     k         1097   40    0 5d 8h
+Benja     958684695 10  6 Q   -     -     -         1057    0    0 
+Benja     959263117 10  3 cc  brc   b     b          892  110  415 6c 9c
+Benja     959263172 10  2 Bf  -     -     -         1197   10    0 
+Benja     959263198 10  1 Bf  -     -     -         1187    5    0 
+Benja     959263287  9  9 f   -     -     -         1207    0    0 
+Benja     959263330  9  9 f   -     -     -         1252    0    0 
+Benja     959263369  8  7 f   -     -     -         1212    0    0 
+Benja     959263395  8  6 f   -     -     -         1282    0    0 
+Benja     959263442  8  5 r   b     k     b         1282   50  115 
+Benja     959263474  8  4 f   -     -     -         1292    0    0 
+Benja     959263509  8  3 c   kf    -     -         1297   10    0 
+Benja     959263545  8  2 Bc  kf    -     -         1222   20    0 
+Benja     959263599  8  1 Bf  -     -     -         1402    5    0 
+Benja     959263641  6  6 c   b     b     -         1392   40   75 
+Benja     959263665  6  5 c   k     f     Q         1422   10    0 
+Benja     959276805 10  8 c   r     b     rf        2022  100    0 
+Benja     959276846  9  6 cc  rc    kc    k         1922   70  215 Jd 7d
+Benja     959276892 10  6 ccc br    b     -         2067   90  215 
+Benja     959276924 10  5 f   -     -     -         2192    0    0 
+Benja     959276975 10  4 cr  cc    bc    f         2192  100    0 
+Benja     959277029 10  3 f   -     -     -         2092    0    0 
+Benja     959277096 10  2 Bf  -     -     -         2092   10    0 
+Benja     959277172 10  1 Bf  -     -     -         2082    5    0 
+Benja     959277203 10 10 c   f     -     -         2077   20    0 
+Benja     959277247 10  9 f   -     -     -         2057    0    0 
+Benja     959277320 10  8 f   -     -     -         2057    0    0 
+Benja     959277364 10  7 rr  r     b     k         2057   80  245 Kd Kc
+Benja     959277417  9  5 cc  kf    -     -         2222   20    0 
+Benja     959277450  9  5 f   -     -     -         2202    0    0 
+Benja     959277488  8  4 f   -     -     -         2202    0    0 
+Benja     959277532  7  3 r   r     -     -         2202   40  120 
+Benja     959277563  7  2 Bk  bc    kc    bc        2282   90    0 7s Ac
+Benja     959277600  7  1 Bc  b     bc    b         2192   90    0 2c Jc
+Benja     959277643  7  7 r   k     k     k         2102   20    0 As 6d
+Benja     959277689  6  5 c   f     -     -         2082   10    0 
+Benja     959277724  6  5 f   -     -     -         2072    0    0 
+Benja     959277755  6  4 r   b     -     -         2072   30   65 
+Benja     959277771  6  3 c   Q     -     -         2107   10    0 
+Benja     959347040  7  4 c   r     b     b         1000   80  230 Qh 7h
+Benja     959347100  6  3 f   -     -     -         1150    0    0 
+Benja     959347166  6  2 Br  bc    kc    kc        1150   90    0 Kd Ks
+Benja     959347194  6  1 Bc  kf    -     -         1060   10    0 
+Benja     959347240  6  6 f   -     -     -         1050    0    0 
+Benja     959347270  6  5 rc  rc    rr    rr        1050  230  475 Kh Jh
+Benja     959347316  6  4 ccc f     -     -         1295   40    0 
+Benja     959347397  6  3 c   r     f     -         1255   30    0 
+Benja     959347432  5  2 Br  br    b     -         1225   67  171 Qh Ad
+Benja     959347464  4  1 Bc  kf    -     -         1329   10    0 
+Benja     959347530  5  5 r   f     -     -         1319   20    0 
+Benja     959347543  4  4 rc  b     b     b         1299   80  240 
+Benja     959347587  4  3 c   bc    c     rc        1459  110  230 3c Ks
+Benja     959347628  4  2 Bc  b     f     -         1579   30    0 
+Benja     959347667  4  1 Bc  kf    -     -         1549   20    0 
+Benja     959347747  4  3 f   -     -     -         1529    0    0 
+Benja     959347804  4  3 r   b     c     k         1529   50    0 Tc Ks
+Benja     959347836  4  2 Br  f     -     -         1479   20    0 
+Benja     959347876  4  1 Bf  -     -     -         1459    5    0 
+Benja     959347907  5  4 cc  kf    -     -         1454   20    0 
+Benja     959347960  5  3 f   -     -     -         1434    0    0 
+Benja     959347999  4  2 Bk  k     f     -         1434   10    0 
+Benja     959348030  4  1 Bc  kf    -     -         1424   20    0 
+Benja     959348044  3  3 r   rc    k     k         1404   50    0 Ks Qs
+Benja     959348081  3  3 c   k     f     -         1354   10    0 
+Benja     959348122  3  2 Br  b     -     -         1344   30   50 
+Benja     959348137  3  1 Bc  b     b     b         1364   60    0 5h 2d
+Benja     959348153  3  3 f   -     -     -         1304    0    0 
+Benja     959348170  3  2 Br  k     b     -         1304   40   60 
+Benja     959348192  3  1 Bc  b     b     brc       1324  120  250 2h Ad
+Benja     959348212  3  3 f   -     -     -         1454    0    0 
+Benja     959348256  3  2 Bk  c     k     k         1454   20    0 Th Jd
+Benja     959348272  3  1 Bc  k     k     kf        1434   10    0 
+Benja     959348301  3  3 r   k     k     k         1424   20    0 9d 7h
+Benja     959348322  3  2 Bc  kf    -     -         1404   20    0 
+Benja     959348336  3  1 Br  b     -     -         1384   30   60 
+Benja     959348346  3  3 f   -     -     -         1414    0    0 
+Benja     959348369  3  2 Bk  k     kf    -         1414   10    0 
+Benja     959348399  3  1 Bf  -     -     -         1404    5    0 
+Benja     959348453  4  3 r   b     k     f         1399   30    0 
+Benja     959348476  4  2 Bc  k     kf    -         1369   20    0 
+Benja     959348508  4  1 Bc  k     kf    -         1349   20    0 
+Benja     959348536  4  4 r   b     k     b         1329   50  105 
+Benja     959348568  4  3 f   -     -     -         1384    0    0 
+Benja     959348592  5  2 Br  b     -     -         1384   30   50 
+Benja     959348614  5  1 Bc  kc    kf    -         1404   20    0 
+Benja     959348642  6  6 f   -     -     -         1384    0    0 
+Benja     959348674  6  5 f   -     -     -         1384    0    0 
+Benja     959348715  6  4 c   c     kf    -         1384   20    0 
+Benja     959348758  6  3 f   -     -     -         1364    0    0 
+Benja     959348783  6  2 Bk  k     f     -         1364   10    0 
+Benja     959348825  6  1 Bf  -     -     -         1354    5    0 
+Benja     959348861  6  6 r   b     b     b         1349   70    0 Ts Kh
+Benja     959348913  7  6 c   f     -     -         1279   20    0 
+Benja     959348979  7  5 f   -     -     -         1259    0    0 
+Benja     959349013  7  4 cf  -     -     -         1259   10    0 
+Benja     959349132  6  2 r   b     k     k         1249   30  100 7c 7h
+Benja     959349160  6  2 Bc  f     -     -         1319   20    0 
+Benja     959349219  7  1 Bcc b     kf    -         1299   30    0 
+Benja     959349261  7  7 r   r     b     b         1269   90    0 Th 7h
+Benja     959349291  7  6 rc  r     k     f         1179   50    0 
+Benja     959349335  7  5 r   k     k     f         1129   20    0 
+Benja     959349385  7  4 c   c     f     -         1109   20    0 
+Benja     959349424  9  4 c   kc    b     k         1089   40    0 6s As
+Benja     959349467  8  2 Bk  b     b     -         1049   40   80 
+Benja     959349504  8  1 Bc  k     k     kf        1089   10    0 
+Benja     959349576  8  8 c   k     f     -         1079   10    0 
+Benja     959349603  7  6 c   kf    -     -         1069   10    0 
+Benja     959349647  7  6 c   k     b     b         1059   50  150 
+Benja     959349694  7  5 r   b     k     k         1159   30    0 Ad Js
+Benja     959349726  7  4 cc  b     br    bf        1129  110    0 
+Benja     959349772  7  3 c   rf    -     -         1019   30    0 
+Benja     959349797  8  2 Bk  kf    -     -          989   10    0 
+Benja     959349865  8  1 Bc  b     b     br         979  100    0 Qh 7c
+Benja     959349916  8  8 c   k     r     b          879   70    0 6d Qs
+Benja     959349975  8  7 c   c     rf    -          809   60    0 
+Benja     959350016  7  5 r   f     -     -          749   20    0 
+Benja     959350053  8  5 r   b     br    kc         729  110    0 Qs Jd
+Benja     959350112  7  4 r   r     b     kf         619   60    0 
+Benja     959350149  8  3 r   b     kf    -          559   30    0 
+Benja     959350198  8  2 Br  kf    -     -          529   20    0 
+Benja     959350243  9  1 Bc  b     brc   kf         509  100    0 
+Benja     959350306  9  9 f   -     -     -          409    0    0 
+Benja     959350338  9  8 c   c     f     -          409   30    0 
+Benja     959350392  9  7 r   b     b     k          379   50    0 Jc Qd
+Benja     959350435  8  5 r   b     f     -          329   30    0 
+Benja     959350495  8  5 r   b     k     r          299   70  185 4s Ah
+Benja     959350524  8  4 r   b     bf    -          414   50    0 
+Benja     959350580  8  3 r   b     b     b          364   70    0 Qc 9s
+Benja     959350635  8  2 Bk  b     b     b          294   60    0 3c 2h
+Benja     959350683  8  1 Br  b     k     b          234   50    0 8s Qd
+Benja     959350735  8  8 r   r     b     b          184   80    0 Ah 5h
+Benja     959350779  8  7 r   b     brcA  -          104  104    0 6d Ad
+Benja     959350861  5  3 r   k     b     -         1000   40   95 
+Benja     959350882  5  2 Bk  b     k     k         1055   20    0 Qs 9d
+Benja     959350920  5  1 Bc  kf    -     -         1035   10    0 
+Benja     959350958  5  5 r   k     k     b         1025   40   65 
+Benja     959350993  6  4 c   k     k     f         1050   10    0 
+Benja     959351073  8  3 c   kc    kf    -         1040   20    0 
+Benja     959351125  8  2 Bk  k     kf    -         1020   10    0 
+Benja     959351188  8  1 Bc  bc    b     b         1010   70  140 9c 5s
+Benja     959351241  8  8 c   c     c     r         1080   90  280 Jd Kc
+Benja     959351299  7  7 c   r     b     b         1270   80  230 Js 7s
+Benja     959351343  8  6 f   -     -     -         1420    0    0 
+Benja     959351382  7  4 r   k     b     k         1420   50    0 Kh Ac
+Benja     959351409  7  3 f   -     -     -         1370    0    0 
+Benja     959351455  7  2 Bk  kf    -     -         1370   10    0 
+Benja     959351479  7  1 Br  b     b     kf        1360   50    0 
+Benja     959351516  8  8 r   b     k     k         1310   30   60 As 5s
+Benja     959351545  8  8 f   -     -     -         1340    0    0 
+Benja     959351611  8  6 c   f     -     -         1340   10    0 
+Benja     959351646 10  7 f   -     -     -         1330    0    0 
+Benja     959351688 10  6 c   Q     -     -         1330   10    0 
+Benja     959687526  7  7 r   b     b     -         2114   50  100 
+Benja     959687572  7  7 ccc f     -     -         2164   40    0 
+Benja     959687640  7  6 c   k     b     k         2124   30    0 9s 8d
+Benja     959687676  7  5 f   -     -     -         2094    0    0 
+Benja     959687729  8  4 cf  -     -     -         2094   10    0 
+Benja     959687790  8  3 f   -     -     -         2084    0    0 
+Benja     959687859  8  2 Bf  -     -     -         2084   10    0 
+Benja     959687909  8  1 Bc  b     kf    -         2074   20    0 
+Benja     959688053  8  8 c   r     bf    -         2054   50    0 
+Benja     959688167  8  7 r   f     -     -         2004   30    0 
+Benja     959688211  5  3 rr  b     b     k         1974   70  220 Tc Th
+Benja     959688280  6  3 cc  kf    -     -         2124   20    0 
+Benja     959688360  7  2 Bc  r     k     f         2104   40    0 
+Benja     959688432  8  1 Br  b     b     bf        2064   80    0 
+Benja     959688493  8  8 c   f     -     -         1984   10    0 
+Benja     959688543  8  7 c   b     b     b         1974   60    0 7h Tc
+Benja     959688594  8  7 f   -     -     -         1914    0    0 
+Benja     959688664  7  5 f   -     -     -         1914    0    0 
+Benja     959688692  7  4 c   f     -     -         1914   10    0 
+Benja     959688737  8  3 crc k     f     -         1904   40    0 
+Benja     959688795  9  2 Bk  k     kf    -         1864   10    0 
+Benja     959688867  8  1 Bc  kf    -     -         1854   10    0 
+Benja     959688950  8  8 f   -     -     -         1844    0    0 
+Benja     959689017  8  7 f   -     -     -         1844    0    0 
+Benja     959689114  8  6 c   r     r     f         1844   70    0 
+Benja     959689140  9  5 f   -     -     -         1774    0    0 
+Benja     959689202  9  4 c   f     -     -         1774   20    0 
+Benja     959689296  9  3 f   -     -     -         1754    0    0 
+Benja     959689324  9  2 Bc  bc    br    b         1754  120  143 3h 4h
+Benja     959689386  8  1 Bf  -     -     -         1777    5    0 
+Benja     959689440  8  8 r   k     rf    -         1772   60    0 
+Benja     959689478  8  7 r   r     b     k         1712   60  180 Js Jc
+Benja     959689506  8  6 cc  kf    -     -         1832   20    0 
+Benja     959689560  8  5 f   -     -     -         1812    0    0 
+Benja     959689627  8  4 c   r     b     bf        1812   70    0 
+Benja     959689686  8  3 f   -     -     -         1742    0    0 
+Benja     959689744  8  2 Bk  kc    kf    -         1742   20    0 
+Benja     959689829  8  1 Bf  -     -     -         1722    5    0 
+Benja     959689886  8  8 c   f     -     -         1717   10    0 
+Benja     959689938  8  7 f   -     -     -         1707    0    0 
+Benja     959689990  8  6 c   c     f     -         1707   20    0 
+Benja     959690054  8  4 cc  b     bf    -         1687   50    0 
+Benja     959690083  8  3 c   r     r     -         1637   70  130 
+Benja     959690110  8  2 Bk  k     k     k         1697   10    0 5s 2d
+Benja     959690154  7  1 Bf  -     -     -         1687    5    0 
+Benja     959690187  7  7 c   f     -     -         1682   10    0 
+Benja     959690234  7  6 f   -     -     -         1672    0    0 
+Benja     959690293  8  6 f   -     -     -         1672    0    0 
+Benja     959690322  8  5 c   c     rf    -         1672   70    0 
+Benja     959690363  7  3 r   b     b     k         1602   50    0 Tc Td
+Benja     959690393  7  2 Bf  -     -     -         1552   10    0 
+Benja     959690408  7  1 Bf  -     -     -         1542    5    0 
+Benja     959690451  7  7 c   c     f     -         1537   30    0 
+Benja     959690509  7  6 f   -     -     -         1507    0    0 
+Benja     959690575  7  5 f   -     -     -         1507    0    0 
+Benja     959690593  7  4 f   -     -     -         1507    0    0 
+Benja     959690641  7  3 c   br    bf    -         1507   60    0 
+Benja     959690697  7  2 Bc  br    b     b         1447   90  205 
+Benja     959690762  7  1 Bf  -     -     -         1562    5    0 
+Benja     959690803  7  7 c   cc    b     br        1557  120  310 8h Kh
+Benja     959690837  7  6 c   k     f     -         1747   10    0 
+Benja     959690890  8  6 f   -     -     -         1737    0    0 
+Benja     959690935  7  5 c   k     k     k         1737   10    0 Tc Kd
+Benja     959690973  7  4 c   k     k     k         1727   10   25 Jh 9c
+Benja     959690998  7  3 ccc b     b     b         1742   90  270 As 5s
+Benja     959691056  7  2 Brc r     b     -         1922   80  140 
+Benja     959691098  8  1 Bc  kf    -     -         1982   10    0 
+Benja     959691158  9  9 f   -     -     -         1972    0    0 
+Benja     959691198  9  8 f   -     -     -         1972    0    0 
+Benja     959691218  9  7 f   -     -     -         1972    0    0 
+Benja     959691265  9  6 f   -     -     -         1972    0    0 
+Benja     959691335  8  5 f   -     -     -         1972    0    0 
+Benja     959691374  8  4 r   br    k     k         1972   50    0 Ad Jc
+Benja     959691399  8  3 c   b     b     -         1922   40   80 
+Benja     959691428  8  2 Bf  -     -     -         1962   10    0 
+Benja     959691465  8  1 Bc  brc   bc    br        1952  160  460 Jc Tc
+Benja     959691519  8  8 f   -     -     -         2252    0    0 
+Benja     959691553  8  7 f   -     -     -         2252    0    0 
+Benja     959691574  8  6 r   b     kr    -         2252   70  135 
+Benja     959691595  8  5 cf  -     -     -         2317   10    0 
+Benja     959691617  8  4 c   b     b     k         2307   40   95 As 8d
+Benja     959691639  8  3 f   -     -     -         2362    0    0 
+Benja     959691680  8  2 Bk  bc    krf   -         2362   70    0 
+Benja     959691725  8  1 Bc  kf    -     -         2292   10    0 
+Benja     959691762  8  8 c   b     k     b         2282   40   85 
+Benja     959691797  8  7 r   b     k     k         2327   30    0 Jd Js
+Benja     959691829  8  6 r   b     k     k         2297   30    0 Qd As
+Benja     959691853  8  5 c   f     -     -         2267   10    0 
+Benja     959691879  9  4 f   -     -     -         2257    0    0 
+Benja     959691948  7  3 c   r     b     k         2257   50  120 6h 6s
+Benja     959691995  7  2 Bk  kc    k     f         2327   20    0 
+Benja     959692045  8  1 Bc  brc   brc   bc        2307  180  410 9c 8s
+Benja     959692101  9  9 c   f     -     -         2537   20    0 
+Benja     959692174  9  8 c   r     f     -         2517   30    0 
+Benja     959692208  8  7 c   rf    -     -         2487   30    0 
+Benja     959692306  7  5 rc  cc    kc    kf        2457   80    0 
+Benja     959692367  7  4 f   -     -     -         2377    0    0 
+Benja     959692406  8  3 r   b     -     -         2377   30   70 
+Benja     959692426  7  2 Bk  b     b     b         2417   60  105 
+Benja     959692484  7  1 Bc  brc   br    b         2462  130  270 Jc As
+Benja     959692520  7  7 f   -     -     -         2602    0    0 
+Benja     959692583  9  8 f   -     -     -         2602    0    0 
+Benja     959692603  9  7 cc  b     b     krf       2602   90    0 
+Benja     959692697  9  6 rc  rc    r     r         2512  160  590 Jc As
+Benja     959692828  8  4 cc  kf    -     -         2942   30    0 
+Benja     959692898  6  3 f   -     -     -         2912    0    0 
+Benja     959692921  5  2 Bk  k     k     k         2912   10    0 7s 4s
+Benja     959692971  5  1 Bc  kf    -     -         2902   10    0 
+Benja     959693010  4  4 r   b     k     k         2892   30   70 Ts Td
+Benja     959693031  4  3 f   -     -     -         2932    0    0 
+Benja     959693053  5  2 Bk  b     -     -         2932   20   50 
+Benja     959693075  5  1 Brc k     kc    kc        2962   70    0 Ks 7s
+Benja     959693122  4  4 c   k     f     -         2892   20    0 
+Benja     959693175  5  3 f   -     -     -         2872    0    0 
+Benja     959693232  5  2 B   -     -     -         2872   10   15 
+Benja     959693245  5  1 Br  -     -     -         2877   20   30 
+Benja     959693266  5  5 f   -     -     -         2887    0    0 
+Benja     959693272  5  4 c   rc    ccc   f         2887  140    0 
+Benja     959693327  6  3 r   b     b     b         2747   70  135 
+Benja     959693366  6  2 Bc  b     b     b         2812   70  170 
+Benja     959693421  6  1 Bc  bc    k     kr        2912   70    0 8c Th
+Benja     959693497  5  5 f   -     -     -         2842    0    0 
+Benja     959693533  5  5 c   rf    -     -         2842   30    0 
+Benja     959693562  5  4 cc  f     -     -         2812   20    0 
+Benja     959693603  5  3 r   b     b     b         2792   70  155 9c Kd
+Benja     959693629  5  2 Bf  -     -     -         2877   10    0 
+Benja     959693668  5  1 Bf  -     -     -         2867    5    0 
+Benja     959693700  5  5 f   -     -     -         2862    0    0 
+Benja     959693732  5  4 r   kf    -     -         2862   20    0 
+Benja     959693789  5  3 f   -     -     -         2842    0    0 
+Benja     959693815  5  2 Bf  -     -     -         2842   10    0 
+Benja     959693854  5  1 Bc  k     kc    bf        2832   60    0 
+Benja     959693907  5  5 rr  rc    rr    b         2772  170  390 2c Ac
+Benja     959693970  7  5 c   b     k     brf       2992   80    0 
+Benja     959694026  6  4 cc  b     b     k         2912   50    0 7s 5s
+Benja     959694087  6  3 r   brc   kcc   kc        2862  140    0 Kc Kd
+Benja     959694180  5  2 Bf  -     -     -         2722   10    0 
+Benja     959694264  6  1 Brc b     br    kc        2712  120  330 Qs 9s
+Benja     959694349  6  6 f   -     -     -         2922    0    0 
+Benja     959694426  6  5 rc  b     k     f         2922   40    0 
+Benja     959694521  4  2 f   -     -     -         2882    0    0 
+Benja     959694573  4  2 Bk  bf    -     -         2882   20    0 
+Benja     959694615  4  1 Bc  kf    -     -         2862   10    0 
+Benja     959694704  5  5 fQ  -     -     -         2852    0    0 

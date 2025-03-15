@@ -1,0 +1,531 @@
+palpatine 958512504  9  7 f   -     -     -         3383    0    0 
+palpatine 958512522  8  5 f   -     -     -         3383    0    0 
+palpatine 958512556  8  4 r   r     c     c         3383  160  330 Ad Ac
+palpatine 958512596  8  3 f   -     -     -         3553    0    0 
+palpatine 958512621  8  2 Bf  -     -     -         3553   20    0 
+palpatine 958512634  8  1 Bc  kf    -     -         3533   20    0 
+palpatine 958512692  8  8 f   -     -     -         3513    0    0 
+palpatine 958512732  9  7 f   -     -     -         3513    0    0 
+palpatine 958512785  9  6 f   -     -     -         3513    0    0 
+palpatine 958512825  9  5 f   -     -     -         3513    0    0 
+palpatine 958512868  9  4 f   -     -     -         3513    0    0 
+palpatine 958512894  9  3 f   -     -     -         3513    0    0 
+palpatine 958512924  9  2 Bf  -     -     -         3513   20    0 
+palpatine 958512946  9  1 Bf  -     -     -         3493   10    0 
+palpatine 958513000  9  9 f   -     -     -         3483    0    0 
+palpatine 958513063  9  8 f   -     -     -         3483    0    0 
+palpatine 958513101  9  7 f   -     -     -         3483    0    0 
+palpatine 958513135  9  6 f   -     -     -         3483    0    0 
+palpatine 958513172  9  5 f   -     -     -         3483    0    0 
+palpatine 958513211 10  4 c   k     k     k         3483   20   70 8s Ts
+palpatine 958513265 10  3 f   -     -     -         3533    0    0 
+palpatine 958513295 10  2 Bk  k     k     f         3533   20    0 
+palpatine 958513357  9  1 Bc  b     b     br        3513  200  500 Td 9s
+palpatine 958513452  9  9 f   -     -     -         3813    0    0 
+palpatine 958513532  8  7 f   -     -     -         3813    0    0 
+palpatine 958513561  8  7 Q   -     -     -         3813    0    0 
+palpatine 958514772 10  7 f   -     -     -         3813    0    0 
+palpatine 958514805 10  6 f   -     -     -         3813    0    0 
+palpatine 958514852 10  5 f   -     -     -         3813    0    0 
+palpatine 958514929 10  4 f   -     -     -         3813    0    0 
+palpatine 958514983 10  3 fQ  -     -     -         3813    0    0 
+palpatine 958517215 10  3 KQ  -     -     -         3813    0    0 
+palpatine 958518341 10  3 c   f     -     -         3813   20    0 
+palpatine 958518380 10  2 Bf  -     -     -         3793   20    0 
+palpatine 958518424 10  1 Br  brr   b     k         3773  200  440 Ah Kd
+palpatine 958518500 10 10 f   -     -     -         4013    0    0 
+palpatine 958518562 10  9 f   -     -     -         4013    0    0 
+palpatine 958518610 10  8 f   -     -     -         4013    0    0 
+palpatine 958518711  9  6 f   -     -     -         4013    0    0 
+palpatine 958518782  9  6 c   c     rf    -         4013  140    0 
+palpatine 958518885  9  5 c   c     f     -         3873   40    0 
+palpatine 958518942  9  4 f   -     -     -         3833    0    0 
+palpatine 958518988 10  3 cc  k     f     -         3833   40    0 
+palpatine 958519059  9  2 Bf  -     -     -         3793   20    0 
+palpatine 958519126 10  1 Bf  -     -     -         3773   10    0 
+palpatine 958519212  9  9 f   -     -     -         3763    0    0 
+palpatine 958519272 10  9 f   -     -     -         3763    0    0 
+palpatine 958519323 10  8 f   -     -     -         3763    0    0 
+palpatine 958519386 10  7 f   -     -     -         3763    0    0 
+palpatine 958519447 10  6 c   rc    rc    r         3763  300    0 Jc Ad
+palpatine 958519562 10  5 f   -     -     -         3463    0    0 
+palpatine 958519641 10  4 c   kf    -     -         3463   20    0 
+palpatine 958519703 10  3 f   -     -     -         3443    0    0 
+palpatine 958519735 10  2 Bk  k     k     kf        3443   20    0 
+palpatine 958519828  9  1 Bc  kf    -     -         3423   20    0 
+palpatine 958519912 10 10 f   -     -     -         3403    0    0 
+palpatine 958519983 10  9 cc  f     -     -         3403   40    0 
+palpatine 958520032 10  8 r   br    b     bc        3363  220    0 As Qc
+palpatine 958520110 10  7 f   -     -     -         3143    0    0 
+palpatine 958520168 10  6 f   -     -     -         3143    0    0 
+palpatine 958520209 10  5 KQ  -     -     -         3143    0    0 
+palpatine 958869612 10  4 f   -     -     -         3143    0    0 
+palpatine 958869734  9  2 Bf  -     -     -         3143   20    0 
+palpatine 958869814 10  1 Bc  b     -     -         3123   40   80 
+palpatine 958869860 10 10 f   -     -     -         3163    0    0 
+palpatine 958869918 10  9 f   -     -     -         3163    0    0 
+palpatine 958870018 10  8 r   b     bf    -         3163  120    0 
+palpatine 958870097 10  7 f   -     -     -         3043    0    0 
+palpatine 958870154 10  6 f   -     -     -         3043    0    0 
+palpatine 958870222 10  5 f   -     -     -         3043    0    0 
+palpatine 958870300 10  4 f   -     -     -         3043    0    0 
+palpatine 958870393 10  3 f   -     -     -         3043    0    0 
+palpatine 958870453 10  2 Bk  kf    -     -         3043   20    0 
+palpatine 958870474 10  1 Bf  -     -     -         3023   10    0 
+palpatine 958870496  9  9 f   -     -     -         3013    0    0 
+palpatine 958870551  8  7 f   -     -     -         3013    0    0 
+palpatine 958870611  8  7 f   -     -     -         3013    0    0 
+palpatine 958870727  8  6 f   -     -     -         3013    0    0 
+palpatine 958870779  9  5 f   -     -     -         3013    0    0 
+palpatine 958870836  9  4 cc  kf    -     -         3013   40    0 
+palpatine 958870907  9  3 f   -     -     -         2973    0    0 
+palpatine 958870956 10  2 Bf  Q     -     -         2973   20    0 
+palpatine 958871886 10  5 f   -     -     -         2953    0    0 
+palpatine 958871929 10  4 f   -     -     -         2953    0    0 
+palpatine 958871961 10  3 f   -     -     -         2953    0    0 
+palpatine 958872035 10  2 Bk  kf    -     -         2953   20    0 
+palpatine 958872086 10  1 Bf  -     -     -         2933   10    0 
+palpatine 958872132 10 10 f   -     -     -         2923    0    0 
+palpatine 958872174 10  9 f   -     -     -         2923    0    0 
+palpatine 958872215 10  8 f   -     -     -         2923    0    0 
+palpatine 958872264 10  7 f   -     -     -         2923    0    0 
+palpatine 958872284 10  6 f   -     -     -         2923    0    0 
+palpatine 958872334 10  5 f   -     -     -         2923    0    0 
+palpatine 958872432 10  4 c   f     -     -         2923   20    0 
+palpatine 958872483 10  3 f   -     -     -         2903    0    0 
+palpatine 958872570 10  2 Bk  b     -     -         2903   40   70 
+palpatine 958872597 10  1 Bf  -     -     -         2933   10    0 
+palpatine 958872644 10 10 f   -     -     -         2923    0    0 
+palpatine 958872691 10  9 f   -     -     -         2923    0    0 
+palpatine 958872765 10  8 f   -     -     -         2923    0    0 
+palpatine 958872847 10  7 f   Q     -     -         2923    0    0 
+palpatine 958876447 10  9 KQ  -     -     -         2923    0    0 
+palpatine 958876869 10 10 f   -     -     -         2923    0    0 
+palpatine 958876918 10  9 f   -     -     -         2923    0    0 
+palpatine 958876979 10  8 f   -     -     -         2923    0    0 
+palpatine 958877015 10  7 c   f     -     -         2923   20    0 
+palpatine 958877069 10  6 f   -     -     -         2903    0    0 
+palpatine 958877120 10  5 c   kf    -     -         2903   20    0 
+palpatine 958877159  9  4 f   -     -     -         2883    0    0 
+palpatine 958877215 10  3 f   -     -     -         2883    0    0 
+palpatine 958877276 10  2 Bf  -     -     -         2883   20    0 
+palpatine 958877338 10  1 Bf  -     -     -         2863   10    0 
+palpatine 958877370 10 10 c   f     -     -         2853   20    0 
+palpatine 958877413 10  9 f   -     -     -         2833    0    0 
+palpatine 958877451 10  8 f   -     -     -         2833    0    0 
+palpatine 958877481 10  7 c   r     r     bc        2833  220  320 Kc Qd
+palpatine 958877541 10  6 f   -     -     -         2933    0    0 
+palpatine 958877625 10  5 cf  -     -     -         2933   20    0 
+palpatine 958877666 10  4 f   -     -     -         2913    0    0 
+palpatine 958877701 10  3 f   -     -     -         2913    0    0 
+palpatine 958877779 10  2 Bf  -     -     -         2913   20    0 
+palpatine 958877841 10  1 Bf  -     -     -         2893   10    0 
+palpatine 958877880 10 10 c   c     rr    r         2883  280    0 4d Ad
+palpatine 958877960 10  9 f   -     -     -         2603    0    0 
+palpatine 958878005 10  8 f   -     -     -         2603    0    0 
+palpatine 958878078 10  7 f   -     -     -         2603    0    0 
+palpatine 958878117 10  6 f   -     -     -         2603    0    0 
+palpatine 958878196 10  5 f   -     -     -         2603    0    0 
+palpatine 958878244 10  4 f   -     -     -         2603    0    0 
+palpatine 958878275 10  3 f   -     -     -         2603    0    0 
+palpatine 958878320 10  2 Bf  -     -     -         2603   20    0 
+palpatine 958878372 10  1 Bc  b     b     bc        2583  160    0 7c As
+palpatine 958878408 10 10 r   k     b     b         2423  120  250 Jd Td
+palpatine 958878434 10  9 f   -     -     -         2553    0    0 
+palpatine 958878469 10  8 r   b     k     f         2553   60    0 
+palpatine 958878522 10  7 f   -     -     -         2493    0    0 
+palpatine 958878598 10  6 fQ  -     -     -         2493    0    0 
+palpatine 958950080  9  4 r   b     b     b         2493  140  400 Ad Qh
+palpatine 958950133  9  3 f   -     -     -         2753    0    0 
+palpatine 958950146  9  2 Bf  -     -     -         2753   20    0 
+palpatine 958950197  9  1 Bc  bc    kc    kc        2733  160    0 Tc Ts
+palpatine 958950248 10 10 r   r     k     rc        2573  240    0 Kc Ks
+palpatine 958950313 10  9 c   f     -     -         2333   20    0 
+palpatine 958950349 10  8 f   -     -     -         2313    0    0 
+palpatine 958950398 10  7 f   -     -     -         2313    0    0 
+palpatine 958950443 10  6 r   b     k     k         2313   60    0 Kh Qd
+palpatine 958950503 10  5 f   -     -     -         2253    0    0 
+palpatine 958950565 10  4 c   bc    kc    kf        2253  100    0 
+palpatine 958950626 10  3 f   -     -     -         2153    0    0 
+palpatine 958950654 10  2 Bk  k     f     -         2153   20    0 
+palpatine 958950731 10  1 Bf  -     -     -         2133   10    0 
+palpatine 958950801 10 10 f   -     -     -         2123    0    0 
+palpatine 958950863 10  9 f   -     -     -         2123    0    0 
+palpatine 958950883 10  8 f   -     -     -         2123    0    0 
+palpatine 958950925 10  7 f   -     -     -         2123    0    0 
+palpatine 958950964 10  6 c   f     -     -         2123   40    0 
+palpatine 958951021 10  5 f   -     -     -         2083    0    0 
+palpatine 958951115 10  4 f   -     -     -         2083    0    0 
+palpatine 958951178 10  3 f   -     -     -         2083    0    0 
+palpatine 958951242 10  2 B   -     -     -         2083   20   30 
+palpatine 958951262 10  1 Bc  kr    b     b         2093  160  480 
+palpatine 958951350 10 10 c   k     k     f         2413   20    0 
+palpatine 958951401 10  9 f   -     -     -         2393    0    0 
+palpatine 958951449 10  8 f   -     -     -         2393    0    0 
+palpatine 958951487 10  7 f   -     -     -         2393    0    0 
+palpatine 958951558 10  6 f   -     -     -         2393    0    0 
+palpatine 958951609 10  5 c   b     b     b         2393  120    0 Jc Qs
+palpatine 958951658 10  4 f   -     -     -         2273    0    0 
+palpatine 958951726 10  3 c   b     b     b         2273  120  400 Ad Jd
+palpatine 958951794 10  2 Bc  kr    b     b         2553  160    0 8h 6h
+palpatine 958951838 10  1 Bf  -     -     -         2393   10    0 
+palpatine 958951884 10 10 f   -     -     -         2383    0    0 
+palpatine 958951912 10  9 r   c     b     b         2383  180  610 Ks Kh
+palpatine 958951982 10  8 f   -     -     -         2813    0    0 
+palpatine 958952022 10  7 f   -     -     -         2813    0    0 
+palpatine 958952057 10  6 c   k     cc    k         2813  120    0 8s Ts
+palpatine 958952106 10  5 f   -     -     -         2693    0    0 
+palpatine 958952164 10  4 f   -     -     -         2693    0    0 
+palpatine 958952200 10  3 rr  b     br    kc        2693  300    0 Ac As
+palpatine 958952317 10  2 Bf  -     -     -         2393   20    0 
+palpatine 958952417 10  1 Br  b     -     -         2373   60  140 
+palpatine 958952471 10 10 f   -     -     -         2453    0    0 
+palpatine 958952535 10  9 c   b     cc    f         2453  200    0 
+palpatine 958952630 10  8 f   -     -     -         2253    0    0 
+palpatine 958952654 10  7 r   -     -     -         2253   40   70 
+palpatine 958952676 10  6 c   c     c     r         2283  160  390 6d 6h
+palpatine 958952751 10  5 f   -     -     -         2513    0    0 
+palpatine 958952791 10  4 f   -     -     -         2513    0    0 
+palpatine 958952859 10  3 f   -     -     -         2513    0    0 
+palpatine 958952920 10  2 Bk  KQ    -     -         2513   20    0 
+palpatine 958954371 10 10 fQ  -     -     -         2493    0    0 
+palpatine 959048087 10  6 f   -     -     -         2493    0    0 
+palpatine 959048129 10  5 f   -     -     -         2493    0    0 
+palpatine 959048171 10  4 f   -     -     -         2493    0    0 
+palpatine 959048223 10  3 f   -     -     -         2493    0    0 
+palpatine 959048314 10  2 Bc  f     -     -         2493   40    0 
+palpatine 959048360 10  1 Bf  -     -     -         2453   10    0 
+palpatine 959048393 10 10 f   -     -     -         2443    0    0 
+palpatine 959048474 10  9 f   -     -     -         2443    0    0 
+palpatine 959048506 10  8 f   -     -     -         2443    0    0 
+palpatine 959048562 10  7 f   -     -     -         2443    0    0 
+palpatine 959048611 10  6 f   -     -     -         2443    0    0 
+palpatine 959048662 10  5 c   kf    -     -         2443   20    0 
+palpatine 959048711 10  4 f   -     -     -         2423    0    0 
+palpatine 959048762 10  3 f   -     -     -         2423    0    0 
+palpatine 959048777 10  2 Brc kc    kc    k         2423  140    0 Kc Ah
+palpatine 959048860 10  1 Bf  -     -     -         2283   10    0 
+palpatine 959048886 10  3 Q   -     -     -         2273    0    0 
+palpatine 959114229  6  6 f   -     -     -         2568    0    0 
+palpatine 959114246  6  5 f   -     -     -         2568    0    0 
+palpatine 959114279  6  4 f   -     -     -         2568    0    0 
+palpatine 959114321  7  4 f   -     -     -         2568    0    0 
+palpatine 959114360  7  3 c   b     -     -         2568   40  110 
+palpatine 959114388  7  2 Bk  f     -     -         2638   20    0 
+palpatine 959114453  8  1 Bc  kf    -     -         2618   20    0 
+palpatine 959114525  8  8 f   -     -     -         2598    0    0 
+palpatine 959114574  8  7 cc  f     -     -         2598   40    0 
+palpatine 959114612  7  5 f   -     -     -         2558    0    0 
+palpatine 959114650  7  4 f   -     -     -         2558    0    0 
+palpatine 959114692  7  3 r   br    b     k         2558  140  430 Qd Ks
+palpatine 959114745  8  2 Bf  -     -     -         2848   20    0 
+palpatine 959114792  8  1 Bf  -     -     -         2828   10    0 
+palpatine 959114828  8  8 f   -     -     -         2818    0    0 
+palpatine 959114904  9  8 f   -     -     -         2818    0    0 
+palpatine 959114953  9  7 f   Q     -     -         2818    0    0 
+palpatine 959115256  8  5 c   k     f     -         2818   20    0 
+palpatine 959115302  8  4 f   -     -     -         2798    0    0 
+palpatine 959115356  8  3 f   -     -     -         2798    0    0 
+palpatine 959115412  8  2 Bk  rf    -     -         2798   60    0 
+palpatine 959115468  8  1 Bf  -     -     -         2738   10    0 
+palpatine 959115496  7  7 f   -     -     -         2728    0    0 
+palpatine 959115565  8  7 c   f     -     -         2728   20    0 
+palpatine 959115628  9  6 f   Q     -     -         2708    0    0 
+palpatine 959206350  2  1 Bf  -     -     -         2723   10    0 
+palpatine 959295340  8  4 cc  bc    bc    k         2623  160    0 2d Ad
+palpatine 959295402  8  3 f   -     -     -         2463    0    0 
+palpatine 959295463  8  2 Bk  k     rf    -         2463  100    0 
+palpatine 959295500  8  1 Bc  k     bc    k         2363  100    0 5c 2c
+palpatine 959295554  8  8 c   f     -     -         2263   20    0 
+palpatine 959295593  8  7 f   -     -     -         2243    0    0 
+palpatine 959295625  8  6 f   -     -     -         2243    0    0 
+palpatine 959295672  8  5 f   -     -     -         2243    0    0 
+palpatine 959295704  8  4 f   -     -     -         2243    0    0 
+palpatine 959295744  8  2 r   b     b     b         2243  140    0 Ac Qh
+palpatine 959295828  7  2 Bf  -     -     -         2103   20    0 
+palpatine 959295871  8  1 Bc  kf    -     -         2083   20    0 
+palpatine 959295964  8  8 f   -     -     -         2063    0    0 
+palpatine 959296014  8  7 f   -     -     -         2063    0    0 
+palpatine 959296070  9  6 f   -     -     -         2063    0    0 
+palpatine 959296105  8  5 c   k     f     -         2063   20    0 
+palpatine 959296186 10  4 f   -     -     -         2043    0    0 
+palpatine 959296214 10  3 f   -     -     -         2043    0    0 
+palpatine 959296283 10  2 Bf  -     -     -         2043   20    0 
+palpatine 959296352 10  1 Bf  -     -     -         2023   10    0 
+palpatine 959296371 10 10 c   r     b     c         2013  160    0 Jc As
+palpatine 959296435 10  9 f   -     -     -         1853    0    0 
+palpatine 959296514 10  8 f   -     -     -         1853    0    0 
+palpatine 959296564 10  7 f   -     -     -         1853    0    0 
+palpatine 959296606 10  6 f   -     -     -         1853    0    0 
+palpatine 959296648 10  5 f   -     -     -         1853    0    0 
+palpatine 959296744 10  4 r   bc    kc    k         1853  120  270 Kh Kd
+palpatine 959296787 10  4 f   -     -     -         2003    0    0 
+palpatine 959296835  9  2 Bf  -     -     -         2003   20    0 
+palpatine 959296860  9  1 Bf  -     -     -         1983   10    0 
+palpatine 959296905  9  9 f   -     -     -         1973    0    0 
+palpatine 959296967  9  8 KQ  -     -     -         1973    0    0 
+palpatine 959308656  8  4 f   -     -     -         2083    0    0 
+palpatine 959308709  8  3 KQ  -     -     -         2073    0    0 
+palpatine 959308786  8  8 f   -     -     -         2073    0    0 
+palpatine 959308835 10  8 f   -     -     -         2073    0    0 
+palpatine 959308877 10  7 r   b     -     -         2073   60  160 
+palpatine 959308907  9  5 f   -     -     -         2173    0    0 
+palpatine 959308950  9  5 f   -     -     -         2173    0    0 
+palpatine 959308997  9  4 f   -     -     -         2173    0    0 
+palpatine 959309006  9  3 f   -     -     -         2173    0    0 
+palpatine 959309029  9  2 Bk  kf    -     -         2173   20    0 
+palpatine 959309084  8  1 Bf  -     -     -         2153   10    0 
+palpatine 959309127  9  8 f   -     -     -         2143    0    0 
+palpatine 959309138  9  7 f   -     -     -         2143    0    0 
+palpatine 959309168  9  6 f   -     -     -         2143    0    0 
+palpatine 959309217  9  5 f   -     -     -         2143    0    0 
+palpatine 959309248  9  4 f   -     -     -         2143    0    0 
+palpatine 959309289  9  3 f   -     -     -         2143    0    0 
+palpatine 959309315 10  2 Bf  -     -     -         2143   20    0 
+palpatine 959309371 10  1 Bc  krc   kc    kc        2123  160    0 Jc 9c
+palpatine 959309410 10 10 f   -     -     -         1963    0    0 
+palpatine 959309460 10  9 c   f     -     -         1963   20    0 
+palpatine 959309498 10  8 f   -     -     -         1943    0    0 
+palpatine 959309539 10  7 f   -     -     -         1943    0    0 
+palpatine 959309576 10  6 f   -     -     -         1943    0    0 
+palpatine 959309628 10  5 f   -     -     -         1943    0    0 
+palpatine 959309722 10  4 f   -     -     -         1943    0    0 
+palpatine 959309754 10  3 f   -     -     -         1943    0    0 
+palpatine 959309862 10  2 Bc  kc    kf    -         1943   60    0 
+palpatine 959309975 10  1 Bf  -     -     -         1883   10    0 
+palpatine 959310031 10 10 f   -     -     -         1873    0    0 
+palpatine 959310083 10  9 f   -     -     -         1873    0    0 
+palpatine 959310114 10  8 r   bf    -     -         1873   80    0 
+palpatine 959310175 10  7 c   f     -     -         1793   40    0 
+palpatine 959310230 10  6 cc  r     b     -         1753  120  340 
+palpatine 959310275 10  5 f   -     -     -         1973    0    0 
+palpatine 959310309 10  4 f   -     -     -         1973    0    0 
+palpatine 959310339 10  3 f   -     -     -         1973    0    0 
+palpatine 959310372 10  2 Bk  rc    cr    b         1973  240  800 Ad 5d
+palpatine 959310442 10  1 Bc  kf    -     -         2533   20    0 
+palpatine 959310511 10 10 f   -     -     -         2513    0    0 
+palpatine 959310539 10  9 c   bc    c     c         2513  140    0 8h 8s
+palpatine 959310630 10  8 c   b     b     b         2373  120    0 Jd Kd
+palpatine 959310718 10  7 r   b     -     -         2253   60  110 
+palpatine 959310744 10  3 Q   -     -     -         2303    0    0 
+palpatine 959319280  9  4 f   -     -     -         2303    0    0 
+palpatine 959319316 10  3 f   -     -     -         2303    0    0 
+palpatine 959319367 10  2 Bk  k     k     k         2303   20    0 6c 9d
+palpatine 959319434 10  1 Bc  bc    k     k         2283   60    0 5c 3c
+palpatine 959319501 10 10 f   -     -     -         2223    0    0 
+palpatine 959319543 10  9 f   -     -     -         2223    0    0 
+palpatine 959319601 10  8 f   -     -     -         2223    0    0 
+palpatine 959319626 10  7 f   -     -     -         2223    0    0 
+palpatine 959319704 10  6 f   -     -     -         2223    0    0 
+palpatine 959319769 10  5 f   -     -     -         2223    0    0 
+palpatine 959319858 10  4 c   f     -     -         2223   20    0 
+palpatine 959319930 10  3 r   b     b     c         2203  140  420 Ad Ah
+palpatine 959319990 10  2 Bk  kf    -     -         2483   20    0 
+palpatine 959320072 10  1 Bf  -     -     -         2463   10    0 
+palpatine 959320125 10 10 f   -     -     -         2453    0    0 
+palpatine 959320190 10  9 f   -     -     -         2453    0    0 
+palpatine 959320248 10  8 r   b     b     b         2453  140  350 Qc Ad
+palpatine 959320326 10  7 f   -     -     -         2663    0    0 
+palpatine 959320369 10  6 f   -     -     -         2663    0    0 
+palpatine 959320423 10  5 r   rr    br    b         2663  280  830 Ad Ah
+palpatine 959320499 10  4 fQ  -     -     -         3213    0    0 
+palpatine 959380515 10  6 f   -     -     -         3213    0    0 
+palpatine 959380599 10  5 f   -     -     -         3213    0    0 
+palpatine 959380643 10  4 cc  bc    b     b         3213  160    0 7c Ac
+palpatine 959380722 10  3 f   -     -     -         3053    0    0 
+palpatine 959380811 10  2 Bk  k     b     -         3053   60  120 
+palpatine 959380899 10  1 Bf  -     -     -         3113   10    0 
+palpatine 959380912 10 10 f   -     -     -         3103    0    0 
+palpatine 959380976 10  9 c   b     b     b         3103  120  280 
+palpatine 959381062 10  8 f   -     -     -         3263    0    0 
+palpatine 959381114 10  7 c   f     -     -         3263   20    0 
+palpatine 959381145 10  6 f   -     -     -         3243    0    0 
+palpatine 959381172 10  5 f   -     -     -         3243    0    0 
+palpatine 959381228 10  4 f   -     -     -         3243    0    0 
+palpatine 959381263 10  4 f   -     -     -         3243    0    0 
+palpatine 959381329 10  2 Bk  k     b     k         3243   60  130 9h 3c
+palpatine 959381370 10  1 Bc  kf    -     -         3313   20    0 
+palpatine 959381405  9  9 f   -     -     -         3293    0    0 
+palpatine 959381450  9  8 f   -     -     -         3293    0    0 
+palpatine 959381496  9  7 KQ  -     -     -         3293    0    0 
+palpatine 959381734 10  3 f   -     -     -         3293    0    0 
+palpatine 959381786 10  2 Bk  kf    -     -         3293   20    0 
+palpatine 959381900  8  1 Bf  -     -     -         3273   10    0 
+palpatine 959381924  8  8 c   rf    -     -         3263   60    0 
+palpatine 959381991  8  7 r   b     b     -         3203  100  250 
+palpatine 959382044 10  7 f   -     -     -         3353    0    0 
+palpatine 959382066 10  6 KQ  -     -     -         3353    0    0 
+palpatine 959382863  6  3 f   -     -     -         3353    0    0 
+palpatine 959382904  6  2 Bk  kf    -     -         3353   20    0 
+palpatine 959382933  6  1 Bf  -     -     -         3333   10    0 
+palpatine 959382969  6  6 f   -     -     -         3323    0    0 
+palpatine 959383011  7  5 f   -     -     -         3323    0    0 
+palpatine 959383050  7  4 f   -     -     -         3323    0    0 
+palpatine 959383069  7  3 f   -     -     -         3323    0    0 
+palpatine 959383096  7  2 Bf  -     -     -         3323   20    0 
+palpatine 959383122  7  1 Bc  k     kf    -         3303   20    0 
+palpatine 959383210  7  7 f   -     -     -         3283    0    0 
+palpatine 959383254  7  6 cf  -     -     -         3283   20    0 
+palpatine 959383340  6  4 f   -     -     -         3263    0    0 
+palpatine 959383388  7  4 r   b     bc    kc        3263  180    0 Jc Js
+palpatine 959383434  7  3 f   -     -     -         3083    0    0 
+palpatine 959383475  7  2 Bk  b     b     -         3083   80  140 
+palpatine 959383504  7  1 Bf  -     -     -         3143   10    0 
+palpatine 959383546  7  7 f   -     -     -         3133    0    0 
+palpatine 959383573  7  6 f   -     -     -         3133    0    0 
+palpatine 959383617  7  3 Q   -     -     -         3133    0    0 
+palpatine 959386640  6  2 Bk  kf    -     -         3133   20    0 
+palpatine 959386669  6  1 Br  b     -     -         3113   60  120 
+palpatine 959386687  6  6 f   -     -     -         3173    0    0 
+palpatine 959386722  6  5 r   r     c     c         3173  160    0 Qs Qd
+palpatine 959386763  6  4 f   -     -     -         3013    0    0 
+palpatine 959386782  6  3 cc  kf    -     -         3013   40    0 
+palpatine 959386828  6  2 Bf  -     -     -         2973   20    0 
+palpatine 959386847  6  1 Bc  k     kf    -         2953   20    0 
+palpatine 959386887  5  5 r   rc    c     c         2933  180    0 Jd Qs
+palpatine 959386914  5  4 f   -     -     -         2753    0    0 
+palpatine 959386958  5  3 f   -     -     -         2753    0    0 
+palpatine 959386975  5  2 B   -     -     -         2753   20   30 
+palpatine 959386979  5  1 Bf  -     -     -         2763   10    0 
+palpatine 959386993  5  5 r   k     b     b         2753  120  250 Td Js
+palpatine 959387029  5  4 f   -     -     -         2883    0    0 
+palpatine 959387039  5  3 f   -     -     -         2883    0    0 
+palpatine 959387073  5  2 Br  b     -     -         2883   60  100 
+palpatine 959387085  5  1 Br  -     -     -         2923   40   60 
+palpatine 959387103  5  5 rc  c     f     -         2943   80    0 
+palpatine 959387132  5  4 f   -     -     -         2863    0    0 
+palpatine 959387180  4  2 r   rc    c     c         2863  180    0 8s Ad
+palpatine 959387204  4  2 Bf  -     -     -         2683   20    0 
+palpatine 959387244  6  1 Bf  -     -     -         2663   10    0 
+palpatine 959387254  7  7 c   f     -     -         2653   20    0 
+palpatine 959387295  7  6 c   k     KQ    -         2633   20    0 
+palpatine 959474001  3  2 Bf  -     -     -         2613   20    0 
+palpatine 959474009  3  1 Bf  -     -     -         2593   10    0 
+palpatine 959474013  3  3 r   b     bc    c         2583  180    0 2c 2h
+palpatine 959474049  3  2 Bf  -     -     -         2403   20    0 
+palpatine 959474063  3  1 Bf  -     -     -         2383   10    0 
+palpatine 959474083  3  3 cc  c     c     c         2373  140    0 7c 6c
+palpatine 959474107  3  2 Bk  b     b     -         2233   80  120 
+palpatine 959474128  3  1 Bf  -     -     -         2273   10    0 
+palpatine 959474133  3  3 cc  f     -     -         2263   40    0 
+palpatine 959474172  5  2 Bk  k     kf    -         2223   20    0 
+palpatine 959474206  6  1 Bf  -     -     -         2203   10    0 
+palpatine 959474244  6  6 f   -     -     -         2193    0    0 
+palpatine 959474288  6  5 f   -     -     -         2193    0    0 
+palpatine 959474329  6  4 r   b     c     k         2193  100    0 Qd Qs
+palpatine 959474355  5  3 f   -     -     -         2093    0    0 
+palpatine 959474406  5  2 Bk  kf    -     -         2093   20    0 
+palpatine 959474457  5  1 Bf  -     -     -         2073   10    0 
+palpatine 959474512  6  6 f   -     -     -         2063    0    0 
+palpatine 959474562  6  5 f   -     -     -         2063    0    0 
+palpatine 959474613  6  4 f   -     -     -         2063    0    0 
+palpatine 959474639  6  3 f   -     -     -         2063    0    0 
+palpatine 959474675  6  2 Bc  k     br    b         2063  200  440 Ah Kd
+palpatine 959474721  6  1 Bf  -     -     -         2303   10    0 
+palpatine 959474761  7  7 c   c     c     f         2293   80    0 
+palpatine 959474818  7  6 f   -     -     -         2213    0    0 
+palpatine 959474893  8  6 f   -     -     -         2213    0    0 
+palpatine 959474923  8  5 f   -     -     -         2213    0    0 
+palpatine 959474949  7  3 f   -     -     -         2213    0    0 
+palpatine 959474998  7  3 rc  bc    kc    k         2213  140  370 Qs Kd
+palpatine 959475032  7  2 Bk  r     bf    -         2443  100    0 
+palpatine 959475086  7  1 Bf  -     -     -         2343   10    0 
+palpatine 959475123  8  8 f   -     -     -         2333    0    0 
+palpatine 959475159  8  7 f   -     -     -         2333    0    0 
+palpatine 959475195  8  6 f   -     -     -         2333    0    0 
+palpatine 959475248  8  5 f   -     -     -         2333    0    0 
+palpatine 959475286  8  4 f   -     -     -         2333    0    0 
+palpatine 959475341  8  3 f   -     -     -         2333    0    0 
+palpatine 959475394  8  2 Bk  k     k     k         2333   20    0 6d 2s
+palpatine 959475455  8  1 Bc  k     kf    -         2313   20    0 
+palpatine 959475534  7  7 f   -     -     -         2300    0    0 
+palpatine 959475574  7  6 f   -     -     -         2300    0    0 
+palpatine 959475611  7  5 f   -     -     -         2300    0    0 
+palpatine 959475644  7  4 f   -     -     -         2250    0    0 
+palpatine 959475706  7  3 cc  r     b     -         2245  120  300 
+palpatine 959475753  7  2 Bk  kf    -     -         2425   20    0 
+palpatine 959475812  7  1 Bf  -     -     -         2510   10    0 
+palpatine 959475835  7  7 r   b     b     c         2500  140  390 Ad Qd
+palpatine 959475894  7  6 r   b     b     b         2750  140  290 Kc Ac
+palpatine 959475932  7  5 f   -     -     -         2900    0    0 
+palpatine 959475993  7  4 c   bc    kc    k         2885  100    0 4h 3h
+palpatine 959476053  7  2 Bf  -     -     -         2785   20    0 
+palpatine 959476075  7  1 Bc  bf    -     -         2900   40    0 
+palpatine 959476103  7  7 f   -     -     -         2860    0    0 
+palpatine 959476156  8  6 r   f     -     -         2860   40    0 
+palpatine 959476189  8  5 f   -     -     -         2820    0    0 
+palpatine 959476221  9  5 c   f     -     -         2820   20    0 
+palpatine 959476311 10  5 f   -     -     -         2800    0    0 
+palpatine 959476341 10  4 f   -     -     -         2800    0    0 
+palpatine 959476411 10  3 c   b     f     -         2800   40    0 
+palpatine 959476471 10  2 Bk  kf    -     -         2760   20    0 
+palpatine 959476532  9  1 Bc  kf    -     -         2665   20    0 
+palpatine 959476572  9  9 f   -     -     -         2645    0    0 
+palpatine 959476591 10  9 f   -     -     -         2645    0    0 
+palpatine 959476617 10  8 f   -     -     -         2645    0    0 
+palpatine 959476670 10  7 f   -     -     -         2645    0    0 
+palpatine 959476727 10  6 f   -     -     -         2645    0    0 
+palpatine 959476747 10  5 f   -     -     -         2645    0    0 
+palpatine 959476835 10  4 cc  fQ    -     -         2550   60    0 
+palpatine 959548255  9  4 f   -     -     -         2490    0    0 
+palpatine 959548367  9  3 f   -     -     -         2490    0    0 
+palpatine 959548409  9  2 Bf  -     -     -         2490   20    0 
+palpatine 959548461  9  1 Bc  kf    -     -         2470   20    0 
+palpatine 959548500  9  9 f   -     -     -         2450    0    0 
+palpatine 959548544  7  6 f   -     -     -         2450    0    0 
+palpatine 959548605  7  6 c   b     b     -         2450   80  180 
+palpatine 959548667  7  5 r   kf    -     -         2550   40    0 
+palpatine 959548708  7  4 KQ  -     -     -         2510    0    0 
+palpatine 959548817  7  3 f   -     -     -         2510    0    0 
+palpatine 959548867  7  2 Bf  -     -     -         2510   20    0 
+palpatine 959548899  7  1 Bf  -     Q     -         2490   10    0 
+palpatine 959829728 10  9 f   -     -     -         2480    0    0 
+palpatine 959829791 10  8 f   -     -     -         2480    0    0 
+palpatine 959829824  9  6 f   -     -     -         2480    0    0 
+palpatine 959829880 10  6 f   -     -     -         2480    0    0 
+palpatine 959829929 10  5 f   -     -     -         2480    0    0 
+palpatine 959830014 10  4 f   -     -     -         2480    0    0 
+palpatine 959830078 10  3 f   -     -     -         2480    0    0 
+palpatine 959830119 10  2 Bk  b     kf    -         2480   40    0 
+palpatine 959830156 10  1 Bc  b     -     -         2440   40   80 
+palpatine 959830187 10 10 f   -     -     -         2480    0    0 
+palpatine 959830231 10  9 r   -     -     -         2480   40   70 
+palpatine 959830271 10  8 f   -     -     -         2510    0    0 
+palpatine 959830285 10  7 f   -     -     -         2510    0    0 
+palpatine 959830354 10  6 r   b     b     b         2510  140  360 Kd Kh
+palpatine 959830413 10  5 f   -     -     -         2730    0    0 
+palpatine 959830454 10  5 f   -     -     -         2730    0    0 
+palpatine 959830529 10  4 f   -     -     -         2730    0    0 
+palpatine 959830563 10  2 Bk  kf    -     -         2730   20    0 
+palpatine 959830628 10  1 Bf  -     -     -         2710   10    0 
+palpatine 959830709  9  9 f   -     -     -         2700    0    0 
+palpatine 959830765 10  9 f   -     -     -         2700    0    0 
+palpatine 959830798 10  8 f   -     -     -         2700    0    0 
+palpatine 959830858 10  7 f   -     -     -         2700    0    0 
+palpatine 959830896 10  6 f   -     -     -         2700    0    0 
+palpatine 959830936 10  5 f   -     -     -         2700    0    0 
+palpatine 959830958 10  4 f   -     -     -         2700    0    0 
+palpatine 959830995 10  3 f   -     -     -         2700    0    0 
+palpatine 959831027 10  2 Bk  kf    -     -         2700   20    0 
+palpatine 959831072 10  1 Bf  -     -     -         2680   10    0 
+palpatine 959831121  9  9 f   -     -     -         2670    0    0 
+palpatine 959831147  9  8 f   -     -     -         2670    0    0 
+palpatine 959831189  9  7 f   -     -     -         2670    0    0 
+palpatine 959831225  9  6 c   b     b     b         2670  120  240 
+palpatine 959831268  9  5 f   -     -     -         2790    0    0 
+palpatine 959831320  9  4 f   -     -     -         2790    0    0 
+palpatine 959831334  9  3 f   -     -     -         2790    0    0 
+palpatine 959831352  9  2 Bc  kc    kf    -         2790   60    0 
+palpatine 959831401  9  1 Bc  kf    -     -         2730   20    0 
+palpatine 959831434 10 10 f   -     -     -         2710    0    0 
+palpatine 959831482 10  9 f   -     -     -         2710    0    0 
+palpatine 959831533 10  8 f   -     -     -         2710    0    0 
+palpatine 959831540 10  7 f   -     -     -         2710    0    0 
+palpatine 959831587 10  6 f   -     -     -         2710    0    0 
+palpatine 959831606 10  5 f   -     -     -         2710    0    0 
+palpatine 959831650 10  4 f   -     -     -         2710    0    0 
+palpatine 959831703 10  3 f   -     -     -         2710    0    0 
+palpatine 959831798 10  2 Bk  k     kf    -         2710   20    0 
+palpatine 959831855 10  1 Br  b     bc    kf        2690  140    0 
+palpatine 959831947 10 10 f   -     -     -         2550    0    0 
+palpatine 959831987 10  9 c   f     -     -         2550   20    0 

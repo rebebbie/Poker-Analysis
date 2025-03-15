@@ -1,0 +1,57 @@
+pitbull   957942659 10  9 f   -     -     -         2085    0    0 
+pitbull   957942751 10  8 c   c     c     r         2085  160  350 
+pitbull   957942806 10  7 f   -     -     -         2275    0    0 
+pitbull   957942879 10  6 f   -     -     -         2275    0    0 
+pitbull   957942926 10  5 f   -     -     -         2275    0    0 
+pitbull   957942996 10  4 f   -     -     -         2275    0    0 
+pitbull   957943045 10  3 f   -     -     -         2275    0    0 
+pitbull   957943081 10  2 Bf  -     -     -         2275   20    0 
+pitbull   957943103 10  1 Bf  -     -     -         2255   10    0 
+pitbull   957943131 10 10 f   -     -     -         2245    0    0 
+pitbull   957943169 10  9 f   -     -     -         2245    0    0 
+pitbull   957943238 10  8 f   -     -     -         2245    0    0 
+pitbull   957943278 10  7 f   -     -     -         2245    0    0 
+pitbull   957943326 10  6 c   f     -     -         2245   20    0 
+pitbull   957943417 10  5 f   -     -     -         2225    0    0 
+pitbull   957943477 10  4 f   -     -     -         2225    0    0 
+pitbull   957943542 10  3 f   -     -     -         2225    0    0 
+pitbull   957943602 10  2 Bk  kf    -     -         2225   20    0 
+pitbull   957943624 10  1 Bc  k     b     b         2205  100  300 
+pitbull   957943658 10 10 f   -     -     -         2405    0    0 
+pitbull   957943745 10  9 f   -     -     -         2405    0    0 
+pitbull   957943793 10  8 c   k     f     -         2405   20    0 
+pitbull   957943866 10  7 f   -     -     -         2385    0    0 
+pitbull   957943898 10  6 c   f     -     -         2385   20    0 
+pitbull   957943928 10  5 c   c     k     k         2365   40    0 Td 4d
+pitbull   957943973 10  4 f   -     -     -         2325    0    0 
+pitbull   957944012 10  3 f   -     -     -         2325    0    0 
+pitbull   957944059 10  2 Bc  kc    kc    k         2325  100    0 7s 8c
+pitbull   957944108 10  1 Bc  bc    k     bf        2225  120    0 
+pitbull   957944161 10 10 f   -     -     -         2105    0    0 
+pitbull   957944201 10  9 f   -     -     -         2105    0    0 
+pitbull   957944254 10  8 f   -     -     -         2105    0    0 
+pitbull   957944400 10  7 f   -     -     -         2105    0    0 
+pitbull   957944467 10  6 c   ccc   c     f         2105  140    0 
+pitbull   957944516 10  5 r   bc    kc    k         1965  120    0 Js Ts
+pitbull   957944553 10  4 cr  kcc   kf    -         1845  160    0 
+pitbull   957944656 10  3 rr  bc    bc    br        1685  320    0 7s Tc
+pitbull   957944728  9  2 Bk  k     kc    kc        1365  100    0 7h 5h
+pitbull   957944785  8  1 Br  k     k     k         1265   60    0 4h 7d
+pitbull   957944840  7  7 r   r     b     rc        1205  260    0 Ks Ad
+pitbull   957944935  8  7 f   -     -     -          945    0    0 
+pitbull   957944990  6  4 f   -     -     -          945    0    0 
+pitbull   957945019  6  4 f   -     -     -          945    0    0 
+pitbull   957945044  7  3 f   -     -     -          945    0    0 
+pitbull   957945103  7  2 Br  b     b     -          945  140  420 
+pitbull   957945136  8  1 Bc  k     kf    -         1225   40    0 
+pitbull   957945198  7  7 c   k     k     f         1185   20    0 
+pitbull   957945227  7  7 r   r     rr    k         1165  240    0 Qd Js
+pitbull   957945295  7  6 f   -     -     -          925    0    0 
+pitbull   957945353  7  5 cr  k     b     f          925  100    0 
+pitbull   957945406  7  4 cc  f     -     -          825   40    0 
+pitbull   957945449  8  4 rc  kc    krc   f          785  260    0 
+pitbull   957945553  9  3 rr  k     rr    b          525  280    0 9c 7h
+pitbull   957945607  9  2 Br  b     bc    kc         245  200    0 5s Jh
+pitbull   957945653  9  1 BrA -     -     -           45   45  200 Qc Ks
+pitbull   957945685  8  8 r   f     -     -          200   60    0 
+pitbull   957945731  8  7 r   c     c     cA         140  140    0 Ad 7h

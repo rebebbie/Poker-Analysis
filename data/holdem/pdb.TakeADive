@@ -1,0 +1,81 @@
+TakeADive 959010571  5  2 Br  b     b     -         1000   50  110 
+TakeADive 959010592  4  1 Br  kc    kc    kf        1060   50    0 
+TakeADive 959010649  4  4 c   b     k     f         1010   20    0 
+TakeADive 959010669  4  3 c   f     -     -          990   10    0 
+TakeADive 959010710  4  2 Br  k     kc    kr         980   80  145 
+TakeADive 959010742  4  1 Bc  kc    kf    -         1045   20    0 
+TakeADive 959010783  4  4 f   -     -     -         1025    0    0 
+TakeADive 959010820  4  3 f   -     -     -         1025    0    0 
+TakeADive 959010843  4  2 Bc  kc    kc    kc        1025   70    0 4d 4c
+TakeADive 959010880  3  1 Bc  kf    -     -          955   10    0 
+TakeADive 959010896  3  3 r   b     -     -          945   30   55 
+TakeADive 959010909  3  2 Bk  k     c     k          970   30    0 4d 3d
+TakeADive 959010936  3  1 Br  b     kc    kc         940   70   75 Ad 3h
+TakeADive 959010959  3  3 c   c     k     f          945   20    0 
+TakeADive 959010998  3  2 B   -     -     -          925   10   15 
+TakeADive 959011007  3  1 Br  -     -     -          930   20   30 
+TakeADive 959011015  4  4 cc  c     c     c          940   70    0 4d 2d
+TakeADive 959011038  4  3 f   -     -     -          870    0    0 
+TakeADive 959011055  4  2 Bk  b     -     -          870   20   50 
+TakeADive 959011072  4  1 Bc  kc    kf    -          900   30    0 
+TakeADive 959011105  4  4 c   c     rc    c          870  110    0 9s 3s
+TakeADive 959011135  6  4 c   c     rc    rr         760  160    0 4s 2c
+TakeADive 959011183  6  3 c   b     b     k          600   40  115 Tc Td
+TakeADive 959011207  6  2 Bk  kc    k     k          675   20    0 8d Ts
+TakeADive 959011232  6  1 Bc  bc    br    k          655   90  220 2c Ts
+TakeADive 959011268  6  6 f   -     -     -          785    0    0 
+TakeADive 959011295  7  5 f   -     -     -          785    0    0 
+TakeADive 959011329  8  4 f   -     -     -          785    0    0 
+TakeADive 959011355  8  3 f   -     -     -          785    0    0 
+TakeADive 959011391  8  2 Bf  -     -     -          785   10    0 
+TakeADive 959011431  8  1 Bf  -     -     -          775    5    0 
+TakeADive 959011462  8  8 f   -     -     -          770    0    0 
+TakeADive 959011510  8  7 f   Q     -     -          770    0    0 
+TakeADive 959011583  8  5 f   -     -     -          770    0    0 
+TakeADive 959011605  8  4 r   c     k     k          770   30   45 Ah 7h
+TakeADive 959011635  7  3 c   k     kc    kf         785   30    0 
+TakeADive 959011660  7  2 Bk  kc    kr    b          755   80  185 2c 2s
+TakeADive 959011687  7  1 Bc  b     kf    -          860   20    0 
+TakeADive 959011714  7  7 f   -     -     -          840    0    0 
+TakeADive 959011737  7  6 f   -     -     -          840    0    0 
+TakeADive 959011761  7  5 r   -     -     -          840   20   35 
+TakeADive 959011774  7  4 c   f     -     -          855   10    0 
+TakeADive 959011814  8  3 c   r     b     b          845   70  170 Qd Ah
+TakeADive 959011860  9  2 Bc  kc    kc    kf         945   60    0 
+TakeADive 959011891  9  1 Bc  kf    -     -          885   10    0 
+TakeADive 959011927 10 10 f   -     -     -          875    0    0 
+TakeADive 959011958 10  9 c   f     -     -          875   10    0 
+TakeADive 959011996 10  8 c   b     b     kc         865   60  140 4d Kc
+TakeADive 959012027 10  7 f   -     -     -          945    0    0 
+TakeADive 959012058 10  6 cc  c     c     f          945   50    0 
+TakeADive 959012110 10  5 c   bc    kf    -          895   30    0 
+TakeADive 959012166 10  4 c   c     c     kf         865   40    0 
+TakeADive 959012217 10  3 f   -     -     -          825    0    0 
+TakeADive 959012250 10  2 Bc  bc    k     k          825   40    0 4h Kd
+TakeADive 959012275 10  1 Br  b     b     b          785   70  200 Ks Ac
+TakeADive 959012313 10 10 r   -     -     -          915   20   35 
+TakeADive 959012322 10  9 c   c     f     -          930   20    0 
+TakeADive 959012349 10  8 f   -     -     -          910    0    0 
+TakeADive 959012368 10  7 c   b     b     -          910   40   95 
+TakeADive 959012397 10  6 f   -     -     -          965    0    0 
+TakeADive 959012414 10  5 r   b     -     -          965   30   85 
+TakeADive 959012443 10  4 cc  c     c     f         1020   60    0 
+TakeADive 959012486 10  3 c   rc    bc    kc         960  110  340 Jc Ah
+TakeADive 959012538  9  2 Bk  kf    -     -         1190   10    0 
+TakeADive 959012590  9  1 Bf  -     -     -         1180    5    0 
+TakeADive 959012617  9  9 f   -     -     -         1175    0    0 
+TakeADive 959012627  9  8 c   c     c     c         1175   70    0 Js Kc
+TakeADive 959012661 10  7 f   -     -     -         1105    0    0 
+TakeADive 959012730  9  5 f   -     -     -         1105    0    0 
+TakeADive 959012782  9  4 f   -     -     -         1105    0    0 
+TakeADive 959012898  9  3 f   -     -     -         1105    0    0 
+TakeADive 959012955  9  2 Bf  -     -     -         1105   10    0 
+TakeADive 959013014  7  1 Brc kc    krc   k         1095  100  200 Qc 6s
+TakeADive 959013048  8  8 f   -     -     -         1195    0    0 
+TakeADive 959013096  8  7 cc  bcc   ccc   c         1195  160    0 Ks Td
+TakeADive 959013156 10  7 cc  kc    kr    b         1035  100  245 Ah Jh
+TakeADive 959013206 10  6 f   -     -     -         1180    0    0 
+TakeADive 959013272 10  5 cc  kc    kf    -         1180   30    0 
+TakeADive 959013337 10  4 f   -     -     -         1150    0    0 
+TakeADive 959013380 10  3 f   -     -     -         1150    0    0 
+TakeADive 959013424 10  2 Bc  kQ    -     -         1150   20    0 

@@ -1,0 +1,119 @@
+Skipper   957396603  5  5 c   f     -     -          629   10    0 
+Skipper   957396618  5  4 cc  f     -     -          619   20    0 
+Skipper   957396640  5  3 c   k     k     k          599   10    0 7h Td
+Skipper   957396667  5  2 Bk  k     kc    kc         589   50    0 8c 5d
+Skipper   957396745  5  1 Bc  kc    kc    b          539   70  150 3h Js
+Skipper   957396777  5  5 c   b     -     -          619   20   35 
+Skipper   957396796  5  4 c   k     r     -          634   50   85 
+Skipper   957396824  5  3 c   k     k     k          669   10    0 8s 4d
+Skipper   957396855  4  2 Bk  k     k     kf         659   10    0 
+Skipper   957396888  4  1 Bc  k     k     k          649   10    0 Js 9c
+Skipper   957396904  4  4 c   k     c     b          639   50   85 
+Skipper   957396933  4  3 c   k     f     -          674   10    0 
+Skipper   957396956  4  2 Bf  -     -     -          664   10    0 
+Skipper   957396968  4  1 Bc  kc    k     b          654   40    0 Kh 4h
+Skipper   957397003  4  4 cc  c     k     f          614   30    0 
+Skipper   957397040  4  3 c   c     k     b          584   40   90 7h 6d
+Skipper   957397068  4  2 Bk  b     -     -          634   20   30 
+Skipper   957397083  4  1 Br  k     k     k          644   30   70 Ah 4c
+Skipper   957397103  4  4 c   f     -     -          684   10    0 
+Skipper   957397124  4  3 cc  f     -     -          674   20    0 
+Skipper   957397146  4  2 Bk  k     k     k          654   10    0 Jc 9s
+Skipper   957397168  4  1 Bc  kf    -     -          644   10    0 
+Skipper   957397184  4  4 c   k     k     f          634   10    0 
+Skipper   957397207  4  3 f   -     -     -          624    0    0 
+Skipper   957397223  4  2 Bf  -     -     -          624   10    0 
+Skipper   957397247  4  1 Bc  kc    kf    -          614   30    0 
+Skipper   957397268  3  3 crc r     b     b          584  100  210 3d Ad
+Skipper   957397295  3  2 Bk  k     kf    -          694   10    0 
+Skipper   957397312  3  1 Bcc kc    k     bc         684   80    0 Qd Jh
+Skipper   957397340  4  4 cc  c     f     -          604   30    0 
+Skipper   957397357  4  3 c   r     b     b          574   70  140 
+Skipper   957397387  4  2 Bk  k     k     kf         644   10    0 
+Skipper   957397409  4  1 Bcc kr    b     b          634   80  200 As 9c
+Skipper   957397441  5  4 c   k     k     f          754   10    0 
+Skipper   957397472  5  3 c   k     r     r          744   90  200 Qh 9s
+Skipper   957397516  6  2 Bc  br    b     b          854   90  185 
+Skipper   957397548  6  1 Bc  kf    -     -          949   20    0 
+Skipper   957397595  6  6 c   k     f     -          929   10    0 
+Skipper   957397619  6  5 c   c     k     f          919   20    0 
+Skipper   957397640  6  4 cc  kf    -     -          899   20    0 
+Skipper   957397684  6  3 cc  kf    -     -          879   20    0 
+Skipper   957397722  6  2 Bk  kc    kc    kf         859   40    0 
+Skipper   957397757  6  1 Bf  -     -     -          819    5    0 
+Skipper   957397769  6  6 c   c     k     b          814   50    0 8h 8c
+Skipper   957397808  5  4 c   cc    k     c          764   60    0 Th Ks
+Skipper   957397836  6  4 c   k     f     -          704   10    0 
+Skipper   957397869  7  3 ccc kc    k     k          694   60  195 4c 4s
+Skipper   957397909  7  2 Bk  kc    f     -          829   20    0 
+Skipper   957397955  7  1 Bf  -     -     -          809    5    0 
+Skipper   957397996  7  7 f   -     -     -          804    0    0 
+Skipper   957398012  7  6 f   -     -     -          804    0    0 
+Skipper   957398033  7  6 c   c     f     -          804   20    0 
+Skipper   957398058  6  4 cc  c     k     f          784   30    0 
+Skipper   957398086  6  3 f   -     -     -          754    0    0 
+Skipper   957398111  6  2 Bc  kf    -     -          754   20    0 
+Skipper   957398133  6  1 Bf  -     -     -          734    5    0 
+Skipper   957398162  6  6 c   c     f     -          729   20    0 
+Skipper   957398186  6  5 f   -     -     -          709    0    0 
+Skipper   957398209  6  4 c   c     kc    b          709   60  145 
+Skipper   957398239  6  3 c   cc    kf    -          794   30    0 
+Skipper   957398296  6  2 Bc  kc    kc    b          764   70  125 
+Skipper   957398329  6  1 Bcc kf    -     -          819   40    0 
+Skipper   957398348  6  6 cc  c     f     -          779   30    0 
+Skipper   957398376  6  5 cc  c     f     -          749   30    0 
+Skipper   957398399  6  4 f   -     -     -          719    0    0 
+Skipper   957398415  6  3 c   k     kf    -          719   10    0 
+Skipper   957398449  6  2 Bf  -     -     -          709   10    0 
+Skipper   957398467  6  1 Bc  k     k     b          699   30   40 
+Skipper   957398499  6  6 cc  cc    c     f          709   70    0 
+Skipper   957398533  6  5 r   brc   c     b          639  100  260 Qd 6d
+Skipper   957398576  7  4 f   Q     -     -          799    0    0 
+Skipper   957573316  3  3 c   c     f     -         1304   20    0 
+Skipper   957573347  3  2 Bk  b     -     -         1284   20   35 
+Skipper   957573365  3  1 Bc  b     -     -         1299   20   40 
+Skipper   957573384  3  3 c   k     k     b         1319   30   50 
+Skipper   957573411  3  2 B   -     -     -         1339   10   15 
+Skipper   957573413  2  1 Bc  kf    -     -         1344   10    0 
+Skipper   957573429  3  3 f   -     -     -         1334    0    0 
+Skipper   957573462  3  2 Bk  b     bc    c         1334   80  170 Tc 5s
+Skipper   957573532  3  1 Bc  kc    b     br        1424  100  210 Qh Jh
+Skipper   957573593  3  3 c   k     k     b         1534   30   70 Ad 7h
+Skipper   957573636  3  2 Bk  k     b     b         1574   50  100 5c 3d
+Skipper   957573689  4  1 Bc  k     k     b         1624   30   50 
+Skipper   957573732  4  4 c   k     b     -         1644   30   60 
+Skipper   957573775  4  3 c   b     -     -         1674   20   40 
+Skipper   957573806  6  2 Bk  f     -     -         1694   10    0 
+Skipper   957573836  6  1 Bc  kc    kf    -         1684   20    0 
+Skipper   957573904  7  7 c   c     c     f         1664   40    0 
+Skipper   957573994  7  3 Q   -     -     -         1624    0    0 
+Skipper   958173972  8  5 cc  k     f     -         1879   20    0 
+Skipper   958174055  8  3 cc  kf    -     -         1859   20    0 
+Skipper   958174098  8  2 Bk  kc    kc    kc        1839   60    0 4d Jh
+Skipper   958174149  7  1 Bcc br    b     b         1779  110  340 Ts Qc
+Skipper   958174197  7  7 c   c     c     c         2009   70    0 9h 9c
+Skipper   958174242  8  7 c   c     b     b         1939   60  165 2h 4d
+Skipper   958174286  8  6 c   k     c     f         2044   30    0 
+Skipper   958174337  7  4 cc  kc    kf    -         2014   30    0 
+Skipper   958174393  6  3 c   b     -     -         1984   20   50 
+Skipper   958174418  6  2 Bcc r     b     b         2014  100    0 Jh Th
+Skipper   958174470  6  1 Bc  kc    kf    -         1914   30    0 
+Skipper   958174516  6  6 c   c     c     b         1884   80  230 9s 8s
+Skipper   958174552  7  6 c   k     c     k         2034   30    0 7d 8h
+Skipper   958174599  7  5 cc  f     -     -         2004   20    0 
+Skipper   958174640  8  5 c   kf    -     -         1984   10    0 
+Skipper   958174699  8  4 f   -     -     -         1974    0    0 
+Skipper   958174736  8  3 c   k     k     k         1974   10   25 Qs 5s
+Skipper   958174782  8  2 Bk  bc    kc    k         1989   50    0 4d Qc
+Skipper   958174842  7  1 Bcc kf    -     -         1939   20    0 
+Skipper   958174895  7  7 c   k     f     -         1919   10    0 
+Skipper   958174928  7  6 f   -     -     -         1909    0    0 
+Skipper   958174964  7  5 c   f     -     -         1909   20    0 
+Skipper   958175014  7  4 cc  f     -     -         1889   20    0 
+Skipper   958175061  7  3 cc  kc    c     c         1869   80    0 Js As
+Skipper   958175141  7  3 cc  kf    -     -         1789   30    0 
+Skipper   958175182  8  2 Bc  k     kf    -         1759   20    0 
+Skipper   958175238  9  1 BfQ -     -     -         1739    5    0 
+Skipper   958179131  9  2 Bk  k     k     k         1734   10    0 3h Qc
+Skipper   958179168  9  1 Bc  kr    b     b         1724   70    0 9c Js
+Skipper   958179265  9  3 Q   -     -     -         1654    0    0 

@@ -1,0 +1,89 @@
+KonCept   957214016 10  8 f   -     -     -        13481    0    0 
+KonCept   957214061 10  7 r   b     -     -        13481   60  170 
+KonCept   957214099  9  6 f   Q     -     -        13591    0    0 
+KonCept   957484660 10  5 f   -     -     -        13591    0    0 
+KonCept   957484698 10  4 f   -     -     -        13591    0    0 
+KonCept   957484790 10  3 cc  kf    -     -        13591   40    0 
+KonCept   957484869 10  2 Bk  bc    kc    kf       13551  100    0 
+KonCept   957484922 10  1 Bc  kcc   kf    -        13451   60    0 
+KonCept   957484983 10 10 f   -     -     -        13391    0    0 
+KonCept   957485034 10  9 f   -     -     -        13391    0    0 
+KonCept   957485084 10  8 f   -     -     -        13391    0    0 
+KonCept   957485200 10  7 c   b     b     b        13391  120    0 As 2s
+KonCept   957485334  9  5 r   b     -     -        13271   60  130 
+KonCept   957485367 10  5 f   -     -     -        13341    0    0 
+KonCept   957485401 10  4 c   b     k     k        13341   40    0 7h Ah
+KonCept   957485476 10  3 c   k     Q     -        13301   20    0 
+KonCept   957815758  7  7 cc  b     b     b        13281  140    0 Td 6d
+KonCept   957815800  8  7 f   -     -     -        13141    0    0 
+KonCept   957815831  8  6 c   f     -     -        13141   20    0 
+KonCept   957815859  8  5 c   f     -     -        13121   20    0 
+KonCept   957815888  8  4 c   k     k     f        13101   20    0 
+KonCept   957815909  8  3 c   br    br    b        13081  260  700 9c Th
+KonCept   957815956  9  2 Bk  f     -     -        13521   20    0 
+KonCept   957815983  9  1 Bc  kf    -     -        13501   40    0 
+KonCept   957816017  9  9 c   k     f     -        13461   20    0 
+KonCept   957816059  9  8 c   rc    c     k        13441  140  370 Kh Kc
+KonCept   957816102  9  7 c   k     k     f        13671   20    0 
+KonCept   957816174  9  7 f   -     -     -        13651    0    0 
+KonCept   957816237  9  6 f   -     -     -        13651    0    0 
+KonCept   957816286  9  5 f   -     -     -        13651    0    0 
+KonCept   957816302  9  4 f   -     -     -        13651    0    0 
+KonCept   957816377  9  3 f   -     -     -        13651    0    0 
+KonCept   957816420  8  2 Bf  -     -     -        13651   20    0 
+KonCept   957816460  7  1 Bf  -     -     -        13631   10    0 
+KonCept   957816481  7  7 c   f     -     -        13621   20    0 
+KonCept   957816505  7  6 f   -     -     -        13601    0    0 
+KonCept   957816537  7  5 f   -     -     -        13601    0    0 
+KonCept   957816599  7  4 c   k     f     -        13601   20    0 
+KonCept   957816665  7  3 c   f     -     -        13581   20    0 
+KonCept   957816711  9  2 Bc  kf    -     -        13561   40    0 
+KonCept   957816737  9  1 Bc  k     k     k        13521   20   60 As 3c
+KonCept   957816816  9  9 c   f     -     -        13561   20    0 
+KonCept   957816855  9  9 c   f     -     -        13541   20    0 
+KonCept   957816906 10  8 f   -     -     -        13521    0    0 
+KonCept   957816952 10  7 c   f     -     -        13521   40    0 
+KonCept   957816998 10  6 f   -     -     -        13481    0    0 
+KonCept   957817032  9  5 f   -     -     -        13481    0    0 
+KonCept   957817073  9  4 rc  bc    b     b        13481  180  255 Ks Kc
+KonCept   957817121  9  3 fQ  -     -     -        13556    0    0 
+KonCept   957971949  6  6 c   k     k     k        13556   20   60 6s Jc
+KonCept   957971974  6  5 c   b     b     -        13596   80  160 
+KonCept   957971998  7  4 cc  kc    kc    kc       13676  140    0 9d As
+KonCept   957972026  7  3 cc  c     c     kf       13536  100    0 
+KonCept   957972053  7  2 Bk  f     -     -        13436   20    0 
+KonCept   957972089  7  1 Bc  kc    k     kf       13416   60    0 
+KonCept   957972115  7  7 c   k     k     b        13356   60   90 
+KonCept   957972146  7  6 c   b     b     -        13386   80  160 
+KonCept   957972170  7  5 c   f     -     -        13466   20    0 
+KonCept   957972211  7  4 c   c     c     k        13446  100    0 5s 3h
+KonCept   957972237  7  3 fQ  -     -     -        13346    0    0 
+KonCept   958243450  9  3 c   b     b     bc       13211  160  380 8d Ad
+KonCept   958243495  9  2 Bk  kr    bf    -        13431  100    0 
+KonCept   958243549  9  1 Bc  k     k     k        13331   20  100 5h 6d
+KonCept   958243588  9  9 c   b     b     -        13411   80  190 
+KonCept   958243624  9  8 c   k     k     b        13521   60  120 
+KonCept   958243665  9  7 f   -     -     -        13581    0    0 
+KonCept   958243703  9  6 c   k     b     b        13581  100  200 
+KonCept   958243741  9  5 c   k     f     -        13681   20    0 
+KonCept   958243775  9  4 f   -     -     -        13661    0    0 
+KonCept   958243799  9  3 f   -     -     -        13661    0    0 
+KonCept   958243810  9  2 Bk  b     b     f        13661   80    0 
+KonCept   958243849  9  1 Bc  kcf   -     -        13581   80    0 
+KonCept   958243883 10 10 f   -     -     -        13501    0    0 
+KonCept   958243914 10  9 c   c     cc    c        13501  220    0 Ac Kh
+KonCept   958243959 10  8 c   b     bf    -        13281   80    0 
+KonCept   958243993 10  7 cc  k     kc    kc       13201  120    0 5d 5s
+KonCept   958244017  9  5 f   -     -     -        13081    0    0 
+KonCept   958244051  9  5 c   b     r     b        13081  180  490 2d 2s
+KonCept   958244090  9  4 f   -     -     -        13391    0    0 
+KonCept   958244181  8  3 f   -     -     -        13391    0    0 
+KonCept   958244208  9  2 Bc  k     kf    -        13391   40    0 
+KonCept   958244244  9  1 Bf  -     -     -        13351   10    0 
+KonCept   958244275  9  9 f   -     -     -        13341    0    0 
+KonCept   958244310  9  8 c   c     r     b        13341  180  620 5h 6s
+KonCept   958244390  8  7 c   f     -     -        13781   20    0 
+KonCept   958244409  8  6 f   -     -     -        13761    0    0 
+KonCept   958244446  8  5 f   -     -     -        13761    0    0 
+KonCept   958244480  8  4 f   -     -     -        13761    0    0 
+KonCept   958244527  8  3 ccc kcc   kccc  kfQ      13761  320    0 

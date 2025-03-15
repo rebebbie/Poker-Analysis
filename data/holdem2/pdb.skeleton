@@ -1,0 +1,633 @@
+skeleton  957309920 10  9 f   -     -     -         5384    0    0 
+skeleton  957309969 10  8 f   -     -     -         5384    0    0 
+skeleton  957310011 10  7 f   -     -     -         5384    0    0 
+skeleton  957310055 10  6 f   -     -     -         5384    0    0 
+skeleton  957310124 10  5 f   -     -     -         5384    0    0 
+skeleton  957310158 10  4 f   -     -     -         5384    0    0 
+skeleton  957310228 10  3 f   -     -     -         5384    0    0 
+skeleton  957310293 10  2 Bf  -     -     -         5384   20    0 
+skeleton  957310355 10  1 Bc  b     bc    k         5364  140    0 As 6s
+skeleton  957310400 10 10 c   c     r     c         5224  200  620 4s 7s
+skeleton  957310466 10  9 f   Q     -     -         5644    0    0 
+skeleton  957311124 10  2 Bf  -     -     -         5644   20    0 
+skeleton  957311234 10  1 Bc  kf    -     -         5624   20    0 
+skeleton  957311308 10 10 f   -     -     -         5604    0    0 
+skeleton  957311337 10  9 f   -     -     -         5604    0    0 
+skeleton  957311382 10  8 f   -     -     -         5604    0    0 
+skeleton  957311459 10  7 cc  b     kc    k         5604  100    0 Tc Jh
+skeleton  957311555 10  6 f   -     -     -         5504    0    0 
+skeleton  957311600 10  5 f   -     -     -         5504    0    0 
+skeleton  957311647 10  4 f   -     -     -         5504    0    0 
+skeleton  957311711 10  3 f   -     -     -         5504    0    0 
+skeleton  957311784  9  2 Bk  kc    b     kc        5504  120    0 8h 7s
+skeleton  957311836 10  1 Bc  k     bf    -         5384   60    0 
+skeleton  957311897 10 10 f   -     -     -         5324    0    0 
+skeleton  957311943 10  9 f   -     -     -         5324    0    0 
+skeleton  957312017 10  8 f   -     -     -         5324    0    0 
+skeleton  957312079 10  7 f   -     -     -         5324    0    0 
+skeleton  957312107 10  6 f   -     -     -         5324    0    0 
+skeleton  957312126 10  5 f   -     -     -         5324    0    0 
+skeleton  957312171 10  4 f   -     -     -         5324    0    0 
+skeleton  957312222 10  3 f   -     -     -         5324    0    0 
+skeleton  957312259 10  2 Br  b     b     bc        5324  180    0 Jh Kh
+skeleton  957312307 10  1 Br  b     b     b         5144  160  340 Tc Kc
+skeleton  957312355 10 10 f   -     -     -         5324    0    0 
+skeleton  957312398 10  9 f   -     -     -         5324    0    0 
+skeleton  957312434 10  8 f   -     -     -         5324    0    0 
+skeleton  957312477  9  7 f   -     -     -         5324    0    0 
+skeleton  957312510  9  6 f   -     -     -         5324    0    0 
+skeleton  957312547 10  5 r   b     -     -         5324   60  130 
+skeleton  957312574 10  4 f   -     -     -         5394    0    0 
+skeleton  957312617  9  3 f   -     -     -         5394    0    0 
+skeleton  957312691  9  2 Bf  -     -     -         5394   20    0 
+skeleton  957312762  9  1 Bc  k     kc    b         5374  100  300 Ah As
+skeleton  957312814  8  8 f   -     -     -         5574    0    0 
+skeleton  957312903  8  7 c   b     rc    b         5574  200    0 Td Th
+skeleton  957312951  8  6 c   bc    f     -         5374   60    0 
+skeleton  957313014  8  5 f   -     -     -         5314    0    0 
+skeleton  957313052  9  4 f   -     -     -         5314    0    0 
+skeleton  957313103 10  3 f   -     -     -         5314    0    0 
+skeleton  957313132 10  2 Br  b     -     -         5314   60  100 
+skeleton  957313188  9  1 Bc  kf    -     -         5354   20    0 
+skeleton  957313246  9  9 f   -     -     -         5334    0    0 
+skeleton  957313311  9  8 f   -     -     -         5334    0    0 
+skeleton  957313332  9  7 f   -     -     -         5334    0    0 
+skeleton  957313381  8  5 f   -     -     -         5334    0    0 
+skeleton  957313413  9  5 fQ  -     -     -         5334    0    0 
+skeleton  957314781  5  5 f   -     -     -         5334    0    0 
+skeleton  957314811  5  4 r   b     -     -         5334   60  110 
+skeleton  957314830  5  3 cc  b     b     bc        5384  180    0 4s 4h
+skeleton  957314873  5  2 Bc  r     b     b         5204  160  520 2h Ad
+skeleton  957314938  5  1 Bf  -     -     -         5564   10    0 
+skeleton  957314966  4  4 f   -     -     -         5554    0    0 
+skeleton  957314993  5  3 cc  c     f     -         5554   60    0 
+skeleton  957315024  5  2 B   -     -     -         5494   20   30 
+skeleton  957315035  5  1 Bc  b     -     -         5504   40   80 
+skeleton  957315067  5  5 r   b     bc    c         5544  180    0 8s 8d
+skeleton  957315109  5  4 r   r     k     c         5364  120    0 7d 7c
+skeleton  957315139  6  3 f   -     -     -         5244    0    0 
+skeleton  957315160  6  2 Bc  kf    -     -         5244   40    0 
+skeleton  957315185  6  1 Br  bc    kc    kc        5204  180  400 Ah Qc
+skeleton  957315223  6  6 f   -     -     -         5424    0    0 
+skeleton  957315245  6  5 f   -     -     -         5424    0    0 
+skeleton  957315278  6  4 f   -     -     -         5424    0    0 
+skeleton  957315299  6  3 f   -     -     -         5424    0    0 
+skeleton  957315322  6  2 Bk  kf    -     -         5424   20    0 
+skeleton  957315349  6  1 Bc  kc    kc    k         5404   80  200 4h 3s
+skeleton  957315401  7  7 c   b     k     bc        5524  140    0 7s Js
+skeleton  957315465  8  7 f   -     -     -         5384    0    0 
+skeleton  957315565  8  6 f   -     -     -         5384    0    0 
+skeleton  957315613  9  6 f   -     -     -         5384    0    0 
+skeleton  957315651  9  5 f   -     -     -         5384    0    0 
+skeleton  957315678  9  4 f   -     -     -         5384    0    0 
+skeleton  957315738  9  3 f   -     -     -         5384    0    0 
+skeleton  957315774  9  3 c   kf    -     -         5384   20    0 
+skeleton  957315833 10  2 Bk  b     b     -         5364   80  170 
+skeleton  957315877 10  1 Bf  -     -     -         5454   10    0 
+skeleton  957315947 10 10 f   -     -     -         5444    0    0 
+skeleton  957316011 10  9 f   -     -     -         5444    0    0 
+skeleton  957316052 10  8 f   -     -     -         5444    0    0 
+skeleton  957316102 10  7 f   -     -     -         5444    0    0 
+skeleton  957316154 10  6 f   -     -     -         5444    0    0 
+skeleton  957316186 10  5 f   -     -     -         5444    0    0 
+skeleton  957316230 10  4 rc  kf    -     -         5444   60    0 
+skeleton  957316261 10  3 fQ  -     -     -         5384    0    0 
+skeleton  957462458  5  2 Bc  kf    -     -         5384   40    0 
+skeleton  957462476  5  1 Bc  k     k     b         5344   60   80 
+skeleton  957462504  5  5 r   b     b     b         5364  140  310 Qd Js
+skeleton  957462533  5  4 f   -     -     -         5534    0    0 
+skeleton  957462564  6  3 f   -     -     -         5534    0    0 
+skeleton  957462587  6  2 Bf  -     -     -         5534   20    0 
+skeleton  957462617  6  1 Bc  kc    kf    -         5514   60    0 
+skeleton  957462651  6  6 f   -     -     -         5454    0    0 
+skeleton  957462668  5  4 r   r     k     k         5454   80    0 8s 7s
+skeleton  957462700  5  4 f   -     -     -         5374    0    0 
+skeleton  957462726  4  2 Bk  b     b     rf        5374  160    0 
+skeleton  957462756  4  1 Bc  b     -     -         5214   40   60 
+skeleton  957462775  4  4 f   -     -     -         5234    0    0 
+skeleton  957462787  4  3 c   c     c     c         5234  120    0 Qh 8h
+skeleton  957462806  4  2 Br  kc    kc    kr        5114  200  410 9h Ah
+skeleton  957462840  4  1 Bf  -     -     -         5324   10    0 
+skeleton  957462852  4  4 r   c     rc    rc        5314  360    0 Ts Qh
+skeleton  957462895  4  3 c   c     c     r         4954  160  340 5c 6c
+skeleton  957462922  4  2 Bk  k     b     -         5134   60   80 
+skeleton  957462940  4  1 Bc  bc    kc    k         5154  100  110 6h Ad
+skeleton  957462962  4  4 f   -     -     -         5164    0    0 
+skeleton  957462974  4  3 f   -     -     -         5164    0    0 
+skeleton  957462984  4  2 Bk  k     k     b         5164   60   80 
+skeleton  957463007  4  1 Bc  k     k     k         5184   20    0 8c Qs
+skeleton  957463027  4  4 Q   -     -     -         5164    0    0 
+skeleton  957745445  8  7 f   -     -     -         5174    0    0 
+skeleton  957745489  8  6 f   -     -     -         5174    0    0 
+skeleton  957745540  7  4 f   -     -     -         5174    0    0 
+skeleton  957745588  7  3 f   Q     -     -         5174    0    0 
+skeleton  957750881  8  5 r   b     -     -         5324   60  150 
+skeleton  957750913  8  4 r   b     b     -         5414  100  180 
+skeleton  957750951  8  3 f   -     -     -         5494    0    0 
+skeleton  957751001  8  2 Bk  k     k     k         5494   20    0 4h 5h
+skeleton  957751062  8  1 Bf  -     -     -         5474   10    0 
+skeleton  957751093  8  8 f   -     -     -         5464    0    0 
+skeleton  957751120  8  7 f   -     -     -         5464    0    0 
+skeleton  957751133  8  6 f   -     -     -         5464    0    0 
+skeleton  957751194  8  5 f   -     -     -         5464    0    0 
+skeleton  957751216  8  4 r   kc    b     k         5464  100  310 As Jc
+skeleton  957751260  8  3 f   -     -     -         5674    0    0 
+skeleton  957751312  8  2 Bc  kf    -     -         5674   40    0 
+skeleton  957751389  8  1 Bf  Q     -     -         5634   10    0 
+skeleton  957911298 10  4 f   -     -     -         5934    0    0 
+skeleton  957911343 10  3 f   -     -     -         5934    0    0 
+skeleton  957911381 10  2 Bc  bf    -     -         5934   60    0 
+skeleton  957911409 10  1 Br  b     b     b         5874  140  300 Qd Jh
+skeleton  957911435  9  9 f   -     -     -         6034    0    0 
+skeleton  957911472  9  8 f   -     -     -         6034    0    0 
+skeleton  957911511  9  7 f   -     -     -         6034    0    0 
+skeleton  957911537  9  6 f   -     -     -         6034    0    0 
+skeleton  957911597  9  5 f   -     -     -         6034    0    0 
+skeleton  957911679  9  4 f   -     -     -         6034    0    0 
+skeleton  957911782  8  3 r   k     rf    -         6034  120    0 
+skeleton  957911830  8  2 Bk  b     b     -         5914   80  120 
+skeleton  957911862 10  1 Bc  kc    kf    -         5954   40    0 
+skeleton  957911896  9  9 f   -     -     -         5914    0    0 
+skeleton  957911930  9  8 c   b     b     b         5914  140  480 Qh Qc
+skeleton  957912035  9  7 f   -     -     -         6254    0    0 
+skeleton  957912107  9  6 rc  b     b     c         6254  180  720 Js As
+skeleton  957912166  9  5 f   -     -     -         6794    0    0 
+skeleton  957912230 10  4 f   -     -     -         6794    0    0 
+skeleton  957912319  9  3 f   Q     -     -         6794    0    0 
+skeleton  957914905  8  6 f   -     -     -         6794    0    0 
+skeleton  957914957  8  5 f   -     -     -         6794    0    0 
+skeleton  957914965  8  4 f   -     -     -         6794    0    0 
+skeleton  957915042  8  3 f   -     -     -         6794    0    0 
+skeleton  957915064  9  2 Bk  kf    -     -         6794   20    0 
+skeleton  957915111  9  1 Bf  -     -     -         6774   10    0 
+skeleton  957915157  9  9 f   -     -     -         6764    0    0 
+skeleton  957915192  9  8 r   br    b     b         6764  200  510 
+skeleton  957915251 10  8 f   -     -     -         7074    0    0 
+skeleton  957915338  9  6 f   -     -     -         7074    0    0 
+skeleton  957915408  8  4 f   -     -     -         7074    0    0 
+skeleton  957915442  8  3 f   -     -     -         7074    0    0 
+skeleton  957915458  7  2 Bc  kc    k     kc        7074  100    0 7h Qd
+skeleton  957915496  6  1 Bf  -     -     -         6974   10    0 
+skeleton  957915526  6  6 f   -     -     -         6964    0    0 
+skeleton  957915573  6  5 f   -     -     -         6964    0    0 
+skeleton  957915621  7  5 f   -     -     -         6964    0    0 
+skeleton  957915670  7  4 f   -     -     -         6964    0    0 
+skeleton  957915698  7  3 f   -     -     -         6964    0    0 
+skeleton  957915741  7  2 Bk  k     k     b         6964   60  180 7c 2h
+skeleton  957915818  7  1 BfQ -     -     -         7084   10    0 
+skeleton  957996651  5  4 cc  kr    b     b         7074  160  330 
+skeleton  957996693  6  3 fQ  -     -     -         7244    0    0 
+skeleton  957999914  7  2 Bf  -     -     -         7244   20    0 
+skeleton  957999961  7  1 Bcc kf    -     -         7224   40    0 
+skeleton  957999990  6  6 f   -     -     -         7184    0    0 
+skeleton  957999994  6  5 f   -     -     -         7184    0    0 
+skeleton  958000011  6  4 f   -     -     -         7184    0    0 
+skeleton  958000062  6  3 f   -     -     -         7184    0    0 
+skeleton  958000092  6  2 Bf  -     -     -         7184   20    0 
+skeleton  958000113  5  1 Bc  kf    -     -         7164   20    0 
+skeleton  958000135  5  5 r   b     -     -         7144   60  150 
+skeleton  958000162  5  4 c   bc    r     b         7234  180  340 
+skeleton  958000207  6  3 f   -     -     -         7394    0    0 
+skeleton  958000226  6  2 Bk  k     kf    -         7394   20    0 
+skeleton  958000248  6  1 Bc  kc    k     b         7374   80  120 
+skeleton  958000277  8  7 f   -     -     -         7414    0    0 
+skeleton  958000333 10  6 f   -     -     -         7414    0    0 
+skeleton  958000384 10  5 c   f     -     -         7414   20    0 
+skeleton  958000448 10  4 r   b     -     -         7394   60  130 
+skeleton  958000469 10  3 f   -     -     -         7464    0    0 
+skeleton  958000532 10  2 Bk  kc    kc    kr        7464  160  330 6s Jc
+skeleton  958000585 10  1 Bc  kf    -     -         7634   20    0 
+skeleton  958000671 10 10 f   -     -     -         7614    0    0 
+skeleton  958000696 10  9 r   br    k     c         7614  180    0 As Kc
+skeleton  958000756 10  8 f   -     -     -         7434    0    0 
+skeleton  958000776 10  7 f   -     -     -         7434    0    0 
+skeleton  958000855 10  6 f   -     -     -         7434    0    0 
+skeleton  958000910 10  5 f   Q     -     -         7434    0    0 
+skeleton  958180586 10  2 Bc  k     b     b         7434  120  290 4d 6d
+skeleton  958180637 10  1 Bc  kf    -     -         7604   20    0 
+skeleton  958180754 10 10 f   -     -     -         7584    0    0 
+skeleton  958180797 10  9 f   -     -     -         7584    0    0 
+skeleton  958180887 10  8 f   -     -     -         7584    0    0 
+skeleton  958180917 10  7 f   -     -     -         7584    0    0 
+skeleton  958180956 10  6 f   -     -     -         7584    0    0 
+skeleton  958181032 10  5 f   -     -     -         7584    0    0 
+skeleton  958181128 10  4 f   -     -     -         7584    0    0 
+skeleton  958181173 10  3 f   -     -     -         7584    0    0 
+skeleton  958181219 10  2 Brc kf    -     -         7584   80    0 
+skeleton  958181306 10  1 Bc  k     b     -         7504   60  120 
+skeleton  958181357  9  9 cc  c     c     f         7564  100    0 
+skeleton  958181420  9  8 f   -     -     -         7464    0    0 
+skeleton  958181460  9  7 f   -     -     -         7464    0    0 
+skeleton  958181501  9  6 f   -     -     -         7464    0    0 
+skeleton  958181571  9  5 f   -     -     -         7464    0    0 
+skeleton  958181625 10  4 f   -     -     -         7464    0    0 
+skeleton  958181688  8  2 Bk  kf    -     -         7464   20    0 
+skeleton  958181720  7  1 Bc  bc    b     br        7444  220  620 Jd Th
+skeleton  958181775  7  7 r   b     b     -         7844  100  310 
+skeleton  958181825  7  6 f   -     -     -         8054    0    0 
+skeleton  958181839  8  6 cc  k     r     b         8054  160    0 Qc 7c
+skeleton  958181873  7  4 f   -     -     -         7894    0    0 
+skeleton  958181917  7  3 r   kc    kc    k         7894  100  230 6d Ad
+skeleton  958181951  6  2 Bk  k     k     b         8024   60  100 
+skeleton  958181978  6  1 Bf  -     -     -         8064   10    0 
+skeleton  958182008  6  6 f   -     -     -         8054    0    0 
+skeleton  958182044  4  3 c   r     b     c         8054  140    0 Kh Ks
+skeleton  958182090  4  2 cc  f     -     -         7914   40    0 
+skeleton  958182111  4  2 Bk  fQ    -     -         7874   20    0 
+skeleton  958351731  6  1 Bf  -     -     -         7744   20    0 
+skeleton  958351750  7  1 Bc  kf    -     -         7724   40    0 
+skeleton  958351787  9  9 f   -     -     -         7684    0    0 
+skeleton  958351818  9  8 f   -     -     -         7684    0    0 
+skeleton  958351866  9  7 f   -     -     -         7684    0    0 
+skeleton  958351896  9  6 cc  rc    b     bc        7684  260    0 Kd Ks
+skeleton  958351954 10  5 rc  kf    -     -         7424   60    0 
+skeleton  958352024 10  4 c   cc    f     -         7364   80    0 
+skeleton  958352061 10  3 f   -     -     -         7284    0    0 
+skeleton  958352128 10  2 Brc b     b     -         7284  120  330 
+skeleton  958352163 10  1 Bc  k     b     -         7494   60  120 
+skeleton  958352208 10 10 f   -     -     -         7554    0    0 
+skeleton  958352264 10  9 f   -     -     -         7554    0    0 
+skeleton  958352320 10  8 c   r     -     -         7554   80  230 
+skeleton  958352373 10  7 f   -     -     -         7704    0    0 
+skeleton  958352409 10  6 f   -     -     -         7704    0    0 
+skeleton  958352435 10  5 f   -     Q     -         7704    0    0 
+skeleton  958355949 10  9 r   b     b     bc        7704  200    0 Td As
+skeleton  958356035  9  7 f   -     -     -         7504    0    0 
+skeleton  958356085  9  6 f   -     -     -         7504    0    0 
+skeleton  958356134  9  5 fQ  -     -     -         7504    0    0 
+skeleton  958518500 10  2 Bc  kcc   kc    kr        7504  220  630 7d 7c
+skeleton  958518562 10  1 Bf  -     -     -         7914   10    0 
+skeleton  958518610 10 10 f   -     -     -         7904    0    0 
+skeleton  958518711  9  8 c   bc    kc    kf        7904  100    0 
+skeleton  958518782  9  7 f   -     -     -         7804    0    0 
+skeleton  958518885  9  6 f   -     -     -         7804    0    0 
+skeleton  958518942  9  5 r   bc    kc    b         7804  160  400 Ah Ks
+skeleton  958518988 10  5 fQ  -     -     -         8044    0    0 
+skeleton  958605796 10  6 f   -     -     -         8044    0    0 
+skeleton  958605839 10  5 c   kc    b     b         8044  120  150 6d 5d
+skeleton  958605894 10  3 Q   -     -     -         8074    0    0 
+skeleton  958607540 10  8 fQ  -     -     -         8074    0    0 
+skeleton  958610580  7  5 f   -     -     -         8074    0    0 
+skeleton  958610611  6  4 c   k     f     -         8074   20    0 
+skeleton  958610638  6  3 f   -     -     -         8054    0    0 
+skeleton  958610664  6  2 Brc bc    kc    k         8054  160  330 As Td
+skeleton  958610696  6  1 Bc  kc    kf    -         8224   60    0 
+skeleton  958610731  6  6 f   -     -     -         8164    0    0 
+skeleton  958610751  6  5 c   c     c     f         8164   80    0 
+skeleton  958610810  6  4 r   -     -     -         8084   40   70 
+skeleton  958610825  6  3 f   -     -     -         8114    0    0 
+skeleton  958610852  6  2 Br  b     b     b         8114  140  460 Kh Qc
+skeleton  958610914  6  1 Bc  k     b     -         8434   60  100 
+skeleton  958610943  6  6 f   -     -     -         8474    0    0 
+skeleton  958610980  6  5 f   -     -     -         8474    0    0 
+skeleton  958611016  6  4 f   -     -     -         8474    0    0 
+skeleton  958611057  7  3 f   -     -     -         8474    0    0 
+skeleton  958611083  8  2 Bf  -     -     -         8474   20    0 
+skeleton  958611127  8  1 Bf  Q     -     -         8454   10    0 
+skeleton  958854740 10 10 c   f     -     -         8354   20    0 
+skeleton  958854766 10  9 f   -     -     -         8334    0    0 
+skeleton  958854802 10  8 c   f     -     -         8334   20    0 
+skeleton  958854855 10  7 f   -     -     -         8314    0    0 
+skeleton  958854925 10  6 f   -     -     -         8314    0    0 
+skeleton  958854993  9  4 f   -     -     -         8314    0    0 
+skeleton  958855072  8  2 Bk  f     -     -         8314   20    0 
+skeleton  958855108  7  1 BfQ -     -     -         8294   10    0 
+skeleton  958870998 10  1 Bf  -     -     -         8284   10    0 
+skeleton  958871058 10 10 f   -     -     -         8274    0    0 
+skeleton  958871089  9  8 c   f     -     -         8274   40    0 
+skeleton  958871138 10  7 f   -     -     -         8234    0    0 
+skeleton  958871199 10  6 f   -     -     -         8234    0    0 
+skeleton  958871310  9  5 r   k     b     b         8234  120  210 
+skeleton  958871356  9  4 f   -     -     -         8324    0    0 
+skeleton  958871410 10  3 f   -     -     -         8324    0    0 
+skeleton  958871464 10  2 Bf  -     -     -         8324   20    0 
+skeleton  958871511 10  1 Bf  -     -     -         8304   10    0 
+skeleton  958871572 10 10 f   -     -     -         8294    0    0 
+skeleton  958871599 10  9 f   -     -     -         8294    0    0 
+skeleton  958871647 10  3 Q   -     -     -         8294    0    0 
+skeleton  959026896 10  3 f   -     -     -         8294    0    0 
+skeleton  959026940  9  2 Bk  kf    -     -         8294   20    0 
+skeleton  959027004  9  1 Bc  bc    kf    -         8274   60    0 
+skeleton  959027044  9  9 f   -     -     -         8214    0    0 
+skeleton  959027084  9  8 cc  f     -     -         8214   60    0 
+skeleton  959027141  9  7 c   c     c     c         8154  120    0 2c Ah
+skeleton  959027187 10  7 f   -     -     -         8034    0    0 
+skeleton  959027231  9  6 f   -     -     -         8034    0    0 
+skeleton  959027249  9  5 f   -     -     -         8034    0    0 
+skeleton  959027307  9  4 f   -     -     -         8034    0    0 
+skeleton  959027353  9  3 f   -     -     -         8034    0    0 
+skeleton  959027399  9  2 Brc kc    kc    kc        8034  180    0 As Qd
+skeleton  959027473 10  1 Bf  -     -     -         7854   10    0 
+skeleton  959027539 10 10 f   -     -     -         7844    0    0 
+skeleton  959027583 10  9 f   -     -     -         7844    0    0 
+skeleton  959027630 10  8 f   -     -     -         7844    0    0 
+skeleton  959027677 10  7 c   c     f     -         7844   60    0 
+skeleton  959027714 10  6 f   -     -     -         7784    0    0 
+skeleton  959027763 10  5 f   -     -     -         7784    0    0 
+skeleton  959027805 10  4 f   -     -     -         7784    0    0 
+skeleton  959027860  9  3 f   -     -     -         7784    0    0 
+skeleton  959027910  9  2 Bk  kf    -     -         7784   20    0 
+skeleton  959027952  9  1 Bc  kf    -     -         7764   20    0 
+skeleton  959027979  9  9 f   -     -     -         7744    0    0 
+skeleton  959028038  9  8 f   -     -     -         7744    0    0 
+skeleton  959028108 10  8 rc  c     f     -         7744  120    0 
+skeleton  959028181  9  7 f   -     -     -         7624    0    0 
+skeleton  959028267  8  5 r   b     b     b         7624  140  330 
+skeleton  959028347  7  3 f   -     -     -         7814    0    0 
+skeleton  959028388  8  3 f   -     -     -         7814    0    0 
+skeleton  959028428  9  2 Bk  b     -     -         7814   40  110 
+skeleton  959028453  9  1 Bc  b     b     b         7884  120    0 8c Th
+skeleton  959028485 10 10 f   -     -     -         7764    0    0 
+skeleton  959028560  9  8 f   -     -     -         7764    0    0 
+skeleton  959028611 10  8 f   -     -     -         7764    0    0 
+skeleton  959028652 10  7 f   -     -     -         7764    0    0 
+skeleton  959028720  8  4 f   -     -     -         7764    0    0 
+skeleton  959028767  8  3 f   -     -     -         7764    0    0 
+skeleton  959028871  6  2 Bf  -     -     -         7764   20    0 
+skeleton  959028954  7  1 Bc  kf    -     -         7744   20    0 
+skeleton  959029008  7  7 c   KQ    -     -         7724   20    0 
+skeleton  959042642  7  5 f   -     -     -         7704    0    0 
+skeleton  959042702  7  4 f   -     -     -         7704    0    0 
+skeleton  959042743  7  2 Bk  kf    -     -         7704   20    0 
+skeleton  959042780  7  1 Br  bc    bc    kc        7684  220    0 3h Ah
+skeleton  959042844  7  7 r   b     -     -         7464   60  110 
+skeleton  959042880  7  6 f   -     -     -         7514    0    0 
+skeleton  959043012  7  5 f   -     -     -         7514    0    0 
+skeleton  959043046  7  4 r   b     b     k         7514  100  290 6c 9c
+skeleton  959043079  7  3 r   bc    kf    -         7704   80    0 
+skeleton  959043114  7  2 Bc  kf    -     -         7624   40    0 
+skeleton  959043155  8  1 Bf  -     -     -         7584   10    0 
+skeleton  959043229  8  8 cc  b     b     b         7574  140    0 8s Ah
+skeleton  959043342  8  7 f   -     -     -         7434    0    0 
+skeleton  959043418  7  5 r   -     -     -         7434   40   70 
+skeleton  959043446  7  4 f   -     -     -         7464    0    0 
+skeleton  959043499  7  3 f   -     -     -         7464    0    0 
+skeleton  959043565  7  2 Bc  kcc   bc    k         7464  160    0 7d Ad
+skeleton  959043648  8  1 Bf  -     -     -         7304   10    0 
+skeleton  959043672 10 10 c   k     f     -         7294   40    0 
+skeleton  959043728 10  9 f   -     -     -         7254    0    0 
+skeleton  959043780 10  8 f   -     -     -         7254    0    0 
+skeleton  959043861 10  7 cc  kc    k     bc        7254  140    0 Ac 8d
+skeleton  959043916 10  6 r   bc    kc    b         7114  160  370 
+skeleton  959043986 10  5 c   r     -     -         7324   60  130 
+skeleton  959044011 10  4 f   -     -     -         7394    0    0 
+skeleton  959044041 10  3 r   bc    bc    br        7394  280    0 Jc Jd
+skeleton  959044125 10  2 Bk  b     -     -         7114   40  100 
+skeleton  959044175 10  1 Bc  kc    kf    -         7174   60    0 
+skeleton  959044250 10 10 f   -     -     -         7114    0    0 
+skeleton  959044340 10  9 f   -     -     -         7114    0    0 
+skeleton  959044419 10  8 f   -     -     -         7114    0    0 
+skeleton  959044473 10  7 f   -     -     -         7114    0    0 
+skeleton  959044550 10  6 f   -     -     -         7114    0    0 
+skeleton  959044612 10  5 f   -     -     -         7114    0    0 
+skeleton  959044697 10  4 f   -     -     -         7114    0    0 
+skeleton  959044748 10  3 f   -     -     -         7114    0    0 
+skeleton  959044803 10  2 Bk  k     b     -         7114   60  100 
+skeleton  959044847 10  1 Bf  -     -     -         7154   10    0 
+skeleton  959044877 10 10 f   -     -     -         7144    0    0 
+skeleton  959044941 10  9 f   -     -     -         7144    0    0 
+skeleton  959044980 10  8 f   -     -     -         7144    0    0 
+skeleton  959045019 10  7 f   -     -     -         7144    0    0 
+skeleton  959045084 10  6 f   -     -     -         7144    0    0 
+skeleton  959045103 10  5 f   -     -     -         7144    0    0 
+skeleton  959045165 10  4 f   -     -     -         7144    0    0 
+skeleton  959045217 10  3 f   -     -     -         7144    0    0 
+skeleton  959045244 10  2 Bc  b     b     bc        7144  180    0 Th 5h
+skeleton  959045317 10  1 Br  b     b     b         6964  140    0 As Qc
+skeleton  959045351 10 10 f   -     -     -         6824    0    0 
+skeleton  959045391 10  9 f   -     -     -         6824    0    0 
+skeleton  959045461 10  8 fQ  -     -     -         6824    0    0 
+skeleton  959110070  5  2 Bk  b     bc    kf        6824  120    0 
+skeleton  959110100  5  1 Bc  k     k     k         6704   20    0 5c Qh
+skeleton  959110132  5  5 f   -     -     -         6684    0    0 
+skeleton  959110157  5  4 rc  f     -     -         6684   80    0 
+skeleton  959110201  6  3 f   -     -     -         6604    0    0 
+skeleton  959110233  6  2 Bk  b     b     k         6604   80    0 3c 8s
+skeleton  959110275  6  1 Bf  -     -     -         6524   10    0 
+skeleton  959110316  6  6 c   k     k     f         6514   20    0 
+skeleton  959110363  6  5 c   c     b     bc        6494  180    0 Qd Jh
+skeleton  959110406  6  4 r   r     c     k         6314  120  310 Jc Jd
+skeleton  959110448  6  3 rc  k     k     b         6504  100  240 
+skeleton  959110493  6  2 B   -     -     -         6644   20   30 
+skeleton  959110508  6  1 Br  k     k     b         6654   80  180 Qh Ks
+skeleton  959110541  7  7 f   -     -     -         6754    0    0 
+skeleton  959110588  8  7 c   kf    -     -         6754   20    0 
+skeleton  959110643  8  6 f   -     -     -         6734    0    0 
+skeleton  959110675  9  5 r   k     k     r         6734  120  250 Js Jh
+skeleton  959110731  9  4 f   -     -     -         6864    0    0 
+skeleton  959110809 10  4 r   b     bc    k         6864  140    0 Th Ad
+skeleton  959110904  9  2 BKQ -     -     -         6724   20    0 
+skeleton  959120291  9  7 c   k     f     -         6704   40    0 
+skeleton  959120320  9  6 f   -     -     -         6664    0    0 
+skeleton  959120376  8  5 f   -     -     -         6664    0    0 
+skeleton  959120422  8  4 r   b     -     -         6664   60  120 
+skeleton  959120451  8  3 f   -     -     -         6724    0    0 
+skeleton  959120511  9  2 Bk  kc    b     -         6724   80  130 
+skeleton  959120550 10  1 Bf  -     -     -         6774   10    0 
+skeleton  959120593 10 10 f   -     -     -         6764    0    0 
+skeleton  959120723 10  9 f   -     -     -         6764    0    0 
+skeleton  959120770 10  8 f   -     -     -         6764    0    0 
+skeleton  959120792 10  7 f   -     -     -         6764    0    0 
+skeleton  959120845 10  6 f   -     -     -         6764    0    0 
+skeleton  959120905 10  5 f   -     -     -         6764    0    0 
+skeleton  959120952 10  4 f   -     -     -         6764    0    0 
+skeleton  959121017 10  3 r   b     kc    b         6764  140    0 Ah Jc
+skeleton  959121167  9  2 Bk  k     kc    kf        6624   60    0 
+skeleton  959121205 10  1 Bc  b     bf    Q         6564   80    0 
+skeleton  959199279  3  2 Bk  b     -     -         6484   40   60 
+skeleton  959199290  3  1 Bc  kf    -     -         6504   20    0 
+skeleton  959199312  3  3 f   -     -     -         6484    0    0 
+skeleton  959199325  3  2 B   -     -     -         6484   20   30 
+skeleton  959199329  3  1 Bc  b     -     -         6494   40   60 
+skeleton  959199343  3  3 f   -     -     -         6514    0    0 
+skeleton  959199355  3  2 B   -     -     -         6514   20   30 
+skeleton  959199363  3  1 Bc  kf    -     -         6524   20    0 
+skeleton  959199385  3  3 f   -     -     -         6504    0    0 
+skeleton  959199388  3  2 Bc  kf    -     -         6504   40    0 
+skeleton  959199412  3  1 Br  b     b     -         6464  100  180 
+skeleton  959199425  3  3 f   -     -     -         6544    0    0 
+skeleton  959199433  3  2 Bk  k     k     b         6544   60   80 
+skeleton  959199457  3  1 Br  b     -     -         6564   60  100 
+skeleton  959199471  3  3 f   -     -     -         6604    0    0 
+skeleton  959199489  3  2 B   -     -     -         6604   20   30 
+skeleton  959199494  3  1 Bf  -     -     -         6614   10    0 
+skeleton  959199502  3  3 c   k     b     b         6604  100  105 7c Jc
+skeleton  959199522  3  2 Bk  c     c     r         6609  160  320 9h 5h
+skeleton  959199548  3  1 Br  b     b     b         6769  140  300 Kh Qd
+skeleton  959199572  3  3 f   -     -     -         6929    0    0 
+skeleton  959199607  3  2 B   -     -     -         6929   20   30 
+skeleton  959199611  3  1 Bc  k     k     b         6939   60    0 Ah Ad
+skeleton  959199651  3  3 r   -     -     -         6879   40   70 
+skeleton  959199659  3  2 Bk  k     b     b         6909  100  180 
+skeleton  959199690  3  1 Bc  k     k     k         6989   20   60 Jh Td
+skeleton  959199745  3  3 f   -     -     -         7029    0    0 
+skeleton  959199770  3  2 B   -     -     -         7029   20   30 
+skeleton  959199777  3  1 Br  b     -     -         7039   60  100 
+skeleton  959199787  3  3 f   -     -     -         7079    0    0 
+skeleton  959199796  3  2 B   -     -     -         7079   20   30 
+skeleton  959199801  3  1 Bc  kf    -     -         7089   20    0 
+skeleton  959199824  3  3 f   -     -     -         7069    0    0 
+skeleton  959199849  3  2 B   -     -     -         7069   20   30 
+skeleton  959199853  3  1 Bf  -     -     -         7079   10    0 
+skeleton  959199857  3  3 r   b     -     -         7069   60  110 
+skeleton  959199881  3  2 B   -     -     -         7119   20   30 
+skeleton  959199888  3  1 Bf  -     -     -         7129   10    0 
+skeleton  959199895  3  3 r   b     b     -         7119  100  170 
+skeleton  959199918  3  2 Bk  f     -     -         7189   20    0 
+skeleton  959199932  3  1 Bc  kf    -     -         7169   20    0 
+skeleton  959199952  3  3 r   b     c     r         7149  180  370 3d Kd
+skeleton  959199986  3  2 B   -     -     -         7339   20   30 
+skeleton  959199995  3  1 Bcf -     -     -         7349   20    0 
+skeleton  959200005  3  3 f   -     -     -         7329    0    0 
+skeleton  959200041  3  2 B   -     -     -         7329   20   30 
+skeleton  959200048  3  1 Br  b     b     b         7339  140  260 
+skeleton  959200069  3  3 r   k     b     k         7459   80    0 Jc Ks
+skeleton  959200100  3  2 B   -     -     -         7379   20   30 
+skeleton  959200110  3  1 Brc bc    k     bc        7389  180    0 Kh Js
+skeleton  959200143  3  3 c   c     c     b         7209  120  210 
+skeleton  959200201  3  2 Bk  k     b     -         7299   60   80 
+skeleton  959200240  3  1 Bc  k     kf    -         7319   20    0 
+skeleton  959200275  3  3 r   -     -     -         7299   40   70 
+skeleton  959200283  3  2 Bk  b     k     k         7329   40    0 5s Qd
+skeleton  959200314  3  1 Bf  -     -     -         7289   10    0 
+skeleton  959200320  3  3 f   -     -     -         7279    0    0 
+skeleton  959200323  3  2 Bk  kf    -     -         7279   20    0 
+skeleton  959200357  3  1 Bc  k     b     -         7259   60   80 
+skeleton  959200377  3  3 f   -     -     -         7279    0    0 
+skeleton  959200386  3  2 B   -     -     -         7279   20   30 
+skeleton  959200391  3  1 Bf  -     -     -         7289   10    0 
+skeleton  959200420  3  3 f   -     -     -         7279    0    0 
+skeleton  959200442  3  2 Bk  kf    -     -         7279   20    0 
+skeleton  959200456  3  1 Bf  -     -     -         7259   10    0 
+skeleton  959200470  3  3 f   -     -     -         7249    0    0 
+skeleton  959200479  3  2 Bk  b     k     b         7249   80  120 
+skeleton  959200501  3  1 Br  b     b     b         7289  140    0 8h 8c
+skeleton  959200518  3  3 f   -     -     -         7149    0    0 
+skeleton  959200548  4  2 Bk  kf    -     -         7149   20    0 
+skeleton  959200566  4  1 Bc  b     b     -         7129   80  140 
+skeleton  959200586  4  4 c   cc    c     c         7189  160    0 As Ac
+skeleton  959200622  4  3 f   -     -     -         7029    0    0 
+skeleton  959200633  4  2 Bf  -     -     -         7029   20    0 
+skeleton  959200643  4  1 Br  b     b     -         7009  100  160 
+skeleton  959200672  4  4 c   b     b     b         7069  120  240 
+skeleton  959200712  4  3 f   -     -     -         7189    0    0 
+skeleton  959200716  4  2 Bk  k     k     b         7189   60    0 7h Js
+skeleton  959200741  3  1 Bf  -     -     -         7129   10    0 
+skeleton  959200759  3  3 c   k     b     -         7119   60   90 
+skeleton  959200779  3  2 Bk  k     f     -         7149   20    0 
+skeleton  959200793  3  1 Br  b     b     k         7129  100    0 9s Ac
+skeleton  959200815  3  3 f   -     -     -         7029    0    0 
+skeleton  959200822  3  2 Bc  bc    kc    b         7029  160    0 Tc 8c
+skeleton  959200846  3  1 Bf  -     -     -         6869   10    0 
+skeleton  959200853  3  3 Q   -     -     -         6859    0    0 
+skeleton  959211884 10  3 r   b     k     c         6859  100    0 8h 9h
+skeleton  959211926 10  2 Bk  b     bcc   kf        6759  160    0 
+skeleton  959212001 10  1 Bf  -     -     Q         6599   10    0 
+skeleton  959213718  9  6 r   -     -     -         6589   40   70 
+skeleton  959213736  9  5 f   -     -     -         6619    0    0 
+skeleton  959213785  9  4 KQ  -     -     -         6619    0    0 
+skeleton  959283397  8  6 f   -     -     -         6619    0    0 
+skeleton  959283466  9  5 f   -     -     -         6619    0    0 
+skeleton  959283499  9  4 f   -     -     -         6619    0    0 
+skeleton  959283528  9  3 f   -     -     -         6619    0    0 
+skeleton  959283556  9  2 Bf  -     -     -         6619   20    0 
+skeleton  959283593  9  1 Bc  kf    -     -         6599   20    0 
+skeleton  959283629  9  9 f   -     -     -         6579    0    0 
+skeleton  959283656  9  8 c   r     b     k         6579  100    0 As 5h
+skeleton  959283696  9  7 f   -     -     -         6479    0    0 
+skeleton  959283741  9  6 f   -     -     -         6479    0    0 
+skeleton  959283803  9  5 f   -     -     -         6479    0    0 
+skeleton  959283871  9  4 f   -     -     -         6479    0    0 
+skeleton  959283924  9  3 rc  kr    b     k         6479  140  310 7c Ac
+skeleton  959283964  9  2 Bf  Q     -     -         6649   20    0 
+skeleton  959284253  7  2 BfQ -     -     -         6629   20    0 
+skeleton  959288760  8  4 f   -     -     -         6609    0    0 
+skeleton  959288785  8  3 f   -     -     -         6609    0    0 
+skeleton  959288814  8  2 Bk  bc    b     bc        6609  180  235 Ts 9c
+skeleton  959288867  7  1 Br  -     -     -         6664   40   60 
+skeleton  959288878  7  7 f   -     -     -         6684    0    0 
+skeleton  959288924  8  6 cc  k     k     c         6684   80    0 Ad 4c
+skeleton  959288969  8  5 f   -     -     -         6604    0    0 
+skeleton  959289022  8  4 f   -     -     -         6604    0    0 
+skeleton  959289059  8  3 f   -     -     -         6604    0    0 
+skeleton  959289104  8  2 Bf  -     -     -         6604   20    0 
+skeleton  959289153  7  1 Br  bf    -     -         6584   60    0 
+skeleton  959289179  7  7 f   -     -     -         6524    0    0 
+skeleton  959289230  7  6 f   -     -     -         6524    0    0 
+skeleton  959289283  7  5 f   -     -     -         6524    0    0 
+skeleton  959289341  8  5 f   -     -     -         6524    0    0 
+skeleton  959289387  8  4 c   k     kf    -         6524   20    0 
+skeleton  959289437  8  3 r   b     bc    kf        6504  140    0 
+skeleton  959289482  7  2 Bk  kf    -     -         6364   20    0 
+skeleton  959289495  7  1 Bc  kc    k     k         6344   40    0 3h 8s
+skeleton  959289551  7  7 f   -     Q     -         6304    0    0 
+skeleton  959628028 10 10 f   -     -     -         6304    0    0 
+skeleton  959628071 10  9 f   -     -     -         6304    0    0 
+skeleton  959628141 10  8 f   -     -     -         6304    0    0 
+skeleton  959628150 10  7 f   -     -     -         6304    0    0 
+skeleton  959628163 10  6 f   -     -     -         6304    0    0 
+skeleton  959628220 10  5 f   -     -     -         6304    0    0 
+skeleton  959628261 10  4 f   -     -     -         6304    0    0 
+skeleton  959628281 10  3 f   -     -     -         6304    0    0 
+skeleton  959628334 10  2 Bc  bc    k     k         6304   80    0 4c 5c
+skeleton  959628403 10  1 Bf  -     -     -         6224   10    0 
+skeleton  959628454 10 10 KQ  -     -     -         6214    0    0 
+skeleton  959714262  8  4 f   -     -     -         6214    0    0 
+skeleton  959714295  8  3 f   -     -     -         6214    0    0 
+skeleton  959714342  8  2 Bk  kc    kr    b         6214  160    0 3s 5s
+skeleton  959714398  8  1 Bf  -     -     -         6054   10    0 
+skeleton  959714431  8  8 c   f     -     -         6044   40    0 
+skeleton  959714475  8  7 f   -     -     -         6004    0    0 
+skeleton  959714498  8  6 cc  f     -     -         6004   40    0 
+skeleton  959714539  9  5 f   -     -     -         5964    0    0 
+skeleton  959714558  9  4 f   -     -     -         5964    0    0 
+skeleton  959714597  9  3 f   -     -     -         5964    0    0 
+skeleton  959714619 10  2 Bk  bc    kc    kc        5964  140    0 5h Td
+skeleton  959714659 10  1 Bc  kf    -     -         5824   20    0 
+skeleton  959714695 10 10 f   -     -     -         5804    0    0 
+skeleton  959714767  9  8 f   -     -     -         5804    0    0 
+skeleton  959714803  8  6 r   r     b     b         5804  160  230 Jd As
+skeleton  959714852  9  6 c   b     b     c         5874  140  490 As Ac
+skeleton  959714916  9  5 f   -     -     -         6224    0    0 
+skeleton  959714965  9  4 f   -     -     -         6224    0    0 
+skeleton  959714999  9  3 rc  rc    k     c         6224  160    0 Kh Qh
+skeleton  959715074  8  1 Bk  kf    -     -         6064   20    0 
+skeleton  959715130 10  1 Bf  -     -     -         6044   10    0 
+skeleton  959715177 10 10 f   -     -     -         6034    0    0 
+skeleton  959715222 10  9 f   -     -     -         6034    0    0 
+skeleton  959715244 10  8 f   -     -     -         6034    0    0 
+skeleton  959715314 10  7 f   -     -     -         6034    0    0 
+skeleton  959715334 10  6 f   -     -     -         6034    0    0 
+skeleton  959715378 10  5 f   -     -     -         6034    0    0 
+skeleton  959715404 10  4 f   -     -     -         6034    0    0 
+skeleton  959715459 10  3 f   -     -     -         6034    0    0 
+skeleton  959715490 10  2 Bf  -     -     -         6034   20    0 
+skeleton  959715575 10  1 Br  -     -     -         6014   40   60 
+skeleton  959715590 10 10 c   c     k     b         6034  100    0 Qs Ts
+skeleton  959715625 10  9 f   -     -     -         5934    0    0 
+skeleton  959715663 10  8 f   -     -     -         5934    0    0 
+skeleton  959715697 10  7 f   -     -     -         5934    0    0 
+skeleton  959715723 10  6 f   -     -     -         5934    0    0 
+skeleton  959715805 10  5 f   -     -     -         5934    0    0 
+skeleton  959715869 10  4 c   k     f     Q         5934   40    0 
+skeleton  959733285 10  6 f   -     -     -         5894    0    0 
+skeleton  959733316 10  5 ccc f     -     -         5894   80    0 
+skeleton  959733431 10  4 f   -     -     -         5814    0    0 
+skeleton  959733468  9  3 f   -     -     -         5814    0    0 
+skeleton  959733541  9  2 Bc  bc    kc    b         5814  160  370 Td 6h
+skeleton  959733595  9  1 Brc bc    k     bc        6024  200  680 Ts Ac
+skeleton  959733693  9  9 c   r     k     c         6504  120  350 Ts Ks
+skeleton  959733759 10  8 f   -     -     -         6734    0    0 
+skeleton  959733826 10  7 cc  f     -     -         6734   40    0 
+skeleton  959733886 10  6 r   bc    kf    -         6694   80    0 
+skeleton  959733929 10  5 c   c     rc    c         6614  200  470 Tc Qd
+skeleton  959733980 10  4 f   -     -     -         6884    0    0 
+skeleton  959734042  9  2 Bc  kf    -     -         6884   40    0 
+skeleton  959734116 10  1 Bf  -     -     -         6844   10    0 
+skeleton  959734168  9  9 c   f     -     -         6834   20    0 
+skeleton  959734247  8  7 f   -     -     -         6814    0    0 
+skeleton  959734301  8  6 rc  kf    Q     -         6814   60    0 
+skeleton  959736903 10  8 f   -     -     -         6754    0    0 
+skeleton  959736933 10  7 f   -     -     -         6754    0    0 
+skeleton  959736973 10  6 f   -     -     -         6754    0    0 
+skeleton  959737028 10  5 f   -     -     Q         6754    0    0 

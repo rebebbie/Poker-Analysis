@@ -1,0 +1,616 @@
+mippi     957536427  4  2 Bk  k     k     k          327   10   30 2d Ks
+mippi     957536443  5  1 Bf  -     -     -          347    5    0 
+mippi     957536450  5  5 f   -     -     -          342    0    0 
+mippi     957536458  5  4 c   k     k     k          342   10   40 9c Ad
+mippi     957536478  5  3 f   -     -     -          372    0    0 
+mippi     957536494  5  2 Bc  c     k     k          372   30   60 9d 9s
+mippi     957536509  4  1 Bf  -     -     -          402    5    0 
+mippi     957536517  4  4 c   k     k     k          397   10    0 Tc 9s
+mippi     957536534  4  3 c   c     k     k          387   20   50 Th As
+mippi     957536558  4  2 B   -     -     -          417   10   15 
+mippi     957536570  4  1 Bf  -     -     -          422    5    0 
+mippi     957536587  4  4 f   -     -     -          417    0    0 
+mippi     957536593  4  3 c   r     b     k          417   50  115 Ks Td
+mippi     957536614  5  2 Bk  cc    k     cf         482   50    0 
+mippi     957536643  4  1 Bf  -     -     -          432    5    0 
+mippi     957536649  4  4 c   k     b     -          427   30   45 
+mippi     957536667  4  3 c   r     k     c          442   50    0 As Js
+mippi     957536685  4  2 Bc  kf    -     -          392   20    0 
+mippi     957536701  4  1 Bc  kf    -     -          372   20    0 
+mippi     957536715  4  4 f   -     -     -          352    0    0 
+mippi     957536718  4  3 c   c     k     r          352   60  180 9c Qs
+mippi     957536740  4  2 Bf  -     -     -          472   10    0 
+mippi     957536746  4  1 Bc  kf    -     -          462   10    0 
+mippi     957536758  4  4 c   f     -     -          452   20    0 
+mippi     957536770  4  3 f   -     -     -          432    0    0 
+mippi     957536785  4  2 Bc  f     -     -          432   20    0 
+mippi     957536795  4  1 Bc  kf    -     -          412   10    0 
+mippi     957536807  4  4 c   c     c     f          402   50    0 
+mippi     957536820  4  3 c   k     b     -          352   30   50 
+mippi     957536835  4  2 Bk  kc    kf    -          372   20    0 
+mippi     957536858  4  1 Bc  kf    -     -          352   10    0 
+mippi     957536867  4  4 c   f     -     -          342   20    0 
+mippi     957536873  4  3 c   c     k     k          322   20   50 5s Ks
+mippi     957536886  4  2 Bf  -     -     -          352   10    0 
+mippi     957536900  4  1 Bc  b     -     -          342   20   30 
+mippi     957536911  4  4 c   k     k     k          352   10    0 8c Ac
+mippi     957536923  4  3 c   k     c     f          342   30    0 
+mippi     957536938  4  2 Bc  kc    k     kr         312   70  125 
+mippi     957536960  4  1 Bf  -     -     -          367    5    0 
+mippi     957536964  4  4 f   -     -     -          362    0    0 
+mippi     957536973  4  3 cc  kc    kc    bc         362   90    0 Ad 6d
+mippi     957536997  4  2 B   -     -     -          272   10   15 
+mippi     957537002  4  1 Bc  k     k     k          277   10   20 7s As
+mippi     957537013  4  4 c   r     k     b          287   60  135 Td Th
+mippi     957537033  3  3 f   -     -     -          362    0    0 
+mippi     957537045  3  2 Bc  c     k     k          362   30   60 8d Qh
+mippi     957537060  3  1 Bc  kf    -     -          392   10    0 
+mippi     957537072  3  3 f   -     -     -          382    0    0 
+mippi     957537083  3  2 Bk  f     -     -          382   10    0 
+mippi     957537092  3  1 Bc  k     kc    kf         372   30    0 
+mippi     957537108  3  3 c   c     c     f          342   40    0 
+mippi     957537123  4  2 Bc  kf    -     -          302   20    0 
+mippi     957537139  4  1 Bc  k     k     k          282   10   20 Ts 5s
+mippi     957537150  4  4 f   -     -     -          292    0    0 
+mippi     957537160  4  3 cc  f     -     -          292   20    0 
+mippi     957537175  4  2 Bc  b     -     -          272   30   55 
+mippi     957537184  5  1 Bc  kc    kc    kf         297   50    0 
+mippi     957537224  7  7 f   -     -     -          247    0    0 
+mippi     957537239  7  6 c   k     k     c          247   30    0 Ad 8s
+mippi     957537264  7  5 cc  kc    kf    -          217   50    0 
+mippi     957537303  7  4 c   f     -     -          167   10    0 
+mippi     957537323  7  3 f   -     -     -          157    0    0 
+mippi     957537355  7  2 Bc  kc    kc    kc         157   70  145 Kc Kh
+mippi     957537383  7  1 Bc  k     k     k          232   20   50 Qc Qh
+mippi     957537408  5  5 f   -     -     -          262    0    0 
+mippi     957537421  5  5 c   f     -     -          262   20    0 
+mippi     957537445  5  4 f   -     -     -          242    0    0 
+mippi     957537462  5  3 cc  kc    k     b          242   50  115 As Ks
+mippi     957537489  5  2 Bk  k     k     b          307   30   65 9c 7s
+mippi     957537517  5  1 Bc  k     k     kf         342   10    0 
+mippi     957537613  6  6 c   k     f     -          332   10    0 
+mippi     957537633  6  5 c   r     b     b          322   70  160 Qh Qs
+mippi     957537669  7  4 f   -     -     -          412    0    0 
+mippi     957537709  6  2 B   -     -     -          412   10   15 
+mippi     957537719  6  1 Bc  kf    -     -          417   20    0 
+mippi     957537747  6  6 c   k     f     -          397   20    0 
+mippi     957537765  6  5 f   -     -     -          377    0    0 
+mippi     957537782  6  4 cc  c     c     k          377   50    0 Ts Th
+mippi     957537811  6  3 c   k     f     -          327   10    0 
+mippi     957537837  7  3 f   -     -     -          317    0    0 
+mippi     957537877  7  2 Bk  f     -     -          317   10    0 
+mippi     957537935  8  1 Bf  -     -     -          307    5    0 
+mippi     957537968  7  7 c   k     k     c          302   30    0 Js 9h
+mippi     957538013  8  7 f   -     -     -          272    0    0 
+mippi     957538026  8  6 cf  -     -     -          272   20    0 
+mippi     957538062  8  5 cc  c     c     c          252   70    0 Qh Ac
+mippi     957538145  8  4 cc  kc    kc    k          182   50  115 9s Jc
+mippi     957538185  7  2 Bc  k     k     b          247   40   85 Qc Ah
+mippi     957538219  7  1 Bf  -     -     -          292    5    0 
+mippi     957538261  7  7 c   c     f     -          287   20    0 
+mippi     957538289  8  7 c   f     -     -          267   20    0 
+mippi     957538329  9  6 c   k     b     -          247   30   45 
+mippi     957538350  9  5 c   f     -     -          262   10    0 
+mippi     957538391  9  4 f   -     -     -          252    0    0 
+mippi     957538429 10  3 c   k     c     k          252   30    0 Qs 5d
+mippi     957538477 10  2 Bf  -     -     -          222   10    0 
+mippi     957538502 10  1 Bc  kc    k     kf         212   20    0 
+mippi     957538543  9  9 c   c     c     f          192   40    0 
+mippi     957538592  9  8 c   c     c     rc         152  110  365 7h Jd
+mippi     957538635  8  6 f   -     -     -          407    0    0 
+mippi     957538687  8  5 cc  kf    -     -          407   30    0 
+mippi     957538736  8  4 c   k     c     r          377   70  150 Kc Jd
+mippi     957538777  8  3 f   -     -     -          457    0    0 
+mippi     957538820  8  2 Bk  k     k     k          457   10   20 7h Ah
+mippi     957538849  9  1 Bc  k     kc    kf         467   40    0 
+mippi     957538892  9  9 c   c     c     c          427   70    0 2s Ah
+mippi     957538914  9  8 f   -     -     -          357    0    0 
+mippi     957539002  9  7 f   -     -     -          357    0    0 
+mippi     957539054  9  6 c   k     cf    -          357   50    0 
+mippi     957539106  9  5 cc  kf    -     -          307   20    0 
+mippi     957539126  9  4 cc  k     f     -          287   20    0 
+mippi     957539167  9  3 fQ  -     -     -          267    0    0 
+mippi     957588568  9  5 c   f     -     -          267   10    0 
+mippi     957588641 10  4 c   kf    -     -          257   10    0 
+mippi     957588699 10  3 c   kc    kf    -          247   30    0 
+mippi     957588755 10  2 Bf  -     -     -          217   10    0 
+mippi     957588794 10  1 Bcc kc    bc    k          207   80  270 Tc 9h
+mippi     957588871 10 10 f   -     -     -          397    0    0 
+mippi     957588906 10  9 f   -     -     -          397    0    0 
+mippi     957588971 10  8 f   -     -     -          397    0    0 
+mippi     957589013 10  7 c   f     -     -          397   10    0 
+mippi     957589107 10  6 f   -     -     -          387    0    0 
+mippi     957589159 10  5 f   -     -     -          387    0    0 
+mippi     957589191 10  4 f   -     -     -          387    0    0 
+mippi     957589287 10  4 f   -     -     -          387    0    0 
+mippi     957589383 10  2 Bc  c     c     c          387   70  200 Ah 3s
+mippi     957589462  9  1 Bf  -     -     -          517    5    0 
+mippi     957589606 10 10 c   f     -     -          512   10    0 
+mippi     957589682 10  9 c   k     c     f          502   30    0 
+mippi     957589784 10  8 f   -     -     -          472    0    0 
+mippi     957589877 10  7 c   c     c     c          472   90    0 Ah Jh
+mippi     957589917 10  6 f   -     -     -          382    0    0 
+mippi     957589975 10  5 cc  c     c     c          382   70    0 Jh Kc
+mippi     957590003 10  4 c   c     f     -          312   20    0 
+mippi     957590039  9  3 c   k     kf    -          292   10    0 
+mippi     957590085 10  2 Bk  kf    -     -          282   10    0 
+mippi     957590124  9  1 Bc  k     k     kf         272   10    0 
+mippi     957590225 10 10 c   f     -     -          262   10    0 
+mippi     957590274 10  9 c   c     f     -          252   20    0 
+mippi     957590336 10  8 c   kc    f     -          232   30    0 
+mippi     957590380 10  7 c   k     f     -          202   20    0 
+mippi     957590418 10  6 c   f     -     -          182   20    0 
+mippi     957590470 10  5 c   f     -     -          162   10    0 
+mippi     957590495 10  4 c   k     k     k          152   10    0 Js 9h
+mippi     957590541 10  3 c   f     -     -          142   10    0 
+mippi     957590565 10  2 Bf  -     -     -          132   10    0 
+mippi     957590635 10  1 Bc  kf    -     -          122   10    0 
+mippi     957590739 10 10 c   k     c     k          112   50  205 8c Jh
+mippi     957590806 10  9 c   c     c     k          267   50    0 8d 8c
+mippi     957590894 10  8 cc  f     -     -          217   20    0 
+mippi     957590986 10  7 c   k     kf    -          197   10    0 
+mippi     957591051  9  5 c   kf    -     -          187   10    0 
+mippi     957591106 10  5 cc  kc    c     k          177   50    0 Ad 3d
+mippi     957591179 10  4 c   kc    kc    kf         127   50    0 
+mippi     957591244 10  3 f   -     -     -           77    0    0 
+mippi     957591260 10  2 Bk  kf    -     -           77   10    0 
+mippi     957591378 10  1 Bc  kf    -     -           67   10    0 
+mippi     957591417 10 10 c   f     -     -           57   10    0 
+mippi     957591469 10  9 c   c     c     f           47   40    0 
+mippi     957591538 10  8 cA  -     -     -            7    7   47 8c Td
+mippi     957591585 10  7 f   -     -     -           47    0    0 
+mippi     957591641 10  6 f   -     -     -           47    0    0 
+mippi     957591706 10  5 f   -     -     -           47    0    0 
+mippi     957591759 10  4 cc  f     -     -           47   40    0 
+mippi     957591833 10  3 f   -     -     -            7    0    0 
+mippi     957591870 10  2 BA  -     -     -            7    7    0 Ac 8s
+mippi     957627088  2  1 Bf  -     -     -         1270    5    0 
+mippi     957627093  2  2 Bf  -     -     -         1265   10    0 
+mippi     957627101  2  1 Bc  kc    k     kf        1255   20    0 
+mippi     957627133  2  2 Bk  k     r     k         1235   50  100 Jh 9h
+mippi     957627164  2  1 Bc  b     b     b         1285   60  120 3c Ac
+mippi     957627195  2  2 Bk  k     k     k         1345   10    0 8s 9s
+mippi     957627220  3  1 Bc  k     k     kf        1335   10    0 
+mippi     957627248  3  3 cc  b     k     b         1325   50   90 
+mippi     957627318  3  2 Bk  kf    -     -         1365   10    0 
+mippi     957627338  3  1 Bc  b     k     k         1355   20   40 Ad 5d
+mippi     957627361  3  3 c   k     k     k         1375   10    0 6c Qh
+mippi     957627393  4  3 c   k     k     b         1365   30   60 
+mippi     957627452  4  2 Bk  b     -     -         1395   20   35 
+mippi     957627467  4  1 Bc  kcf   -     -         1410   20    0 
+mippi     957627506  4  4 f   -     -     -         1390    0    0 
+mippi     957627567  4  3 cc  c     c     k         1390   50  105 4s Ks
+mippi     957627592  4  2 Bf  -     -     -         1445   10    0 
+mippi     957627621  4  1 Bf  -     -     -         1435    5    0 
+mippi     957627653  4  4 f   -     -     -         1430    0    0 
+mippi     957627749  3  2 Bk  k     k     b         1430   30   50 
+mippi     957627810  3  1 Bc  k     k     k         1450   10   30 6c Jd
+mippi     957627834  3  3 c   f     -     -         1470   10    0 
+mippi     957627851  3  2 Bk  k     c     c         1460   50  100 Js 2d
+mippi     957627877  3  1 Bc  k     k     k         1510   10    0 Ks 5h
+mippi     957627894  2  2 B   -     -     -         1500   10   15 
+mippi     957627895  2  1 Bf  -     -     -         1505    5    0 
+mippi     957627900  2  2 B   -     -     -         1500   10   15 
+mippi     957627904  2  1 Bc  k     k     k         1505   10    0 5h Tc
+mippi     957627924  2  2 B   -     -     -         1495   10   15 
+mippi     957627928  2  1 Bf  -     -     -         1500    5    0 
+mippi     957627931  2  2 B   -     -     -         1495   10   15 
+mippi     957627933  2  1 Bc  k     k     k         1500   10    0 Kh Ks
+mippi     957627954  2  2 B   -     -     -         1490   10   15 
+mippi     957627958  2  1 Bc  k     k     b         1495   30   40 
+mippi     957627973  2  2 B   -     -     -         1505   10   15 
+mippi     957627975  2  1 B   -     -     -         1510    5   15 
+mippi     957795345  5  2 Bk  -     -     -         1520   10   20 
+mippi     957795355  4  1 Bc  bc    kc    bc        1530  100  210 7d 7c
+mippi     957795377  4  4 c   c     k     b         1640   40   75 
+mippi     957795410  4  3 cc  f     -     -         1675   20    0 
+mippi     957795436  5  3 f   -     -     -         1655    0    0 
+mippi     957795463  5  2 Bk  k     kf    -         1655   10    0 
+mippi     957795480  5  1 Bc  k     kc    kf        1645   30    0 
+mippi     957795498  5  5 c   c     c     c         1615   60    0 Ah 6d
+mippi     957795511  5  4 c   k     c     f         1555   30    0 
+mippi     957795546  5  3 c   c     r     b         1525   80  180 Jh Qh
+mippi     957795583  5  2 Bf  -     -     -         1625   10    0 
+mippi     957795600  5  1 Bf  -     -     -         1615    5    0 
+mippi     957795614  5  5 c   c     c     f         1610   40    0 
+mippi     957795646  5  4 f   -     -     -         1570    0    0 
+mippi     957795670  5  3 c   f     -     -         1570   10    0 
+mippi     957795686  5  2 Bc  f     -     -         1560   20    0 
+mippi     957795701  5  1 Bc  kf    -     -         1540   20    0 
+mippi     957795719  5  5 f   -     -     -         1520    0    0 
+mippi     957795737  5  4 f   -     -     -         1520    0    0 
+mippi     957795768  6  3 cc  c     c     b         1520   70  190 7d As
+mippi     957795805  6  2 Bf  -     -     -         1640   10    0 
+mippi     957795835  6  1 Bf  -     -     -         1630    5    0 
+mippi     957795860  7  7 f   -     -     -         1625    0    0 
+mippi     957795913  7  6 cc  cc    kc    kf        1625   80    0 
+mippi     957795963  7  4 c   f     -     -         1545   20    0 
+mippi     957796020  7  3 f   -     -     -         1525    0    0 
+mippi     957796090  7  2 Bk  kf    -     -         1525   10    0 
+mippi     957796125  8  1 Bf  -     -     -         1515    5    0 
+mippi     957796147  9  9 f   -     -     -         1510    0    0 
+mippi     957796170  9  8 cc  k     k     f         1510   20    0 
+mippi     957796233  9  7 c   k     f     -         1490   10    0 
+mippi     957796263  9  6 f   -     -     -         1480    0    0 
+mippi     957796315  9  5 c   kf    -     -         1480   20    0 
+mippi     957796352  9  4 c   f     -     -         1460   10    0 
+mippi     957796394  9  4 cc  cc    kc    kf        1450   60    0 
+mippi     957796461  8  2 Bf  -     -     -         1390   10    0 
+mippi     957796499  7  1 Bc  k     k     k         1380   10    0 4d 5d
+mippi     957796526  7  7 f   -     -     -         1370    0    0 
+mippi     957796587  7  6 cc  c     c     c         1370   70  200 Jc 8s
+mippi     957796616  7  5 c   f     -     -         1500   20    0 
+mippi     957796639  6  4 c   k     k     f         1480   10    0 
+mippi     957796663  6  3 f   -     -     -         1470    0    0 
+mippi     957796682  6  2 Bk  kf    -     -         1470   10    0 
+mippi     957796709  7  1 Bc  kc    k     kc        1460   70    0 Js Jc
+mippi     957796753  7  7 f   -     -     -         1390    0    0 
+mippi     957796772  7  6 f   -     -     -         1390    0    0 
+mippi     957796802  7  5 c   c     c     c         1390   70    0 Qd Jc
+mippi     957796835  7  4 cc  kf    -     -         1320   30    0 
+mippi     957796923  7  3 f   -     -     -         1290    0    0 
+mippi     957796951  7  2 Bf  -     -     -         1290   10    0 
+mippi     957796974  7  1 Bc  k     kc    kf        1280   30    0 
+mippi     957797016  6  6 c   c     c     c         1250   60    0 3c Ks
+mippi     957797035  6  5 f   -     -     -         1190    0    0 
+mippi     957797070  6  4 c   kf    -     -         1190   10    0 
+mippi     957797089  6  3 f   -     -     -         1180    0    0 
+mippi     957797113  6  2 Bk  c     f     -         1180   20    0 
+mippi     957797135  6  1 Bc  k     kc    k         1160   30    0 8c 4h
+mippi     957797163  6  6 c   k     f     -         1130   10    0 
+mippi     957797188  6  5 c   c     f     -         1120   20    0 
+mippi     957797230  6  4 c   kf    -     -         1100   10    0 
+mippi     957797253  6  3 c   k     kf    -         1090   10    0 
+mippi     957797317  5  2 Bk  kf    -     -         1080   10    0 
+mippi     957797352  5  1 Bf  -     -     -         1070    5    0 
+mippi     957797370  5  5 f   -     -     -         1065    0    0 
+mippi     957797378  5  4 c   k     k     k         1065   10    0 6h Js
+mippi     957797401  5  3 c   b     -     -         1055   20   45 
+mippi     957797414  5  2 Bk  k     k     k         1080   10    0 6s Qh
+mippi     957797428  5  1 Bc  kf    -     -         1070   10    0 
+mippi     957797456  5  5 c   k     k     r         1060   50   57 Ac 6c
+mippi     957797474  4  3 c   k     k     k         1067   10    0 Qc 5h
+mippi     957797501  4  2 Bk  k     f     -         1057   10    0 
+mippi     957797517  4  1 Bf  -     -     -         1047    5    0 
+mippi     957797533  5  5 c   k     c     f         1042   30    0 
+mippi     957797564  4  3 c   b     b     b         1012   60  125 Ts Td
+mippi     957797595  6  4 f   -     -     -         1077    0    0 
+mippi     957797626  6  3 cc  kf    -     -         1077   20    0 
+mippi     957797654  6  2 Bf  -     -     -         1057   10    0 
+mippi     957797665  6  1 Bc  kc    b     -         1047   40   80 
+mippi     957797695  6  6 f   -     -     -         1087    0    0 
+mippi     957797714  6  5 c   f     -     -         1087   10    0 
+mippi     957797753  8  4 f   -     -     -         1077    0    0 
+mippi     957797821  6  3 c   k     k     k         1077   10   35 Jh 8h
+mippi     957797851  6  2 Bk  kf    -     -         1102   10    0 
+mippi     957797891  6  1 Bf  -     -     -         1092    5    0 
+mippi     957797945  6  6 c   f     -     -         1087   10    0 
+mippi     957797995  6  5 c   c     c     c         1077   60    0 Qh As
+mippi     957798021  6  4 cf  -     -     -         1017   10    0 
+mippi     957798065  6  3 cc  kc    kc    k         1007   50    0 5s Kc
+mippi     957798110  6  2 Bf  -     -     -          957   10    0 
+mippi     957798146  6  1 Bc  kc    b     k          947   40  180 9c 6c
+mippi     957798196  5  5 cc  -     -     -         1087   20   45 2d Kc
+mippi     957798212  4  3 c   b     -     -         1112   20   40 
+mippi     957798235  4  3 c   k     f     -         1132   10    0 
+mippi     957798267  3  1 Bc  kc    kf    -         1122   30    0 
+mippi     957798287  3  1 Bcc kf    -     -         1092   20    0 
+mippi     957798312  3  3 f   -     -     -         1072    0    0 
+mippi     957798318  3  2 Bk  c     c     f         1072   40    0 
+mippi     957798338  3  1 Bc  b     bc    kc        1032   80    0 As Kh
+mippi     957798366  3  3 r   -     -     -          952   20   35 
+mippi     957798372  3  2 Bk  k     k     b          967   30   45 
+mippi     957798393  3  1 Bc  kf    -     -          982   20    0 
+mippi     957798418  4  4 cc  c     c     c          962   70  150 8c Ad
+mippi     957798445  4  3 cc  kc    kc    k         1042   50   58 Qs Jd
+mippi     957798476  4  2 B   -     -     -         1050   10   15 
+mippi     957798484  4  1 Bf  -     -     -         1055    5    0 
+mippi     957798509  4  4 c   k     k     k         1050   10   25 7d Th
+mippi     957798539  3  3 f   -     -     -         1065    0    0 
+mippi     957798547  3  2 B   -     -     -         1065   10   15 
+mippi     957798554  3  1 Bc  k     kc    kc        1070   50  100 Kd 2s
+mippi     957798584  3  3 c   k     r     k         1120   50    0 4d Ad
+mippi     957798624  4  2 Bk  kf    -     -         1070   10    0 
+mippi     957798642  4  1 Bc  k     kf    -         1060   20    0 
+mippi     957798682  4  4 c   f     -     -         1040   10    0 
+mippi     957798714  4  3 c   f     -     -         1030   10    0 
+mippi     957798743  4  2 Bk  kc    k     k         1020   20   45 4h Kh
+mippi     957798767  4  1 Bc  kf    -     -         1045   10    0 
+mippi     957798788  3  3 c   k     k     k         1035   10   30 Qc 6s
+mippi     957798815  4  2 Bk  kf    -     -         1055   10    0 
+mippi     957798845  4  1 Bf  -     -     -         1045    5    0 
+mippi     957798850  4  4 f   -     -     -         1040    0    0 
+mippi     957798857  4  3 c   f     -     -         1040   10    0 
+mippi     957798868  4  2 B   -     -     -         1030   10   15 
+mippi     957798874  4  1 Bf  -     -     -         1035    5    0 
+mippi     957798902  4  4 c   k     k     b         1030   30   45 
+mippi     957798922  4  3 cc  kf    -     -         1045   20    0 
+mippi     957798937  4  2 Bk  c     b     -         1025   40   60 
+mippi     957798954  5  1 Bc  kf    -     -         1045   10    0 
+mippi     957798973  5  5 f   -     -     -         1035    0    0 
+mippi     957798990  5  4 f   -     -     -         1035    0    0 
+mippi     957799010  5  3 c   c     c     b         1035   60  145 
+mippi     957799052  5  2 Bk  kf    -     -         1120   10    0 
+mippi     957799079  4  1 Bf  -     -     -         1110    5    0 
+mippi     957799104  4  4 c   k     c     k         1105   30    0 6s Kc
+mippi     957799136  4  3 c   k     k     k         1075   10   25 As Qd
+mippi     957799170  3  2 B   -     -     -         1090   10   15 
+mippi     957799174  3  1 Bc  kc    kc    k         1095   40    0 Ks 9h
+mippi     957799194  4  3 c   k     f     -         1055   10    0 
+mippi     957799229  4  2 Bk  kc    kc    kf        1045   40    0 
+mippi     957799265  4  1 Bf  -     -     -         1005    5    0 
+mippi     957799307  5  5 f   -     -     -         1000    0    0 
+mippi     957799363  5  4 c   f     -     -         1000   10    0 
+mippi     957799392  5  3 c   f     -     -          990   10    0 
+mippi     957799426  5  2 Bk  kf    -     -          980   10    0 
+mippi     957799467  7  1 Bc  kc    kc    k          970   50    0 9s 7s
+mippi     957799520  7  7 f   -     -     -          920    0    0 
+mippi     957799601  7  4 Q   -     -     -          920    0    0 
+mippi     958142353  4  3 cc  c     r     b          983   90  230 7c Kh
+mippi     958142386  4  2 Bk  kc    kc    k         1123   40   85 Jc Jh
+mippi     958142413  4  1 Bf  -     -     -         1168    5    0 
+mippi     958142435  4  4 cc  c     f     -         1163   30    0 
+mippi     958142454  4  3 c   k     k     b         1133   30   65 Kh Th
+mippi     958142479  4  2 Bk  kf    -     -         1168   10    0 
+mippi     958142512  4  1 Bf  -     -     -         1158    5    0 
+mippi     958142530  4  4 f   -     -     -         1153    0    0 
+mippi     958143058  2  2 Brf -     -     -         1168   30    0 
+mippi     958143101  2  1 BQ  -     -     -         1138    5    0 
+mippi     958833563  5  3 c   f     -     -          200   10    0 
+mippi     958833597  6  2 Bk  c     c     k          190   40    0 Ks 4h
+mippi     958833620  6  1 Bc  kf    -     -          150   10    0 
+mippi     958833664  6  6 c   k     c     f          140   30    0 
+mippi     958833704  6  5 cc  f     -     -          110   20    0 
+mippi     958833732  6  4 cc  f     -     -           90   20    0 
+mippi     958833837  6  3 cc  f     -     -           70   30    0 
+mippi     958833872  6  2 Bk  k     k     k           40   10   35 8h Kh
+mippi     958833899  5  1 Bf  -     -     -           65    5    0 
+mippi     958833928  5  5 f   -     -     -           60    0    0 
+mippi     958833959  5  4 cc  f     -     -           60   20    0 
+mippi     958833997  5  3 cc  f     -     -           40   30    0 
+mippi     958834024  5  2 BA  -     -     -           10   10    0 9d 9s
+mippi     958915311  3  2 Bk  k     k     kf         763   10    0 
+mippi     958915345  4  1 Bc  k     kf    -          753   10    0 
+mippi     958915377  4  4 c   k     f     -          743   10    0 
+mippi     958915396  5  3 f   -     -     -          733    0    0 
+mippi     958915419  4  2 Bk  k     k     b          733   30   80 2s Th
+mippi     958915445  4  1 Bc  k     k     k          783   10   30 Ks 2c
+mippi     958915473  4  4 c   c     f     -          803   20    0 
+mippi     958915503  4  3 f   -     -     -          783    0    0 
+mippi     958915530  4  2 Bk  k     k     c          783   30    0 Jh Js
+mippi     958915560  4  1 Bc  kf    -     -          753   20    0 
+mippi     958915580  4  4 c   k     f     -          733   10    0 
+mippi     958915624  4  3 c   k     k     k          723   10    0 Jd 4c
+mippi     958915642  4  2 Bc  kc    k     kc         713   50   75 Tc Ah
+mippi     958915676  4  1 Bf  -     -     -          738    5    0 
+mippi     958915691  4  4 f   -     -     -          733    0    0 
+mippi     958915713  4  3 c   kf    -     -          733   10    0 
+mippi     958915739  4  2 Bk  k     k     k          723   10   25 Tc Kd
+mippi     958915757  4  1 Bf  -     -     -          738    5    0 
+mippi     958915785  4  4 cc  f     -     -          733   20    0 
+mippi     958915799  4  3 f   -     -     -          713    0    0 
+mippi     958915812  5  2 Bk  k     k     k          713   10    0 Jh 5c
+mippi     958915852  5  1 Bc  kf    -     -          703   10    0 
+mippi     958915876  5  5 f   -     -     -          693    0    0 
+mippi     958915941  5  4 f   -     -     -          693    0    0 
+mippi     958915968  5  3 f   -     -     -          693    0    0 
+mippi     958915993  5  2 Bk  k     k     f          693   10    0 
+mippi     958916016  6  1 Bc  k     k     kf         683   10    0 
+mippi     958916050  7  7 c   f     -     -          673   10    0 
+mippi     958916075  7  6 c   c     k     k          663   20    0 5h 5s
+mippi     958916118  7  5 f   -     -     -          643    0    0 
+mippi     958916163  7  4 f   -     -     -          643    0    0 
+mippi     958916188  7  3 c   kc    k     k          643   20   90 As 8c
+mippi     958916223  7  2 Bf  -     -     -          713   10    0 
+mippi     958916248  7  1 Bc  bc    kc    k          703   60  210 4s Js
+mippi     958916294  7  7 f   -     -     -          853    0    0 
+mippi     958916371  7  6 ccc c     c     f          853   80    0 
+mippi     958916430  7  6 cc  c     cc    c          773  140    0 Jc Ts
+mippi     958916502  6  4 f   -     -     -          633    0    0 
+mippi     958916555  4  3 f   -     -     -          633    0    0 
+mippi     958916579  3  2 Bk  kc    kf    -          633   20    0 
+mippi     958916603  3  1 Bc  kc    kc    kf         613   40    0 
+mippi     958916639  3  3 c   k     k     f          573   10    0 
+mippi     958916664  3  2 Bk  k     kf    -          563   10    0 
+mippi     958916681  3  1 Bc  k     b     b          553   50   90 
+mippi     958916705  3  3 f   -     -     -          593    0    0 
+mippi     958916729  3  2 Bk  k     kc    kf         593   30    0 
+mippi     958916749  3  1 Bf  -     -     -          563    5    0 
+mippi     958916755  3  3 f   -     -     -          558    0    0 
+mippi     958916770  3  2 Bk  k     k     k          558   10    0 2h 5s
+mippi     958916789  3  1 Bc  k     k     k          548   10    0 Td 4h
+mippi     958916815  3  3 c   b     b     b          538   60  130 Ts Tc
+mippi     958916841  3  2 Bk  k     k     k          608   10   25 Ad 3c
+mippi     958916859  3  1 Bc  k     k     k          623   10    0 2c Tc
+mippi     958916879  2  2 f   -     -     -          613    0    0 
+mippi     958916885  2  2 Bk  k     k     c          613   30    0 8c 9h
+mippi     958916903  2  1 Bc  k     b     -          583   30   40 
+mippi     958916922  2  2 Bk  k     k     c          593   30    0 2s Qc
+mippi     958916942  2  1 Bc  k     k     kf         563   10    0 
+mippi     958916964  2  2 B   -     -     -          553   10   15 
+mippi     958916974  2  1 Bc  k     k     kf         558   10    0 
+mippi     958916995  2  2 Bk  k     k     r          548   50  100 Jd 7d
+mippi     958917015  2  1 Bc  k     k     kf         598   10    0 
+mippi     958917040  2  2 B   -     -     -          588   10   15 
+mippi     958917044  2  1 Bc  k     k     k          593   10    0 2s Jh
+mippi     958917062  2  2 Bk  k     k     b          583   30   60 Kd 5s
+mippi     958917084  2  1 Bf  -     -     -          613    5    0 
+mippi     958917089  2  2 B   -     -     -          608   10   15 
+mippi     958917093  2  1 Bf  -     -     -          613    5    0 
+mippi     958917096  2  2 Bk  k     k     f          608   10    0 
+mippi     958917115  2  1 Bf  -     -     -          598    5    0 
+mippi     958917119  2  2 Bk  k     k     k          593   10   20 3d 9s
+mippi     958917135  2  1 Bc  k     k     k          603   10    0 6d 9h
+mippi     958917159  3  2 Bk  kc    kf    -          593   20    0 
+mippi     958917208  3  1 Bc  k     k     b          573   30   70 4c 2c
+mippi     958917235  3  3 f   -     -     -          613    0    0 
+mippi     958917260  3  2 Bk  k     k     k          613   10   25 6h 8c
+mippi     958917289  3  1 Bc  kf    -     -          628   10    0 
+mippi     958917306  3  3 c   k     f     -          618   10    0 
+mippi     958917336  3  2 Bk  kf    -     -          608   10    0 
+mippi     958917353  3  1 Bc  k     b     k          598   30   70 6s Ad
+mippi     958917379  3  3 c   k     k     k          638   10   30 Qc 4c
+mippi     958917412  3  2 Bk  k     kf    -          658   10    0 
+mippi     958917439  3  1 Bc  k     k     b          648   30   40 
+mippi     958917457  3  3 c   f     -     -          658   10    0 
+mippi     958917473  3  2 Bk  k     k     k          648   10   25 Jh 8c
+mippi     958917500  3  1 Bc  kf    -     -          663   10    0 
+mippi     958917521  4  3 c   kc    kf    -          653   20    0 
+mippi     958917557  4  2 Bf  -     -     -          633   10    0 
+mippi     958917593  4  1 Bc  kc    kf    -          623   20    0 
+mippi     958917631  6  6 f   -     -     -          603    0    0 
+mippi     958917674  7  6 c   f     -     -          603   10    0 
+mippi     958917714  7  5 f   -     -     -          593    0    0 
+mippi     958917755  6  3 c   c     f     -          593   20    0 
+mippi     958917804  5  2 Bk  k     k     k          573   10   30 8h 8s
+mippi     958917832  5  1 Bf  -     -     -          593    5    0 
+mippi     958917856  5  5 c   c     c     f          588   40    0 
+mippi     958917884  5  4 f   -     -     -          548    0    0 
+mippi     958917916  5  3 cc  c     k     kf         548   30    0 
+mippi     958917976  6  2 Bk  kc    kc    kf         518   40    0 
+mippi     958918012  6  1 Bc  k     k     b          478   30   80 Qs 8d
+mippi     958918040  6  6 f   -     -     -          528    0    0 
+mippi     958918064  6  5 c   k     k     k          528   10   45 Th Ah
+mippi     958918097  7  4 f   -     -     -          563    0    0 
+mippi     958918140  7  3 cc  kc    bc    brc        563  150    0 Jc Ks
+mippi     958918198  7  2 Bf  -     -     -          413   10    0 
+mippi     958918253  7  1 Bc  kf    -     -          403   10    0 
+mippi     958918317  9  9 f   -     -     -          393    0    0 
+mippi     958918367  9  8 f   -     -     -          393    0    0 
+mippi     958918401  9  7 f   -     -     -          393    0    0 
+mippi     958918439  9  6 f   -     -     -          393    0    0 
+mippi     958918508  9  5 cc  f     -     -          393   20    0 
+mippi     958918559  9  4 c   k     k     k          373   10   65 9c Tc
+mippi     958918684  9  3 c   kc    kc    kf         428   40    0 
+mippi     958918770  9  2 BQ  -     -     -          388   10    0 
+mippi     958918939 10  4 c   kf    -     -          378   10    0 
+mippi     958919023 10  3 cc  bc    c     cc         368  100    0 9s 9c
+mippi     958919094 10  2 Bf  -     -     -          268   10    0 
+mippi     958919195  9  1 Bc  kc    b     k          258   50    0 7h 7d
+mippi     958919252  8  8 f   -     -     -          208    0    0 
+mippi     958919302  9  8 c   k     k     f          208   20    0 
+mippi     958919341  9  7 c   kf    -     -          188   10    0 
+mippi     958919376  8  5 c   kc    kc    kf         178   40    0 
+mippi     958919424  8  4 f   -     -     -          138    0    0 
+mippi     958919460  8  3 cc  k     k     k          138   20  100 Ts Js
+mippi     958919525  8  2 Bk  k     k     kf         218   10    0 
+mippi     958919556  8  1 Bf  -     -     -          208    5    0 
+mippi     958919574  8  8 c   k     f     -          203   10    0 
+mippi     958919613  8  7 c   k     kc    k          193   30   80 Jd Ad
+mippi     958919653  7  5 c   f     -     -          243   10    0 
+mippi     958919695  7  4 c   k     k     kf         233   10    0 
+mippi     958919728  7  3 c   k     k     k          223   10   35 8s Kh
+mippi     958919759  7  2 Bk  kc    k     kf         248   20    0 
+mippi     958919792  7  1 Bf  -     -     -          228    5    0 
+mippi     958919823  7  7 f   -     -     -          223    0    0 
+mippi     958919861  7  6 c   kf    -     -          223   10    0 
+mippi     958919900  7  5 f   -     -     -          213    0    0 
+mippi     958919976  9  7 c   kf    -     -          213   10    0 
+mippi     958920009  8  5 f   -     -     -          203    0    0 
+mippi     958920027  8  4 c   kc    kf    -          203   20    0 
+mippi     958920067  8  3 c   k     k     k          183   10   35 Jd Ts
+mippi     958920120  9  2 B   -     -     -          208   10   15 
+mippi     958920136  9  1 Bc  kf    -     -          213   10    0 
+mippi     958920167 10 10 f   -     -     -          203    0    0 
+mippi     958920228 10  9 f   -     -     -          203    0    0 
+mippi     958920301 10  8 c   f     -     -          203   10    0 
+mippi     958920339 10  7 cc  c     c     f          193   50    0 
+mippi     958920405 10  6 cc  kf    -     -          143   20    0 
+mippi     958920491 10  5 f   -     -     -          123    0    0 
+mippi     958920558 10  4 f   -     -     -          123    0    0 
+mippi     958920621 10  3 f   -     -     -          123    0    0 
+mippi     958920685 10  2 Bk  kf    -     -          123   10    0 
+mippi     958920729 10  1 Bf  -     -     -          113    5    0 
+mippi     958920764 10 10 c   k     k     k          108   10   22 Jh Ah
+mippi     958920801 10  9 c   k     f     -          120   20    0 
+mippi     958920852 10  8 c   c     k     k          100   20    0 Qh 2s
+mippi     958920897 10  7 c   k     kf    -           80   10    0 
+mippi     958920986 10  6 c   k     c     f           70   40    0 
+mippi     958921028 10  5 cc  f     -     -           30   20    0 
+mippi     958921086  9  3 f   -     -     -           10    0    0 
+mippi     958921111 10  2 BA  -     -     -           10   10    0 Js Kh
+mippi     958922505  8  7 f   -     -     -         1000    0    0 
+mippi     958922526  8  6 f   -     -     -         1000    0    0 
+mippi     958922559  8  5 cc  f     -     -         1000   20    0 
+mippi     958922591  8  4 c   kf    -     -          980   10    0 
+mippi     958922627  8  3 f   -     -     -          970    0    0 
+mippi     958922644  9  3 c   kf    -     -          970   10    0 
+mippi     958922682  9  2 Bk  k     b     -          960   30   40 
+mippi     958922706  9  1 Bc  kc    kf    -          970   20    0 
+mippi     958922745  9  9 c   k     b     -          950   30   65 
+mippi     958922781  9  8 f   -     -     -          985    0    0 
+mippi     958922825  9  7 f   -     -     -          985    0    0 
+mippi     958922882  9  6 c   c     k     b          985   40   75 
+mippi     958922928  8  4 c   c     c     f         1020   40    0 
+mippi     958922977  8  3 f   -     -     -          980    0    0 
+mippi     958923005  8  2 Bk  kc    kc    kf         980   40    0 
+mippi     958923046  9  1 Bc  kf    -     -          940   10    0 
+mippi     958923107 10 10 f   -     -     -          930    0    0 
+mippi     958923145 10  9 f   -     -     -          930    0    0 
+mippi     958923220 10  8 f   -     -     -          930    0    0 
+mippi     958923245 10  7 c   kf    -     -          930   10    0 
+mippi     958923278 10  6 c   k     k     f          920   10    0 
+mippi     958923318 10  5 c   k     f     -          910   10    0 
+mippi     958923359 10  4 c   f     -     -          900   10    0 
+mippi     958923416 10  3 c   kf    -     -          890   10    0 
+mippi     958923461 10  2 Bk  kc    kc    k          880   40    0 Kd 8h
+mippi     958923514 10  1 Bc  bc    kc    kc         840   80  400 8c 8d
+mippi     958923595  9  9 c   c     k     b         1160   40   85 
+mippi     958923637  8  7 c   b     -     -         1205   20   35 
+mippi     958923649  8  7 f   -     -     -         1220    0    0 
+mippi     958923664  6  4 c   k     k     k         1220   10    0 Js 7c
+mippi     958923692  5  3 c   kf    -     -         1210   10    0 
+mippi     958923732  4  2 Bk  kf    -     -         1200   10    0 
+mippi     958923767  4  1 Bc  kf    -     -         1190   10    0 
+mippi     958923805  4  4 f   -     -     -         1180    0    0 
+mippi     958923832  4  3 c   k     c     k         1180   30    0 2d Ac
+mippi     958923864  4  2 Bf  -     -     -         1150   10    0 
+mippi     958923876  4  1 Bf  -     -     -         1140    5    0 
+mippi     958923891  4  4 f   -     -     -         1135    0    0 
+mippi     958923906  4  3 f   -     -     -         1135    0    0 
+mippi     958923929  4  2 Bk  kf    -     -         1135   10    0 
+mippi     958923967  5  1 Bc  k     k     k         1125   10   40 As 8h
+mippi     958924010  5  5 f   -     -     -         1155    0    0 
+mippi     958924101  4  3 f   -     -     -         1155    0    0 
+mippi     958924142  4  2 Bk  k     k     k         1155   10   20 8h Jc
+mippi     958924162  4  1 Bc  k     kf    -         1165   10    0 
+mippi     958924224  3  3 c   k     k     k         1155   10   12 Td 6s
+mippi     958924243  4  2 Bc  k     b     -         1157   40   65 
+mippi     958924264  4  1 Bc  kc    bc    k         1182   60   60 Jc 4c
+mippi     958924287  4  4 c   f     -     -         1182   10    0 
+mippi     958924312  4  3 c   b     kc    kf        1172   40    0 
+mippi     958924343  4  2 Bk  f     -     -         1132   10    0 
+mippi     958924367  4  1 Bc  k     kc    kf        1122   30    0 
+mippi     958924397  4  4 cc  k     c     c         1092   60    0 8d Qc
+mippi     958924422  4  3 f   -     -     -         1032    0    0 
+mippi     958924445  4  2 Bk  k     k     k         1032   10    0 Js 5d
+mippi     958924474  4  1 Bf  -     -     -         1022    5    0 
+mippi     958924481  4  4 f   -     -     -         1017    0    0 
+mippi     958924507  4  3 f   -     -     -         1017    0    0 
+mippi     958924537  4  2 Bf  -     -     -         1017   10    0 
+mippi     958924567  4  1 Bc  kc    kc    k         1007   40    0 Jc Ts
+mippi     958924596  4  4 c   c     k     f          967   20    0 
+mippi     958924630  5  3 c   k     k     kf         947   10    0 
+mippi     958924671  5  2 Bk  k     kc    kf         937   30    0 
+mippi     958924710  5  1 Bc  kc    kf    -          907   20    0 
+mippi     958924737  6  6 c   f     -     -          887   10    0 
+mippi     958924764  6  5 cc  kf    -     -          877   20    0 
+mippi     958924826  8  6 c   f     -     -          857   10    0 
+mippi     958924887  7  5 cc  k     f     -          847   20    0 
+mippi     958924945  7  4 c   k     c     f          827   30    0 
+mippi     958924989  7  3 cc  k     k     kf         797   20    0 
+mippi     958925025  7  2 Bk  k     k     k          777   10    0 7h 2c
+mippi     958925061  7  1 Bc  k     b     b          767   50  110 
+mippi     958925116  8  8 cc  c     c     c          827   80  150 4d As
+mippi     958925165  7  6 c   c     f     -          897   20    0 
+mippi     958925196  6  5 c   c     k     c          877   50  150 As Ts
+mippi     958925227  6  4 c   f     -     -          977   10    0 
+mippi     958925248  6  3 c   c     c     f          967   40    0 
+mippi     958925282  7  2 Bc  kf    -     -          927   20    0 
+mippi     958925302  6  1 Bc  kc    kf    -          907   20    0 
+mippi     958925340  6  6 f   -     -     -          887    0    0 
+mippi     958925369  7  6 c   r     b     b          887   80  250 Jc Kd
+mippi     958925402  7  5 cc  c     kc    kc        1057   70    0 Ac Ah
+mippi     958925473  6  4 f   -     -     -          987    0    0 
+mippi     958925524  7  3 cc  kc    kc    kf         987   50    0 
+mippi     958925582  8  2 Bc  kfQ   -     -          937   20    0 

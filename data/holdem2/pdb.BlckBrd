@@ -1,0 +1,251 @@
+BlckBrd   958202391 10  4 f   -     -     -         2541    0    0 
+BlckBrd   958202434 10  3 f   -     -     -         2541    0    0 
+BlckBrd   958202467 10  2 Bf  -     -     -         2541   20    0 
+BlckBrd   958202541 10  1 Bc  k     b     -         2521   60  100 
+BlckBrd   958202568 10 10 f   -     -     -         2561    0    0 
+BlckBrd   958202622 10  9 f   -     -     -         2561    0    0 
+BlckBrd   958202680 10  8 f   -     -     -         2561    0    0 
+BlckBrd   958202736 10  7 cc  c     f     -         2561   60    0 
+BlckBrd   958202770 10  6 f   -     -     -         2501    0    0 
+BlckBrd   958202817 10  5 f   -     -     -         2501    0    0 
+BlckBrd   958202887 10  4 f   -     -     -         2501    0    0 
+BlckBrd   958202978 10  3 cc  kc    k     f         2501   60    0 
+BlckBrd   958203033 10  2 Bk  kc    k     k         2441   40    0 Qd Ac
+BlckBrd   958203093 10  1 Bf  -     -     -         2401   10    0 
+BlckBrd   958203191 10 10 c   k     k     k         2391   20    0 Kd 6h
+BlckBrd   958203239 10  9 c   k     f     -         2371   20    0 
+BlckBrd   958203312 10  8 c   f     -     -         2351   40    0 
+BlckBrd   958203384 10  7 f   -     -     -         2311    0    0 
+BlckBrd   958203437  9  5 f   -     -     -         2311    0    0 
+BlckBrd   958203490  9  4 c   k     kf    -         2311   20    0 
+BlckBrd   958203554  9  3 f   -     -     -         2291    0    0 
+BlckBrd   958203593  9  2 Bf  -     -     -         2291   20    0 
+BlckBrd   958203626  9  1 Bf  -     -     -         2271   10    0 
+BlckBrd   958203680  9  9 f   -     -     -         2261    0    0 
+BlckBrd   958203739  9  8 f   -     -     -         2261    0    0 
+BlckBrd   958203756 10  8 cc  f     -     -         2261   60    0 
+BlckBrd   958203822 10  7 f   -     -     -         2201    0    0 
+BlckBrd   958203902  9  6 f   -     -     -         2201    0    0 
+BlckBrd   958203994  9  5 f   -     -     -         2201    0    0 
+BlckBrd   958204062  9  4 f   -     -     -         2201    0    0 
+BlckBrd   958204135  9  3 f   -     -     -         2201    0    0 
+BlckBrd   958204218  9  2 Bk  kf    -     -         2201   20    0 
+BlckBrd   958204287  9  1 Bf  -     -     -         2181   10    0 
+BlckBrd   958204333  9  8 f   -     -     -         2171    0    0 
+BlckBrd   958204366  9  8 f   -     -     -         2171    0    0 
+BlckBrd   958204403  9  7 f   -     -     -         2171    0    0 
+BlckBrd   958204431  9  6 cc  k     kf    -         2171   40    0 
+BlckBrd   958204488 10  5 f   -     -     -         2131    0    0 
+BlckBrd   958204536 10  4 c   kf    -     -         2131   20    0 
+BlckBrd   958204601  9  3 f   -     -     -         2111    0    0 
+BlckBrd   958204659 10  2 Bf  -     -     -         2111   20    0 
+BlckBrd   958204722 10  1 Bf  -     -     -         2091   10    0 
+BlckBrd   958204787  9  9 c   b     r     b         2081  160  350 Ac 8c
+BlckBrd   958204831  8  7 rc  b     bc    k         2271  180  460 Ac Ad
+BlckBrd   958204894 10  7 f   -     -     -         2551    0    0 
+BlckBrd   958204943 10  6 f   -     -     -         2551    0    0 
+BlckBrd   958204989 10  5 c   kc    kf    -         2551   60    0 
+BlckBrd   958205041 10  4 f   -     -     -         2491    0    0 
+BlckBrd   958205074 10  3 f   -     -     -         2491    0    0 
+BlckBrd   958205130 10  2 Bk  k     b     -         2491   60   80 
+BlckBrd   958205158 10  1 Bc  k     kf    -         2511   20    0 
+BlckBrd   958205198 10 10 f   -     -     -         2491    0    0 
+BlckBrd   958205230 10  9 f   -     -     -         2491    0    0 
+BlckBrd   958205268 10  8 f   -     -     -         2491    0    0 
+BlckBrd   958205301 10  7 f   -     -     -         2491    0    0 
+BlckBrd   958205310 10  6 c   k     k     k         2491   20    0 9d Qd
+BlckBrd   958205346 10  5 c   k     f     -         2471   20    0 
+BlckBrd   958205368 10  4 cc  kc    k     k         2451   60    0 3c Ad
+BlckBrd   958205401 10  3 f   -     -     -         2391    0    0 
+BlckBrd   958205466 10  2 Bf  -     -     -         2391   20    0 
+BlckBrd   958205508 10  1 Bf  -     -     -         2371   10    0 
+BlckBrd   958205576 10 10 f   -     -     -         2361    0    0 
+BlckBrd   958205644 10  9 c   k     f     -         2361   20    0 
+BlckBrd   958205711 10  8 c   bc    k     k         2341   60    0 7d Ah
+BlckBrd   958205758 10  7 f   -     -     -         2281    0    0 
+BlckBrd   958205778 10  6 cc  b     k     k         2281   60  290 Ts Jd
+BlckBrd   958205845 10  5 f   -     -     -         2511    0    0 
+BlckBrd   958205863 10  4 f   -     -     -         2511    0    0 
+BlckBrd   958205911 10  3 cc  bc    kc    kf        2511  140    0 
+BlckBrd   958205977 10  2 Bk  kc    kf    -         2371   40    0 
+BlckBrd   958206015 10  1 Bc  b     b     -         2331  100  180 
+BlckBrd   958206043 10 10 c   r     r     b         2411  220  630 9c Ks
+BlckBrd   958206086 10  9 c   k     k     b         2821   60  110 
+BlckBrd   958206128 10  8 c   k     k     k         2871   20   22 Js 9s
+BlckBrd   958206165 10  7 cc  kf    -     -         2873   60    0 
+BlckBrd   958206217 10  6 f   -     -     -         2813    0    0 
+BlckBrd   958206278  9  5 c   b     b     b         2813  120  360 Th 9c
+BlckBrd   958206333  9  3 f   -     -     -         3053    0    0 
+BlckBrd   958206368  9  2 Bk  k     kf    -         3053   20    0 
+BlckBrd   958206398  9  1 Bc  kf    -     -         3033   20    0 
+BlckBrd   958206462  9  9 f   -     -     -         3013    0    0 
+BlckBrd   958206512  9  8 f   -     -     -         3013    0    0 
+BlckBrd   958206562  9  7 c   b     b     k         3013   80    0 Tc Qs
+BlckBrd   958206614  8  7 f   -     -     -         2933    0    0 
+BlckBrd   958206628  7  5 f   -     -     -         2933    0    0 
+BlckBrd   958206690  7  4 f   -     -     -         2933    0    0 
+BlckBrd   958206730  7  3 c   k     k     k         2933   20    0 6h 5c
+BlckBrd   958206755  7  2 Bk  f     -     -         2913   20    0 
+BlckBrd   958206831  6  1 Bf  -     -     -         2893   10    0 
+BlckBrd   958206851  7  7 c   c     f     -         2883   40    0 
+BlckBrd   958206903  7  6 f   -     -     -         2843    0    0 
+BlckBrd   958206960  7  5 c   c     f     -         2843   40    0 
+BlckBrd   958206989  7  4 f   -     -     -         2803    0    0 
+BlckBrd   958207017  7  3 f   -     -     -         2803    0    0 
+BlckBrd   958207078  7  2 Bk  k     k     kf        2803   20    0 
+BlckBrd   958207130  7  1 Bf  -     -     -         2783   10    0 
+BlckBrd   958207157  7  7 f   -     -     -         2773    0    0 
+BlckBrd   958207174  7  3 Q   -     -     -         2773    0    0 
+BlckBrd   958284916  9  4 f   -     -     -         2833    0    0 
+BlckBrd   958284950  8  2 Bk  k     k     k         2833   20   70 Ah Tc
+BlckBrd   958284975  8  1 Bf  -     -     -         2883   10    0 
+BlckBrd   958285006  8  8 f   -     -     -         2873    0    0 
+BlckBrd   958285023  8  7 f   -     -     -         2873    0    0 
+BlckBrd   958285043  8  6 f   -     -     -         2873    0    0 
+BlckBrd   958285096  8  5 cc  b     bc    kc        2873  180    0 9d Kd
+BlckBrd   958285138  8  4 cc  c     c     b         2693  140  295 8c Ah
+BlckBrd   958285229  7  3 c   b     b     b         2848  120  250 
+BlckBrd   958285288  8  2 Bk  k     kf    -         2978   20    0 
+BlckBrd   958285319  8  1 Bc  k     k     k         2958   20   20 7h Jh
+BlckBrd   958285350  8  8 f   -     -     -         2958    0    0 
+BlckBrd   958285372  8  7 c   k     f     -         2958   20    0 
+BlckBrd   958285409  8  6 c   f     -     -         2938   20    0 
+BlckBrd   958285454  8  5 f   -     -     -         2918    0    0 
+BlckBrd   958285482  8  4 f   -     -     -         2918    0    0 
+BlckBrd   958285490  8  3 f   -     -     -         2918    0    0 
+BlckBrd   958285547  8  2 Bk  c     f     -         2918   40    0 
+BlckBrd   958285577  8  1 Bf  -     -     -         2878   10    0 
+BlckBrd   958285618  8  8 f   -     -     -         2868    0    0 
+BlckBrd   958285653  7  6 f   -     -     -         2868    0    0 
+BlckBrd   958285681  7  5 r   b     b     -         2868  100  190 
+BlckBrd   958285702  7  4 f   -     -     -         2958    0    0 
+BlckBrd   958285715  7  3 f   -     -     -         2958    0    0 
+BlckBrd   958285752  7  2 Bk  kf    -     -         2958   20    0 
+BlckBrd   958285770  7  1 Bf  -     -     -         2938   10    0 
+BlckBrd   958285797  7  7 c   b     -     -         2928   40   90 
+BlckBrd   958285813  7  6 f   -     -     -         2978    0    0 
+BlckBrd   958285848  7  5 c   k     k     r         2978  100  220 6s 8s
+BlckBrd   958285879  6  3 f   -     -     -         3098    0    0 
+BlckBrd   958285887  6  2 Bk  k     k     k         3098   20   70 5h 6d
+BlckBrd   958285912  6  1 Bc  kf    -     -         3148   40    0 
+BlckBrd   958285934  6  6 f   -     -     -         3108    0    0 
+BlckBrd   958285959  7  6 f   -     -     -         3108    0    0 
+BlckBrd   958285966  7  5 c   k     b     -         3108   60   90 
+BlckBrd   958285985  7  4 c   b     b     b         3138  120  300 Qd Ah
+BlckBrd   958286012  7  3 f   -     -     -         3318    0    0 
+BlckBrd   958286050  7  2 B   -     -     -         3318   20   30 
+BlckBrd   958286055  7  1 Bf  -     -     -         3328   10    0 
+BlckBrd   958286079  7  7 c   k     k     k         3318   20    0 4c 6h
+BlckBrd   958286105  7  6 c   c     c     c         3298  140    0 Jc Kd
+BlckBrd   958286134  7  5 c   k     f     -         3158   20    0 
+BlckBrd   958286178  7  4 f   -     -     -         3138    0    0 
+BlckBrd   958286236  7  3 f   -     -     -         3138    0    0 
+BlckBrd   958286264  7  2 Bk  k     kf    -         3138   20    0 
+BlckBrd   958286284  7  1 Bf  -     -     -         3118   10    0 
+BlckBrd   958286306  7  7 f   -     -     -         3108    0    0 
+BlckBrd   958286328  7  6 c   f     -     -         3108   20    0 
+BlckBrd   958286372  7  5 f   -     -     -         3088    0    0 
+BlckBrd   958286392  7  4 f   -     -     -         3088    0    0 
+BlckBrd   958286415  8  4 c   b     b     b         3088  120  380 
+BlckBrd   958286466  8  3 c   b     b     k         3348   80  260 Ks Th
+BlckBrd   958286504  8  2 Bk  k     r     b         3528  140    0 8d 6c
+BlckBrd   958286544  7  1 Bf  -     -     -         3388   10    0 
+BlckBrd   958286575  7  7 c   k     b     -         3378   60   90 
+BlckBrd   958286597  6  5 f   -     -     -         3408    0    0 
+BlckBrd   958286622  6  4 f   -     -     -         3408    0    0 
+BlckBrd   958286651  6  3 fQ  -     -     -         3408    0    0 
+BlckBrd   959064705 10  5 f   -     -     -         2734    0    0 
+BlckBrd   959064779 10  4 f   -     -     -         2734    0    0 
+BlckBrd   959064861 10  3 f   -     -     -         2734    0    0 
+BlckBrd   959064924 10  2 Bk  k     kf    -         2734   20    0 
+BlckBrd   959064992 10  1 Bc  k     b     b         2714  100  220 
+BlckBrd   959065074 10 10 f   -     -     -         2834    0    0 
+BlckBrd   959065204  9  8 f   -     -     -         2834    0    0 
+BlckBrd   959065275 10  7 f   -     -     -         2834    0    0 
+BlckBrd   959065353 10  6 f   -     -     -         2834    0    0 
+BlckBrd   959065414 10  5 f   -     -     -         2834    0    0 
+BlckBrd   959065456 10  4 c   f     -     -         2834   20    0 
+BlckBrd   959065518 10  3 f   -     -     -         2814    0    0 
+BlckBrd   959065574 10  2 Bk  k     kf    -         2814   20    0 
+BlckBrd   959065624 10  1 Bf  -     -     -         2794   10    0 
+BlckBrd   959065679 10 10 f   -     -     -         2784    0    0 
+BlckBrd   959065710 10  9 f   -     -     -         2784    0    0 
+BlckBrd   959065810 10  8 f   -     -     -         2784    0    0 
+BlckBrd   959065877 10  7 f   -     -     -         2784    0    0 
+BlckBrd   959065948 10  6 f   -     -     -         2784    0    0 
+BlckBrd   959066008 10  5 cc  kc    kf    -         2784   60    0 
+BlckBrd   959066088 10  4 f   -     -     -         2724    0    0 
+BlckBrd   959066132 10  3 f   -     -     -         2724    0    0 
+BlckBrd   959066192 10  2 Bf  -     -     -         2724   20    0 
+BlckBrd   959066275 10  1 Bc  kc    kf    -         2704   40    0 
+BlckBrd   959066331 10 10 f   -     -     -         2664    0    0 
+BlckBrd   959066398 10  9 f   -     -     -         2664    0    0 
+BlckBrd   959066595  9  7 f   -     -     -         2664    0    0 
+BlckBrd   959066671  9  6 f   -     -     -         2664    0    0 
+BlckBrd   959066692  9  5 f   -     -     -         2664    0    0 
+BlckBrd   959066734 10  4 f   -     -     -         2664    0    0 
+BlckBrd   959066776 10  3 f   -     -     -         2664    0    0 
+BlckBrd   959066870 10  2 Bc  c     f     -         2664   60    0 
+BlckBrd   959066942 10  1 Bf  -     -     -         2604   10    0 
+BlckBrd   959066965 10 10 c   c     r     k         2594  140  430 4c Ah
+BlckBrd   959067030 10  9 c   c     c     f         2884   80    0 
+BlckBrd   959067093 10  8 f   -     -     -         2804    0    0 
+BlckBrd   959067124 10  7 f   -     -     -         2804    0    0 
+BlckBrd   959067201 10  6 f   -     -     -         2804    0    0 
+BlckBrd   959067236 10  5 cc  k     kf    -         2804   40    0 
+BlckBrd   959067285 10  4 f   -     -     -         2764    0    0 
+BlckBrd   959067336 10  3 f   -     -     -         2764    0    0 
+BlckBrd   959067353 10  2 Bk  f     -     -         2764   20    0 
+BlckBrd   959067395 10  1 Bc  k     kf    -         2744   20    0 
+BlckBrd   959067517 10 10 c   c     k     f         2724   60    0 
+BlckBrd   959067573 10  9 c   f     -     -         2664   20    0 
+BlckBrd   959067614 10  8 f   -     -     -         2644    0    0 
+BlckBrd   959067661 10  7 f   -     -     -         2644    0    0 
+BlckBrd   959067682 10  6 f   -     -     -         2644    0    0 
+BlckBrd   959067724 10  5 f   -     -     -         2644    0    0 
+BlckBrd   959067789 10  4 f   -     -     -         2644    0    0 
+BlckBrd   959067827 10  3 ccc kf    -     -         2644   80    0 
+BlckBrd   959067937 10  2 Bk  k     k     b         2564   60  130 8d 5h
+BlckBrd   959067978 10  1 Bc  kc    kf    -         2634   40    0 
+BlckBrd   959068034 10 10 f   -     -     -         2594    0    0 
+BlckBrd   959068073 10  9 c   k     c     k         2594   80  210 Jc Kd
+BlckBrd   959068133 10  8 f   -     -     -         2724    0    0 
+BlckBrd   959068165 10  7 c   f     -     -         2724   40    0 
+BlckBrd   959068230 10  6 cc  c     f     -         2684   60    0 
+BlckBrd   959068289 10  5 f   -     -     -         2624    0    0 
+BlckBrd   959068416 10  4 f   -     -     -         2624    0    0 
+BlckBrd   959068458 10  3 cc  k     f     -         2624   40    0 
+BlckBrd   959068526 10  2 Bk  b     b     b         2584  120    0 9h 5s
+BlckBrd   959068595 10  1 Bc  kf    -     -         2464   20    0 
+BlckBrd   959068638 10 10 f   -     -     -         2444    0    0 
+BlckBrd   959068698 10  9 c   k     f     -         2444   20    0 
+BlckBrd   959068733 10  8 f   -     -     -         2424    0    0 
+BlckBrd   959068797 10  7 f   -     -     -         2424    0    0 
+BlckBrd   959068841 10  6 f   -     -     -         2424    0    0 
+BlckBrd   959068860 10  5 f   -     -     -         2424    0    0 
+BlckBrd   959068923 10  4 f   -     -     -         2424    0    0 
+BlckBrd   959068962 10  3 f   -     -     -         2424    0    0 
+BlckBrd   959069042 10  2 Bf  -     -     -         2424   20    0 
+BlckBrd   959069079 10  1 Bc  brc   brrc  bc        2404  440    0 9h 8h
+BlckBrd   959069139 10 10 f   -     -     -         1964    0    0 
+BlckBrd   959069241 10  9 f   -     -     -         1964    0    0 
+BlckBrd   959069274 10  8 cc  k     c     k         1964   80  330 Jh Js
+BlckBrd   959069316 10  7 c   c     c     c         2214  160    0 6d Ac
+BlckBrd   959069384 10  6 c   k     f     -         2054   20    0 
+BlckBrd   959069442 10  5 f   -     -     -         2034    0    0 
+BlckBrd   959069495 10  4 f   -     -     -         2034    0    0 
+BlckBrd   959069573 10  3 f   -     -     -         2034    0    0 
+BlckBrd   959069629 10  2 Bf  -     -     -         2034   20    0 
+BlckBrd   959069656 10  1 Bc  kc    k     k         2014   40    0 7h Ah
+BlckBrd   959069717 10 10 f   -     -     -         1974    0    0 
+BlckBrd   959069780 10  9 c   k     f     -         1974   20    0 
+BlckBrd   959069835 10  8 f   -     -     -         1954    0    0 
+BlckBrd   959069896 10  7 f   -     -     -         1954    0    0 
+BlckBrd   959069952 10  6 f   -     -     -         1954    0    0 
+BlckBrd   959069994 10  5 cc  br    rr    r         1954  360 1020 Td Tc
+BlckBrd   959070057 10  4 cc  bc    b     b         2614  160  580 8d 9c
+BlckBrd   959070117  9  2 Bk  kc    kf    -         3034   40    0 
+BlckBrd   959070174 10  1 Bcc kc    kf    -         2994  120    0 
+BlckBrd   959070297 10 10 c   k     b     rrrrc     2874  420    0 6h Ah
+BlckBrd   959070384 10  9 f   -     -     -         2454    0    0 
+BlckBrd   959070426 10  8 f   Q     -     -         2454    0    0 

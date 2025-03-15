@@ -1,0 +1,89 @@
+JBclassic 958078166  3  2 Bk  k     k     k         2575   10   25 2d 9d
+JBclassic 958078195  2  1 Bc  b     k     k         2590   20   20 Jc 8d
+JBclassic 958078210  2  2 B   -     -     -         2590   10   15 
+JBclassic 958078214  2  1 Bf  -     -     -         2595    5    0 
+JBclassic 958078215  2  2 Bk  k     k     k         2590   10    0 Kc 2h
+JBclassic 958078224  3  1 Bf  -     -     -         2580    5    0 
+JBclassic 958078229  3  3 c   f     -     -         2575   10    0 
+JBclassic 958078236  3  2 Bf  -     -     -         2565   10    0 
+JBclassic 958078239  3  1 Bc  k     b     -         2555   40   80 
+JBclassic 958078249  3  3 c   f     -     -         2595   10    0 
+JBclassic 958078255  3  2 Bc  kf    -     -         2585   20    0 
+JBclassic 958078262  3  1 Bf  -     -     -         2565    5    0 
+JBclassic 958078266  3  3 f   -     -     -         2560    0    0 
+JBclassic 958078270  4  2 Bf  -     -     -         2560   10    0 
+JBclassic 958078280  4  1 Bc  kf    -     -         2550   10    0 
+JBclassic 958078301  4  4 cc  f     -     -         2540   30    0 
+JBclassic 958078326  4  3 f   -     -     -         2510    0    0 
+JBclassic 958078337  4  2 Bk  k     kf    -         2510   10    0 
+JBclassic 958078350  4  1 Bc  k     b     -         2500   30   50 
+JBclassic 958078369  4  4 f   -     -     -         2520    0    0 
+JBclassic 958078381  4  3 f   -     -     -         2520    0    0 
+JBclassic 958078389  4  2 Bk  b     k     k         2520   20   50 3d 2h
+JBclassic 958078400  4  1 Bc  kf    -     -         2550   10    0 
+JBclassic 958078414  5  5 f   -     -     -         2540    0    0 
+JBclassic 958078429  6  5 f   -     -     -         2540    0    0 
+JBclassic 958078463  9  7 c   k     cf    -         2540   30    0 
+JBclassic 958078516  8  5 f   -     -     -         2510    0    0 
+JBclassic 958078550  7  2 f   -     -     -         2510    0    0 
+JBclassic 958078583  8  3 f   -     -     -         2510    0    0 
+JBclassic 958078639  9  2 Bc  kf    -     -         2510   20    0 
+JBclassic 958078699  9  1 Bf  -     -     -         2490    5    0 
+JBclassic 958078748  9  9 f   -     -     -         2485    0    0 
+JBclassic 958078773  9  8 c   b     b     b         2485   60  140 7h Kh
+JBclassic 958078814  8  6 f   -     -     -         2565    0    0 
+JBclassic 958078864  8  5 r   b     b     k         2565   50  170 Ah Kh
+JBclassic 958078902  8  4 f   -     -     -         2685    0    0 
+JBclassic 958078930  9  3 fQ  -     -     -         2685    0    0 
+JBclassic 958139715  6  4 f   -     -     -         2685    0    0 
+JBclassic 958139741  6  3 f   -     -     -         2685    0    0 
+JBclassic 958139749  6  2 Bc  f     -     -         2685   20    0 
+JBclassic 958139772  6  1 Bf  -     -     -         2665    5    0 
+JBclassic 958139786  5  5 c   rc    c     c         2660   90    0 Qc As
+JBclassic 958139821  5  4 cc  f     -     -         2570   20    0 
+JBclassic 958139834  5  3 f   -     -     -         2550    0    0 
+JBclassic 958139845  5  2 Bc  kc    kf    -         2550   30    0 
+JBclassic 958139862  5  1 Bc  kf    -     -         2520   20    0 
+JBclassic 958139894  5  5 f   -     -     -         2500    0    0 
+JBclassic 958139918  5  4 f   -     -     -         2500    0    0 
+JBclassic 958139924  5  3 f   -     -     -         2500    0    0 
+JBclassic 958139940  5  2 Bf  -     -     -         2500   10    0 
+JBclassic 958139957  5  1 Bf  -     -     -         2490    5    0 
+JBclassic 958139963  5  5 f   -     -     -         2485    0    0 
+JBclassic 958140000  5  4 f   -     -     -         2485    0    0 
+JBclassic 958140008  5  3 f   -     -     -         2485    0    0 
+JBclassic 958140033  5  2 Bk  kf    -     -         2485   10    0 
+JBclassic 958140068  5  1 Bf  -     -     -         2475    5    0 
+JBclassic 958140073  5  5 c   k     rr    -         2470   90  165 
+JBclassic 958140095  5  4 c   k     k     f         2545   10    0 
+JBclassic 958140147  5  3 f   -     -     -         2535    0    0 
+JBclassic 958140165  5  2 Bk  kf    -     -         2535   10    0 
+JBclassic 958140201  5  1 Bc  kf    -     -         2525   10    0 
+JBclassic 958140246  5  5 c   c     f     -         2515   40    0 
+JBclassic 958140264  5  4 c   f     -     -         2475   10    0 
+JBclassic 958140276  5  3 f   -     -     -         2465    0    0 
+JBclassic 958140300  5  2 Bk  k     k     k         2465   10    0 7d Tc
+JBclassic 958140323  5  1 Bf  -     -     -         2455    5    0 
+JBclassic 958140337  5  5 c   c     c     b         2450   70  155 7s As
+JBclassic 958140360  4  4 f   -     -     -         2535    0    0 
+JBclassic 958140385  5  3 c   bc    c     c         2535   70    0 As 7d
+JBclassic 958140400  5  2 Bf  -     -     -         2465   10    0 
+JBclassic 958140419  5  1 Bf  -     -     -         2455    5    0 
+JBclassic 958140434  6  6 c   k     f     -         2450   10    0 
+JBclassic 958140457  6  5 f   -     -     -         2440    0    0 
+JBclassic 958140488  6  4 r   k     b     bc        2440   90  195 Kd Kh
+JBclassic 958140525  6  3 f   -     -     -         2545    0    0 
+JBclassic 958140577  6  2 Bk  kf    -     -         2545   10    0 
+JBclassic 958140600  6  1 Bf  -     -     -         2535    5    0 
+JBclassic 958140612  6  6 f   -     -     -         2530    0    0 
+JBclassic 958140624  6  5 c   f     -     -         2530   20    0 
+JBclassic 958140653  7  5 f   -     -     -         2510    0    0 
+JBclassic 958140678  7  4 f   -     -     -         2510    0    0 
+JBclassic 958140711  7  3 c   f     -     -         2510   10    0 
+JBclassic 958140732  7  2 Bc  cc    kf    -         2500   50    0 
+JBclassic 958140759  7  1 Bc  kc    kf    -         2450   30    0 
+JBclassic 958140814  7  7 c   f     -     -         2420   10    0 
+JBclassic 958140847  8  7 f   -     -     -         2410    0    0 
+JBclassic 958140910  8  6 cc  c     bc    f         2410   70    0 
+JBclassic 958140968  8  5 c   kc    kc    b         2340   60  120 
+JBclassic 958141008  9  5 fQ  -     -     -         2400    0    0 

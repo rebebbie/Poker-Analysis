@@ -1,0 +1,215 @@
+Tatonka   957484447 10  5 f   -     -     -         1000    0    0 
+Tatonka   957484480 10  4 f   -     -     -         1000    0    0 
+Tatonka   957484522 10  3 f   -     -     -         1000    0    0 
+Tatonka   957484554 10  2 Bf  -     -     -         1000   10    0 
+Tatonka   957484594 10  1 Bf  -     -     -          990    5    0 
+Tatonka   957484646 10 10 f   -     -     -          985    0    0 
+Tatonka   957484694 10  9 f   -     -     -          985    0    0 
+Tatonka   957484730 10  8 f   -     -     -          985    0    0 
+Tatonka   957484771 10  8 r   b     -     -          985   30   65 
+Tatonka   957484803 10  6 f   -     -     -         1020    0    0 
+Tatonka   957484852 10  5 f   -     -     -         1020    0    0 
+Tatonka   957484888 10  4 f   -     -     -         1020    0    0 
+Tatonka   957484933 10  3 f   -     -     -         1020    0    0 
+Tatonka   958111030  9  9 f   -     -     -         1070    0    0 
+Tatonka   958111088 10  9 f   -     -     -         1070    0    0 
+Tatonka   958111134 10  3 Q   -     -     -         1070    0    0 
+Tatonka   958183629  6  6 f   -     -     -         1215    0    0 
+Tatonka   958183650  6  5 r   r     b     b         1215   90    0 Ad Th
+Tatonka   958183693  6  4 f   -     -     -         1125    0    0 
+Tatonka   958183726  6  3 rr  r     k     f         1125   60    0 
+Tatonka   958183762  6  2 Bk  kf    -     -         1065   10    0 
+Tatonka   958183804  6  1 Bc  kf    -     -         1055   10    0 
+Tatonka   958183841  5  5 r   r     c     r         1045  110  345 8h Jh
+Tatonka   958183879  7  5 f   -     -     -         1280    0    0 
+Tatonka   958183954  8  3 f   -     -     -         1280    0    0 
+Tatonka   958184005  9  2 Bk  kf    -     -         1280   10    0 
+Tatonka   958184062  9  1 Bc  bc    kc    k         1270   70    0 Jd 9d
+Tatonka   958184177 10 10 c   f     -     -         1200   20    0 
+Tatonka   958184239 10  9 f   -     -     -         1180    0    0 
+Tatonka   958184336 10  8 r   k     k     r         1180   60    0 As Js
+Tatonka   958184400  9  6 f   -     -     -         1120    0    0 
+Tatonka   958184443 10  6 f   -     -     -         1120    0    0 
+Tatonka   958184489  9  4 f   -     -     -         1120    0    0 
+Tatonka   958184554  9  3 f   -     -     -         1120    0    0 
+Tatonka   958184604  9  2 Br  r     k     c         1120   60    0 Js Ks
+Tatonka   958184659  9  1 Bf  -     -     -         1060    5    0 
+Tatonka   958184728 10 10 r   bc    c     c         1055   80    0 8c 7c
+Tatonka   958184818  8  7 f   -     -     -          975    0    0 
+Tatonka   958184886  9  7 f   -     -     -          975    0    0 
+Tatonka   958184939  7  5 f   -     -     -          975    0    0 
+Tatonka   958184991  8  5 c   b     kc    kc         975   60    0 Qs Jc
+Tatonka   958185080  8  4 f   -     -     -          915    0    0 
+Tatonka   958185158  8  3 f   -     -     -          915    0    0 
+Tatonka   958185215  9  2 Bf  -     -     -          915   10    0 
+Tatonka   958185289  9  1 Br  bf    -     -          905   30    0 
+Tatonka   958185390  9  8 f   -     -     -          875    0    0 
+Tatonka   958185458  8  6 f   -     -     -          875    0    0 
+Tatonka   958185499  8  5 c   f     -     -          875   10    0 
+Tatonka   958185520  8  5 f   -     -     -          865    0    0 
+Tatonka   958185564  8  4 f   -     -     -          865    0    0 
+Tatonka   958185583  9  3 r   kc    b     b          865   70  245 Ad Jc
+Tatonka   958185637  9  2 Bk  kf    -     -         1040   10    0 
+Tatonka   958185703  9  1 Bf  -     -     -         1030    5    0 
+Tatonka   958185744 10 10 c   Q     -     -         1025   10    0 
+Tatonka   958714152  7  3 ccc cr    c     rr         485  180  550 4s 6s
+Tatonka   958714248  9  3 cc  f     -     -          855   20    0 
+Tatonka   958714322  7  1 Bf  -     -     -          835   10    0 
+Tatonka   958714413  6  1 Bc  k     kf    -          825   10    0 
+Tatonka   958714487  6  6 r   b     k     f          815   40    0 
+Tatonka   958714541  6  5 f   -     -     -          775    0    0 
+Tatonka   958714614  6  4 ccc k     k     f          775   40    0 
+Tatonka   958714678  6  3 cc  f     -     -          735   20    0 
+Tatonka   958714731  6  2 Bcc krc   kc    kc         715  120  400 Ks 7s
+Tatonka   958714851  6  1 Bcc kf    -     -          995   40    0 
+Tatonka   958714938  7  7 c   f     -     -          955   10    0 
+Tatonka   958714968  6  5 c   f     -     -          945   10    0 
+Tatonka   958715004  6  4 f   -     -     -          935    0    0 
+Tatonka   958715026  6  3 f   -     -     -          935    0    0 
+Tatonka   958715087  5  2 Bk  k     k     b          935   30   60 
+Tatonka   958715146  5  1 Bf  -     -     -          965    5    0 
+Tatonka   958715179  6  6 c   c     r     b          960   80  175 Td 5d
+Tatonka   958715207  5  5 f   -     -     -         1055    0    0 
+Tatonka   958715250  6  5 f   -     -     -         1055    0    0 
+Tatonka   958715283  7  4 f   -     -     -         1055    0    0 
+Tatonka   958715365  7  3 f   -     -     -         1055    0    0 
+Tatonka   958715498  8  2 Bk  k     kf    -         1055   10    0 
+Tatonka   958715596  7  1 Bf  -     -     -         1045    5    0 
+Tatonka   958715731  9  8 f   -     -     -         1040    0    0 
+Tatonka   958715788  8  6 c   b     k     k         1040   20    0 4c 4h
+Tatonka   958715835  8  5 f   -     -     -         1020    0    0 
+Tatonka   958715890  7  4 cc  k     f     -         1020   20    0 
+Tatonka   958715944  8  3 f   -     -     -         1000    0    0 
+Tatonka   958715984  8  2 Bk  k     k     k         1000   10   40 8s 5c
+Tatonka   958716054  9  1 Bc  k     kc    b         1030   60  210 Jd 9d
+Tatonka   958716124  9  9 f   -     -     -         1180    0    0 
+Tatonka   958716166  9  8 rr  r     k     k         1180   60  300 Jh Th
+Tatonka   958716318  7  5 f   -     -     -         1420    0    0 
+Tatonka   958716362  7  5 f   -     -     -         1420    0    0 
+Tatonka   958716447  8  5 f   -     -     -         1420    0    0 
+Tatonka   958716501  8  4 c   c     k     f         1420   20    0 
+Tatonka   958716579  7  2 Br  b     b     b         1400   80    0 As 7h
+Tatonka   958716617  7  1 Bf  -     -     -         1320    5    0 
+Tatonka   958716643  7  7 r   f     -     -         1315   20    0 
+Tatonka   958716702  7  6 f   -     -     -         1295    0    0 
+Tatonka   958716762  9  7 f   -     -     -         1295    0    0 
+Tatonka   958716790 10  6 f   -     -     -         1295    0    0 
+Tatonka   958716897  9  5 f   -     -     -         1295    0    0 
+Tatonka   958716958 10  4 f   -     -     -         1295    0    0 
+Tatonka   958717113 10  3 rc  brc   kr    kc        1295  180    0 Jc Js
+Tatonka   958717362 10  2 Bk  k     kf    -         1115   10    0 
+Tatonka   958717445 10  1 Bf  -     -     -         1105    5    0 
+Tatonka   958717539 10 10 c   f     -     -         1100   10    0 
+Tatonka   958717614  9  8 f   -     -     -         1090    0    0 
+Tatonka   958717730  9  8 r   rc    r     rc        1090  160    0 Kh As
+Tatonka   958717867 10  7 f   -     -     -          930    0    0 
+Tatonka   958718051  8  5 f   -     -     -          930    0    0 
+Tatonka   958718121  9  4 c   kf    -     -          930   10    0 
+Tatonka   958718188  9  3 f   -     -     -          920    0    0 
+Tatonka   958718259  9  2 Bk  k     b     b          920   50  190 7c 5d
+Tatonka   958718314  9  1 Bf  -     -     -         1060    5    0 
+Tatonka   958718355  9  9 f   -     -     -         1055    0    0 
+Tatonka   958718434  9  8 r   rc    f     -         1055   50    0 
+Tatonka   958718505  9  7 f   -     -     -         1005    0    0 
+Tatonka   958718610  8  6 c   f     -     -         1005   10    0 
+Tatonka   958718640  8  5 cc  k     f     -          995   20    0 
+Tatonka   958718683  8  4 f   -     -     -          975    0    0 
+Tatonka   958718726  8  3 fQ  -     -     -          975    0    0 
+Tatonka   958987686  9  5 rr  br    b     b          955  110  275 Js Jh
+Tatonka   958987743  8  4 r   bc    kc    kf        1120   60    0 
+Tatonka   958987773  8  3 f   -     -     -         1060    0    0 
+Tatonka   958987842  8  2 Bc  kf    -     -         1060   20    0 
+Tatonka   958987959  8  1 Bf  -     -     -         1040    5    0 
+Tatonka   958987998  8  8 f   -     -     -         1035    0    0 
+Tatonka   958988053  7  6 f   -     -     -         1035    0    0 
+Tatonka   958988099  7  6 f   -     -     -         1035    0    0 
+Tatonka   958988124  7  5 f   -     -     -         1035    0    0 
+Tatonka   958988145  7  4 cf  -     -     -         1035   10    0 
+Tatonka   958988209  7  3 f   -     -     -         1025    0    0 
+Tatonka   958988269  8  2 Bcc kf    -     -         1025   40    0 
+Tatonka   958988357  8  1 Bf  -     -     -          985    5    0 
+Tatonka   958988442  8  8 c   k     k     r          980   50  120 7c Qc
+Tatonka   958988523  8  7 c   b     brc   brc       1050  180  440 4d Ad
+Tatonka   958988596  7  5 f   -     -     -         1310    0    0 
+Tatonka   958988650  7  4 c   kf    -     -         1310   10    0 
+Tatonka   958988687  7  3 f   -     -     -         1300    0    0 
+Tatonka   958988711  7  2 Bk  k     k     kf        1300   10    0 
+Tatonka   958988746  7  1 Bc  kf    -     -         1290   10    0 
+Tatonka   958988763  7  7 rc  c     c     c         1280  140    0 9d 9h
+Tatonka   958988802  7  6 r   b     b     f         1140   50    0 
+Tatonka   958988877  7  5 f   -     -     -         1090    0    0 
+Tatonka   958988940  7  4 f   -     -     -         1090    0    0 
+Tatonka   958988966  8  4 f   -     -     -         1090    0    0 
+Tatonka   958989034  8  3 f   -     -     -         1090    0    0 
+Tatonka   958989096  7  2 Bf  -     -     -         1090   10    0 
+Tatonka   958989144  7  1 Bf  -     -     -         1080    5    0 
+Tatonka   958989207  7  7 f   -     -     -         1075    0    0 
+Tatonka   958989271  5  4 f   -     -     -         1075    0    0 
+Tatonka   958989309  5  3 f   -     -     -         1075    0    0 
+Tatonka   958989383  5  2 Bf  -     -     -         1075   10    0 
+Tatonka   958989476  5  1 Bf  -     -     -         1065    5    0 
+Tatonka   958989543  8  6 c   k     kf    -         1060   20    0 
+Tatonka   958989599  7  4 r   r     b     k         1040   60  200 As Ad
+Tatonka   958989750  8  4 cr  b     b     -         1180   60  105 
+Tatonka   958989910  8  3 f   -     -     -         1225    0    0 
+Tatonka   958989962  9  2 Bf  -     -     -         1225   10    0 
+Tatonka   958990060  9  1 Bc  k     kf    -         1215   10    0 
+Tatonka   958990251  8  8 f   -     -     -         1205    0    0 
+Tatonka   958990320  7  6 c   f     -     -         1205   10    0 
+Tatonka   958990361  7  6 f   -     -     -         1195    0    0 
+Tatonka   958990466  6  4 f   -     -     -         1195    0    0 
+Tatonka   958990542  7  3 f   -     -     -         1195    0    0 
+Tatonka   958990628  7  2 Brc f     -     -         1195   40    0 
+Tatonka   958990743  7  1 Bf  -     -     -         1155    5    0 
+Tatonka   958990779  7  7 f   -     -     -         1150    0    0 
+Tatonka   958990816  7  6 c   b     kc    kc        1150   60  175 2s As
+Tatonka   958990884  7  5 r   rr    b     c         1265  100  360 Ad Qd
+Tatonka   958990973  7  4 f   -     -     -         1525    0    0 
+Tatonka   958991021  8  4 f   -     -     -         1525    0    0 
+Tatonka   958991079  9  3 f   -     -     -         1525    0    0 
+Tatonka   958991192  8  1 Bf  -     -     -         1525   10    0 
+Tatonka   958991286  8  1 Bf  -     -     -         1515    5    0 
+Tatonka   958991344  8  8 r   rr    k     c         1510   90    0 Kh Qh
+Tatonka   958991427  8  7 f   -     -     -         1420    0    0 
+Tatonka   958991470  7  5 f   -     -     -         1420    0    0 
+Tatonka   958991564  7  4 f   -     -     -         1420    0    0 
+Tatonka   958991643  7  3 rr  rc    c     c         1420  120    0 As Ah
+Tatonka   958991720  7  2 Bk  k     f     -         1300   10    0 
+Tatonka   958991765  6  1 Bcc kf    -     -         1290   40    0 
+Tatonka   958991832  6  5 Q   -     -     -         1250    0    0 
+Tatonka   958994262  4  4 f   -     -     -         1250    0    0 
+Tatonka   958994277  5  3 f   -     -     -         1250    0    0 
+Tatonka   958994286  5  2 Br  b     -     -         1250   30   55 
+Tatonka   958994303  5  1 Bc  krc   kc    kf        1275   70    0 
+Tatonka   958994330  5  5 c   f     -     -         1205   20    0 
+Tatonka   958994374  6  4 f   -     -     -         1185    0    0 
+Tatonka   958994404  6  3 f   -     -     -         1185    0    0 
+Tatonka   958994438  6  2 Bk  k     b     -         1185   30   50 
+Tatonka   958994470  6  1 Bf  -     -     -         1205    5    0 
+Tatonka   958994516  6  6 f   -     -     -         1200    0    0 
+Tatonka   958994529  6  5 f   -     -     -         1200    0    0 
+Tatonka   958994550  6  4 f   -     -     -         1200    0    0 
+Tatonka   958994588  6  3 f   -     -     -         1200    0    0 
+Tatonka   958994620  6  2 Br  b     kf    -         1200   30    0 
+Tatonka   958994669  6  1 Bc  kf    -     -         1170   20    0 
+Tatonka   958994730  7  7 f   -     -     -         1150    0    0 
+Tatonka   958994801  7  6 cc  f     Q     -         1150   20    0 
+Tatonka   959143649 10  7 Q   -     -     -         1130    0    0 
+Tatonka   959148046 10  9 f   -     -     -         1130    0    0 
+Tatonka   959148100 10  8 cc  f     -     -         1130   50    0 
+Tatonka   959148191 10  7 f   -     -     -         1080    0    0 
+Tatonka   959148260 10  6 f   -     -     -         1080    0    0 
+Tatonka   959148349 10  6 f   -     -     -         1080    0    0 
+Tatonka   959148464 10  4 Q   -     -     -         1080    0    0 
+Tatonka   959745046  9  3 f   -     -     -         1352    0    0 
+Tatonka   959745110  9  2 Bk  Q     -     -         1352   10    0 
+Tatonka   959745289  8  5 c   kf    -     -         1342   10    0 
+Tatonka   959745341  8  4 f   -     -     -         1332    0    0 
+Tatonka   959745394  9  3 f   -     -     -         1332    0    0 
+Tatonka   959745476  9  2 Bk  brc   kc    kc        1332   90  115 6c Ah
+Tatonka   959745540  9  1 Bcc kr    b     b         1357   80  240 
+Tatonka   959745591  9  9 f   -     -     -         1517    0    0 
+Tatonka   959745651  9  8 c   f     -     -         1517   10    0 
+Tatonka   959745718  9  7 f   -     -     -         1507    0    0 
+Tatonka   959745770  9  6 f   -     -     -         1507    0    0 
+Tatonka   959745824  9  5 fQ  -     -     -         1507    0    0 

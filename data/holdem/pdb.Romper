@@ -1,0 +1,237 @@
+Romper    957356498 10  9 f   -     -     -          759    0    0 
+Romper    957356582 10  8 f   -     -     -          759    0    0 
+Romper    957356657  9  6 f   -     -     -          759    0    0 
+Romper    957356719  9  6 f   -     -     -          759    0    0 
+Romper    957356760  9  5 f   -     -     -          759    0    0 
+Romper    957356808  9  4 f   -     -     -          759    0    0 
+Romper    957356876 10  3 f   -     -     -          759    0    0 
+Romper    957356934 10  2 Bk  kf    -     -          759   10    0 
+Romper    957357003 10  1 Bc  kf    -     -          749   10    0 
+Romper    957357055 10 10 f   -     -     -          739    0    0 
+Romper    957357147  8  8 c   rr    b     c          739   90    0 8h 8d
+Romper    957357209  8  7 c   f     -     -          649   10    0 
+Romper    957357269  7  5 r   bc    kf    -          639   40    0 
+Romper    957357352  7  4 c   f     -     -          599   10    0 
+Romper    957357412  6  2 r   -     -     -          589   20   40 
+Romper    957357434  5  1 Br  kc    kf    -          609   30    0 
+Romper    957357540  5  1 Bc  kf    -     -          579   10    0 
+Romper    957357576  5  5 f   -     -     -          569    0    0 
+Romper    957357587  5  4 c   b     k     k          569   20   45 6h Ah
+Romper    957357621  4  3 f   -     -     -          594    0    0 
+Romper    957357642  4  2 Bk  k     k     b          594   30   40 
+Romper    957357676  4  1 Br  -     -     -          604   20   30 
+Romper    957357685  4  4 c   b     -     -          614   20   35 
+Romper    957357700  4  3 f   -     -     -          629    0    0 
+Romper    957357732  5  2 Bk  kf    -     -          629   10    0 
+Romper    957357776  5  1 Bc  bc    k     kf         619   30    0 
+Romper    957357823  5  5 f   -     -     -          589    0    0 
+Romper    957357846  5  4 r   b     b     b          589   70  125 
+Romper    957357874  5  3 f   -     -     -          644    0    0 
+Romper    957357900  4  2 Bk  kf    -     -          644   10    0 
+Romper    957357917  4  1 Br  b     b     b          634   70  170 Qc Qh
+Romper    957357940  4  4 c   r     b     b          734   70    0 8h 9s
+Romper    957357974  3  2 f   -     -     -          664    0    0 
+Romper    957357998  3  2 Bk  -     -     -          664   10   25 
+Romper    958133526  8  2 Bc  bcc   kr    bc        1089  130  375 Tc 6h
+Romper    958133577  8  1 Bc  k     k     b         1334   30   80 7c Tc
+Romper    958133611  8  8 f   -     -     -         1384    0    0 
+Romper    958133641  7  6 f   -     -     -         1384    0    0 
+Romper    958133679  7  5 f   -     -     -         1384    0    0 
+Romper    958133719  7  4 f   -     -     -         1384    0    0 
+Romper    958133752  7  3 f   -     -     -         1384    0    0 
+Romper    958133779  7  2 Bk  kf    -     -         1384   10    0 
+Romper    958133804  7  1 Bc  kc    kf    -         1374   20    0 
+Romper    958133839  7  7 f   -     -     -         1354    0    0 
+Romper    958133886  7  6 f   -     -     -         1354    0    0 
+Romper    958133912  7  5 f   -     -     -         1354    0    0 
+Romper    958133937  7  4 f   -     -     -         1354    0    0 
+Romper    958133960  7  3 f   -     -     -         1354    0    0 
+Romper    958133985  7  2 Bc  kf    -     -         1354   20    0 
+Romper    958134019  6  1 Bc  kc    kc    kf        1334   40    0 
+Romper    958134056  6  6 f   -     -     -         1294    0    0 
+Romper    958134086  5  5 f   -     -     -         1294    0    0 
+Romper    958134096  5  4 f   -     -     -         1294    0    0 
+Romper    958134127  5  3 f   -     -     -         1294    0    0 
+Romper    958134161  6  2 Bc  kf    -     -         1294   20    0 
+Romper    958134192  6  1 Bc  kc    kr    b         1274   80  180 5h Ts
+Romper    958134240  6  6 c   c     c     b         1374   60  140 Jd Ah
+Romper    958134272  6  5 f   -     -     -         1454    0    0 
+Romper    958134304  6  4 f   -     -     -         1454    0    0 
+Romper    958134341  7  4 f   -     -     -         1454    0    0 
+Romper    958134369  7  3 cc  cr    b     b         1454   90    0 6d Ad
+Romper    958134425  7  2 Bk  kf    -     -         1364   10    0 
+Romper    958134455  7  1 Bcc kc    kf    -         1354   40    0 
+Romper    958134525  8  8 f   -     -     -         1314    0    0 
+Romper    958134561  8  7 c   k     c     r         1314   70  155 Ah 2h
+Romper    958134604  8  7 f   -     -     -         1399    0    0 
+Romper    958134660  7  5 f   -     -     -         1399    0    0 
+Romper    958134687  7  4 f   -     -     -         1399    0    0 
+Romper    958134723  6  2 f   -     -     -         1399    0    0 
+Romper    958134743  7  2 Bk  f     -     -         1399   10    0 
+Romper    958134766  7  1 Bc  kf    -     -         1389   20    0 
+Romper    958134781  7  7 rr  k     c     c         1369   80    0 Jc Jh
+Romper    958134822  7  6 f   -     -     -         1289    0    0 
+Romper    958134851  7  5 f   -     -     -         1289    0    0 
+Romper    958134905  8  5 f   -     -     -         1289    0    0 
+Romper    958134948  8  4 f   -     -     -         1289    0    0 
+Romper    958135018  8  4 f   -     -     -         1289    0    0 
+Romper    958135054  7  2 Bk  kc    kf    -         1289   20    0 
+Romper    958135104  7  1 Bc  kc    kf    -         1269   30    0 
+Romper    958135130  7  7 f   -     -     -         1239    0    0 
+Romper    958135149  7  6 f   -     -     -         1239    0    0 
+Romper    958135175  7  5 f   -     -     -         1239    0    0 
+Romper    958135202 10  5 f   -     -     -         1239    0    0 
+Romper    958135217 10  4 f   -     -     -         1239    0    0 
+Romper    958135243 10  3 c   b     b     b         1239   60  145 7c Ac
+Romper    958135315  9  1 Bc  kc    kf    -         1324   30    0 
+Romper    958135361  9  1 Bf  -     -     -         1294    5    0 
+Romper    958135398  9  9 f   -     -     -         1289    0    0 
+Romper    958135422  9  8 c   k     f     -         1289   10    0 
+Romper    958135453  8  6 f   -     -     -         1279    0    0 
+Romper    958135475  8  5 f   -     -     -         1279    0    0 
+Romper    958135512  8  4 f   -     -     -         1279    0    0 
+Romper    958135540  8  3 c   kc    k     kf        1279   20    0 
+Romper    958135577  8  2 Bf  -     -     -         1259   10    0 
+Romper    958135596  8  1 Bc  kf    -     -         1249   20    0 
+Romper    958135645  8  8 c   f     -     -         1229   10    0 
+Romper    958135682  8  7 f   -     -     -         1219    0    0 
+Romper    958135721  9  7 f   -     -     -         1219    0    0 
+Romper    958135764  8  5 c   kc    f     -         1219   20    0 
+Romper    958135817  9  5 f   -     -     -         1199    0    0 
+Romper    958135855  9  4 f   -     -     -         1199    0    0 
+Romper    958135901 10  4 f   -     -     -         1199    0    0 
+Romper    958135939 10  3 f   -     -     -         1199    0    0 
+Romper    958136056 10  2 Bk  kf    -     -         1199   10    0 
+Romper    958136094 10  1 Bc  bc    kr    bc        1189  110    0 8d Ac
+Romper    958136184  8  8 f   -     -     -         1079    0    0 
+Romper    958136221 10  9 f   -     -     -         1079    0    0 
+Romper    958136287  9  7 f   -     -     -         1079    0    0 
+Romper    958136331  8  5 f   Q     -     -         1079    0    0 
+Romper    958987442  7  3 f   -     -     -         2019    0    0 
+Romper    958987503  7  2 Bc  bc    cc    f         2019   80    0 
+Romper    958987568  8  1 Bf  -     -     -         1939    5    0 
+Romper    958987686  9  9 f   -     -     -         1934    0    0 
+Romper    958987743  8  8 f   -     -     -         1934    0    0 
+Romper    958987773  8  7 f   -     -     -         1934    0    0 
+Romper    958987842  8  6 f   -     -     -         1934    0    0 
+Romper    958987959  8  5 f   -     -     -         1934    0    0 
+Romper    958987998  8  4 f   -     -     -         1934    0    0 
+Romper    958988053  7  2 f   -     -     -         1934    0    0 
+Romper    958988099  7  2 Bk  f     -     -         1934   10    0 
+Romper    958988124  7  1 Bcc kf    -     -         1924   20    0 
+Romper    958988145  7  7 f   -     -     -         1904    0    0 
+Romper    958988209  7  6 f   -     -     -         1904    0    0 
+Romper    958988269  8  5 f   -     -     -         1904    0    0 
+Romper    958988357  8  4 ccc cf    -     -         1904   50    0 
+Romper    958988442  8  3 c   k     k     bc        1854   50    0 Qd As
+Romper    958988523  8  2 Bk  kc    kf    -         1804   20    0 
+Romper    958988596  7  1 Bc  kf    -     -         1784   10    0 
+Romper    958988650  7  7 c   f     -     -         1774   10    0 
+Romper    958988687  7  6 cc  c     r     -         1764   70  130 
+Romper    958988711  7  5 f   -     -     -         1824    0    0 
+Romper    958988746  7  4 f   -     -     -         1824    0    0 
+Romper    958988763  7  3 f   -     -     -         1824    0    0 
+Romper    958988802  7  2 Bc  kc    kc    brc       1824  130  170 Ad 9d
+Romper    958988877  7  1 Bc  kc    kf    -         1864   20    0 
+Romper    958988940  7  7 f   -     -     -         1844    0    0 
+Romper    958988966  8  7 f   -     -     -         1844    0    0 
+Romper    958989034  8  6 rc  c     rc    c         1844  130  435 Kd Ad
+Romper    958989096  7  4 f   -     -     -         2149    0    0 
+Romper    958989144  7  3 f   -     -     -         2149    0    0 
+Romper    958989207  7  2 Bk  k     f     -         2149   10    0 
+Romper    958989271  5  1 Bf  -     -     -         2139    5    0 
+Romper    958989309  5  5 f   -     -     -         2134    0    0 
+Romper    958989383  5  4 rc  b     b     -         2134   70  170 
+Romper    958989476  5  2 Bk  kf    -     -         2234   10    0 
+Romper    958989543  8  1 Bf  -     -     -         2224    5    0 
+Romper    958989599  7  7 f   -     -     -         2219    0    0 
+Romper    958989750  8  7 f   -     -     -         2219    0    0 
+Romper    958989910  8  6 c   c     r     c         2219  100  255 Ts Ac
+Romper    958989962  9  6 f   -     -     -         2374    0    0 
+Romper    958990060  9  6 f   -     -     -         2374    0    0 
+Romper    958990251  8  4 f   -     -     -         2374    0    0 
+Romper    958990320  7  2 f   -     -     -         2374    0    0 
+Romper    958990361  7  2 Bk  k     k     b         2374   30   60 
+Romper    958990466  6  1 Bf  -     -     -         2404    5    0 
+Romper    958990542  7  6 c   f     -     -         2399   10    0 
+Romper    958990628  7  5 f   -     -     -         2389    0    0 
+Romper    958990743  7  4 f   -     -     -         2389    0    0 
+Romper    958990779  7  3 f   -     -     -         2389    0    0 
+Romper    958990816  7  2 Bk  kf    -     -         2389   10    0 
+Romper    958990884  7  1 Bc  kf    -     -         2379   20    0 
+Romper    958990973  7  7 f   -     -     -         2359    0    0 
+Romper    958991021  8  7 f   -     -     -         2359    0    0 
+Romper    958991079  9  7 f   -     -     -         2359    0    0 
+Romper    958991192  8  5 cc  br    b     k         2359   70  260 Ad Jh
+Romper    958991286  8  5 f   -     -     -         2549    0    0 
+Romper    958991344  8  4 rc  brc   k     b         2549   90  315 As Kc
+Romper    958991427  8  3 c   kc    kf    Q         2774   20    0 
+Romper    959000186  8  7 f   -     -     -         2754    0    0 
+Romper    959000213  8  6 f   -     -     -         2754    0    0 
+Romper    959000239  8  5 f   -     -     -         2754    0    0 
+Romper    959000260  8  4 f   -     -     -         2754    0    0 
+Romper    959000281  8  3 f   -     -     -         2754    0    0 
+Romper    959000309  8  2 Bk  b     kf    -         2754   20    0 
+Romper    959000360  7  1 Bc  kf    -     -         2734   10    0 
+Romper    959000386  7  7 c   c     c     f         2724   40    0 
+Romper    959000418  7  6 f   -     -     -         2684    0    0 
+Romper    959000452  6  4 r   -     -     -         2684   20   35 
+Romper    959000460  6  3 c   c     b     b         2699   60  140 4d Kd
+Romper    959000496  6  2 Bk  kr    kc    kc        2779   70    0 8h 8c
+Romper    959000606  6  1 Bf  -     -     -         2709    5    0 
+Romper    959000632  6  6 f   -     -     -         2704    0    0 
+Romper    959000654  6  5 c   k     k     k         2704   10    0 Tc Qh
+Romper    959000685  6  4 f   -     -     -         2694    0    0 
+Romper    959000713  8  3 f   -     -     -         2694    0    0 
+Romper    959000734  8  2 Bk  b     k     k         2694   20   45 7c 2c
+Romper    959000763  8  1 Bc  b     b     b         2719   60  110 
+Romper    959000821  6  6 f   -     -     -         2769    0    0 
+Romper    959000843  6  5 c   c     b     b         2769   60    0 Th 9c
+Romper    959000872  6  4 f   -     -     -         2709    0    0 
+Romper    959000894  6  3 f   -     -     -         2709    0    0 
+Romper    959000922  6  2 Bk  kf    -     -         2709   10    0 
+Romper    959000944  6  1 Bc  b     b     b         2699   60  140 
+Romper    959000968  6  6 c   k     k     f         2779   10    0 
+Romper    959000996  6  5 f   -     -     -         2769    0    0 
+Romper    959001038  6  4 f   -     -     -         2769    0    0 
+Romper    959001068  7  3 f   -     -     -         2769    0    0 
+Romper    959001097  8  2 Bk  k     k     k         2769   10    0 4c 5h
+Romper    959001131  8  1 Bf  -     -     -         2759    5    0 
+Romper    959001165  9  9 f   -     -     -         2754    0    0 
+Romper    959001198 10  8 c   c     c     c         2754   60    0 As 8d
+Romper    959001246 10  7 f   -     -     -         2694    0    0 
+Romper    959001288 10  6 c   k     b     kf        2694   30    0 
+Romper    959001377 10  5 c   bc    b     c         2664   70    0 Qc Kh
+Romper    959001426 10  4 c   kc    kf    -         2594   30    0 
+Romper    959001474  9  2 c   b     b     b         2564   60  200 6h Kh
+Romper    959001501  9  2 Bk  kc    kf    -         2704   20    0 
+Romper    959001553  9  1 Bf  -     -     -         2684    5    0 
+Romper    959001600  9  9 f   -     -     -         2679    0    0 
+Romper    959001674  8  8 r   b     b     k         2679   50  135 Jh Js
+Romper    959001708  8  7 f   -     -     -         2764    0    0 
+Romper    959001731  7  5 c   b     br    b         2764  100  220 Td Jh
+Romper    959001770  7  4 f   -     -     -         2884    0    0 
+Romper    959001835  7  3 f   -     -     -         2884    0    0 
+Romper    959001895  8  2 Bc  cc    kc    f         2884   70    0 
+Romper    959001957  7  1 Bc  kf    -     -         2814   10    0 
+Romper    959002004  7  7 f   -     -     -         2804    0    0 
+Romper    959002048  7  6 f   -     -     -         2804    0    0 
+Romper    959002078  8  6 cc  k     kc    k         2804   40    0 Ts Jc
+Romper    959002133  9  6 c   b     k     b         2764   40   80 
+Romper    959002166  9  5 f   -     -     -         2804    0    0 
+Romper    959002201  9  4 f   -     -     -         2804    0    0 
+Romper    959002264  9  3 f   -     -     -         2804    0    0 
+Romper    959002308  9  2 Bk  b     b     k         2804   40  110 Jd Qs
+Romper    959002344 10  1 Bf  -     -     -         2874    5    0 
+Romper    959002391 10 10 f   -     -     -         2869    0    0 
+Romper    959002436  9  8 c   b     c     f         2869   40    0 
+Romper    959002489 10  8 f   -     -     -         2829    0    0 
+Romper    959002533 10  7 f   -     -     -         2829    0    0 
+Romper    959002588 10  6 f   -     -     -         2829    0    0 
+Romper    959002628 10  5 f   -     -     -         2829    0    0 
+Romper    959002702 10  4 f   -     -     -         2829    0    0 
+Romper    959002796 10  3 f   -     -     -         2829    0    0 
+Romper    959002845  9  2 Bc  kf    -     -         2829   20    0 
+Romper    959002911  9  1 Bcc kf    -     -         2809   20    0 
+Romper    959002974  9  9 c   c     rf    -         2789   70    0 
+Romper    959003023 10  6 Q   -     -     -         2719    0    0 

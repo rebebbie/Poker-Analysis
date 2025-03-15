@@ -1,0 +1,43 @@
+cortez    957187094  2  2 Brc rr    rr    rr        1000  240  460 
+cortez    957187119  2  1 Brr brc   brc   br        1220  220  420 
+cortez    957187141  2  2 Brc rr    rr    rr        1420  240  460 
+cortez    957187171  2  1 Brr brc   brc   b         1640  180  340 
+cortez    957187191  2  2 B   -     -     -         1800   10   15 
+cortez    957187197  2  1 Br  -     -     -         1805   20   30 
+cortez    957187204  2  2 B   -     -     -         1815   10   15 
+cortez    957187209  2  1 Br  -     -     -         1820   20   10 Kd 5h
+cortez    957187211  2  2 B   -     -     -         1810   10   15 
+cortez    957187215  2  1 Br  -     -     -         1815   20   30 
+cortez    957187221  2  2 B   -     -     -         1825   10    5 Qd 7h
+cortez    957187222  2  1 Br  -     -     -         1820   20   10 Th 4c
+cortez    957187223  2  2 B   -     -     -         1810   10   15 
+cortez    957187228  2  1 Br  -     -     -         1815   20   30 
+cortez    957187236  2  2 B   -     -     -         1825   10   15 As Ks
+cortez    957187271  2  2 Brc rr    rr    rr        1830  240  460 
+cortez    957187293  2  1 Brr brc   brc   br        2050  220  420 
+cortez    957187314  2  2 Brc rr    rr    rr        2250  240  460 
+cortez    957187345  2  1 Brr brc   brc   br        2470  220  420 
+cortez    957187367  2  2 Brc rr    rr    -         2670  160  300 
+cortez    957187388  2  1 Br  -     -     -         2810   20   30 
+cortez    957187394  2  2 B   -     -     -         2820   10   15 
+cortez    957187400  2  1 B   -     -     -         2825    5   10 9s 6c
+cortez    957187462  2  2 B   -     -     -         2830   10   15 
+cortez    957187475  2  1 Brr b     brc   brc       2835  210    0 9s Jd
+cortez    957187490  2  2 B   -     -     -         2625   10   15 
+cortez    957187495  2  1 Brr b     brc   brc       2630  210    0 4c 4h
+cortez    957187518  2  2 Br  -     -     -         2420   30   50 
+cortez    957187522  2  1 Brr b     b     brc       2440  150  300 8h 9s
+cortez    957187545  2  2 Brc r     -     -         2590   60  110 
+cortez    957187561  2  1 Brr brc   brc   br        2640  220  420 
+cortez    957187580  2  2 Brc rr    rr    rr        2840  240  460 
+cortez    957187610  2  1 Brr brc   brc   br        3060  220  420 
+cortez    957187632  2  2 Brc rr    rr    rr        3260  240  460 
+cortez    957187662  2  1 Brr brc   brc   br        3480  220  420 
+cortez    957187684  2  2 Brc rr    rr    -         3680  160  300 
+cortez    957187707  2  1 Br  -     -     -         3820   20   30 5d Td
+cortez    957187746  2  2 B   -     -     -         3830   10   15 
+cortez    957187752  2  1 Brr b     brc   brc       3835  210    0 Ad 5c
+cortez    957187768  2  2 B   -     -     -         3625   10   15 
+cortez    957187770  2  1 B   -     -     -         3630    5   15 
+cortez    957187804  2  1 B   -     -     -         3640   10   10 
+cortez    957187811  2  1 B   -     -     -         3640    5   15 

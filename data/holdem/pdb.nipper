@@ -1,0 +1,857 @@
+nipper    957545860  7  7 f   -     -     -          723    0    0 
+nipper    957545886  8  7 f   -     -     -          723    0    0 
+nipper    957545918  9  6 c   b     b     -          723   40   85 
+nipper    957545973  9  5 c   kc    kf    -          768   20    0 
+nipper    957546032 10  4 f   -     -     -          748    0    0 
+nipper    957546139 10  3 f   -     -     -          748    0    0 
+nipper    957546160 10  2 Bk  br    bc    kc         748  100    0 9h Jh
+nipper    957546201 10  1 Bf  -     -     -          648    5    0 
+nipper    957546239 10 10 f   -     -     -          643    0    0 
+nipper    957546309 10  9 f   -     -     -          643    0    0 
+nipper    957546323 10  8 f   -     -     -          643    0    0 
+nipper    957546367 10  7 f   -     -     -          643    0    0 
+nipper    957546411 10  6 cc  krr   b     b          643  100  255 
+nipper    957546504 10  5 ccc kc    kf    -          798   50    0 
+nipper    957546581 10  4 c   c     f     -          748   20    0 
+nipper    957546643 10  3 f   -     -     -          728    0    0 
+nipper    957546685 10  2 Bk  kf    -     -          728   10    0 
+nipper    957546741 10  1 Bcc k     k     k          718   15    0 6h As
+nipper    957546818 10 10 c   r     k     k          703   30    0 6h 6s
+nipper    957546866 10  9 f   -     -     -          673    0    0 
+nipper    957546905 10  8 f   -     -     -          673    0    0 
+nipper    957546953 10  7 cc  b     k     k          673   30  110 Ac Td
+nipper    957547018 10  6 f   -     -     -          753    0    0 
+nipper    957547087 10  5 f   -     -     -          753    0    0 
+nipper    957547147 10  4 f   -     -     -          753    0    0 
+nipper    957547194 10  3 f   -     -     -          753    0    0 
+nipper    957547281 10  2 Bk  k     b     b          753   50    0 Tc 8s
+nipper    957547347 10  1 Bf  -     -     -          703    5    0 
+nipper    957547404 10 10 c   f     -     -          698   10    0 
+nipper    957547459 10  9 r   rc    c     c          688  100    0 Ks Kd
+nipper    957547571 10  8 f   -     -     -          588    0    0 
+nipper    957547626 10  7 f   -     -     -          588    0    0 
+nipper    957547677 10  6 c   c     c     f          588   40    0 
+nipper    957547720 10  5 c   kf    -     -          548   10    0 
+nipper    957547796 10  4 f   -     -     -          538    0    0 
+nipper    957547842 10  3 c   cc    kf    -          538   30    0 
+nipper    957547894 10  2 Bf  -     -     -          508   10    0 
+nipper    957548008  9  1 Bc  kc    kf    -          498   20    0 
+nipper    957548054 10 10 c   k     k     k          478   10    0 Kd Th
+nipper    957548106 10  9 fQ  -     -     -          468    0    0 
+nipper    957587443 10  9 cc  f     -     -          468   20    0 
+nipper    957587498 10  8 f   -     -     -          448    0    0 
+nipper    957587561  9  6 f   -     -     -          448    0    0 
+nipper    957587630 10  5 cc  k     br    b          448  120  395 5d 5h
+nipper    957587691 10  4 f   -     -     -          723    0    0 
+nipper    957587734 10  3 f   -     -     -          723    0    0 
+nipper    957587763 10  2 Bk  kf    -     -          723   10    0 
+nipper    957587824 10  1 Bc  b     b     b          713   60  190 5c 4h
+nipper    957587866 10 10 f   -     -     -          843    0    0 
+nipper    957587910 10  9 c   c     r     k          843   70    0 7d Jd
+nipper    957588001 10  8 f   -     -     -          773    0    0 
+nipper    957588073 10  7 r   r     c     c          773   80  205 Ac Ah
+nipper    957588118 10  6 f   -     -     -          898    0    0 
+nipper    957588166 10  5 f   -     -     -          898    0    0 
+nipper    957588214 10  4 f   -     -     -          898    0    0 
+nipper    957588269 10  3 c   c     rc    c          898  100    0 Qs Ac
+nipper    957588339 10  2 Bc  k     b     b          798   60  125 Jd Ac
+nipper    957588380  9  1 Bf  -     -     -          863    5    0 
+nipper    957588423  8  8 f   -     -     -          858    0    0 
+nipper    957588459  8  7 c   f     -     -          858   20    0 
+nipper    957588508  8  6 c   f     -     -          838   10    0 
+nipper    957588568  9  6 f   -     -     -          828    0    0 
+nipper    957588641 10  6 c   b     b     -          828   40  130 
+nipper    957588699 10  5 c   kf    -     -          918   10    0 
+nipper    957588755 10  4 f   -     -     -          908    0    0 
+nipper    957588794 10  3 f   -     -     -          908    0    0 
+nipper    957588871 10  2 Bf  -     -     -          908   10    0 
+nipper    957588906 10  1 Bc  kf    -     -          898   10    0 
+nipper    957588971 10 10 c   k     f     -          888   10    0 
+nipper    957589013 10  9 f   -     -     -          878    0    0 
+nipper    957589107 10  8 f   -     -     -          878    0    0 
+nipper    957589159 10  7 f   -     -     -          878    0    0 
+nipper    957589191 10  6 f   -     -     -          878    0    0 
+nipper    957589287 10  5 f   -     -     -          878    0    0 
+nipper    957589383 10  4 f   -     -     -          878    0    0 
+nipper    957589462  9  3 ccc kr    bc    kf         878  110    0 
+nipper    957589606 10  2 Bk  bc    k     kf         768   30    0 
+nipper    957589682 10  1 Bc  k     kf    -          738   10    0 
+nipper    957589784 10 10 c   c     f     -          728   20    0 
+nipper    957589877 10  9 c   f     -     -          708   10    0 
+nipper    957589917 10  8 f   -     -     -          698    0    0 
+nipper    957589975 10  7 f   -     -     -          698    0    0 
+nipper    957590003 10  6 f   -     -     -          698    0    0 
+nipper    957590039  9  5 f   -     -     -          698    0    0 
+nipper    957590085 10  4 c   b     kc    kc         698   60    0 Qs Kc
+nipper    957590124  9  3 c   k     k     kc         638   30    0 9h 8s
+nipper    957590225 10  2 Bk  bc    kc    kc         608   70    0 Ah 9h
+nipper    957590274 10  1 Bc  kf    -     -          538   10    0 
+nipper    957590336 10 10 c   bc    c     r          528   90  215 Kc 3c
+nipper    957590380 10  9 f   -     -     -          653    0    0 
+nipper    957590418 10  8 c   c     k     k          653   30    0 Ts 9d
+nipper    957590470 10  7 f   -     -     -          623    0    0 
+nipper    957590495 10  6 f   -     -     -          623    0    0 
+nipper    957590541 10  5 f   -     -     -          623    0    0 
+nipper    957590565 10  4 r   b     b     kc         623   70  340 As Ah
+nipper    957590635 10  3 f   -     -     -          893    0    0 
+nipper    957590739 10  2 Bk  k     kf    -          893   10    0 
+nipper    957590806 10  1 Bf  -     -     -          883    5    0 
+nipper    957590894 10 10 cf  -     -     -          878   10    0 
+nipper    957590986 10  9 f   -     -     -          868    0    0 
+nipper    957591051  9  7 f   -     -     -          868    0    0 
+nipper    957591106 10  7 f   -     -     -          868    0    0 
+nipper    957591179 10  6 c   bc    kc    kc         868   70  285 Ad Js
+nipper    957591244 10  5 f   -     -     -         1083    0    0 
+nipper    957591260 10  4 c   b     b     b         1083   60  240 9c Ks
+nipper    957591378 10  3 f   -     -     -         1263    0    0 
+nipper    957591417 10  2 Bk  b     b     k         1263   40    0 2h 9h
+nipper    957591469 10  1 Bf  -     -     -         1223    5    0 
+nipper    957591538 10 10 c   c     f     -         1218   20    0 
+nipper    957591585 10  9 c   f     -     -         1198   10    0 
+nipper    957591641 10  8 c   f     -     -         1188   10    0 
+nipper    957591706 10  7 c   k     kf    -         1178   10    0 
+nipper    957591759 10  6 cc  f     -     -         1168   40    0 
+nipper    957591833 10  5 cc  c     c     f         1128   50    0 
+nipper    957591870 10  4 f   -     -     -         1078    0    0 
+nipper    957591923 10  3 f   -     -     -         1078    0    0 
+nipper    957592042 10  2 Bf  -     -     -         1078   10    0 
+nipper    957592102 10  1 Bf  -     -     -         1068    5    0 
+nipper    957592169 10 10 f   -     -     -         1063    0    0 
+nipper    957592254 10  9 f   -     -     -         1063    0    0 
+nipper    957592319  9  7 f   -     -     -         1063    0    0 
+nipper    957592356  9  6 f   -     -     -         1063    0    0 
+nipper    957592379 10  6 c   c     rc    c         1063  100    0 8c Jh
+nipper    957592451  9  5 f   -     -     -          963    0    0 
+nipper    957592487  9  4 f   -     -     -          963    0    0 
+nipper    957592550  9  3 c   f     -     -          963   10    0 
+nipper    957592595  9  2 Bf  -     -     -          953   10    0 
+nipper    957592662 10  1 Bc  k     k     b          943   40  110 
+nipper    957592701 10 10 f   -     -     -         1013    0    0 
+nipper    957592730 10  9 f   -     -     -         1013    0    0 
+nipper    957592787  9  7 c   bc    kc    kc        1013   70    0 As Jh
+nipper    957592820 10  7 c   f     -     -          943   20    0 
+nipper    957592893 10  6 f   -     -     -          923    0    0 
+nipper    957592965 10  5 f   -     -     -          923    0    0 
+nipper    957593030 10  4 f   -     -     -          923    0    0 
+nipper    957593138  9  3 f   -     -     -          923    0    0 
+nipper    957593221  8  2 Bf  -     -     -          923   10    0 
+nipper    957593274  9  1 Bcc kc    kf    -          913   50    0 
+nipper    957593419  9  9 c   rc    rc    c          863  140    0 Qh Jc
+nipper    957593494  9  4 Q   -     -     -          723    0    0 
+nipper    957893073  7  2 Bk  k     k     f         1815   10    0 
+nipper    957893099  7  1 Bf  -     -     -         1805    5    0 
+nipper    957893118  7  7 r   b     k     k         1800   30   75 Td Th
+nipper    957893150  8  7 c   b     b     -         1845   40   90 
+nipper    957893183  8  6 f   -     -     -         1895    0    0 
+nipper    957893224  8  5 f   -     -     -         1895    0    0 
+nipper    957893254  8  4 c   bc    kc    kc        1895   70  180 Jd Jc
+nipper    957893294  8  3 f   -     -     -         2005    0    0 
+nipper    957893331  9  2 Bc  kf    -     -         2005   20    0 
+nipper    957893356  9  1 Bc  kf    -     -         1985   10    0 
+nipper    957893394  9  9 f   -     -     -         1975    0    0 
+nipper    957893457  9  8 f   -     -     -         1975    0    0 
+nipper    957893496  9  7 cc  f     -     -         1975   20    0 
+nipper    957893532  9  6 c   f     -     -         1955   10    0 
+nipper    957893576  8  5 c   f     -     -         1945   10    0 
+nipper    957893627  8  4 f   -     -     -         1935    0    0 
+nipper    957893691  9  3 f   -     -     -         1935    0    0 
+nipper    957893731  9  2 Bk  b     b     b         1935   60  170 
+nipper    957893767  9  1 Br  b     b     b         2045   70  130 
+nipper    957893790  9  9 f   -     -     -         2105    0    0 
+nipper    957893828  9  8 f   -     -     -         2105    0    0 
+nipper    957893899 10  8 f   -     -     -         2105    0    0 
+nipper    957893956  9  7 c   rc    c     kc        2105   80  137 Kh Qd
+nipper    957894051  9  6 c   c     k     f         2162   30    0 
+nipper    957894098  9  5 f   -     -     -         2132    0    0 
+nipper    957894149  9  4 r   br    k     b         2132   70    0 Ah Ad
+nipper    957894204  7  2 Bk  b     k     b         2062   40  115 6c Ts
+nipper    957894238  7  1 Bf  -     -     -         2137    5    0 
+nipper    957894280  7  7 c   f     Q     -         2132   20    0 
+nipper    958064511  7  3 f   -     -     -         2197    0    0 
+nipper    958064561  6  2 Bk  k     k     f         2197   10    0 
+nipper    958064625  6  1 Bf  -     -     -         2187    5    0 
+nipper    958064645  6  6 f   -     -     -         2182    0    0 
+nipper    958064671  5  4 f   -     -     -         2182    0    0 
+nipper    958064703  7  4 f   -     -     -         2182    0    0 
+nipper    958064760  5  2 Bk  kc    k     kf        2182   20    0 
+nipper    958064792  5  1 Bf  -     -     -         2162    5    0 
+nipper    958064823  6  6 c   f     -     -         2157   20    0 
+nipper    958064872  6  5 cc  cc    kc    kc        2137   90    0 6d Ad
+nipper    958064947  5  4 c   k     f     -         2042   10    0 
+nipper    958064976  5  3 f   -     -     -         2027    0    0 
+nipper    958064995  5  2 Bc  bc    c     r         2117  100    0 6c Qd
+nipper    958065034  5  1 Bc  kf    -     -         2017   20    0 
+nipper    958065073  4  4 r   c     k     k         2037   30   90 9c Qs
+nipper    958065097  4  4 c   k     b     f         2097   30    0 
+nipper    958065125  5  3 c   b     b     -         2067   40   70 
+nipper    958065156  6  3 f   -     -     -         2202    0    0 
+nipper    958065183  6  2 Bc  k     c     f         2282   40    0 
+nipper    958065244  7  1 Bf  -     -     -         2202    5    0 
+nipper    958065280  8  8 c   f     -     -         2117   20    0 
+nipper    958065308  7  6 f   -     -     -         2077    0    0 
+nipper    958065353  7  6 f   -     -     -         2107    0    0 
+nipper    958065390  7  5 f   -     -     -         2097    0    0 
+nipper    958065448  7  4 f   -     -     -         2247    0    0 
+nipper    958065476  7  3 f   -     -     -         2247    0    0 
+nipper    958065518  7  2 Bk  kf    -     -         2247   10    0 
+nipper    958065575  8  1 Bc  kc    kf    -         2167   20    0 
+nipper    958065605  8  8 f   -     -     -         2127    0    0 
+nipper    958065665  8  7 c   f     -     -         2127   10    0 
+nipper    958065703  7  5 f   -     -     -         2097    0    0 
+nipper    958065715  7  4 f   -     -     -         2087    0    0 
+nipper    958065780  7  3 f   -     -     -         2047    0    0 
+nipper    958065816  8  3 c   kf    -     -         2102   10    0 
+nipper    958065872  9  3 f   -     -     -         2132    0    0 
+nipper    958065916  8  3 f   -     -     -         2132    0    0 
+nipper    958065945  8  2 Br  b     b     b         2122   70  175 Qh Qd
+nipper    958065981  8  1 Bf  -     -     -         2222    5    0 
+nipper    958066032  8  8 c   c     c     c         2167   80    0 7s 9s
+nipper    958066078  8  7 f   -     -     -         2087    0    0 
+nipper    958066118  8  6 cc  b     b     k         2102   50  135 2c Kc
+nipper    958066166  8  4 c   f     -     -         2182   10    0 
+nipper    958066204  8  3 c   b     b     -         2112   40  115 
+nipper    958066256  8  2 Bk  kc    kc    k         2177   40   90 Ad 3c
+nipper    958066294  8  1 Bc  b     bcc   kc        2227  110    0 Jc Kh
+nipper    958066338  8  8 f   -     -     -         2112    0    0 
+nipper    958066373  7  6 f   -     -     -         2112    0    0 
+nipper    958066384  7  5 f   -     -     -         2112    0    0 
+nipper    958066398  7  4 f   -     -     -         2112    0    0 
+nipper    958066453  8  4 f   -     -     -         2112    0    0 
+nipper    958066490  8  4 f   -     -     -         2112    0    0 
+nipper    958066537  7  2 Bk  r     b     k         2112   50  140 Qd 3d
+nipper    958066576  7  1 Bf  -     -     -         2202    5    0 
+nipper    958066621  7  7 f   -     -     -         2167    0    0 
+nipper    958066674  7  6 f   -     -     -         2162    0    0 
+nipper    958066706  7  5 f   -     -     -         2162    0    0 
+nipper    958066742  7  4 f   -     -     -         2162    0    0 
+nipper    958066789  7  3 f   -     -     -         2202    0    0 
+nipper    958066824  7  2 Bf  -     -     -         2202   10    0 
+nipper    958066844  7  1 Bf  -     -     -         2192    5    0 
+nipper    958066878  7  7 c   c     k     c         2187   50    0 Jd 8d
+nipper    958066939  7  6 f   -     -     -         2117    0    0 
+nipper    958066998  7  5 f   -     -     -         2182    0    0 
+nipper    958067036  7  4 f   -     -     -         2332    0    0 
+nipper    958067086  6  2 Bk  bc    k     kf        2332   30    0 
+nipper    958067129  6  1 Bc  b     kc    b         2367   60    0 6s 6h
+nipper    958067174  6  6 c   r     r     -         2297   70  135 
+nipper    958067213  6  5 f   -     -     -         2382    0    0 
+nipper    958067216  6  4 f   -     -     -         2382    0    0 
+nipper    958067251  7  3 c   k     k     b         2377   30   60 
+nipper    958067310  8  3 f   -     Q     -         2407    0    0 
+nipper    958109122  8  7 f   -     -     -         2397    0    0 
+nipper    958109177  8  6 f   -     -     -         2397    0    0 
+nipper    958109216  8  5 f   -     -     -         2397    0    0 
+nipper    958109262  8  4 f   -     -     -         2397    0    0 
+nipper    958109321  8  3 f   -     -     -         2397    0    0 
+nipper    958109366  9  2 Bk  f     -     -         2397   10    0 
+nipper    958109417  9  1 Bf  -     -     -         2387    5    0 
+nipper    958109444  9  9 f   -     -     -         2382    0    0 
+nipper    958109495  9  8 f   -     -     -         2382    0    0 
+nipper    958109534  9  7 f   -     -     -         2382    0    0 
+nipper    958109572  9  6 f   -     -     -         2382    0    0 
+nipper    958109620  9  5 f   -     -     -         2382    0    0 
+nipper    958109681  8  4 f   -     -     -         2382    0    0 
+nipper    958109753  8  4 f   -     -     -         2382    0    0 
+nipper    958109781  7  2 Bc  kf    -     -         2382   20    0 
+nipper    958109810  7  1 Bf  -     -     -         2362    5    0 
+nipper    958109835  7  7 f   -     -     -         2357    0    0 
+nipper    958109872  7  7 c   k     k     k         2357   10    0 Jd 5d
+nipper    958109921  4  4 f   -     -     -         2347    0    0 
+nipper    958109939  4  3 f   -     -     -         2347    0    0 
+nipper    958109945  4  2 Bc  bc    rc    k         2347  110  360 7d 6c
+nipper    958109980  4  1 Bc  b     -     -         2597   20   30 
+nipper    958110006  5  5 r   c     f     -         2607   30    0 
+nipper    958110037  5  4 c   c     k     f         2577   20    0 
+nipper    958110086  5  3 r   -     -     -         2557   20   35 
+nipper    958110095  6  2 Bk  k     k     k         2572   10    0 2s 3d
+nipper    958110132  6  1 Bf  -     -     -         2562    5    0 
+nipper    958110171  5  5 f   -     -     -         2557    0    0 
+nipper    958110191  6  5 f   -     -     -         2557    0    0 
+nipper    958110218  6  4 f   -     -     -         2557    0    0 
+nipper    958110239  6  3 f   -     -     -         2557    0    0 
+nipper    958110292  7  2 Bk  b     b     b         2557   60    0 Jc 2s
+nipper    958110329  7  1 Bf  -     -     -         2497    5    0 
+nipper    958110352  8  8 c   k     f     -         2492   10    0 
+nipper    958110415  8  7 f   -     -     -         2482    0    0 
+nipper    958110493  7  5 f   -     -     -         2482    0    0 
+nipper    958110538  8  5 c   k     f     -         2482   10    0 
+nipper    958110571  9  5 f   -     -     -         2472    0    0 
+nipper    958110605  9  4 f   -     -     -         2472    0    0 
+nipper    958110652 10  3 f   -     -     -         2472    0    0 
+nipper    958110742 10  2 Bf  -     -     -         2472   10    0 
+nipper    958110781  9  1 Bf  -     -     -         2462    5    0 
+nipper    958110829  9  9 f   -     -     -         2457    0    0 
+nipper    958110857  8  7 f   -     -     -         2457    0    0 
+nipper    958110881  8  6 f   -     -     -         2457    0    0 
+nipper    958110915  8  5 c   f     -     -         2457   10    0 
+nipper    958110963  8  4 f   -     -     -         2447    0    0 
+nipper    958111030  9  3 ccc kc    k     b         2447   70  315 Kc 7c
+nipper    958111088 10  2 Bf  -     -     -         2692   10    0 
+nipper    958111134 10  1 Bc  brc   kc    kc        2682  100    0 Kh 6h
+nipper    958111219 10 10 f   -     -     -         2582    0    0 
+nipper    958111293 10  9 Q   -     -     -         2582    0    0 
+nipper    958151454  4  3 f   -     -     -         2582    0    0 
+nipper    958151460  4  2 Bk  c     f     -         2582   20    0 
+nipper    958151475  4  1 Bc  k     k     k         2562   10    0 7d 4d
+nipper    958151500  4  4 c   b     b     b         2552   70  155 Jh Qh
+nipper    958151523  4  3 r   -     -     -         2637   20   35 
+nipper    958151531  5  2 Bk  k     kf    -         2652   10    0 
+nipper    958151566  6  1 Bc  kf    -     -         2642   10    0 
+nipper    958151592  5  5 c   f     -     -         2632   20    0 
+nipper    958151649  6  5 c   b     b     k         2612   40    0 8d Kd
+nipper    958151686  6  4 cc  kc    b     b         2572   70  135 
+nipper    958151728  6  3 c   f     -     -         2637   10    0 
+nipper    958151760  6  2 Bk  kf    -     -         2627   10    0 
+nipper    958151781  6  1 Bcc kf    -     -         2617   30    0 
+nipper    958151805  5  5 c   r     b     k         2587   60  140 3d Ad
+nipper    958151825  5  5 cc  f     -     -         2667   20    0 
+nipper    958151856  5  4 c   k     f     -         2647   10    0 
+nipper    958151870  5  3 c   f     -     -         2637   10    0 
+nipper    958151888  4  2 Bc  r     b     b         2627   80  160 9s 6s
+nipper    958151907  4  1 Br  b     bc    kc        2707   90    0 2s 2d
+nipper    958151947  4  4 f   -     -     -         2617    0    0 
+nipper    958151955  4  3 f   -     -     -         2617    0    0 
+nipper    958151983  4  2 B   -     -     -         2617   10   15 
+nipper    958151996  4  1 Bcc kc    k     k         2622   30   60 Jc Qh
+nipper    958152012  4  4 f   -     -     -         2652    0    0 
+nipper    958152022  4  3 r   -     -     -         2652   20   35 
+nipper    958152028  4  2 Bc  br    b     -         2667   70  145 
+nipper    958152051  4  1 Bf  -     -     -         2742    5    0 
+nipper    958152056  4  4 c   f     -     -         2737   20    0 
+nipper    958152086  5  3 c   b     b     b         2717   60    0 9c Jd
+nipper    958152114  4  1 Bk  kc    kf    -         2657   20    0 
+nipper    958152129  4  1 Bf  -     -     -         2637    5    0 
+nipper    958152160  4  4 f   -     -     -         2632    0    0 
+nipper    958152163  4  3 r   b     b     b         2632   70  135 
+nipper    958152180  4  2 Bc  bc    k     -         2697   40  120 
+nipper    958152283  3  1 Bc  kc    kr    -         2777   70  150 
+nipper    958152308  3  3 c   r     k     k         2857   30    0 7s Qs
+nipper    958152327  3  2 Bc  c     f     -         2827   30    0 
+nipper    958152342  3  1 Bc  b     -     -         2797   20   40 
+nipper    958152350  3  3 f   -     -     -         2817    0    0 
+nipper    958152354  3  2 Bf  -     -     -         2817   10    0 
+nipper    958152361  3  1 Bcc kc    kc    b         2807   70    0 Kd 8h
+nipper    958152383  3  3 f   -     -     -         2737    0    0 
+nipper    958152389  3  2 Br  -     -     -         2737   30   50 
+nipper    958152395  3  1 Bc  kc    kf    -         2757   20    0 
+nipper    958152409  3  3 cc  c     c     b         2737   70  160 5h Qh
+nipper    958152429  3  2 B   -     -     -         2827   10   15 
+nipper    958152438  3  1 Bf  -     -     -         2832    5    0 
+nipper    958152448  3  3 r   k     b     b         2827   60  130 Qd Jd
+nipper    958152466  2  1 B   -     -     -         2897   10   10 
+nipper    958152471  2  1 Bc  b     b     b         2897   60  100 
+nipper    958152482  2  2 B   -     -     -         2937   10   15 
+nipper    958152485  2  1 Bc  kc    kf    -         2942   20    0 
+nipper    958152497  2  2 Bk  r     k     c         2922   50    0 Js 9c
+nipper    958152513  2  1 Bf  -     -     -         2872    5    0 
+nipper    958152517  2  2 Bk  k     k     k         2867   10   20 Kd 7h
+nipper    958152528  2  1 Bf  -     -     -         2877    5    0 
+nipper    958152533  2  2 Bk  k     k     k         2872   10   10 7c 5h
+nipper    958152546  2  1 Bc  b     -     -         2872   20   30 
+nipper    958152554  2  2 B   -     -     -         2882   10   15 
+nipper    958152557  2  1 Bc  b     -     -         2887   20   30 
+nipper    958152562  2  2 B   -     -     -         2897   10   15 
+nipper    958152565  2  1 Br  b     b     b         2902   70  140 Kh Jc
+nipper    958152576  2  2 Bk  f     -     -         2972   10    0 
+nipper    958152585  2  1 Br  b     k     k         2962   30    0 Qc As
+nipper    958152601  2  2 Bk  k     k     k         2932   10   10 Qs 2h
+nipper    958152620  2  1 Br  -     -     -         2932   20   30 
+nipper    958152627  2  2 B   -     -     -         2942   10   15 
+nipper    958152650  2  1 Bc  k     k     b         2947   30   40 
+nipper    958152666  2  2 B   -     -     -         2957   10   15 
+nipper    958152669  2  1 Bc  b     -     -         2962   20   30 
+nipper    958152680  2  2 B   -     -     -         2972   10   15 
+nipper    958152682  2  1 Bc  k     k     k         2977   10   10 4c 6s
+nipper    958152693  2  2 Bk  k     k     b         2977   30   60 3h 4s
+nipper    958152711  2  1 Bcc kf    -     -         3007   20    0 
+nipper    958152722  2  2 Bf  -     -     -         2987   10    0 
+nipper    958152726  2  1 Bc  b     bc    kf        2977   60    0 
+nipper    958152743  2  2 Bc  c     c     f         2917   50    0 
+nipper    958152755  2  1 Br  -     -     -         2867   20   30 
+nipper    958152758  2  2 Bk  f     -     -         2877   10    0 
+nipper    958152765  2  1 Br  b     -     -         2867   30   50 
+nipper    958152771  2  2 B   -     -     -         2887   10   15 
+nipper    958152773  2  1 Bc  k     k     k         2892   10    0 5s 6d
+nipper    958152785  2  2 B   -     -     -         2882   10   15 
+nipper    958152790  2  1 Br  -     -     -         2887   20   30 
+nipper    958152792  2  2 B   -     -     -         2897   10   15 
+nipper    958152794  2  1 Bc  kc    kc    k         2902   40    0 Th 9c
+nipper    958152809  2  2 Bk  b     b     -         2862   40   60 
+nipper    958152823  2  1 Bc  kc    kc    k         2882   40    0 Js 4s
+nipper    958152836  2  2 B   -     -     -         2842   10   15 
+nipper    958152842  2  1 Bc  b     -     -         2847   20   30 
+nipper    958152850  2  2 Bk  b     -     -         2857   20   30 
+nipper    958152857  2  1 Bc  k     b     b         2867   50   80 
+nipper    958152869  2  2 B   -     -     -         2897   10   15 
+nipper    958152873  2  1 Bc  k     k     k         2902   10   20 9d 4c
+nipper    958152882  2  2 Br  k     b     b         2912   60  120 Kd Ks
+nipper    958152902  2  1 Bf  -     -     -         2972    5    0 
+nipper    958152907  2  2 Bc  c     c     c         2967   70    0 Qc 6d
+nipper    958152918  2  1 Bc  b     -     -         2897   20   30 
+nipper    958152927  2  2 Bk  k     k     b         2907   30    0 5h Qh
+nipper    958152943  2  1 Bc  k     kf    -         2877   10    0 
+nipper    958152955  2  2 B   -     -     -         2867   10   15 
+nipper    958152958  2  1 Bc  kc    kc    kf        2872   40    0 
+nipper    958152972  2  2 B   -     -     -         2832   10   15 
+nipper    958152974  2  1 Bf  -     -     -         2837    5    0 
+nipper    958152978  2  2 B   -     -     -         2832   10   15 
+nipper    958152980  2  1 Bc  b     -     -         2837   20   30 
+nipper    958152986  2  2 Bk  k     k     k         2847   10   20 8h Th
+nipper    958152995  2  1 Br  b     b     bc        2857   90    0 Ah 8c
+nipper    958153012  2  2 B   -     -     -         2767   10   15 
+nipper    958153017  2  1 Bc  b     -     -         2772   20   30 
+nipper    958153022  2  2 B   -     -     -         2782   10   15 
+nipper    958153024  2  1 Bc  b     b     b         2787   60  120 2d Ks
+nipper    958153035  2  2 Bk  f     -     -         2847   10    0 
+nipper    958153044  2  1 Br  b     bc    kc        2837   90    0 Qs Qd
+nipper    958153057  2  2 B   -     -     -         2747   10   15 
+nipper    958153063  2  1 Br  -     -     -         2752   20   30 
+nipper    958153066  2  2 Bk  r     b     -         2762   50   80 
+nipper    958153079  2  1 Bc  k     k     k         2792   10    0 Th Qd
+nipper    958153089  2  2 Bk  k     k     k         2782   10    0 Ts 6h
+nipper    958153103  2  1 Bcc b     b     b         2772   70    0 Kh 3d
+nipper    958153121  2  2 Bk  k     k     k         2702   10   10 5d 6s
+nipper    958153133  3  1 Br  b     -     -         2702   30   60 
+nipper    958153147  3  3 c   r     b     b         2732   70  130 
+nipper    958153163  3  2 Bk  b     bc    c         2792   80    0 8d Tc
+nipper    958153183  3  1 Bc  b     bc    kc        2712   80    0 7d 6d
+nipper    958153199  3  3 c   b     b     b         2632   60  125 6c Qc
+nipper    958153217  3  2 Bk  k     f     -         2697   10    0 
+nipper    958153230  3  1 Bc  kc    kc    kc        2687   70    0 Ah 5h
+nipper    958153251  3  3 c   k     b     k         2617   30   65 Qc Td
+nipper    958153266  3  2 Bk  k     b     -         2652   30   45 
+nipper    958153277  3  1 Br  b     b     -         2667   50   80 
+nipper    958153289  3  3 r   b     b     b         2697   70  150 Td Th
+nipper    958153305  3  2 Bk  b     b     -         2777   40   70 
+nipper    958153321  3  1 Bc  kf    -     -         2807   20    0 
+nipper    958153334  3  3 r   -     -     -         2787   20   35 
+nipper    958153339  3  2 B   -     -     -         2802   10   15 
+nipper    958153341  3  1 Brc kc    kc    k         2807   70    0 As Jh
+nipper    958153359  3  3 f   -     -     -         2737    0    0 
+nipper    958153363  3  2 Bk  f     -     -         2737   10    0 
+nipper    958153369  3  1 Bf  -     -     -         2727    5    0 
+nipper    958153386  3  3 f   -     -     -         2722    0    0 
+nipper    958153392  3  2 Bk  k     b     -         2722   30   45 
+nipper    958153400  3  1 Bf  -     -     -         2737    5    0 
+nipper    958153405  3  3 f   -     -     -         2732    0    0 
+nipper    958153408  3  2 Bk  b     bc    kc        2732   80    0 4h 3s
+nipper    958153421  3  1 Br  b     -     -         2652   30   60 
+nipper    958153432  3  3 r   -     -     -         2682   20   35 
+nipper    958153435  3  2 Bc  bc    kc    kc        2697   80  165 6h 2c
+nipper    958153450  3  1 Br  -     -     -         2782   20   30 
+nipper    958153455  3  3 r   b     b     b         2792   70  125 
+nipper    958153470  3  2 Bc  c     f     -         2847   30    0 
+nipper    958153478  3  1 Bc  kc    kc    kc        2817   60    0 6c 3c
+nipper    958153494  3  3 f   -     -     -         2757    0    0 
+nipper    958153500  3  2 Bk  k     f     -         2757   10    0 
+nipper    958153517  3  1 Bc  b     bc    kf        2747   60    0 
+nipper    958153534  3  3 cc  c     c     r         2687   90  185 4c Tc
+nipper    958153548  3  2 B   -     -     -         2782   10   15 
+nipper    958153552  3  1 Bc  kf    -     -         2787   10    0 
+nipper    958153574  5  5 cc  c     ccc   f         2777  110    0 
+nipper    958153617  5  4 f   -     -     -         2667    0    0 
+nipper    958153642  5  3 c   k     k     f         2667   10    0 
+nipper    958153663  5  2 Bk  b     -     -         2657   20   40 
+nipper    958153679  5  1 Bc  kf    -     -         2677   10    0 
+nipper    958153696  5  5 f   -     -     -         2667    0    0 
+nipper    958153712  4  4 f   -     -     -         2667    0    0 
+nipper    958153715  4  3 f   -     -     -         2667    0    0 
+nipper    958153727  4  2 Bc  k     k     k         2667   20    0 4h 7h
+nipper    958153753  4  1 Bf  -     -     -         2647    5    0 
+nipper    958153764  4  4 f   -     -     -         2642    0    0 
+nipper    958153781  4  3 f   -     -     -         2642    0    0 
+nipper    958153799  4  2 Bk  b     b     b         2642   60  105 
+nipper    958153814  4  1 Bc  b     b     -         2687   40   80 
+nipper    958153828  4  4 f   -     -     -         2727    0    0 
+nipper    958153830  4  3 rc  b     bc    c         2727  100    0 Ac Qs
+nipper    958153851  4  2 Bk  bc    c     c         2627   70    0 Jh 5c
+nipper    958153868  4  1 Bc  kf    -     -         2557   20    0 
+nipper    958153883  4  4 r   k     k     k         2537   20   45 5d 5s
+nipper    958153897  4  3 r   k     k     k         2562   20   50 Kc As
+nipper    958153918  4  2 Bk  kf    -     -         2592   10    0 
+nipper    958153939  4  1 Bc  kc    kf    -         2582   30    0 
+nipper    958153971  4  4 c   f     -     -         2552   10    0 
+nipper    958153987  4  3 cc  kf    -     -         2542   20    0 
+nipper    958153995  4  2 Bk  kf    -     -         2522   10    0 
+nipper    958154004  4  1 Bf  -     -     -         2512    5    0 
+nipper    958154016  4  4 c   c     c     c         2507   60    0 7h 8h
+nipper    958154035  4  3 c   f     -     -         2447   10    0 
+nipper    958154053  4  2 Bk  kc    krc   bc        2437  140    0 5s Th
+nipper    958154084  4  1 Bf  -     -     -         2297    5    0 
+nipper    958154103  4  4 rc  k     c     f         2292   60    0 
+nipper    958154127  4  3 c   k     k     b         2232   30   35 Kh 2h
+nipper    958154147  4  2 Bk  kf    -     -         2237   10    0 
+nipper    958154164  4  1 Bc  kf    -     -         2227   10    0 
+nipper    958154177  4  4 c   k     k     c         2217   30    0 Ks Th
+nipper    958154196  4  3 ccc ccc   kc    kc        2187  120    0 Jd 4d
+nipper    958154235  4  2 BQ  -     -     -         2067   10    0 
+nipper    958185390  9  9 f   -     -     -         2057    0    0 
+nipper    958185458  8  7 c   f     -     -         2057   10    0 
+nipper    958185499  8  6 f   -     -     -         2047    0    0 
+nipper    958185520  8  6 cc  kc    kc    kc        2047   70    0 Jd Qh
+nipper    958185564  8  5 f   -     -     -         1977    0    0 
+nipper    958185583  9  4 f   -     -     -         1977    0    0 
+nipper    958185637  9  3 f   -     -     -         1977    0    0 
+nipper    958185703  9  2 Bk  kf    -     -         1977   10    0 
+nipper    958185744 10  1 Bf  -     -     -         1967    5    0 
+nipper    958185778 10 10 c   f     -     -         1962   20    0 
+nipper    958185829 10  9 f   -     -     -         1942    0    0 
+nipper    958185864 10  8 rc  b     k     k         1942   40    0 Kc Td
+nipper    958185911 10  7 f   -     -     -         1902    0    0 
+nipper    958185948 10  6 f   -     -     -         1902    0    0 
+nipper    958185982 10  5 c   kf    -     -         1902   10    0 
+nipper    958186056 10  4 c   br    b     b         1892   80  280 Qs Kh
+nipper    958186100 10  3 f   -     -     -         2092    0    0 
+nipper    958186142 10  2 Bk  k     kf    -         2092   10    0 
+nipper    958186178 10  1 Bf  -     -     -         2082    5    0 
+nipper    958186250 10 10 c   f     -     -         2077   20    0 
+nipper    958186276 10  9 c   c     c     f         2057   50    0 
+nipper    958186336 10  8 f   -     -     -         2007    0    0 
+nipper    958186396 10  7 f   -     -     -         2007    0    0 
+nipper    958186480 10  6 f   -     -     -         2007    0    0 
+nipper    958186526 10  5 f   -     -     -         2007    0    0 
+nipper    958186577 10  4 f   -     -     -         2007    0    0 
+nipper    958186611 10  3 cc  kcc   kr    b         2007  110  410 Ad 5d
+nipper    958186674 10  2 Bk  kc    kc    kf        2307   40    0 
+nipper    958186731 10  1 Bc  b     b     -         2267   40   80 
+nipper    958186781 10 10 f   -     -     -         2307    0    0 
+nipper    958186876  9  9 cc  c     rc    b         2307  110  255 
+nipper    958186907  9  8 f   -     -     -         2452    0    0 
+nipper    958186952  8  6 f   -     -     -         2452    0    0 
+nipper    958186988  8  5 f   -     -     -         2452    0    0 
+nipper    958187022  9  5 f   -     -     -         2452    0    0 
+nipper    958187062  8  3 f   -     -     -         2452    0    0 
+nipper    958187116  8  2 Bk  kc    kf    -         2452   20    0 
+nipper    958187188  8  1 Bf  -     -     -         2432    5    0 
+nipper    958187211  9  9 f   -     -     -         2427    0    0 
+nipper    958187260  9  7 f   -     -     -         2427    0    0 
+nipper    958187298  9  6 f   -     -     -         2427    0    0 
+nipper    958187361  8  5 f   -     -     -         2427    0    0 
+nipper    958187443  8  4 f   -     -     -         2427    0    0 
+nipper    958187504  8  2 BQ  -     -     -         2427   10    0 
+nipper    958188291  6  5 cc  r     k     k         2417   40   85 As Qd
+nipper    958188324  8  4 f   -     -     -         2462    0    0 
+nipper    958188381  8  3 f   -     -     -         2462    0    0 
+nipper    958188437  8  2 Bk  f     -     -         2462   10    0 
+nipper    958188493  9  1 Bf  -     -     -         2452    5    0 
+nipper    958188539  8  8 c   f     -     -         2447   10    0 
+nipper    958188569  9  8 c   f     -     -         2437   10    0 
+nipper    958188617  9  7 f   -     -     -         2427    0    0 
+nipper    958188654  9  6 c   k     b     -         2427   30   45 
+nipper    958188686  9  5 f   -     -     -         2442    0    0 
+nipper    958188723  9  4 f   -     -     -         2442    0    0 
+nipper    958188748 10  3 f   -     -     -         2442    0    0 
+nipper    958188792 10  2 Bk  f     -     -         2442   10    0 
+nipper    958188829 10  1 Bf  -     -     -         2432    5    0 
+nipper    958188882 10 10 f   -     -     -         2427    0    0 
+nipper    958188922 10  9 cc  f     -     -         2427   20    0 
+nipper    958189009 10  8 c   c     c     c         2407   90    0 6d Td
+nipper    958189082 10  7 rr  k     kc    kf        2317   60    0 
+nipper    958189139 10  6 c   f     -     -         2257   10    0 
+nipper    958189190 10  5 f   -     -     -         2247    0    0 
+nipper    958189233 10  4 c   kf    -     -         2247   10    0 
+nipper    958189293 10  3 f   -     -     -         2237    0    0 
+nipper    958189340 10  2 Bk  kf    -     -         2237   10    0 
+nipper    958189375 10  1 Bc  kf    -     -         2227   10    0 
+nipper    958189445 10 10 f   -     -     -         2217    0    0 
+nipper    958189476  9  8 f   -     -     -         2217    0    0 
+nipper    958189543  9  7 f   -     -     -         2217    0    0 
+nipper    958189596 10  7 f   -     -     -         2217    0    0 
+nipper    958189698 10  6 rc  k     b     b         2217   70  160 
+nipper    958189786  9  4 KQ  -     -     -         2307    0    0 
+nipper    958189986 10  9 f   -     -     -         2307    0    0 
+nipper    958190074  9  7 f   -     -     -         2307    0    0 
+nipper    958190147  8  5 f   -     -     -         2307    0    0 
+nipper    958190197  8  4 f   -     -     -         2307    0    0 
+nipper    958190236  8  3 cc  kf    -     -         2307   20    0 
+nipper    958190313  9  2 Bk  bc    kc    kr        2287   90  215 Th Ad
+nipper    958190381  9  1 Bc  kf    -     -         2412   10    0 
+nipper    958190419  9  9 f   -     -     -         2402    0    0 
+nipper    958190464  9  8 f   -     -     -         2402    0    0 
+nipper    958190539  9  7 c   k     f     -         2402   10    0 
+nipper    958190575  9  6 cc  kf    -     -         2392   20    0 
+nipper    958190639  9  5 c   k     kf    -         2372   10    0 
+nipper    958190730  8  3 f   -     -     -         2362    0    0 
+nipper    958190774  8  3 f   -     -     -         2362    0    0 
+nipper    958190821  8  2 Bf  -     -     -         2362   10    0 
+nipper    958190863  8  1 Bc  kf    -     -         2352   30    0 
+nipper    958190927  9  9 f   -     -     -         2322    0    0 
+nipper    958190973  8  7 cc  c     c     b         2322   80  300 2s 9s
+nipper    958191050  8  6 f   -     -     -         2542    0    0 
+nipper    958191089  9  6 c   f     -     -         2542   20    0 
+nipper    958191143  9  5 cc  b     b     b         2522   70  290 
+nipper    958191233  9  4 f   -     -     -         2742    0    0 
+nipper    958191255  9  3 f   -     -     -         2742    0    0 
+nipper    958191293  8  2 Bk  k     kf    -         2742   10    0 
+nipper    958191346  8  1 Bf  -     -     -         2732    5    0 
+nipper    958191374  9  9 cc  f     -     -         2727   20    0 
+nipper    958191439 10  9 c   c     k     f         2707   20    0 
+nipper    958191471 10  8 f   -     -     -         2687    0    0 
+nipper    958191522 10  7 r   r     c     f         2687   70    0 
+nipper    958191588 10  6 f   -     -     -         2617    0    0 
+nipper    958191694  9  5 cc  c     f     -         2617   30    0 
+nipper    958191773 10  4 f   -     -     -         2587    0    0 
+nipper    958191878 10  3 f   -     -     -         2587    0    0 
+nipper    958191997 10  2 Bf  -     -     -         2587   10    0 
+nipper    958192080 10  1 Bc  kf    -     -         2577   20    0 
+nipper    958192154 10 10 f   -     -     -         2557    0    0 
+nipper    958192226 10  9 f   -     -     -         2557    0    0 
+nipper    958192282 10  8 c   cc    cc    f         2557   90    0 
+nipper    958192362 10  7 f   -     -     -         2467    0    0 
+nipper    958192428 10  6 f   -     -     -         2467    0    0 
+nipper    958192500 10  5 f   -     -     -         2467    0    0 
+nipper    958192565 10  4 f   -     -     -         2467    0    0 
+nipper    958192634 10  3 f   -     -     -         2467    0    0 
+nipper    958192765 10  2 Bc  kf    -     -         2467   20    0 
+nipper    958192886 10  1 Bc  kf    -     -         2447   10    0 
+nipper    958192941 10 10 cc  f     -     -         2437   20    0 
+nipper    958193057  9  8 f   -     -     -         2417    0    0 
+nipper    958193144  6  6 c   f     -     -         2417   10    0 
+nipper    958193219  8  6 f   -     -     -         2407    0    0 
+nipper    958193279  9  5 f   -     -     -         2407    0    0 
+nipper    958193337  9  4 f   -     -     -         2407    0    0 
+nipper    958193382  9  3 f   -     -     -         2407    0    0 
+nipper    958193424  9  2 Bf  -     -     -         2407   10    0 
+nipper    958193476  9  1 Bc  bc    kf    -         2397   30    0 
+nipper    958193538  9  9 f   -     -     -         2367    0    0 
+nipper    958193607  9  8 f   -     -     -         2367    0    0 
+nipper    958193669  9  7 f   -     -     -         2367    0    0 
+nipper    958193708  9  6 c   k     kf    -         2367   10    0 
+nipper    958193773  8  4 f   -     -     -         2357    0    0 
+nipper    958193843  8  3 f   -     -     -         2357    0    0 
+nipper    958193877  9  2 Bk  kc    kc    kc        2357   70    0 7d Kh
+nipper    958193938  9  1 Bc  kf    -     -         2287   10    0 
+nipper    958193997  9  9 f   -     -     -         2277    0    0 
+nipper    958194029  9  8 f   -     -     -         2277    0    0 
+nipper    958194111 10  8 c   f     -     -         2277   10    0 
+nipper    958194245 10  7 cc  c     f     -         2267   30    0 
+nipper    958194327 10  6 f   -     -     -         2237    0    0 
+nipper    958194377 10  5 f   -     Q     -         2237    0    0 
+nipper    958411532 10  2 Bc  kf    -     -         1300   20    0 
+nipper    958411560 10  1 Bc  br    kK    -         1280   40  150 
+nipper    958533911 10  7 f   -     -     -          760    0    0 
+nipper    958534012 10  6 f   -     -     -          760    0    0 
+nipper    958534118  9  4 f   -     -     -          760    0    0 
+nipper    958534194  9  4 f   -     -     -          760    0    0 
+nipper    958534269  9  3 f   -     -     -          760    0    0 
+nipper    958534326 10  2 Bf  -     -     -          760   10    0 
+nipper    958534392 10  1 Bf  -     -     -          750    5    0 
+nipper    958534435 10 10 f   -     -     -          745    0    0 
+nipper    958534517  9  8 f   -     -     -          745    0    0 
+nipper    958534652  8  7 c   f     -     -          745   20    0 
+nipper    958534677  8  6 f   -     -     -          725    0    0 
+nipper    958534720  8  5 f   -     -     -          725    0    0 
+nipper    958534770  8  4 f   -     -     -          725    0    0 
+nipper    958534853  7  3 cc  f     -     -          725   20    0 
+nipper    958534925  8  2 Br  b     bf    -          705   50    0 
+nipper    958534969  7  1 Bf  -     -     -          655    5    0 
+nipper    958535036  8  8 f   -     -     -          650    0    0 
+nipper    958535117  9  8 f   -     -     -          650    0    0 
+nipper    958535211  9  7 f   -     -     -          650    0    0 
+nipper    958535268  9  7 f   -     -     -          650    0    0 
+nipper    958535328  8  6 f   -     -     -          650    0    0 
+nipper    958535432  8  5 c   kf    -     -          650   10    0 
+nipper    958535535  8  4 f   -     -     -          640    0    0 
+nipper    958535593  8  3 f   -     -     -          640    0    0 
+nipper    958535640  8  2 Bk  kf    -     -          640   10    0 
+nipper    958535695  8  1 Bf  -     -     -          630    5    0 
+nipper    958535736  8  8 f   -     -     -          625    0    0 
+nipper    958535814  8  7 f   -     -     -          625    0    0 
+nipper    958535897  8  6 c   k     f     -          625   20    0 
+nipper    958535948  8  5 c   c     k     f          605   40    0 
+nipper    958536023  8  4 f   -     -     -          565    0    0 
+nipper    958536093  8  3 c   rc    kc    kc         565   80    0 As Kh
+nipper    958536172  8  2 Bk  kf    -     -          485   10    0 
+nipper    958536218  8  1 Bc  kf    -     -          475   20    0 
+nipper    958536255  8  8 f   -     -     -          455    0    0 
+nipper    958536307  8  7 f   -     -     -          455    0    0 
+nipper    958536378  8  6 f   -     -     -          455    0    0 
+nipper    958536478  8  5 f   -     -     -          455    0    0 
+nipper    958536531  8  4 c   b     b     b          455   60  160 Ac Jh
+nipper    958536611  9  3 f   -     -     -          555    0    0 
+nipper    958536697  9  2 Bk  k     b     b          555   50  120 Kc Td
+nipper    958536773  9  1 Bc  kcc   kc    kc         625   70  240 Ac 8h
+nipper    958536892  9  9 f   -     -     -          795    0    0 
+nipper    958536967  9  8 c   f     -     -          795   20    0 
+nipper    958537001  9  7 c   f     -     -          775   20    0 
+nipper    958537097 10  7 f   -     -     -          755    0    0 
+nipper    958537173  9  5 c   f     -     -          755   20    0 
+nipper    958537213  9  4 f   -     -     -          735    0    0 
+nipper    958537288  9  3 f   -     -     -          735    0    0 
+nipper    958537346  9  2 Bf  -     -     -          735   10    0 
+nipper    958537408  9  1 Bc  kf    -     -          725   20    0 
+nipper    958537486  9  9 f   -     -     -          705    0    0 
+nipper    958537559  9  8 f   -     -     -          705    0    0 
+nipper    958537682  8  6 f   -     -     -          705    0    0 
+nipper    958537804  8  5 f   -     -     -          705    0    0 
+nipper    958537869  8  4 f   -     -     -          705    0    0 
+nipper    958537932  8  3 f   -     -     -          705    0    0 
+nipper    958537996  6  2 Bf  -     -     -          705   10    0 
+nipper    958538034  6  1 Bf  -     -     -          695    5    0 
+nipper    958538084  6  6 f   -     -     -          690    0    0 
+nipper    958538124  6  5 f   -     -     -          690    0    0 
+nipper    958538152  6  4 f   -     -     -          690    0    0 
+nipper    958538192  5  2 Bk  kf    -     -          690   10    0 
+nipper    958538235  5  1 Bf  -     -     -          680    5    0 
+nipper    958538273  5  5 c   c     rr    b          675  120  230 
+nipper    958538319  5  4 f   -     -     -          785    0    0 
+nipper    958538366  5  3 f   -     -     -          785    0    0 
+nipper    958538439  5  2 Bk  kf    -     -          785   10    0 
+nipper    958538468  5  1 Bf  -     -     -          775    5    0 
+nipper    958538502  5  5 c   k     f     -          770   30    0 
+nipper    958538595  5  4 c   kf    -     -          740   10    0 
+nipper    958538681  5  3 f   -     -     -          730    0    0 
+nipper    958538743  5  2 Bc  k     k     bc         730   60    0 Jc Qc
+nipper    958538791  5  1 Bf  -     -     -          670    5    0 
+nipper    958538827  6  5 f   -     -     -          665    0    0 
+nipper    958538867  6  4 rc  c     kc    kc         665   90  280 Qh Qc
+nipper    958538956  6  3 f   -     -     -          855    0    0 
+nipper    958539041  6  2 Bf  -     -     -          855   10    0 
+nipper    958539124  6  1 Bf  -     -     -          845    5    0 
+nipper    958539200  6  6 c   c     f     -          840   20    0 
+nipper    958539232  6  5 f   -     -     -          820    0    0 
+nipper    958539255  6  4 f   -     -     -          820    0    0 
+nipper    958539277  6  3 f   -     -     -          820    0    0 
+nipper    958539320  6  2 Bc  k     k     b          820   40  100 
+nipper    958539366  6  1 Bf  -     -     -          880    5    0 
+nipper    958539406  6  6 f   -     -     -          875    0    0 
+nipper    958539414  6  5 f   -     -     -          875    0    0 
+nipper    958539438  6  4 f   -     -     -          875    0    0 
+nipper    958539467  6  3 c   b     bc    kf         875   60    0 
+nipper    958539510  6  2 Bf  -     -     -          815   10    0 
+nipper    958539538  6  1 Bf  -     -     -          805    5    0 
+nipper    958539587  6  6 f   -     -     -          800    0    0 
+nipper    958539618  6  5 c   f     -     -          800   10    0 
+nipper    958539667  6  4 f   -     -     -          790    0    0 
+nipper    958539738  6  3 r   -     -     -          790   20   35 
+nipper    958539748  6  2 Bc  f     -     -          805   20    0 
+nipper    958539786  6  1 Bf  -     -     -          785    5    0 
+nipper    958539842  6  6 c   r     c     c          780   80  100 Ks 4s
+nipper    958539891  4  4 r   -     -     -          800   20   35 
+nipper    958539905  4  3 f   -     -     -          815    0    0 
+nipper    958539927  4  2 Bc  kc    kc    k          815   50  105 Qc Ks
+nipper    958539966  4  1 Bc  k     k     kc         870   30    0 Td Qs
+nipper    958540040  4  4 f   -     -     -          840    0    0 
+nipper    958540056  4  3 c   f     -     -          840   10    0 
+nipper    958540088  4  2 Br  b     -     -          830   30   55 
+nipper    958540113  4  1 Bf  -     -     -          855    5    0 
+nipper    958540132  4  4 f   -     -     -          850    0    0 
+nipper    958540181  4  3 f   -     -     -          850    0    0 
+nipper    958540206  4  2 Bk  kf    -     -          850   10    0 
+nipper    958540231  4  1 Bc  b     b     -          840   40   60 
+nipper    958540252  4  4 f   -     -     -          860    0    0 
+nipper    958540256  4  3 rc  b     b     b          860   80  165 Th Ah
+nipper    958540289  4  2 Bc  b     c     c          945   70    0 9h 8d
+nipper    958540339  4  1 Bc  kc    kr    b          875   90  200 9h Jh
+nipper    958540372  4  4 f   -     -     -          985    0    0 
+nipper    958540391  5  3 f   -     -     -          985    0    0 
+nipper    958540479  5  2 Bk  kf    -     -          985   10    0 
+nipper    958540551  4  1 Bc  b     b     b          975   60  100 
+nipper    958540584  4  4 c   k     c     c         1015   50    0 8s Ks
+nipper    958540627  3  2 Bf  -     -     -          965   10    0 
+nipper    958540636  3  1 Bf  -     -     -          955    5    0 
+nipper    958540640  3  3 f   -     -     -          950    0    0 
+nipper    958540654  3  2 Bc  r     b     k          950   60  120 9s As
+nipper    958540684  3  1 Bc  b     -     -         1010   20   30 
+nipper    958540703  3  3 c   k     f     -         1020   10    0 
+nipper    958540723  3  2 BQ  -     -     -         1010   10    0 
+nipper    958627507  4  2 Bk  kf    -     -         1800   10    0 
+nipper    958627537  3  1 Bf  -     -     -         1790    5    0 
+nipper    958627546  3  3 c   b     -     -         1785   20   35 
+nipper    958627558  3  2 B   -     -     -         1800   10   15 
+nipper    958627563  3  1 Bf  -     -     -         1805    5    0 
+nipper    958627567  3  3 c   k     b     k         1800   30    0 2s 8s
+nipper    958627594  3  2 Bk  k     f     -         1770   10    0 
+nipper    958627635  3  1 Bf  -     -     -         1760    5    0 
+nipper    958627638  3  3 cc  c     f     -         1755   30    0 
+nipper    958627671  3  2 Bk  b     -     -         1725   20   30 
+nipper    958627686  3  1 Bf  -     -     -         1735    5    0 
+nipper    958627701  3  3 f   -     -     -         1730    0    0 
+nipper    958627710  3  2 Bc  c     c     f         1730   50    0 
+nipper    958627732  3  1 Bc  kf    -     -         1680   20    0 
+nipper    958627745  3  3 f   -     -     -         1660    0    0 
+nipper    958627749  3  2 Bk  k     b     -         1660   30   45 
+nipper    958627761  3  1 Br  b     b     b         1675   70    0 6c 6s
+nipper    958627777  3  3 rr  b     c     r         1605  110  240 Qs As
+nipper    958627824  3  2 B   -     -     -         1735   10   15 
+nipper    958627830  3  1 Bc  b     b     b         1740   60  120 Ac 2c
+nipper    958627851  3  3 f   -     -     -         1800    0    0 
+nipper    958627856  3  2 B   -     -     -         1800   10   15 
+nipper    958627858  3  1 Bc  b     b     -         1805   40   60 
+nipper    958627873  3  3 f   -     -     -         1825    0    0 
+nipper    958627878  3  2 Bc  c     c     kc        1825   70    0 Kh 7c
+nipper    958627912  3  1 Bc  k     k     k         1755   10    0 8h 7d
+nipper    958627942  3  3 c   b     b     k         1745   40    0 3d 4d
+nipper    958627966  3  2 Bk  k     kf    -         1705   10    0 
+nipper    958628001  3  1 Bc  b     b     -         1695   40   70 
+nipper    958628014  3  3 r   b     -     -         1725   30   55 
+nipper    958628024  3  2 Bk  k     k     kf        1750   10    0 
+nipper    958628041  3  1 Bf  -     -     -         1740    5    0 
+nipper    958628045  3  3 c   b     b     -         1735   40   70 
+nipper    958628069  3  2 B   -     -     -         1765   10   15 
+nipper    958628076  3  1 BQ  -     -     -         1770    5    0 
+nipper    958890013 10  3 f   -     -     -          770    0    0 
+nipper    958890077 10  2 Bk  b     br    kc         770  100    0 Qc 7h
+nipper    958890153  9  1 Bf  -     -     -          670    5    0 
+nipper    958890229  9  9 f   -     -     -          665    0    0 
+nipper    958890278  9  8 f   -     -     -          665    0    0 
+nipper    958890348  7  6 f   -     -     -          665    0    0 
+nipper    958890401  7  4 c   k     k     k          665   10    0 8c 8d
+nipper    958890436  7  3 f   -     -     -          655    0    0 
+nipper    958890465  7  2 B   -     -     -          655   10   15 
+nipper    958890469  7  1 Bc  kc    kc    krc        660  100  105 9h Jh
+nipper    958890518  7  7 f   -     -     -          665    0    0 
+nipper    958890558  7  6 f   -     -     -          665    0    0 
+nipper    958890590  7  5 f   -     -     -          665    0    0 
+nipper    958890620  8  5 f   -     -     -          665    0    0 
+nipper    958890658  9  5 f   -     -     -          665    0    0 
+nipper    958890709  8  4 c   kc    k     f          665   20    0 
+nipper    958890826  8  3 f   -     -     -          645    0    0 
+nipper    958890898  9  2 Bk  kc    kcc   kf         645   60    0 
+nipper    958890978  9  1 Bf  -     -     -          585    5    0 
+nipper    958891051  9  9 f   -     -     -          580    0    0 
+nipper    958891138 10  9 f   -     -     -          580    0    0 
+nipper    958891172 10  8 cc  cc    c     c          580  120    0 Ah 8s
+nipper    958891260 10  7 f   -     -     -          460    0    0 
+nipper    958891330 10  6 f   -     -     -          460    0    0 
+nipper    958891415 10  5 f   -     -     -          460    0    0 
+nipper    958891466 10  4 f   -     -     -          460    0    0 
+nipper    958891504 10  3 f   -     -     -          460    0    0 
+nipper    958891575 10  2 Bk  kf    -     -          460   10    0 
+nipper    958891620  9  1 Bf  -     -     -          450    5    0 
+nipper    958891651  9  9 f   -     -     -          445    0    0 
+nipper    958891688  9  8 f   -     -     -          445    0    0 
+nipper    958891734  9  7 f   -     -     -          445    0    0 
+nipper    958891758  9  6 f   -     -     -          445    0    0 
+nipper    958891804  9  5 f   -     -     -          445    0    0 
+nipper    958891852  9  4 f   -     -     -          445    0    0 
+nipper    958891925 10  3 f   -     -     -          445    0    0 
+nipper    958891984 10  2 Bk  r     b     k          445   50    0 Th Ks
+nipper    958892058 10  1 Bf  -     -     -          395    5    0 
+nipper    958892136 10 10 f   -     -     -          390    0    0 
+nipper    958892194 10  9 f   -     -     -          390    0    0 
+nipper    958892237 10  8 c   c     c     c          390   60    0 Ad 7s
+nipper    958892315 10  7 f   -     -     -          330    0    0 
+nipper    958892397 10  6 c   f     -     -          330   10    0 
+nipper    958892444 10  5 f   -     -     -          320    0    0 
+nipper    958892511 10  4 f   -     -     -          320    0    0 
+nipper    958892587 10  3 c   k     b     bc         320   70    0 Js Ks
+nipper    958892687 10  2 Bk  kc    kf    -          250   20    0 
+nipper    958892795 10  1 Bc  kf    -     -          230   20    0 
+nipper    958892855 10 10 c   rc    rc    rrA        210  210    0 Jc Kc
+nipper    958893091 10  8 f   -     -     -         1000    0    0 
+nipper    958893165  9  6 f   -     -     -         1000    0    0 
+nipper    958893216  9  6 f   -     -     -         1000    0    0 
+nipper    958893278  9  5 f   -     -     -         1000    0    0 
+nipper    958893331  9  4 c   kc    kc    kc        1000   60  175 Kh Qs
+nipper    958893391  8  2 Bk  cc    kf    -         1115   30    0 
+nipper    958893439  8  1 Bc  k     k     b         1085   40  110 9h Kh
+nipper    958893493  8  8 f   -     -     -         1155    0    0 
+nipper    958893536  8  7 f   -     -     -         1155    0    0 
+nipper    958893573  9  7 f   -     -     -         1155    0    0 
+nipper    958893618  9  6 f   -     -     -         1155    0    0 
+nipper    958893669  9  5 f   -     -     -         1155    0    0 
+nipper    958893715  8  3 f   -     -     -         1155    0    0 
+nipper    958893743  8  2 Bk  kf    -     -         1155   10    0 
+nipper    958893813  9  1 Bf  -     -     -         1145    5    0 
+nipper    958893869  9  3 Q   -     -     -         1140    0    0 

@@ -1,0 +1,1146 @@
+prodigy   959214554  7  4 f   -     -     -         1000    0    0 
+prodigy   959214622  8  4 f   -     -     -         1000    0    0 
+prodigy   959214710 10  3 rc  cc    kcc   cc        1000  220    0 Td Tc
+prodigy   959214817 10  2 Br  rc    r     brc        780  200    0 Qd Qc
+prodigy   959214902  9  1 Bf  -     -     -          580    5    0 
+prodigy   959214932 10 10 f   -     -     -          575    0    0 
+prodigy   959215000 10  9 f   -     -     -          575    0    0 
+prodigy   959215068  9  7 f   -     -     -          575    0    0 
+prodigy   959215123 10  7 f   -     -     -          575    0    0 
+prodigy   959215178 10  6 c   kc    b     bc         575   80    0 As 7c
+prodigy   959215260 10  5 f   -     -     -          495    0    0 
+prodigy   959215339  9  3 c   k     f     -          495   10    0 
+prodigy   959215409 10  4 c   kc    kc    kc         485   60    0 9s Ts
+prodigy   959215462  9  2 Bf  -     -     -          425   10    0 
+prodigy   959215488  9  1 Bc  kc    kc    kf         415   50    0 
+prodigy   959215557  9  8 f   -     -     -          365    0    0 
+prodigy   959215614  8  7 f   -     -     -          365    0    0 
+prodigy   959215655  8  6 f   -     -     -          365    0    0 
+prodigy   959215687  8  5 f   -     -     -          365    0    0 
+prodigy   959215719  8  4 f   -     -     -          365    0    0 
+prodigy   959215766  8  3 f   -     -     -          365    0    0 
+prodigy   959215817  7  2 BQ  -     -     -          365   10    0 
+prodigy   959218249 10  5 f   -     -     -          355    0    0 
+prodigy   959218322 10  4 f   -     -     -          355    0    0 
+prodigy   959218356 10  3 c   c     r     c          355   80  205 5s Ac
+prodigy   959218427 10  2 Bk  kc    kc    k          480   40   45 8d Qh
+prodigy   959218485 10  1 Bc  kc    kc    kf         485   40    0 
+prodigy   959218562 10 10 f   -     -     -          445    0    0 
+prodigy   959218625 10  9 f   -     -     -          445    0    0 
+prodigy   959218711 10  8 f   -     -     -          445    0    0 
+prodigy   959218742 10  7 f   -     -     -          445    0    0 
+prodigy   959218805 10  6 cc  k     f     -          445   20    0 
+prodigy   959218878  9  5 c   c     kf    -          425   20    0 
+prodigy   959218995 10  4 f   -     -     -          405    0    0 
+prodigy   959219048 10  3 f   -     -     -          405    0    0 
+prodigy   959219122 10  2 Br  b     b     -          405   50   80 
+prodigy   959219152  9  1 Bc  kc    kf    -          435   20    0 
+prodigy   959219194  9  9 f   -     -     -          415    0    0 
+prodigy   959219293  8  7 f   -     -     -          415    0    0 
+prodigy   959219400  8  6 f   -     -     -          415    0    0 
+prodigy   959219410  8  6 f   -     -     -          415    0    0 
+prodigy   959219454  8  5 f   -     -     -          415    0    0 
+prodigy   959219553  8  4 c   c     c     c          415   60  190 4c 5c
+prodigy   959219614  8  3 c   f     -     -          545   10    0 
+prodigy   959219650  8  2 Bk  kc    kc    kf         535   40    0 
+prodigy   959219695  8  1 Bc  kc    kf    -          495   20    0 
+prodigy   959219739 10 10 c   f     -     -          475   10    0 
+prodigy   959219770 10  9 f   -     -     -          465    0    0 
+prodigy   959219828  9  8 f   -     -     -          465    0    0 
+prodigy   959219900 10  7 f   -     -     -          465    0    0 
+prodigy   959219929 10  6 f   -     -     -          465    0    0 
+prodigy   959220021 10  5 f   -     -     -          465    0    0 
+prodigy   959220068  8  4 r   b     b     b          465   70  175 Kc Kd
+prodigy   959220096  8  2 Bk  k     b     b          570   50  120 Qc 2c
+prodigy   959220152  9  1 Bc  kr    -     -          640   30   60 
+prodigy   959220177  9  9 f   -     -     -          670    0    0 
+prodigy   959220212  9  8 f   -     -     -          670    0    0 
+prodigy   959220273 10  8 c   f     -     -          670   10    0 
+prodigy   959220340 10  7 c   f     -     -          660   10    0 
+prodigy   959220420 10  6 f   -     -     -          650    0    0 
+prodigy   959220465 10  5 f   -     -     -          650    0    0 
+prodigy   959220530 10  4 f   -     -     -          650    0    0 
+prodigy   959220607 10  3 f   -     -     -          650    0    0 
+prodigy   959220651 10  2 Bc  kf    -     -          650   20    0 
+prodigy   959220716 10  1 Bf  -     -     -          630    5    0 
+prodigy   959220741 10 10 f   -     -     -          625    0    0 
+prodigy   959220801 10  9 cc  kc    kf    -          625   30    0 
+prodigy   959220874 10  8 cc  kc    k     ccc        595  110    0 Jd As
+prodigy   959220994 10  7 r   b     b     b          485   70  205 
+prodigy   959221102 10  6 f   -     -     -          620    0    0 
+prodigy   959221200 10  5 f   -     -     -          620    0    0 
+prodigy   959221255 10  4 f   -     -     -          620    0    0 
+prodigy   959221343 10  3 f   -     -     -          620    0    0 
+prodigy   959221390 10  2 Bc  k     k     kf         620   20    0 
+prodigy   959221469 10  1 Bf  -     -     -          600    5    0 
+prodigy   959221530 10 10 f   -     -     -          595    0    0 
+prodigy   959221578 10  9 f   -     -     -          595    0    0 
+prodigy   959221633 10  8 f   -     -     -          595    0    0 
+prodigy   959221691 10  7 f   -     -     -          595    0    0 
+prodigy   959221743 10  6 cc  c     c     r          595   90  215 2c 2h
+prodigy   959221795 10  5 f   -     -     -          720    0    0 
+prodigy   959221886  9  4 r   c     c     f          720   50    0 
+prodigy   959221963 10  3 f   -     -     -          670    0    0 
+prodigy   959222039 10  2 Bf  -     -     -          670   10    0 
+prodigy   959222101 10  1 Bc  k     kf    -          660   10    0 
+prodigy   959222177 10 10 fQ  -     -     -          650    0    0 
+prodigy   959223623 10  9 f   -     -     -          650    0    0 
+prodigy   959223694  9  7 f   -     -     -          650    0    0 
+prodigy   959223714  9  6 f   -     -     -          650    0    0 
+prodigy   959223820  9  5 f   -     -     -          650    0    0 
+prodigy   959223890  9  5 r   r     b     b          650   80  210 Ac Ad
+prodigy   959223938  9  4 c   f     -     -          780   20    0 
+prodigy   959224010  9  3 c   kf    -     -          760   10    0 
+prodigy   959224082  9  2 Bc  br    b     k          750   70    0 8c 5c
+prodigy   959224148  9  1 Bc  k     k     k          680   10    0 4h Kd
+prodigy   959224205  9  9 f   -     -     -          670    0    0 
+prodigy   959224262  9  8 c   c     c     k          670   50    0 Kc Th
+prodigy   959224342  9  7 f   -     -     -          620    0    0 
+prodigy   959224402  7  4 cc  krr   b     brc        620  160  450 Ac 5c
+prodigy   959224501  8  4 f   -     -     -          910    0    0 
+prodigy   959224562  9  3 f   -     -     -          910    0    0 
+prodigy   959224658  9  2 Bk  kf    -     -          910   10    0 
+prodigy   959224691 10  1 Bc  kf    -     -          900   10    0 
+prodigy   959224764 10 10 f   -     -     -          890    0    0 
+prodigy   959224803 10  9 c   k     f     -          890   10    0 
+prodigy   959224858 10  8 f   -     -     -          880    0    0 
+prodigy   959224948 10  7 f   -     -     -          880    0    0 
+prodigy   959225002 10  6 c   f     -     -          880   10    0 
+prodigy   959225069 10  5 f   -     -     -          870    0    0 
+prodigy   959225115 10  4 f   -     -     -          870    0    0 
+prodigy   959225139 10  3 f   -     -     -          870    0    0 
+prodigy   959225236  9  2 Bc  b     bc    k          870   70   73 Qc Ah
+prodigy   959225309  9  1 Bf  -     -     -          873    5    0 
+prodigy   959225330  9  9 r   rr    c     k          868   90  205 Kc Ac
+prodigy   959225384  9  8 f   -     -     -          983    0    0 
+prodigy   959225426  9  7 f   -     -     -          983    0    0 
+prodigy   959225508  8  5 c   bc    bc    b          983   90    0 8s 9s
+prodigy   959225578  8  3 f   -     -     -          893    0    0 
+prodigy   959225632  8  3 c   b     -     -          893   20   40 
+prodigy   959225687  8  2 Bk  k     kf    -          913   10    0 
+prodigy   959225752  9  1 Bf  -     -     -          903    5    0 
+prodigy   959225789 10  9 f   -     -     -          898    0    0 
+prodigy   959225864 10  8 f   -     -     -          898    0    0 
+prodigy   959225916 10  8 f   -     -     -          898    0    0 
+prodigy   959225960 10  6 f   -     -     -          898    0    0 
+prodigy   959226011 10  5 cc  bc    kc    kc         898  100    0 4s 4c
+prodigy   959226120 10  4 f   -     -     -          798    0    0 
+prodigy   959226189 10  3 f   -     -     -          798    0    0 
+prodigy   959226225 10  2 B   -     -     -          798   10   15 
+prodigy   959226232 10  1 Bf  -     -     -          803    5    0 
+prodigy   959226283  9  9 f   -     -     -          798    0    0 
+prodigy   959226313  8  7 f   -     -     -          798    0    0 
+prodigy   959226390  9  6 f   -     -     -          798    0    0 
+prodigy   959226447 10  6 f   -     -     -          798    0    0 
+prodigy   959226494 10  5 f   -     -     -          798    0    0 
+prodigy   959226538 10  4 f   -     -     -          798    0    0 
+prodigy   959226590 10  3 f   -     -     -          798    0    0 
+prodigy   959226645  9  2 Br  brc   kc    kc         798  110    0 Kc Ac
+prodigy   959226700 10  1 Bf  -     -     -          688    5    0 
+prodigy   959226750 10 10 f   -     -     -          683    0    0 
+prodigy   959226798 10  9 f   -     -     -          683    0    0 
+prodigy   959226859  9  7 f   -     -     -          683    0    0 
+prodigy   959226922 10  7 f   -     -     -          683    0    0 
+prodigy   959226991 10  6 f   -     -     -          683    0    0 
+prodigy   959227056 10  5 f   -     -     -          683    0    0 
+prodigy   959227121 10  4 f   -     -     -          683    0    0 
+prodigy   959227178 10  3 f   -     -     -          683    0    0 
+prodigy   959227225 10  2 Bcc br    bc    k          683  110  405 4c 8c
+prodigy   959227310 10  1 Bc  kc    kc    bc         978  140    0 Kd 2d
+prodigy   959227402 10 10 f   Q     -     -          838    0    0 
+prodigy   959297757  5  2 Bk  kf    -     -          838   10    0 
+prodigy   959297789  5  1 Bc  kf    -     -          828   10    0 
+prodigy   959297823  5  5 f   -     -     -          818    0    0 
+prodigy   959297852  5  4 f   -     -     -          818    0    0 
+prodigy   959297896  5  3 c   kc    k     k          818   20   55 6s 6h
+prodigy   959297927  5  2 Bc  br    b     k          853   70    0 Kd Tc
+prodigy   959297959  4  1 Bf  -     -     -          783    5    0 
+prodigy   959297979  4  4 rc  f     -     -          778   40    0 
+prodigy   959298013  4  3 f   -     -     -          738    0    0 
+prodigy   959298036  4  2 B   -     -     -          738   10   15 
+prodigy   959298042  4  1 Bf  -     -     -          743    5    0 
+prodigy   959298055  4  4 c   c     c     rr         738  120  260 Ad 3c
+prodigy   959298088  4  3 f   -     -     -          878    0    0 
+prodigy   959298117  4  2 Br  f     -     -          878   40    0 
+prodigy   959298138  4  1 Bf  -     -     -          838    5    0 
+prodigy   959298158  4  4 f   -     -     -          833    0    0 
+prodigy   959298173  4  3 f   -     -     -          833    0    0 
+prodigy   959298178  4  2 Bf  -     -     -          833   10    0 
+prodigy   959298189  4  1 Bf  -     -     -          823    5    0 
+prodigy   959298204  4  4 f   -     -     -          818    0    0 
+prodigy   959298232  4  3 cc  kc    f     -          818   30    0 
+prodigy   959298269  4  2 Bc  k     k     f          788   20    0 
+prodigy   959298295  4  1 Bf  -     -     -          768    5    0 
+prodigy   959298311  4  4 f   -     -     -          763    0    0 
+prodigy   959298329  4  3 f   -     -     -          763    0    0 
+prodigy   959298334  4  2 Brc kf    -     -          763   40    0 
+prodigy   959298375  3  1 Bf  -     -     -          723    5    0 
+prodigy   959298379  3  3 f   -     -     -          718    0    0 
+prodigy   959298392  3  2 Br  b     br    b          718  120    0 Kc Ks
+prodigy   959298416  3  1 Bf  -     -     -          598    5    0 
+prodigy   959298430  3  3 f   -     -     -          593    0    0 
+prodigy   959298434  3  2 Bk  f     -     -          593   10    0 
+prodigy   959298444  3  1 Bf  -     -     -          583    5    0 
+prodigy   959298447  3  3 f   -     -     -          578    0    0 
+prodigy   959298450  3  2 Bf  -     -     -          578   10    0 
+prodigy   959298454  3  1 Bf  -     -     -          568    5    0 
+prodigy   959298470  3  3 r   b     -     -          563   30   55 
+prodigy   959298483  3  2 Bf  -     -     -          588   10    0 
+prodigy   959298498  3  1 Bf  -     -     -          578    5    0 
+prodigy   959298503  3  3 c   r     k     c          573   50    0 4d Ah
+prodigy   959298535  3  2 Bf  -     -     -          523   10    0 
+prodigy   959298543  3  1 Bf  -     -     -          513    5    0 
+prodigy   959298566  3  3 f   -     -     -          508    0    0 
+prodigy   959298582  3  2 Bk  k     c     b          508   50  110 5c Qh
+prodigy   959298620  3  1 Bf  -     -     -          568    5    0 
+prodigy   959298628  3  3 Q   -     -     -          563    0    0 
+prodigy   959299296  7  3 f   -     -     -          563    0    0 
+prodigy   959299341  7  2 Bk  brc   b     kf         563   70    0 
+prodigy   959299437  7  1 Bc  k     kf    -          493   20    0 
+prodigy   959299517  5  5 f   -     -     -          473    0    0 
+prodigy   959299557  4  3 f   -     -     -          473    0    0 
+prodigy   959299603  4  2 Bk  k     k     k          473   10   35 Ts Jc
+prodigy   959299674  3  1 Bc  k     k     k          498   10   20 4h 8d
+prodigy   959299695  3  3 f   -     -     -          508    0    0 
+prodigy   959299714  3  2 Br  b     b     -          508   50   90 Ts Kc
+prodigy   959299740  5  1 Bcf -     -     -          548   10    0 
+prodigy   959299782  5  5 f   -     -     -          538    0    0 
+prodigy   959299811  5  4 r   b     b     b          538   70  175 Qd Td
+prodigy   959299845  5  3 cc  kf    -     -          643   20    0 
+prodigy   959299865  6  3 c   b     b     b          623   60  135 Ad 9h
+prodigy   959299900  6  2 Bf  -     -     -          698   10    0 
+prodigy   959299937  6  1 Brr kc    bc    b          688  110  380 Kh Ac
+prodigy   959299992  6  6 c   b     b     b          958   70  175 As 9s
+prodigy   959300047  5  5 f   -     -     -         1063    0    0 
+prodigy   959300079  5  4 c   b     -     -         1063   20   45 
+prodigy   959300098  5  3 r   b     b     -         1088   50   95 
+prodigy   959300163  4  1 Bk  br    b     b         1133   80  170 Qd 3d
+prodigy   959300196  5  1 Bf  -     -     -         1223    5    0 
+prodigy   959300247  8  7 f   -     -     -         1218    0    0 
+prodigy   959300297  7  6 f   -     -     -         1218    0    0 
+prodigy   959300328  7  6 rc  bc    rc    r         1218  160  485 Ah Jh
+prodigy   959300459  5  3 cc  c     c     f         1543   50    0 
+prodigy   959300508  5  3 f   -     -     -         1493    0    0 
+prodigy   959300539  5  2 Bf  -     -     -         1493   10    0 
+prodigy   959300607  5  1 Bf  -     -     -         1483    5    0 
+prodigy   959300657  7  7 f   -     -     -         1478    0    0 
+prodigy   959300703  7  6 c   f     -     -         1478   10    0 
+prodigy   959300759  7  5 c   f     -     -         1468   10    0 
+prodigy   959300784  7  4 f   -     -     -         1458    0    0 
+prodigy   959300830  7  3 f   -     -     -         1458    0    0 
+prodigy   959300928  8  2 Bc  k     k     kf        1458   30    0 
+prodigy   959300987  7  1 Brc k     k     b         1428   50  130 6d 8s
+prodigy   959301032  7  7 r   b     b     b         1508   70  150 
+prodigy   959301097  8  7 f   -     -     -         1588    0    0 
+prodigy   959301134  8  6 f   -     -     -         1588    0    0 
+prodigy   959301160  8  5 c   k     f     -         1588   20    0 
+prodigy   959301200  8  4 f   -     -     -         1568    0    0 
+prodigy   959301269  8  2 Br  b     b     b         1568   80  310 9h Ks
+prodigy   959301334  8  1 Bf  -     -     -         1798    5    0 
+prodigy   959301496  7  7 f   -     -     -         1793    0    0 
+prodigy   959301565  7  6 f   -     -     -         1793    0    0 
+prodigy   959301673  7  5 f   -     -     -         1793    0    0 
+prodigy   959301746  5  2 Bc  f     -     -         1793   20    0 
+prodigy   959301778  5  1 Bf  -     -     -         1773    5    0 
+prodigy   959301810  6  6 f   -     -     -         1768    0    0 
+prodigy   959301838  6  5 f   -     -     -         1768    0    0 
+prodigy   959301873  6  5 f   -     -     -         1768    0    0 
+prodigy   959301917  6  4 c   f     -     -         1768   10    0 
+prodigy   959301941  6  3 c   kf    -     -         1758   10    0 
+prodigy   959302034  7  2 Bk  bc    k     k         1748   30   85 As 7s
+prodigy   959302082  8  1 Bc  kf    Q     -         1803   20    0 
+prodigy   959304927  8  2 Bk  kc    k     k         1783   20    0 Js 7d
+prodigy   959304965  8  1 Bf  -     -     -         1763    5    0 
+prodigy   959304985  8  8 r   b     -     -         1758   30   85 
+prodigy   959305034  7  7 f   -     -     -         1813    0    0 
+prodigy   959305057  7  6 c   f     -     -         1813   10    0 
+prodigy   959305098  7  5 f   -     -     -         1803    0    0 
+prodigy   959305168  7  4 f   -     -     -         1803    0    0 
+prodigy   959305212  8  3 c   c     c     k         1803   40    0 3d As
+prodigy   959305259  8  2 Bc  kc    kf    -         1763   40    0 
+prodigy   959305300  8  1 Br  b     -     -         1723   30   70 
+prodigy   959305334  8  8 f   -     -     -         1763    0    0 
+prodigy   959305363  8  7 c   f     -     -         1763   10    0 
+prodigy   959305394  8  6 c   k     c     b         1753   50  105 
+prodigy   959305448  7  4 rc  bc    kc    kf        1808   70    0 
+prodigy   959305518  7  3 f   -     -     -         1738    0    0 
+prodigy   959305556  8  2 Bk  k     k     kc        1738   30   95 3s Ks
+prodigy   959305605 10  1 Bf  -     -     -         1803    5    0 
+prodigy   959305642 10 10 f   -     -     -         1798    0    0 
+prodigy   959305672 10  9 r   f     -     -         1798   20    0 
+prodigy   959305714 10  8 f   -     -     -         1778    0    0 
+prodigy   959305743 10  7 c   b     b     b         1778   60    0 Td Ah
+prodigy   959305795 10  6 f   -     -     -         1718    0    0 
+prodigy   959305820 10  5 f   -     -     -         1718    0    0 
+prodigy   959305854 10  4 f   -     -     -         1718    0    0 
+prodigy   959305924 10  3 f   -     -     -         1718    0    0 
+prodigy   959305974 10  2 Bk  k     f     -         1718   10    0 
+prodigy   959306027 10  1 Br  b     bc    k         1708   80    0 Kh Ac
+prodigy   959306110  9  9 f   -     -     -         1628    0    0 
+prodigy   959306184  8  7 f   -     -     -         1628    0    0 
+prodigy   959306294  8  7 f   -     -     -         1628    0    0 
+prodigy   959306348  9  6 f   -     -     -         1628    0    0 
+prodigy   959306483 10  5 f   -     -     -         1628    0    0 
+prodigy   959306550 10  4 f   -     -     -         1628    0    0 
+prodigy   959306636 10  3 f   -     -     -         1628    0    0 
+prodigy   959306698 10  2 Bf  -     -     -         1628   10    0 
+prodigy   959306732 10  1 Br  b     b     k         1618   50  130 9s 9h
+prodigy   959306806  9  9 f   -     -     -         1698    0    0 
+prodigy   959306869  9  8 f   -     -     -         1698    0    0 
+prodigy   959306918  9  7 rc  cf    -     -         1698   50    0 
+prodigy   959307011  8  5 f   -     -     -         1648    0    0 
+prodigy   959307058  9  5 f   -     -     -         1648    0    0 
+prodigy   959307096  9  4 r   b     b     f         1648   50    0 
+prodigy   959307166  9  3 c   r     b     b         1598   70    0 Kh 8h
+prodigy   959307286  9  2 Br  kf    -     -         1528   20    0 
+prodigy   959307363  9  1 Bf  -     -     -         1508    5    0 
+prodigy   959307421 10  9 f   -     -     -         1503    0    0 
+prodigy   959307523 10  8 f   -     -     -         1503    0    0 
+prodigy   959307577 10  7 f   -     -     -         1503    0    0 
+prodigy   959307630 10  6 r   r     r     r         1503  120  460 Kc Qd
+prodigy   959307686 10  5 c   kc    kf    -         1843   20    0 
+prodigy   959307812 10  4 f   -     -     -         1823    0    0 
+prodigy   959307910 10  3 f   -     -     -         1823    0    0 
+prodigy   959308021  8  1 Bf  -     -     -         1823   10    0 
+prodigy   959308073  9  1 Bf  -     -     -         1813    5    0 
+prodigy   959308162  7  7 r   b     b     b         1808   70  205 
+prodigy   959308212  6  6 c   c     f     -         1943   20    0 
+prodigy   959308285  6  5 cc  kf    -     -         1923   30    0 
+prodigy   959308343  8  5 c   b     f     -         1893   20    0 
+prodigy   959308394  8  3 f   -     -     -         1873    0    0 
+prodigy   959308444  8  2 Bk  kf    -     -         1873   10    0 
+prodigy   959308514  9  1 Bf  -     -     -         1863    5    0 
+prodigy   959308594  9  9 c   k     f     -         1858   10    0 
+prodigy   959308667  6  5 f   -     -     -         1848    0    0 
+prodigy   959308727  7  5 f   -     -     -         1848    0    0 
+prodigy   959308787  7  4 f   -     -     -         1848    0    0 
+prodigy   959308832  6  3 f   -     -     -         1848    0    0 
+prodigy   959308871  6  2 Bf  -     -     -         1848   10    0 
+prodigy   959308898  6  1 Bc  kc    kf    -         1838   20    0 
+prodigy   959308948  7  7 f   -     -     -         1818    0    0 
+prodigy   959308994  7  6 cc  f     -     -         1818   40    0 
+prodigy   959309069  7  5 f   -     -     -         1778    0    0 
+prodigy   959309103  7  4 f   -     -     -         1778    0    0 
+prodigy   959309155  7  3 cc  kf    -     -         1778   20    0 
+prodigy   959309189  7  2 Bk  k     k     k         1758   10    0 Ts 8d
+prodigy   959309280  7  1 Bf  -     -     -         1748    5    0 
+prodigy   959309352  5  5 f   -     -     -         1743    0    0 
+prodigy   959309377  6  5 c   k     f     -         1743   10    0 
+prodigy   959309398  6  4 f   -     -     -         1733    0    0 
+prodigy   959309434  6  3 f   -     -     -         1733    0    0 
+prodigy   959309477  6  2 Bf  -     -     -         1733   10    0 
+prodigy   959309517  6  1 Br  br    bcc   k         1723  140    0 Ac As
+prodigy   959309621  6  6 f   -     -     -         1583    0    0 
+prodigy   959309642  6  6 f   -     -     -         1583    0    0 
+prodigy   959309677  6  5 c   f     -     -         1583   10    0 
+prodigy   959309709  7  4 f   -     -     -         1573    0    0 
+prodigy   959309744  7  3 cc  bc    kc    kf        1573   60    0 
+prodigy   959309833  6  2 Bk  k     k     k         1513   10    0 3d 7h
+prodigy   959309872  6  1 Bc  kf    -     -         1503   20    0 
+prodigy   959309933  6  6 f   -     -     -         1483    0    0 
+prodigy   959309964  6  5 c   b     -     -         1483   20   45 
+prodigy   959310000  7  4 f   -     -     -         1508    0    0 
+prodigy   959310069  8  4 f   -     -     -         1508    0    0 
+prodigy   959310161  8  3 f   -     -     -         1508    0    0 
+prodigy   959310233  7  2 Br  b     bc    k         1508   70  160 3h 3c
+prodigy   959310279  8  1 Bc  kf    -     -         1598   10    0 
+prodigy   959310317  9  9 f   -     -     -         1588    0    0 
+prodigy   959310419  9  8 f   -     -     -         1588    0    0 
+prodigy   959310481  9  7 f   -     -     -         1588    0    0 
+prodigy   959310506  9  6 f   -     -     -         1588    0    0 
+prodigy   959310561  9  5 f   -     -     -         1588    0    0 
+prodigy   959310590  9  4 f   -     -     -         1588    0    0 
+prodigy   959310692  9  3 f   -     -     -         1588    0    0 
+prodigy   959310769  8  2 Bk  cc    kc    kc        1588   80  300 Ac 3s
+prodigy   959310870  8  1 Bc  k     k     kf        1808   10    0 
+prodigy   959311032  7  7 c   rr    -     -         1798   60  135 
+prodigy   959311077  6  6 f   -     -     -         1873    0    0 
+prodigy   959311142  5  4 f   -     -     -         1873    0    0 
+prodigy   959311159  6  3 f   -     -     -         1873    0    0 
+prodigy   959311214  5  2 Bc  kc    k     kf        1873   30    0 
+prodigy   959311252  6  1 Bc  -     -     -         1843   20   50 
+prodigy   959311419  3  3 Q   -     -     -         1873    0    0 
+prodigy   959314179  9  2 Br  k     kf    -         1873   20    0 
+prodigy   959314282 10  1 Bc  k     kf    -         1853   20    0 
+prodigy   959314321  9  9 f   -     -     -         1833    0    0 
+prodigy   959314365  9  8 c   f     -     -         1833   10    0 
+prodigy   959314429  9  7 f   -     -     -         1823    0    0 
+prodigy   959314495  9  6 cf  -     -     -         1823   10    0 
+prodigy   959314582  8  4 f   -     -     -         1813    0    0 
+prodigy   959314671  9  4 f   -     -     -         1813    0    0 
+prodigy   959314727 10  3 f   -     -     -         1813    0    0 
+prodigy   959314768 10  2 Bc  kcf   -     -         1813   50    0 
+prodigy   959314911 10  1 Bf  -     -     -         1763    5    0 
+prodigy   959314954 10 10 f   -     -     -         1758    0    0 
+prodigy   959314990  9  8 f   -     -     -         1758    0    0 
+prodigy   959315067  9  7 f   -     -     -         1758    0    0 
+prodigy   959315114  8  5 f   -     -     -         1758    0    0 
+prodigy   959315146  8  4 r   k     k     b         1758   40   70 
+prodigy   959315197  7  3 f   -     -     -         1788    0    0 
+prodigy   959315244  7  2 Bc  kf    -     -         1788   20    0 
+prodigy   959315265  7  1 Bc  kc    k     k         1768   30    0 Td 9d
+prodigy   959315299  7  7 f   -     -     -         1738    0    0 
+prodigy   959315337  7  6 f   -     -     -         1738    0    0 
+prodigy   959315389  7  5 f   -     -     -         1738    0    0 
+prodigy   959315423  7  4 f   -     -     -         1738    0    0 
+prodigy   959315461  7  3 f   -     -     -         1738    0    0 
+prodigy   959315532  7  2 Bk  f     -     -         1738   10    0 
+prodigy   959315577  7  1 Bf  -     -     -         1728    5    0 
+prodigy   959315615  7  7 c   f     -     -         1723   20    0 
+prodigy   959315670  8  6 f   -     -     -         1703    0    0 
+prodigy   959315699  8  5 f   -     -     -         1703    0    0 
+prodigy   959315753  8  4 rr  r     b     kf        1703   80    0 
+prodigy   959315806  8  3 c   b     -     -         1623   20   35 
+prodigy   959315857  8  2 Bf  -     -     -         1638   10    0 
+prodigy   959315885  9  1 Bc  br    b     b         1628   80  160 
+prodigy   959315920  9  9 c   f     -     -         1708   10    0 
+prodigy   959315960  9  8 f   -     -     -         1698    0    0 
+prodigy   959315983  9  7 f   -     -     -         1698    0    0 
+prodigy   959316043 10  7 cf  Q     -     -         1698   10    0 
+prodigy   959391619  4  2 Bf  -     -     -         1688   10    0 
+prodigy   959391636  4  1 Bc  k     b     br        1678   90    0 7d 7h
+prodigy   959391658  4  4 f   -     -     -         1588    0    0 
+prodigy   959391684  4  3 f   -     -     -         1588    0    0 
+prodigy   959391691  4  2 Bc  k     k     b         1588   40   80 Jd 5d
+prodigy   959391716  4  1 Bc  k     k     k         1628   10    0 5s 2s
+prodigy   959391738  4  4 c   k     k     b         1618   30   55 
+prodigy   959391778  4  3 f   -     -     -         1643    0    0 
+prodigy   959391801  5  2 Bk  kf    -     -         1643   10    0 
+prodigy   959391822  5  1 Br  bc    kc    kf        1633   60    0 
+prodigy   959391862  5  5 c   r     b     b         1573   70  150 
+prodigy   959391893  5  4 c   k     kf    -         1653   10    0 
+prodigy   959391923  6  3 f   -     -     -         1643    0    0 
+prodigy   959391947  6  2 Br  b     b     b         1643   80  210 
+prodigy   959391980  5  1 Br  -     -     -         1773   20   30 
+prodigy   959391988  4  4 c   f     -     -         1783   10    0 
+prodigy   959392010  4  3 f   -     -     -         1773    0    0 
+prodigy   959392017  4  2 Bf  -     -     -         1773   10    0 
+prodigy   959392027  4  1 Bc  krr   b     b         1763   90  160 
+prodigy   959392071  4  4 f   -     -     -         1833    0    0 
+prodigy   959392076  4  3 f   -     -     -         1833    0    0 
+prodigy   959392118  4  2 B   -     -     -         1833   10   15 
+prodigy   959392126  4  1 Br  b     b     kf        1838   60    0 
+prodigy   959392159  4  4 f   -     -     -         1778    0    0 
+prodigy   959392181  4  3 r   r     b     rr        1778  140  310 Tc Jc
+prodigy   959392209  4  2 Bk  k     f     -         1948   10    0 
+prodigy   959392246  4  1 Bc  kc    kc    k         1938   40    0 8d Qd
+prodigy   959392283  4  4 f   -     -     -         1898    0    0 
+prodigy   959392300  5  4 c   kc    kf    -         1898   20    0 
+prodigy   959392329  5  3 r   kf    -     -         1878   20    0 
+prodigy   959392354  5  2 Bk  b     b     b         1858   60    0 4h Js
+prodigy   959392379  5  1 Bc  kf    -     -         1798   10    0 
+prodigy   959392412  5  5 f   -     -     -         1788    0    0 
+prodigy   959392444  5  3 f   -     -     -         1788    0    0 
+prodigy   959392457  5  2 Bf  -     -     -         1788   10    0 
+prodigy   959392479  5  1 Bf  -     -     -         1778    5    0 
+prodigy   959392506  5  5 f   -     -     -         1773    0    0 
+prodigy   959392516  5  4 f   -     -     -         1773    0    0 
+prodigy   959392532  5  3 c   f     -     -         1773   10    0 
+prodigy   959392563  5  2 Bk  kc    kc    kf        1763   40    0 
+prodigy   959392620  5  1 Bf  -     -     -         1723    5    0 
+prodigy   959392637  5  5 f   -     -     -         1718    0    0 
+prodigy   959392669  5  4 f   -     -     -         1718    0    0 
+prodigy   959392685  5  3 f   -     -     -         1718    0    0 
+prodigy   959392712  5  2 Bk  kf    -     -         1718   10    0 
+prodigy   959392753  5  1 Bcc kf    -     -         1708   20    0 
+prodigy   959392778  5  5 f   -     -     -         1688    0    0 
+prodigy   959392804  5  4 c   k     k     b         1688   40   95 Js Jc
+prodigy   959392835  5  3 f   -     -     -         1743    0    0 
+prodigy   959392855  5  2 Bk  kf    -     -         1743   10    0 
+prodigy   959392879  5  1 Bf  -     -     -         1733    5    0 
+prodigy   959392924  5  5 cc  c     f     -         1728   30    0 
+prodigy   959392976  5  4 f   -     -     -         1698    0    0 
+prodigy   959392999  5  3 f   -     -     -         1698    0    0 
+prodigy   959393027  5  2 Bf  -     -     -         1698   10    0 
+prodigy   959393082  5  1 Bf  -     -     -         1688    5    0 
+prodigy   959393103  5  5 f   -     -     -         1683    0    0 
+prodigy   959393124  5  4 f   -     -     -         1683    0    0 
+prodigy   959393193  5  3 f   -     -     -         1683    0    0 
+prodigy   959393230  5  2 Bk  kr    kc    kf        1683   50    0 
+prodigy   959393277  5  1 Bf  -     -     -         1633    5    0 
+prodigy   959393306  5  5 f   -     -     -         1628    0    0 
+prodigy   959393332  5  4 c   b     -     -         1628   20   40 
+prodigy   959393352  5  3 f   -     -     -         1648    0    0 
+prodigy   959393360  5  2 Bk  bc    bc    kc        1648  100    0 6s Ac
+prodigy   959393439  6  1 Bf  -     -     -         1548    5    0 
+prodigy   959393501  6  6 f   -     -     -         1543    0    0 
+prodigy   959393561  6  5 r   br    r     b         1543  110  205 
+prodigy   959393590  6  4 f   -     -     -         1638    0    0 
+prodigy   959393655  7  4 f   -     -     -         1638    0    0 
+prodigy   959393700  6  2 f   -     -     -         1638    0    0 
+prodigy   959393758  8  2 Bk  k     kf    -         1638   10    0 
+prodigy   959393807  8  1 Bf  -     -     -         1628    5    0 
+prodigy   959393847  7  7 f   -     -     -         1623    0    0 
+prodigy   959393889  6  5 f   -     -     -         1623    0    0 
+prodigy   959393911  6  4 f   -     -     -         1623    0    0 
+prodigy   959393934  6  3 f   -     -     -         1623    0    0 
+prodigy   959393960  6  2 Bf  -     -     -         1623   10    0 
+prodigy   959393969  6  1 Bc  kc    kf    -         1613   20    0 
+prodigy   959394011  6  6 f   -     -     -         1593    0    0 
+prodigy   959394067  6  5 c   kc    k     k         1593   20   80 Ah 9d
+prodigy   959394127  6  4 f   -     -     -         1653    0    0 
+prodigy   959394140  6  3 c   b     b     -         1653   40   70 
+prodigy   959394169  6  2 Bc  rf    -     -         1683   40    0 
+prodigy   959394214  6  1 Bf  -     -     -         1643    5    0 
+prodigy   959394238  6  6 f   -     -     -         1638    0    0 
+prodigy   959394270  6  5 cc  f     -     -         1638   40    0 
+prodigy   959394333  6  4 f   Q     -     -         1598    0    0 
+prodigy   959411119  2  2 Bk  f     -     -         1598   10    0 
+prodigy   959411136  2  1 Bc  k     k     k         1588   10    0 8s 5d
+prodigy   959411159  2  2 Bk  k     b     -         1578   30   40 
+prodigy   959411183  2  1 Bc  k     k     k         1588   10    0 4s 2c
+prodigy   959411201  2  2 B   -     -     -         1578   10   15 
+prodigy   959411207  2  1 Bc  kf    -     -         1583   10    0 
+prodigy   959411227  2  2 Bk  k     k     b         1573   30   40 
+prodigy   959411248  2  1 Brc k     b     br        1583  110  220 Ah 5d
+prodigy   959411281  2  2 Bk  f     -     -         1693   10    0 
+prodigy   959411297  2  1 Br  b     b     kf        1683   50    0 
+prodigy   959411331  2  2 B   -     -     -         1633   10   15 
+prodigy   959411336  2  1 Bf  -     -     -         1638    5    0 
+prodigy   959411340  2  2 Br  k     k     k         1633   20   40 Ks Qs
+prodigy   959411364  2  1 Bf  -     -     -         1653    5    0 
+prodigy   959411373  2  2 B   -     -     -         1648   10   15 
+prodigy   959411376  2  1 Bc  k     kf    -         1653   10    0 
+prodigy   959411390  2  2 Bk  f     -     -         1643   10    0 
+prodigy   959411401  2  1 Bc  k     b     -         1633   30   40 
+prodigy   959411424  2  2 Bc  f     -     -         1643   20    0 
+prodigy   959411433  2  1 Bf  -     -     -         1623    5    0 
+prodigy   959411439  2  2 Bk  k     b     -         1618   30   40 
+prodigy   959411454  3  1 Bc  k     b     b         1628   50  110 Ah 4s
+prodigy   959411480  3  3 f   -     -     -         1688    0    0 
+prodigy   959411489  3  2 Bf  -     -     -         1688   10    0 
+prodigy   959411506  4  1 Brf -     -     -         1678   20    0 
+prodigy   959411528  4  4 f   -     -     -         1658    0    0 
+prodigy   959411545  4  3 f   -     -     -         1658    0    0 
+prodigy   959411578  5  2 Bk  kc    kf    -         1658   20    0 
+prodigy   959411620  5  1 Br  b     k     b         1638   50  120 Ad Qc
+prodigy   959411644  5  5 f   -     -     -         1708    0    0 
+prodigy   959411682  5  4 f   -     -     -         1708    0    0 
+prodigy   959411720  5  3 rr  cc    f     -         1708   60    0 
+prodigy   959411806  6  2 Bk  k     k     k         1648   10    0 9h 7d
+prodigy   959411912  7  1 Br  kc    kc    kc        1638   80  280 Ks As
+prodigy   959411984  8  8 f   -     -     -         1838    0    0 
+prodigy   959412035  8  7 f   -     -     -         1838    0    0 
+prodigy   959412114  8  6 f   -     -     -         1838    0    0 
+prodigy   959412157  8  5 f   -     -     -         1838    0    0 
+prodigy   959412195  8  4 f   -     -     -         1838    0    0 
+prodigy   959412232  8  3 c   r     b     b         1838   70  155 
+prodigy   959412267  8  2 Bc  krc   kc    kf        1923   80    0 
+prodigy   959412380  8  1 Bf  -     -     -         1843    5    0 
+prodigy   959412455  7  7 cc  r     b     b         1838   80  225 Jh Kc
+prodigy   959412532  7  6 f   -     -     -         1983    0    0 
+prodigy   959412597  7  5 f   -     -     -         1983    0    0 
+prodigy   959412651  7  4 f   -     -     -         1983    0    0 
+prodigy   959412716  7  3 c   k     k     c         1983   30    0 Td Tc
+prodigy   959412764  7  2 Bk  kf    -     -         1953   10    0 
+prodigy   959412838  8  1 Bc  kf    -     -         1943   20    0 
+prodigy   959412896  8  8 f   -     -     -         1923    0    0 
+prodigy   959412979  7  6 f   -     -     -         1923    0    0 
+prodigy   959413051  8  6 f   -     -     -         1923    0    0 
+prodigy   959413106  8  5 f   -     -     -         1923    0    0 
+prodigy   959413122  8  4 f   -     -     -         1923    0    0 
+prodigy   959413189  8  3 f   -     -     -         1923    0    0 
+prodigy   959413220  8  2 Bf  -     -     -         1923   10    0 
+prodigy   959413299  8  1 Bcf -     -     -         1913   10    0 
+prodigy   959413339  8  8 f   -     -     -         1903    0    0 
+prodigy   959413398  8  7 f   -     -     -         1903    0    0 
+prodigy   959413455  9  7 f   -     -     -         1903    0    0 
+prodigy   959413511  8  5 f   -     -     -         1903    0    0 
+prodigy   959413560  8  4 cf  -     -     -         1903   10    0 
+prodigy   959413589  8  3 f   -     -     -         1893    0    0 
+prodigy   959413616  8  2 Bf  -     -     -         1893   10    0 
+prodigy   959413659  7  1 Bf  -     -     -         1883    5    0 
+prodigy   959413680  7  7 c   f     -     -         1878   20    0 
+prodigy   959413738  7  6 f   -     -     -         1858    0    0 
+prodigy   959413768  7  5 f   -     -     -         1858    0    0 
+prodigy   959413797  7  4 f   -     -     -         1858    0    0 
+prodigy   959413844  7  3 f   -     -     -         1858    0    0 
+prodigy   959413874  7  2 Bk  kf    -     -         1858   10    0 
+prodigy   959413928  7  1 Bcf -     -     -         1848   10    0 
+prodigy   959413970  7  7 r   c     r     c         1838   90  290 Ah Ks
+prodigy   959414008  8  7 f   -     -     -         2038    0    0 
+prodigy   959414040  8  6 f   -     -     -         2038    0    0 
+prodigy   959414102  8  5 f   -     -     -         2038    0    0 
+prodigy   959414128 10  6 f   -     -     -         2038    0    0 
+prodigy   959414177 10  5 f   -     -     -         2038    0    0 
+prodigy   959414230 10  4 f   -     -     -         2038    0    0 
+prodigy   959414259 10  3 f   -     -     -         2038    0    0 
+prodigy   959414342 10  2 Bk  k     kf    -         2038   10    0 
+prodigy   959414403  9  1 Bf  -     -     -         2028    5    0 
+prodigy   959414460  9  9 f   -     -     -         2023    0    0 
+prodigy   959414498  9  8 c   f     -     -         2023   10    0 
+prodigy   959414560  8  7 f   -     -     -         2013    0    0 
+prodigy   959414620  9  6 cc  k     k     r         2013   60  165 
+prodigy   959414723  9  5 f   -     -     -         2118    0    0 
+prodigy   959414784  9  4 f   -     -     -         2118    0    0 
+prodigy   959414802  9  3 cc  kf    -     -         2118   20    0 
+prodigy   959414898  9  2 B   -     -     -         2098   10   15 
+prodigy   959414930  9  1 Bc  kc    kc    kc        2103   60    0 Ah 8c
+prodigy   959414976  9  9 c   f     -     -         2043   10    0 
+prodigy   959415022  9  8 cc  kf    -     -         2033   20    0 
+prodigy   959415076  8  6 f   -     -     -         2013    0    0 
+prodigy   959415134  8  5 c   f     -     -         2013   10    0 
+prodigy   959415168  8  4 f   -     -     -         2003    0    0 
+prodigy   959415203  8  3 cc  kf    -     -         2003   20    0 
+prodigy   959415272  7  1 Bk  kf    -     -         1983   10    0 
+prodigy   959415313  7  1 Bf  -     -     -         1973    5    0 
+prodigy   959415387  8  8 f   -     -     -         1968    0    0 
+prodigy   959415458  8  7 f   -     -     -         1968    0    0 
+prodigy   959415490  7  5 r   k     f     -         1968   20    0 
+prodigy   959415549  7  4 c   kc    kc    kf        1948   40    0 
+prodigy   959415729  6  2 f   -     -     -         1908    0    0 
+prodigy   959415739  6  2 Bf  -     -     -         1908   10    0 
+prodigy   959415752  6  1 Bf  -     -     -         1898    5    0 
+prodigy   959415778  6  6 f   -     -     -         1893    0    0 
+prodigy   959415811  5  4 f   -     -     -         1893    0    0 
+prodigy   959415833  5  3 f   -     -     -         1893    0    0 
+prodigy   959415884  6  2 Bk  kf    -     -         1893   10    0 
+prodigy   959415940  6  1 Bc  k     k     b         1883   30   60 
+prodigy   959415981  6  6 rr  c     k     r         1913   90    0 Kc Ks
+prodigy   959416031  6  5 f   -     -     -         1823    0    0 
+prodigy   959416059  6  5 f   -     -     -         1823    0    0 
+prodigy   959416111  5  3 f   -     -     -         1823    0    0 
+prodigy   959416151  5  2 Bk  kc    kf    -         1823   20    0 
+prodigy   959416204  5  1 Bf  -     -     -         1803    5    0 
+prodigy   959416212  5  5 f   -     -     -         1798    0    0 
+prodigy   959416219  5  4 f   -     -     -         1798    0    0 
+prodigy   959416258  5  3 f   -     -     -         1798    0    0 
+prodigy   959416269  5  2 Bk  kf    -     -         1798   10    0 
+prodigy   959416285  5  1 Bf  -     -     -         1788    5    0 
+prodigy   959416327  5  5 f   -     -     -         1783    0    0 
+prodigy   959416356  5  4 f   -     -     -         1783    0    0 
+prodigy   959416382  5  3 c   k     kc    kc        1783   50    0 6d As
+prodigy   959416417  5  2 Bk  cf    -     -         1733   20    0 
+prodigy   959416449  6  1 Bf  -     -     -         1713    5    0 
+prodigy   959416486  6  6 f   -     -     -         1708    0    0 
+prodigy   959416525  7  6 f   -     -     -         1708    0    0 
+prodigy   959416552  7  5 f   -     -     -         1708    0    0 
+prodigy   959416579  6  4 f   -     -     -         1708    0    0 
+prodigy   959416628  6  3 f   -     -     -         1708    0    0 
+prodigy   959416666  8  2 Bf  -     -     -         1708   10    0 
+prodigy   959416695  8  1 Bf  -     -     -         1698    5    0 
+prodigy   959416767  8  8 f   Q     -     -         1693    0    0 
+prodigy   959455670  4  3 c   -     -     -         1693   10   25 
+prodigy   959455683  2  1 B   -     -     -         1708   10   10 
+prodigy   959455686  2  1 Bcc kc    k     k         1708   30    0 Jh 7h
+prodigy   959455705  2  2 Bf  -     -     -         1678   10    0 
+prodigy   959455712  2  1 BQ  -     -     -         1668    5    0 
+prodigy   959479682  4  2 f   -     -     -         1663    0    0 
+prodigy   959479734  3  2 Bc  b     bc    f         1663   70    0 
+prodigy   959479770  3  1 Bc  kc    kr    -         1593   60  100 
+prodigy   959479823  3  3 c   b     -     -         1633   20   40 
+prodigy   959479849  3  2 Br  r     -     -         1653   50  120 
+prodigy   959479867  3  1 Bcc kf    -     -         1723   20    0 
+prodigy   959479885  3  3 f   -     -     -         1703    0    0 
+prodigy   959479899  3  2 Bk  kf    -     -         1703   10    0 
+prodigy   959479924  4  1 Bc  kc    kc    k         1693   50  130 Jh Kh
+prodigy   959479954  4  4 f   -     -     -         1773    0    0 
+prodigy   959479987  3  2 r   kc    c     k         1773   60    0 Qd Qs
+prodigy   959480070  4  2 B   -     -     -         1713   10   15 
+prodigy   959480083  4  1 Bc  kf    -     -         1718   10    0 
+prodigy   959480108  4  4 f   -     -     -         1708    0    0 
+prodigy   959480141  4  3 f   -     -     -         1708    0    0 
+prodigy   959480171  4  2 Bk  cc    kc    b         1708   80  220 4h 5s
+prodigy   959480226  4  1 Bc  k     k     b         1848   30   60 Tc Qd
+prodigy   959480263  4  4 f   -     -     -         1878    0    0 
+prodigy   959480274  4  3 f   -     -     -         1878    0    0 
+prodigy   959480285  4  2 Bk  f     -     -         1878   10    0 
+prodigy   959480306  4  1 Bf  -     -     -         1868    5    0 
+prodigy   959480311  4  4 c   cf    -     -         1863   30    0 
+prodigy   959480354  3  3 f   -     -     -         1833    0    0 
+prodigy   959480365  3  2 B   -     -     -         1833   10   15 
+prodigy   959480373  3  1 Bcc kf    -     -         1838   30    0 
+prodigy   959480402  3  3 c   f     -     -         1808   10    0 
+prodigy   959480419  3  2 B   -     -     -         1798   10   15 
+prodigy   959480420  3  1 Bcf -     -     -         1803   10    0 
+prodigy   959480432  3  3 f   -     -     -         1793    0    0 
+prodigy   959480444  3  2 Bk  f     -     -         1793   10    0 
+prodigy   959480463  3  1 Bc  b     b     -         1783   50   90 
+prodigy   959480476  3  3 c   k     k     k         1823   10   25 5d 5c
+prodigy   959480491  3  2 Bc  k     k     f         1838   20    0 
+prodigy   959480545  3  1 Bf  -     -     -         1818    5    0 
+prodigy   959480555  3  3 c   k     f     -         1813   10    0 
+prodigy   959480568  3  2 Bc  f     -     -         1803   20    0 
+prodigy   959480586  3  1 Bc  kf    -     -         1783   10    0 
+prodigy   959480602  3  3 c   k     c     c         1773   50    0 Jc 5s
+prodigy   959480621  3  2 B   -     -     -         1723   10   15 
+prodigy   959480627  3  1 Bf  -     -     -         1728    5    0 
+prodigy   959480656  3  3 cc  f     -     -         1723   20    0 
+prodigy   959480687  3  2 Bk  k     k     k         1703   10    0 Jh Tc
+prodigy   959480724  3  1 Bf  -     -     -         1693    5    0 
+prodigy   959480733  3  3 r   b     -     -         1688   30   55 
+prodigy   959480754  3  2 Bc  br    kc    kc        1713   90  185 5s 8s
+prodigy   959480783  3  1 Bc  k     kf    -         1808   10    0 
+prodigy   959480832  3  3 f   -     -     -         1798    0    0 
+prodigy   959480847  3  2 Bc  bc    kf    -         1798   40    0 
+prodigy   959480882  3  1 Bf  -     -     -         1758    5    0 
+prodigy   959480888  3  3 f   -     -     -         1753    0    0 
+prodigy   959480904  3  2 Bf  -     -     -         1753   10    0 
+prodigy   959480910  3  1 Bf  -     -     -         1743    5    0 
+prodigy   959480923  3  3 f   -     -     -         1738    0    0 
+prodigy   959480940  3  2 Brc br    b     b         1738  110  220 
+prodigy   959480988  3  1 Brr brc   brc   brc       1848  240  480 As Kh
+prodigy   959481029  3  3 f   -     -     -         2088    0    0 
+prodigy   959481086  3  2 Bc  br    b     b         2088  100  260 Td Ah
+prodigy   959481137  3  1 Bc  kf    -     -         2248   10    0 
+prodigy   959481156  3  3 rr  r     rr    rc        2238  200  410 Ks As
+prodigy   959481204  3  2 Bk  k     k     k         2448   10    0 2d 2h
+prodigy   959481232  3  1 Bf  -     -     -         2438    5    0 
+prodigy   959481239  3  3 fQ  -     -     -         2433    0    0 
+prodigy   959484090  7  6 r   b     b     b         2433   70    0 Kh Kc
+prodigy   959484154  7  3 Q   -     -     -         2363    0    0 
+prodigy   959535232  4  2 Brc b     b     b         2363   80  170 
+prodigy   959535283  4  1 Bf  -     -     Q         2453    5    0 
+prodigy   959661304 10  2 Bk  k     kf    -         2448   10    0 
+prodigy   959661389 10  1 Bf  -     -     -         2438    5    0 
+prodigy   959661471 10 10 f   -     -     -         2433    0    0 
+prodigy   959661542 10  9 f   -     -     -         2433    0    0 
+prodigy   959661622 10  8 f   -     -     -         2433    0    0 
+prodigy   959661661 10  7 c   f     -     -         2433   20    0 
+prodigy   959661683 10  6 r   b     f     -         2413   30    0 
+prodigy   959661738 10  5 f   -     -     -         2383    0    0 
+prodigy   959661842 10  4 f   -     -     -         2383    0    0 
+prodigy   959661871 10  3 r   bcc   kf    -         2383   60    0 
+prodigy   959661987 10  2 Bk  k     kr    b         2323   70  285 8h Js
+prodigy   959662083 10  1 Bc  k     k     kf        2538   10    0 
+prodigy   959662148 10 10 c   f     -     -         2528   20    0 
+prodigy   959662220 10  9 f   -     -     -         2508    0    0 
+prodigy   959662286 10  8 f   -     -     -         2508    0    0 
+prodigy   959662373  9  6 f   -     -     -         2508    0    0 
+prodigy   959662438  9  5 f   -     -     -         2508    0    0 
+prodigy   959662533 10  4 r   b     b     b         2508   70  225 Qh Kd
+prodigy   959662587  9  3 c   b     b     bc        2663   80    0 9s As
+prodigy   959662645  9  2 Bk  kf    -     -         2583   10    0 
+prodigy   959662716  8  1 Bf  -     -     -         2573    5    0 
+prodigy   959662772  8  8 cc  f     -     -         2568   20    0 
+prodigy   959662823  8  7 f   -     -     -         2548    0    0 
+prodigy   959662866  8  6 r   f     -     -         2548   20    0 
+prodigy   959662890  8  5 f   -     -     -         2528    0    0 
+prodigy   959662947  9  4 cc  bc    kc    b         2528   80  260 
+prodigy   959663029  9  3 ccf -     -     -         2708   30    0 
+prodigy   959663187  7  2 Bk  r     f     -         2678   30    0 
+prodigy   959663234  7  1 Br  b     k     k         2648   30    0 Kh Qd
+prodigy   959663280  7  7 f   -     -     -         2618    0    0 
+prodigy   959663317  7  6 f   -     -     -         2618    0    0 
+prodigy   959663386  7  5 r   rr    c     f         2618   80    0 
+prodigy   959663445  7  4 f   -     -     -         2538    0    0 
+prodigy   959663494  8  4 f   -     -     -         2538    0    0 
+prodigy   959663551  7  2 Bf  -     -     -         2538   10    0 
+prodigy   959663585  7  1 BQ  -     -     -         2528    5    0 
+prodigy   959749800  6  5 cc  cc    kc    kc        2523   80    0 Kc 8s
+prodigy   959749875  5  3 f   -     -     -         2443    0    0 
+prodigy   959749946  5  2 Bf  -     -     -         2443   10    0 
+prodigy   959749980  5  1 Bf  -     -     -         2433    5    0 
+prodigy   959749998  4  4 f   -     -     -         2428    0    0 
+prodigy   959750019  5  4 f   -     -     -         2428    0    0 
+prodigy   959750045  5  3 f   -     -     -         2428    0    0 
+prodigy   959750085  5  2 Bc  bc    ccc   f         2428  130    0 
+prodigy   959750167  6  1 Bf  -     -     -         2298    5    0 
+prodigy   959750208  7  6 cc  r     br    rc        2293  210  278 Ad Td
+prodigy   959750337  9  7 f   -     -     -         2361    0    0 
+prodigy   959750371  8  5 f   -     -     -         2361    0    0 
+prodigy   959750439  8  4 f   -     -     -         2361    0    0 
+prodigy   959750486  8  3 f   -     -     -         2361    0    0 
+prodigy   959750544  8  2 Bf  -     -     -         2361   10    0 
+prodigy   959750603  8  1 Bc  kf    -     -         2351   10    0 
+prodigy   959750641  7  7 f   -     -     -         2341    0    0 
+prodigy   959750771  6  5 f   -     -     -         2341    0    0 
+prodigy   959750818  6  4 f   -     -     -         2341    0    0 
+prodigy   959750866  7  4 c   r     b     b         2341   70  140 
+prodigy   959750920  7  3 f   -     -     -         2411    0    0 
+prodigy   959750966  7  2 Bf  -     -     -         2411   10    0 
+prodigy   959751011  7  1 Bf  -     -     -         2401    5    0 
+prodigy   959751090  9  9 f   -     -     -         2396    0    0 
+prodigy   959751144  9  8 f   -     -     -         2396    0    0 
+prodigy   959751194  8  7 f   -     -     -         2396    0    0 
+prodigy   959751292  9  6 f   -     -     -         2396    0    0 
+prodigy   959751351 10  6 f   -     -     -         2396    0    0 
+prodigy   959751429 10  5 f   -     -     -         2396    0    0 
+prodigy   959751489  9  3 c   kf    -     -         2396   10    0 
+prodigy   959751535 10  3 f   -     -     -         2386    0    0 
+prodigy   959751586 10  2 Bf  -     -     -         2386   10    0 
+prodigy   959751647  9  1 Bf  -     -     -         2376    5    0 
+prodigy   959751727  9  9 f   -     -     -         2371    0    0 
+prodigy   959751792  7  7 f   -     -     -         2371    0    0 
+prodigy   959751837  8  6 f   -     -     -         2371    0    0 
+prodigy   959751901 10  6 f   -     -     -         2371    0    0 
+prodigy   959751942  9  4 f   -     -     -         2371    0    0 
+prodigy   959751979  9  3 f   -     -     -         2371    0    0 
+prodigy   959752020  9  2 Bk  k     kf    -         2371   10    0 
+prodigy   959752078  9  1 Bf  -     -     -         2361    5    0 
+prodigy   959752145 10  9 cc  br    br    b         2356  113  359 Ks Qh
+prodigy   959752222  9  7 f   -     -     -         2602    0    0 
+prodigy   959752297 10  7 f   -     -     -         2602    0    0 
+prodigy   959752357 10  6 f   -     -     -         2602    0    0 
+prodigy   959752438 10  5 f   -     -     -         2602    0    0 
+prodigy   959752483 10  4 f   -     -     -         2602    0    0 
+prodigy   959752522 10  3 f   -     -     -         2602    0    0 
+prodigy   959752559 10  2 Bf  -     -     -         2602   10    0 
+prodigy   959752618 10  1 Bf  -     -     -         2592    5    0 
+prodigy   959752661 10 10 f   -     -     -         2587    0    0 
+prodigy   959752731 10  9 f   -     -     -         2587    0    0 
+prodigy   959752804 10  8 f   -     -     -         2587    0    0 
+prodigy   959752852 10  7 f   -     -     -         2587    0    0 
+prodigy   959752908 10  7 f   -     -     -         2587    0    0 
+prodigy   959752972 10  5 c   c     r     b         2587   80  175 
+prodigy   959753037 10  4 f   -     -     -         2682    0    0 
+prodigy   959753098 10  3 f   -     -     -         2682    0    0 
+prodigy   959753134  9  1 Bf  -     -     -         2682   10    0 
+prodigy   959753169  8  1 Bf  -     -     -         2672    5    0 
+prodigy   959753209  8  8 cc  b     b     b         2667   70  160 Qs Ac
+prodigy   959753268  8  7 f   -     -     -         2757    0    0 
+prodigy   959753296  8  6 f   -     -     -         2757    0    0 
+prodigy   959753330  9  6 f   -     -     -         2757    0    0 
+prodigy   959753373  9  5 f   -     -     -         2757    0    0 
+prodigy   959753462 10  4 f   -     -     -         2757    0    0 
+prodigy   959753502 10  3 f   -     -     -         2757    0    0 
+prodigy   959753545 10  2 Bk  kf    -     -         2757   10    0 
+prodigy   959753599 10  1 Bf  -     -     -         2747    5    0 
+prodigy   959753629 10 10 f   -     -     -         2742    0    0 
+prodigy   959753663 10  9 cf  -     -     -         2742   20    0 
+prodigy   959753710 10  8 f   -     -     -         2722    0    0 
+prodigy   959753761 10  7 f   -     -     -         2722    0    0 
+prodigy   959753826 10  6 f   -     -     -         2722    0    0 
+prodigy   959753876 10  5 f   -     -     -         2722    0    0 
+prodigy   959753912 10  4 f   -     -     -         2722    0    0 
+prodigy   959753952 10  3 f   -     -     -         2722    0    0 
+prodigy   959753993 10  2 Bf  -     -     -         2722   10    0 
+prodigy   959754020 10  1 Bf  -     -     -         2712    5    0 
+prodigy   959754062 10 10 c   f     -     -         2707   10    0 
+prodigy   959754153 10  9 f   -     -     -         2697    0    0 
+prodigy   959754191 10  8 f   -     -     -         2697    0    0 
+prodigy   959754220  9  6 f   -     -     -         2697    0    0 
+prodigy   959754267 10  5 f   -     -     -         2697    0    0 
+prodigy   959754339 10  4 f   -     -     -         2697    0    0 
+prodigy   959754389 10  3 cc  f     -     -         2697   20    0 
+prodigy   959754449 10  2 Bf  -     -     -         2677   10    0 
+prodigy   959754502 10  1 Bf  -     -     -         2667    5    0 
+prodigy   959754551 10 10 f   -     -     -         2662    0    0 
+prodigy   959754594 10  9 f   -     -     -         2662    0    0 
+prodigy   959754661 10  8 f   -     -     -         2662    0    0 
+prodigy   959754692 10  7 f   -     -     -         2662    0    0 
+prodigy   959754776 10  6 f   -     -     -         2662    0    0 
+prodigy   959754842 10  5 c   r     c     r         2662  120  445 5d 5c
+prodigy   959754948 10  4 ccc b     bc    k         2987   90  233 Ah Jd
+prodigy   959755091 10  3 ccc kc    kf    -         3130   50    0 
+prodigy   959755199 10  2 Bk  f     -     -         3080   10    0 
+prodigy   959755280 10  1 Bf  -     -     -         3070    5    0 
+prodigy   959755304 10 10 f   -     -     -         3065    0    0 
+prodigy   959755362 10  9 cc  k     f     -         3065   30    0 
+prodigy   959755447 10  8 f   -     -     -         3035    0    0 
+prodigy   959755510 10  7 f   -     -     -         3035    0    0 
+prodigy   959755566 10  6 f   -     -     -         3035    0    0 
+prodigy   959755663  9  4 f   -     -     -         3035    0    0 
+prodigy   959755733  8  2 Bf  -     -     -         3035   10    0 
+prodigy   959755768  8  1 Bf  -     -     -         3025    5    0 
+prodigy   959755833  8  8 f   -     -     -         3020    0    0 
+prodigy   959755870  8  7 f   -     -     -         3020    0    0 
+prodigy   959755906  8  6 f   -     -     -         3020    0    0 
+prodigy   959755960  9  6 f   -     -     -         3020    0    0 
+prodigy   959756009  9  5 r   b     b     b         3020   70  185 Ac Qc
+prodigy   959756046  9  4 f   -     -     -         3135    0    0 
+prodigy   959756096  8  3 f   -     -     -         3135    0    0 
+prodigy   959756166  8  2 Bf  -     -     -         3135   10    0 
+prodigy   959756220  8  1 Bf  -     -     -         3125    5    0 
+prodigy   959756252  8  8 f   -     -     -         3120    0    0 
+prodigy   959756284  8  7 f   -     -     -         3120    0    0 
+prodigy   959756330  8  6 f   -     -     -         3120    0    0 
+prodigy   959756375  8  5 f   -     -     -         3120    0    0 
+prodigy   959756444  8  4 f   -     -     -         3120    0    0 
+prodigy   959756488  8  3 cf  -     -     -         3120   10    0 
+prodigy   959756524  8  2 Bk  k     kf    -         3110   10    0 
+prodigy   959756569  9  1 Bc  kc    kf    -         3100   30    0 
+prodigy   959756603  9  9 f   -     -     -         3070    0    0 
+prodigy   959756642  9  7 f   -     -     -         3070    0    0 
+prodigy   959756691  9  6 f   -     -     -         3070    0    0 
+prodigy   959756762 10  6 f   -     -     -         3070    0    0 
+prodigy   959756798 10  5 f   -     -     -         3070    0    0 
+prodigy   959756855 10  4 c   rr    b     r         3070  110    0 As 4s
+prodigy   959756906 10  3 f   -     -     -         2960    0    0 
+prodigy   959756989 10  2 Bc  kf    -     -         2960   20    0 
+prodigy   959757044 10  1 Br  br    b     br        2940  140  430 Ah Th
+prodigy   959757093 10 10 f   -     -     -         3230    0    0 
+prodigy   959757225 10  9 f   -     -     -         3230    0    0 
+prodigy   959757285 10  9 f   -     -     -         3230    0    0 
+prodigy   959757314  9  7 f   -     -     -         3230    0    0 
+prodigy   959757362  9  6 f   -     -     -         3230    0    0 
+prodigy   959757429  9  5 cc  rr    rr    c         3230  160    0 Tc 7c
+prodigy   959757540  9  4 cc  f     -     -         3070   20    0 
+prodigy   959757609 10  3 cc  kc    kc    kc        3050   80    0 Ad Jd
+prodigy   959757691 10  2 Bk  kf    -     -         2970   10    0 
+prodigy   959757768  9  1 Bc  k     k     b         2960   30   50 
+prodigy   959757819 10 10 f   -     -     -         2980    0    0 
+prodigy   959757920  9  8 c   rc    rr    rr        2980  220  515 Js Qs
+prodigy   959758024  9  7 f   -     -     -         3275    0    0 
+prodigy   959758120  9  6 f   -     -     -         3275    0    0 
+prodigy   959758171 10  6 f   -     -     -         3275    0    0 
+prodigy   959758240 10  5 f   -     -     -         3275    0    0 
+prodigy   959758353  7  2 f   -     -     -         3275    0    0 
+prodigy   959758404  7  2 Bk  k     k     k         3275   10    0 7d 3h
+prodigy   959758457  6  1 Bf  -     -     -         3265    5    0 
+prodigy   959758521  6  6 f   -     -     -         3260    0    0 
+prodigy   959758551  6  5 f   -     -     -         3260    0    0 
+prodigy   959758576  7  5 f   -     -     -         3260    0    0 
+prodigy   959758611  7  4 f   -     -     -         3260    0    0 
+prodigy   959758692  7  3 cc  kf    -     -         3260   20    0 
+prodigy   959758758  7  3 f   -     -     -         3240    0    0 
+prodigy   959758806  7  2 Bk  kf    -     -         3240   10    0 
+prodigy   959758860  7  1 Bf  -     -     -         3230    5    0 
+prodigy   959758926  7  7 f   -     -     -         3225    0    0 
+prodigy   959758976  7  6 r   b     br    b         3225  110  360 
+prodigy   959759057  7  5 f   -     -     -         3475    0    0 
+prodigy   959759151  7  4 f   -     -     -         3475    0    0 
+prodigy   959759220  7  3 f   -     -     -         3475    0    0 
+prodigy   959759277  7  2 Br  kf    -     -         3475   20    0 
+prodigy   959759347  7  1 Bf  -     -     -         3455    5    0 
+prodigy   959759408  7  7 f   -     -     -         3450    0    0 
+prodigy   959759457  7  6 r   f     -     -         3450   20    0 
+prodigy   959759536  6  4 f   -     -     -         3430    0    0 
+prodigy   959759551  6  4 c   f     -     -         3430   10    0 
+prodigy   959759595  6  3 f   -     -     -         3420    0    0 
+prodigy   959759618  6  2 Bk  kf    -     -         3420   10    0 
+prodigy   959759670  6  1 Bc  kc    kc    kc        3410   90    0 Ac 9c
+prodigy   959759719  6  6 f   -     -     -         3320    0    0 
+prodigy   959759790  6  5 f   -     -     -         3320    0    0 
+prodigy   959759808  6  4 c   r     b     rr        3320  130    0 8h 8d
+prodigy   959759860  6  3 f   -     -     -         3190    0    0 
+prodigy   959759892  6  2 Bk  kf    -     -         3190   10    0 
+prodigy   959759914  6  1 Bc  kf    -     -         3180   10    0 
+prodigy   959759945  7  7 f   -     -     -         3170    0    0 
+prodigy   959759966  7  6 f   -     -     -         3170    0    0 
+prodigy   959760005  7  5 c   f     -     -         3170   10    0 
+prodigy   959760094  8  4 f   -     -     -         3160    0    0 
+prodigy   959760130  8  3 f   -     -     -         3160    0    0 
+prodigy   959760161  8  2 Bk  kc    kf    -         3160   20    0 
+prodigy   959760225  9  1 Bf  -     -     -         3140    5    0 
+prodigy   959760274  9  9 f   -     -     -         3135    0    0 
+prodigy   959760320  9  8 f   -     -     -         3135    0    0 
+prodigy   959760395  9  7 f   -     -     -         3135    0    0 
+prodigy   959760450  9  6 f   -     -     -         3135    0    0 
+prodigy   959760503  9  5 f   -     -     -         3135    0    0 
+prodigy   959760591  9  4 f   -     -     -         3135    0    0 
+prodigy   959760611  9  3 f   -     -     -         3135    0    0 
+prodigy   959760715  9  2 Bk  kf    -     -         3135   10    0 
+prodigy   959760786  9  1 Bc  kc    kc    k         3125   40  100 9c Ah
+prodigy   959760870  8  8 c   k     f     -         3185   10    0 
+prodigy   959760972  9  8 f   -     -     -         3175    0    0 
+prodigy   959761009  9  7 f   -     -     -         3175    0    0 
+prodigy   959761073 10  7 c   kc    r     b         3175   80  280 Ad 2d
+prodigy   959761188 10  6 f   -     -     -         3375    0    0 
+prodigy   959761233  9  4 f   -     -     -         3375    0    0 
+prodigy   959761308  9  3 f   -     -     -         3375    0    0 
+prodigy   959761366  8  2 Bf  -     -     -         3375   10    0 
+prodigy   959761427  6  1 Bc  b     -     -         3365   30   70 
+prodigy   959761448  6  6 f   -     -     -         3405    0    0 
+prodigy   959761483  5  4 KQ  -     -     -         3405    0    0 
+prodigy   959785338  5  4 f   -     -     -         3405    0    0 
+prodigy   959785432  6  3 f   -     -     -         3405    0    0 
+prodigy   959785477  6  2 B   -     -     -         3405   10   15 
+prodigy   959785495  3  1 Bc  b     b     -         3410   40   60 
+prodigy   959785518  3  3 f   -     -     -         3430    0    0 
+prodigy   959785546  3  2 B   -     -     -         3430   10   15 
+prodigy   959785556  3  1 Bc  b     -     -         3435   20   30 
+prodigy   959785573  3  3 f   -     -     -         3445    0    0 
+prodigy   959785595  3  2 Br  r     k     b         3445   60  100 
+prodigy   959785619  3  1 Br  b     -     -         3485   30   50 
+prodigy   959785635  3  3 f   -     -     -         3505    0    0 
+prodigy   959785643  3  2 B   -     -     -         3505   10   15 
+prodigy   959785647  3  1 Br  b     b     -         3510   50   80 
+prodigy   959785668  3  3 r   r     br    b         3540  120    0 5c Kc
+prodigy   959785712  3  2 B   -     -     -         3420   10   15 
+prodigy   959785721  3  1 Br  b     -     -         3425   30   50 
+prodigy   959785743  3  3 r   b     bc    c         3445   90    0 Kc 6h
+prodigy   959785786  3  2 B   -     -     -         3355   10   15 
+prodigy   959785795  3  1 Br  k     b     -         3360   40   60 
+prodigy   959785818  3  3 f   -     -     -         3380    0    0 
+prodigy   959785848  3  2 Br  br    br    b         3380  130  280 Jh Kc
+prodigy   959785907  3  1 Br  kf    -     -         3530   20    0 
+prodigy   959785939  3  3 f   -     -     -         3510    0    0 
+prodigy   959785952  3  2 B   -     -     -         3510   10   15 
+prodigy   959785956  3  1 Br  b     b     -         3515   50   80 
+prodigy   959785981  3  3 f   -     -     -         3545    0    0 
+prodigy   959786013  3  2 Bk  kf    -     -         3545   10    0 
+prodigy   959786030  3  1 Bc  b     -     -         3535   20   30 
+prodigy   959786044  3  3 r   r     c     c         3545   80    0 Kd 9d
+prodigy   959786072  3  2 B   -     -     -         3465   10   15 
+prodigy   959786080  3  1 Bf  -     -     -         3470    5    0 
+prodigy   959786103  3  3 r   b     b     -         3465   50   90 
+prodigy   959786135  3  2 Br  f     -     -         3505   20    0 
+prodigy   959786148  3  1 Br  b     b     b         3485   70    0 4d 5d
+prodigy   959786194  3  3 f   -     -     -         3415    0    0 
+prodigy   959786233  3  2 Br  f     -     -         3415   20    0 
+prodigy   959786255  3  1 Bc  k     b     b         3395   50   90 
+prodigy   959786294  4  4 f   -     -     -         3435    0    0 
+prodigy   959786338  4  3 f   -     -     -         3435    0    0 
+prodigy   959786355  4  2 Bk  f     -     -         3435   10    0 
+prodigy   959786370  4  1 Br  b     b     -         3425   50   90 
+prodigy   959786389  4  4 r   k     k     f         3465   20    0 
+prodigy   959786418  4  3 r   bf    -     -         3445   30    0 
+prodigy   959786455  4  2 Bf  -     -     -         3415   10    0 
+prodigy   959786464  4  1 Bf  -     -     -         3405    5    0 
+prodigy   959786486  4  4 f   -     -     -         3400    0    0 
+prodigy   959786493  4  3 c   r     b     f         3400   50    0 
+prodigy   959786519  4  2 Bf  -     -     -         3350   10    0 
+prodigy   959786527  4  1 Br  b     b     kf        3340   50    0 
+prodigy   959786554  3  3 c   k     k     k         3290   10   20 Kh 4c
+prodigy   959786576  3  3 f   -     -     -         3300    0    0 
+prodigy   959786584  4  2 B   -     -     -         3300   10   15 
+prodigy   959786589  4  1 Bf  -     -     -         3305    5    0 
+prodigy   959786605  4  4 f   -     -     -         3300    0    0 
+prodigy   959786622  4  3 f   -     -     -         3300    0    0 
+prodigy   959786637  4  2 Bk  kf    -     -         3300   10    0 
+prodigy   959786655  4  1 Bf  -     -     -         3290    5    0 
+prodigy   959786668  4  4 f   -     -     -         3285    0    0 
+prodigy   959786698  4  3 r   -     -     -         3285   20   35 
+prodigy   959786707  4  2 Bf  -     -     -         3300   10    0 
+prodigy   959786723  4  1 Bf  -     -     -         3290    5    0 
+prodigy   959786732  5  5 f   -     -     -         3285    0    0 
+prodigy   959786759  5  4 c   r     r     b         3285   90  240 Js 8s
+prodigy   959786800  5  3 f   -     -     -         3435    0    0 
+prodigy   959786833  5  2 Bk  f     -     -         3435   10    0 
+prodigy   959786857  5  1 Bc  kc    kc    b         3425   60  130 Tc Qd
+prodigy   959786887  5  5 f   -     -     -         3495    0    0 
+prodigy   959786922  5  4 f   -     -     -         3495    0    0 
+prodigy   959786947  5  3 r   b     r     b         3495   90  190 7c Ac
+prodigy   959787010  5  2 Bf  -     -     -         3595   10    0 
+prodigy   959787032  5  1 Bc  k     k     kf        3585   10    0 
+prodigy   959787089  6  5 f   -     -     -         3575    0    0 
+prodigy   959787124  7  5 c   k     f     -         3575   10    0 
+prodigy   959787148  6  3 c   k     kc    k         3565   30   80 7h Kh
+prodigy   959787204  6  2 Bk  kf    -     -         3615   10    0 
+prodigy   959787231  6  1 Bc  kf    -     -         3605   10    0 
+prodigy   959787267  6  6 f   -     -     -         3595    0    0 
+prodigy   959787312  7  6 f   -     -     -         3595    0    0 
+prodigy   959787365  7  5 f   -     -     -         3595    0    0 
+prodigy   959787411  7  4 f   -     -     -         3595    0    0 
+prodigy   959787438  9  3 f   -     -     -         3595    0    0 
+prodigy   959787481  9  2 Bk  k     b     -         3595   30   65 
+prodigy   959787541  8  1 Bc  bc    kf    -         3630   40    0 
+prodigy   959818833  8  7 r   rc    cc    rr        3590  212  679 Ad As
+prodigy   959818904  6  4 f   -     -     -         4057    0    0 
+prodigy   959818929  6  4 f   -     -     -         4057    0    0 
+prodigy   959818950  6  3 f   -     -     -         4057    0    0 
+prodigy   959818987  7  2 Bcc kf    -     -         4057   40    0 
+prodigy   959819032  7  1 Bf  -     -     -         4017    5    0 
+prodigy   959819059  6  6 f   -     -     -         4012    0    0 
+prodigy   959819090  6  5 f   -     -     -         4012    0    0 
+prodigy   959819107  6  4 f   -     -     -         4012    0    0 
+prodigy   959819166  6  3 f   -     -     -         4012    0    0 
+prodigy   959819197  5  1 Bc  kf    -     -         4012   20    0 
+prodigy   959819226  5  1 Bcc kf    -     -         3992   40    0 
+prodigy   959819281  5  5 rc  cc    c     c         3952  120  325 Ah Ac
+prodigy   959819330  5  4 f   -     -     -         4157    0    0 
+prodigy   959819353  5  3 f   -     -     -         4157    0    0 
+prodigy   959819401  5  2 Bcc kc    brc   brc       4157  200  230 7d 8h
+prodigy   959819463  6  1 Bf  -     -     -         4187    5    0 
+prodigy   959819521  5  5 f   -     -     -         4182    0    0 
+prodigy   959819567  5  4 cc  k     k     k         4182   20    0 6c 5s
+prodigy   959819606  5  3 c   br    b     -         4162   60  130 
+prodigy   959819654  5  2 Bk  kr    b     b         4232   70  155 4d 5c
+prodigy   959819692  5  1 Bf  -     -     -         4317    5    0 
+prodigy   959819732  6  6 c   k     f     -         4312   20    0 
+prodigy   959819778  5  4 f   -     -     -         4292    0    0 
+prodigy   959819819  5  3 ccc kf    -     -         4292   40    0 
+prodigy   959819872  5  2 Bf  -     -     -         4252   10    0 
+prodigy   959819919  5  1 Bc  kc    br    -         4242   90  180 
+prodigy   959819945  5  5 c   f     -     -         4332   20    0 
+prodigy   959819976  6  5 c   k     k     f         4312   10    0 
+prodigy   959820023  8  6 cc  kc    k     b         4302   50  125 
+prodigy   959820100  7  4 cc  c     f     -         4377   40    0 
+prodigy   959820163  7  3 f   -     -     -         4337    0    0 
+prodigy   959820237  6  2 Bf  -     -     -         4337   10    0 
+prodigy   959820289  6  1 Bcc kc    k     kf        4327   60    0 
+prodigy   959820387  7  7 c   f     -     -         4267   20    0 
+prodigy   959820439  7  6 f   -     -     -         4247    0    0 
+prodigy   959820474  7  5 f   -     -     -         4247    0    0 
+prodigy   959820522  7  4 f   -     -     -         4247    0    0 
+prodigy   959820553  6  3 f   -     -     -         4247    0    0 
+prodigy   959820581  7  2 Br  k     kf    -         4247   20    0 
+prodigy   959820648  7  1 Bc  b     brc   kc        4227  130  280 2s 7s
+prodigy   959820724  7  7 f   -     -     -         4377    0    0 
+prodigy   959820780  7  6 c   f     -     -         4377   10    0 
+prodigy   959820838  6  4 f   -     -     -         4367    0    0 
+prodigy   959820900  8  4 fQ  -     -     -         4367    0    0 
+prodigy   959822548  6  2 Bf  -     -     -         4367   10    0 
+prodigy   959822584  7  1 Bc  kcf   -     -         4357   30    0 
+prodigy   959822646  7  7 cc  c     c     f         4327   50    0 
+prodigy   959822706  6  5 f   -     -     -         4277    0    0 
+prodigy   959822763  6  5 c   f     -     -         4277   10    0 
+prodigy   959822808  4  3 c   k     b     b         4267   50  110 
+prodigy   959822861  5  3 f   -     -     -         4327    0    0 
+prodigy   959822891  5  2 Bc  kf    -     -         4327   20    0 
+prodigy   959822926  6  1 Bc  k     k     k         4307   10    0 As 4d
+prodigy   959822954  6  6 f   -     -     -         4297    0    0 
+prodigy   959822991  6  5 c   r     b     b         4297   70  170 6s Ad
+prodigy   959823028  7  4 f   -     -     -         4397    0    0 
+prodigy   959823068  7  3 rc  bc    bc    kc        4397  120  445 Ts Qs
+prodigy   959823178  7  1 Bf  -     -     -         4722   10    0 
+prodigy   959823203  7  1 Bc  kf    -     -         4712   10    0 
+prodigy   959823233  7  7 f   -     -     -         4702    0    0 
+prodigy   959823274  8  7 f   -     -     -         4702    0    0 
+prodigy   959823319  8  6 cr  brc   c     f         4702   90    0 
+prodigy   959823397  8  6 f   -     -     -         4612    0    0 
+prodigy   959823471  8  4 f   -     -     -         4612    0    0 
+prodigy   959823544  7  3 f   -     -     -         4612    0    0 
+prodigy   959823570  8  2 Bk  k     k     kf        4612   10    0 
+prodigy   959823605  7  1 Bf  -     -     -         4602    5    0 
+prodigy   959823637  7  7 f   -     -     -         4597    0    0 
+prodigy   959823675  7  6 r   b     -     -         4597   30   75 
+prodigy   959823703  7  5 f   -     -     -         4642    0    0 
+prodigy   959823736  6  3 f   -     -     -         4642    0    0 
+prodigy   959823789  7  2 Bk  k     b     b         4642   50   85 
+prodigy   959823824  7  1 Bcc k     b     b         4677   70    0 6c Tc
+prodigy   959823865  6  6 f   -     -     -         4607    0    0 
+prodigy   959823886  6  5 f   -     -     -         4607    0    0 
+prodigy   959823928  6  4 f   -     -     -         4607    0    0 
+prodigy   959823955  5  3 f   -     -     -         4607    0    0 
+prodigy   959823986  5  2 Bk  k     kc    bc        4607   70  145 5s 8s
+prodigy   959824026  5  1 Bc  k     kf    -         4682   30    0 
+prodigy   959824079  5  5 r   k     c     c         4652   60    0 Ac Ks
+prodigy   959824118  7  6 r   rr    rr    rr        4592  220  490 Qs Ks
+prodigy   959824175  7  5 f   -     -     -         4862    0    0 
+prodigy   959824215  7  4 c   b     b     bf        4862   60    0 
+prodigy   959824275  7  3 f   -     -     -         4802    0    0 
+prodigy   959824321  7  2 Bk  kf    -     -         4802   10    0 
+prodigy   959824346  7  1 Bc  kc    k     bf        4792   40    0 
+prodigy   959824385  7  7 r   b     brc   r         4752  150    0 Ah Qc
+prodigy   959824444  6  5 f   -     -     -         4602    0    0 
+prodigy   959824479  6  4 c   f     -     -         4602   10    0 
+prodigy   959824540  6  3 f   -     -     -         4592    0    0 
+prodigy   959824576  7  2 Br  b     br    b         4592  110  225 Ad Qs
+prodigy   959824599  7  1 Br  k     kf    -         4707   20    0 
+prodigy   959824622  7  7 rc  f     -     -         4687   40    0 
+prodigy   959824672  7  6 c   r     rr    brc       4647  190  381 Ad Ts
+prodigy   959824719  7  5 r   c     c     r         4838   90  245 
+prodigy   959824769  7  4 r   c     c     f         4993   50    0 
+prodigy   959824805  6  2 Bk  k     k     bf        4943   30    0 
+prodigy   959824866  6  1 Bc  bc    k     kc        4913   50    0 6h Th
+prodigy   959824950  5  5 f   -     -     -         4863    0    0 
+prodigy   959824988  5  4 c   rr    b     b         4863   90    0 Th Qd
+prodigy   959825048  5  3 f   -     -     -         4773    0    0 
+prodigy   959825072  5  2 Bk  kf    -     -         4773   10    0 
+prodigy   959825125  7  1 Bc  kf    -     -         4763   10    0 
+prodigy   959825163  7  7 r   f     -     -         4753   20    0 
+prodigy   959825222  8  6 f   -     -     -         4733    0    0 
+prodigy   959825270  8  5 f   -     -     -         4733    0    0 
+prodigy   959825314  9  4 f   -     -     -         4733    0    0 
+prodigy   959825434  9  3 f   -     -     -         4733    0    0 
+prodigy   959825466  9  2 Bf  -     -     -         4733   10    0 
+prodigy   959825515  8  1 Bf  -     -     -         4723    5    0 
+prodigy   959825575  8  8 r   b     b     bc        4718   90    0 Jc 6c
+prodigy   959825625  9  8 f   -     -     -         4628    0    0 
+prodigy   959825678  8  6 c   f     -     -         4628   10    0 
+prodigy   959825707  8  5 f   -     -     -         4618    0    0 
+prodigy   959825747  9  4 cc  kf    Q     -         4618   20    0 
+prodigy   959829217  6  5 c   f     -     -         4598   20    0 
+prodigy   959829236  6  4 f   -     -     -         4578    0    0 
+prodigy   959829273  7  3 cc  f     -     -         4578   20    0 
+prodigy   959829315  7  2 Bk  f     -     -         4558   10    0 
+prodigy   959829353  7  1 Bf  -     -     -         4548    5    0 
+prodigy   959829388  8  8 r   rc    c     c         4543  120    0 As Ad
+prodigy   959829435  7  6 c   bf    -     -         4423   30    0 
+prodigy   959829491  8  6 f   -     -     -         4393    0    0 
+prodigy   959829554  7  4 f   -     -     -         4393    0    0 
+prodigy   959829586  7  3 cc  f     -     -         4393   50    0 
+prodigy   959829643  7  2 Bf  -     -     -         4343   10    0 
+prodigy   959829702  8  1 BKQ -     -     -         4333    5    0 

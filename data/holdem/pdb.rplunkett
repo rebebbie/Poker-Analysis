@@ -1,0 +1,152 @@
+rplunkett 958742323  3  3 f   -     -     -          860    0    0 
+rplunkett 958742342  3  2 B   -     -     -          860   10   15 
+rplunkett 958742347  3  1 Bf  -     -     -          865    5    0 
+rplunkett 958742357  3  3 f   -     -     -          860    0    0 
+rplunkett 958742375  3  2 B   -     -     -          860   10   15 
+rplunkett 958742378  3  1 Bc  k     k     b          865   30   40 
+rplunkett 958742403  3  3 f   -     -     -          875    0    0 
+rplunkett 958742417  3  2 B   -     -     -          875   10   15 
+rplunkett 958742420  3  1 Bc  b     b     brc        880  120  250 Jc Ac
+rplunkett 958742451  3  3 f   -     -     -         1010    0    0 
+rplunkett 958742474  3  2 B   -     -     -         1010   10   15 
+rplunkett 958742480  3  1 Bf  -     -     -         1015    5    0 
+rplunkett 958742486  3  3 c   r     b     c         1010   70    0 Js 5s
+rplunkett 958742541  3  2 Bc  c     k     k          940   30   80 9d 7d
+rplunkett 958742577  3  1 Bf  -     -     -          990    5    0 
+rplunkett 958742588  3  3 f   -     -     -          985    0    0 
+rplunkett 958742602  3  2 Bk  k     kf    -          985   10    0 
+rplunkett 958742623  3  1 Bf  -     -     -          975    5    0 
+rplunkett 958742636  3  3 c   rc    c     c          970   80    0 Tc Kd
+rplunkett 958742670  3  2 Bk  k     k     k          890   10   20 Th 7d
+rplunkett 958742719  3  1 Bf  -     -     -          900    5    0 
+rplunkett 958742728  3  3 f   -     -     -          895    0    0 
+rplunkett 958742748  3  2 Bk  f     -     -          895   10    0 
+rplunkett 958742762  3  1 Br  kc    k     b          885   50   90 
+rplunkett 958742793  4  3 f   -     -     -          925    0    0 
+rplunkett 958742812  4  2 Bk  k     k     b          925   30   60 
+rplunkett 958742846  4  1 Bc  kc    k     k          955   20   40 Td Qs
+rplunkett 958742881  3  3 c   k     b     -          975   30   50 
+rplunkett 958742905  4  3 c   k     f     -          995   10    0 
+rplunkett 958742943  4  2 Bf  -     -     -          985   10    0 
+rplunkett 958742956  4  1 Bf  -     -     Q          975    5    0 
+rplunkett 958743001  4  4 f   -     -     -          970    0    0 
+rplunkett 958743018  4  3 c   r     b     b          970   70  160 4c Ac
+rplunkett 958743049  4  2 Bk  k     c     b         1060   50  100 8d 9d
+rplunkett 958743078  4  1 Bc  kf    -     -         1110   10    0 
+rplunkett 958743098  4  4 c   k     f     -         1100   10    0 
+rplunkett 958743121  4  3 c   b     -     -         1090   20   40 
+rplunkett 958743138  4  2 Br  brc   brc   brc       1110  230    0 Td Tc
+rplunkett 958743198  4  1 Bc  kf    -     -          880   20    0 
+rplunkett 958743246  4  4 f   -     -     -          860    0    0 
+rplunkett 958743270  5  3 c   kf    -     -          860   10    0 
+rplunkett 958743305  5  2 Bk  k     b     -          850   30   45 
+rplunkett 958743326  5  1 Bf  -     -     -          865    5    0 
+rplunkett 958743350  5  5 c   k     k     k          860   10    0 9s Js
+rplunkett 958743385  5  4 f   -     -     -          850    0    0 
+rplunkett 958743416  5  3 f   -     -     -          850    0    0 
+rplunkett 958743453  6  2 Bf  -     -     -          850   10    0 
+rplunkett 958743491  6  1 Bf  -     -     -          840    5    0 
+rplunkett 958743526  5  5 c   k     k     b          835   30   50 
+rplunkett 958743564  4  3 f   -     -     -          855    0    0 
+rplunkett 958743572  4  2 Bk  k     k     k          855   10   30 Js 3s
+rplunkett 958743594  5  1 Bf  -     -     -          875    5    0 
+rplunkett 958743620  5  5 f   -     -     -          870    0    0 
+rplunkett 958743653  7  5 f   -     -     -          870    0    0 
+rplunkett 958743679  7  4 f   -     -     -          870    0    0 
+rplunkett 958743731  6  2 Bc  kf    -     -          870   20    0 
+rplunkett 958743760  6  1 Bf  -     -     -          850    5    0 
+rplunkett 958743799  7  7 c   k     f     -          845   10    0 
+rplunkett 958743898  8  7 f   -     -     -          835    0    0 
+rplunkett 958743960  9  7 f   -     -     -          835    0    0 
+rplunkett 958744029  9  6 f   -     -     -          835    0    0 
+rplunkett 958744075  8  4 f   Q     -     -          835    0    0 
+rplunkett 958744444  6  2 Bk  kc    kc    kf         835   40    0 
+rplunkett 958744500  6  1 Bf  -     -     -          795    5    0 
+rplunkett 958744524  6  6 f   -     -     -          790    0    0 
+rplunkett 958744565  6  5 f   -     -     -          790    0    0 
+rplunkett 958744585  4  3 c   b     k     b          790   40   80 
+rplunkett 958744629  5  2 Bf  -     -     -          830   10    0 
+rplunkett 958744653  5  1 Bc  kf    -     -          820   10    0 
+rplunkett 958744680  4  4 c   k     f     -          810   10    0 
+rplunkett 958744701  4  3 f   -     -     -          800    0    0 
+rplunkett 958744721  4  2 Bk  f     -     -          800   10    0 
+rplunkett 958744736  4  1 Br  b     b     b          790   80  170 Ac Ah
+rplunkett 958744758  4  4 r   k     k     k          880   20   55 8s Qh
+rplunkett 958744777  4  3 f   -     -     -          915    0    0 
+rplunkett 958744795  4  2 Bk  f     -     -          915   10    0 
+rplunkett 958744819  4  1 Br  bc    kc    k          905   60    0 Tc Td
+rplunkett 958744855  4  4 f   -     -     -          845    0    0 
+rplunkett 958744872  4  3 f   -     -     -          845    0    0 
+rplunkett 958744896  4  2 Bk  f     -     -          845   10    0 
+rplunkett 958744905  5  1 Bf  -     -     -          835    5    0 
+rplunkett 958744930  5  5 f   -     -     -          830    0    0 
+rplunkett 958744965  5  4 rr  k     c     c          830   80    0 Jh Jc
+rplunkett 958745005  5  3 f   -     -     -          750    0    0 
+rplunkett 958745050  5  2 Bk  kf    -     -          750   10    0 
+rplunkett 958745097  5  1 Bc  k     k     bf         740   30    0 
+rplunkett 958745149  5  5 c   k     k     f          710   10    0 
+rplunkett 958745189  5  4 f   -     -     -          700    0    0 
+rplunkett 958745281  4  2 cf  -     -     -          700   10    0 
+rplunkett 958745300  4  2 Bk  f     -     -          690   10    0 
+rplunkett 958745310  4  1 Bc  kf    -     -          680   20    0 
+rplunkett 958745327  4  4 f   -     -     -          660    0    0 
+rplunkett 958745335  5  4 c   f     -     -          660   20    0 
+rplunkett 958745360  5  3 f   -     -     -          640    0    0 
+rplunkett 958745373  6  2 Bk  k     kf    -          640   10    0 
+rplunkett 958745407  7  1 Bf  -     -     -          630    5    0 
+rplunkett 958745443  8  8 c   k     k     k          625   10    0 8c Jc
+rplunkett 958745522  8  7 c   c     k     c          615   40  130 Qd Kd
+rplunkett 958745556  8  6 f   -     -     -          705    0    0 
+rplunkett 958745617  8  5 f   -     -     -          705    0    0 
+rplunkett 958745672  8  5 c   k     r     k          705   50  160 Ks 6h
+rplunkett 958745775  7  3 c   r     k     k          815   30   40 As 5s
+rplunkett 958745808  7  4 Q   -     -     -          825    0    0 
+rplunkett 958746073  3  1 Bc  kf    -     -          825   20    0 
+rplunkett 958746093  3  1 Bf  -     -     -          805    5    0 
+rplunkett 958746106  3  3 c   r     k     k          800   30   70 Jd 5d
+rplunkett 958746129  3  2 B   -     -     -          840   10   15 
+rplunkett 958746134  3  1 Bc  k     kf    -          845   10    0 
+rplunkett 958746156  3  3 f   -     -     -          835    0    0 
+rplunkett 958746177  3  2 Bf  -     -     -          835   10    0 
+rplunkett 958746185  3  1 Bf  -     -     -          825    5    0 
+rplunkett 958746200  4  4 f   -     -     -          820    0    0 
+rplunkett 958746219  4  3 cc  b     b     b          820   70  180 Ad 9s
+rplunkett 958746254  5  2 Bf  -     -     -          930   10    0 
+rplunkett 958746270  5  1 BQ  -     -     -          920    5    0 
+rplunkett 958747069  4  4 c   k     b     k          915   30    0 Kc Js
+rplunkett 958747100  4  3 f   -     -     -          885    0    0 
+rplunkett 958747133  4  2 B   -     -     -          885   10   15 
+rplunkett 958747137  4  1 B   -     -     -          890    5   15 
+rplunkett 958747140  3  3 c   k     f     -          900   10    0 
+rplunkett 958747158  3  3 c   r     c     c          890   70    0 Ks Jd
+rplunkett 958747193  4  2 B   -     -     -          820   10   15 
+rplunkett 958747201  5  1 Bc  kf    -     -          825   20    0 
+rplunkett 958747231  5  5 cc  f     -     -          805   20    0 
+rplunkett 958747250  5  4 f   -     -     -          785    0    0 
+rplunkett 958747255  5  3 f   -     -     -          785    0    0 
+rplunkett 958747261  5  2 Bf  -     -     -          785   10    0 
+rplunkett 958747267  5  1 Bc  kf    -     -          775   20    0 
+rplunkett 958747292  5  5 Q   -     -     -          755    0    0 
+rplunkett 958981578 10  8 f   -     -     -          625    0    0 
+rplunkett 958981653 10  7 f   -     -     -          625    0    0 
+rplunkett 958981747 10  6 cf  -     -     -          625   10    0 
+rplunkett 958981825 10  5 rc  c     f     -          615   50    0 
+rplunkett 958981924 10  4 cc  r     brc   c          565  140    0 Ad Ts
+rplunkett 958982023 10  3 f   -     -     -          425    0    0 
+rplunkett 958982104 10  2 Bf  -     -     -          425   10    0 
+rplunkett 958982202 10  1 Bf  -     -     -          415    5    0 
+rplunkett 958982244 10 10 f   -     -     -          410    0    0 
+rplunkett 958982289 10  9 cc  cc    cc    c          410  180    0 9h As
+rplunkett 958982398 10  8 f   -     -     -          230    0    0 
+rplunkett 958982479 10  7 f   -     -     -          230    0    0 
+rplunkett 958982565 10  6 c   k     b     b          230   50    0 9s 9d
+rplunkett 958982644 10  5 f   -     -     -          180    0    0 
+rplunkett 958982695  9  4 cc  kf    -     -          180   20    0 
+rplunkett 958982813  9  3 f   -     -     -          160    0    0 
+rplunkett 958982880 10  2 Bc  kc    k     k          160   30    0 Qc Qs
+rplunkett 958982972 10  1 Bf  -     -     -          130    5    0 
+rplunkett 958983057 10 10 f   -     -     -          125    0    0 
+rplunkett 958983112 10  9 f   -     -     -          125    0    0 
+rplunkett 958983183 10  8 f   -     -     -          125    0    0 
+rplunkett 958983219 10  7 cc  kf    -     -          125   20    0 
+rplunkett 958983304 10  6 fQ  -     -     -          105    0    0 

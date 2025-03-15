@@ -1,0 +1,53 @@
+xl_rdr    957719956  5  5 c   b     -     -         3850   40   90 
+xl_rdr    957719990  4  3 cc  kf    -     -         3900   60    0 
+xl_rdr    957720020  4  2 Bk  kf    -     -         3840   20    0 
+xl_rdr    957720049  4  1 Bc  kc    brc   k         3820  220    0 Jd 2d
+xl_rdr    957720109  4  4 c   b     -     -         3600   40   80 
+xl_rdr    957720149  4  3 c   f     -     -         3640   20    0 
+xl_rdr    957720191  4  2 Bk  f     -     -         3620   20    0 
+xl_rdr    957720224  4  1 Bc  kf    -     -         3600   20    0 
+xl_rdr    957720257  4  4 c   r     b     b         3580  140    0 9h 3c
+xl_rdr    957720296  5  4 f   -     -     -         3440    0    0 
+xl_rdr    957720330  5  3 cc  cf    -     -         3440   60    0 
+xl_rdr    957720399  5  2 Bk  k     kf    -         3380   20    0 
+xl_rdr    957720436  5  1 Bc  k     brr   -         3360  240  480 
+xl_rdr    957720480  6  5 rc  k     b     -         3600  100  230 
+xl_rdr    957720544  6  4 r   bc    kf    -         3730  100    0 
+xl_rdr    957720620  6  3 c   c     f     -         3630   40    0 
+xl_rdr    957720702  6  2 Bc  c     c     c         3590  140    0 6d 5s
+xl_rdr    957720742  6  1 Bcc kc    kc    kf        3450  100    0 
+xl_rdr    957720818  6  6 r   rc    c     f         3350  140    0 
+xl_rdr    957720864  7  5 c   b     b     b         3210  120    0 Kd 8s
+xl_rdr    957720912  7  4 c   c     b     bc        3090  160    0 Jd 4s
+xl_rdr    957720993  8  3 cc  kcc   krc   k         2930  260    0 7s 3d
+xl_rdr    957721057  9  2 Bc  bc    b     b         2670  160  370 
+xl_rdr    957721110  9  1 Bc  kc    br    b         2880  220  500 2s 9s
+xl_rdr    957721164 10 10 c   f     -     -         3160   20    0 
+xl_rdr    957721219 10  9 cc  kc    kf    -         3140   60    0 
+xl_rdr    957721296 10  8 c   cc    f     -         3080   80    0 
+xl_rdr    957721374 10  7 cc  fQ    -     -         3000   40    0 
+xl_rdr    957745955  8  6 c   k     k     k         2013   20    0 8d 9s
+xl_rdr    957746000  8  5 f   -     -     -         1993    0    0 
+xl_rdr    957746033  8  4 c   kf    -     -         1993   20    0 
+xl_rdr    957746105  8  3 c   k     b     -         1973   60  110 
+xl_rdr    957746139  8  2 Bcc f     -     -         2023   80    0 
+xl_rdr    957746241  8  1 Bc  kc    k     k         1943   60    0 8s 3d
+xl_rdr    957746275  8  8 c   f     -     -         1883   20    0 
+xl_rdr    957746330  8  7 c   c     c     f         1863  120    0 
+xl_rdr    957746390  8  6 c   b     b     b         1743  120  370 Jc 8s
+xl_rdr    957746457  7  5 c   b     -     -         1993   40  110 
+xl_rdr    957746506  7  4 c   c     c     c         2063  120  310 2d 4c
+xl_rdr    957746552  7  3 c   k     k     b         2253   60  100 
+xl_rdr    957746607  7  2 Bc  kc    b     b         2293  140  250 
+xl_rdr    957746643  7  1 Bc  kc    kc    krf       2403  180    0 
+xl_rdr    957746678  7  7 rc  rc    b     b         2223  220  430 
+xl_rdr    957746735  7  6 c   c     b     b         2433  120    0 8h 9h
+xl_rdr    957746790  6  5 f   -     -     -         2313    0    0 
+xl_rdr    957746822  7  4 cc  kf    -     -         2313   40    0 
+xl_rdr    957746890  6  2 Bk  kf    -     -         2273   20    0 
+xl_rdr    957746908  6  1 Brc kc    krr   b         2253  300  640 Jd Td
+xl_rdr    957746964  6  6 c   f     -     -         2593   40    0 
+xl_rdr    957746994  6  5 c   c     k     b         2553  100  230 Qh Jc
+xl_rdr    957747027  6  4 c   c     c     c         2683  140  225 8h Qd
+xl_rdr    957747067  7  4 cc  c     c     r         2768  200  640 Jh 8c
+xl_rdr    957747147  7  3 cc  cc    f     Q         3208  120    0 

@@ -1,0 +1,47 @@
+bezier1   959651819 10  7 r   b     b     b          520   70  230 Kd Ks
+bezier1   959651902 10  6 f   -     -     -          680    0    0 
+bezier1   959651949 10  5 f   -     -     -          680    0    0 
+bezier1   959652032 10  4 c   cf    -     -          680   20    0 
+bezier1   959652135 10  3 r   b     b     k          660   50  205 3d 3s
+bezier1   959652183 10  2 Bk  kc    kc    k          815   40  140 2h Kd
+bezier1   959652268 10  1 Bcc kc    kf    -          915   50    0 
+bezier1   959652383 10 10 r   cc    c     f          865   70    0 
+bezier1   959652465 10  9 c   c     rr    b          795  130  430 3c Qd
+bezier1   959652550 10  8 c   f     -     -         1095   20    0 
+bezier1   959652614 10  7 f   -     -     -         1075    0    0 
+bezier1   959652693 10  6 c   b     k     b         1075   40  100 
+bezier1   959652832  8  3 cc  k     kf    -         1135   20    0 
+bezier1   959652884  7  2 Bk  b     b     b         1115   60    0 4s 3c
+bezier1   959652916  7  1 Bc  k     b     k         1055   30  130 Ts Jd
+bezier1   959652966  8  8 c   f     -     -         1155   10    0 
+bezier1   959653012  7  6 c   f     -     -         1145   10    0 
+bezier1   959653053  8  6 c   b     b     -         1135   40   75 
+bezier1   959653111  6  4 r   bc    f     -         1170   40    0 
+bezier1   959653200  9  5 cc  c     c     k         1130   50    0 7c Kd
+bezier1   959653235 10  5 rr  bc    kc    kf        1080   80    0 
+bezier1   959653318 10  4 cc  kc    k     b         1000   50  165 Th 6s
+bezier1   959653375 10  3 c   f     -     -         1115   10    0 
+bezier1   959653410 10  2 Bk  kf    -     -         1105   10    0 
+bezier1   959653438 10  1 Bc  kc    kc    kf        1095   50    0 
+bezier1   959653485 10 10 f   -     -     -         1045    0    0 
+bezier1   959653523 10  9 c   f     -     -         1045   10    0 
+bezier1   959653579 10  8 cc  f     -     -         1035   20    0 
+bezier1   959653666 10  7 c   b     b     b         1015   70    0 9h Kd
+bezier1   959653723 10  6 r   kf    -     -          945   20    0 
+bezier1   959653805 10  5 r   brc   bc    k          925  100  305 Kd Ac
+bezier1   959653859 10  4 cc  k     kc    k         1130   40    0 2h As
+bezier1   959653923  9  3 r   b     b     b         1090   70  250 Ac Qh
+bezier1   959654006 10  2 Bk  br    bc    kc        1270  100    0 4c 3c
+bezier1   959654105  9  1 Br  k     b     bc        1170   80    0 8c Ac
+bezier1   959654179  9  9 c   k     f     -         1090   10    0 
+bezier1   959654224  9  8 cc  f     -     -         1080   20    0 
+bezier1   959654313 10  8 f   -     -     -         1060    0    0 
+bezier1   959654371 10  7 c   f     -     -         1060   10    0 
+bezier1   959654458 10  6 c   r     b     k         1050   50    0 9d Ks
+bezier1   959654511 10  5 c   b     b     -         1000   40   90 
+bezier1   959654566 10  4 cc  f     -     -         1050   20    0 
+bezier1   959654644 10  3 r   kf    -     -         1030   20    0 
+bezier1   959654778 10  2 Bc  cc    kf    -         1010   40    0 
+bezier1   959654880  9  1 Bc  k     kf    -          970   10    0 
+bezier1   959654990 10 10 c   cc    c     c          960   80    0 5c Ah
+bezier1   959655064  9  8 r   b     b     KQ         880   50    0 

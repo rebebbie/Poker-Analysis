@@ -1,0 +1,65 @@
+RoadKill  958511748  9  4 f   -     -     -         2295    0    0 
+RoadKill  958511783  8  3 f   -     -     -         2295    0    0 
+RoadKill  958511820  8  2 Bk  kf    -     -         2295   20    0 
+RoadKill  958511861  8  1 Bf  -     -     -         2275   10    0 
+RoadKill  958511896  8  7 f   -     -     -         2265    0    0 
+RoadKill  958511937  7  5 f   -     -     -         2265    0    0 
+RoadKill  958511984  8  4 f   -     -     -         2265    0    0 
+RoadKill  958511993  8  3 f   -     -     -         2265    0    0 
+RoadKill  958512014  8  2 Bc  kf    -     -         2265   40    0 
+RoadKill  958512046  8  1 Bf  -     -     -         2225   10    0 
+RoadKill  958512055  8  8 c   f     -     -         2215   40    0 
+RoadKill  958512084  8  7 f   -     -     -         2175    0    0 
+RoadKill  958512115  8  6 f   -     -     -         2175    0    0 
+RoadKill  958512138  8  5 f   -     -     -         2175    0    0 
+RoadKill  958512155  8  4 c   kc    kf    -         2175   60    0 
+RoadKill  958512184  8  3 f   -     -     -         2115    0    0 
+RoadKill  958512206  8  2 Bk  kf    -     -         2115   20    0 
+RoadKill  958512258  9  1 Bf  -     -     -         2095   10    0 
+RoadKill  958512268  9  9 f   -     -     -         2085    0    0 
+RoadKill  958512309  9  8 r   b     -     -         2085   60  130 
+RoadKill  958512375  8  8 f   -     -     -         2155    0    0 
+RoadKill  958512410  8  7 f   -     -     -         2155    0    0 
+RoadKill  958512453  8  6 f   -     -     -         2155    0    0 
+RoadKill  958512504  9  6 f   -     -     -         2155    0    0 
+RoadKill  958512522  8  4 f   -     -     -         2155    0    0 
+RoadKill  958512556  8  3 f   -     -     -         2155    0    0 
+RoadKill  958512596  8  2 Bc  c     c     f         2155  100    0 
+RoadKill  958512621  8  1 Bc  -     -     -         2055   20   40 
+RoadKill  958512634  8  8 c   c     c     c         2075  120  320 Ac 8d
+RoadKill  958512692  8  7 r   c     f     -         2275   60    0 
+RoadKill  958512732  9  6 f   -     -     -         2215    0    0 
+RoadKill  958512785  9  5 f   -     -     -         2215    0    0 
+RoadKill  958512825  9  4 c   c     k     f         2215   40    0 
+RoadKill  958512868  9  3 c   kc    k     k         2175   40    0 9s Th
+RoadKill  958512894  9  2 Bc  k     kc    kc        2135  120    0 Ac 8s
+RoadKill  958512924  9  1 Bf  -     -     -         2015   10    0 
+RoadKill  958512946  9  9 f   -     -     -         2005    0    0 
+RoadKill  958513000  9  8 f   -     -     -         2005    0    0 
+RoadKill  958513063  9  7 f   -     -     -         2005    0    0 
+RoadKill  958513101  9  6 f   -     -     -         2005    0    0 
+RoadKill  958513135  9  5 c   c     r     -         2005  120  230 
+RoadKill  958513172  9  4 f   -     -     -         2115    0    0 
+RoadKill  958513211 10  3 c   k     k     k         2115   20    0 7d 8h
+RoadKill  958513265 10  2 Bk  kf    -     -         2095   20    0 
+RoadKill  958513295 10  1 Bc  k     k     b         2075   60  160 Qh Kc
+RoadKill  958513357  9  9 c   c     c     f         2175   80    0 
+RoadKill  958513452  9  8 f   -     -     -         2095    0    0 
+RoadKill  958513532  8  6 c   f     -     -         2095   40    0 
+RoadKill  958513561  8  6 c   c     f     -         2055   40    0 
+RoadKill  958513604  7  5 f   -     -     -         2015    0    0 
+RoadKill  958513611  7  4 f   -     -     -         2015    0    0 
+RoadKill  958513669  7  3 f   -     -     -         2015    0    0 
+RoadKill  958513709  7  2 Bk  kc    kc    k         2015   80    0 4c Kh
+RoadKill  958513733  7  1 Bf  -     -     -         1935   10    0 
+RoadKill  958513766  7  7 f   -     -     -         1925    0    0 
+RoadKill  958513790  7  6 f   -     -     -         1925    0    0 
+RoadKill  958513835  7  5 f   -     -     -         1925    0    0 
+RoadKill  958513882  7  4 c   b     -     -         1925   40   70 
+RoadKill  958513894  7  3 f   -     -     -         1955    0    0 
+RoadKill  958513926  7  2 Bk  k     k     k         1955   20    0 9c Ah
+RoadKill  958513960  7  1 Br  b     b     bc        1935  180    0 Ah Kc
+RoadKill  958513996  7  7 f   -     -     -         1755    0    0 
+RoadKill  958514052  7  6 rc  c     c     c         1755  180    0 Kd Kh
+RoadKill  958514090  7  5 cc  r     b     -         1575  120  240 
+RoadKill  958514137  7  4 fQ  -     -     -         1695    0    0 

@@ -1,0 +1,279 @@
+Driver    957326464  3  2 Brc brc   brf   -          725  140    0 
+Driver    957326515  2  1 Brr krr   brf   -          585  140    0 
+Driver    957326542  2  2 Brc brc   rr    c          445  180  360 Qd Kd
+Driver    957326590  2  1 Brr brc   brc   brc        625  240    0 4c 2h
+Driver    957326630  2  2 Brc rr    rr    rf         385  200    0 
+Driver    957326662  2  1 Brr brc   brf   -          185  140    0 
+Driver    957326691  2  2 Brf -     -     -           45   30    0 
+Driver    957326701  2  1 BrA -     -     -           15   15   30 4h Ad
+Driver    957326705  2  2 BrA -     -     -           30   30    0 4c Td
+Driver    957634973  3  2 Brc brc   brc   bc         300  200    0 5s 9h
+Driver    957635028  2  1 Brr brc   bA    -          100  100    0 8d 9d
+Driver    957638148  2  1 Brr brc   brc   brc       1000  240    0 4d Td
+Driver    957638191  2  2 Brc rr    rf    -          760  120    0 
+Driver    957638213  2  1 Brr br    brc   kf         640  150    0 
+Driver    957638243  2  2 Brc rc    f     -          490   70    0 
+Driver    957638274  2  1 Bf  -     -     -          420    5    0 
+Driver    957638278  2  2 Bf  -     -     -          415   10    0 
+Driver    957638283  2  1 Bcf -     -     -          405   10    0 
+Driver    957638293  2  2 Brf -     -     -          395   30    0 
+Driver    957638300  2  1 Bf  -     -     -          365    5    0 
+Driver    957638303  2  2 Bf  -     -     -          360   10    0 
+Driver    957638307  2  1 Bf  -     -     -          350    5    0 
+Driver    957638310  2  2 Bf  -     -     -          345   10    0 
+Driver    957638314  2  1 Bf  -     -     -          335    5    0 
+Driver    957638320  2  2 Brf -     -     -          330   30    0 
+Driver    957638328  2  1 Brf -     -     -          300   20    0 
+Driver    957638333  2  2 Bf  -     -     -          280   10    0 
+Driver    957638339  2  1 Bf  -     -     -          270    5    0 
+Driver    957638341  2  2 Bf  -     -     -          265   10    0 
+Driver    957638345  2  1 Bf  -     -     -          255    5    0 
+Driver    957638349  2  2 Brf -     -     -          250   30    0 
+Driver    957638361  2  1 Bf  -     -     -          220    5    0 
+Driver    957638364  2  2 Brf -     -     -          215   30    0 
+Driver    957638371  2  1 Bf  -     -     -          185    5    0 
+Driver    957638374  2  2 Bf  -     -     -          180   10    0 
+Driver    957638378  2  1 Bf  -     -     -          170    5    0 
+Driver    957638381  2  2 Bf  -     -     -          165   10    0 
+Driver    957638387  2  1 Bf  -     -     -          155    5    0 
+Driver    957638390  2  2 Bf  -     -     -          150   10    0 
+Driver    957638396  2  1 Bf  -     -     -          140    5    0 
+Driver    957638398  2  2 Brf -     -     -          135   30    0 
+Driver    957638405  2  1 Brf -     -     -          105   20    0 
+Driver    957638411  2  2 Bf  -     -     -           85   10    0 
+Driver    957638417  2  1 Brf -     -     -           75   20    0 
+Driver    957638422  2  2 Brf -     -     -           55   30    0 
+Driver    957638430  2  1 Brf -     -     -           25   20    0 
+Driver    957638436  2  2 BA  -     -     -            5    5    0 9c 4c
+Driver    957641066  2  1 Brr kf    -     -         1000   40    0 
+Driver    957641081  2  2 Brf -     -     -          960   30    0 
+Driver    957641089  2  1 Brf -     -     -          930   20    0 
+Driver    957641094  2  2 Bf  -     -     -          910   10    0 
+Driver    957641099  2  1 Brf -     -     -          900   20    0 
+Driver    957641104  2  2 Brf -     -     -          880   30    0 
+Driver    957641110  2  1 Brr bf    -     -          850   50    0 
+Driver    957641120  2  2 Brf -     -     -          800   30    0 
+Driver    957641128  2  1 Brr bf    -     -          770   50    0 
+Driver    957641141  2  2 Brf -     -     -          720   30    0 
+Driver    957641149  2  1 Brf -     -     -          690   20    0 
+Driver    957641154  2  2 Brf -     -     -          670   30    0 
+Driver    957641167  2  1 Brf -     -     -          640   20    0 
+Driver    957641172  2  2 Brf -     -     -          620   30    0 
+Driver    957641178  2  1 Brf -     -     -          590   20    0 
+Driver    957641183  2  2 Brf -     -     -          570   30    0 
+Driver    957641187  2  1 Brr brc   brc   b          540  180    0 5d 5c
+Driver    957641217  2  2 B   -     -     -          360   10   30 
+Driver    958406806  4  3 f   -     -     -          950    0    0 
+Driver    958406822  4  2 Bc  kc    b     b          950   70  190 Ad 5c
+Driver    958406854  4  1 Bc  b     k     k         1070   20   60 Qc 8h
+Driver    958406877  5  4 f   -     -     -         1110    0    0 
+Driver    958406913  5  3 f   -     -     -         1110    0    0 
+Driver    958406939  5  2 Bk  k     bc    b         1110   70  135 
+Driver    958406986  5  1 Bc  kf    -     -         1175   10    0 
+Driver    958407037  5  5 f   -     -     -         1165    0    0 
+Driver    958407062  5  4 f   -     -     -         1165    0    0 
+Driver    958407124  5  3 f   -     -     -         1165    0    0 
+Driver    958407167  5  2 Bk  f     -     -         1165   10    0 
+Driver    958407205  5  1 Bc  kf    -     -         1155   10    0 
+Driver    958407256  5  5 f   -     -     -         1145    0    0 
+Driver    958407321  7  4 f   -     -     -         1145    0    0 
+Driver    958407355  7  3 f   -     -     -         1145    0    0 
+Driver    958407391  7  2 Bk  b     b     r         1145   80  180 8c 5s
+Driver    958407434  7  1 Bc  bc    kf    -         1245   40    0 
+Driver    958407484  7  7 c   k     f     -         1205   10    0 
+Driver    958407540  9  8 f   -     -     -         1195    0    0 
+Driver    958407602  9  7 f   -     -     -         1195    0    0 
+Driver    958407629  9  6 f   -     -     -         1195    0    0 
+Driver    958407655  9  5 f   -     -     -         1195    0    0 
+Driver    958407714  9  5 rc  rc    r     f         1195  110    0 
+Driver    958407780  9  4 f   -     -     -         1085    0    0 
+Driver    958407858 10  3 f   -     -     -         1085    0    0 
+Driver    958407904 10  2 Bf  -     -     -         1085   10    0 
+Driver    958407964 10  1 Bc  kf    -     -         1075   20    0 
+Driver    958408011 10 10 f   -     -     -         1055    0    0 
+Driver    958408086  8  7 f   -     -     -         1055    0    0 
+Driver    958408162  9  6 f   -     -     -         1055    0    0 
+Driver    958408200  9  5 r   k     c     c         1055   60    0 Kd Ks
+Driver    958408256  8  5 c   b     -     -          995   20   65 
+Driver    958408272  8  4 f   -     -     -         1040    0    0 
+Driver    958408294  8  3 f   -     -     -         1040    0    0 
+Driver    958408315  9  2 Bc  kf    -     -         1040   20    0 
+Driver    958408365  7  1 Bf  -     -     -         1020    5    0 
+Driver    958408400  7  7 f   -     -     -         1015    0    0 
+Driver    958408428  7  6 f   -     -     -         1015    0    0 
+Driver    958408455  7  5 f   -     -     -         1015    0    0 
+Driver    958408512  8  4 cc  b     b     bc        1015   90    0 Kd Ac
+Driver    958408540  6  2 Bc  k     kf    -          925   20    0 
+Driver    958408599  6  1 Bf  -     -     -          905    5    0 
+Driver    958408620  6  6 f   -     -     -          900    0    0 
+Driver    958408656  6  5 f   -     -     -          900    0    0 
+Driver    958408663  6  5 f   -     -     -          900    0    0 
+Driver    958408714  5  3 f   -     -     -          900    0    0 
+Driver    958408761  5  2 Bk  bc    k     b          900   50    0 Qs Kh
+Driver    958408786  5  1 Bc  k     k     k          850   10    0 7c 6h
+Driver    958408824  4  4 r   rc    c     k          840   80    0 Kd Ah
+Driver    958408865  4  3 f   -     -     -          760    0    0 
+Driver    958408888  4  2 Bk  kf    -     -          760   10    0 
+Driver    958408929  5  1 Bf  -     -     -          750    5    0 
+Driver    958408955  4  4 f   -     -     -          745    0    0 
+Driver    958408997  4  3 f   -     -     -          745    0    0 
+Driver    958409008  4  2 Bk  k     k     k          745   10    0 Kh 7h
+Driver    958409066  6  1 Bc  kf    -     -          735   10    0 
+Driver    958409119  6  6 c   f     -     -          725   20    0 
+Driver    958409164  6  5 f   -     -     -          705    0    0 
+Driver    958409188  5  3 f   -     -     -          705    0    0 
+Driver    958409213  6  2 Bc  kf    -     -          705   20    0 
+Driver    958409227  6  1 Bc  k     k     k          685   10    0 6h 9h
+Driver    958409262  6  6 f   -     -     -          675    0    0 
+Driver    958409279  6  5 f   -     -     -          675    0    0 
+Driver    958409294  6  4 f   -     -     -          675    0    0 
+Driver    958409346  6  3 cr  bc    kc    kc         675  100    0 Qd Td
+Driver    958409403  6  2 Bc  k     k     k          575   20    0 2h 4s
+Driver    958409448  5  1 Bc  b     kc    kc         555   60  150 Th Td
+Driver    958409487  5  5 f   -     -     -          645    0    0 
+Driver    958409501  5  4 c   kf    -     -          645   10    0 
+Driver    958409542  5  3 f   -     -     -          635    0    0 
+Driver    958409563  5  2 Bc  k     b     b          635   60    0 8h 7s
+Driver    958409605  5  1 Bc  kf    -     -          575   10    0 
+Driver    958409628  5  5 c   c     k     f          565   30    0 
+Driver    958409656  5  4 r   b     b     k          535   50  140 Ah Qs
+Driver    958409684  6  3 r   b     bc    kc         625   90  295 8c 8s
+Driver    958409714  6  2 Bk  k     kf    -          830   10    0 
+Driver    958409748  7  1 Bf  -     -     -          820    5    0 
+Driver    958409806  7  7 c   c     k     b          815   50  230 Ts Ac
+Driver    958409885  9  8 f   -     -     -          995    0    0 
+Driver    958409907  9  7 f   -     -     -          995    0    0 
+Driver    958409980  9  6 cc  f     -     -          995   20    0 
+Driver    958410034  9  5 f   -     -     -          975    0    0 
+Driver    958410088  9  4 f   -     -     -          975    0    0 
+Driver    958410121  9  3 f   -     -     -          975    0    0 
+Driver    958410171  9  2 Bk  k     kf    -          975   10    0 
+Driver    958410231  9  1 Bf  -     -     -          965    5    0 
+Driver    958410279 10 10 c   c     k     c          960   50  250 Qd 5d
+Driver    958410363 10  9 f   Q     -     -         1160    0    0 
+Driver    958416858  7  7 f   -     -     -         1160    0    0 
+Driver    958416917  7  6 r   r     c     c         1160   80   93 Kc Ks
+Driver    958416962  7  5 f   -     -     -         1173    0    0 
+Driver    958417014  6  3 f   -     -     -         1173    0    0 
+Driver    958417073  9  2 Bk  brc   kc    k         1173   70  325 Kc Ks
+Driver    958417144 10  1 Bf  -     -     -         1428    5    0 
+Driver    958417201  8  8 f   -     -     -         1423    0    0 
+Driver    958417246  9  8 f   -     -     -         1423    0    0 
+Driver    958417294  9  7 f   -     -     -         1423    0    0 
+Driver    958417338 10  6 f   -     -     -         1423    0    0 
+Driver    958417380 10  5 f   -     -     -         1423    0    0 
+Driver    958417440 10  4 f   -     -     -         1423    0    0 
+Driver    958417482 10  3 f   -     -     -         1423    0    0 
+Driver    958417515 10  2 Bk  k     b     kf        1423   30    0 
+Driver    958417580 10  1 Bf  -     -     -         1393    5    0 
+Driver    958417650 10 10 c   b     c     c         1388   60    0 Jh Ts
+Driver    958417742 10  9 f   -     -     -         1328    0    0 
+Driver    958417778 10  8 f   -     -     -         1328    0    0 
+Driver    958417861 10  7 f   -     -     -         1328    0    0 
+Driver    958417916 10  7 f   -     -     -         1328    0    0 
+Driver    958417962  8  4 f   -     -     -         1328    0    0 
+Driver    958417996  8  3 f   -     -     -         1328    0    0 
+Driver    958418035  9  2 Bf  -     -     -         1328   10    0 
+Driver    958418066  9  1 Bf  -     -     -         1318    5    0 
+Driver    958418106  9  9 f   -     -     -         1313    0    0 
+Driver    958418146  9  8 f   -     -     -         1313    0    0 
+Driver    958418182  8  7 f   -     -     -         1313    0    0 
+Driver    958418265  7  5 f   -     -     -         1313    0    0 
+Driver    958418304  7  5 f   -     -     -         1313    0    0 
+Driver    958418358  8  4 c   f     -     -         1313   10    0 
+Driver    958418394  8  3 f   -     -     -         1303    0    0 
+Driver    958418508  8  2 Bk  k     k     k         1303   10   20 3h Qs
+Driver    958418533  8  1 Bf  -     -     -         1313    5    0 
+Driver    958418564  8  8 f   -     -     -         1308    0    0 
+Driver    958418593  8  7 f   -     -     -         1308    0    0 
+Driver    958418615  8  6 f   -     -     -         1308    0    0 
+Driver    958418671  8  5 f   -     -     -         1308    0    0 
+Driver    958418723 10  4 f   -     -     -         1308    0    0 
+Driver    958418785 10  3 f   -     -     -         1308    0    0 
+Driver    958418844 10  2 Bk  k     k     f         1308   10    0 
+Driver    958418872 10  1 Bf  -     -     -         1298    5    0 
+Driver    958418915 10 10 f   -     -     -         1293    0    0 
+Driver    958418974 10  3 Q   -     -     -         1293    0    0 
+Driver    958434597  9  2 Bk  kf    -     -         1293   10    0 
+Driver    958434633 10  1 Bf  -     -     -         1283    5    0 
+Driver    958434685  9  9 f   -     -     -         1278    0    0 
+Driver    958434736  9  8 f   -     -     -         1278    0    0 
+Driver    958434770  9  7 f   -     -     -         1278    0    0 
+Driver    958434813  9  6 f   -     -     -         1278    0    0 
+Driver    958434839  8  5 f   -     -     -         1278    0    0 
+Driver    958434880  8  4 f   -     -     -         1278    0    0 
+Driver    958434903  8  3 f   -     -     -         1278    0    0 
+Driver    958434946  8  2 Bc  kf    -     -         1278   20    0 
+Driver    958434987  8  1 Bf  -     -     -         1258    5    0 
+Driver    958435021  8  8 f   -     -     -         1253    0    0 
+Driver    958435054  9  8 f   -     -     -         1253    0    0 
+Driver    958435075  9  7 f   -     -     -         1253    0    0 
+Driver    958435099  9  6 f   -     -     -         1253    0    0 
+Driver    958435140  9  5 f   -     -     -         1253    0    0 
+Driver    958435215  7  2 Bf  -     -     -         1253   10    0 
+Driver    958435267  7  1 Bf  -     -     -         1243    5    0 
+Driver    958435315  7  7 f   -     -     -         1238    0    0 
+Driver    958435335  8  7 f   -     -     -         1238    0    0 
+Driver    958435361  8  6 f   -     -     -         1238    0    0 
+Driver    958435397  8  5 f   -     -     -         1238    0    0 
+Driver    958435436  8  4 f   -     -     -         1238    0    0 
+Driver    958435478  8  3 f   -     -     -         1238    0    0 
+Driver    958435519  8  2 Bf  -     -     -         1238   10    0 
+Driver    958435564  7  1 Bf  -     -     -         1228    5    0 
+Driver    958435588  7  7 f   -     -     -         1223    0    0 
+Driver    958435629  5  4 fQ  -     -     -         1223    0    0 
+Driver    958612800  9  5 f   -     -     -         1223    0    0 
+Driver    958612868  8  4 f   -     -     -         1223    0    0 
+Driver    958612920  8  3 f   -     -     -         1223    0    0 
+Driver    958612998  8  2 Bk  k     b     k         1223   30  120 5d Jh
+Driver    958613060  7  1 Bf  -     -     -         1313    5    0 
+Driver    958613101  7  7 f   -     -     -         1308    0    0 
+Driver    958613132  7  6 f   -     -     -         1308    0    0 
+Driver    958613191  7  5 f   -     -     -         1308    0    0 
+Driver    958613255  8  4 r   b     b     b         1308   70  195 Ac Kh
+Driver    958613314  8  3 f   -     -     -         1433    0    0 
+Driver    958613370  9  2 Bk  kf    -     -         1433   10    0 
+Driver    958613432  9  1 Bc  b     kc    kc        1423   60  150 4h 4d
+Driver    958613511  9  9 f   -     -     -         1513    0    0 
+Driver    958613576  8  7 f   -     -     -         1513    0    0 
+Driver    958613666  9  6 f   -     -     -         1513    0    0 
+Driver    958613748  8  5 c   b     bc    kc        1513   80  250 Js Ks
+Driver    958613856  9  4 f   -     -     -         1683    0    0 
+Driver    958613903 10  3 f   -     -     -         1683    0    0 
+Driver    958613967 10  2 Bk  kf    -     -         1683   10    0 
+Driver    958614042 10  1 Bcc kf    -     -         1673   20    0 
+Driver    958614156 10 10 f   -     -     -         1653    0    0 
+Driver    958614231 10  9 c   k     bc    k         1653   50    0 Ks 7s
+Driver    958614305 10  8 f   -     -     -         1603    0    0 
+Driver    958614363 10  7 f   -     -     -         1603    0    0 
+Driver    958614433 10  6 c   f     -     -         1603   10    0 
+Driver    958614528 10  5 f   -     -     -         1593    0    0 
+Driver    958614645 10  4 f   -     -     -         1593    0    0 
+Driver    958614712 10  4 f   -     -     -         1593    0    0 
+Driver    958614752 10  2 Bk  cc    kc    kf        1593   50    0 
+Driver    958614836 10  1 Bf  -     -     -         1543    5    0 
+Driver    958614879 10 10 f   -     -     -         1538    0    0 
+Driver    958615010  9  8 f   -     -     -         1538    0    0 
+Driver    958615115  9  7 f   -     -     -         1538    0    0 
+Driver    958615158  8  5 rr  r     c     c         1538  100    0 Kh Kc
+Driver    958615227  7  5 c   b     b     k         1438   40    0 Th Jd
+Driver    958615268  6  3 f   -     -     -         1398    0    0 
+Driver    958615286  6  2 Bk  b     -     -         1398   20   40 
+Driver    958615315  6  1 Bf  -     -     -         1418    5    0 
+Driver    958615342  8  8 f   -     -     -         1413    0    0 
+Driver    958615406  8  7 r   c     bc    c         1413   90    0 Ah Qs
+Driver    958615473 10  9 f   -     -     -         1323    0    0 
+Driver    958615523  9  7 c   c     f     -         1323   30    0 
+Driver    958615585  8  6 f   -     -     -         1293    0    0 
+Driver    958615673  7  5 c   f     -     -         1293   10    0 
+Driver    958615720  7  4 f   -     -     -         1283    0    0 
+Driver    958615757  9  3 f   -     -     -         1283    0    0 
+Driver    958615829  9  2 Bf  -     -     -         1283   10    0 
+Driver    958615862  8  1 Bf  -     -     -         1273    5    0 
+Driver    958615915  9  9 f   -     -     -         1268    0    0 
+Driver    958615951  9  7 f   -     -     -         1268    0    0 
+Driver    958616031  9  7 c   cc    c     k         1268   70  285 Tc Jh
+Driver    958616090  8  5 c   c     f     -         1483   20    0 
+Driver    958616134  8  4 f   -     -     -         1463    0    0 
+Driver    958616148  8  3 f   -     -     -         1463    0    0 
+Driver    958616169  8  2 Bcc kc    kf    Q         1463   60    0 

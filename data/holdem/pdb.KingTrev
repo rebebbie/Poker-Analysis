@@ -1,0 +1,398 @@
+KingTrev  957330423  8  4 crc c     c     c          940   90    0 Tc 8d
+KingTrev  957330474  7  3 f   -     -     -          850    0    0 
+KingTrev  957330541  7  2 Brc b     b     b          850   90  225 
+KingTrev  957330606  6  1 Bc  br    b     -          985   60  160 
+KingTrev  957330639  6  6 f   -     -     -         1085    0    0 
+KingTrev  957330698  6  5 f   -     -     -         1085    0    0 
+KingTrev  957330732  6  4 rr  r     c     b         1085  100  260 
+KingTrev  957330778  7  3 f   -     -     -         1245    0    0 
+KingTrev  957330852  6  2 Bc  kf    -     -         1245   20    0 
+KingTrev  957330920  7  1 Bc  kf    -     -         1225   20    0 
+KingTrev  957330974  7  7 r   b     b     b         1205   70   75 8c Kh
+KingTrev  957331019  7  6 r   c     rc    rr        1210  170  375 Kd Ts
+KingTrev  957331066  7  5 f   -     -     -         1415    0    0 
+KingTrev  957331096  8  4 f   -     -     -         1415    0    0 
+KingTrev  957331128  8  3 f   -     -     -         1415    0    0 
+KingTrev  957331164  9  2 Bk  k     k     k         1415   10    0 4c Qc
+KingTrev  957331213 10  1 Bf  -     -     -         1405    5    0 
+KingTrev  957331250 10 10 f   -     -     -         1400    0    0 
+KingTrev  957331282 10  9 f   -     -     -         1400    0    0 
+KingTrev  957331324 10  8 c   b     -     -         1400   20   55 
+KingTrev  957331357 10  7 c   c     f     -         1435   30    0 
+KingTrev  957331444 10  6 cc  kf    -     -         1405   20    0 
+KingTrev  957331504 10  5 f   -     -     -         1385    0    0 
+KingTrev  957331550 10  6 f   -     -     -         1385    0    0 
+KingTrev  957331674  9  3 KQ  -     -     -         1385    0    0 
+KingTrev  957332235  9  7 f   -     -     -         1385    0    0 
+KingTrev  957332268  9  5 r   b     k     bc        1385   70    0 Kc Ac
+KingTrev  957332306 10  5 c   cc    cc    c         1315  100    0 8d Qc
+KingTrev  957332433 10  4 f   -     -     -         1215    0    0 
+KingTrev  957332477  9  2 Br  b     b     bc        1215   90    0 Ah 4h
+KingTrev  957332519  9  1 Br  b     b     b         1125   70    0 6h 6d
+KingTrev  957332548 10 10 c   c     r     b         1055   80  195 Ks 9c
+KingTrev  957332606 10  9 c   r     b     b         1170   70  175 
+KingTrev  957332667 10  8 f   -     -     -         1275    0    0 
+KingTrev  957332737 10  7 r   r     b     b         1275   80    0 9c 9h
+KingTrev  957332790 10  6 c   rc    c     f         1195   70    0 
+KingTrev  957332833 10  5 cc  kc    r     b         1125   90  265 Kd 8s
+KingTrev  957332889 10  4 f   -     -     -         1300    0    0 
+KingTrev  957332932 10  3 r   b     b     b         1300   70  190 
+KingTrev  957332977 10  2 Bk  b     b     b         1420   60  105 
+KingTrev  957333024 10  1 Bcc k     kf    -         1465   20    0 
+KingTrev  957333066 10 10 r   b     rr    rr        1445  190  395 Ks Jc
+KingTrev  957333174  9  8 c   c     c     f         1650   40    0 
+KingTrev  957333240  9  8 f   -     -     -         1610    0    0 
+KingTrev  957333276  8  6 c   c     r     c         1610   80    0 4c Jc
+KingTrev  957333324  7  4 f   -     -     -         1530    0    0 
+KingTrev  957333401  9  5 cc  kc    k     k         1530   30    0 2h Qh
+KingTrev  957333444  8  3 f   -     -     -         1500    0    0 
+KingTrev  957333471 10  2 Bc  kf    -     -         1500   20    0 
+KingTrev  957333542 10  1 Bf  -     -     -         1480    5    0 
+KingTrev  957333553 10 10 f   -     -     -         1475    0    0 
+KingTrev  957333601 10  9 cc  kc    k     b         1475   50  140 
+KingTrev  957333691  9  8 f   -     -     -         1565    0    0 
+KingTrev  957333737 10  7 r   k     f     -         1565   20    0 
+KingTrev  957333817 10  6 f   -     -     -         1545    0    0 
+KingTrev  957333841 10  5 f   -     -     -         1545    0    0 
+KingTrev  957333934 10  4 f   -     -     -         1545    0    0 
+KingTrev  957333960 10  3 f   -     -     -         1545    0    0 
+KingTrev  957333997 10  2 Bk  brc   kc    kc        1545   90    0 Ks 3s
+KingTrev  957334039 10  1 Bc  kf    -     -         1455   10    0 
+KingTrev  957334082 10 10 c   f     -     -         1445   20    0 
+KingTrev  957334120 10  9 r   b     r     b         1425   90  280 Kd Tc
+KingTrev  957334161 10  8 r   r     c     c         1615  100    0 Ad Td
+KingTrev  957334212 10  7 f   -     -     -         1515    0    0 
+KingTrev  957334233 10  6 f   -     -     -         1515    0    0 
+KingTrev  957334256 10  5 rr  kc    kc    k         1515   80    0 Qc Ac
+KingTrev  957334322 10  4 f   -     -     -         1435    0    0 
+KingTrev  957334365 10  3 f   -     -     -         1435    0    0 
+KingTrev  957334415 10  2 Br  br    b     b         1435   90  205 Td Ac
+KingTrev  957334453 10  1 Bc  k     kf    -         1550   10    0 
+KingTrev  957334495 10 10 c   c     r     c         1540   90    0 Jh Ks
+KingTrev  957334550 10  9 c   f     -     -         1450   20    0 
+KingTrev  957334595 10  8 r   b     b     bf        1430   70    0 
+KingTrev  957334652 10  7 r   r     rc    c         1360  120    0 8s 8c
+KingTrev  957334691 10  6 c   b     -     -         1240   20   70 
+KingTrev  957334731 10  6 r   b     b     b         1290   70    0 Jc Kh
+KingTrev  957334787 10  4 cc  b     b     bf        1220   70    0 
+KingTrev  957334853 10  3 f   Q     -     -         1150    0    0 
+KingTrev  957369273  7  7 c   b     br    b         1150  100    0 8c 5h
+KingTrev  957369321  8  6 r   r     c     f         1050   60    0 
+KingTrev  957369365  8  5 f   -     -     -          990    0    0 
+KingTrev  957369384  8  4 f   -     -     -          990    0    0 
+KingTrev  957369408  8  3 f   -     -     -          990    0    0 
+KingTrev  957369438  8  2 Bc  rc    c     b          990   90  180 
+KingTrev  957369474  8  1 Bc  brc   kc    k         1080   70  220 Kc 2s
+KingTrev  957369512  8  8 c   b     b     f         1230   40    0 
+KingTrev  957369558  8  7 r   k     b     b         1190   60  210 9d Kd
+KingTrev  957369594  7  5 f   -     -     -         1340    0    0 
+KingTrev  957369603  7  4 f   -     -     -         1340    0    0 
+KingTrev  957369623  7  3 c   k     k     b         1340   30   50 
+KingTrev  957369648  8  3 c   rc    cf    -         1360   70    0 
+KingTrev  957369696  8  2 Bc  kc    kf    -         1290   30    0 
+KingTrev  957369745  8  1 Bc  kf    -     -         1260   10    0 
+KingTrev  957369774  7  7 f   -     -     -         1250    0    0 
+KingTrev  957369808  6  6 cc  f     -     -         1250   20    0 
+KingTrev  957369850  6  5 f   -     -     -         1230    0    0 
+KingTrev  957369858  6  4 r   kc    kc    k         1230   50  155 Kc Jc
+KingTrev  957369886  6  3 f   -     -     -         1335    0    0 
+KingTrev  957369906  6  2 Bc  k     b     -         1335   40  100 
+KingTrev  957369930  6  1 Br  kf    -     -         1395   20    0 
+KingTrev  957369983  6  6 c   b     b     -         1375   40   80 
+KingTrev  957370014  6  5 r   c     b     b         1415   70  160 Ah 7s
+KingTrev  957370060  7  5 c   b     -     -         1505   20   45 
+KingTrev  957370077  7  4 f   -     -     -         1530    0    0 
+KingTrev  957370122  7  3 c   b     -     -         1530   20   55 
+KingTrev  957370139  7  2 Bc  k     b     -         1565   40  100 
+KingTrev  957370177  7  1 Bc  kc    kc    kc        1625   60    0 9h Qc
+KingTrev  957370212  7  7 r   k     b     c         1565   70   80 8s Qs
+KingTrev  957370262  8  4 Q   -     -     -         1575    0    0 
+KingTrev  957529005 10  2 Bk  kf    -     -         1575   10    0 
+KingTrev  957529068  9  1 Bf  -     -     -         1565    5    0 
+KingTrev  957529127  9  9 r   bf    -     -         1560   30    0 
+KingTrev  957529206  9  8 c   c     b     -         1530   50  120 
+KingTrev  957529265  9  7 f   -     -     -         1600    0    0 
+KingTrev  957529330  9  6 f   -     -     -         1600    0    0 
+KingTrev  957529397  9  5 c   cc    f     -         1600   40    0 
+KingTrev  957529498  9  4 r   k     b     b         1560   60  125 
+KingTrev  957529573  9  3 f   -     -     -         1625    0    0 
+KingTrev  957529625 10  2 Bk  b     b     b         1625   60  145 3d Ts
+KingTrev  957529699 10  1 Bc  kf    -     -         1710   20    0 
+KingTrev  957529800 10 10 f   -     -     -         1690    0    0 
+KingTrev  957529860 10  9 f   -     -     -         1690    0    0 
+KingTrev  957529924 10  8 f   -     -     -         1690    0    0 
+KingTrev  957529991 10  7 c   c     f     -         1690   20    0 
+KingTrev  957530048 10  6 r   b     b     bf        1670   70    0 
+KingTrev  957530134  9  4 r   kc    f     -         1600   30    0 
+KingTrev  957530231  9  3 f   -     -     -         1570    0    0 
+KingTrev  957530294  9  2 Bk  bc    b     bf        1570   70    0 
+KingTrev  957530375 10  1 Bc  b     brc   brc       1500  180  610 2h 5s
+KingTrev  957530531 10 10 c   f     -     -         1930   10    0 
+KingTrev  957530598 10  9 f   -     -     -         1920    0    0 
+KingTrev  957530665  9  8 c   b     f     -         1920   20    0 
+KingTrev  957530750 10  7 f   -     -     -         1900    0    0 
+KingTrev  957530808 10  6 c   k     f     -         1900   10    0 
+KingTrev  957530863 10  5 r   krr   -     -         1890   60  125 
+KingTrev  957530931 10  4 c   kcc   kf    -         1955   30    0 
+KingTrev  957531048 10  3 f   -     -     -         1925    0    0 
+KingTrev  957531115 10  2 Br  b     b     -         1925   60  175 
+KingTrev  957531177 10  1 Bc  kf    -     -         2040   10    0 
+KingTrev  957531235 10 10 c   k     r     b         2030   70  160 Th Qs
+KingTrev  957531315 10  9 c   c     c     r         2120   90    0 6s Ah
+KingTrev  957531405  9  7 r   b     b     b         2030   70  165 
+KingTrev  957531459  8  5 Q   -     -     -         2125    0    0 
+KingTrev  958122004  8  6 f   -     -     -         1930    0    0 
+KingTrev  958122045  8  5 f   -     -     -         1930    0    0 
+KingTrev  958122101  8  4 f   -     -     -         1930    0    0 
+KingTrev  958122159  8  3 f   -     -     -         1930    0    0 
+KingTrev  958122200  9  2 Bk  kf    -     -         1930   10    0 
+KingTrev  958122263  9  1 Bc  k     kf    -         1920   10    0 
+KingTrev  958122308  9  9 f   -     -     -         1910    0    0 
+KingTrev  958122342  9  8 f   -     -     -         1910    0    0 
+KingTrev  958122367  9  8 f   -     -     -         1910    0    0 
+KingTrev  958122416  8  6 cc  cr    kc    f         1910   70    0 
+KingTrev  958122520  7  4 f   -     -     -         1840    0    0 
+KingTrev  958122576  7  4 rc  k     kc    kc        1840   70    0 Jh Ad
+KingTrev  958122617  7  3 r   b     b     brc       1770  130    0 8h Js
+KingTrev  958122655  7  2 Bk  k     b     -         1640   30   45 
+KingTrev  958122679  7  1 Bc  kf    -     -         1655   20    0 
+KingTrev  958122716  7  7 r   c     b     r         1635   90  195 
+KingTrev  958122748  7  6 c   k     b     -         1740   30   55 
+KingTrev  958122780  8  6 f   -     -     -         1765    0    0 
+KingTrev  958122821  8  5 c   cc    bc    kf        1765   80    0 
+KingTrev  958122872  7  3 f   -     -     -         1685    0    0 
+KingTrev  958122909  8  2 Bk  rc    rc    c         1685  130  187 6c Ac
+KingTrev  958122981  8  1 Bc  k     k     kc        1742   30   45 4c 7d
+KingTrev  958123088  8  7 c   cc    k     c         1757   80    0 Kh 6h
+KingTrev  958123137  8  6 c   b     b     -         1677   40   85 
+KingTrev  958123180  7  4 cc  kf    -     -         1722   20    0 
+KingTrev  958123203  7  3 cr  c     cr    brf       1702  180    0 
+KingTrev  958123287  7  2 Bk  kf    -     -         1522   10    0 
+KingTrev  958123358  7  1 Br  k     b     b         1512   60   65 6h Js
+KingTrev  958123377  7  7 r   r     b     -         1517   70  180 
+KingTrev  958123413  7  6 f   -     -     -         1627    0    0 
+KingTrev  958123457  8  6 r   b     b     b         1627   70   88 8d Th
+KingTrev  958123499  8  5 f   -     -     -         1645    0    0 
+KingTrev  958123549  9  5 f   -     -     -         1645    0    0 
+KingTrev  958123577  9  4 c   kf    -     -         1645   10    0 
+KingTrev  958123643  9  3 crc ccc   f     -         1635   80    0 
+KingTrev  958123746  9  2 Bf  -     -     -         1555   10    0 
+KingTrev  958123827  9  1 Brc kc    kc    kc        1545  100    0 2d Ad
+KingTrev  958123940  8  8 f   -     -     -         1445    0    0 
+KingTrev  958123956  8  7 cc  kf    -     -         1445   20    0 
+KingTrev  958124046  8  6 f   -     -     -         1425    0    0 
+KingTrev  958124084  7  5 r   b     bf    -         1425   50    0 
+KingTrev  958124137  7  4 r   b     bc    c         1375   90  185 7d 3d
+KingTrev  958124173  7  3 rc  kc    brc   brc       1470  210  345 Qd Kh
+KingTrev  958124300  8  2 Bc  br    br    brc       1605  190  210 Kc Jc
+KingTrev  958124407  7  1 Bc  kc    kf    -         1625   20    0 
+KingTrev  958124471  8  7 c   kf    Q     -         1605   10    0 
+KingTrev  958541950  7  4 f   -     -     -         1305    0    0 
+KingTrev  958541991  7  3 rc  brc   r     b         1305  140  515 Qc Ad
+KingTrev  958542039  6  2 Br  b     b     br        1680  110    0 Kh Th
+KingTrev  958542073  5  1 Bc  kc    kf    -         1570   40    0 
+KingTrev  958542125  5  5 r   r     c     f         1530   60    0 
+KingTrev  958542182  5  4 r   b     -     -         1470   40  105 
+KingTrev  958542203  5  3 cc  c     rc    c         1535  110  250 5c 3c
+KingTrev  958542238  5  2 Br  r     b     b         1675   90  180 Ad 6s
+KingTrev  958542276  4  1 Bf  -     -     -         1765    5    0 
+KingTrev  958542285  4  4 r   r     b     b         1760   80  145 
+KingTrev  958542324  4  3 f   -     -     -         1825    0    0 
+KingTrev  958542342  4  2 B   -     -     -         1825   10   15 
+KingTrev  958542345  4  1 Bf  -     -     -         1830    5    0 
+KingTrev  958542367  4  4 f   -     -     -         1825    0    0 
+KingTrev  958542398  4  3 f   -     -     -         1825    0    0 
+KingTrev  958542407  5  2 Brc kc    kc    kc        1825   90    0 Td 3c
+KingTrev  958542430  5  1 Bc  kf    -     -         1735   10    0 
+KingTrev  958542465  5  5 f   -     -     -         1725    0    0 
+KingTrev  958542498  5  4 r   b     b     b         1725   70  125 
+KingTrev  958542531  5  3 rc  kc    bc    kc        1780  100    0 Ad 5s
+KingTrev  958542558  5  2 Bcc br    kc    kc        1680  140    0 8d 6h
+KingTrev  958542601  5  1 Br  kc    krr   brc       1540  210  510 6d 7c
+KingTrev  958542645  5  5 c   c     rc    c         1840  110  235 Qs 4s
+KingTrev  958542668  6  5 f   -     -     -         1965    0    0 
+KingTrev  958542704  6  4 f   -     -     -         1965    0    0 
+KingTrev  958542741  6  3 f   -     -     -         1965    0    0 
+KingTrev  958542764  6  2 Bf  -     -     -         1965   10    0 
+KingTrev  958542809  6  1 Bc  kc    kf    -         1955   30    0 
+KingTrev  958542858  6  6 rc  k     k     b         1925   60  150 
+KingTrev  958542894  4  4 rr  b     r     k         2015   90  220 Qs Ac
+KingTrev  958542935  4  3 cc  c     rr    c         2145  140    0 4d Jd
+KingTrev  958542971  4  2 Bf  -     -     -         2005   10    0 
+KingTrev  958543056  4  1 Brc kc    kc    krc       1995  130  310 Th Ah
+KingTrev  958543101  4  4 cc  c     c     c         2175   70    0 4d 6d
+KingTrev  958543125  4  3 f   -     -     -         2105    0    0 
+KingTrev  958543150  4  2 Bc  kc    kc    kc        2105   70    0 Jd 5c
+KingTrev  958543171  4  1 Bf  -     -     -         2035    5    0 
+KingTrev  958543192  4  4 rc  rr    rc    rr        2030  220    0 Kd Qs
+KingTrev  958543245  4  3 rr  r     -     -         1810   60  120 
+KingTrev  958543269  4  2 Br  bc    kc    kc        1870   90    0 Ah 5h
+KingTrev  958543301  5  1 Bf  -     -     -         1780    5    0 
+KingTrev  958543347  5  5 f   -     -     -         1775    0    0 
+KingTrev  958543387  5  4 cc  rr    r     b         1775  120  245 Kc 4h
+KingTrev  958543415  5  3 rr  rr    cf    -         1900  100    0 
+KingTrev  958543457  5  2 Bf  -     -     -         1800   10    0 
+KingTrev  958543512  4  1 Bc  kc    kc    kc        1790   70    0 5c 4s
+KingTrev  958543541  5  4 f   -     -     -         1720    0    0 
+KingTrev  958543552  5  3 f   -     -     -         1720    0    0 
+KingTrev  958543565  5  2 Br  k     k     b         1720   60  190 
+KingTrev  958543612  4  1 Brc brc   brc   kc        1850  180    0 9d 9h
+KingTrev  958543635  4  4 rr  b     b     b         1670   90    0 6c Kc
+KingTrev  958543669  4  3 rr  c     rr    b         1580  150    0 2c 9c
+KingTrev  958543694  5  2 Bc  k     kc    br        1430  110  325 8d 5c
+KingTrev  958543733  6  1 Br  br    kc    kc        1645  100    0 9c Jc
+KingTrev  958543763  6  6 Q   -     -     -         1545    0    0 
+KingTrev  958543987  7  6 c   cc    kr    bc        1545  130    0 6c 7c
+KingTrev  958544054  7  5 f   -     -     -         1415    0    0 
+KingTrev  958544121  7  4 cc  kf    -     -         1415   20    0 
+KingTrev  958544148  7  3 r   b     b     b         1395   70    0 Ts Ah
+KingTrev  958544182  6  2 Bk  kc    kf    -         1325   20    0 
+KingTrev  958544238  7  1 Bc  b     b     k         1305   40  130 7s 3d
+KingTrev  958544272  7  7 r   b     bc    c         1395   90    0 As 8s
+KingTrev  958544316  7  6 c   c     c     b         1305   60    0 3c 4s
+KingTrev  958544375  7  5 rr  kc    kc    b         1245   90  270 
+KingTrev  958544448  7  4 rr  kc    bc    kf        1425   90    0 
+KingTrev  958544547  7  2 f   -     -     -         1335    0    0 
+KingTrev  958544594  8  2 Bf  -     -     -         1335   10    0 
+KingTrev  958544653  8  1 Br  b     b     b         1325   70  180 Ac Ah
+KingTrev  958544701  8  8 cc  r     f     -         1435   50    0 
+KingTrev  958544803  6  6 f   -     -     -         1385    0    0 
+KingTrev  958544843  6  5 c   k     f     -         1385   10    0 
+KingTrev  958544886  6  4 cc  rc    c     kc        1375   87    0 Th Kd
+KingTrev  958544928  6  3 f   -     -     -         1288    0    0 
+KingTrev  958544971  6  2 Bk  kc    kc    kr        1288   80  245 5s 8d
+KingTrev  958545009  7  1 Bc  kc    kc    kf        1453   50    0 
+KingTrev  958545059  7  7 rc  r     b     -         1403   70  155 
+KingTrev  958545102  6  6 f   -     -     -         1488    0    0 
+KingTrev  958545119  6  5 rr  b     b     br        1488  130  340 8h 9h
+KingTrev  958545167  6  4 f   -     -     -         1698    0    0 
+KingTrev  958545198  6  3 rc  c     cc    r         1698  150    0 Kd Jc
+KingTrev  958545276  6  2 Bc  rc    bc    k         1548  100    0 8h 4h
+KingTrev  958545327  5  1 BQ  -     -     -         1448    5    0 
+KingTrev  958716054  9  4 f   -     -     -         1443    0    0 
+KingTrev  958716124  9  3 f   -     -     -         1443    0    0 
+KingTrev  958716166  9  2 Brc bc    KQ    -         1443   60    0 
+KingTrev  958716447  8  2 Bcc kc    kc    kc        1383   90    0 5h Jc
+KingTrev  958716501  8  1 Bc  kc    k     bf        1293   40    0 
+KingTrev  958716579  7  7 f   -     -     -         1253    0    0 
+KingTrev  958716617  7  6 f   -     -     -         1253    0    0 
+KingTrev  958716643  7  5 cc  f     -     -         1253   20    0 
+KingTrev  958716702  7  4 rc  c     c     b         1233   90  310 
+KingTrev  958716762  9  3 r   b     -     -         1453   30   85 
+KingTrev  958716790 10  2 Bk  bc    kr    f         1508  110    0 
+KingTrev  958716897  9  1 Bc  kf    -     -         1398   20    0 
+KingTrev  958716958 10 10 f   -     -     -         1378    0    0 
+KingTrev  958717113 10  9 f   -     -     -         1378    0    0 
+KingTrev  958717362 10  8 f   -     -     -         1378    0    0 
+KingTrev  958717445 10  7 f   -     -     -         1378    0    0 
+KingTrev  958717539 10  7 c   b     b     k         1378   40  185 Ah 2s
+KingTrev  958717614  9  4 rc  bc    r     b         1523  110    0 As 6d
+KingTrev  958717730  9  4 f   -     -     -         1413    0    0 
+KingTrev  958717867 10  3 rr  bc    kf    -         1413   60    0 
+KingTrev  958718051  8  1 Bc  kc    kc    kc        1353   70    0 7h Td
+KingTrev  958718121  9  1 Bc  kf    -     -         1283   10    0 
+KingTrev  958718188  9  9 f   -     -     -         1273    0    0 
+KingTrev  958718259  9  8 f   -     -     -         1273    0    0 
+KingTrev  958718314  9  7 c   b     b     b         1273   60    0 4c 4s
+KingTrev  958718355  9  6 f   -     -     -         1213    0    0 
+KingTrev  958718434  9  5 cc  cf    -     -         1213   30    0 
+KingTrev  958718505  9  3 r   kc    kf    -         1183   30    0 
+KingTrev  958718610  8  2 Bk  b     b     b         1153   60  145 
+KingTrev  958718640  8  1 Bc  k     kf    -         1238   20    0 
+KingTrev  958718683  8  8 r   b     b     f         1218   50    0 
+KingTrev  958718726  8  7 r   rr    c     c         1168  110    0 7s 7d
+KingTrev  958718771  8  5 Q   -     -     -         1058    0    0 
+KingTrev  958724708  6  3 r   kc    kf    -         1058   30    0 
+KingTrev  958724759  6  2 Bc  b     b     -         1028   50  110 
+KingTrev  958724783  6  1 Br  k     b     b         1088   60  140 Jc Qc
+KingTrev  958724820  6  6 rc  rr    c     c         1168  110    0 Jh 8s
+KingTrev  958724862  5  4 c   f     -     -         1058   10    0 
+KingTrev  958724896  5  3 f   -     -     -         1048    0    0 
+KingTrev  958724919  5  2 Br  b     brf   -         1048   90    0 
+KingTrev  958724984  5  1 Bc  b     b     b          958   60  140 2c 8s
+KingTrev  958725020  6  6 r   k     b     k         1038   40    0 6s Ad
+KingTrev  958725068  6  5 r   b     b     b          998   70  155 
+KingTrev  958725103  7  5 c   brc   rc    c         1083  130    0 9s 7h
+KingTrev  958725217  7  4 f   -     -     -          953    0    0 
+KingTrev  958725284  8  4 c   c     k     k          953   30    0 2c Jh
+KingTrev  958725345  7  3 r   bcc   kf    -          923   50    0 
+KingTrev  958725407  7  2 Bk  kf    -     -          873   10    0 
+KingTrev  958725472  8  1 Bc  kr    b     bf         863   70    0 
+KingTrev  958725534  8  8 r   c     b     b          793   80  250 2h 2d
+KingTrev  958725576  7  6 f   -     -     -          963    0    0 
+KingTrev  958725644  9  7 cc  c     r     b          963   90  380 Jh 7c
+KingTrev  958725724  9  6 c   b     b     -         1253   40   80 
+KingTrev  958725814 10  6 f   -     -     -         1293    0    0 
+KingTrev  958725885 10  5 f   -     -     -         1293    0    0 
+KingTrev  958725969 10  4 f   -     -     -         1293    0    0 
+KingTrev  958726031 10  3 f   -     -     -         1293    0    0 
+KingTrev  958726082  9  2 Brc r     -     -         1293   60  190 
+KingTrev  958726113  9  1 Bc  kf    -     -         1423   20    0 
+KingTrev  958726177  9  9 cc  c     rc    c         1403  130    0 5c 2c
+KingTrev  958726232  8  7 r   kf    -     -         1273   20    0 
+KingTrev  958726306 10  7 cc  rc    rr    rc        1253  220  452 6d 5s
+KingTrev  958726437  9  5 c   f     -     -         1485   10    0 
+KingTrev  958726494 10  5 c   c     k     kf        1475   30    0 
+KingTrev  958726532 10  4 f   -     -     -         1445    0    0 
+KingTrev  958726577 10  3 crc r     b     k         1445   80  175 8h 9c
+KingTrev  958726650 10  2 Bc  bcc   kc    kf        1540   80    0 
+KingTrev  958726717 10  1 Bc  b     b     br        1460  110    0 Jd Qc
+KingTrev  958726770 10 10 c   c     c     r         1350   90    0 5c 6h
+KingTrev  958726826 10  9 f   -     -     -         1260    0    0 
+KingTrev  958726893 10  8 cc  kc    kQ    -         1260   30    0 
+KingTrev  958885071  9  4 r   k     b     b         1230   60  125 
+KingTrev  958885119  9  3 f   -     -     -         1295    0    0 
+KingTrev  958885201  9  2 Bk  kf    -     -         1295   10    0 
+KingTrev  958885266 10  1 Bf  -     -     -         1285    5    0 
+KingTrev  958885310 10 10 f   -     -     -         1280    0    0 
+KingTrev  958885389  9  8 f   -     -     -         1280    0    0 
+KingTrev  958885515 10  8 f   -     -     -         1280    0    0 
+KingTrev  958885554 10  7 rc  rc    c     cc        1280  180    0 Ac Jc
+KingTrev  958885645 10  6 rr  brc   brc   kc        1100  180  415 8d 8c
+KingTrev  958885698 10  5 f   -     -     -         1335    0    0 
+KingTrev  958885763 10  4 f   -     -     -         1335    0    0 
+KingTrev  958885802 10  3 rc  bf    -     -         1335   40    0 
+KingTrev  958885869 10  2 Br  b     b     -         1295   60  128 
+KingTrev  958885926  9  1 Brc bc    br    kc        1363  160    0 Td Kc
+KingTrev  958886000 10 10 f   Q     -     -         1203    0    0 
+KingTrev  959196430  7  7 c   r     b     b         1503   70  185 8c 6h
+KingTrev  959196484  7  6 f   -     -     -         1618    0    0 
+KingTrev  959196513  8  5 f   -     -     -         1618    0    0 
+KingTrev  959196552  8  4 KQ  -     -     -         1618    0    0 
+KingTrev  959196759  7  7 c   b     b     k         1618   40  100 Jc 4c
+KingTrev  959196835  8  7 c   r     rr    b         1678  140  185 9s 8d
+KingTrev  959196888  7  5 f   -     -     -         1723    0    0 
+KingTrev  959196904  7  5 f   -     -     -         1723    0    0 
+KingTrev  959196914  7  4 rc  k     br    b         1723  110  245 
+KingTrev  959196958  8  3 f   -     -     -         1858    0    0 
+KingTrev  959197043  8  2 Bk  c     rf    -         1858   60    0 
+KingTrev  959197081  8  1 Bf  -     -     -         1798    5    0 
+KingTrev  959197103  9  9 rr  bc    c     b         1793  100  240 
+KingTrev  959197144  9  8 f   -     -     -         1933    0    0 
+KingTrev  959197184  8  6 cc  kf    -     -         1933   20    0 
+KingTrev  959197222  8  5 f   -     -     -         1913    0    0 
+KingTrev  959197253  8  4 f   -     -     -         1913    0    0 
+KingTrev  959197297  8  3 f   -     -     -         1913    0    0 
+KingTrev  959197318  8  2 Bk  f     -     -         1913   10    0 
+KingTrev  959197342  8  1 Bf  -     -     -         1903    5    0 
+KingTrev  959197371  8  8 f   -     -     -         1898    0    0 
+KingTrev  959197400  8  7 f   -     -     -         1898    0    0 
+KingTrev  959197451  8  6 cc  c     c     cf        1898   70    0 
+KingTrev  959197514  9  6 r   KQ    -     -         1828   20    0 
+KingTrev  959197772  8  7 f   -     -     -         1808    0    0 
+KingTrev  959197812  8  6 f   -     -     -         1808    0    0 
+KingTrev  959197845  8  5 c   kf    -     -         1808   10    0 
+KingTrev  959197914  8  4 rc  kc    k     b         1798   60  100 Th Ah
+KingTrev  959197962  8  3 f   -     -     -         1838    0    0 
+KingTrev  959197992  8  2 Bc  k     br    -         1838   80  165 
+KingTrev  959198031  7  1 Br  -     -     -         1923   20   30 
+KingTrev  959198042  7  7 r   bc    r     b         1933  100  205 Qc 8d
+KingTrev  959198078  7  6 fQ  -     -     -         2038    0    0 
+KingTrev  959671156  8  5 r   b     -     -         4973   30   75 
+KingTrev  959671174  8  4 c   k     r     b         5018   70    0 6c 9d
+KingTrev  959671226  7  3 r   b     b     -         4948   50  105 
+KingTrev  959671258  7  2 Brc kc    kf    -         5003   50    0 
+KingTrev  959671308  9  1 Bc  b     -     -         4953   20   50 
+KingTrev  959671339  9  9 c   k     f     -         4983   10    0 
+KingTrev  959671393  9  8 f   -     -     -         4973    0    0 
+KingTrev  959671430 10  4 Q   -     -     -         4973    0    0 

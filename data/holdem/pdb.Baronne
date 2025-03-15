@@ -1,0 +1,78 @@
+Baronne   958196554  8  7 f   -     -     -         1000    0    0 
+Baronne   958196618  9  5 f   -     -     -         1000    0    0 
+Baronne   958196709  9  5 f   -     -     -         1000    0    0 
+Baronne   958196749  9  4 f   -     -     -         1000    0    0 
+Baronne   958196777  8  3 c   c     r     r         1000  100  250 
+Baronne   958196832  8  2 Bc  b     b     bf        1150   70    0 
+Baronne   958196900  8  1 Bf  -     -     -         1080    5    0 
+Baronne   958196941  9  8 f   -     -     -         1075    0    0 
+Baronne   958197002  9  7 cc  f     -     -         1075   20    0 
+Baronne   958197050  9  6 c   kf    -     -         1055   10    0 
+Baronne   958197093  9  5 f   -     -     -         1045    0    0 
+Baronne   958197135  9  4 cr  bc    kc    kf        1045   80    0 
+Baronne   958197219  9  3 f   -     -     -          965    0    0 
+Baronne   958197251  9  2 Br  br    bc    kf         965  110    0 
+Baronne   958197314 10  1 Bf  -     -     -          855    5    0 
+Baronne   958197384  9  9 f   -     -     -          850    0    0 
+Baronne   958197425  9  8 rc  rc    rr    r          850  200    0 Jc Qs
+Baronne   958197531  8  7 c   k     f     -          650   10    0 
+Baronne   958197587  7  5 f   -     -     -          640    0    0 
+Baronne   958197618  7  5 f   -     -     -          640    0    0 
+Baronne   958197679  7  4 c   b     b     b          640   60  130 
+Baronne   958197729  7  3 r   b     r     f          710   70    0 
+Baronne   958197789  7  2 Bk  b     -     -          640   20   30 
+Baronne   958197815  7  1 Bf  -     -     -          650    5    0 
+Baronne   958197851  8  8 c   f     -     -          645   10    0 
+Baronne   958197884  8  6 f   -     -     -          635    0    0 
+Baronne   958197965  8  5 r   b     b     -          635   50  180 
+Baronne   958198029  8  4 c   k     c     f          765   30    0 
+Baronne   958198098  7  3 f   -     -     -          735    0    0 
+Baronne   958198180  7  2 Br  b     k     c          735   50    0 Js Ac
+Baronne   958198233  7  1 Bf  -     -     -          685    5    0 
+Baronne   958198256  7  7 f   -     -     -          680    0    0 
+Baronne   958198314  7  6 f   -     -     -          680    0    0 
+Baronne   958198380  7  5 f   -     -     -          680    0    0 
+Baronne   958198438  7  4 cc  kf    -     -          680   20    0 
+Baronne   958198471  6  2 c   k     b     -          660   30   50 
+Baronne   958198511  6  2 Bf  -     -     -          680   10    0 
+Baronne   958198551  6  1 Bf  -     -     -          670    5    0 
+Baronne   958198609  7  7 c   k     r     f          665   50    0 
+Baronne   958198667  8  7 f   -     -     -          615    0    0 
+Baronne   958198716  9  7 f   -     -     -          615    0    0 
+Baronne   958198785  9  6 f   -     -     -          615    0    0 
+Baronne   958198899  9  5 f   -     -     -          615    0    0 
+Baronne   958198973  9  3 f   -     -     -          615    0    0 
+Baronne   958199016  8  3 c   b     b     b          615   60  150 
+Baronne   958199117  6  2 BQ  -     -     -          705   10    0 
+Baronne   958237782 10  9 rc  rr    rr    f          695  160    0 
+Baronne   958237874  9  7 r   r     b     b          535   80    0 9h 6h
+Baronne   958237930  9  6 r   b     b     -          455   50   90 
+Baronne   958237962  9  6 r   b     brc   brc        495  190    0 7s 8s
+Baronne   958238008  9  5 r   f     -     -          305   20    0 
+Baronne   958238066  9  4 f   -     -     -          285    0    0 
+Baronne   958238122  9  3 rr  kf    -     -          285   40    0 
+Baronne   958238166  9  2 Bk  kf    -     -          245   10    0 
+Baronne   958238214  9  1 Br  -     -     -          235   20   30 
+Baronne   958238235  9  9 rc  r     b     b          245  100  310 Ah As
+Baronne   958238278 10  9 rc  cc    f     -          455   70    0 
+Baronne   958238346 10  8 r   b     b     b          385   70  240 Js 9c
+Baronne   958238381 10  7 f   -     -     -          555    0    0 
+Baronne   958238435 10  6 f   -     -     -          555    0    0 
+Baronne   958238494 10  5 r   b     b     b          555   70  175 8c Kc
+Baronne   958238541 10  4 f   -     -     -          660    0    0 
+Baronne   958238591 10  3 r   k     b     -          660   40   75 
+Baronne   958238613 10  2 Bk  k     kr    k          695   50    0 Jc 9d
+Baronne   958238690 10  1 Br  kc    kf    -          645   50    0 
+Baronne   958238741 10 10 f   -     -     -          595    0    0 
+Baronne   958238784 10  9 f   -     -     -          595    0    0 
+Baronne   958238836 10  8 f   -     -     -          595    0    0 
+Baronne   958238873 10  7 f   -     -     -          595    0    0 
+Baronne   958238910 10  6 f   -     -     -          595    0    0 
+Baronne   958238951 10  5 r   b     b     b          595   70  215 
+Baronne   958239010 10  4 f   -     -     -          740    0    0 
+Baronne   958239048 10  3 rc  kf    -     -          740   30    0 
+Baronne   958239105 10  2 Br  kf    -     -          710   20    0 
+Baronne   958239204 10  1 Br  b     b     k          690   60    0 Ac Ts
+Baronne   958239267 10 10 f   -     -     -          630    0    0 
+Baronne   958239295 10  9 r   b     b     b          630   80    0 4h 5c
+Baronne   958239369 10  4 Q   -     -     -          550    0    0 

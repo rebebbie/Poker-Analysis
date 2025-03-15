@@ -1,0 +1,432 @@
+CADYMAN   957375742  8  3 cc  c     c     f         3738   50    0 
+CADYMAN   957375787  8  2 Bf  -     -     -         3688   10    0 
+CADYMAN   957375818  8  1 Bf  -     -     -         3678    5    0 
+CADYMAN   957375863  8  8 f   -     -     -         3673    0    0 
+CADYMAN   957375901  8  7 f   -     -     -         3673    0    0 
+CADYMAN   957375953  7  5 f   -     -     -         3673    0    0 
+CADYMAN   957376004  6  4 f   -     -     -         3673    0    0 
+CADYMAN   957376029  6  3 f   -     -     -         3673    0    0 
+CADYMAN   957376046  7  2 Bk  f     -     -         3673   10    0 
+CADYMAN   957376058  7  1 BQ  -     -     -         3663    5    0 
+CADYMAN   957495151  9  3 f   -     -     -         5996    0    0 
+CADYMAN   957495232  9  2 Bf  -     -     -         5996   10    0 
+CADYMAN   957495272  9  1 Bc  kc    kf    -         5986   40    0 
+CADYMAN   957495332  9  9 c   f     -     -         5946   10    0 
+CADYMAN   957495401  9  8 f   -     -     -         5936    0    0 
+CADYMAN   957495513  9  7 f   -     -     -         5936    0    0 
+CADYMAN   957495627  8  5 f   -     -     -         5936    0    0 
+CADYMAN   957495692  8  4 cc  c     c     f         5936   50    0 
+CADYMAN   957495752  7  3 cc  kc    kc    kc        5886   70    0 Js 9s
+CADYMAN   957495790  7  2 Bk  k     c     Q         5816   30    0 
+CADYMAN   957530750 10  9 f   -     -     -         4901    0    0 
+CADYMAN   957530808 10  8 f   -     -     -         4901    0    0 
+CADYMAN   957530863 10  7 f   -     -     -         4901    0    0 
+CADYMAN   957530931 10  6 f   -     -     -         4901    0    0 
+CADYMAN   957531048 10  5 f   -     -     -         4901    0    0 
+CADYMAN   957531115 10  4 f   -     -     -         4901    0    0 
+CADYMAN   957531177 10  3 f   -     -     -         4901    0    0 
+CADYMAN   957531235 10  2 Bk  k     kf    -         4901   10    0 
+CADYMAN   957531315 10  1 Bc  kc    kf    -         4891   30    0 
+CADYMAN   957531405  9  9 c   c     c     f         4861   50    0 
+CADYMAN   957531459  8  7 f   -     -     -         4811    0    0 
+CADYMAN   957531488  7  5 f   -     -     -         4811    0    0 
+CADYMAN   957531583  7  4 f   -     -     -         4811    0    0 
+CADYMAN   957531651  7  3 f   -     -     -         4811    0    0 
+CADYMAN   957531697  8  2 Bf  -     -     -         4811   10    0 
+CADYMAN   957531776  9  1 Bc  k     kc    b         4801   50   80 Jh Ad
+CADYMAN   957531866  9  9 f   -     -     -         4831    0    0 
+CADYMAN   957531932 10  9 cc  f     -     -         4831   40    0 
+CADYMAN   957532038 10  8 c   c     f     -         4791   20    0 
+CADYMAN   957532130 10  7 f   -     -     -         4771    0    0 
+CADYMAN   957532187 10  6 f   -     -     -         4771    0    0 
+CADYMAN   957532235 10  5 f   -     -     -         4771    0    0 
+CADYMAN   957532293 10  4 f   -     -     -         4771    0    0 
+CADYMAN   957532348 10  3 f   -     -     -         4771    0    0 
+CADYMAN   957532410 10  2 Bk  k     k     k         4771   10    0 Qc 9s
+CADYMAN   957532469 10  1 Bf  -     -     -         4761    5    0 
+CADYMAN   957532557 10 10 r   r     c     c         4756   80  265 Ah As
+CADYMAN   957532643 10  9 f   -     -     -         4941    0    0 
+CADYMAN   957532741 10  8 rr  rr    r     b         4941  140  535 Ah Ac
+CADYMAN   957532828  8  5 c   cf    -     -         5336   20    0 
+CADYMAN   957532905  8  4 Q   -     -     -         5316    0    0 
+CADYMAN   957561052 10  2 Bf  -     -     -         5316   10    0 
+CADYMAN   957561152 10  1 Bcc kc    k     kc        5306   31    0 9h Qh
+CADYMAN   957561308 10 10 f   -     -     -         5275    0    0 
+CADYMAN   957561426  8  7 f   -     -     -         5275    0    0 
+CADYMAN   957561490  8  7 c   k     b     -         5275   30   55 
+CADYMAN   957561525  7  5 c   kc    b     b         5300   60  220 Ts 9s
+CADYMAN   957561595  9  4 f   -     -     -         5460    0    0 
+CADYMAN   957561650  9  3 f   -     -     -         5460    0    0 
+CADYMAN   957561732 10  2 Bf  -     -     -         5460   10    0 
+CADYMAN   957561787  9  1 Bc  k     kr    kc        5450   90  290 4c As
+CADYMAN   957561866 10 10 f   -     -     -         5650    0    0 
+CADYMAN   957562022  9  8 f   -     -     -         5650    0    0 
+CADYMAN   957562100  8  6 c   r     -     -         5650   30   65 
+CADYMAN   957562121  8  5 f   -     -     -         5685    0    0 
+CADYMAN   957562188  7  4 f   -     -     -         5685    0    0 
+CADYMAN   957562217  7  3 f   -     -     -         5685    0    0 
+CADYMAN   957562257  6  2 Bk  k     kc    kc        5685   50    0 6h As
+CADYMAN   957562300  6  1 Bf  -     -     -         5635    5    0 
+CADYMAN   957562348  7  7 f   -     -     -         5630    0    0 
+CADYMAN   957562382  7  6 f   -     -     -         5630    0    0 
+CADYMAN   957562446  7  5 f   -     -     -         5630    0    0 
+CADYMAN   957562506  7  4 f   -     -     -         5630    0    0 
+CADYMAN   957562536  7  4 f   -     -     -         5630    0    0 
+CADYMAN   957562582  6  2 Bk  k     b     -         5630   30   50 
+CADYMAN   957562638  6  1 Bf  -     -     -         5650    5    0 
+CADYMAN   957562663  7  7 c   k     b     f         5645   40    0 
+CADYMAN   957562715  9  8 f   -     -     -         5605    0    0 
+CADYMAN   957562756  9  7 f   -     -     -         5605    0    0 
+CADYMAN   957562800  9  6 f   -     -     -         5605    0    0 
+CADYMAN   957562841 10  6 c   kf    -     -         5605   10    0 
+CADYMAN   957562958  9  4 f   -     -     -         5595    0    0 
+CADYMAN   957562998  9  4 f   -     -     -         5595    0    0 
+CADYMAN   957563085  8  3 f   -     -     -         5595    0    0 
+CADYMAN   957563134  8  2 Bk  k     k     k         5595   10    0 Jh Jc
+CADYMAN   957563207  8  1 Bc  kc    kc    kc        5585   70    0 Th Ac
+CADYMAN   957563259  8  8 f   -     -     -         5515    0    0 
+CADYMAN   957563290  8  7 f   -     -     -         5515    0    0 
+CADYMAN   957563343  8  6 cc  c     c     rc        5515  130  440 Kh Ac
+CADYMAN   957563463  9  6 c   b     -     -         5825   20   45 
+CADYMAN   957563504  9  5 f   -     -     -         5850    0    0 
+CADYMAN   957563600 10  5 f   -     -     -         5850    0    0 
+CADYMAN   957563653 10  4 f   -     -     -         5850    0    0 
+CADYMAN   957563720 10  3 f   -     -     -         5850    0    0 
+CADYMAN   957563788  9  2 Bf  -     -     -         5850   10    0 
+CADYMAN   957563855  8  1 Bf  -     -     -         5840    5    0 
+CADYMAN   957563917  8  8 f   -     -     -         5835    0    0 
+CADYMAN   957563950  8  7 f   -     -     -         5835    0    0 
+CADYMAN   957564038  8  6 c   k     f     -         5835   10    0 
+CADYMAN   957564077  7  4 cf  -     -     -         5825   10    0 
+CADYMAN   957564111  7  3 f   -     -     -         5815    0    0 
+CADYMAN   957564131  7  2 Bk  b     b     bc        5815   80  190 9h Qs
+CADYMAN   957564191  5  1 Bc  kf    -     -         5925   20    0 
+CADYMAN   957564217  5  5 f   -     -     -         5905    0    0 
+CADYMAN   957564278  5  4 f   -     -     -         5905    0    0 
+CADYMAN   957564297  5  3 f   -     -     -         5905    0    0 
+CADYMAN   957564317  4  2 Bk  k     r     b         5905   70  140 2h Kd
+CADYMAN   957564370  4  1 Bf  -     -     -         5975    5    0 
+CADYMAN   957564466  4  4 f   -     -     -         5970    0    0 
+CADYMAN   957564476  4  3 cc  kf    -     -         5970   20    0 
+CADYMAN   957564496  4  2 Bf  -     -     -         5950   10    0 
+CADYMAN   957564515  4  1 Bf  -     -     -         5940    5    0 
+CADYMAN   957564553  5  4 f   -     -     -         5935    0    0 
+CADYMAN   957564591  6  3 ccf -     -     -         5935   30    0 
+CADYMAN   957564665  7  2 Bf  -     -     -         5905   10    0 
+CADYMAN   957564702  7  1 Bf  -     -     -         5895    5    0 
+CADYMAN   957564800  7  7 f   -     -     -         5890    0    0 
+CADYMAN   957564883  7  6 f   -     -     -         5890    0    0 
+CADYMAN   957564981  7  5 f   -     -     -         5890    0    0 
+CADYMAN   957565070  7  4 f   -     -     -         5890    0    0 
+CADYMAN   957565133  7  3 f   -     -     -         5890    0    0 
+CADYMAN   957565188  5  2 Bk  k     k     k         5890   10   20 Ah 4c
+CADYMAN   957565217  6  1 Bf  -     -     -         5900    5    0 
+CADYMAN   957565256  8  8 f   -     -     -         5895    0    0 
+CADYMAN   957565295 10  9 c   k     k     b         5895   30   65 
+CADYMAN   957565367 10  8 f   -     -     -         5930    0    0 
+CADYMAN   957565461  9  7 f   -     -     -         5930    0    0 
+CADYMAN   957565538  9  6 cc  f     -     -         5930   20    0 
+CADYMAN   957565606 10  6 f   -     -     -         5910    0    0 
+CADYMAN   957565689 10  5 f   -     -     -         5910    0    0 
+CADYMAN   957565776 10  3 f   -     -     -         5910    0    0 
+CADYMAN   957565801 10  2 Bk  k     KQ    -         5910   10    0 
+CADYMAN   957565942 10 10 f   -     -     -         5900    0    0 
+CADYMAN   957566067 10  9 f   -     -     -         5900    0    0 
+CADYMAN   957566139 10  8 cc  cc    c     f         5900  100    0 
+CADYMAN   957566252 10  7 f   -     -     -         5800    0    0 
+CADYMAN   957566317 10  7 f   -     -     -         5800    0    0 
+CADYMAN   957566360  5  4 c   f     -     -         5800   10    0 
+CADYMAN   957566385  4  3 r   k     c     c         5790   60  130 Ac As
+CADYMAN   957566423  3  1 B   -     -     -         5860   10   10 
+CADYMAN   957566434  3  1 Bc  Q     -     -         5860   10    0 
+CADYMAN   957574051  9  5 f   -     -     -         5640    0    0 
+CADYMAN   957574169 10  4 c   kf    -     -         5640   10    0 
+CADYMAN   957574246 10  3 f   Q     -     -         5630    0    0 
+CADYMAN   957587498 10  1 Bc  k     kf    -         8552   10    0 
+CADYMAN   957587561  9  9 f   -     -     -         8542    0    0 
+CADYMAN   957587630 10  8 f   -     -     -         8542    0    0 
+CADYMAN   957587691 10  7 c   f     -     -         8542   10    0 
+CADYMAN   957587734 10  6 f   -     -     -         8532    0    0 
+CADYMAN   957587763 10  5 c   kf    -     -         8532   10    0 
+CADYMAN   957587824 10  4 f   -     -     -         8522    0    0 
+CADYMAN   957587866 10  3 f   -     -     -         8522    0    0 
+CADYMAN   957587910 10  2 Bc  c     kf    -         8522   30    0 
+CADYMAN   957588001 10  1 Bf  -     -     -         8492    5    0 
+CADYMAN   957588073 10 10 f   -     -     -         8487    0    0 
+CADYMAN   957588118 10  9 f   -     -     -         8487    0    0 
+CADYMAN   957588166 10  8 f   -     -     -         8487    0    0 
+CADYMAN   957588214 10  7 cf  -     -     -         8487   10    0 
+CADYMAN   957588269 10  6 f   -     -     -         8477    0    0 
+CADYMAN   957588339 10  5 f   -     -     -         8477    0    0 
+CADYMAN   957588380  9  4 c   kc    kf    -         8477   20    0 
+CADYMAN   957588423  8  3 c   k     f     -         8457   10    0 
+CADYMAN   957588459  8  2 Bf  -     -     -         8447   10    0 
+CADYMAN   957588508  8  1 Bc  kc    kc    k         8437   40    0 Ac 5h
+CADYMAN   957588568  9  9 c   c     k     c         8397   40  160 Qs Qh
+CADYMAN   957588641 10  9 f   -     -     -         8517    0    0 
+CADYMAN   957588699 10  8 f   -     -     -         8517    0    0 
+CADYMAN   957588755 10  7 f   -     -     -         8517    0    0 
+CADYMAN   957588794 10  6 f   -     -     -         8517    0    0 
+CADYMAN   957588871 10  5 f   -     -     -         8517    0    0 
+CADYMAN   957588906 10  5 c   kf    -     -         8517   10    0 
+CADYMAN   957588971 10  3 f   -     -     -         8507    0    0 
+CADYMAN   957589013 10  2 Bk  kf    -     -         8507   10    0 
+CADYMAN   957589107 10  1 Bf  -     -     -         8497    5    0 
+CADYMAN   957589159 10 10 f   -     -     -         8492    0    0 
+CADYMAN   957589191 10  9 f   -     -     -         8492    0    0 
+CADYMAN   957589287 10  8 f   -     -     -         8492    0    0 
+CADYMAN   957589383 10  7 f   -     -     -         8492    0    0 
+CADYMAN   957589462  9  6 f   -     -     -         8492    0    0 
+CADYMAN   957589606 10  5 f   -     -     -         8492    0    0 
+CADYMAN   957589682 10  4 c   k     kf    -         8492   10    0 
+CADYMAN   957589784 10  3 f   -     -     -         8482    0    0 
+CADYMAN   957589877 10  2 Bk  kf    -     -         8482   10    0 
+CADYMAN   957589917 10  1 Bf  -     -     -         8472    5    0 
+CADYMAN   957589975 10 10 f   -     -     -         8467    0    0 
+CADYMAN   957590003 10  9 c   f     -     -         8467   10    0 
+CADYMAN   957590039  9  7 c   k     b     k         8457   30   75 4d Qd
+CADYMAN   957590085 10  7 f   -     -     -         8502    0    0 
+CADYMAN   957590124  9  6 c   k     k     b         8502   30   90 Qc 5c
+CADYMAN   957590225 10  5 f   -     -     -         8562    0    0 
+CADYMAN   957590274 10  4 f   -     -     -         8562    0    0 
+CADYMAN   957590336 10  3 f   -     -     -         8562    0    0 
+CADYMAN   957590380 10  2 Bf  -     -     -         8562   10    0 
+CADYMAN   957590418 10  1 Bc  kf    -     -         8552   20    0 
+CADYMAN   957590470 10 10 c   f     -     -         8532   10    0 
+CADYMAN   957590495 10  9 f   -     -     -         8522    0    0 
+CADYMAN   957590541 10  8 f   -     -     -         8522    0    0 
+CADYMAN   957590565 10  7 f   -     -     -         8522    0    0 
+CADYMAN   957590635 10  6 f   -     -     -         8522    0    0 
+CADYMAN   957590739 10  5 f   -     -     -         8522    0    0 
+CADYMAN   957590806 10  4 f   -     -     -         8522    0    0 
+CADYMAN   957590894 10  3 f   -     -     -         8522    0    0 
+CADYMAN   957590986 10  2 Bk  Q     -     -         8522   10    0 
+CADYMAN   957687407 10  2 Bk  kf    -     -        12702   10    0 
+CADYMAN   957687491 10  1 Bf  -     -     -        12692    5    0 
+CADYMAN   957687570 10 10 c   k     f     -        12687   10    0 
+CADYMAN   957687695 10  9 f   -     -     -        12677    0    0 
+CADYMAN   957687763 10  8 f   -     -     -        12677    0    0 
+CADYMAN   957687812 10  7 f   -     -     -        12677    0    0 
+CADYMAN   957687893 10  6 f   -     -     -        12677    0    0 
+CADYMAN   957687943 10  5 f   -     -     -        12677    0    0 
+CADYMAN   957687998 10  4 f   -     -     -        12677    0    0 
+CADYMAN   957688054 10  3 c   b     b     b        12677   60  170 Kc Qh
+CADYMAN   957688117 10  2 Bk  kf    -     -        12787   10    0 
+CADYMAN   957688163 10  1 Bf  -     -     -        12777    5    0 
+CADYMAN   957688272 10 10 f   -     -     -        12772    0    0 
+CADYMAN   957688325 10  9 f   -     -     -        12772    0    0 
+CADYMAN   957688456 10  8 cc  c     cc    k        12772   80    0 Td As
+CADYMAN   957688528 10  7 f   -     -     -        12692    0    0 
+CADYMAN   957688626 10  6 f   -     -     -        12692    0    0 
+CADYMAN   957688656 10  5 c   f     -     -        12692   20    0 
+CADYMAN   957688758 10  4 f   -     -     -        12672    0    0 
+CADYMAN   957688801 10  3 c   kc    kf    -        12672   20    0 
+CADYMAN   957688859 10  2 Bk  k     kf    -        12652   10    0 
+CADYMAN   957688919 10  1 Br  kf    -     -        12642   20    0 
+CADYMAN   957688984 10 10 c   f     Q     -        12622   20    0 
+CADYMAN   958111219 10  7 c   f     -     -        39906   20    0 
+CADYMAN   958111293 10  6 f   -     -     -        39886    0    0 
+CADYMAN   958111364  9  5 cc  kc    kc    kr       39886   90  245 5h Kh
+CADYMAN   958111408 10  4 f   -     -     -        40041    0    0 
+CADYMAN   958111457 10  3 f   -     -     -        40041    0    0 
+CADYMAN   958111494 10  2 Bk  kc    kc    k        40041   40  125 9d Ts
+CADYMAN   958111550 10  1 Bf  -     -     -        40126    5    0 
+CADYMAN   958111604 10 10 f   -     -     -        40121    0    0 
+CADYMAN   958111780 10  9 f   -     -     -        40121    0    0 
+CADYMAN   958111840 10  8 c   k     k     f        40121   10    0 
+CADYMAN   958111915 10  7 cc  kf    -     -        40111   20    0 
+CADYMAN   958111962 10  6 c   kc    kc    f        40091   40    0 
+CADYMAN   958112058 10  5 f   -     -     -        40051    0    0 
+CADYMAN   958112079 10  4 c   c     b     kf       40051   40    0 
+CADYMAN   958112157 10  3 f   -     -     -        40011    0    0 
+CADYMAN   958112207 10  2 Bk  kc    kc    k        40011   40    0 7s 4s
+CADYMAN   958112272 10  1 Bf  -     -     -        39971    5    0 
+CADYMAN   958112299 10 10 f   -     -     -        39966    0    0 
+CADYMAN   958112363 10  9 f   -     -     -        39966    0    0 
+CADYMAN   958112407 10  8 c   c     c     b        39966   60  180 
+CADYMAN   958112476 10  7 c   f     -     -        40086   10    0 
+CADYMAN   958112573  9  6 f   -     -     -        40076    0    0 
+CADYMAN   958112607 10  5 cc  kc    kc    k        40076   50    0 Ts 9h
+CADYMAN   958112679  8  4 f   -     -     -        40026    0    0 
+CADYMAN   958112725  7  3 f   -     -     -        40026    0    0 
+CADYMAN   958112770  7  2 Bf  -     -     -        40026   10    0 
+CADYMAN   958112827  7  1 Bf  -     -     -        40016    5    0 
+CADYMAN   958112890  7  7 f   -     -     -        40011    0    0 
+CADYMAN   958112945  8  6 f   -     -     -        40011    0    0 
+CADYMAN   958112983  8  5 f   -     -     -        40011    0    0 
+CADYMAN   958113021  9  4 f   -     -     -        40011    0    0 
+CADYMAN   958113077  9  3 f   -     -     -        40011    0    0 
+CADYMAN   958113102  9  2 Bk  k     k     k        40011   10   55 7c 2s
+CADYMAN   958113170  9  1 Bf  -     -     -        40056    5    0 
+CADYMAN   958113201  9  9 f   -     -     -        40051    0    0 
+CADYMAN   958113224  8  8 f   -     -     -        40051    0    0 
+CADYMAN   958113254  8  7 f   -     -     -        40051    0    0 
+CADYMAN   958113302  8  6 f   -     -     -        40051    0    0 
+CADYMAN   958113350  8  5 f   -     -     -        40051    0    0 
+CADYMAN   958113411  8  4 f   -     -     -        40051    0    0 
+CADYMAN   958113442  8  3 f   -     -     -        40051    0    0 
+CADYMAN   958113487  8  2 Bc  kf    -     -        40051   20    0 
+CADYMAN   958113536  8  1 Bc  kc    kc    kc       40031   70    0 4d Ad
+CADYMAN   958113601  8  8 f   -     -     -        39961    0    0 
+CADYMAN   958113642  8  7 f   -     -     -        39961    0    0 
+CADYMAN   958113681  8  6 f   -     -     -        39961    0    0 
+CADYMAN   958113731  8  5 c   k     f     -        39961   10    0 
+CADYMAN   958113774  8  4 f   -     -     -        39951    0    0 
+CADYMAN   958113830  8  3 f   -     -     -        39951    0    0 
+CADYMAN   958113911  9  2 Bc  k     kf    -        39951   20    0 
+CADYMAN   958114004  8  1 Bf  -     -     -        39931    5    0 
+CADYMAN   958114045  8  8 c   k     f     -        39926   10    0 
+CADYMAN   958114108  9  8 f   -     -     -        39916    0    0 
+CADYMAN   958114180 10  8 f   -     -     -        39916    0    0 
+CADYMAN   958114246 10  7 f   -     -     -        39916    0    0 
+CADYMAN   958114335  9  5 cc  c     f     -        39916   30    0 
+CADYMAN   958114378  9  4 c   b     kc    kr       39886   80    0 Ad 6d
+CADYMAN   958114424  9  3 KQ  -     -     -        39806    0    0 
+CADYMAN   958359453 10  8 f   -     -     -        46947    0    0 
+CADYMAN   958359502 10  7 c   c     f     -        46947   20    0 
+CADYMAN   958359555 10  6 f   -     -     -        46927    0    0 
+CADYMAN   958359637 10  5 f   -     -     -        46927    0    0 
+CADYMAN   958359693 10  4 f   -     -     -        46927    0    0 
+CADYMAN   958359761 10  3 f   -     -     -        46927    0    0 
+CADYMAN   958359864  7  2 Bf  -     -     -        46927   10    0 
+CADYMAN   958359937  6  1 Bf  -     -     -        46917    5    0 
+CADYMAN   958359963  6  6 c   k     c     k        46912   30  110 Qc As
+CADYMAN   958360017  6  5 f   -     -     -        46992    0    0 
+CADYMAN   958360055  7  4 f   -     -     -        46992    0    0 
+CADYMAN   958360096  7  4 cc  f     -     -        46992   20    0 
+CADYMAN   958360156  4  2 Bk  Q     -     -        46972   10    0 
+CADYMAN   958361116  9  5 f   -     -     -        46962    0    0 
+CADYMAN   958361183 10  4 f   -     -     -        46962    0    0 
+CADYMAN   958361243 10  3 f   -     -     -        46962    0    0 
+CADYMAN   958361360 10  2 Bf  -     -     -        46962   10    0 
+CADYMAN   958361437 10  1 Bc  k     kf    -        46952   10    0 
+CADYMAN   958361509 10 10 c   f     -     -        46942   20    0 
+CADYMAN   958361571 10  9 f   -     -     -        46922    0    0 
+CADYMAN   958361662 10  8 f   -     -     -        46922    0    0 
+CADYMAN   958361774 10  7 f   -     -     -        46922    0    0 
+CADYMAN   958361844 10  6 c   c     cf    -        46922   40    0 
+CADYMAN   958361950  8  5 f   -     -     -        46882    0    0 
+CADYMAN   958362014  7  3 f   -     -     -        46882    0    0 
+CADYMAN   958362048  6  2 Bc  k     br    c        46882  100    0 Kc Ac
+CADYMAN   958362100  6  1 Bf  -     -     -        46782    5    0 
+CADYMAN   958362137  5  5 c   c     c     k        46777   40    0 4s Ks
+CADYMAN   958362201  4  4 f   -     -     -        46737    0    0 
+CADYMAN   958362250  4  3 f   -     -     -        46737    0    0 
+CADYMAN   958362279  5  2 Bk  kf    -     -        46737   10    0 
+CADYMAN   958362357  5  1 Bf  -     -     -        46727    5    0 
+CADYMAN   958362385  5  5 f   -     -     -        46722    0    0 
+CADYMAN   958362436  4  3 f   -     -     -        46722    0    0 
+CADYMAN   958362462  5  2 Bk  k     kf    -        46722   10    0 
+CADYMAN   958362505  5  1 Bf  -     -     -        46712    5    0 
+CADYMAN   958362544  5  5 c   k     k     k        46707   10    0 Ac 9h
+CADYMAN   958362593  5  4 f   -     -     -        46697    0    0 
+CADYMAN   958362636  4  2 Bk  f     -     -        46697   10    0 
+CADYMAN   958362657  4  1 Bf  -     -     -        46687    5    0 
+CADYMAN   958362686  4  4 f   -     -     -        46682    0    0 
+CADYMAN   958362725  5  4 f   -     -     -        46682    0    0 
+CADYMAN   958362771  6  4 cc  k     c     f        46682   40    0 
+CADYMAN   958362807  6  3 c   k     k     k        46642   10    0 9s Th
+CADYMAN   958362833  6  2 Bf  -     -     -        46632   10    0 
+CADYMAN   958362862  6  1 Bf  -     -     -        46622    5    0 
+CADYMAN   958362894  8  8 f   -     -     -        46617    0    0 
+CADYMAN   958362929  8  7 c   f     -     -        46617   10    0 
+CADYMAN   958362994  8  6 cc  c     f     -        46607   30    0 
+CADYMAN   958363060  5  5 f   -     -     -        46577    0    0 
+CADYMAN   958363131  6  4 f   -     -     -        46577    0    0 
+CADYMAN   958363207  8  3 ccc brc   bcc   kc       46577  200    0 Ac Kc
+CADYMAN   958363387  8  2 Bk  kf    -     -        46377   10    0 
+CADYMAN   958363522  7  1 Bf  -     -     -        46367    5    0 
+CADYMAN   958363560  7  7 f   -     -     -        46362    0    0 
+CADYMAN   958363591  7  6 f   -     -     -        46362    0    0 
+CADYMAN   958363668  8  6 f   -     -     -        46362    0    0 
+CADYMAN   958363797  6  3 f   -     -     -        46362    0    0 
+CADYMAN   958363867  9  4 f   -     -     -        46362    0    0 
+CADYMAN   958363949  9  2 Bk  k     k     k        46362   10    0 7d 3s
+CADYMAN   958364017  8  1 Bc  b     b     b        46352   60  180 Qs Jc
+CADYMAN   958364072  9  9 c   f     -     -        46472   20    0 
+CADYMAN   958364161  9  8 f   -     -     -        46452    0    0 
+CADYMAN   958364237 10  7 f   -     -     -        46452    0    0 
+CADYMAN   958364316 10  6 f   -     -     -        46452    0    0 
+CADYMAN   958364405 10  5 f   -     -     -        46452    0    0 
+CADYMAN   958364450 10  4 f   -     -     -        46452    0    0 
+CADYMAN   958364568  9  3 f   -     -     -        46452    0    0 
+CADYMAN   958364665 10  2 Bf  -     -     -        46452   10    0 
+CADYMAN   958364752  8  1 Bf  -     -     -        46442    5    0 
+CADYMAN   958364842  8  8 f   -     -     -        46437    0    0 
+CADYMAN   958364893  9  8 c   c     c     f        46437   50    0 
+CADYMAN   958364934  7  6 f   -     -     -        46387    0    0 
+CADYMAN   958365062  6  4 f   -     -     -        46387    0    0 
+CADYMAN   958365090  6  3 c   k     k     k        46387   10   25 6c Kc
+CADYMAN   958365119  6  2 Bk  k     kf    -        46402   10    0 
+CADYMAN   958365171  5  1 Bf  -     -     -        46392    5    0 
+CADYMAN   958365226  5  5 f   -     -     -        46387    0    0 
+CADYMAN   958365255  5  4 c   f     -     -        46387   10    0 
+CADYMAN   958365301  5  3 f   -     -     -        46377    0    0 
+CADYMAN   958365343  3  1 B   -     -     -        46377   10   10 
+CADYMAN   958365356  3  1 Bc  k     k     k        46377   10   10 5d 6d
+CADYMAN   958365386  3  3 cc  c     c     rr       46377  130  270 Kd 3d
+CADYMAN   958365425  3  2 Bf  -     -     -        46517   10    0 
+CADYMAN   958365445  3  1 Bc  k     k     b        46507   30   40 
+CADYMAN   958365467  3  3 f   -     -     -        46517    0    0 
+CADYMAN   958365488  3  2 Bk  kf    -     -        46517   10    0 
+CADYMAN   958365519  3  1 Bc  kc    kc    brc      46507  140  420 3h Kh
+CADYMAN   958365567  3  3 c   b     -     -        46787   20   35 
+CADYMAN   958365597  3  2 Bf  -     -     -        46802   10    0 
+CADYMAN   958365602  3  1 Bc  kf    -     -        46792   20    0 
+CADYMAN   958365643  3  3 cc  c     r     b        46772   90    0 Jd Jc
+CADYMAN   958365684  3  2 B   -     -     -        46682   10   15 
+CADYMAN   958365697  3  1 Bcf -     -     -        46687   10    0 
+CADYMAN   958365718  3  3 f   -     -     -        46677    0    0 
+CADYMAN   958365737  3  2 Bk  k     k     k        46677   10    0 Jh 6c
+CADYMAN   958365769  4  1 Bf  -     -     -        46667    5    0 
+CADYMAN   958365780  4  4 f   -     -     -        46662    0    0 
+CADYMAN   958365803  5  4 c   k     kf    -        46662   10    0 
+CADYMAN   958365833  4  2 f   -     -     -        46652    0    0 
+CADYMAN   958365845  4  2 Bf  -     -     -        46652   10    0 
+CADYMAN   958365889  4  1 Bf  -     -     -        46642    5    0 
+CADYMAN   958365899  4  4 f   -     -     -        46637    0    0 
+CADYMAN   958365928  4  3 cf  -     -     -        46637   10    0 
+CADYMAN   958365957  4  2 Bk  k     k     f        46627   10    0 
+CADYMAN   958366005  4  1 Bc  k     k     b        46617   40   90 Jc Tc
+CADYMAN   958366025  4  4 c   bc    brc   rr       46667  200    0 Jc Ah
+CADYMAN   958366076  4  3 f   -     -     -        46467    0    0 
+CADYMAN   958366110  5  2 Bk  kc    kf    -        46467   20    0 
+CADYMAN   958366143  4  1 Bf  -     -     -        46447    5    0 
+CADYMAN   958366161  4  4 f   -     -     -        46442    0    0 
+CADYMAN   958366203  4  3 c   b     b     b        46442   60  110 
+CADYMAN   958366251  5  3 f   -     -     -        46492    0    0 
+CADYMAN   958366283  4  2 Bk  k     b     -        46492   30   50 
+CADYMAN   958366315  4  1 Bc  kf    -     -        46512   10    0 
+CADYMAN   958366347  4  4 f   -     -     -        46502    0    0 
+CADYMAN   958366367  4  3 c   b     b     b        46502   60  135 3h 3c
+CADYMAN   958366398  4  2 Bk  kf    -     -        46577   10    0 
+CADYMAN   958366425  5  1 Bf  -     -     -        46567    5    0 
+CADYMAN   958366463  4  4 f   -     -     -        46562    0    0 
+CADYMAN   958366471  4  3 c   kQ    -     -        46562   10    0 
+CADYMAN   958596680  9  3 fQ  -     -     -        51813    0    0 
+CADYMAN   958596800 10 10 c   cc    c     c        51813   90    0 7s 8d
+CADYMAN   958596867 10  9 f   -     -     -        51723    0    0 
+CADYMAN   958596901  9  7 cc  br    b     b        51723   90  185 
+CADYMAN   958596960  8  6 f   -     -     -        51818    0    0 
+CADYMAN   958596993  8  5 f   -     -     -        51818    0    0 
+CADYMAN   958597100  7  3 KQ  -     -     -        51818    0    0 
+CADYMAN   958597803  6  5 c   c     c     k        51733   50  125 Ah Qc
+CADYMAN   958597848  6  4 f   -     -     -        51808    0    0 
+CADYMAN   958597906  7  4 f   -     -     -        51808    0    0 
+CADYMAN   958597935  7  3 f   -     -     -        51808    0    0 
+CADYMAN   958598049  7  2 Bc  kc    kc    kr       51808   90    0 Qs Ks
+CADYMAN   958598104  7  1 Bc  kc    k     b        51718   40   80 Ac Qd
+CADYMAN   958598174  7  7 cc  c     k     r        51758   90    0 8s Ah
+CADYMAN   958598241  5  4 f   -     -     -        51668    0    0 
+CADYMAN   958598265  5  4 Q   -     -     -        51668    0    0 
+CADYMAN   958688316  9  6 cc  kc    kc    f       102226   70    0 
+CADYMAN   958688450  9  5 f   -     -     -       102156    0    0 
+CADYMAN   958688520 10  5 f   -     -     -       102156    0    0 
+CADYMAN   958688647 10  4 c   k     f     -       102156   10    0 
+CADYMAN   958688712 10  3 cc  kc    kcc   kf      102146  100    0 
+CADYMAN   958688871 10  2 Bk  f     -     -       102046   10    0 
+CADYMAN   958688943 10  1 Bc  kc    kf    -       102036   20    0 
+CADYMAN   958689079 10 10 c   c     f     -       102016   20    0 
+CADYMAN   958689230 10  9 f   -     -     -       101996    0    0 
+CADYMAN   958689284 10  8 f   -     -     -       101996    0    0 
+CADYMAN   958689451  7  5 f   Q     -     -       101996    0    0 

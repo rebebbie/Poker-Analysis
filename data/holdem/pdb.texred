@@ -1,0 +1,54 @@
+texred    957508768 10  2 Bk  kc    kc    kc        6995   60  185 Jd Kc
+texred    957508818 10  1 Bf  -     -     -         7120    5    0 
+texred    957508859 10 10 f   -     -     -         7115    0    0 
+texred    957508908 10  9 f   -     -     -         7115    0    0 
+texred    957508966 10  8 cc  f     -     -         7115   30    0 
+texred    957509001 10  7 f   -     -     -         7085    0    0 
+texred    957509052 10  6 c   kcc   kc    kf        7085   90    0 
+texred    957509109 10  5 f   -     -     -         6995    0    0 
+texred    957509131 10  4 c   k     b     b         6995   50  125 Ks 5s
+texred    957509257 10  3 cc  b     b     b         7070   70  165 
+texred    957509306 10  2 Bk  bc    krc   bc        7165  130  485 2c Qc
+texred    957509353 10  1 BQ  -     -     -         7520    5    0 
+texred    957757005  8  8 f   -     -     -         7515    0    0 
+texred    957757039  7  6 c   c     k     k         7515   20   90 9d 9c
+texred    957757095  6  4 c   kc    kf    -         7585   20    0 
+texred    957757137  6  3 c   b     b     -         7565   40   70 
+texred    957757168  7  2 Bk  kc    kc    kf        7595   40    0 
+texred    957757210  8  1 Bf  -     -     -         7555    5    0 
+texred    957757263  8  8 f   -     -     -         7550    0    0 
+texred    957757332  8  7 c   cc    c     c         7550   80    0 Kc 7c
+texred    957757385  8  6 fQ  -     -     -         7470    0    0 
+texred    959239407 10  3 c   bc    kc    c         7640   70    0 Jc Ks
+texred    959239506 10  2 Bc  f     -     -         7570   20    0 
+texred    959239594 10  1 Bc  kf    -     -         7550   20    0 
+texred    959239693 10 10 rc  r     b     k         7530   70  295 Qc Qs
+texred    959239831 10  9 f   -     -     -         7755    0    0 
+texred    959239898 10  8 f   -     -     -         7755    0    0 
+texred    959239969 10  7 f   -     -     -         7755    0    0 
+texred    959240025 10  6 r   b     c     f         7755   50    0 
+texred    959240106 10  5 f   -     -     -         7705    0    0 
+texred    959240148 10  4 f   -     -     -         7705    0    0 
+texred    959240266 10  3 c   k     c     f         7705   30    0 
+texred    959240325 10  2 Bc  k     kf    -         7675   20    0 
+texred    959240455 10  1 Bc  kcc   kcc   kc        7655  120    0 5c Ah
+texred    959240555 10 10 f   -     -     -         7535    0    0 
+texred    959240595  9  8 c   k     b     b         7535   60  205 
+texred    959240667  9  7 f   -     -     -         7680    0    0 
+texred    959240789 10  6 f   -     -     -         7680    0    0 
+texred    959240848 10  5 f   -     -     -         7680    0    0 
+texred    959240905 10  4 f   -     -     -         7680    0    0 
+texred    959240967 10  3 cc  kf    -     -         7680   30    0 
+texred    959241041 10  2 Bcc kcc   k     kf        7650   80    0 
+texred    959241151 10  1 Bc  kf    -     -         7570   20    0 
+texred    959241219 10 10 f   -     -     -         7550    0    0 
+texred    959241241 10  9 r   b     b     -         7550   60  145 
+texred    959241288 10  8 f   -     -     -         7635    0    0 
+texred    959241353 10  7 f   -     -     -         7635    0    0 
+texred    959241395 10  6 c   k     k     k         7635   10    0 Kd 6d
+texred    959241451 10  5 f   -     -     -         7625    0    0 
+texred    959241498 10  4 c   b     b     bc        7625   80    0 Ad Qc
+texred    959241550 10  3 c   kf    -     -         7545   10    0 
+texred    959241628 10  2 Bc  k     kf    -         7535   20    0 
+texred    959241686 10  1 Bc  kf    -     -         7515   10    0 
+texred    959241729 10 10 c   c     fQ    -         7505   30    0 
