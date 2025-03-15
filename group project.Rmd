@@ -21,8 +21,6 @@ This data was collected from the University of Alberta's Computer Poker Research
 Interpreations of the column names came from https://github.com/allenfrostline/PokerHandsDataset/blob/master/src/extract.py 
 
 
-
-
 "Winning" in this first data analysis section just 
 means that player hand is stronger than opponent hand in a 4-player game. 
 - odds of winning given pre-flop
@@ -266,9 +264,12 @@ games_played_hands_1 <- games1 %>%
     num_folded = sum(did_fold),
     num_played = N-num_folded,
     proportion_played = num_played/(num_played+num_folded),
-    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
-    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
-    #bankroll_diff = end_bankroll - start_bankroll
+    start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    got_money = case_when(
+      start_bankroll-end_bankroll >= 0 ~ 1,
+      TRUE ~ 0
+    )
   )
 
 games_played_hands_2 <- games2 %>%
@@ -284,9 +285,12 @@ games_played_hands_2 <- games2 %>%
     num_folded = sum(did_fold),
     num_played = N-num_folded,
     proportion_played = num_played/(num_played+num_folded),
-    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
-    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
-    #bankroll_diff = end_bankroll - start_bankroll
+    start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    got_money = case_when(
+      start_bankroll-end_bankroll >= 0 ~ 1,
+      TRUE ~ 0
+    )
   )
 
 games_played_hands_3 <- games3 %>%
@@ -302,9 +306,12 @@ games_played_hands_3 <- games3 %>%
     num_folded = sum(did_fold),
     num_played = N-num_folded,
     proportion_played = num_played/(num_played+num_folded),
-    #start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
-    #end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
-    #bankroll_diff = end_bankroll - start_bankroll
+    start_bankroll = as.numeric(first(V9[which.min(as.numeric(V2))])),
+    end_bankroll = as.numeric(first(V9[which.max(as.numeric(V2))])),
+    got_money = case_when(
+      start_bankroll-end_bankroll >= 0 ~ 1,
+      TRUE ~ 0
+    )
   )
 
 #ggplot(data=games_fold_bet_1, aes(x=turn_folded, y=bet)) +
@@ -322,12 +329,15 @@ ggplot(games_played_hands_2, aes(x=proportion_played))+
 ggplot(games_played_hands_3, aes(x=proportion_played))+
   geom_histogram(bins=100)+
   coord_cartesian(xlim = c(0, 1))
+
+ggplot(games_played_hands_3, aes(x = got_money)) +
+  geom_bar() 
 ```
 
 - As experience increases, the desire to play hands tend to decrease. It seems that across the board, you shouldn't be playing much more than one hand per every four or five rounds on average. 
 
 
-It is clear from the preliminary data analysis that there is a notable difference between experienced players and newer players. However, our analysis is currently too limited to make any actual conclusions about how to reliably win at poker. We need some way for all of our variables to be incorporated into the final decision. To do this, we use Bayesian inference to improve on our findings and to make better use of this data. 
+It is clear from the preliminary data analysis that there are notable difference in the playstyles of experienced players and newer players. However, our analysis is currently too limited to make any actual conclusions about how we can reliably win at poker. Just refraining from playing a hand or making sure we don't get overconfident is good advice, but doesn't give as much information as we want. We need some way for all of our variables to be incorporated into the final decision. To do this, we use Bayesian inference to improve on our findings and to make better use of this data. 
 
 - is my starting hand playable?
 - is this pot worth the risk?
