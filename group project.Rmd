@@ -180,19 +180,65 @@ games_with_preflop_3 <- games3 %>%
 ```{r}
 par(mfrow = c(1, 3))
 ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "dodge") 
+  geom_bar(position = "dodge") +
+  labs(
+    title = "Number of Wins per Pre-Flop Hand (holdem group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+  
 ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "dodge") 
+  geom_bar(position = "dodge") +
+  labs(
+    title = "Number of Wins per Pre-Flop Hand (holdem2 group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+
 ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "dodge") 
+  geom_bar(position = "dodge") +
+  labs(
+    title = "Number of Wins per Pre-Flop Hand (holdem3 group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
 
 par(mfrow = c(1, 3))
 ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") 
+  geom_bar(position = "stack") +
+  labs(
+    title = "Total Wins/Losses per Pre-Flop Hand (holdem group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+
 ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") 
+  geom_bar(position = "stack") +
+  labs(
+    title = "Total Wins/Losses per Pre-Flop Hand (holdem2 group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+
 ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") 
+  geom_bar(position = "stack") +
+  labs(
+    title = "Total Wins/Losses per Pre-Flop Hand (holdem3 group)",
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
 
 ```
 - not including folds. these are comparing odds of winning in a showdown ONLY
@@ -320,15 +366,33 @@ games_played_hands_3 <- games3 %>%
 
 ggplot(games_played_hands_1, aes(x=proportion_played))+
   geom_histogram(bins=100)+
-  coord_cartesian(xlim = c(0, 1))
+  coord_cartesian(xlim = c(0, 1))+
+  labs(
+    title = "Histogram of How Common a Played Hand/Total Hands Ratio is in holdem group",
+    x = "Proportion of Played Hand/Total Hands",
+    y = "Count"
+  ) +
+  theme_minimal()
 
 ggplot(games_played_hands_2, aes(x=proportion_played))+
   geom_histogram(bins=100)+
-  coord_cartesian(xlim = c(0, 1))
+  coord_cartesian(xlim = c(0, 1))+
+  labs(
+    title = "Histogram of How Common a Played Hand/Total Hands Ratio is in holdem2 group",
+    x = "Proportion of Played Hand/Total Hands",
+    y = "Count"
+  ) +
+  theme_minimal()
 
 ggplot(games_played_hands_3, aes(x=proportion_played))+
   geom_histogram(bins=100)+
-  coord_cartesian(xlim = c(0, 1))
+  coord_cartesian(xlim = c(0, 1))+
+  labs(
+    title = "Histogram of How Common a Played Hand/Total Hands Ratio is in holdem3 group",
+    x = "Proportion of Played Hand/Total Hands",
+    y = "Count"
+  ) +
+  theme_minimal()
 
 ggplot(games_played_hands_3, aes(x = got_money)) +
   geom_bar() 
