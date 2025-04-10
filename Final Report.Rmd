@@ -208,7 +208,7 @@ preflop3 <- ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
   theme_minimal()
 combined_plot1 <- preflop1 + preflop2 + preflop3 +
   plot_layout(ncol = 3, guides = "collect") & 
-  theme(spacing=0, legend.position = "bottom", plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
+  theme(legend.position = "bottom", aspect.ratio = 1.5)
 
 
 preflop11 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
@@ -242,8 +242,16 @@ preflop33 <- ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
   theme_minimal()
 combined_plot2 <- preflop11 + preflop22 + preflop33 +
   plot_layout(ncol = 3, guides = "collect") & 
-  theme(legend.position = "bottom")
-grid.arrange(combined_plot1,combined_plot2)
+  theme(legend.position = "bottom", aspect.ratio = 1.5)
+#combined_plot1 / combined_plot2 + plot_layout(ncol = 1)
+
+combined_plot1
+combined_plot2
+
+#combined <- (preflop1 | preflop2 | preflop3) / (preflop11 | preflop22 | preflop33) + 
+#  plot_layout(guides = "collect") +  # Collect all legends
+#  plot_annotation(theme = theme(legend.position = "top", aspect.ratio = 2))
+#combined
 ```
 
 In the least experienced groups, players seem to have more reliance on the dealt hand to win because wins/losses are least consistent in the worst dealt hand, the off-suited non-pair. Meanwhile, the most experienced group seems to know how to handle the off-suited non-pair hands, whether it's by bluffing or finding a good final hand with a straight. This could also imply that more experienced players know when to fold to minimize their losses.
