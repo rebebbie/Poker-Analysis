@@ -490,3 +490,11 @@ By categorizing starting hands (such as pairs, suited non-pairs, and off-suited 
 For the future better model we could incorporate more specialized, complex classification. For instance, overlapping medium-range predictions could be sharpened by distinguishing between large-bet and small-bet scenarios, allowing the model to capture bet sizing nuances. Furthermore, adding more data inputs, such as more precise state observation, live betting trends or larger historical datasets into the mix will further refine and improve the predictive power and decision-making capability.
 
 ## References
+
+Heiberg, Andrew. “Using Bayesian Networks to Model a Poker Player.” University of California, San Diego, 2013, <https://cdn.aaai.org/ocs/ws/ws1085/7160-30514-1-PB.pdf.> Accessed 2025 April 9.
+
+Terry, Michael A., and Brian E. Mihok. “A Bayesian Net Inference Tool for Hidden State in Texas Hold'em Poker.” CiteSeerX, <https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=59056d41a56b98de49c265d3619881c75621dde0.> Accessed 9 April 2025.
+
+Tretyakov, Konstantin, and Liina Kamm. “Modeling Texas Hold’em Poker Strategies with Bayesian Networks.” University of Tartu, September 2009, <https://kt.era.ee/hw/bayesnets-poker/bayesnets-poker.pdf.> Accessed April 9 2025.
+
+Data for Preliminary Data Analysis: <https://poker.cs.ualberta.ca/irc_poker_database.html>
