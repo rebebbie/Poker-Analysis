@@ -174,12 +174,13 @@ For the sake of space, code to import data from holdem2 and holdem3 have been om
 I first examined the chance of winning a showdown given the two hands a player is dealt at the pre-flop stage. This is to see if luck of the draw plays a significant part in win rates. In our research, we determined that different hands can be “bucketed” into categories to reduce the total number of hand combinations and make analysis more efficient. For a starting hand, the buckets are **“Suited Non-Pair”** (same suit, different rank), **“Off-Suited Pair”** (different suit, same rank), and **“Off-Suited Non-Pair”** (different suit, different rank).
 
 ```{r echo=FALSE,warning=FALSE}
+library(gridExtra)
 library(patchwork)
 library(stringr)
 preflop1 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
   geom_bar(position = "dodge") +
   labs(
-    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem group)", width = 20),
+    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem group)", width = 15),
     x = "Wins",
     y = "Count",
     fill = "Preflop Hand"
@@ -189,7 +190,7 @@ preflop1 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
 preflop2 <- ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
   geom_bar(position = "dodge") +
   labs(
-    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem2 group)", width = 20),
+    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem2 group)", width = 15),
     x = "Wins",
     y = "Count",
     fill = "Preflop Hand"
@@ -199,52 +200,50 @@ preflop2 <- ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
 preflop3 <- ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
   geom_bar(position = "dodge") +
   labs(
-    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem3 group)", width = 20),
+    title = str_wrap("Number of Wins per Pre-Flop Hand (holdem3 group)", width = 15),
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+combined_plot1 <- preflop1 + preflop2 + preflop3 +
+  plot_layout(ncol = 3, guides = "collect") & 
+  theme(spacing=0, legend.position = "bottom", plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
+
+
+preflop11 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
+  geom_bar(position = "stack") +
+  labs(
+    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem group)", width = 15),
     x = "Wins",
     y = "Count",
     fill = "Preflop Hand"
   ) +
   theme_minimal()
 
-combined_plot <- preflop1 + preflop2 + preflop3 +
+preflop22 <- ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
+  geom_bar(position = "stack") +
+  labs(
+    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem2 group)", width = 15),
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+
+preflop33 <- ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
+  geom_bar(position = "stack") +
+  labs(
+    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem3 group)", width = 15),
+    x = "Wins",
+    y = "Count",
+    fill = "Preflop Hand"
+  ) +
+  theme_minimal()
+combined_plot2 <- preflop11 + preflop22 + preflop33 +
   plot_layout(ncol = 3, guides = "collect") & 
   theme(legend.position = "bottom")
-combined_plot
-
-preflop1 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") +
-  labs(
-    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem group)", width = 20),
-    x = "Wins",
-    y = "Count",
-    fill = "Preflop Hand"
-  ) +
-  theme_minimal()
-
-preflop2 <- ggplot(games_with_preflop_2, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") +
-  labs(
-    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem2 group)", width = 20),
-    x = "Wins",
-    y = "Count",
-    fill = "Preflop Hand"
-  ) +
-  theme_minimal()
-
-preflop3 <- ggplot(games_with_preflop_3, aes(x = wins, fill = preflop)) +
-  geom_bar(position = "stack") +
-  labs(
-    title = str_wrap("Total Wins/Losses per Pre-Flop Hand (holdem3 group)", width = 20),
-    x = "Wins",
-    y = "Count",
-    fill = "Preflop Hand"
-  ) +
-  theme_minimal()
-
-combined_plot <- preflop1 + preflop2 + preflop3 +
-  plot_layout(ncol = 3, guides = "collect") & 
-  theme(legend.position = "bottom")
-combined_plot
+grid.arrange(combined_plot1,combined_plot2)
 ```
 
 In the least experienced groups, players seem to have more reliance on the dealt hand to win because wins/losses are least consistent in the worst dealt hand, the off-suited non-pair. Meanwhile, the most experienced group seems to know how to handle the off-suited non-pair hands, whether it's by bluffing or finding a good final hand with a straight. This could also imply that more experienced players know when to fold to minimize their losses.
@@ -355,8 +354,8 @@ freq1 <- ggplot(games_played_hands_1, aes(x=proportion_played))+
   coord_cartesian(xlim = c(0, 1))+
   labs(
     title = str_wrap("Histogram of How Common a Played Hand/Total 
-                     Hands Ratio is in holdem group", width = 20),
-    x = str_wrap("Proportion of Played Hand/Total Hands", width = 20),
+                     Hands Ratio is in holdem group", width = 15),
+    x = str_wrap("Proportion of Played Hand/Total Hands", width = 15),
     y = "Count"
   ) +
   theme_minimal()
@@ -365,8 +364,8 @@ freq2 <- ggplot(games_played_hands_2, aes(x=proportion_played))+
   coord_cartesian(xlim = c(0, 1))+
   labs(
     title = str_wrap("Histogram of How Common a Played Hand/Total 
-                     Hands Ratio is in holdem2 group", width = 20),
-    x = str_wrap("Proportion of Played Hand/Total Hands", width = 20),
+                     Hands Ratio is in holdem2 group", width = 15),
+    x = str_wrap("Proportion of Played Hand/Total Hands", width = 15),
     y = "Count"
   ) +
   theme_minimal()
@@ -375,11 +374,14 @@ freq3 <- ggplot(games_played_hands_3, aes(x=proportion_played))+
   coord_cartesian(xlim = c(0, 1))+
   labs(
     title = str_wrap("Histogram of How Common a Played Hand/Total 
-                     Hands Ratio is in holdem3 group", width = 20),
-    x = str_wrap("Proportion of Played Hand/Total Hands", width = 20),
+                     Hands Ratio is in holdem3 group", width = 15),
+    x = str_wrap("Proportion of Played Hand/Total Hands", width = 15),
     y = "Count"
   ) +
   theme_minimal()
+freq1 <- freq1 + theme(plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
+freq2 <- freq2 + theme(plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
+freq3 <- freq3 + theme(plot.margin = margin(0.1,0.1,0.1,0.1, "cm"))
 combined_plot <- freq1 + freq2 + freq3
 combined_plot
 ```
@@ -438,7 +440,7 @@ The above is the BN Structure, where the arrows show causal effect of conditiona
 Let’s go through an example scenario:\
 
 | Phase | Action | Board |
-|------------------------|------------------------|------------------------|
+|----------|-------------|---------------------------------------------------|
 | Pre-Flop | Raise | N/A |
 | Flop | Large Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades] |
 | Turn | Small Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades, 3 of Clubs] |
