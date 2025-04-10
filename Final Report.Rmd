@@ -407,9 +407,9 @@ Bayesian Networks apply Bayes’ Theorem, which helps the model adjust beliefs a
 
 Bayes’ Theorem is key to how Bayesian Networks work, helping players adjust their beliefs based on new information. In this context, the prior probability reflects the initial assumption about a variable, like the strength of an opponent's hand, before any actions are taken. The likelihood represents the chance of seeing a specific action, such as a bet, if the opponent has a certain type of hand. Once an action is observed, Bayes’ Theorem helps calculate the posterior probability, which gives the updated belief about the opponent’s hand strength.
 
-![](images/clipboard-2942074169.png){width="559"}
+![](images/clipboard-2942074169.png){width="537" height="628"}
 
-![](images/clipboard-901868597.png)
+![](images/clipboard-901868597.png){width="575"}
 
 The above pictures are from ***Using Bayesian Networks to Model a Poker Player*****, (Andrew Haiberg, UCSD)**
 
@@ -444,7 +444,9 @@ This is how HMMs help players adjust their strategy over a series of hands inste
 
 Inference using a Bayesian Network. A simple way to explain how poker can use Bayesian Inference is to model an opponent’s playstyle using a Bayesian Network. Implementing the above, we first define our Nodes. We will only be implementing a Bayesian Network that models Opponent Hand Strength, but a BN that networks the game better will have several more nodes and be more suited for post-game analysis. For the sake of this paper, we will be showing a simpler example of a 1v1 Texas Hold'em Poker scenario. Let's have 4 action nodes, one for each phase of a poker round. Now in each one of these phases, the opponent may bet/raise, call, check, fold. The preflop you may call, raise, and fold. Our belief nodes will be nodes that represent hand strength at each state of the game (3 Belief Buckets of Strong Medium and Weak for efficiency purposes). We can use Bayes inference to dynamically update our belief of the opponent's hand strength. Let board cards be the cards revealed to the table each phase. Our final BN for poker is designed to infer hidden game states that help us make better decisions against our opponents. We use betting actions to calculate whether our opponent has a strong hand or not, and we can also predict their next round based on known betting tendencies or strategies. The edges of the Bayesian Network represent conditional probabilities. These conditional probabilities change as evidence updates. Bucketing comes into play by simplifying the network via grouping similar values, as the poker state space is massive (instead of focusing on “7-2 pair” vs “Pocket Aces”, we can group them by non-suited non-pairs and non-suited pairs).
 
-![The above is the BN Structure, where the arrows show causal effect. the 4 nodes in the middle node represent Hand Strength of each phase of the game. The top row are the Action Nodes, and the Bottom Board Nodes of each phase (3/4/5 community cards revealed) and prior assumption on Hand before Pre-flop.](images/clipboard-2035622209.png)
+![](images/clipboard-261684126.png)
+
+The above is the BN Structure, where the arrows show causal effect of conditional probabilities. The 4 nodes in the middle row represent Hand strength (denoted HS) of each phase of the game. The top row are the action nodes, and the bottom board nodes of each phase (3/4/5 community cards revealed) and prior assumption of opponent hand before pre-flop
 
 Let’s go through an example scenario:\
 
@@ -486,3 +488,5 @@ We as the Player should use these hand strength beliefs and incorporate it into 
 By categorizing starting hands (such as pairs, suited non-pairs, and off-suited non-pairs) and through our analysis of IRC Poker data and the application of Bayesian methods or Hidden Markov Models. We demonstrate how data-driven inference can help players better evaluate hand strength and predict opponent actions. For example, we’ve seen that while a strong starting hand offers an advantage, experienced players truly excel by making informed decisions at each betting round. In Bayesian Networks, modeling these actions provides a good estimate of opponents' hand strength and betting strategies that enable us to make decisions better than just mere 'luck of the draw'. This, in turn, integrating tools such as Hidden Markov Models enables us to model the time-dependent dynamics of poker, which keeps the predictions refined and improving. Thus, combined with probabilistic modeling, the better predictions maximize the expected returns from the game.
 
 For the future better model we could incorporate more specialized, complex classification. For instance, overlapping medium-range predictions could be sharpened by distinguishing between large-bet and small-bet scenarios, allowing the model to capture bet sizing nuances. Furthermore, adding more data inputs, such as more precise state observation, live betting trends or larger historical datasets into the mix will further refine and improve the predictive power and decision-making capability.
+
+## References
