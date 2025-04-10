@@ -10,6 +10,7 @@ date: "2025-04-12"
 output: 
   pdf_document:
     template: null
+geometry: margin=1in
 ---
 
 ## \newpage
@@ -28,15 +29,7 @@ Texas Hold'em is probably one of the best-known forms of poker and has attracted
 
 **Overview of Key Rules in Texas Hold’em**
 
-For clarity, we summarize the basic rules (Texas hold 'em, 2025):
-
-1.     **Hole cards and community cards.** Each player has two hole cards that remain hidden from their opponents. Five community cards are dealt face-up and shared by all players.
-
-2.     **Game flow.** The game begins with each player receiving two private cards. Then there are four rounds of betting, where the community cards are gradually revealed: pre-flop, flop (the first three cards), turn (the fourth card), and river (the fifth card). If two or more players remain after the final betting round, the game proceeds to a showdown, where players reveal their private cards and determine the winner.
-
-3.     **Betting Options.** During each betting round, players can choose from several actions: bet (place an opening bet), check (bet nothing), raise (increase the size of an existing bet), call (match the current bet or raise), fold (discard hand and exit the round).
-
-4.     **Hand Values.** The strength of a player’s hand is determined by the best five-card combination they can make using their two hole cards and the five community cards.
+For clarity, we summarize the basic rules (Texas hold 'em, 2025): Each player has two hole cards that remain hidden from their opponents. Five community cards are dealt face-up and shared by all players. The game begins with each player receiving two private cards. Then there are four rounds of betting, where the community cards are gradually revealed: pre-flop, flop (the first three cards), turn (the fourth card), and river (the fifth card). If two or more players remain after the final betting round, the game proceeds to a showdown, where players reveal their private cards and determine the winner. During each betting round, players can choose from several actions: bet (place an opening bet), check (bet nothing), raise (increase the size of an existing bet), call (match the current bet or raise), fold (discard hand and exit the round). The strength of a player’s hand is determined by the best five-card combination they can make using their two hole cards and the five community cards.
 
 Listed below are all the following combinations after the river and hole cards are revealed, ranked from weakest to strongest in terms of value/strength.
 
@@ -55,7 +48,7 @@ Listed below are all the following combinations after the river and hole cards a
 
 ## Preliminary Data Analysis
 
-In order to fully understand what kind of data would be useful for us to incorporate into a Bayesian Network, we performed a preliminary data analysis on a dataset compiled by the University of Alberta's Computer Poker Research Group. The specific dataset used was from the Internet Relay Chat (IRC) poker server. We used stratified sampling on **three** groups: $holdem$, $holdem2$, and $holdem3$ and examined all of the data from May 2000 for these groups. IRC groups were split by experience (moderated through having win-rate requirements) and betting pool sizes. $holdem$ is a group that contains new but enthusiastic players who are familiar with the rules of Texas Hold'em poker, but aren't quite proficient yet. $holdem2$ contains players who have met the win-rate requirements and are willing to bet more money. $holdem3$ has the least amount of players, but everyone who plays in those games have high skill and the starting bets are the highest among the IRC games.
+In order to fully understand what kind of data would be useful for us to incorporate into a Bayesian Network, we performed a preliminary data analysis on a data-set compiled by the University of Alberta's Computer Poker Research Group. The specific data-set used was from the Internet Relay Chat (IRC) poker server. We used stratified sampling on **three** groups: $holdem$, $holdem2$, and $holdem3$ and examined all of the data from May 2000 for these groups. IRC groups were split by experience (moderated through having win-rate requirements) and betting pool sizes. $holdem$ is a group that contains new but enthusiastic players who are familiar with the rules of Texas Hold'em poker, but aren't quite proficient yet. $holdem2$ contains players who have met the win-rate requirements and are willing to bet more money. $holdem3$ has the least amount of players, but everyone who plays in those games have high skill and the starting bets are the highest among the IRC games.
 
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
@@ -95,7 +88,7 @@ games_with_preflop_1 <- games1 %>%
   select(wins, preflop) 
 ```
 
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
 filenames <- list.files("data/holdem2")
 
 full_paths <- paste("data/holdem2", filenames, sep="/")
@@ -134,7 +127,7 @@ games_with_preflop_2 <- games2 %>%
   select(wins, preflop) 
 ```
 
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
 filenames <- list.files("data/holdem3")
 
 full_paths <- paste("data/holdem3", filenames, sep="/")
@@ -180,7 +173,7 @@ For the sake of space, code to import data from holdem2 and holdem3 have been om
 
 I first examined the chance of winning a showdown given the two hands a player is dealt at the pre-flop stage. This is to see if luck of the draw plays a significant part in win rates. In our research, we determined that different hands can be “bucketed” into categories to reduce the total number of hand combinations and make analysis more efficient. For a starting hand, the buckets are **“Suited Non-Pair”** (same suit, different rank), **“Off-Suited Pair”** (different suit, same rank), and **“Off-Suited Non-Pair”** (different suit, different rank).
 
-```{r echo=FALSE}
+```{r echo=FALSE,warning=FALSE}
 library(patchwork)
 library(stringr)
 preflop1 <- ggplot(games_with_preflop_1, aes(x = wins, fill = preflop)) +
@@ -262,7 +255,7 @@ For now, let's examine the frequency of play (folding vs calling) among the diff
 
 ### Frequency of Play Analysis
 
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
 filenames <- list.files("data/holdemtest")
 full_paths <- paste("data/holdemtest", filenames, sep="/")
 all_data <- lapply(full_paths, function(x) {
@@ -356,7 +349,7 @@ games_played_hands_3 <- games3 %>%
   )
 ```
 
-```{r}
+```{r echo=FALSE, warning=FALSE}
 freq1 <- ggplot(games_played_hands_1, aes(x=proportion_played))+
   geom_histogram(bins=100)+
   coord_cartesian(xlim = c(0, 1))+
@@ -407,13 +400,11 @@ Bayesian Networks apply Bayes’ Theorem, which helps the model adjust beliefs a
 
 Bayes’ Theorem is key to how Bayesian Networks work, helping players adjust their beliefs based on new information. In this context, the prior probability reflects the initial assumption about a variable, like the strength of an opponent's hand, before any actions are taken. The likelihood represents the chance of seeing a specific action, such as a bet, if the opponent has a certain type of hand. Once an action is observed, Bayes’ Theorem helps calculate the posterior probability, which gives the updated belief about the opponent’s hand strength.
 
-![](images/clipboard-2942074169.png){width="537" height="628"}
+![](images/clipboard-4232452297.png){width="369"}
 
-![](images/clipboard-901868597.png){width="575"}
+The above pictures are from ***Using Bayesian Networks to Model a Poker Player*****, (Andrew Heiberg, UCSD)**
 
-The above pictures are from ***Using Bayesian Networks to Model a Poker Player*****, (Andrew Haiberg, UCSD)**
-
-To illustrate this in a real game, let’s take a heads-up match in Texas Hold 'Em. One player has Q♠ (Queen of Spades) and 8♣ (Eight of Clubs) as their hole cards. The community cards that come out during the flop, turn, and river are 6♠ (Six of Spades), 7♠ (Seven of Spades), 10♣ (Ten of Clubs), and J♦ (Jack of Diamonds). With this setup, the player could complete a straight if the final card turns out to be an 8 or 9.
+To illustrate this in a real game, let’s take a heads-up match in Texas Hold 'Em. One player has Queen of Spades and Eight of Clubs as their hole cards. The community cards that come out during the flop, turn, and river are 6 of Spades, 7 of Spades, 10 of Clubs, and Jack of Diamonds. With this setup, the player could complete a straight if the final card turns out to be an 8 or 9.
 
 In this situation, the opponent has been raising aggressively all through the hand and now makes a big bet on the river. Considering their past moves and style of play, the player figures there’s a 70 percent chance that the opponent has a strong hand, like a straight or flush, and a 30 percent chance that they might be bluffing or holding something weak.
 
@@ -421,67 +412,63 @@ To figure out how to react to this bet, the player thinks about Bayes’ Theorem
 
 Using Bayes’ Theorem, the player works out the updated probability that the opponent is holding a strong hand based on what’s happened so far:
 
-$$
-P(\text{Heavy Bet}) = P(\text{Heavy Bet}\mid\text{Strong Hand})\times P(\text{Strong Hand}) + P(\text{Heavy Bet}\mid\text{Weak Hand})\times P(\text{Weak Hand})\\
-= (0.85 \times 0.7) + (0.4 \times 0.3)\\ = 0.715
-$$
+\begin{align}
+P(\text{Heavy Bet})&=P(\text{Heavy Bet}\mid\text{Strong Hand})*P(\text{Strong Hand})+P(\text{Heavy Bet}\mid\text{Weak Hand})*P(\text{Weak Hand})\\&=(0.85\times0.7)+(0.4\times0.3)\\&=0.715
+\end{align}
+\begin{align}
+P(\text{Strong Hand}\mid\text{Heavy Bet})&=\frac{P(\text{Heavy Bet}\mid\text{Strong Hand})*P(\text{Strong Hand})}{P(\text{Heavy Bet})}\\&=\frac{0.85*0.7}{0.715}\approx0.833
+\end{align}
 
-$$
-P(\text{Strong Hand} \mid \text{Heavy Bet}) = \frac{P(\text{Heavy Bet} \mid \text{Strong Hand}) \times P(\text{Strong Hand})}{P(\text{Heavy Bet})}\\=\frac{0.85\times0.7}{0.715}\approx0.833
-$$
-
-As a result, the updated belief is that there’s an 83.3 percent chance the opponent has a strong hand. This change in perspective really impacts how the player decides to act. If the opponent does have a strong hand, they might be holding a straight or a flush, which would probably beat the player’s hand. In that scenario, folding could be the best move. However, if the player still thinks there’s a chance the opponent is bluffing—despite the high likelihood of a strong hand—they might decide to call or even raise, depending on how much risk they’re willing to take and their overall strategy.
+The updated belief is that there’s an 83.3% chance the opponent has a strong hand. This change in perspective impacts how the player decides to act. If the opponent has a strong hand, they may be holding a straight or a flush, leading to their win. In that scenario, folding could be the best move. However, if the player still thinks there’s a chance the opponent is bluffing—despite the high likelihood of a strong hand—they might decide to call or even raise, depending on how much risk they’re willing to take and their overall strategy.
 
 While Bayesian Networks are great for looking at individual hands and making short-term decisions, Hidden Markov Models (HMMs) are better for understanding long-term behavior in games like poker. An HMM works on the idea that the system moves between hidden states, which then affect what you can actually see happening in the game.
 
 In poker, hidden states could reflect a player’s underlying strategy, like whether they’re bluffing, playing it safe, or being aggressive. Even though you can’t see these states directly, you can pick up on their influence by looking at the actions a player takes over several rounds.
 
-Using HMMs, players can spot trends in how their opponents behave. For instance, if someone often raises before the flop but tends to fold afterward, the model might suggest that they’re likely bluffing before the flop. Over time, it picks up on the chances of moving between different behaviors, helping players predict what their opponents might do next based on what they’ve seen in the past.
-
-This is how HMMs help players adjust their strategy over a series of hands instead of looking at each decision on its own. This approach is especially useful in tournaments, where grasping long-term behavior patterns can give you an edge over the competition.
+Using HMMs, players can spot trends in how their opponents behave. For instance, if someone often raises before the flop but tends to fold afterward, the model might suggest that they’re likely bluffing before the flop. Over time, it picks up on the chances of moving between different behaviors, helping players predict what their opponents might do next based on what they’ve seen in the past. This is how HMMs help players adjust their strategy over a series of hands instead of looking at each decision on its own. This approach is especially useful in tournaments, where grasping long-term behavior patterns can give you an edge over the competition.
 
 ## In-Depth Bayesian Network Structure and Inference
 
 Inference using a Bayesian Network. A simple way to explain how poker can use Bayesian Inference is to model an opponent’s playstyle using a Bayesian Network. Implementing the above, we first define our Nodes. We will only be implementing a Bayesian Network that models Opponent Hand Strength, but a BN that networks the game better will have several more nodes and be more suited for post-game analysis. For the sake of this paper, we will be showing a simpler example of a 1v1 Texas Hold'em Poker scenario. Let's have 4 action nodes, one for each phase of a poker round. Now in each one of these phases, the opponent may bet/raise, call, check, fold. The preflop you may call, raise, and fold. Our belief nodes will be nodes that represent hand strength at each state of the game (3 Belief Buckets of Strong Medium and Weak for efficiency purposes). We can use Bayes inference to dynamically update our belief of the opponent's hand strength. Let board cards be the cards revealed to the table each phase. Our final BN for poker is designed to infer hidden game states that help us make better decisions against our opponents. We use betting actions to calculate whether our opponent has a strong hand or not, and we can also predict their next round based on known betting tendencies or strategies. The edges of the Bayesian Network represent conditional probabilities. These conditional probabilities change as evidence updates. Bucketing comes into play by simplifying the network via grouping similar values, as the poker state space is massive (instead of focusing on “7-2 pair” vs “Pocket Aces”, we can group them by non-suited non-pairs and non-suited pairs).
 
-![](images/clipboard-261684126.png)
+![](images/clipboard-261684126.png){width="326"}
 
 The above is the BN Structure, where the arrows show causal effect of conditional probabilities. The 4 nodes in the middle row represent Hand strength (denoted HS) of each phase of the game. The top row are the action nodes, and the bottom board nodes of each phase (3/4/5 community cards revealed) and prior assumption of opponent hand before pre-flop
 
 Let’s go through an example scenario:\
 
-| Phase    | Action    | Board                 |
-|----------|-----------|-----------------------|
-| Pre-Flop | Raise     | N/A                   |
-| Flop     | Large Bet | [J♦, 10♦, 9♠]         |
-| Turn     | Small Bet | [J♦, 10♦, 9♠, 3♣]     |
-| River    | All-in    | [J♦, 10♦, 9♠, 3♣, Q♦] |
+| Phase | Action | Board |
+|------------------------|------------------------|------------------------|
+| Pre-Flop | Raise | N/A |
+| Flop | Large Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades] |
+| Turn | Small Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades, 3 of Clubs] |
+| River | All-in | [J of Diamonds, 10 of Diamonds, 9 of Spades, 3 of Clubs, Q of Diamonds] |
 
 Edges in the BN represent conditional dependencies between our random variables. Each node contains Conditional Probability Tables (CPTs) that specify a node’s distribution given value of parents, and the edges of which nodes influence each other. As the actions of each phase are observed, we obtain likelihood through our CPTs and dynamically update our beliefs of hand strength accordingly using Bayes Rule. In the following example, the beliefs change every phase based on action taken by the opponent in response to the board’s potential for winning combinations. Assume the likelihood Distribution in the CPTs is learned from historical data/observed frequencies, if not then using the Maximum Likelihood Equation.
 
-Given Raise Observed (Marginal Probability is certain as evidence is observed), Likelihood dist. Given by CPT:​
+Given Raise Observed (Marginal Probability is certain as evidence is observed), Likelihood dist. Given by CPT:
 
-$$P(A_{pf} = \text{Raise}\mid \text{Prior}) $$= [Strong: 0.7, Medium: 0.5, Weak: 0.1]​. We then apply Bayes Rule as covered by previous section​.​
+\begin{align}
+P(A_{pf}=\text{Raise}\mid \text{Prior}=\text{[Strong: 0.7, Medium: 0.5, Weak: 0.1]})
+\end{align}
 
-Post-Preflop HS (rounded): [S: 0.44, M: 0.52, W: 0.04]​. In other phases, repeat using new HS beliefs, dynamically changing these Hand Strength Beliefs.​ Large Bet given a Flop with high potential of straight and flush means likelihood of Strong Hand​
+We then apply Bayes Rule as covered by previous section. Post-Preflop HS (rounded): [S: 0.44, M: 0.52, W: 0.04]. In other phases, repeat using new HS beliefs, dynamically changing these HS beliefs. Large Bet given a Flop with high potential of straight and flush means likelihood of Strong Hand. below are the assumed conditional probabilities from CPTs:
 
-Conditional probabilities:
-
-$$
+\begin{align}
 P(A_f = \text{Large Bet}\mid\text{HS},B_f) = \text{[Strong: 0.6, Medium: 0.3, Weak:0.2]}\\
 P(A_t = \text{Small Bet}\mid\text{HS},B_t) = \text{[Strong: 0.3, Medium: 0.4, Weak:0.2]}\\
 P(A_r = \text{All-in}\mid\text{HS},B_r) = \text{[Strong: 0.7, Medium: 0.2, Weak:0.1]}
-$$​
+\end{align}
 
 rounded HS beliefs for each phase:
 
--   ​Flop HS = [Strong: 0.62, Medium: 0.36, Weak: 0.02]​
+-   Flop HS = [Strong: 0.62, Medium: 0.36, Weak: 0.02]
 
--   Turn HS = [Strong: 0.56, Medium: 0.43, Weak: 0.01]​
+-   Turn HS = [Strong: 0.56, Medium: 0.43, Weak: 0.01]
 
--   River HS = [Strong: 0.81, Medium: 0.18, Weak: 0.01]​
+-   River HS = [Strong: 0.81, Medium: 0.18, Weak: 0.01]
 
-We as the Player should use these hand strength beliefs and incorporate it into our own betting strategies during each phase to minimize our money loss and capitalize on money gain when possible. Of course, there are many limitations to this model. Because the implementation of only 3 belief buckets, we would have a bias towards medium hand strength, resulting in overlapping medium range predictions based on large/small bet​. A better implementation of a BN for poker would require more belief buckets, such as a scale of 1-10 or even more. This would allow better post-game analysis. Another idea is to model opponent playstyle as well given the hand strength, frequency of actions, likelihood of bluffing, etc. Our Example only considers Board Texture (potential winning combinations) and Actions to infer hand strength of an opponent's hand, but doesn't take into account the rest of the game well.​ Some other possible implementations of BN that may exist already can be in Poker assistance tools known as Poker RTA (Real Time Assistance) tools. Conceptually, some real time assistance tools may utilize the Bayesian Network to model uncertainty and an algorithm such as Monte Carlo Tree Search Algorithm to simulate these scenarios and value of each scenario.
+We as the Player should use these hand strength beliefs and incorporate it into our own betting strategies during each phase to minimize our money loss and capitalize on money gain when possible. Of course, there are many limitations to this model. Because the implementation of only 3 belief buckets, we would have a bias towards medium hand strength, resulting in overlapping medium range predictions based on large/small bet​. A better implementation of a BN for poker would require more belief buckets, such as a scale of 1-10 or even more. This would allow better post-game analysis. Another idea is to model opponent play-style as well given the hand strength, frequency of actions, likelihood of bluffing, etc. Our Example only considers Board Texture (potential winning combinations) and Actions to infer hand strength of an opponent's hand, but doesn't take into account the rest of the game well.​ Some other possible implementations of BN that may exist already can be in Poker assistance tools known as Poker RTA (Real Time Assistance) tools. Conceptually, some real time assistance tools may utilize the Bayesian Network to model uncertainty and an algorithm such as Monte Carlo Tree Search Algorithm to simulate these scenarios and value of each scenario.
 
 ## Conclusion
 
