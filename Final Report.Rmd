@@ -424,14 +424,19 @@ Using Bayes’ Theorem, the player works out the updated probability that the op
 
 \begin{align}
 P(\text{Heavy Bet})&=P(\text{Heavy Bet}\mid\text{Strong Hand})*P(\text{Strong Hand})+P(\text{Heavy Bet}\mid\text{Weak Hand})*P(\text{Weak Hand})\\&=(0.85\times0.7)+(0.4\times0.3)\\&=0.715
-\end{align}
-\begin{align}
+\end{align} \begin{align}
 P(\text{Strong Hand}\mid\text{Heavy Bet})&=\frac{P(\text{Heavy Bet}\mid\text{Strong Hand})*P(\text{Strong Hand})}{P(\text{Heavy Bet})}\\&=\frac{0.85*0.7}{0.715}\approx0.833
 \end{align}
 
 The updated belief is that there’s an 83.3% chance the opponent has a strong hand. This change in perspective impacts how the player decides to act. If the opponent has a strong hand, they may be holding a straight or a flush, leading to their win. In that scenario, folding could be the best move. However, if the player still thinks there’s a chance the opponent is bluffing—despite the high likelihood of a strong hand—they might decide to call or even raise, depending on how much risk they’re willing to take and their overall strategy.
 
-In poker, hidden states could reflect a player’s underlying strategy, like whether they’re bluffing, playing it safe, or being aggressive. For instance, if someone often raises before the flop but tends to fold afterward, the model might suggest that they’re likely bluffing before the flop. Even though you can’t see these states directly, you can pick up on their influence by looking at the actions a player takes over several rounds.
+While Bayesian Networks are great for looking at individual hands and making short-term decisions, Hidden Markov Models (HMMs) are better for understanding long-term behavior in games like poker. An HMM works on the idea that the system moves between hidden states, which then affect what you can actually see happening in the game.
+
+In poker, hidden states could reflect a player’s underlying strategy, like whether they’re bluffing, playing it safe, or being aggressive. Even though you can’t see these states directly, you can pick up on their influence by looking at the actions a player takes over several rounds.
+
+Using HMMs, players can spot trends in how their opponents behave. For instance, if someone often raises before the flop but tends to fold afterward, the model might suggest that they’re likely bluffing before the flop. Over time, it picks up on the chances of moving between different behaviors, helping players predict what their opponents might do next based on what they’ve seen in the past. This is how HMMs help players adjust their strategy over a series of hands instead of looking at each decision on its own. This approach is especially useful in tournaments, where grasping long-term behavior patterns can give you an edge over the competition.
+
+## 
 
 ## In-Depth Bayesian Network Structure and Inference
 
@@ -444,7 +449,7 @@ The above is the BN Structure, where the arrows show causal effect of conditiona
 Let’s go through an example scenario:\
 
 | Phase | Action | Board |
-|----------|-------------|---------------------------------------------------|
+|--------------|--------------|--------------------------------------------|
 | Pre-Flop | Raise | N/A |
 | Flop | Large Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades] |
 | Turn | Small Bet | [J of Diamonds, 10 of Diamonds, 9 of Spades, 3 of Clubs] |
