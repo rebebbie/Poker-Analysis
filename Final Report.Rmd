@@ -171,7 +171,7 @@ For the sake of space, code to import data from holdem2 and holdem3 have been om
 
 ### Pre-Flop to Showdown Analysis
 
-I first examined the chance of winning a showdown given the two hands a player is dealt at the pre-flop stage. This is to see if luck of the draw plays a significant part in win rates. In our research, we determined that different hands can be “bucketed” into categories to reduce the total number of hand combinations and make analysis more efficient. For a starting hand, the buckets are **“Suited Non-Pair”** (same suit, different rank), **“Off-Suited Pair”** (different suit, same rank), and **“Off-Suited Non-Pair”** (different suit, different rank).
+We first examined the chance of winning a showdown given the two cards a player is dealt at the pre-flop stage. This is to see if luck of the draw plays a significant part in win rates. In our research, we determined that different hands can be “bucketed” into categories to reduce the total number of hand combinations and make analysis more efficient. For a starting hand, the buckets are **“Suited Non-Pair”** (same suit, different rank), **“Off-Suited Pair”** (different suit, same rank), and **“Off-Suited Non-Pair”** (different suit, different rank).
 
 ```{r echo=FALSE,warning=FALSE}
 library(gridExtra)
